@@ -1,0 +1,9 @@
+[submodule "sass/bulma"]
+	path = sass/bulma
+	url = https://github.com/jgthms/bulma
+[submodule "sass/bulma-timeline"]
+	path = sass/bulma-timeline
+	url = https://github.com/Wikiki/bulma-timeline/
+[submodule "sass/bulma-carousel"]
+	path = sass/bulma-carousel
+	url = https://github.com/Wikiki/bulma-carousel/

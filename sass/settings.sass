@@ -1,0 +1,151 @@
+// Colors
+
+$black:        hsl(0, 0%, 4%)
+$black-bis:    hsl(0, 0%, 7%)
+$black-ter:    hsl(0, 0%, 14%)
+
+$grey-darker:  hsl(0, 0%, 21%)
+$grey-dark:    hsl(0, 0%, 29%)
+$grey:         hsl(0, 0%, 48%)
+$grey-light:   hsl(0, 0%, 71%)
+$grey-lighter: hsl(0, 0%, 86%)
+
+$white-ter:    hsl(0, 0%, 96%)
+$white-bis:    hsl(0, 0%, 98%)
+$white:        hsl(0, 0%, 100%)
+
+$orange:       hsl(14,  100%, 53%)
+$yellow:       hsl(48,  100%, 67%)
+$green:        hsl(141, 71%,  48%)
+$turquoise:    hsl(171, 100%, 41%)
+$cyan:         hsl(204, 86%,  53%)
+$blue:         hsl(217, 71%,  53%)
+$purple:       hsl(271, 100%, 71%)
+$red:          hsl(348, 100%, 61%)
+
+// Typography
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600'
+@font-face
+    font-family: 'The Hand'
+    font-style: normal
+    font-weight: normal
+    src: local('The Hand'), local('TheHand'), local('TheHandRegular'), url('/the-hand-regular.woff') format('woff')
+$family-sans-serif:  -apple-system, BlinkMacSystemFont, 'Source Sans Pro', sans-serif
+$family-monospace: monospace
+$render-mode: optimizeLegibility
+
+$size-1: 3rem
+$size-2: 2.5rem
+$size-3: 2rem
+$size-4: 1.5rem
+$size-5: 1.25rem
+$size-6: 1rem
+$size-7: 0.75rem
+
+$weight-light: 300
+$weight-normal: 400
+$weight-medium: 500
+$weight-semibold: 600
+$weight-bold: 700
+
+// Responsiveness
+
+// The container horizontal gap, which acts as the offset for breakpoints
+$gap: 32px
+// 960, 1152, and 1344 have been chosen because they are divisible by both 12 and 16
+$tablet: 769px
+// 960px container + 4rem
+$desktop: 900px + (2 * $gap)
+// 1152px container + 4rem
+$widescreen: 900px + (2 * $gap)
+// 1344px container + 4rem
+$fullhd: 900px + (2 * $gap)
+
+// Miscellaneous
+
+$easing: ease-out
+$radius-small: 2px
+$radius: 3px
+$radius-large: 5px
+$radius-rounded: 290486px
+$speed: 86ms
+
+// Flags
+
+$variable-columns: true
+
+$primary: #32ACA2
+
+$info: $cyan
+$success: $green
+$warning: $yellow
+$danger: $red
+
+$light: $white-ter
+$dark: $grey-darker
+
+// Invert colors
+
+$orange-invert: findColorInvert($orange)
+$yellow-invert: findColorInvert($yellow)
+$green-invert: findColorInvert($green)
+$turquoise-invert: findColorInvert($turquoise)
+$cyan-invert: findColorInvert($cyan)
+$blue-invert: findColorInvert($blue)
+$purple-invert: findColorInvert($purple)
+$red-invert: findColorInvert($red)
+
+$primary-invert: $turquoise-invert
+$info-invert: $cyan-invert
+$success-invert: $green-invert
+$warning-invert: $yellow-invert
+$danger-invert: $red-invert
+$light-invert: $dark
+$dark-invert: $light
+
+// General colors
+
+$background: $white-ter
+
+$border: $grey-lighter
+$border-hover: $grey-light
+
+// Text colors
+
+$text: $grey-dark
+$text-invert: findColorInvert($text)
+$text-light: $grey
+$text-strong: $grey-darker
+
+// Code colors
+
+$code: $red
+$code-background: $background
+
+$pre: $text
+$pre-background: $background
+
+// Link colors
+
+$link: $red
+$link-invert: $red-invert
+$link-visited: $purple
+
+$link-hover: $grey-darker
+$link-hover-border: $grey-light
+
+$link-focus: $grey-darker
+$link-focus-border: $red
+
+$link-active: $grey-darker
+$link-active-border: $grey-dark
+
+// Typography
+
+$family-primary: $family-sans-serif
+$family-code: $family-monospace
+
+$size-small: $size-7
+$size-normal: $size-6
+$size-medium: $size-5
+$size-large: $size-4
