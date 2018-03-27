@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ "main.css" | absURL }}" />
+    <script type="text/javascript" src="{{ "main.js" | absURL }}"></script>
+
+    <!-- Importing Font Awesome! -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css" integrity="sha384-v2Tw72dyUXeU3y4aM2Y0tBJQkGfplr39mxZqlTBDUZAb9BGoC40+rdFCG0m10lXk"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/fontawesome.css" integrity="sha384-q3jl8XQu1OpdLgGFvNRnPdj5VIlCvgsDQTQB6owSOHWlAurxul7f+JpUOVdAiJ5P"
+        crossorigin="anonymous">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+</head>
+
+<body>
+    <!-- START NAV -->
+    <header id="navHero" class="hero is-white">
+        <div class="hero-body is-hidden-touch">
+            <div class="container has-text-centered">
+                <a href="{{ .Site.BaseURL }}">
+                    <img src="{{ "img/logo.png" | absURL }}" alt="Logo">
+                </a>
+            </div>
+        </div>
+
+        <div class="hero-foot">
+            <nav class="navbar" role="navigation" aria-label="dropdown navigation">
+                <div class="container">
+                    <div class="navbar-brand is-hidden-desktop">
+                        <a class="navbar-item" href="{{ .Site.BaseURL }}">
+                            <img src="{{ "img/logo-small.png" | absURL }}" alt="Logo">
+                        </a>
+                        <span class="navbar-burger burger" data-target="navbarMenu">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                    </div>
+                    <div id="navbarMenu" class="navbar-menu">
+                        <div class="navbar-start">
+                            <a class="navbar-item">Aktuelles</a>
+                            <div class="navbar-item is-hoverable has-dropdown">
+                                <a class="navbar-link">Hausprojekt</a>
+                                <div class="navbar-dropdown">
+                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Wohnen</a>
+                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Bildung</a>
+                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Nachhaltigkeit</a>
+                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Selbstverwaltung</a>
+                                </div>
+                            </div>
+                            <div class="navbar-item is-hoverable has-dropdown">
+                                <a class="navbar-link">Unterstützen</a>
+                                <div class="navbar-dropdown">
+                                    <a class="navbar-item">Mach mit!</a>
+                                    <a class="navbar-item">Direktkredite</a>
+                                    <a class="navbar-item">Spenden</a>
+                                </div>
+                            </div>
+                            <div class="navbar-item is-hoverable has-dropdown">
+                                <a class="navbar-link">Über uns</a>
+                                <div class="navbar-dropdown">
+                                    <a class="navbar-item">Unser Leitbild</a>
+                                    <a class="navbar-item">Das CA heute</a>
+                                    <a class="navbar-item">Geschichte des CA</a>
+                                    <a class="navbar-item">Links & Presse</a>
+                                    <a class="navbar-item">Partner</a>
+                                </div>
+                            </div>
+                            <a class="navbar-item is-hidden-desktop" href="{{ "en" | absURL }}">
+                                <span class="icon"><i class="fas fa-language"></i></span>
+                                <span>Switch to English</span>
+                            </a>
+                        </div>
+                        <div class="navbar-end is-hidden-touch">
+                            <a class="button is-link" href="{{ "en" | absURL }}">
+                                <span class="icon">
+                                    <i class="fas fa-language"></i>
+                                </span>
+                                <span>English</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+   
+    <!-- END NAV -->
+
+    <section class="section">
+        {{ block "main" . }}
+        <!-- The part of the page that begins to differ between templates -->
+        {{ end }}
+    </section>
+
+    {{ partial "footer.html" }}
+</body>
+
+</html>

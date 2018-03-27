@@ -1,0 +1,16 @@
+h1, h2, h3, .title
+    font-family: $family-accent
+
+.content
+    @each $size in $sizes
+        $i: index($sizes, $size)
+        h#{$i}
+            +block
+            font-size: $size
+  
+// button, .button
+//     font-family: $family-accent
+  
+::selection
+    background: $primary
+    color: $white

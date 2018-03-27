@@ -1,0 +1,17 @@
+{{ define "title" }} {{ .Title }} - {{ .Site.Title }} {{ end }}
+
+
+{{ define "main" }}
+<div class="container">
+    <div class="columns">
+        <div class="column is-three-fifths">
+            <h1 class="title is-1">{{ .Title }}</h1>
+            <div class="content">
+                {{ .Content }}
+            </div>
+        </div>
+        
+        {{ partial "aside.html" }}
+    </div>
+</div>
+{{ end }}

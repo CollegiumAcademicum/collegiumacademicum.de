@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://collegiumacademicum.de"
+title = "Collegium Academicum"
+
+DefaultContentLanguage = "de"
+
+[languages]
+[languages.de]
+languageName = 'Deutsch'
+weight = 1
+
+[languages.en]
+languageName = 'English'
+weight = 2
+
+[imaging]
+quality = 75
+
+[permalinks]
+pages = "/:title/"
+post = "/:year/:month/:day/:title/"

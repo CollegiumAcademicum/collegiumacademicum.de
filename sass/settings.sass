@@ -10,9 +10,9 @@ $grey:         hsl(0, 0%, 48%)
 $grey-light:   hsl(0, 0%, 71%)
 $grey-lighter: hsl(0, 0%, 86%)
 
-$white-ter:    hsl(0, 0%, 96%)
-$white-bis:    hsl(0, 0%, 98%)
-$white:        hsl(0, 0%, 100%)
+$white-ter:    hsl(0, 0%, 99%)
+$white-bis:    hsl(0, 0%, 99%)
+$white:        hsl(0, 0%, 99%)
 
 $orange:       hsl(14,  100%, 53%)
 $yellow:       hsl(48,  100%, 67%)
@@ -29,12 +29,13 @@ $red:          hsl(348, 100%, 61%)
     font-family: 'The Hand'
     font-style: normal
     font-weight: normal
-    src: local('The Hand'), local('TheHand'), local('TheHandRegular'), url('/the-hand-regular.woff') format('woff')
+    src: local('The Hand Bold'), local('TheHandBold'), url('the-hand-bold.woff') format('woff')
 $family-sans-serif:  -apple-system, BlinkMacSystemFont, 'Source Sans Pro', sans-serif
 $family-monospace: monospace
+$family-accent: 'The Hand', sans-serif
 $render-mode: optimizeLegibility
 
-$size-1: 3rem
+$size-1: 5rem
 $size-2: 2.5rem
 $size-3: 2rem
 $size-4: 1.5rem
@@ -55,11 +56,11 @@ $gap: 32px
 // 960, 1152, and 1344 have been chosen because they are divisible by both 12 and 16
 $tablet: 769px
 // 960px container + 4rem
-$desktop: 900px + (2 * $gap)
+$desktop: 916px + (2 * $gap)
 // 1152px container + 4rem
-$widescreen: 900px + (2 * $gap)
+$widescreen: 916px + (2 * $gap)
 // 1344px container + 4rem
-$fullhd: 900px + (2 * $gap)
+$fullhd: 916px + (2 * $gap)
 
 // Miscellaneous
 
@@ -68,7 +69,7 @@ $radius-small: 2px
 $radius: 3px
 $radius-large: 5px
 $radius-rounded: 290486px
-$speed: 86ms
+$speed: 120ms
 
 // Flags
 
@@ -86,22 +87,7 @@ $dark: $grey-darker
 
 // Invert colors
 
-$orange-invert: findColorInvert($orange)
-$yellow-invert: findColorInvert($yellow)
-$green-invert: findColorInvert($green)
-$turquoise-invert: findColorInvert($turquoise)
-$cyan-invert: findColorInvert($cyan)
-$blue-invert: findColorInvert($blue)
-$purple-invert: findColorInvert($purple)
-$red-invert: findColorInvert($red)
-
-$primary-invert: $turquoise-invert
-$info-invert: $cyan-invert
-$success-invert: $green-invert
-$warning-invert: $yellow-invert
-$danger-invert: $red-invert
-$light-invert: $dark
-$dark-invert: $light
+$primary-invert: findColorInvert($primary)
 
 // General colors
 
@@ -127,15 +113,15 @@ $pre-background: $background
 
 // Link colors
 
-$link: $red
-$link-invert: $red-invert
+$link: $primary
+$link-invert: $primary-invert
 $link-visited: $purple
 
 $link-hover: $grey-darker
 $link-hover-border: $grey-light
 
 $link-focus: $grey-darker
-$link-focus-border: $red
+$link-focus-border: $primary
 
 $link-active: $grey-darker
 $link-active-border: $grey-dark
@@ -149,3 +135,12 @@ $size-small: $size-7
 $size-normal: $size-6
 $size-medium: $size-5
 $size-large: $size-4
+
+// Title
+
+$title-size: $size-1
+$title-weight: $weight-normal
+    
+// Navbar
+    
+$navbar-height: 1.4rem
