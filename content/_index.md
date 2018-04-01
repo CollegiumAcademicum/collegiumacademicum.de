@@ -3,8 +3,6 @@ title: "Collegium Academicum"
 date: 2018-03-26T03:53:46+02:00
 ---
 
-# Kurzvorstellung
-
 Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim für Heidelberg zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert. 
 
 {{< vimeo 191458892 >}}
@@ -14,10 +12,29 @@ Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein se
 
 Innovativer Holzbau und kreative Umnutzung: Auf ehemals militärisch genutzten Flächen entsteht das neue Collegium Academicum – bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. Mehr...
 
+<hr>
+<code>#navHero
+    background-image: url(img/layout/nav-bg.jpg)
+    background-position: top center
+    background-repeat: no-repeat
+
+    .navbar
+        background: $navHero-background
+
+    .navbar-item, .navbar-item .navbar-link
+        font-family: $family-accent
+        font-weight: 700
+        font-size: 1.5rem
+        padding-bottom: 0
+    
+    .navbar-end
+        padding-top: 4px
+</code>
+
 
 # Bildung
 
-Studium Generale, Propädeutikum und Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. Mehr...
+<i>Studium Generale, Propädeutikum und</i> Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. Mehr...
 
 
 # Nachhaltigkeit

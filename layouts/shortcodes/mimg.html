@@ -1,0 +1,47 @@
+<!-- image -->
+{{ $DataTarget := substr ( .Get "src" | md5 ) 0 8 }}
+
+{{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "src")) }}
+{{ $extension := index (split $original.Name ".") 1 }}
+{{ if eq $extension "svg" }}
+    {{ .Scratch.Set "image_big" ($original) }}
+    {{ .Scratch.Set "image_small" ($original) }}
+{{ else }}
+    {{ .Scratch.Set "image_big" ($original.Resize "900x q70") }}
+    {{ .Scratch.Set "image_small" ($original.Resize "700x q70") }}
+{{ end }}    
+{{ $image_small := .Scratch.Get "image_small" }}
+{{ $image_big := .Scratch.Get "image_big" }}
+<figure>
+        <img src="{{ $original.RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} data-target="modal-{{ $DataTarget }}" class="image modal-button"/>
+        {{ if or (.Get "caption") (.Get "attr")}}
+        <figcaption>
+        <p>
+        {{ with .Get "attr"}}
+            <cite>© {{.}}</cite>
+        {{ end }}
+        </p>
+    </figcaption>
+    {{ end }}
+</figure>
+
+<div id="modal-{{ $DataTarget }}" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content box">
+            <figure>
+                <img src="{{ $original.RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} class="image"/>
+                {{ if or (.Get "caption") (.Get "attr")}}
+                    <figcaption>
+                    <p>
+                    {{ .Get "caption" }}
+                    {{ with .Get "attr"}}
+                        <cite>© {{.}}</cite>
+                    {{ end }}
+                    </p>
+                </figcaption>
+                {{ end }}
+            </figure>
+        </div>
+        <button class="modal-close" aria-label="close"></button>
+</div>
+<!-- image -->

@@ -1,5 +1,9 @@
-h1, h2, h3, .title
+h1, h2, h3, h4, .title
     font-family: $family-accent
+
+main
+    h1, h2
+        text-align: center
 
 .content
     @each $size in $sizes
@@ -7,10 +11,25 @@ h1, h2, h3, .title
         h#{$i}
             +block
             font-size: $size
-  
-// button, .button
-//     font-family: $family-accent
-  
-::selection
+    h1
+        &:not(:last-child)
+            margin-bottom: 0em
+        &:not(:first-child)
+            margin-top: 1em
+    h2
+        &:not(:last-child)
+            margin-bottom: 0.0714em
+        &:not(:first-child)
+            margin-top: 1.1428em
+    h3
+        &:not(:last-child)
+            margin-bottom: 0.1666em
+        &:not(:first-child)
+            margin-top: 1.3333em
+    h4
+        &:not(:last-child)
+            margin-bottom: 0.1666em
+
+body::selection
     background: $primary
     color: $white

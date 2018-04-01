@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 679.71007 455.6666"
+   height="128.59924mm"
+   width="191.82928mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bausteine_finanz.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview81"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2685914"
+     inkscape:cx="686.38812"
+     inkscape:cy="200.70383"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3384">
+      <path
+         d="m 87.96,453.6 673.44,0 0,49.08 -673.44,0 0,-49.08 z"
+         id="path3386"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3396">
+      <path
+         d="m 87.96,453.6 673.44,0 0,49.08 -673.44,0 0,-49.08 z"
+         id="path3398"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3408">
+      <path
+         d="m 80.16,57.12 681.24,0 0,480.96 -681.24,0 0,-480.96 z"
+         id="path3410"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3420">
+      <path
+         d="m 80.16,57.12 681.24,0 0,480.96 -681.24,0 0,-480.96 z"
+         id="path3422"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3432">
+      <path
+         d="m 330.36,167.04 431.04,0 0,44.52 -431.04,0 0,-44.52 z"
+         id="path3434"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3444">
+      <path
+         d="m 330.36,167.04 431.04,0 0,44.52 -431.04,0 0,-44.52 z"
+         id="path3446"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3456">
+      <path
+         d="m 80.16,57.12 681.24,0 0,480.96 -681.24,0 0,-480.96 z"
+         id="path3458"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3468">
+      <path
+         d="m 80.16,57.12 681.24,0 0,480.96 -681.24,0 0,-480.96 z"
+         id="path3470"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3480">
+      <path
+         d="m 80.16,57.12 681.24,0 0,480.96 -681.24,0 0,-480.96 z"
+         id="path3482"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3492">
+      <path
+         d="m 80.16,441.24 653.52,0 0,52.2 -653.52,0 0,-52.2 z"
+         id="path3494"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-27.871633,-121.18211)">
+    <g
+       id="g3344"
+       transform="matrix(1.25,0,0,-1.25,-34.571424,815.80824)">
+      <path
+         d="m 318.94305,551.46816 c 51.14466,0 99.718,-22.46949 132.83619,-61.45719 l -132.83619,-112.82899 0,174.28618 z"
+         style="fill:#2d9b93;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3352"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 318.94305,551.46816 c 51.14466,0 99.718,-22.46949 132.83619,-61.45719 l -132.83619,-112.82899 0,174.28618 z"
+         style="fill:none;stroke:#ffffff;stroke-width:6.30390406;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3354"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 451.77924,490.01097 c 43.87593,-51.66255 53.82501,-124.08644 25.4951,-185.66174 l -158.33129,72.83275 132.83619,112.82899 z"
+         style="fill:#32aca2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3356"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 451.77924,490.01097 c 43.87593,-51.66255 53.82501,-124.08644 25.4951,-185.66174 l -158.33129,72.83275 132.83619,112.82899 z"
+         style="fill:none;stroke:#ffffff;stroke-width:6.30390406;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3358"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 477.27434,304.34923 c -5.26075,-11.44827 -11.75718,-22.28778 -19.3621,-32.33681 L 318.94305,377.18198 477.27434,304.34923 Z"
+         style="fill:#3ac6bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3360"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 477.27434,304.34923 c -5.26075,-11.44827 -11.75718,-22.28778 -19.3621,-32.33681 L 318.94305,377.18198 477.27434,304.34923 Z"
+         style="fill:none;stroke:#ffffff;stroke-width:6.30390406;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3362"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 457.91224,272.01242 c -58.07722,-76.75696 -167.38996,-91.89138 -244.14783,-33.80871 -23.3054,17.64486 -41.80434,40.85939 -53.78867,67.5175 l 158.96731,71.46077 138.96919,-105.16956 z"
+         style="fill:#7dd9d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3364"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 457.91224,272.01242 c -58.07722,-76.75696 -167.38996,-91.89138 -244.14783,-33.80871 -23.3054,17.64486 -41.80434,40.85939 -53.78867,67.5175 l 158.96731,71.46077 138.96919,-105.16956 z"
+         style="fill:none;stroke:#ffffff;stroke-width:6.30390406;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3366"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 159.97574,305.72121 c -39.46924,87.78817 -0.29074,190.95883 87.49744,230.42808 22.46949,10.09447 46.82885,15.31887 71.46987,15.31887 l 0,-174.28618 -158.96731,-71.46077 z"
+         style="fill:#c9efec;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3368"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 159.97574,305.72121 c -39.46924,87.78817 -0.29074,190.95883 87.49744,230.42808 22.46949,10.09447 46.82885,15.31887 71.46987,15.31887 l 0,-174.28618 -158.96731,-71.46077 z"
+         style="fill:none;stroke:#ffffff;stroke-width:6.30390406;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3370"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 392.12107,535.35882 34.83543,7.71395 4.71559,0"
+         style="fill:none;stroke:#a6a6a6;stroke-width:0.78798574;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3372"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 491.60284,400.89625 12.01159,-3.18008 4.78828,0"
+         style="fill:none;stroke:#a6a6a6;stroke-width:0.78798574;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3374"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 468.47008,287.6493 6.14208,-4.99726 4.73377,0"
+         style="fill:none;stroke:#a6a6a6;stroke-width:0.78798574;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3376"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 172.59609,471.83913 -15.44606,41.44089 -4.7156,0"
+         style="fill:none;stroke:#a6a6a6;stroke-width:0.78798574;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3378"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3380">
+        <g
+           id="g3382"
+           clip-path="url(#clipPath3384)">
+          <text
+             transform="matrix(1,0,0,-1,553.68,482.52)"
+             style="font-variant:normal;font-weight:normal;font-size:16.24799919px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3388">
+            <tspan
+               x="0 9.9925203 14.022024 19.692575 27.751583 35.794346 41.367409 49.410168 55.09697 63.155975 72.173615 76.170624 81.662445 89.721458 95.408257 104.00345 113.02109 121.08009 129.85402 138.87166 146.93066 155.81831"
+               y="0"
+               id="tspan3390">Direktkredite/Spenden</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3392">
+        <g
+           id="g3394"
+           clip-path="url(#clipPath3396)">
+          <text
+             transform="matrix(1,0,0,-1,594.36,462.26)"
+             style="font-variant:normal;font-weight:normal;font-size:16.24799919px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3400">
+            <tspan
+               x="0 7.3440962 15.663072 19.708824 22.990919 31.066175 34.218288 46.030582 50.027592 58.752769 62.798519 66.08062"
+               y="0"
+               id="tspan3402">ca. 2 Mio. €</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3404">
+        <g
+           id="g3406"
+           clip-path="url(#clipPath3408)">
+          <text
+             transform="matrix(1,0,0,-1,640.66,340.63)"
+             style="font-variant:normal;font-weight:normal;font-size:16.24799919px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3412">
+            <tspan
+               x="0 8.0265121 16.767937 22.438488 31.456127 39.515137 45.153191 58.622784 62.619793 68.160362 73.684677 81.74369 85.7407"
+               y="0"
+               id="tspan3414">Fördermittel</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3416">
+        <g
+           id="g3418"
+           clip-path="url(#clipPath3420)">
+          <text
+             transform="matrix(1,0,0,-1,647.86,320.35)"
+             style="font-variant:normal;font-weight:normal;font-size:16.22400093px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3424">
+            <tspan
+               x="0 8.0633278 12.103104 20.166431 28.229759 31.539455 43.334305 47.357857 56.151264 60.19104 63.338497"
+               y="0"
+               id="tspan3426">2,62 Mio. €</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3428">
+        <g
+           id="g3430"
+           clip-path="url(#clipPath3432)">
+          <text
+             transform="matrix(1,0,0,-1,605.62,193.58)"
+             style="font-variant:normal;font-weight:normal;font-size:16.22400093px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3436">
+            <tspan
+               x="0 8.5500479 12.589824 20.76672 28.813824 37.688351 41.825474 49.872578 53.863682 60.661537 66.210144 75.068451 83.942978 91.990082"
+               y="0"
+               id="tspan3438">Eigenleistung</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3440">
+        <g
+           id="g3442"
+           clip-path="url(#clipPath3444)">
+          <text
+             transform="matrix(1,0,0,-1,608.52,173.33)"
+             style="font-variant:normal;font-weight:normal;font-size:16.22400093px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3448">
+            <tspan
+               x="0 7.3981438 15.704832 19.744608 23.021856 31.085184 35.124962 43.18829 46.416862 58.211712 62.235264 70.963776 75.003555 78.313248"
+               y="0"
+               id="tspan3450">ca. 0,5 Mio. €</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3452">
+        <g
+           id="g3454"
+           clip-path="url(#clipPath3456)">
+          <text
+             transform="matrix(1,0,0,-1,541.32,115.92)"
+             style="font-variant:normal;font-weight:normal;font-size:16.24799919px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3460">
+            <tspan
+               x="0 9.5538244 17.872801 26.760456 34.803215 39.54763 43.54464 52.432297 60.75127 69.638931 76.544327 80.606331 88.665337 94.303391 103.07731 111.96497 120.15396"
+               y="0"
+               id="tspan3462">Bankfinanzierung</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3464">
+        <g
+           id="g3466"
+           clip-path="url(#clipPath3468)">
+          <text
+             transform="matrix(1,0,0,-1,554.23,95.64)"
+             style="font-variant:normal;font-weight:normal;font-size:16.22400093px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3472">
+            <tspan
+               x="0 7.349472 15.65616 19.695936 22.973185 31.036512 35.076286 43.090942 51.15427 54.317951 66.112801 70.103905 78.84864 82.888412 86.165665"
+               y="0"
+               id="tspan3474">ca. 4,78 Mio. €</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3476">
+        <g
+           id="g3478"
+           clip-path="url(#clipPath3480)">
+          <text
+             transform="matrix(1,0,0,-1,125.98,471.65)"
+             style="font-variant:normal;font-weight:normal;font-size:16.22400093px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3484">
+            <tspan
+               x="0 9.3936958 14.131104 26.883167 30.046848 38.223743 46.270847 51.008255 59.704319 65.382721 74.387039 82.434143 88.063873 93.644928 101.69203 107.35421 110.2583 119.652 125.36285 133.40996 142.41428 146.40538 151.93776"
+               y="0"
+               id="tspan3486">KfW geförderter Kredit</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.90859228,0,0,0.90859228,-65.8367,106.77584)"
+         id="g3488">
+        <g
+           id="g3490"
+           clip-path="url(#clipPath3492)">
+          <text
+             transform="matrix(1,0,0,-1,158.86,451.39)"
+             style="font-variant:normal;font-weight:normal;font-size:16.24799919px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3496">
+            <tspan
+               x="0 7.3440962 15.663072 19.708824 23.023417 31.098673 35.09568 43.170937 46.323048 58.135345 62.132351 70.873779 74.919525 78.201622"
+               y="0"
+               id="tspan3498">ca. 4,6 Mio. €</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
