@@ -7,3 +7,6 @@
 [submodule "sass/bulma-carousel"]
 	path = sass/bulma-carousel
 	url = https://github.com/Wikiki/bulma-carousel/
+[submodule "sass/bulma-accordion"]
+	path = sass/bulma-accordion
+	url = https://github.com/Wikiki/bulma-accordion/

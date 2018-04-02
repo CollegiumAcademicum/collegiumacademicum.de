@@ -27,8 +27,11 @@ $navHero-background: transparentize($background, 0.1)
 
 // SIDEBAR
 aside
-    .section > .card ~ .card
-        margin-top: 2rem
+    .box
+        &:not(:last-child)
+            margin-bottom: 1rem
+        &:not(:first-child)
+            margin-top: 1rem
 
 
 // FOOTER
@@ -50,5 +53,8 @@ aside
             h3, h4, p
                 +desktop
                     padding: 0 7%
-        figure
-            margin: 0
+    
+    .content
+        .columns                
+            figure
+                margin: 0

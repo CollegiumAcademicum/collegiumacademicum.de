@@ -21,10 +21,10 @@ $orange:       hsl(14,  100%, 53%)
 $yellow:       hsl(48,  100%, 67%)
 $green:        hsl(141, 71%,  48%)
 $turquoise:    hsl(171, 100%, 41%)
-$cyan:         hsl(204, 86%,  53%)
+$cyan:         $primary
 $blue:         hsl(217, 71%,  53%)
 $purple:       hsl(271, 100%, 71%)
-$red:          hsl(348, 100%, 61%)
+$red:          $secondary
 
 // Typography
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600'
@@ -76,7 +76,7 @@ $speed: 120ms
 // Flags
 $variable-columns: true
 
-$info: $cyan
+$info: $red
 $success: $green
 $warning: $yellow
 $danger: $red
@@ -149,3 +149,8 @@ $modal-content-width: 900px
 $modal-content-margin-mobile: 20px
 $modal-content-spacing-mobile: 160px
 $modal-content-spacing-tablet: 40px
+
+// Accordion
+$accordion-header-background-color: $grey-lighter
+$accordion-header-color: $grey-dark
+$accordion-header-padding: 1.5em 0.75em

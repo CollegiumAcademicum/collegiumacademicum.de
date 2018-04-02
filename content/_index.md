@@ -12,26 +12,6 @@ Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein se
 
 Innovativer Holzbau und kreative Umnutzung: Auf ehemals militärisch genutzten Flächen entsteht das neue Collegium Academicum – bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. Mehr...
 
-<hr>
-<code>#navHero
-    background-image: url(img/layout/nav-bg.jpg)
-    background-position: top center
-    background-repeat: no-repeat
-
-    .navbar
-        background: $navHero-background
-
-    .navbar-item, .navbar-item .navbar-link
-        font-family: $family-accent
-        font-weight: 700
-        font-size: 1.5rem
-        padding-bottom: 0
-    
-    .navbar-end
-        padding-top: 4px
-</code>
-
-
 # Bildung
 
 <i>Studium Generale, Propädeutikum und</i> Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. Mehr...
@@ -45,3 +25,6 @@ Nachhaltig gedacht – von Anfang an! Ein bewusster Umgang mit Ressourcen steht 
 # Selbstverwaltung
 
 Selbstentfaltung durch Selbstbestimmung! Unabhängig, gemeinschaftlich und offen – das ist das CA durch konsensorientierte und transparente Strukturen in einer demokratisch organisierten Selbstverwaltung. Mehr...
+
+> Wir unterstützen das Wohn-, Kultur und Bildungsprojekt Collegium Academicum. Mit dem Modellprojekt entsteht ein Reallabor, in dem Studierende und junge Heidelbergerinnen und Heidelberger Raum haben Ihre Ideen auszuprobieren, ihren Horizont zu erweitern und Verantwortung zu übernehmen. Dadurch wird die Stadt um eine Facette reicher und stärkt ihr Profil als Studierendenstadt und Ausgangspunkt von Inspiration.
+> <cite>Thomas Barth, Wassem Butt, Martin Ehrbar, Beate Deckwart-Boller, Karl Emer, Kristina Essig, Alexander Föhr, Dr. Jan Gradel, Andreas Grasser, Alfred Jakob, Matthias Kutsch, Dr. Vassilios Loukopoulos, Judith Marggraf, Prof. apl. Dr. Nicole Marmé, Dr. Monika Meißner, Sahra Mirow, Hans-Martin Mumm, Dr. Luitgard Nipp-Stolzenburg, Michael Pfeiffer, Werner Pfisterer, Oliver Priem, Christoph Rothfuß, Dr. Simone Schenk, Alexander Schestag, Dr. Arnulf Kurt Weiler-Lorentz, Otto Wickenhäuser, Bernd Zieger</cite>

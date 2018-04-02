@@ -9,7 +9,7 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
     <div class="column">
     </div>
     <div class="column">
-      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische, als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. Die Planung berücksichtigt den Ressourcenverbrauch nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
+      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische, als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. [Die Planung](http://dgj.eu/portfolio/dgj223iba-heidelberg-collegium-academicum/) berücksichtigt den Ressourcenverbrauch nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
     </div>
 </div>
 
