@@ -34,7 +34,7 @@ local_html:
 	hugo -b $(LOCALURL)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	hugo --gc; [ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 publish: css html
 local_publish: css local_html

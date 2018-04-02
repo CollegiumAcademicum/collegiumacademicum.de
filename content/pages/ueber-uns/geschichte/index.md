@@ -28,7 +28,7 @@ Das Begleitbuch
     <div class="column">
         Die Selbstverwaltungsstruktur des CA war von Anfang an stark an den Aufbau einer Universität angelehnt. Die Organe der Selbstverwaltung waren Konvent, studentische Vertretung, Senior, Präfekt und Zehnerrat. Der <b>Konvent</b> war die Vollversammlung der im Collegium Academicum lebenden Studenten und bildete das “höchste Organ der Willensbildung”. Der <b>Senior</b> war als Repräsentant der Selbstverwaltung für die Vertretung der Kollegiaten gegenüber dem Leiter des CA. Der <b>Präfekt</b> führte das sogenannte Hauswesen. Er, sowie der Seinor wurde für die Dauer eines Semesters vom Konvent gewählt.
     </div>
-    <div class="column is-flex-middle">
+    <div class="column">
         {{< mimg src="zimmer" alt="" attr="Universitätsarchiv Heidelberg 1950" >}}
     </div>
 </div>
@@ -36,7 +36,7 @@ Das Begleitbuch
 Die <b>studentische Vertretung</b> bestand aus einem zwöpfigen Gremium, das sich aus gewählten Vertretern der im CA vertretenen Fakultäten, dem Senior und dem Präfekten zusammensetzte. Der <b>Zehnerrat</b> stellte ein Beratungsgremium aus älteren, bewährten Kollegiaten, ehemaligen Senioren und Konventsvorständen dar. Ein für die Selbstverwaltung essentiell wichtiges Element stellte die Aufnahmekommission dar, die die Bewerber sichtete und nach dem ersten Mitgliedssemester über die endgültige Aufnahme entschied. Sie setzte sich aus dem Senior, dem Präfekten und einem Mitglied der studentischen Vertretung zusammen.
 
 <div class="columns">
-    <div class="column is-flex-middle">
+    <div class="column">
         {{< mimg src="waschraum" alt="" attr="Universitätsarchiv Heidelberg 1950" >}}
     </div>
     <div class="column">

@@ -41,7 +41,14 @@ aside
 // Main Content
 .container
     // Sides without sidebar:
-    .columns.is-centered
-        h3, h4, p
-            +desktop
-                padding: 0 7%
+    .columns
+        &:not(:last-child)
+            margin-bottom: 2rem
+        &:not(:first-child)
+            margin-top: 4rem
+        &.is-centered
+            h3, h4, p
+                +desktop
+                    padding: 0 7%
+        figure
+            margin: 0

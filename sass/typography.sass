@@ -1,6 +1,14 @@
 h1, h2, h3, h4, .title
     font-family: $family-accent
 
+cite
+    display: block
+    &::before
+        content: '\2014 \0020'
+
+figcaption
+    font-size: 0.8rem
+
 main
     h1, h2
         text-align: center
@@ -29,6 +37,9 @@ main
     h4
         &:not(:last-child)
             margin-bottom: 0.1666em
+
+    figure
+        text-align: left
 
 body::selection
     background: $primary

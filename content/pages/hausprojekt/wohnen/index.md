@@ -7,7 +7,6 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
 
 <div class="columns">
     <div class="column">
-        {{< mimg src="grundriss_eg" alt="Grundriss des Gebäudes" attr="DGJ architekten" >}}
     </div>
     <div class="column">
       Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische, als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. Die Planung berücksichtigt den Ressourcenverbrauch nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
@@ -19,11 +18,13 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
       Der innovative Holzbau bietet Platz für Individualität und Gemeinschaft: 42 Wohngemeinschaften für drei oder vier Personen sind auf die vier Etagen des Neubaus verteilt. Die oberen Wohnungen werden von einem Dachgarten oberhalb der Aula aus durch Laubengänge erreicht. Alle Wohnungen und Wege sind auf Standards barrierearmen Wohnens ausgelegt, insbesondere im Erdgeschoss. Dort befinden sich auch die Gemeinschaftsflächen: eine Werkstatt, die Aula und ein Multifunktionsraum mit Küche.
     </div>
     <div class="column">
+        {{< mimg src="grundriss" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2017" >}}
     </div>
 </div>
 
 <div class="columns">
     <div class="column">
+        {{< mimg src="einzelwg" alt="Grundriss einer einzelnen WG" attr="DGJ Architektur 2017" >}}
     </div>
     <div class="column">
       Ein flexibles Zusammenspiel von Individual- und Gemeinschaftsfläche innerhalb der Wohngemeinschaften wird durch bewegliche Wandelemente ermöglicht. Bei Einzug befinden sich alle Zimmer im ausgebauten Zustand von 14 Quadratmetern. Durch Verkleinerung der Individualfläche ist es möglich sich als Wohngemeinschaft für eine Gemeinschaftsfläche von bis zu 49 Quadratmetern zu entscheiden. Vielfältige Zwischenformen, etwa ein privater Kernbereich mit einem vorgelagerten Wohn- und Arbeitszimmer, das durch Regalwände, Vorhänge oder Ähnlichem durchlässig von der Gemeinschaftsfläche abgegrenzt ist, bieten Raum für individuelle Gestaltung.

@@ -46,28 +46,29 @@
                             <div class="navbar-item is-hoverable has-dropdown">
                                 <a class="navbar-link">Hausprojekt</a>
                                 <div class="navbar-dropdown">
-                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Wohnen</a>
-                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Bildung</a>
-                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Nachhaltigkeit</a>
-                                    <a href={{ ref . "/wohnen" }} class="navbar-item">Selbstverwaltung</a>
+                                    <a href="{{ .Site.BaseURL }}wohnen" class="navbar-item">Wohnen</a>
+                                    <a href="{{ .Site.BaseURL }}bildung" class="navbar-item">Bildung</a>
+                                    <a href="{{ .Site.BaseURL }}nachhaltigkeit" }} class="navbar-item">Nachhaltigkeit</a>
+                                    <a href="{{ .Site.BaseURL }}selbstverwaltung" }} class="navbar-item">Selbstverwaltung</a>
+                                    <a href="{{ .Site.BaseURL }}unsere-finanzierung" }} class="navbar-item">Finanzierung</a>
                                 </div>
                             </div>
                             <div class="navbar-item is-hoverable has-dropdown">
                                 <a class="navbar-link">Unterstützen</a>
                                 <div class="navbar-dropdown">
-                                    <a class="navbar-item">Mach mit!</a>
-                                    <a class="navbar-item">Direktkredite</a>
-                                    <a class="navbar-item">Spenden</a>
+                                    <a href="{{ .Site.BaseURL }}mach-mit" class="navbar-item">Mach mit!</a>
+                                    <a href="{{ .Site.BaseURL }}direktkredite" class="navbar-item">Direktkredite</a>
+                                    <a href="{{ .Site.BaseURL }}spenden" class="navbar-item">Spenden</a>
                                 </div>
                             </div>
                             <div class="navbar-item is-hoverable has-dropdown">
                                 <a class="navbar-link">Über uns</a>
                                 <div class="navbar-dropdown">
-                                    <a class="navbar-item">Unser Leitbild</a>
-                                    <a class="navbar-item">Das CA heute</a>
-                                    <a class="navbar-item">Geschichte des CA</a>
-                                    <a class="navbar-item">Links & Presse</a>
-                                    <a class="navbar-item">Partner</a>
+                                    <a href="{{ .Site.BaseURL }}leitbild" class="navbar-item">Unser Leitbild</a>
+                                    <a href="{{ .Site.BaseURL }}das-ca-heute" class="navbar-item">Das CA heute</a>
+                                    <a href="{{ .Site.BaseURL }}geschichte" class="navbar-item">Geschichte des CA</a>
+                                    <a href="{{ .Site.BaseURL }}links-presse" class="navbar-item">Links & Presse</a>
+                                    <a href="{{ .Site.BaseURL }}partner" class="navbar-item">Partner</a>
                                 </div>
                             </div>
                             <a class="navbar-item is-hidden-desktop" href="{{ "en" | absURL }}">

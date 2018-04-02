@@ -13,31 +13,27 @@
 {{ $image_small := .Scratch.Get "image_small" }}
 {{ $image_big := .Scratch.Get "image_big" }}
 <figure>
-        <img src="{{ $original.RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} data-target="modal-{{ $DataTarget }}" class="image modal-button"/>
-        {{ if or (.Get "caption") (.Get "attr")}}
-        <figcaption>
-        <p>
-        {{ with .Get "attr"}}
-            <cite>© {{.}}</cite>
-        {{ end }}
-        </p>
+    <img src="{{ $image_small.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} data-target="modal-{{ $DataTarget }}" class="image modal-button {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
+    {{ with .Get "attr" }}
+    <figcaption>
+        <cite>© {{.}}</cite>
     </figcaption>
     {{ end }}
 </figure>
 
 <div id="modal-{{ $DataTarget }}" class="modal">
         <div class="modal-background"></div>
-        <div class="modal-content box">
+        <div class="modal-content {{ if eq $extension "svg" }}box{{ end }}">
             <figure>
-                <img src="{{ $original.RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} class="image"/>
-                {{ if or (.Get "caption") (.Get "attr")}}
-                    <figcaption>
-                    <p>
-                    {{ .Get "caption" }}
+                <img src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
+                {{ if or (.Get "alt") (.Get "attr")}}
+                <figcaption>
                     {{ with .Get "attr"}}
                         <cite>© {{.}}</cite>
                     {{ end }}
-                    </p>
+                    {{ with .Get "alt"}}
+                        <span>{{.}}</span>
+                    {{ end }}
                 </figcaption>
                 {{ end }}
             </figure>

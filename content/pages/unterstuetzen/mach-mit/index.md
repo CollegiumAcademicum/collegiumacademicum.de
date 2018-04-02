@@ -3,9 +3,6 @@ title: "Mach Mit"
 date: 2018-04-02T18:13:52+02:00
 ---
 
-> Im Grunde sind es doch die Verbindungen mit Menschen, welche dem Leben seinen Wert geben.
-> Wilhelm von Humboldt
-
 <div class="columns">
     <div class="column is-flex-middle">
         Träumst Du auch von einem Ort, an dem frei…

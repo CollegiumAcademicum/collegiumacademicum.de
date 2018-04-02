@@ -23,11 +23,19 @@
 @import "typography.sass"
 @import "layout.sass"
 
-.modal-button img
+img.modal-button
     cursor: pointer
-.modal-close
-    +desktop
-        max-width: 120px
-        max-height: 120px
-        width: 120px
-        height: 120px
+    // box-shadow: $box-shadow
+.modal
+    figcaption
+        @extend .notification
+    .modal-close
+        +desktop
+            max-width: 120px
+            max-height: 120px
+            width: 120px
+            height: 120px
+
+.is-flex-middle
+    display: flex
+    align-items: center

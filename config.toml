@@ -1,6 +1,5 @@
 baseURL = "https://collegiumacademicum.de"
 title = "Collegium Academicum"
-
 DefaultContentLanguage = "de"
 
 [languages]
