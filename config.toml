@@ -15,5 +15,5 @@ weight = 2
 quality = 75
 
 [permalinks]
-pages = "/:title/"
+pages = "/:slug/"
 post = "/:year/:month/:day/:title/"

@@ -24,22 +24,19 @@ $navHero-background: transparentize($background, 0.1)
             &:hover
                 background: transparentize($navHero-background, 0.3)
 
-
 // SIDEBAR
 aside
-    .box
+    .card
         &:not(:last-child)
             margin-bottom: 1rem
         &:not(:first-child)
             margin-top: 1rem
-
 
 // FOOTER
 .footer
     background-image: url(img/layout/footer-bg.jpg)
     background-position: center
     background-repeat: no-repeat
-
 
 // Main Content
 .container
@@ -53,8 +50,24 @@ aside
             h3, h4, p
                 +desktop
                     padding: 0 7%
-    
-    .content
-        .columns                
+    main
+        .column
+            +desktop
+                text-align: right
+                &:nth-child(even)
+                    text-align: left
             figure
                 margin: 0
+
+// Modal
+.modal
+    figcaption
+        @extend .notification
+    .modal-close
+        +desktop
+            max-width: 120px
+            max-height: 120px
+            width: 120px
+            height: 120px
+img.modal-button
+    cursor: pointer

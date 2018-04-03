@@ -11,7 +11,7 @@ date: 2018-04-02T18:13:52+02:00
         - einem Ort zum Musik machen und hören, zum Mitgestalten, sich Wohlfühlen und für kulturellen Austausch?
     </div>
     <div class="column">
-        {{< mimg src="hannah" alt="Eine Studentin lacht." attr="Christian Bartle 2016" >}}
+        {{< mimg src="grufo" alt="Wir warten auf dch." attr="2017" >}}
     </div>
 </div>
 

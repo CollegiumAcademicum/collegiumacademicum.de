@@ -14,7 +14,7 @@ date: 2018-04-02T13:20:10+02:00
 
 <div class="columns">
     <div class="column">
-    {{< mimg src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" >}}
+    {{< mimg src="iba_graphic" alt="" attr="" >}}
     </div>
     <div class="column">
     Dieser Ort der Selbstentfaltung, des lebhaften Austauschs und des frei zugänglichen Wissens soll nicht nur für Studierende von besonderer Bedeutung sein. Alle Interessenten sollen die Gemeinschaftsräume nutzen können und an Kunst und Kultur, Diskussionen, Vorträgen und Musik teilnehmen können. Insbesondere das selbstverwaltete Café an der Karlsruher Straße wird ein idealer sozialer und kultureller Treffpunkt in der Nachbarschaft sein. Zudem stehen Werkstätten, Ateliers und Veranstatultungsräume Kulturschaffenden als experimentelle Wirkstätten zur Verfügung. 

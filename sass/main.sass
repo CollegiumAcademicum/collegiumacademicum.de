@@ -20,23 +20,10 @@
 @import "bulma-carousel/src/extension.sass"
 @import "bulma-accordion/src/extension.sass"
 
-// Now our own styles
-@import "typography.sass"
-@import "layout.sass"
-
-img.modal-button
-    cursor: pointer
-    // box-shadow: $box-shadow
-.modal
-    figcaption
-        @extend .notification
-    .modal-close
-        +desktop
-            max-width: 120px
-            max-height: 120px
-            width: 120px
-            height: 120px
-
 .is-flex-middle
     display: flex
     align-items: center
+    
+// Now our own styles
+@import "typography.sass"
+@import "layout.sass"
