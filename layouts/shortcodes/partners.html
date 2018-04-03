@@ -1,0 +1,16 @@
+<div class="columns is-multiline">
+    {{ range $.Site.Data.partner.partners }}
+    <div class="column is-half">
+        <div class="media box">
+            <div class="media-left">
+                <a href="{{ .link }}">
+                    <img class="image" src="{{ .img | relURL }}" />
+                </a>
+            </div>
+            <div class="media-content">
+                {{ .text }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

@@ -1,0 +1,27 @@
+<div class='carousel carousel-animated carousel-animate-slide'>
+    <div class='carousel-container'>
+        {{ range $.Site.Data.carousel.carousel }}
+        <div class='carousel-item'>
+            <div class="media">
+                <div class="media-left">
+                    <img class="image is-128x128" src="{{ .img | relURL }}" />
+                </div>
+                <div class="media-content">
+                    <blockquote>
+                        {{ .quote }}
+                        <cite>{{ .attr }}</cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="carousel-navigation is-overlay">
+        <div class="carousel-nav-left">
+            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        </div>
+        <div class="carousel-nav-right">
+            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+        </div>
+    </div>
+</div>

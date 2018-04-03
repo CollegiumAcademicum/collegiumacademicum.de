@@ -1,3 +1,10 @@
+{{ if eq .Site.Language.Lang "de" }}
+    {{ $.Scratch.Add "InvLangLink" ("en" | absURL) }}
+    {{ $.Scratch.Add "InvLang" "English" }}
+{{ else }}
+    {{ $.Scratch.Add "InvLangLink" ("" | absURL) }}
+    {{ $.Scratch.Add "InvLang" "Deutsch" }}
+{{ end }}
 <!DOCTYPE html>
 <html>
 
@@ -8,6 +15,7 @@
 
     <link rel="stylesheet" href="{{ "main.css" | absURL }}" />
     <script type="text/javascript" src="{{ "main.js" | absURL }}"></script>
+    <script type="text/javascript" src="{{ "bulma-carousel.js" | absURL }}"></script>
 
     <!-- Importing Font Awesome! -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/solid.css" integrity="sha384-29Ax2Ao1SMo9Pz5CxU1KMYy+aRLHmOu6hJKgWiViCYpz3f9egAJNwjnKGgr+BXDN" crossorigin="anonymous">
@@ -42,56 +50,29 @@
                     </div>
                     <div id="navbarMenu" class="navbar-menu">
                         <div class="navbar-start">
-                            <a class="navbar-item">Aktuelles</a>
-                            <div class="navbar-item is-hoverable has-dropdown">
-                                <a class="navbar-link">Hausprojekt</a>
-                                <div class="navbar-dropdown">
-                                    <a href="{{ .Site.BaseURL }}wohnen" class="navbar-item">Wohnen</a>
-                                    <a href="{{ .Site.BaseURL }}bildung" class="navbar-item">Bildung</a>
-                                    <a href="{{ .Site.BaseURL }}nachhaltigkeit" }} class="navbar-item">Nachhaltigkeit</a>
-                                    <a href="{{ .Site.BaseURL }}selbstverwaltung" }} class="navbar-item">Selbstverwaltung</a>
-                                    <a href="{{ .Site.BaseURL }}finanzierung" }} class="navbar-item">Finanzierung</a>
-                                    <a href="{{ .Site.BaseURL }}timeline" }} class="navbar-item">Timeline</a>
-                                </div>
-                            </div>
-                            <div class="navbar-item is-hoverable has-dropdown">
-                                <a class="navbar-link">Unterstützen</a>
-                                <div class="navbar-dropdown">
-                                    <a href="{{ .Site.BaseURL }}mach-mit" class="navbar-item">Mach mit!</a>
-                                    <a href="{{ .Site.BaseURL }}direktkredite" class="navbar-item">Direktkredite</a>
-                                    <a href="{{ .Site.BaseURL }}spenden" class="navbar-item">Spenden</a>
-                                </div>
-                            </div>
-                            <div class="navbar-item is-hoverable has-dropdown">
-                                <a class="navbar-link">Über uns</a>
-                                <div class="navbar-dropdown">
-                                    <a href="{{ .Site.BaseURL }}leitbild" class="navbar-item">Unser Leitbild</a>
-                                    <a href="{{ .Site.BaseURL }}das-ca-heute" class="navbar-item">Das CA heute</a>
-                                    <a href="{{ .Site.BaseURL }}geschichte" class="navbar-item">Geschichte des CA</a>
-                                    <a href="{{ .Site.BaseURL }}links-presse" class="navbar-item">Links & Presse</a>
-                                    <a href="{{ .Site.BaseURL }}partner" class="navbar-item">Partner</a>
-                                </div>
-                            </div>
-                            <a class="navbar-item is-hidden-desktop" href="{{ "en" | absURL }}">
+                            {{ if eq .Site.Language.Lang "de" }}
+                                {{ partial "menu.html" }}
+                            {{ else }}
+                                {{ partial "menu.en.html" }}
+                            {{ end }}
+                            <a class="navbar-item is-hidden-desktop" href="{{ $.Scratch.Get "InvLangLink" }}">
                                 <span class="icon"><i class="fas fa-language"></i></span>
-                                <span>Switch to English</span>
+                                <span>{{ $.Scratch.Get "InvLang" }}</span>
                             </a>
                         </div>
                         <div class="navbar-end is-hidden-touch">
-                            <a class="button is-link" href="{{ "en" | absURL }}">
+                            <a class="button is-link" href="{{ $.Scratch.Get "InvLangLink" }}">
                                 <span class="icon">
                                     <i class="fas fa-language"></i>
                                 </span>
-                                <span>English</span>
+                                <span>{{ $.Scratch.Get "InvLang" }}</span>
                             </a>
                         </div>
                     </div>
                 </div>
             </nav>
         </div>
-    </header>
-
-   
+    </header>   
     <!-- END NAV -->
 
     <section class="section">

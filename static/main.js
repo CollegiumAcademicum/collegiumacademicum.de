@@ -50,7 +50,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   //Accordion
-
   const MOUSE_EVENTS = ['click', 'touchstart'];
   var accordions = document.querySelectorAll('.accordions');
   [].forEach.call(accordions, function(accordion) {
@@ -77,5 +76,4 @@ document.addEventListener('DOMContentLoaded', function () {
   function getAll(selector) {
     return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
   }
-
 });

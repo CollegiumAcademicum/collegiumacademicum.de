@@ -10,7 +10,11 @@
             </div>
         </main>
         
-        {{ partial "aside.html" }}
+        {{ if eq .Site.Language.Lang "de" }}
+            {{ partial "aside.html" }}
+        {{ else }}
+            {{ partial "aside.en.html" }}
+        {{ end }}
     </div>
 </div>
 {{ end }}

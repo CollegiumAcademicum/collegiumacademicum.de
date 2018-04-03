@@ -18,8 +18,14 @@ Next clone the repo. As the repo contains submodules you will need to do:
 ```
 git clone --recursive -j8 git://github.com/CollegiumAcademicum/collegiumacademicum.de.git
 ```
+## Compiling
+We use make to build the website. For _development_ mode you have to edit the `LOCALURL` variable in the `Makefile` to point to your local webservers base URL.
 
-To build the website run: `make publish`
-
-For _development_:
-* Edit the `LOCALURL` variable in the Makefile and run `make local_html`
+| Command | Function |
+| --- | --- |
+| `make publish` | Build for online deployment |
+| `make local_publish` | Build for local development |
+| `make clean` | Clean the build folder |
+| `make html` | Build the html files for online deployment |
+| `make local_html` | Build the html files for local development |
+| `make css` | Only compile the SASS files |
