@@ -1,12 +1,12 @@
 // HEADER / NAVIGATION
-$navHero-background: transparentize($background, 0.1)
-
 #navHero
-    background-image: url(img/layout/nav-bg.jpg)
-    background-position: top center
-    background-repeat: no-repeat
+    +desktop
+        background-image: url(img/layout/nav-bg.jpg)
+        background-position: top center
+        background-repeat: no-repeat
     .navbar
-        background: $navHero-background
+        background: $background
+        box-shadow: 0 8px 8px rgba($black, 0.1)
     .navbar-item, .navbar-item .navbar-link
         font-family: $family-accent
         font-weight: 700
@@ -17,12 +17,15 @@ $navHero-background: transparentize($background, 0.1)
     .hero-body
         img
             width: 308px
-            background: $navHero-background
+            background: transparentize($background, 0.1)
             padding: 1rem
             border-radius: $radius-large
             transition: $speed
             &:hover
-                background: transparentize($navHero-background, 0.3)
+                background: transparentize($background, 0.3)
+    .navbar-brand
+        .navbar-item
+            padding: 0.4em
 
 // SIDEBAR
 aside
