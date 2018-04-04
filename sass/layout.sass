@@ -6,7 +6,7 @@
         background-repeat: no-repeat
     .navbar
         background: $background
-        box-shadow: 0 8px 8px rgba($black, 0.1)
+        box-shadow: $box-shadow
     .navbar-item, .navbar-item .navbar-link
         font-family: $family-accent
         font-weight: 700
@@ -50,7 +50,9 @@ aside
         &:not(:first-child)
             margin-top: 4rem
         &.is-centered
-            h3, h4, p
+            .content > p,
+            .content > h3,
+            .content > h4
                 +desktop
                     padding: 0 7%
     main
@@ -74,3 +76,7 @@ aside
             height: 120px
 img.modal-button
     cursor: pointer
+
+// Accordion
+.accordions .accordion .accordion-header + .accordion-body .accordion-content
+    padding: 1em 4em

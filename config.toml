@@ -17,3 +17,8 @@ quality = 75
 [permalinks]
 pages = "/:slug/"
 post = "/:year/:month/:day/:title/"
+audio ="/:slug/"
+
+[mediaTypes]
+  [mediaTypes."audio/mpeg3"]
+  suffix = "mp3"

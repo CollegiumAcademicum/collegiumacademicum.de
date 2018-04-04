@@ -22,7 +22,7 @@ Das Begleitbuch
     </div>
 </div>
 
-> Das COLLEGIUM ACADEMICUM ist von Rektor und Senat der Universität als studentische Lebens-, Arbeits- und Selbsterziehungsgemeinschaft gegründet worden … Dieser Zielsetzung entsprechend bestehen für die in die Gemeinschaft aufgenommenen Studenten Bindungen, die über die einer einfachen Wohngemeinschaft hinausgehen.”
+> Das COLLEGIUM ACADEMICUM ist von Rektor und Senat der Universität als studentische Lebens-, Arbeits- und Selbsterziehungsgemeinschaft gegründet worden … Dieser Zielsetzung entsprechend bestehen für die in die Gemeinschaft aufgenommenen Studenten Bindungen, die über die einer einfachen Wohngemeinschaft hinausgehen.
 > <cite>Rektor Bauer in der Vorläufigen Ordnung des CA vom 12. Januar 1946</cite>
 
 Im Juni 1947 wurde vom Präsidenten des Landesbezirks Baden eine Oberstudienratsstelle im CA genehmigt.

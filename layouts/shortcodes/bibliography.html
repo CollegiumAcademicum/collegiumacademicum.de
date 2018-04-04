@@ -1,0 +1,22 @@
+<h2>{{ i18n "presseartikel" }}</h2>
+<ol>
+{{ range $.Site.Data.bibliography.press.press }}
+    <li>
+        {{ .title | markdownify }}
+        <cite>{{ .cite }}</cite>
+    </li>
+{{ end }}
+</ol>
+
+<h2>{{ i18n "literatur" }}</h2>
+<ol>
+{{ range $.Site.Data.bibliography.literature.literature }}
+    <li>
+        {{ .title | markdownify }}
+        {{ if isset . "heidi" }}
+        <a href="http://katalog.ub.uni-heidelberg.de/titel/{{ .heidi }}">HEIDI</a>
+        {{ end }}
+        <cite>{{ .cite }}</cite>
+    </li>
+{{ end }}
+</ol>

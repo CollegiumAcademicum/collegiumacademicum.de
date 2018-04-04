@@ -32,7 +32,6 @@ Zurzeit haben wir inklusive Spenden bereits __750.000 Euro__ eingeworben. Vielen
     </div>
     <div class="accordion-body">
       <div class="accordion-content">
-      Es gibt zwei Möglichkeiten uns mit einem Direktkredit zu unterstützen:
       <div class="columns">
         <div class="column">
         <h3>Sofort-Direktkredit</h3>
@@ -94,22 +93,20 @@ Zurzeit haben wir inklusive Spenden bereits __750.000 Euro__ eingeworben. Vielen
       <div class="accordion-content">
       <article class="message is-info">
   <div class="message-body">
-    
-Schreiben Sie uns eine E-Mail
-
-    direktkredit@collegiumacademicum.de
-
-Auf dem Postweg
-
-    Collegium Academicum GmbH
-    Plöck 93
-    69117 Heidelberg
-
-Einfach anrufen
-
-    06221-652236
-    Bitte beachten Sie, dass wir nicht jeder Zeit erreichbar sein können. Versuchen sie es im Zweifel einfach später noch einmal.
-
+    <ul>
+      <li>Schreiben Sie uns eine E-Mail
+        <pre><a href="mailto:direktkredit@collegiumacademicum.de">direktkredit@collegiumacademicum.de</a></pre>
+      </li>
+      <li>Auf dem Postweg
+        <pre>Collegium Academicum GmbH
+Plöck 93
+69117 Heidelberg</pre>
+      </li>
+      <li>Einfach anrufen
+        <pre>06221-652236</pre>
+        <p>Bitte beachten Sie, dass wir nicht jeder Zeit erreichbar sein können. Versuchen sie es im Zweifel einfach später noch einmal.</p>
+    </li>
+</ul>
 
   </div>
 </article>

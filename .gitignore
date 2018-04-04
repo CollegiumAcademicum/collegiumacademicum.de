@@ -3,3 +3,7 @@ public/
 .sass-cache
 static/main.css
 static/main.css.map
+*xmp
+tim/
+*wav
+*mp3

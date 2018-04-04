@@ -1,8 +1,8 @@
 {{ if eq .Site.Language.Lang "de" }}
-    {{ $.Scratch.Add "InvLangLink" ("en" | absURL) }}
+    {{ $.Scratch.Add "InvLangLink" ("en" | relURL) }}
     {{ $.Scratch.Add "InvLang" "English" }}
 {{ else }}
-    {{ $.Scratch.Add "InvLangLink" ("" | absURL) }}
+    {{ $.Scratch.Add "InvLangLink" ("" | relURL) }}
     {{ $.Scratch.Add "InvLang" "Deutsch" }}
 {{ end }}
 <!DOCTYPE html>
@@ -13,12 +13,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="{{ "main.css" | absURL }}" />
-    <script type="text/javascript" src="{{ "main.js" | absURL }}"></script>
+    <link rel="stylesheet" href="{{ "main.css" | relURL }}" />
+    <script type="text/javascript" src="{{ "main.js" | relURL }}"></script>
 
     <!-- Importing Font Awesome! -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/solid.css" integrity="sha384-29Ax2Ao1SMo9Pz5CxU1KMYy+aRLHmOu6hJKgWiViCYpz3f9egAJNwjnKGgr+BXDN" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/fontawesome.css" integrity="sha384-Lyz+8VfV0lv38W729WFAmn77iH5OSroyONnUva4+gYaQTic3iI2fnUKtDSpbVf0J" crossorigin="anonymous">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 </head>
@@ -29,7 +28,7 @@
         <div class="hero-body is-hidden-touch">
             <div class="container has-text-centered">
                 <a href="{{ .Site.BaseURL }}">
-                    <img src="{{ "img/logo.png" | absURL }}" alt="Logo">
+                    <img src="{{ "img/logo.png" | relURL }}" alt="Logo">
                 </a>
             </div>
         </div>
@@ -39,7 +38,7 @@
                 <div class="container">
                     <div class="navbar-brand is-hidden-desktop">
                         <a class="navbar-item" href="{{ .Site.BaseURL }}">
-                            <img src="{{ "img/logo-small.png" | absURL }}" alt="Logo">
+                            <img src="{{ "img/logo-small.png" | relURL }}" alt="Logo">
                         </a>
                         <span class="navbar-burger burger" data-target="navbarMenu">
                             <span></span>

@@ -7,9 +7,28 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
 
 <div class="columns">
     <div class="column">
+    <figure>
+        <img src="model.jpg" alt="" data-target="modal-model" class="image modal-button"/>
+        <figcaption><cite>© DGJ Architektur 2016</cite></figcaption>
+    </figure>
+    <div id="modal-model" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content">
+            <figure>
+                <img src="model_nw" alt="" class="image"/>
+                <img src="model_w" alt="" class="image"/>
+                <img src="model_s" alt="" class="image"/>
+                <img src="model_sw" alt="" class="image"/>
+                <figcaption>
+                    <cite>© DGJ Architektur 2016</cite>
+                </figcaption>
+            </figure>
+        </div>
+        <button class="modal-close" aria-label="close"></button>
+    </div>
     </div>
     <div class="column">
-      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische, als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. [Die Planung](http://dgj.eu/portfolio/dgj223iba-heidelberg-collegium-academicum/) berücksichtigt den Ressourcenverbrauch nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
+      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische, als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. <a href="http://dgj.eu/portfolio/dgj223iba-heidelberg-collegium-academicum/">Die Planung</a> berücksichtigt den Ressourcenverbrauch nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
     </div>
 </div>
 
@@ -37,4 +56,4 @@ Die Internationale Bauausstellung (IBA) Heidelberg, die als Exzellenzinitiative 
 
 Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung begleitet wird. Der Anspruch sich auf das Wesentliche zu reduzieren (Suffizienz) drückt sich in experimentellem Wohnen, den Gemeinschaftsflächen und Räume für Kreativnutzung aus.
 
-{{< mimg src="uebersicht_red" alt="Modellansicht von West bei Nacht" attr="Maurice Frank 2016" >}}
+{{< mimg src="uebersicht_cyan" alt="Übersicht des Geländes" attr="Maurice Frank 2016" >}}

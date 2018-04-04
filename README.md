@@ -29,3 +29,13 @@ We use make to build the website. For _development_ mode you have to edit the `L
 | `make html` | Build the html files for online deployment |
 | `make local_html` | Build the html files for local development |
 | `make css` | Only compile the SASS files |
+
+## Shortcodes
+You can use the following custom shortcodes in the content markdown files to get programmatic content blocks:
+
+| Shortcode | function |
+| --- | --- |
+| `{{< mimg src="" alt="" attr="" >}}` | Includes an image and adds the modal popup.  |
+| `{{< carousel >}}` | Prints the quote carousel. Data can be added/edited in `data/carousel.toml` |
+| `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/partner.toml` |
+| `{{< partners >}}` | Prints the list of partners. Data can be added/edited in `data/timeline.toml` |

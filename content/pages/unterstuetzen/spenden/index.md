@@ -14,14 +14,14 @@ Spenden an das Projekt – zum Zweck von Planung und Bau des Collegium Academicu
     </div>
     <div class="column">
         <div class="notification is-primary">
-            Telefon: 06221-652236
-            E-Mail: spenden@collegiumacademicum.de
-            <hr>
-            Spendenkonto (nicht für Direktkredite):
-            Förderverein Collegium Academicum Heidelberg e.V.
-            IBAN: DE92 4306 0967 6036 6733 00
-            GLS Gemeinschaftsbank eG
-            Verwendungszweck: Spende CA, Ihr Name
+            <pre class="is-size-7">Telefon: 06221-652236
+E-Mail: <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>
+
+Spendenkonto (nicht für Direktkredite):
+Förderverein Collegium Academicum Heidelberg e.V.
+IBAN: DE92 4306 0967 6036 6733 00
+GLS Gemeinschaftsbank eG
+Verwendungszweck: Spende CA, Ihr Name</pre>
         </div>
     </div>
 </div>

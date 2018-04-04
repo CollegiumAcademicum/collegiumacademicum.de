@@ -16,6 +16,12 @@ main
         h1, &> h2
             text-align: center
 
+.color-block
+    @extend .notification
+    @extend .is-danger
+    font-weight: 600
+    padding: 1.25rem 6rem
+    
 .content
     @each $size in $sizes
         $i: index($sizes, $size)
@@ -43,3 +49,22 @@ main
 
     figure
         text-align: left
+
+    blockquote
+        position: relative
+        border-left-color: $secondary
+        padding-left: 3rem
+
+        cite
+            font-size: 1.1rem
+
+    blockquote::before
+        color: $secondary
+        content: "\201C"
+        font-size: 4em
+        position: absolute
+        left: 10px
+        top: -10px
+
+td[align="right"]
+    text-align: right!important

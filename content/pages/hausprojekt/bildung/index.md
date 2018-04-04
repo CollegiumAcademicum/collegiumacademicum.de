@@ -3,7 +3,8 @@ title: "Bildung"
 date: 2018-04-02T13:20:17+02:00
 ---
 
-## Bildung ist im CA selbstbestimmt – und ganzheitlich.
+<div class="color-block">Bildung ist im CA selbstbestimmt – und ganzheitlich.</div>
+
 Ein für Außenstehende offenes, von den Bewohnenden ausgearbeitetes, studienbegleitendes Tutoriums- und Veranstaltungsprogramm, das Studium Generale, soll die Interessen der Studierenden widerspiegeln und sich mit aktuellen gesellschaftlichen Herausforderungen auseinandersetzen. Ein differenzierter Blick auf das eigene Fach und die Aufgaben der Wissenschaft stehen ebenso im Fokus wie konkrete Fragen der Nachhaltigkeit. Dabei soll sowohl der wissenschaftliche Nachwuchs intern gefördert werden, als auch externe Vortragende aus verschiedenen Lebensbereichen zu Wort kommen.
 
 ## Propädeutikum Bildungsprogramm
@@ -18,7 +19,7 @@ Ein für Außenstehende offenes, von den Bewohnenden ausgearbeitetes, studienbeg
 
 Ein hierfür eigens gegründeter wissenschaftlicher Beirat, bestehend aus ehemaligen und aktiven Professoren und Wissenschaftlern soll das Bildungskonzept beraten und aktiv unterstützen.
 
-> Bildung wird hierbei nicht nur als eine Ausbildung, sondern als Bildung von freien, mündigen Bürgern verstanden:
+<div class="color-block">Bildung wird hierbei nicht nur als eine Ausbildung, sondern als Bildung von freien, mündigen Bürgern verstanden:</div>
 
 Über akademische Inhalte hinaus werden praktische Fähigkeiten und persönliche Entwicklung gefördert. _Projektorientiertes Lernen_ – das bietet das CA vor allem als großes, selbstverwaltetes Projekt in das jeder sich einbringt und Verantwortung übernimmt. In Werkstätten und Gemeinschaftsräume können zudem kulturelle und konkret-praktische Initiativen von Arbeits- und Projektgruppen aller Art entstehen.
 
