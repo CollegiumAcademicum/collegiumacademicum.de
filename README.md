@@ -30,6 +30,9 @@ We use make to build the website. For _development_ mode you have to edit the `L
 | `make local_html` | Build the html files for local development |
 | `make css` | Only compile the SASS files |
 
+### Audio files
+The audio files for the CA Ausstellung are way to big to put them in the Git project. Also having them in the content folder makes hugo considerably slower just because theyre huge. Therefore they have to be put into the web space by hand. Into the `/audio/` folder.
+
 ## Shortcodes
 You can use the following custom shortcodes in the content markdown files to get programmatic content blocks:
 

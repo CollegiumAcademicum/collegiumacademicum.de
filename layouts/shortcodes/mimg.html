@@ -28,11 +28,11 @@
                 <img src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
                 {{ if or (.Get "alt") (.Get "attr")}}
                 <figcaption>
+                    {{ with .Get "alt"}}
+                    <span>{{.}}</span>
+                    {{ end }}
                     {{ with .Get "attr"}}
                         <cite>© {{.}}</cite>
-                    {{ end }}
-                    {{ with .Get "alt"}}
-                        <span>{{.}}</span>
                     {{ end }}
                 </figcaption>
                 {{ end }}

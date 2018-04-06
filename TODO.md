@@ -1,6 +1,6 @@
 # Große Sachen
 * Homepage / Startseite
-* Blog noch nicht vorhanden (Aktuelles..)
+* Blog noch nicht vorhanden (Aktuelles..) __DONE__
 * Englische version...
 * Programmatisches:
     - Newsletter

@@ -11,14 +11,13 @@ Von der Gründung im Jahr 1945 bis zur Räumung 1978 – der Versuch einige Aspe
 {{< mimg src="seminarstraße" alt="Das Gebäude des alten CA in der Seminarstraße." >}}
 
 Gegründet wurde das Collegium Academicum 1945 durch den damaligen Rektor Bauer. Der erste Leiter des CA wurde Dr. Joachim Boeckh, welcher auch die ersten _„Leitsätze für das zu errichtende Collegium Accademicum“_ verfasste. Hintergrund stellte die Forderung der amerikanischen Besatzungsmacht dar, den universitären Betrieb zeitnah nach dem Kriegsende wieder aufzunehmen. Im Zuge des Re-Education-Programms sollte eine demokratische Elite ausgebildet werden. Da jedoch viele Häuser durch den Krieg zerstört waren und für viele potentielle Studierende kein Wohnraum vorhanden war, forderte Rektor Bauer die amerikanischen Besatzer auf, ihm ein geeignetes Gebäude zur Verfügung zu stellen. Dieses Gebäude sollte das um 1750 erbaute Gebäude in der heutigen Seminarstaße werden, wo die Mitglieder des CA (des damaligen Vereins) bis März 1978 wohnten. Diese Möglichkeit eines Studentenwohnheims war jedoch von amerikanischer Seite aus an Bedingungen geknüpft. So wurde im Einvernehmen beider Parteien ein sogenanntes „Kollegienhaus“ nach amerikanischem Vorbild eingerichtet.
-Das Begleitbuch
 
 <div class="columns">
     <div class="column">
         {{< mimg src="bp_freudenberg" alt="" attr="Universitätsarchiv Heidelberg 1949" >}}
     </div>
     <div class="column is-flex-middle">
-        Die Studierenden, die häufig heimgekehrte Soldaten waren, sollten nach den teils traumatischen Erfahrungen des Krieges und der nationalsozialistischen Diktatur Demokratie selbst erfahren und durch praktische Übung lernen und politische Verantwortung übernehmen, dabei sei die Einbindung in die Institution der Universität sehr wichtig. Joachim Boeckh notiert in einem Programm im Oktober 1945 die Föderung begabter und würdiger Studenten, sowie die Bildung einer wissenschaftlich gegründeten führenden Akademikerschicht. Nicht zuletzt ist das Heidelberger Collegium Academicum, als Erstes von vielen anderen Kollegienhäusern in deutschen Universitätsstädten, Teil des Re-Education-Programms der Amerikaner. 
+        Die Studierenden, die häufig heimgekehrte Soldaten waren, sollten nach den teils traumatischen Erfahrungen des Krieges und der nationalsozialistischen Diktatur Demokratie selbst erfahren und durch praktische Übung lernen und politische Verantwortung übernehmen, dabei sei die Einbindung in die Institution der Universität sehr wichtig. Joachim Boeckh notiert in einem Programm im Oktober 1945 die Föderung begabter und würdiger Studenten, sowie die Bildung einer wissenschaftlich gegründeten führenden Akademikerschicht. Nicht zuletzt ist das Heidelberger Collegium Academicum, als Erstes von vielen anderen Kollegienhäusern in deutschen Universitätsstädten, Teil des Re-Education-Programms der Amerikaner.
     </div>
 </div>
 
@@ -70,8 +69,6 @@ Die Kooperation zwischen Universität und Bewohner*innen funktionierte gut, bis 
 </div>
 
 Ab 1970 mehren sich die kritischen Stimmen, wie “Der frühere Anspruch der Kollegiaten an sich selbst war verkümmert zu einer privaten interesselosen Gemeinschaftsduselei, die jeden wissenschaftlichen oder gesellschaftlichen Auftrag verächtlich zurückwies,” (Stefan Summerer; 1970). Die Senatskommission vermerkt hierzu: “Die Auflösung bedeutet das Eingeständnis des Scheiterns eines Projektes, das einst von Hoffnungen getragen war.” (Bericht der Senatskommission; 12.Februar 1975). Dieser Sichtweise wurde von den Studierenden heftig widersprochen. Diese sahen vielmehr eine politisch motivierte Absicht, denn die Universitätsverwaltung brauchte dringend ein zusätzliches Gebäude. Begründet wurde die Auflösung indes damit, dass das CA ein Brutherd staatsfeindlicher Gruppen sei. Anders als vom damaligen Rektorat und der Landesregierung suggeriert, waren im CA jedoch undogmatische sowie unorganisierte Studierende tonangebend (FAZ Nr. 152). Das CA war ein lebendiger Ort studentischer Kultur, der vor allem von den Spontis dominiert wurde.
-
-{{< youtube YcMPq-YAGwE >}}
 
 Unbeeindruckt davon beschloss der Senat der Universität Heidelberg am 18.2.1975, mit Beginn der Renovierungsarbeiten im Gebäude Seminarstr. 2, die Institution Collegium Academicum aufzulösen. Dennoch fiel die Abstimmung zur Auflösung des CA im Senat denkbar knapp aus. Im Oktober 1976 wurde die Umwidmung des Gebäudes zur neuen zentralisierten Universitätsverwaltung beschlossen. Nach Entscheidungen der Verwaltungsgerichte 1978 wurden diese Beschlüsse rechtskräftig. Am 6. März 1978 wurde das Collegium Academicum schließlich mit einer groß angelegten Räumungsaktion gezwungener Maßen geschlossen. Im Morgengrauen stürmten über 1500 Polizisten eines Sondereinsatzkommandos das Haus und räumten die darin friedlich ausharrenden Studierenden und Sympathisierenden. Im Zuge des Polizeieinsatzes wurden alle Möbel zerstört, um eine Rückkehr zu erschweren.
 

@@ -2,7 +2,7 @@
     <div class="section">
         <div class="card">
             <div class="card-image">
-                <img class="image" src="{{ "img/layout/infopaket.jpg" | absURL }}">
+                <img class="image" src="{{ "img/layout/infopaket.jpg" | relURL }}">
             </div>
             <div class="card-content">
                 <p class="title is-3 is-marginless">Infopaket</p>
@@ -36,7 +36,7 @@
 
         <div class="card">
             <div class="card-image">
-                <img class="image" src="{{ "img/layout/einziehen.jpg" | absURL }}" alt="Die Projektgruppe bildet mit ihren Händen einen Stern.">
+                <img class="image" src="{{ "img/layout/einziehen.jpg" | relURL }}" alt="Die Projektgruppe bildet mit ihren Händen einen Stern.">
             </div>
             <div class="card-content">
                 <p class="title is-3 is-marginless">Einziehen</p>
@@ -47,10 +47,10 @@
 
         <div class="card">
             <div class="card-image">
-                <img class="image" src="{{ "img/layout/brochure.jpg" | absURL }}" alt="Eine Photoaufnahme der Broschüre.">
+                <img class="image" src="{{ "img/layout/brochure.jpg" | relURL }}" alt="Eine Photoaufnahme der Broschüre.">
             </div>
             <div class="card-content">
-                <button class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</button>
+                <a href="{{ "docs/brochure.pdf" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
             </div>
         </div>
     </div>
