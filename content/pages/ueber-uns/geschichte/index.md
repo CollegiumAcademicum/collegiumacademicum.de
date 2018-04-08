@@ -8,7 +8,7 @@ slug: "geschichte"
 
 Von der Gründung im Jahr 1945 bis zur Räumung 1978 – der Versuch einige Aspekte der vielseitigen und komplexen Geschichte des CA darzustellen.
 
-{{< mimg src="seminarstraße" alt="Das Gebäude des alten CA in der Seminarstraße." >}}
+{{< mimg src="seminarstrasse" alt="Das Gebäude des alten CA in der Seminarstraße." >}}
 
 Gegründet wurde das Collegium Academicum 1945 durch den damaligen Rektor Bauer. Der erste Leiter des CA wurde Dr. Joachim Boeckh, welcher auch die ersten _„Leitsätze für das zu errichtende Collegium Accademicum“_ verfasste. Hintergrund stellte die Forderung der amerikanischen Besatzungsmacht dar, den universitären Betrieb zeitnah nach dem Kriegsende wieder aufzunehmen. Im Zuge des Re-Education-Programms sollte eine demokratische Elite ausgebildet werden. Da jedoch viele Häuser durch den Krieg zerstört waren und für viele potentielle Studierende kein Wohnraum vorhanden war, forderte Rektor Bauer die amerikanischen Besatzer auf, ihm ein geeignetes Gebäude zur Verfügung zu stellen. Dieses Gebäude sollte das um 1750 erbaute Gebäude in der heutigen Seminarstaße werden, wo die Mitglieder des CA (des damaligen Vereins) bis März 1978 wohnten. Diese Möglichkeit eines Studentenwohnheims war jedoch von amerikanischer Seite aus an Bedingungen geknüpft. So wurde im Einvernehmen beider Parteien ein sogenanntes „Kollegienhaus“ nach amerikanischem Vorbild eingerichtet.
 
