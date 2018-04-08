@@ -1,12 +1,12 @@
 # Große Sachen
-* Homepage / Startseite
+* Homepage / Startseite __DONE__
 * Blog noch nicht vorhanden (Aktuelles..) __DONE__
 * Englische version...
 * Programmatisches:
-    - Newsletter
-    - Infopaket
-    - Einziehen
-* Ausstellungs-MP3 Seiten
+    - Newsletter __DONE__
+    - Infopaket _Kommt rein wenn fertig_
+    - Einziehen _Was genau soll hier eigentlich passieren?_
+* Ausstellungs-MP3 Seiten __DONE__
 
 # Einzelne Seiten
 * Homepage
@@ -34,8 +34,9 @@
         - Seitenkonzept ???
 
 # Einzelne Fragen
-* Welche Seiten haben Sidebar? _Problem_: Mit sidebar ist die startseite zu schmal
+* Welche Seiten haben Sidebar? __Problem__: Mit sidebar ist die startseite zu schmal
 * Menü neu organisieren?
-* Wie die PDFs einbauen? wieder einbinden oder einfach verlinken...
-* Wo soll das Gemeinderatszitat hin? (grad Startseite)
+* Wie die PDFs einbauen? wieder einbinden oder einfach verlinken... __DONE__
+    - Einfach verlinken... meine meinung ^^
+* Wo soll das Gemeinderatszitat hin? (grad partner)
 * Wo soll das Zitatekarusell hin? (grad Startseite)

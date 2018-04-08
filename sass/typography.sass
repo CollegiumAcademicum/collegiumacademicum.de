@@ -1,3 +1,6 @@
+.is-font-accent
+    font-family: $family-accent!important
+
 h1, h2, h3, h4, .title
     font-family: $family-accent
 
@@ -21,7 +24,7 @@ main
     @extend .is-danger
     font-weight: 600
     padding: 1.25rem 6rem
-    
+
 .content
     @each $size in $sizes
         $i: index($sizes, $size)
