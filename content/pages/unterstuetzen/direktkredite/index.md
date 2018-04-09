@@ -12,8 +12,8 @@ Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
 ## Aktueller Stand
-<progress class="progress is-large is-danger" value="740" max="1000">740.000 €</progress>
-Zurzeit haben wir inklusive Spenden bereits __750.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Vom Beginn des Herbstes bis zum Ende letzten Jahres konnten wir 400.000 Euro Direktkredite sammeln. Entsprechend haben wir uns ein ambitioniertes, nächstes Zwischenziel gesteckt: __bis zum 31. März möchten wir die 1 Mio. Euro Marke erreichen!__
+<progress class="progress is-large is-danger" value="750" max="2000">750.000 €</progress>
+Zurzeit haben wir inklusive Spenden bereits __750.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Vom Beginn des Herbstes bis zum Ende letzten Jahres konnten wir 400.000 Euro Direktkredite sammeln.
 
 <section class="accordions">
   <div class="accordion is-active">

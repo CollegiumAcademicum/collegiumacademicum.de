@@ -2,6 +2,7 @@ BASEDIR=$(CURDIR)
 CONTENTDIR=$(BASEDIR)/content
 STATICDIR=$(BASEDIR)/static
 OUTPUTDIR=$(BASEDIR)/public
+OUTPUTDIR_UPLOAD=$(BASEDIR)/upload
 SASSDIR=$(BASEDIR)/sass
 
 LOCALURL=http://localhost/~morris/ca/public/
@@ -28,10 +29,10 @@ css:
 	sass $(SASSDIR)/main.sass $(STATICDIR)/main.css
 
 html:
-	hugo
+	hugo -d $(OUTPUTDIR_UPLOAD)
 
 local_html:
-	hugo -b $(LOCALURL)
+	hugo -b $(LOCALURL) -d $(OUTPUTDIR)
 
 clean:
 	hugo --gc; [ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)

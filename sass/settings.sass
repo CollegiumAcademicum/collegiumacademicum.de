@@ -17,15 +17,6 @@ $white-ter:    hsl(0, 0%, 99%)
 $white-bis:    hsl(0, 0%, 99%)
 $white:        hsl(0, 0%, 99%)
 
-$orange:       hsl(14,  100%, 53%)
-$yellow:       hsl(48,  100%, 67%)
-$green:        hsl(141, 71%,  48%)
-$turquoise:    hsl(171, 100%, 41%)
-$cyan:         $primary
-$blue:         hsl(217, 71%,  53%)
-$purple:       hsl(271, 100%, 71%)
-$red:          $secondary
-
 // Typography
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600'
 @font-face
@@ -75,21 +66,16 @@ $speed: 120ms
 
 // Flags
 $variable-columns: true
-
-$info: $red
-$success: $green
-$warning: $yellow
-$danger: $red
-
 $light: $white-ter
 $dark: $grey-darker
 
 // Invert colors
-
 $primary-invert: findColorInvert($primary)
+$secondary-invert: findColorInvert($secondary)
+$light-invert: $dark
+$dark-invert: $light
 
 // General colors
-
 $background: $white-ter
 
 $border: $grey-lighter
@@ -102,16 +88,13 @@ $text-light: $grey
 $text-strong: $grey-darker
 
 // Code colors
-$code: $red
-$code-background: $background
-
 $pre: $text
 $pre-background: $background
 
 // Link colors
 $link: $primary
 $link-invert: $primary-invert
-$link-visited: $purple
+$link-visited: $primary
 
 $link-hover: $grey-darker
 $link-hover-border: $grey-light
@@ -154,3 +137,6 @@ $modal-content-spacing-tablet: 40px
 $accordion-header-background-color: $grey-lighter
 $accordion-header-color: $grey-dark
 $accordion-header-padding: 1.5em 0.75em
+
+
+$colors: ("white": ($white, $black), "black": ($black, $white), "light": ($light, $light-invert), "dark": ($dark, $dark-invert), "primary": ($primary, $primary-invert), "secondary": ($secondary, $secondary-invert), "link": ($link, $link-invert))

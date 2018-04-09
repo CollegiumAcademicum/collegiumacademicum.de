@@ -1,5 +1,6 @@
 resources/
 public/
+upload/
 .sass-cache
 static/main.css
 static/main.css.map
