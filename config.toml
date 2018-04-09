@@ -13,7 +13,8 @@ languageName = 'English'
 weight = 2
 
 [imaging]
-quality = 75
+quality = 60
+resampleFilter = "lanczos"
 
 [permalinks]
 pages = "/:slug/"

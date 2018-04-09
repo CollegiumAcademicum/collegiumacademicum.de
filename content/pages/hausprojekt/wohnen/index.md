@@ -7,22 +7,14 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
 
 <div class="columns">
     <div class="column">
-    <figure>
-        <img src="model.jpg" alt="" data-target="modal-model" class="image modal-button"/>
-        <figcaption><cite>© DGJ Architektur 2016</cite></figcaption>
-    </figure>
+    {{< img src="model" attr="DGJ Architektur 2016" class="modal-button" data-target="modal-model" >}}
     <div id="modal-model" class="modal">
         <div class="modal-background"></div>
         <div class="modal-content">
-            <figure>
-                <img src="model_nw" alt="" class="image"/>
-                <img src="model_w" alt="" class="image"/>
-                <img src="model_s" alt="" class="image"/>
-                <img src="model_sw" alt="" class="image"/>
-                <figcaption>
-                    <cite>© DGJ Architektur 2016</cite>
-                </figcaption>
-            </figure>
+            {{< img src="model_nw" attr="DGJ Architektur 2016" >}}
+            {{< img src="model_w" attr="DGJ Architektur 2016" >}}
+            {{< img src="model_s" attr="DGJ Architektur 2016" >}}
+            {{< img src="model_sw" attr="DGJ Architektur 2016" >}}
         </div>
         <button class="modal-close" aria-label="close"></button>
     </div>

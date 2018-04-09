@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="{{ "main.css" | relURL }}" />
-    <script type="text/javascript" src="{{ "main.js" | relURL }}"></script>
+    <script async type="text/javascript" src="{{ "main.js" | relURL }}"></script>
 
     <!-- Importing Font Awesome! -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
@@ -27,7 +27,7 @@
     <header id="navHero" class="hero is-white">
         <div class="hero-body is-hidden-touch">
             <div class="container has-text-centered">
-                <a href="{{ .Site.BaseURL }}">
+                <a href="{{ "/" | relLangURL }}">
                     <img src="{{ "img/logo.png" | relURL }}" alt="Logo">
                 </a>
             </div>
@@ -37,7 +37,7 @@
             <nav class="navbar" role="navigation" aria-label="dropdown navigation">
                 <div class="container">
                     <div class="navbar-brand is-hidden-desktop">
-                        <a class="navbar-item" href="{{ .Site.BaseURL }}">
+                        <a class="navbar-item" href="{{ "/" | relLangURL }}">
                             <img src="{{ "img/logo-small.png" | relURL }}" alt="Logo">
                         </a>
                         <span class="navbar-burger burger" data-target="navbarMenu">

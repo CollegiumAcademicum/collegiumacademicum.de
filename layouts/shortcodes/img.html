@@ -1,0 +1,13 @@
+<!-- image -->
+{{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "src")) }}
+{{ .Scratch.Set "image" ($original.Resize "900x q60 Lanczos") }}
+{{ $image := .Scratch.Get "image" }}
+<figure>
+    <img src="{{ $image.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image{{ with .Get "class" }} {{.}}{{ end }}"{{ with .Get "data-target" }} data-target="{{.}}"{{ end }}/>
+    {{ with .Get "attr" }}
+    <figcaption>
+        <cite>© {{.}}</cite>
+    </figcaption>
+    {{ end }}
+</figure>
+<!-- image -->

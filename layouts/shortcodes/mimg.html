@@ -7,8 +7,8 @@
     {{ .Scratch.Set "image_big" ($original) }}
     {{ .Scratch.Set "image_small" ($original) }}
 {{ else }}
-    {{ .Scratch.Set "image_big" ($original.Resize "900x q70") }}
-    {{ .Scratch.Set "image_small" ($original.Resize "700x q70") }}
+    {{ .Scratch.Set "image_big" ($original.Resize "900x q60 Lanczos") }}
+    {{ .Scratch.Set "image_small" ($original.Resize "700x q60 Lanczos") }}
 {{ end }}    
 {{ $image_small := .Scratch.Get "image_small" }}
 {{ $image_big := .Scratch.Get "image_big" }}
