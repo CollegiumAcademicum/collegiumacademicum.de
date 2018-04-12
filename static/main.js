@@ -40,6 +40,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var $target = document.getElementById(target);
     rootEl.classList.add('is-clipped');
     $target.classList.add('is-active');
+    var $target_img = $target.getElementsByClassName('modal-content')[0].childNodes[1].childNodes[1]
+    $target_img.src = $target_img.dataset.src;
   }
 
   function closeModals() {

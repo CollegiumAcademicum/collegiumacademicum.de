@@ -1,17 +1,19 @@
-# Große Sachen
-* Homepage / Startseite __DONE__
-* Blog noch nicht vorhanden (Aktuelles..) __DONE__
+# Einzelne Aufgaben
 * Englische version...
 * Programmatisches:
     - Newsletter __DONE__
     - Infopaket _Kommt rein wenn fertig_
     - Einziehen _Was genau soll hier eigentlich passieren?_
-* Ausstellungs-MP3 Seiten __DONE__
 * 404 SEITE
+* Lazy load Modal images __DONE__
+* Hide modal in mobile
+* Hide carousel mobile __DONE__
+* Neues Bild _Mach mit_
+* Hauptmenü roots nicht clickbar __DONE__
 
 # Einzelne Seiten
-* Homepage
-    - __Alles machen__
+* Blog (Aktuelles..) __DONE__
+* Homepage __DONE__
 * Hausprojekt __DONE__
     * Wohnen __DONE__
     * Bildung __DONE__
@@ -33,6 +35,7 @@
         - Eigenen Content einbinden.
     * Partner
         - Seitenkonzept ???
+* Ausstellungs-MP3 Seiten __DONE__
 
 # Einzelne Fragen
 * Welche Seiten haben Sidebar? __Problem__: Mit sidebar ist die startseite zu schmal

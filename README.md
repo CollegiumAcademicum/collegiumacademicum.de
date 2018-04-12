@@ -23,8 +23,8 @@ We use make to build the website. For _development_ mode you have to edit the `L
 
 | Command | Function |
 | --- | --- |
-| `make publish` | Build for online deployment |
-| `make local_publish` | Build for local development |
+| `make publish` | Build for online deployment (into ./upload/)|
+| `make local_publish` | Build for local development (into ./public/)|
 | `make clean` | Clean the build folder |
 | `make html` | Build the html files for online deployment |
 | `make local_html` | Build the html files for local development |
@@ -38,6 +38,7 @@ You can use the following custom shortcodes in the content markdown files to get
 
 | Shortcode | function |
 | --- | --- |
+| `{{< img src="" alt="" attr="" >}}` | Includes an image without a modal.  |
 | `{{< mimg src="" alt="" attr="" >}}` | Includes an image and adds the modal popup.  |
 | `{{< carousel >}}` | Prints the quote carousel. Data can be added/edited in `data/carousel.toml` |
 | `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/partner.toml` |

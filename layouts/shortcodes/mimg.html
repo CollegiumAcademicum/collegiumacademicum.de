@@ -25,7 +25,7 @@
         <div class="modal-background"></div>
         <div class="modal-content {{ if eq $extension "svg" }}box{{ end }}">
             <figure>
-                <img src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
+                <img src="" data-src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
                 {{ if or (.Get "alt") (.Get "attr")}}
                 <figcaption>
                     {{ with .Get "alt"}}
