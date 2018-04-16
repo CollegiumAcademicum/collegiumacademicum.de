@@ -48,4 +48,4 @@ Die Internationale Bauausstellung (IBA) Heidelberg, die als Exzellenzinitiative 
 
 Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung begleitet wird. Der Anspruch sich auf das Wesentliche zu reduzieren (Suffizienz) drückt sich in experimentellem Wohnen, den Gemeinschaftsflächen und Räume für Kreativnutzung aus.
 
-{{< mimg src="uebersicht_cyan" alt="Übersicht des Geländes" attr="Maurice Frank 2016" >}}
+{{< mimg src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}

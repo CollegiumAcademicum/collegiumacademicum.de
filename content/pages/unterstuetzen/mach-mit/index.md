@@ -11,7 +11,7 @@ date: 2018-04-02T18:13:52+02:00
         - einem Ort zum Musik machen und hören, zum Mitgestalten, sich Wohlfühlen und für kulturellen Austausch?<br>
     </div>
     <div class="column">
-        {{< mimg src="grufo" alt="Wir warten auf dch." attr="Johannes Roßnagel 2017" >}}
+        {{< mimg src="grufo" alt="Die Projektgruppe auf einem Teambuilding Wochenende im Schwarzwald." >}}
     </div>
 </div>
 
