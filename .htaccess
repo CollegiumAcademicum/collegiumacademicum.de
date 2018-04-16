@@ -1,3 +1,11 @@
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+</IfModule>
+
 <IfModule mod_expires.c>
 
     ExpiresActive on

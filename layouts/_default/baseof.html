@@ -12,6 +12,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <meta name="theme-color" content="#fafafa">
+
+
 
     <link rel="stylesheet" href="{{ "main.css" | relURL }}" />
     <script async type="text/javascript" src="{{ "main.js" | relURL }}"></script>
@@ -53,11 +58,14 @@
                             {{ else }}
                                 {{ partial "menu.en.html" }}
                             {{ end }}
+                            {{/*
                             <a class="navbar-item is-hidden-desktop" href="{{ $.Scratch.Get "InvLangLink" }}">
                                 <span class="icon"><i class="fas fa-language"></i></span>
                                 <span>{{ $.Scratch.Get "InvLang" }}</span>
                             </a>
+                            */}}
                         </div>
+                        {{/*
                         <div class="navbar-end is-hidden-touch">
                             <a class="button is-link" href="{{ $.Scratch.Get "InvLangLink" }}">
                                 <span class="icon">
@@ -66,6 +74,7 @@
                                 <span>{{ $.Scratch.Get "InvLang" }}</span>
                             </a>
                         </div>
+                        */}}
                     </div>
                 </div>
             </nav>

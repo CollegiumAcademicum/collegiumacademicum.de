@@ -1,15 +1,26 @@
+<h2>{{ i18n "eigene-veroeffentlichungen" }}</h2>
+<ul>
+{{ range $.Site.Data.bibliography.publications.publications }}
+    <li>
+        {{ .content | markdownify }}
+        <cite>{{ .year }}</cite>
+    </li>
+{{ end }}
+</ul>
+
+
 <h2>{{ i18n "presseartikel" }}</h2>
-<ol>
+<ul>
 {{ range $.Site.Data.bibliography.press.press }}
     <li>
         {{ .title | markdownify }}
         <cite>{{ .cite }}</cite>
     </li>
 {{ end }}
-</ol>
+</ul>
 
 <h2>{{ i18n "literatur" }}</h2>
-<ol>
+<ul>
 {{ range $.Site.Data.bibliography.literature.literature }}
     <li>
         {{ .title | markdownify }}
@@ -19,4 +30,4 @@
         <cite>{{ .cite }}</cite>
     </li>
 {{ end }}
-</ol>
+</ul>

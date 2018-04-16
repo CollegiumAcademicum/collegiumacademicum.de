@@ -10,6 +10,8 @@
 * Hide carousel mobile __DONE__
 * Neues Bild _Mach mit_
 * Hauptmenü roots nicht clickbar __DONE__
+* Audio seiten schöner gestalten
+* Favicon hinzufügen
 
 # Einzelne Seiten
 * Blog (Aktuelles..) __DONE__

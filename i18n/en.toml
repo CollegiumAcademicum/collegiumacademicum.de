@@ -9,3 +9,9 @@ other = "Literature"
 
 [presseartikel]
 other = "Press articles"
+
+[subscribe]
+other = "Subscribe"
+
+[eigene-veroeffentlichungen]
+other = "Own publications"

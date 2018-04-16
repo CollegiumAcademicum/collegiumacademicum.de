@@ -1,4 +1,4 @@
-baseURL = "https://fresh.collegiumacademicum.de"
+baseURL = "https://collegiumacademicum.de"
 title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
