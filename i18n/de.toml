@@ -15,3 +15,19 @@ other = "Eintragen"
 
 [eigene-veroeffentlichungen]
 other = "Eigene Veröffentlichungen"
+
+[mail-notwendig]
+other = "Die Mailadresse ist eine notwendige Angabe."
+
+[vorname]
+other = "Vorname"
+
+[nachname]
+other = "Nachname"
+
+[einziehen]
+other = "Einziehen"
+
+[interesse-anmelden]
+other = "Interesse anmelden"
+

@@ -15,3 +15,18 @@ other = "Subscribe"
 
 [eigene-veroeffentlichungen]
 other = "Own publications"
+
+[mail-notwendig]
+other = "Your mail address is necessary."
+
+[vorname]
+other = "Name"
+
+[nachname]
+other = "Surname"
+
+[einziehen]
+other = "Moving in"
+
+[interesse-anmelden]
+other = "Show interest"

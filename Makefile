@@ -32,7 +32,7 @@ html:
 	hugo -d $(OUTPUTDIR_UPLOAD)
 
 local_html:
-	hugo -b $(LOCALURL) -d $(OUTPUTDIR)
+	hugo -D --i18n-warnings -b $(LOCALURL) -d $(OUTPUTDIR)
 
 clean:
 	hugo --gc; [ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
