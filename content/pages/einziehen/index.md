@@ -17,7 +17,7 @@ Oder eventuell bist du begeistert von einem Leben in einer großen
 Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel
 an?
 
-{{< mimg src="projektgruppe" alt="Ein Photo der Projektgruppe." >}}
+{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe." >}}
 
 Für uns ist vor allem eines wichtig, dass du Lust hast dein Leben mit
 anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich

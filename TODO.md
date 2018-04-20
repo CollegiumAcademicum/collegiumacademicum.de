@@ -7,11 +7,8 @@
 * Neues Bild _Mach mit_
 * Audio seiten schöner gestalten
 * Wohnene Seite missing image
-* 404 SEITE verbssern __DONE__
-* Favicon hinzufügen __DONE__
-* Footer dk button schöner __DONE__
-* Newsletter sidebar text __DONE__
-* Footer background __DONE__
+* srcset for images
+* Modal fullscreen
 
 # Einzelne Seiten
 * Über uns

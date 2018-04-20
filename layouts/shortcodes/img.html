@@ -1,13 +1,45 @@
 <!-- image -->
+{{ $DataTarget := substr ( .Get "src" | md5 ) 0 8 }}
+
 {{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "src")) }}
-{{ .Scratch.Set "image" ($original.Resize "900x q60 Lanczos") }}
-{{ $image := .Scratch.Get "image" }}
+{{ $extension := index (split $original.Name ".") 1 }}
+{{ if eq $extension "svg" }}
+    {{ .Scratch.Set "image_big" ($original) }}
+    {{ .Scratch.Set "image_small" ($original) }}
+{{ else }}
+    {{ .Scratch.Set "image_big" ($original.Resize "900x q60 Lanczos") }}
+    {{ .Scratch.Set "image_small" ($original.Resize "700x q60 Lanczos") }}
+{{ end }}    
+{{ $image_small := .Scratch.Get "image_small" }}
+{{ $image_big := .Scratch.Get "image_big" }}
 <figure>
-    <img src="{{ $image.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image{{ with .Get "class" }} {{.}}{{ end }}"{{ with .Get "data-target" }} data-target="{{.}}"{{ end }}/>
+    <img {{ with .Parent }}src="" data-src="{{ $image_big.RelPermalink }}"{{ else }}src="{{ $image_small.RelPermalink }}"{{ end }} {{ with .Get "alt" }}alt="{{.}}"{{ end }} {{ with .Parent }}{{ else }}data-target="modal-{{ $DataTarget }}" {{ end }}class="image {{ with .Parent }}{{ else }}modal-button {{ end }}{{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     {{ with .Get "attr" }}
     <figcaption>
         <cite>© {{.}}</cite>
     </figcaption>
     {{ end }}
 </figure>
+
+{{ with .Parent }}{{ else }}
+<div id="modal-{{ $DataTarget }}" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content {{ if eq $extension "svg" }}box{{ end }}">
+            <figure>
+                <img src="" data-src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
+                {{ if or (.Get "alt") (.Get "attr")}}
+                <figcaption>
+                    {{ with .Get "alt"}}
+                    <span>{{.}}</span>
+                    {{ end }}
+                    {{ with .Get "attr"}}
+                        <cite>© {{.}}</cite>
+                    {{ end }}
+                </figcaption>
+                {{ end }}
+            </figure>
+        </div>
+        <button class="modal-close" aria-label="close"></button>
+</div>
+{{ end }}
 <!-- image -->

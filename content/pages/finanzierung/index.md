@@ -15,7 +15,7 @@ Weitere Details zur Architektur und zur Planung finden Sie [hier]({{< relref "wo
 ## Finanzierungsbausteine
 Für die Projektfinanzierung sind verschiedene Bausteine vorgesehen. Die Finanzierung setzt sich größtenteils aus Fördermitteln, privaten Direktkrediten und Bankkrediten zusammen. Hinzu kommen Einsparungen durch Sponsoring, Eigenleistung und Sparmaßnahmen.
 
-{{< mimg src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" >}}
+{{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" >}}
 
 ### Förderung
 Im Rahmen des Zukunftsinvestitionsprogramms [“Modellvorhaben Variowohnen”](https://www.forschungsinitiative.de/variowohnungen/p01-foerderprogramm/) des Bundesbauministeriums wurde die Collegium Academicum GmbH als herausragendes Vorhaben eingestuft. Die Förderung beläuft sich auf rund 2,12 Millionen Euro. Zusätzlich stehen Landesfördermittel in Höhe von 500.000 Euro in Aussicht. Für den geplanten Niedrigenergiestandard KfW 40 Plus soll gemeinsam mit der finanzierenden Bank eine KfW Förderung umgesetzt werden. Diese beläuft sich über die 46 Wohneinheiten auf 4,60 Millionen Euro sowie einen Tilgungszuschuss von 0,69 Millionen Euro.
@@ -53,7 +53,7 @@ Wir sind motiviert, Eigenleistung zu erbringen. Die Voraussetzungen, dass dafür
 ## Refinanzierung der Kredite
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten Bewohner*innen über die Mieteinnahmen abzüglich der laufenden Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die Bewohner*innen beläuft sich auf 300 Euro/Monat/Zimmer. Da unser Projekt nicht gewinnorientiert ist und die Bewohner*innen zugleich Eigentümer sein werden, können wir langfristig kostengünstige Mieten garantieren. Mehr Informationen findet ihr [hier]({{< relref "faq" >}}).
 
-{{< mimg src="refinanzierung" alt="Refinanzierung" >}}
+{{< img src="refinanzierung" alt="Refinanzierung" >}}
 
 ## Die Zahlen auf einen Blick
 Fördermittel | 
