@@ -7,7 +7,7 @@ SASSDIR=$(BASEDIR)/sass
 
 LOCALURL=http://localhost/~morris/ca/public/
 
-FTP_HOST=localhost
+FTP_HOST=collegiumacademicum.de
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
