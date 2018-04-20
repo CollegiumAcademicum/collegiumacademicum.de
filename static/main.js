@@ -13,6 +13,16 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Delete
+  var $deletes = getAll('.delete');
+  if ($deletes.length > 0) {
+    $deletes.forEach(function ($el) {
+      $el.addEventListener('click', function () {
+        $el.parentElement.classList.toggle('is-hidden');
+      });
+    });
+  }
+
   // Modals
   var rootEl = document.documentElement;
   var $modals = getAll('.modal');
