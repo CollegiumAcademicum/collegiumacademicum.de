@@ -8,7 +8,7 @@ content = "<img src='bbsr_urkunde.jpg' />Bundesbauministerin Barbara Hendricks �
 
 [[timeline]]
 heading = "Februar 2018"
-content = "Erhalt der Baugenehmigung für den Neubau"
+content = "<img src='bauantrag.jpg' />Erhalt der Baugenehmigung für den Neubau"
 
 [[timeline]]
 heading = "2018"
@@ -52,15 +52,11 @@ content = "Beginn der Direktkreditwerbung"
 
 [[timeline]]
 heading = "Oktober 2016"
-content = "<img src='skillshare.jpg' />Druck der <a href='https://collegiumacademicum.de/wp-content/uploads/CA_Projektbrosch%C3%BCre.pdf'>Infobroschüre</a>, sowie der <a href='https://collegiumacademicum.de/wp-content/uploads/CA_Informationen_zu_Direktkrediten.pdf'>Direktkreditinformationen</a>"
+content = "<img src='skillshare.jpg' />Druck der <a href='/brochure'>Infobroschüre</a>, sowie der <a href='https://collegiumacademicum.de/docs/finanzierungs_flyer.pdf'>Direktkreditinformationen</a>"
 
 [[timeline]]
 heading = "September 2016"
-content = "Einführung eines neuen Designs für die Projektpräsentation"
-
-[[timeline]]
-heading = "September 2016"
-content = "Antrag auf Fördermittel im Rahmen des <a href='https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/'>Holz Innovativ Programm</a> für innovative Verwendung von Holz in modernem Bau beim MLR"
+content = "Antrag auf Fördermittel im Rahmen des <a href='https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/'>Holz Innovativ Programm</a> für innovative Verwendung von Holz in modernem Bau beim <a href='https://mlr.baden-wuerttemberg.de/de/startseite/'>MLR</a>"
 
 [[timeline]]
 heading = "August 2016"
@@ -72,27 +68,27 @@ content = "<a href='https://www.youtube.com/watch?v=ORARt18kgtk'>Erster Imagefil
 
 [[timeline]]
 heading = "Juni 2016"
-content = "Letter of Intent (Absichtserklärung) der Stadt Heidelberg zum Kauf der Fläche &#8220;US-Hospital&#8221;"
+content = "Letter of Intent der Stadt Heidelberg zum Kauf der Fläche <i>US-Hospital</i>"
 
 [[timeline]]
 heading = "Juni 2016"
-content = "<img alt='Das Holzmodell des Neubaus' src='model.jpg'/>Antrag auf Fördermittel im Rahmen des <a href='https://www.forschungsinitiative.de/variowohnungen/'>Variowohnen Programm</a> für modellhaftes studentisches Wohnen beim BMUB"
+content = "Antrag auf Fördermittel im Rahmen des <a href='https://www.forschungsinitiative.de/variowohnungen/'>Variowohnen Programm</a> für modellhaftes studentisches Wohnen beim BMUB"
 
 [[timeline]]
 heading = "April 2016"
-content = "Fertigstellung des Planungsentwurfs"
+content = "<img alt='Das Holzmodell des Neubaus' src='model.jpg'/>Fertigstellung des Planungsentwurfs"
 
 [[timeline]]
 heading = "Februar 2016"
-content = "Gründung der Collegium Academicum GmbH"
+content = "Gründung der <i>Collegium Academicum GmbH</i>"
 
 [[timeline]]
 heading = "Februar 2016"
-content = "Festlegung auf die Fläche <a href='https://collegiumacademicum.de/hausprojekt/ca-fuer-rohrbach/'>Hospital in Rohrbach</a>"
+content = "Festlegung auf die Fläche US-Hospital in Rohrbach"
 
 [[timeline]]
 heading = "Januar 2016"
-content = "<img src='planung.jpg'>Durchführung von Architektur-Workshops in Zusammenarbeit mit dem <a href='https://dgj.eu/index.en.html'>Architektenbüro Drexler Guinand Jauslin Architects</a> und Unterstützung der <a href='https://iba.heidelberg.de/'>iba Heidelberg</a>"
+content = "<img src='planung.jpg'>Durchführung von Architektur-Workshops in Zusammenarbeit mit dem <a href='https://dgj.eu/index.en.html'>Architektenbüro Drexler Guinand Jauslin Architects</a> und Unterstützung der <a href='iba.heidelberg.de/'>iba Heidelberg</a>"
 
 [[timeline]]
 heading = "2016"
@@ -100,23 +96,19 @@ center = true
 
 [[timeline]]
 heading = "Dezember 2015"
-content = "Beginn mit der Erstellung eines ersten Planungsentwurfs."
+content = "Beginn mit der Erstellung eines ersten Planungsentwurfs"
 
 [[timeline]]
 heading = "November 2015"
-content = "Der Gemeinderat beschließt, dass das CA im Aufstellungsbeschluss der Patton-Barracks berücksichtigt werden sollte."
+content = "Der Gemeinderat beschließt, dass das CA im Aufstellungsbeschluss der Patton Barracks berücksichtigt werden sollte"
 
 [[timeline]]
 heading = "Oktober 2015"
-content = "<img alt='Mitgliedern des CA Teams wird die iba Projekt Urkunde übergeben' src='ausstellung.jpg'/>Eröffnung der Ausstellung &#8211;<a href='https://collegiumacademicum.de/geschichte-des-ca/ausstellung_collegium_academicum_1945-2015/'>Collegium Academicum: Gemeinsam Leben und Lernen 1945 &#8211; 1985 -2015</a>."
-
-[[timeline]]
-heading = "Oktober 2015"
-content = "Der StuRa beschließt, uns offiziell zu unterstützen und fördert unsere Ausstellung. "
+content = "<img alt='Mitgliedern des CA Teams wird die iba Projekt Urkunde übergeben' src='ausstellung.jpg'/>Eröffnung der Ausstellung <i><a href='https://collegiumacademicum.de/geschichte-des-ca/ausstellung_collegium_academicum_1945-2015/'>Collegium Academicum: Gemeinsam Leben und Lernen 1945 – 1985 – 2015</a></i>"
 
 [[timeline]]
 heading = "Juni 2015"
-content = "Das Collegium Academicum wird vom Aufsichtsrat der Internationalen Bauausstellung Heidelberg zum <a href='https://iba.heidelberg.de/deutsch/projekte/projektuebersicht/012-selbstverwaltetes-studierendenwohnheim-fuer-heidelberg.html'>Projekt</a> gekürt."
+content = "Das Collegium Academicum wird vom Aufsichtsrat der Internationalen Bauausstellung Heidelberg zum <a href='https://iba.heidelberg.de/deutsch/projekte/projektuebersicht/012-selbstverwaltetes-studierendenwohnheim-fuer-heidelberg.html'>Projekt</a> gekürt"
 
 [[timeline]]
 heading = "Mai 2015"
@@ -124,7 +116,7 @@ content = "Bildungsworkshop gemeinsam mit der IBA, gefördert durch die <a href=
 
 [[timeline]]
 heading = "März 2015"
-content = "<img alt='Die Teilnehmer des Suffizienz-Workshops hören sich einen intressanten Vortrag an' src='suffizienz.jpg'/>Suffizienzworkshop gemeinsam mit der IBA"
+content = "<img alt='Präsentation während des Suffizienzworkshops' src='suffizienz.jpg'/>Suffizienzworkshop gemeinsam mit der IBA"
 
 [[timeline]]
 heading = "2015"
@@ -132,27 +124,19 @@ center = true
 
 [[timeline]]
 heading = "Dezember 2014"
-content = "Anpassung der Satzung des Vereins „Vereinigung Collegium Academicum Heidelberg e.V.“ aus dem Jahr 1985 an die neuen Anforderungen und Umbenennung in „Förderverein Collegium Academicum Heidelberg e.V.“ "
-
-[[timeline]]
-heading = "November 2014"
-content = "Aktive Beteiligung am Bürgerforum Patton Barracks"
+content = "Gründung des <i>Förderverein Collegium Academicum Heidelberg e.V.</i> aus der vorherigen <i>Vereinigung Collegium Academicum Heidelberg e.V.</i> aus dem Jahr 1985 "
 
 [[timeline]]
 heading = "Juni 2014"
-content = "Gründung des Vereins &#8220;Wohnheim Collegium Academicum e.V.&#8221;"
+content = "Gründung des Vereins <i>Wohnheim Collegium Academicum e.V.</i>"
 
 [[timeline]]
 heading = "Mai 2014"
-content = "<img alt='Karte der Patton Barracks' src='patton.jpg'>Nach Begehung der Flächen „Patton Barracks&#8221; und Diskussion mit der Stadtverwaltung &#8211; Entscheidung, sich ab jetzt sich auf dieses Konversionsgebiet zu fokussieren"
+content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Entscheidung, sich auf dieses Konversionsfläche <i>Patton Barracks</i> zu fokussieren"
 
 [[timeline]]
 heading = "April 2014"
-content = "Aufnahme als Kandidat der <a href='http://iba.heidelberg.de/'>Internationalen Bauausstellung Heidelberg </a> „Wissen schafft Stadt“ durch das Kuratorium in der ersten Runde"
-
-[[timeline]]
-heading = "Januar 2014"
-content = "Erstellung des ersten eigenen Flyers zur Projektvorstellung"
+content = "Aufnahme als Kandidat der <a href='http://iba.heidelberg.de/'>Internationalen Bauausstellung Heidelberg „<i>Wissen schafft Stadt</i>“</a> durch das Kuratorium in der ersten Runde"
 
 [[timeline]]
 heading = "2014"
@@ -160,11 +144,11 @@ center = true
 
 [[timeline]]
 heading = "November 2013"
-content = "Offizieller Beratungsstart durch das <a href='https://www.syndikat.org/de/'>Mietshäuser Syndikat</a>"
+content = "Start der Beratung durch das <a href='https://www.syndikat.org/de/'>Mietshäuser Syndikat</a>"
 
 [[timeline]]
 heading = "Juni 2013"
-content = "Gespräche mit dem Studierendenwerk und Erfahrungsaustausch"
+content = "Erste Gespräche mit dem Studierendenwerk und Erfahrungsaustausch"
 
 [[timeline]]
 heading = "Juni 2013"
@@ -172,27 +156,27 @@ content = "Die PH Heidelberg sichert dem Projekt Unterstützung zu"
 
 [[timeline]]
 heading = "Mai 2013"
-content = "Die Universität Heidelberg sichert nach gemeinsam Austausch dem Projekt Unterstützung zu"
+content = "Die Universität Heidelberg sichert dem Projekt Unterstützung zu"
 
 [[timeline]]
 heading = "Mai 2013"
-content = "Ausarbeitung des ersten Suffizienz-Konzepts"
+content = "Ausarbeitung eines ersten Suffizienz-Konzepts"
 
 [[timeline]]
 heading = "Februar 2013"
-content = "Erste Kontaktaufnahme Konversionsbüro und Stadtverwaltung "
+content = "Erste Gespräche mit dem Konversionsbüro und der Stadtverwaltung"
 
 [[timeline]]
 heading = "Februar 2013"
-content = "Gründung eines „Beirats“"
+content = "Gründung eines Beirats"
 
 [[timeline]]
 heading = "Januar 2013"
-content = "Beginn der Mitarbeit im Netzwerk <a href='https://hdvernetzt.wordpress.com/'>„hd_vernetzt“</a>"
+content = "Beginn der Mitarbeit im Netzwerk <a href='https://hdvernetzt.wordpress.com/'>hd_vernetzt</a>"
 
 [[timeline]]
 heading = "Januar 2013"
-content = "<img alt='Neues Logo des CA e.V.' src='logo_alt.jpg' />Studentische Initiative startet das Projekt „Ein selbstverwaltetes Studierendenwohnheim für Heidelberg“, Erstellung der ersten Version des Konzepts"
+content = "<img alt='Logo Collegium Academicum 2013' src='logo_alt.jpg' />Das Projekt <i>Collegium Academicum - Ein selbstverwaltetes Studierendenwohnheim für Heidelberg</i> wird ins Leben gerufen"
 
 [[timeline]]
 heading = "2013"
