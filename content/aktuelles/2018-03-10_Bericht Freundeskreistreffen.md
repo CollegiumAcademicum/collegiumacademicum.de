@@ -6,7 +6,7 @@ date: 2018-03-10
 Das Freundeskreistreffen am 10.03.2018 war ein bewegter und außergewöhnlicher
 Nachmittag und Abend. Sehr viele mit dem Collegium Academicum
 verbundene Menschen sind von weit her angereist, um teilzuhaben an und
-beizutragen zu dieser besonderen Zusammenkunft. 
+beizutragen zu dieser besonderen Zusammenkunft.
 
 Viele Erinnerungen an vergangene Momente - ein Wiedersehen nach
 Jahrzehnten, das Gedenken an Freunde und Freundinnen, das
@@ -24,6 +24,3 @@ Menschen sagen werden: „Das ist mein Zuhause“, „Das, was an diesem Ort
 geschah, hat die Stadt verändert und mein Leben geprägt“. An einem Ort
 der Teilhabe und der politischen Auseinandersetzung, zum Wohlfühlen,
 Feiern und Weltverbessern.
-
-
-

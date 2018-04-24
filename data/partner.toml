@@ -25,17 +25,17 @@ text = "Die Universitätsleitung unterstützt unser Projekt. Für die Lehre ist 
 
 [[partners]]
 img = "/img/partners/studierendenwerk.png"
-link = "studentenwerk.uni-heidelberg.de/"
+link = "http://studentenwerk.uni-heidelberg.de/"
 text = "Das Studierendenwerk unterstützt uns mit fachlicher Beratung und Hilfestellung. "
 
 [[partners]]
 img = "/img/partners/stupa.png"
-link = "stupa.ph-heidelberg.net/"
+link = "http://stupa.ph-heidelberg.net/"
 text = "Es gibt einen offiziellen Grundsatzbeschluss für die Unterstützung des Collegium Academicums."
 
 [[partners]]
 img = "/img/partners/heg.png"
-link = "heidelberger-energiegenossenschaft.de/"
+link = "http://heidelberger-energiegenossenschaft.de/"
 text = "Die Heidelberger Energiegenossenschaft hilft uns bei der Umsetzung unserer Nachhaltigkeitsziele."
 
 [[partners]]

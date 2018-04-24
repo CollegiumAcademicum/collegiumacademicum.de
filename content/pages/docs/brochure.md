@@ -1,5 +1,5 @@
 ---
-title: "Die Produktbroschüre"
+title: "Die Projektbroschüre"
 slug: "brochure"
 date: 2018-03-27T20:26:42+02:00
 ---

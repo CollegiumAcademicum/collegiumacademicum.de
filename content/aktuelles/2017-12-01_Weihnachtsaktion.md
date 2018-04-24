@@ -8,5 +8,3 @@ Bis zum Ende des Jahres wollen wir noch weitere 200.000 € einsammeln, um diese
 Die Vogelhäuser haben wir mit einem eingebrannten CA-Stempel individualisiert und sie sind eine Bereicherung für jeden Garten. Du kannst den aktuellen Stand unserer Aktion auf unserer Hauptseite verfolgen.
 
 <img class="image" src="/aktuelles/vogelhaus.jpg">
-
-Mehr Informationen findest Du unter [https://collegiumacademicum.de/weihnachtsaktion/](https://collegiumacademicum.de/weihnachtsaktion/). 

@@ -34,8 +34,11 @@ html:
 local_html:
 	hugo -D --i18n-warnings -b $(LOCALURL) -d $(OUTPUTDIR)
 
-clean:
+local_clean:
 	hugo --gc; [ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+
+clean:
+	hugo --gc; [ ! -d $(OUTPUTDIR_UPLOAD) ] || rm -rf $(OUTPUTDIR_UPLOAD)
 
 publish: css html
 local_publish: css local_html

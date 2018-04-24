@@ -9,5 +9,3 @@ __Ort:__
 Räumlichkeiten der Evangelischen Studierendengemeinschaft (ESG)
 Plöck 66
 69117 Heidelberg
-
-Mehr Informationen finden Sie [hier](https://collegiumacademicum.de/freundeskreistreffen/).

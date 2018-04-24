@@ -5,7 +5,7 @@ date: 2018-03-26T03:53:46+02:00
 
 <div class="notification is-primary"><button class="delete"></button>
 <h3 class="title is-3">14 m2 Freiraum: Wir stellen unser mobiles Zimmer vor</h3>
-<p>Am 6. Mai 2018 stellen wir im Rahmen der <a href="iba.heidelberg.de/deutsch/veranstaltungen/kalender/iba_projekt-012-collegium-academicum-14-m-freiraum.html">IBA-Zwischenpräsentation</a> erstmals unser mobiles Zimmer vor: Der 14 Quadratmeter große Holzbau ist der Prototyp in Realgröße eines Zimmers in dem geplanten Wohnheim.</p>
+<p>Am 6. Mai 2018 stellen wir im Rahmen der <a href="http://iba.heidelberg.de/deutsch/veranstaltungen/kalender/iba_projekt-012-collegium-academicum-14-m-freiraum.html">IBA-Zwischenpräsentation</a> erstmals unser mobiles Zimmer vor: Der 14 Quadratmeter große Holzbau ist der Prototyp in Realgröße eines Zimmers in dem geplanten Wohnheim.</p>
 <p><a href="/aktuelles/2018-04_20_14m2_freiheit/">Hier mehr erfahren..</a></p>
 </div>
 

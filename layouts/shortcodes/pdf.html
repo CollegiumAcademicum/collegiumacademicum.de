@@ -1,5 +1,3 @@
 <object data="{{ .Get "src" | relURL }}" type="application/pdf" width="{{ with .Get "width" }}{{.}}{{else}}100%{{end}}" height="{{ with .Get "height" }}{{.}}{{else}}100%{{end}}">
-    <iframe src="{{ .Get "src" | relURL }}" style="border: none;" width="{{ with .Get "width" }}{{.}}{{else}}100%{{end}}" height="{{ with .Get "height" }}{{.}}{{else}}100%{{end}}">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ .Get "src" | relURL }}">Download PDF</a>
-    </iframe>
 </object>
