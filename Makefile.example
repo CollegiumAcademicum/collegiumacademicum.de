@@ -5,7 +5,7 @@ OUTPUTDIR=$(BASEDIR)/public
 OUTPUTDIR_UPLOAD=$(BASEDIR)/upload
 SASSDIR=$(BASEDIR)/sass
 
-LOCALURL=http://localhost/~morris/ca/public/
+LOCALURL=http://localhost/
 
 FTP_HOST=collegiumacademicum.de
 FTP_USER=anonymous
