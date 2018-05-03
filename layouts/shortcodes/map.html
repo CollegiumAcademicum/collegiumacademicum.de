@@ -1,0 +1,37 @@
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+
+<div id='ca-map'></div>
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiY29sbGVnaXVtYWNhZGVtaWN1bSIsImEiOiJjamdwZGFreWMwMzNiMzNvZmloZWs3eHNxIn0.ClXp6n8qltuq-IO9cUnsqw';
+    var map = new mapboxgl.Map({
+        container: 'ca-map',
+        center: [8.692203402933274, 49.39216220458721],
+        zoom: 12.5,
+        bearing: 40,
+        pitch: 60,
+        style: 'mapbox://styles/collegiumacademicum/cjgpe9vtl000s2rro9nxvfsvx'
+    });
+
+    map.on("load", function () {
+        map.loadImage("/~morris/ca/public/img/map-voigl-icon.png", function (error, image) {
+            if (error) throw error;
+            map.addImage("custom-marker", image);
+            map.addLayer({
+                id: "markers",
+                type: "symbol",
+                source: {
+                    type: "geojson",
+                    data: {
+                        type: "FeatureCollection",
+                        features: [{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [8.686231829139132, 49.37589920283469] } }]
+                    }
+                },
+                layout: {
+                    "icon-image": "custom-marker",
+                }
+            });
+        });
+    });
+
+</script>

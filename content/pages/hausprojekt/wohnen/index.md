@@ -28,6 +28,8 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
     </div>
 </div>
 
+{{< map >}}
+
 <div class="columns">
     <div class="column">
     {{< cimg src="holzmodell_wg" attr="DGJ Architektur 2018" >}}
