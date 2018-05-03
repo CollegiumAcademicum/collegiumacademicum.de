@@ -14,7 +14,7 @@
     });
 
     map.on("load", function () {
-        map.loadImage("/~morris/ca/public/img/map-voigl-icon.png", function (error, image) {
+        map.loadImage("/img/map-voigl-icon.png", function (error, image) {
             if (error) throw error;
             map.addImage("custom-marker", image);
             map.addLayer({
