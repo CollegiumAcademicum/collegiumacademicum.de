@@ -3,12 +3,6 @@ title: "Collegium Academicum"
 date: 2018-03-26T03:53:46+02:00
 ---
 
-<div class="notification is-primary"><button class="delete"></button>
-<h3 class="title is-3">14qm Freiraum: Wir stellen unser mobiles Zimmer vor</h3>
-<p>Am 6. Mai 2018 stellen wir im Rahmen der <a href="http://iba.heidelberg.de/deutsch/veranstaltungen/kalender/iba_projekt-012-collegium-academicum-14-m-freiraum.html">IBA-Zwischenpräsentation</a> erstmals unser mobiles Zimmer vor: Der 14 Quadratmeter große Holzbau ist der Prototyp in Realgröße eines Zimmers in dem geplanten Wohnheim.</p>
-<p><a href="/aktuelles/2018-04_20_14m2_freiheit/">Hier mehr erfahren..</a></p>
-</div>
-
 Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim für Heidelberg zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert.
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
