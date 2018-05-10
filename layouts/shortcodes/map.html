@@ -4,6 +4,7 @@
 <div id='ca-map'></div>
 <script>
     mapboxgl.accessToken = 'pk.eyJ1IjoiY29sbGVnaXVtYWNhZGVtaWN1bSIsImEiOiJjamdwZGFreWMwMzNiMzNvZmloZWs3eHNxIn0.ClXp6n8qltuq-IO9cUnsqw';
+    if (window.innerWidth > 770) {
     var map = new mapboxgl.Map({
         container: 'ca-map',
         center: [8.692203402933274, 49.39216220458721],
@@ -33,5 +34,6 @@
             });
         });
     });
+    }
 
 </script>
