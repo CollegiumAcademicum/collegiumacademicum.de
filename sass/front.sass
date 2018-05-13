@@ -1,7 +1,32 @@
-.front
+.front-box
+    position: relative
+    padding-top: 12em
+    margin-bottom: 3em
+    overflow: hidden
+
+    > div
+        position: relative
+        top: 0em
+        background: $white
+        margin-right: 9em
+        padding: 1em 0
+        transition: $speed
+
+    img
+        position: absolute
+        transition: $speed
+        top: 2em
+        right: 0
+
     h2
-        @extend .notification
-        @extend .is-radiusless
-        @extend .is-secondary
+        font-size: 3rem
+        margin: 0
+        text-indent: 0.2em
+
         a
-            text-decoration: none!important    
+            text-decoration: none
+            color: $black
+
+    &:hover
+        img
+            top: 0
