@@ -14,4 +14,17 @@ Relevanz und Bedeutung für den heutigen feministischen Diskurs zu
 reden.
 
 Wo: Uniplatz<br />
-Wann: 13. Mai, 21:00
+Wann: 13. Mai, 21:00<br />
+
+P.S.: Wir sind übrigens mit unserem Zimmermodell am Uniplatz
+angekommen und heißen euch wilkommen.
+
+
+<figure>
+<table>
+<tr>
+<td><img src="demonstrator_uni_small.jpg"/></td>
+<td><img src="demonstrator_uni_traktor_small.jpg"/></td>
+</tr>
+</table>
+</figure>
