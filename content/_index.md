@@ -3,6 +3,15 @@ title: "Collegium Academicum"
 date: 2018-03-26T03:53:46+02:00
 ---
 
+<div class="notification is-primary"><button class="delete"></button>
+    <span class="icon"></span>„Man ist nicht als Frau geboren, man wird es.“ <cite>Simone de Beauvoir (1949)</cite>
+    <p>Jahrzehnte nach der Veröffentlichung des Werks „Das andere Geschlecht“ von Simone de Beauvoir wird Gesellschaft immer noch durch die geschlechtsspezifische Erziehung von Menschen in den Kategorien Mann und Frau strukturiert.<br>
+    Wir wollen heute Abend mit euch Ausschnitte aus diesem Werk lesen, um anschließend in entspannter Runde über ihre Relevanz und Bedeutung für den heutigen feministischen Diskurs zu reden.<br>
+    Wo: Uniplatz<br>
+    Wann: <i class="fas fa-calendar"></i>  13. Mai, 21:00
+    </p>
+</div>
+
 <div style="margin: 0 4em 4em; line-height: 1.2em; text-align: justify;">Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim für Heidelberg zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert.</div>
 
 <!-- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
