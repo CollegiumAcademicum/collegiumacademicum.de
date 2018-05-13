@@ -10,7 +10,7 @@ date: 2018-03-26T03:53:46+02:00
  </div> -->
 
 <div class="front-box wohnen">
-    <img src="front_wohnen.png">
+    <a href="https://collegiumacademicum.de/wohnen" ><img src="front_wohnen.png"></a>
     <div>
         <div><h2><a href="https://collegiumacademicum.de/wohnen" >Wohnen</a></h2></div>
         Innovativer Holzbau und kreative Umnutzung: Auf ehemals militärisch genutzten Flächen entsteht das neue Collegium Academicum – bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="https://collegiumacademicum.de/wohnen" >Mehr...</a>
@@ -18,7 +18,7 @@ date: 2018-03-26T03:53:46+02:00
 </div>
 
 <div class="front-box bildung">
-    <img src="front_bildung.png">
+    <a href="https://collegiumacademicum.de/bildung" ><img src="front_bildung.png"></a>
     <div>
         <div><h2><a href="https://collegiumacademicum.de/bildung" >Bildung</a></h2></div>
         Studium Generale, Propädeutikum und Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. <a class="mehr" href="https://collegiumacademicum.de/bildung" >Mehr...</a>
@@ -26,7 +26,7 @@ date: 2018-03-26T03:53:46+02:00
 </div>
 
 <div class="front-box nachhaltigkeit">
-    <img src="front_nachhaltigkeit.png">
+    <a href="https://collegiumacademicum.de/nachhaltigkeit" ><img src="front_nachhaltigkeit.png"></a>
     <div>
         <div><h2><a href="https://collegiumacademicum.de/nachhaltigkeit" >Nachhaltigkeit</a></h2></div>
         Nachhaltig gedacht – von Anfang an! Ein bewusster Umgang mit Ressourcen steht nicht nur in Hinblick auf den künftigen Betrieb sondern bereits in der Baukonstruktion im Vordergrund. Im Zusammenleben ist Suffizienz das Schlüsselwort zu unserem Nachhaltigkeitskonzept: sich auf die wesentlichen Dinge und Gegenstände konzentrieren sowie einen verantwortungsvollen Umgang mit der Umwelt finden. <a class="mehr" href="https://collegiumacademicum.de/nachhaltigkeit" >Mehr...</a>
@@ -34,7 +34,7 @@ date: 2018-03-26T03:53:46+02:00
 </div>
 
 <div class="front-box selbstverwaltung">
-    <img src="front_selbstverwaltung.png">
+    <a href="https://collegiumacademicum.de/selbstverwaltung" ><img src="front_selbstverwaltung.png"></a>
     <div>
         <div><h2><a href="https://collegiumacademicum.de/selbstverwaltung" >Selbstverwaltung</a></h2></div>
         Selbstentfaltung durch Selbstbestimmung! Unabhängig, gemeinschaftlich und offen – das ist das CA durch konsensorientierte und transparente Strukturen in einer demokratisch organisierten Selbstverwaltung. <a class="mehr" href="https://collegiumacademicum.de/selbstverwaltung" >Mehr...</a>
