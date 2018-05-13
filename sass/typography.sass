@@ -10,7 +10,7 @@ cite
         content: '\2014 \0020'
 
 address
-    font-style: normal
+    font-style: normal!important
 
 figcaption
     font-size: 0.8rem
@@ -71,6 +71,17 @@ main
         position: absolute
         left: 10px
         top: -10px
+
+    ul
+        list-style: none
+        li
+            position: relative
+            &::before
+                content: '›'
+                position: absolute
+                font-size: 1.8em
+                top: -0.43em
+                left: -0.7em
 
 td[align="right"]
     text-align: right!important
