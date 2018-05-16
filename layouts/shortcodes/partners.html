@@ -1,16 +1,10 @@
-<div class="columns is-multiline">
-    {{ range $.Site.Data.partner.partners }}
-    <div class="column is-half">
-        <div class="media box">
-            <div class="media-left">
-                <a href="{{ .link }}">
-                    <img class="image" src="{{ .img | relURL }}" />
-                </a>
-            </div>
-            <div class="media-content">
-                {{ .text }}
-            </div>
-        </div>
+{{ range $.Site.Data.partner.partners }}
+<div class="columns">
+    <div class="column is-3 is-offset-1">
+        <img class="image" src="{{ .img | relURL }}" />
     </div>
-    {{ end }}
+    <div class="column is-6 is-offset-1">
+        {{ .text }}
+    </div>
 </div>
+{{ end }}
