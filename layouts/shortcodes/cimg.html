@@ -12,7 +12,7 @@
 {{ end }}    
 {{ $image_small := .Scratch.Get "image_small" }}
 {{ $image_big := .Scratch.Get "image_big" }}
-<figure>
+<figure class="modal-figure">
     <img src="{{ $image_small.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} data-target="modal-{{ $DataTarget }}" class="image modal-button {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     {{ with .Get "attr" }}
     <figcaption>
