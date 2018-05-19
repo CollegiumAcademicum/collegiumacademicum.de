@@ -1,29 +1,9 @@
-<div class='carousel carousel-animated carousel-animate-slide is-hidden-mobile'>
-    <div class='carousel-container'>
-        {{ range $.Site.Data.carousel.carousel }}
-        <div class='carousel-item'>
-            <div class="media">
-                <div class="media-left">
-                    <img class="image is-128x128" src="{{ .img | relURL }}" />
-                </div>
-                <div class="media-content">
-                    <blockquote>
-                        {{ .quote }}
-                        <cite>{{ .attr }}</cite>
-                    </blockquote>
-                </div>
+<div class='quotegrid columns is-multiline is-gapless'>
+    {{ range $.Site.Data.carousel.carousel }}
+        <div class='column is-one-quarter'>
+            <div class="image is-128x128">
+                <figure style="background-image: url({{ .img | relURL }})" ></figure>
             </div>
-        </div>
-        {{ end }}
-    </div>
-    <div class="carousel-navigation is-overlay">
-        <div class="carousel-nav-left">
-            <i class="fa fa-chevron-left" aria-hidden="true"></i>
-        </div>
-        <div class="carousel-nav-right">
-            <i class="fa fa-chevron-right" aria-hidden="true"></i>
-        </div>
-    </div>
+        </div>  
+    {{ end }}
 </div>
-
-<script type="text/javascript" src="{{ "bulma-carousel.js" | absURL }}"></script>
