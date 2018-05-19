@@ -62,6 +62,17 @@ function closeModals() {
   });
 }
 
+//Quote Grid
+var $quoteGridItems = getAll('.quotegrid-item');
+
+if ($quoteGridItems.length > 0) {
+  $quoteGridItems.forEach(function ($el) {
+    $el.addEventListener('click', function () {
+      $el.classList.add('is-active')
+    });
+  });
+}
+
 //Accordion
 const MOUSE_EVENTS = ['click', 'touchstart'];
 var accordions = document.querySelectorAll('.accordions');

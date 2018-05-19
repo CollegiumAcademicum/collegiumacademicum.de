@@ -1,8 +1,14 @@
-<div class='quotegrid columns is-multiline is-gapless'>
+<div class='quotegrid'>
     {{ range $.Site.Data.carousel.carousel }}
-        <div class='column is-one-quarter'>
-            <div class="image is-128x128">
+        <div class='quotegrid-item media'>
+            <div class="media-left image is-128x128">
                 <figure style="background-image: url({{ .img | relURL }})" ></figure>
+            </div>
+            <div class="media-right">
+                <blockquote>
+                    {{ .quote }}
+                    <cite>{{ .attr }}</cite>
+                </blockquote>
             </div>
         </div>  
     {{ end }}

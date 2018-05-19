@@ -110,16 +110,21 @@ img.modal-button
 
 // QuoteGrid
 .quotegrid
-    .column
+    position: relative
+    .quotegrid-item
+        position: relative
         .image
             background: $secondary
             figure
                 background-size: cover
                 height: 100%
                 width: 100%
-
+                margin: 0
         &:hover
             figure
                 mix-blend-mode: screen
                 -webkit-filter: grayscale(100%)
                 filter: grayscale(100%)
+        &.is-active
+            top: -100%
+            left: -100%
