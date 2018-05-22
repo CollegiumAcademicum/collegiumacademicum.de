@@ -14,4 +14,4 @@ Tel.: [+49 (0)6221-652236](tel:+4906221652236)
 E-Mail: [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
 
 ## Rechtliche Hinweise
-Hiermit erkläre ich, keinerlei Verantwortung für die Inhalte verlinkter Seiten anderer zu übernehmen. Alle hier veröffentlichen Texte und Bilder stehen, soweit nicht anders vermerkt, unter der Lizenz [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). Eine Nutzung und Weiterverbreitung ist dementsprechend bei Nennung der Collegium Academicum GmbH erlaubt.
+Hiermit erklären wir, keinerlei Verantwortung für die Inhalte verlinkter Seiten anderer zu übernehmen. Alle hier veröffentlichen Texte und Bilder stehen, soweit nicht anders vermerkt, unter der Lizenz [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). Eine Nutzung und Weiterverbreitung ist dementsprechend bei Nennung der Collegium Academicum GmbH erlaubt.
