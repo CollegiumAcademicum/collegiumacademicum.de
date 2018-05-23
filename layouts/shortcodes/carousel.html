@@ -1,15 +1,20 @@
-<div class='quotegrid'>
+<div class='quotegrid columns is-multiline is-gapless'>
     {{ range $.Site.Data.carousel.carousel }}
-        <div class='quotegrid-item media'>
-            <div class="media-left image is-128x128">
+        <div class="quotegrid-icon column is-3">
+            <div class="image is-128x128">
                 <figure style="background-image: url({{ .img | relURL }})" ></figure>
             </div>
-            <div class="media-right">
-                <blockquote>
-                    {{ .quote }}
-                    <cite>{{ .attr }}</cite>
-                </blockquote>
-            </div>
-        </div>  
+            <div class='quotegrid-overlay media'>
+                <div class="media-left image is-128x128">
+                    <figure style="background-image: url({{ .img | relURL }})" ></figure>
+                </div>
+                <div class="media-right">
+                    <blockquote>
+                        {{ .quote }}
+                        <cite>{{ .attr }}</cite>
+                    </blockquote>
+                </div>
+            </div>  
+        </div>
     {{ end }}
 </div>

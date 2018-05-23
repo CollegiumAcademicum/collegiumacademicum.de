@@ -63,15 +63,26 @@ function closeModals() {
 }
 
 //Quote Grid
-var $quoteGridItems = getAll('.quotegrid-item');
+var $quoteGridIcons = getAll('.quotegrid-icon');
+var $quoteGrids = getAll('.quotegrid-overlay');
 
-if ($quoteGridItems.length > 0) {
-  $quoteGridItems.forEach(function ($el) {
-    $el.addEventListener('click', function () {
-      $el.classList.add('is-active')
+$quoteGridIcons.forEach(function ($el) {
+  $el.addEventListener('click', function (e) {
+    if (e.target.tagName === 'FIGURE') {
+      $el.classList.add('is-active');
+    }
+  });
+});
+
+$quoteGrids.forEach(function ($el) {
+  $el.addEventListener('click', function () {
+    console.log('inside...')
+    $quoteGridIcons.forEach(function ($el) {
+      console.log('runnin..')
+      $el.classList.remove('is-active');
     });
   });
-}
+});
 
 //Accordion
 const MOUSE_EVENTS = ['click', 'touchstart'];
