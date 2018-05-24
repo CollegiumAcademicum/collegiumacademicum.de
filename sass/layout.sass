@@ -121,3 +121,43 @@ footer
         width: 100%
         height: 400px
         margin: 7em 0
+
+// QuoteGrid
+.quotegrid
+    position: relative
+    .image
+        background: $secondary
+        figure
+            background-size: cover
+            height: 100%
+            width: 100%
+            margin: 0
+        &:hover
+            figure
+                mix-blend-mode: screen
+                -webkit-filter: grayscale(100%)
+                filter: grayscale(100%)
+    
+    .quotegrid-overlay
+        display: none
+        position: absolute
+        height: 100%
+        top: 0
+        left: 0
+        background: transparentize($secondary, 0.1)
+        transition: $speed
+        opacity: 0
+        padding: 0.5rem
+
+    .quotegrid-icon
+        &.is-active
+            z-index: 1
+            .quotegrid-overlay
+                display: block
+                animation: unOpaque $speed ease-in-out forwards
+
+@keyframes unOpaque
+    from
+        opacity: 0
+    to
+        opacity: 1
