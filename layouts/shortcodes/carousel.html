@@ -4,16 +4,14 @@
             <div class="image is-128x128">
                 <figure style="background-image: url({{ .img | relURL }})" ></figure>
             </div>
-            <div class='quotegrid-overlay media'>
-                <div class="media-left image is-128x128">
+            <div class='quotegrid-overlay'>
+                <div class="image is-128x128">
                     <figure style="background-image: url({{ .img | relURL }})" ></figure>
                 </div>
-                <div class="media-right">
-                    <blockquote>
-                        {{ .quote }}
-                        <cite>{{ .attr }}</cite>
-                    </blockquote>
-                </div>
+                <blockquote>
+                    {{ .quote }}
+                    <cite>{{ .attr }}</cite>
+                </blockquote>
             </div>  
         </div>
     {{ end }}

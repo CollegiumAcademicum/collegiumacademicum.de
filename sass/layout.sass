@@ -140,4 +140,10 @@ img.modal-button
             z-index: 1
             .quotegrid-overlay
                 display: block
-                opacity: 1
+                animation: unOpaque $speed ease-in-out forwards
+
+@keyframes unOpaque
+    from
+        opacity: 0
+    to
+        opacity: 1
