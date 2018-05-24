@@ -45,4 +45,5 @@ date: 2018-03-26T03:53:46+02:00
     </div>
 </div>
 
+<h3>Unterstützer</h3>
 {{< carousel >}}
