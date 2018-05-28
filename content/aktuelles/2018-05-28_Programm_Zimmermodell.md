@@ -12,7 +12,7 @@ schaut euch ein zukünftiges Wohnheimszimmer in Ruhe an.
 Neben den Infoständen gibt es folgende Programmpunkte:
 <table>
   <tr>
-    <td>Jonglier-Workshop</td><td>17:30</td><td>Neuenheimer Feld (Zentralmensa)</td><td>Hast du Lust etwas über die Kunst des Jonglierens zu lernen? Komm vorbei</td>
+    <td>Jonglier-Workshop</td><td>17:30 <strong>28.05.</strong></td><td>Neuenheimer Feld (Zentralmensa)</td><td>Hast du Lust etwas über die Kunst des Jonglierens zu lernen? Komm vorbei</td>
   </tr>
   <tr>
 	<td colspan="4">Demnächst werden hier weitere Programmpunkte zu finden sein.</td>
