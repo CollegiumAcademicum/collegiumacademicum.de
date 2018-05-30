@@ -30,7 +30,7 @@
 <body>
     <!-- START NAV -->
     <header id="navHero" class="hero is-white">
-        <div class="hero-body is-hidden-touch">
+        <div class="hero-body is-hidden-mobile">
             <div class="container has-text-centered">
                 <a href="{{ "/" | relLangURL }}">
                     <img src="{{ "img/logo.png" | relURL }}" alt="Logo">
@@ -52,7 +52,7 @@
                         </span>
                     </div>
                     <div id="navbarMenu" class="navbar-menu">
-                        <div class="navbar-start">
+                        <div class="navbar-start navbar-middle-desktop">
                             {{ if eq .Site.Language.Lang "de" }}
                                 {{ partial "menu.html" }}
                             {{ else }}
