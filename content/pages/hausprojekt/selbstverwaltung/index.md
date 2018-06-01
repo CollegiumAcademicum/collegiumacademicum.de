@@ -8,7 +8,7 @@ date: 2018-04-02T13:20:10+02:00
     Unabhängig von Interessen Dritter gestalten die Bewohner*innen des CA ihr gemeinschaftliches Zusammenleben selbst. Die Grundlage hierfür bilden basisdemokratische Strukturen: flache Hierarchien, sowie konsensorientierte und transparente Entscheidungsprozesse. Das höchste Organ stellt die Vollversammlung dar. Über Gremien und Eigeninitiative übernimmt jede*r Verantwortung und bringt sich in die Gemeinschaft ein, politisches Engagement wird selbstverständlich Teil des Alltags: Jungen Menschen wird die aktive Gestaltung der Gesellschaft, in der sie leben wollen, ermöglicht. 
     </div>
     <div class="column">
-    {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" >}}
+        {{< img src="gruppenarbeit" alt="" attr="" >}}
     </div>
 </div>
 

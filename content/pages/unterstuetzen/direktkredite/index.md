@@ -3,7 +3,14 @@ title: "Direktkredite"
 date: 2018-04-02T18:14:10+02:00
 ---
 
-Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen, selbstbestimmtes Lernen und Leben in Heidelberg. Für über 200 junge Menschen ensteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung um eigene Potenziale zu entdecken, einen Raum um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+<div class="columns">
+  <div class="column">
+    Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen, selbstbestimmtes Lernen und Leben in Heidelberg. Für über 200 junge Menschen ensteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung um eigene Potenziale zu entdecken, einen Raum um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+  </div>
+  <div class="column">
+    {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" >}}
+  </div>
+</div>
 
 Ihr Direktkredit leistet einen Beitrag jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 

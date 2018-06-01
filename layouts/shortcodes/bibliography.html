@@ -15,6 +15,12 @@
     <li>
         {{ .title | markdownify }}
         <cite>{{ .cite }}</cite>
+        {{ if isset . "audio" }}
+        <audio controls>
+            <source src="/audio/{{ .audio }}">
+            Your browser does not support the audio element
+        </audio>
+        {{ end }}
     </li>
 {{ end }}
 </ul>
