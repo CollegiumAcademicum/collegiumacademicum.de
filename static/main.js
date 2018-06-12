@@ -76,9 +76,7 @@ $quoteGridIcons.forEach(function ($el) {
 
 $quoteGrids.forEach(function ($el) {
   $el.addEventListener('click', function () {
-    console.log('inside...')
     $quoteGridIcons.forEach(function ($el) {
-      console.log('runnin..')
       $el.classList.remove('is-active');
     });
   });
