@@ -3,12 +3,9 @@ title: "Veranstaltungen im Zimmermodell"
 date: 2018-06-12T08:00:19+02:00
 ---
 
-Kurzes Update: Unser Zimmermodell steht nun im Neuenheimerfeld in der
-Nähe der Zentralmensa. Die kommende Woche gibt es am **Montag, Dienstag und Mittwoch
-von 11 - 16 Uhr** einen **Infostand**. Kommt gerne vorbei und
-schaut euch ein zukünftiges Wohnheimszimmer in Ruhe an.
+Kurzes Update: Unser Zimmermodell steht nun am  [Fensterplatz](https://www.openstreetmap.org/node/5576336951). Der Fensterplatz ist ein Co-Working-Café im ehemaligen Pförtnerhaus des Geländes von Heidelberg Druckmaschinen, Zugang von der Kurfürstenanlage aus, 300m vom Hauptbahnhof entfernt.
 
-Neben den Infoständen gibt es folgende Programmpunkte:
+Wir planen momentan weitere Veranstaltungen und Öffnungszeiten während denen das Zimmermodell besichtigt werden kann. Die Programmpunkte werden wir in Kürze hier veröffentlichen:
 
 | Was? | Wann? | Wo? | |
 | --- | --- | --- | --- |

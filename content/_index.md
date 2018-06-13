@@ -3,8 +3,9 @@ title: "Collegium Academicum"
 date: 2018-03-26T03:53:46+02:00
 ---
 
-<!-- <div class="notification is-primary"><button class="delete"></button>
-</div> -->
+<div class="notification is-primary"><button class="delete"></button>
+    Aktuell kann unser Zimmermodell am <a href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a> besucht werden. Das Co-Working Café Fensterplatz befindet sich auf dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m entfernt vom Hauptbahnhof an der Kurfürstenanlage. Veranstaltungen an dem Modell werden unter <a href="https://collegiumacademicum.de/aktuelles">Aktuelles</a> gelistet.
+</div>
 
 <div class="columns is-centered">
 <div class="column is-10" style="line-height: 1.2em; text-align: justify;">Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim für Heidelberg zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert.</div></div>
