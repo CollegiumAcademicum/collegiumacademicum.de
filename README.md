@@ -3,6 +3,7 @@
 This repo contains the new version of collegiumacademicum.de.
 
 ## Installation
+
 The website is a static website built with the static site generator [Hugo](gohugo.io). As CSS framework we use [Bulma](bulma.io).
 
 You will need to have the `Hugo` and the `SASS` binary installed. You may do this by:
@@ -15,25 +16,27 @@ You will need to have the `Hugo` and the `SASS` binary installed. You may do thi
 
 Next clone the repo. As the repo contains submodules you will need to do:
 
-```
+```shell
 git clone --recursive -j8 git://github.com/CollegiumAcademicum/collegiumacademicum.de.git
 ```
+
 ## Compiling
-We use make to build the website. For _development_ mode you have to edit the `LOCALURL` variable in the `Makefile` to point to your local webservers base URL.
+
+We use `make` to build the website. Copy the `Makefile.example` to `Makefile` and set the `FTP_USER` variable and the `LOCALURL` _if needed_.
 
 | Command | Function |
 | --- | --- |
-| `make publish` | Build for online deployment (into ./upload/)|
-| `make local_publish` | Build for local development (into ./public/)|
-| `make clean` | Clean the build folder |
-| `make html` | Build the html files for online deployment |
-| `make local_html` | Build the html files for local development |
+| `make publish` | Build for online deployment (into ./upload/) and upload using `lftp` |
+| `make local` | Build for local development (into ./public/)|
+| `make clean` | Clean all generated files |
 | `make css` | Only compile the SASS files |
 
 ### Audio files
+
 The audio files for the CA Ausstellung are way to big to put them in the Git project. Also having them in the content folder makes hugo considerably slower just because theyre huge. Therefore they have to be put into the web space by hand. Into the `/audio/` folder.
 
 ## Shortcodes
+
 You can use the following custom shortcodes in the content markdown files to get programmatic content blocks:
 
 | Shortcode | function |
