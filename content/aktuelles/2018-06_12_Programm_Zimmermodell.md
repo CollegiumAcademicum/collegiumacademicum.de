@@ -9,6 +9,7 @@ Wir planen momentan weitere Veranstaltungen und Öffnungszeiten während denen d
 
 | Was? | Wann? | Wo? | |
 | --- | --- | --- | --- |
+| [Schmuck aus Müll](https://www.facebook.com/events/861188190735337/) | 16:00 - 18:00 **22.06** | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Kommt vorbei, bringt euren „eingentlich-viel-zu-schade-zum Wegschmeißen-Müll“ mit und bastelt mit uns! Aus alt mach neu! |
 | [Fensterlunch am Fensterplatz](https://www.fensterplatz-heidelberg.de/#Termine) | 12:30 - 14:00 **13.06.** | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Lunch mit Foodtrucks und einem darstellendem Künstler |
 | Cornern | 17:00 **07.06.** | Neuenheimer Feld (Zentralmensa) | Kommt vorbei und enspannt mit uns! |
 | Küche für Alle (Küfa) | 12:30 **07.06.** | Neuenheimer Feld (Zentralmensa) | Hat es euch beim letzten Mal geschmeckt? Besucht uns gerne wieder und haut rein. |
