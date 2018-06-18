@@ -5,6 +5,14 @@ date: 2018-06-12T08:00:19+02:00
 
 Kurzes Update: Unser Zimmermodell steht nun am  [Fensterplatz](https://www.openstreetmap.org/node/5576336951). Der Fensterplatz ist ein Co-Working-Café im ehemaligen Pförtnerhaus des Geländes von Heidelberg Druckmaschinen, Zugang von der Kurfürstenanlage aus, 300m vom Hauptbahnhof entfernt.
 
+<figure>
+<table>
+ <tr>
+  <td><img src="Demonstrator5.jpg" /></td><td><img src="Demonstrator6.jpg" /></td>
+ </tr>
+</table>
+</figure>
+
 Wir planen momentan weitere Veranstaltungen und Öffnungszeiten während denen das Zimmermodell besichtigt werden kann. Die Programmpunkte werden wir in Kürze hier veröffentlichen:
 
 | Was? | Wann? | Wo? | |
