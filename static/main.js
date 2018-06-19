@@ -70,6 +70,7 @@ $quoteGridIcons.forEach(function ($el) {
   $el.addEventListener('click', function (e) {
     if (e.target.tagName === 'FIGURE') {
       $el.classList.add('is-active');
+      $el.querySelector('.quotegrid-overlay').classList.remove('is-hidden')
     }
   });
 });
