@@ -6,7 +6,6 @@
         background-repeat: no-repeat
     .navbar
         background: $background
-        box-shadow: $box-shadow
     .navbar-item, .navbar-item .navbar-link
         font-family: $family-accent
         font-size: 1.5rem
@@ -17,6 +16,7 @@
             background: #f0f0f0
     .navbar-menu
         +desktop
+            border-bottom: 1px solid $grey-lighter
             justify-content: center
     .navbar-start
         +desktop
@@ -88,6 +88,10 @@ footer
         .modal
             figure:not(:last-child)
                 margin-bottom: 6em
+
+        p, .column
+            +mobile
+                text-align: justify
 
 // Modal
 .modal
