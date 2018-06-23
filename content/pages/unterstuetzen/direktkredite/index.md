@@ -19,8 +19,8 @@ Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
 ## Aktueller Stand
-<progress class="progress is-large is-primary" value="820" max="2000">750.000 €</progress>
-Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Vom Beginn des Herbstes bis zum Ende letzten Jahres konnten wir 400.000 Euro Direktkredite sammeln.
+<progress class="progress is-large is-primary" value="820" max="1600">820.000 €</progress>
+Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
 
 <section class="accordions">
   <div class="accordion is-active">
@@ -43,11 +43,11 @@ Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen
       <div class="columns">
         <div class="column">
         <h3>Sofort-Direktkredit</h3>
-        Sofort-Direktkredite stehen uns unmittelbar zur Verfügung. Damit können wir wichtige externen Planungsleistungen und Genehmigungen finanzieren. Diese Initialfinanzierung ist entscheidend für den Erfolg des Projekts. Ohne Sofort-Direktkredite ist eine Umsetzung des Projektes nicht möglich. 
+        Sofort-Direktkredite stehen uns unmittelbar zur Verfügung. Damit können wir wichtige externen Planungsleistungen und Genehmigungen finanzieren. Diese Initialfinanzierung ist entscheidend für den Erfolg des Projekts. Ohne Sofort-Direktkredite ist eine Umsetzung des Projektes nicht möglich.
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-        Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen. 
+        Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen.
         </div>
       </div>
       </div>
@@ -59,7 +59,7 @@ Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen
     </div>
     <div class="accordion-body">
       <div class="accordion-content">
-      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0.01 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten. 
+      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0.01 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@ Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen
     </div>
     <div class="accordion-body">
       <div class="accordion-content">
-      Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Du bist daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhältst du auf Wunsch eine Bescheinigung über die Zinseinnahmen. 
+      Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Du bist daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhältst du auf Wunsch eine Bescheinigung über die Zinseinnahmen.
       </div>
     </div>
   </div>
@@ -89,7 +89,7 @@ Zurzeit haben wir inklusive Spenden bereits __820.000 Euro__ eingeworben. Vielen
     </div>
     <div class="accordion-body">
       <div class="accordion-content">
-      Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des Vermögensanlagengesetzes. Danach bietet die Träger-GmbH mehrere Vermögensanlagen mit unterschiedlichen Zinssätzen an. Im Rahmen einer einzelnen Vermögensanlage werden innerhalb von 12 Monaten nicht mehr als insgesamt 100.000 Euro bzw. maximal 20 Direktkredite angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz (Bagatellgrenze). 
+      Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des Vermögensanlagengesetzes. Danach bietet die Träger-GmbH mehrere Vermögensanlagen mit unterschiedlichen Zinssätzen an. Im Rahmen einer einzelnen Vermögensanlage werden innerhalb von 12 Monaten nicht mehr als insgesamt 100.000 Euro bzw. maximal 20 Direktkredite angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz (Bagatellgrenze).
       </div>
     </div>
   </div>
