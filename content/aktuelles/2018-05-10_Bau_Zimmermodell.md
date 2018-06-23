@@ -13,10 +13,10 @@ können wir unsere Ideen in Realgröße ausprobieren und der
 <figure>
 <table>
  <tr>
-  <td><img src="Demonstrator1.jpg" /></td><td><img src="Demonstrator2.jpg" /></td>
+  <td><img src="/aktuelles/Demonstrator1.jpg" /></td><td><img src="/aktuelles/Demonstrator2.jpg" /></td>
  </tr>
  <tr>
-  <td><img src="Demonstrator3.jpg" /></td><td><img src="Demonstrator4.jpg" /></td>
+  <td><img src="/aktuelles/Demonstrator3.jpg" /></td><td><img src="/aktuelles/Demonstrator4.jpg" /></td>
  </tr>
 </table>
 <figcaption><cite>Kleine Einblicke beim Bau des Demonstrators</cite></figcaption>

@@ -1,5 +1,5 @@
 ---
-title: "Diskussionsabend"
+title: "Zimmermodell auf dem Uniplatz"
 date: 2018-05-13T17:14:19+02:00
 ---
 
@@ -28,3 +28,5 @@ angekommen und heißen euch wilkommen.
 </tr>
 </table>
 </figure>
+
+Erfahren Sie <a href="{{< relref "2018-05-10_Sponsoren_Zimmermodell.md" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
