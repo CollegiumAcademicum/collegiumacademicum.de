@@ -3,9 +3,11 @@ title: "Wohnen"
 date: 2018-03-27T20:26:42+02:00
 ---
 
-Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zentrum: Das neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in Heidelberg-Rohrbach, setzt sich aus zwei Bestandsgebäuden und einem innovativen Neubau in moderner Holzbauweise zusammen.
+Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in Heidelberg-Rohrbach, setzt sich aus zwei Bestandsgebäuden und einem innovativen Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende 2019 in den Neubau einziehen.
 
-<div class="columns">
+## Der Neubau
+
+<div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< cimg src="model" attr="DGJ Architektur 2016" >}}
             {{< img src="model_nw" attr="DGJ Architektur 2016" >}}
@@ -21,7 +23,7 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
 
 <div class="columns">
     <div class="column">
-      Der innovative Holzbau bietet Platz für Individualität und Gemeinschaft: 42 Wohngemeinschaften für drei oder vier Personen sind auf die vier Etagen des Neubaus verteilt. Die oberen Wohnungen werden von einem Dachgarten oberhalb der Aula aus durch Laubengänge erreicht. Alle Wohnungen und Wege sind auf Standards barrierearmen Wohnens ausgelegt, insbesondere im Erdgeschoss. Dort befinden sich auch die Gemeinschaftsflächen: eine Werkstatt, die Aula und ein Multifunktionsraum mit Küche.
+      Der innovative Holzbau bietet Platz für Individualität und Gemeinschaft: 46 Wohngemeinschaften für drei oder vier Personen sind auf die vier Etagen des Neubaus verteilt. Die oberen Wohnungen verbindet auf dem Dach der Aula ein Dachgarten als Begegnungsstätte. Alle Wohnungen und Wege sind auf Standards barrierearmen Wohnens ausgelegt, insbesondere im Erdgeschoss. Dort befinden sich auch die Gemeinschaftsflächen: eine Werkstatt, die Aula und ein Multifunktionsraum mit Küche.
     </div>
     <div class="column">
         {{< img src="grundriss" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2017" >}}
@@ -42,7 +44,11 @@ Selbstverwaltetes Studierendenwohnheim, Bildungsinstitution und kulturelles Zent
     </div>
 </div>
 
-Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstbau entstehen Wohnboxen, in der umliegenden Gebäudehülle steht Gemeinschaftsfläche für Zusammenleben, Lernen und kreatives Arbeiten zur Verfügung. Mehrere Seminarräume sind für die Bewohner*innen und externen Initiativen im Erdgeschoss untergebracht. Das im Altbau vorgesehene Propädeutikum ist wichtiger Bestandteil des ganzheitlichen Bildungskonzepts.
+Für den innovativen Charakter im Bereich flexiblen Wohnens und das nachhaltige Baukonzept welches einen Fokus auf Gemeinschaftsflächen legt wird das Projekt mit 2,2 Millionen Euro aus dem Zukunftsinvestitionsprogramm „Variowohnen“  des Bundesbauministerium gefördert.
+
+## Der Altbau
+
+Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstbau sollen Wohnboxen entstehen, in der umliegenden Gebäudehülle sollen Gemeinschaftsfläche für Zusammenleben, Lernen und kreatives Arbeiten zur Verfügung stehen. Mehrere Seminarräume sind für die Bewohner*innen und externen Initiativen im Erdgeschoss angedacht. Das im Altbau vorgesehene Orintierungsjahr ist wichtiger Bestandteil des ganzheitlichen Bildungskonzepts.
 
 Die Internationale Bauausstellung (IBA) Heidelberg, die als Exzellenzinitiative für Stadtplanung bis 2022 an zukunftsweisenden Lösungen angesichts städtebaulicher und gesellschaftlicher Herausforderungen arbeitet, kürte das Vorhaben 2015 zum IBA_PROJEKT unter dem Motto ‚Wissen | schafft | Stadt’.
 

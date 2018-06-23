@@ -8,7 +8,10 @@ date: 2018-03-26T03:53:46+02:00
 </div>
 
 <div class="columns is-centered">
-<div class="column is-10" style="line-height: 1.2em; text-align: justify;">Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim für Heidelberg zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert.</div></div>
+    <div class="column is-10" style="line-height: 1.2em; text-align: justify;">
+        Seit 2013 arbeiten wir als 20-köpfige ehrenamtliche Projektgruppe daran, ein selbstverwaltetes Wohnheim zu schaffen, das 220 jungen Menschen Raum zum Leben ermöglichen soll. Aufbauend auf dem Grundgedanken des bis in die 1970er Jahre in Heidelberg existierenden Wohnheims Collegium Academicum wollen wir einen Ort schaffen, der günstiges und selbstbestimmtes Leben für Studierende und Auszubildende in Heidelberg ermöglicht, Demokratie erlebbar macht und dabei den kulturellen und sozialen Austausch in einem Bildungskontext fördert. Die ersten Bewohner*innen sollen Ende 2019 in das auf der Konversionsfläche „US-Hospital“ in Heidelberg-Rohrbach entstehende Wohnheim einziehen. <a href="https://collegiumacademicum.de/direktkredite/">Wie Sie das Projekt unterstützen können, erfahren Sie hier.</a>
+    </div>
+</div>
 
 <!-- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
     <iframe src="https://player.vimeo.com/video/191458892?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -26,7 +29,7 @@ date: 2018-03-26T03:53:46+02:00
     <a href="https://collegiumacademicum.de/bildung" ><img src="front_bildung.png"></a>
     <div>
         <div><h2><a href="https://collegiumacademicum.de/bildung" >Bildung</a></h2></div>
-        Studium Generale, Propädeutikum und Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. <a class="mehr" href="https://collegiumacademicum.de/bildung" >Mehr...</a>
+        Interdisziplinäres Studienprogramm, Orintierungsjahr und Projektorientiertes Lernen – das ganzheitliche und interdisziplinäre Bildungskonzept des CA bietet Orientierung, regt zur kritischen Auseinandersetzung an und schafft Raum für Initiativen. <a class="mehr" href="https://collegiumacademicum.de/bildung" >Mehr...</a>
     </div>
 </div>
 
