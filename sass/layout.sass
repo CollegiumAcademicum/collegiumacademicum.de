@@ -128,11 +128,41 @@ footer
     padding: 1em 4em
 
 // Map
-#ca-map
-    +tablet
+.mapboxgl-map
+    .marker
+        background-size: cover
+        cursor: pointer
+
+    .mapboxgl-popup
+        max-width: 200px
+
+    .mapboxgl-popup-content
+        text-align: center
+        font-family: $family-sans-serif
+
+    &#ca-map
+        height: 60vh
         width: 100%
-        height: 400px
-        margin: 7em 0
+        +tablet
+            height: 400px
+            margin: 7em 0
+
+        .marker
+            background-image: url('/img/map-voigl-icon.png')
+            width: 22px
+            height: 22px
+
+    // Demonstrator Map
+    &#ca-demonstrator-map
+        height: 80vh
+        width: 100%
+        +tablet
+            height: 400px
+
+        .marker
+            background-image: url('/img/map-demonstrator-icon.png')
+            width: 40px
+            height: 40px
 
 // QuoteGrid
 .quotegrid
