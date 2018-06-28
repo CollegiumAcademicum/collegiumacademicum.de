@@ -13,10 +13,11 @@ Wir planen momentan weitere Veranstaltungen und Öffnungszeiten während
 denen das Zimmermodell besichtigt werden kann. Die Programmpunkte
 werden wir in Kürze hier veröffentlichen:
 
-| Was?                                                                            | Wann?                    | Wo?                                                           |                                                                                                                             |
-|---------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| HAIlight                                                                        | 18:00  **13.07.**        | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | -                                                                                                                           |
-| Geldkompass                                                                     | **09.07.**               | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | -                                                                                                                           |
+| Was?                                                                            | Wann?                    | Wo?                                                           |            |
+|---------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------|------------|                       
+| HAIlight                                                                        | 18:00  **13.07.**        | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | -          | 
+| <a href="{{< relref "2018-06-28_DK-Infoabend.md" >}}">Infoabend: Direktkredit</a>                   | 19:30  **10.07.**        | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Stellen Sie Ihre Fragen zur finanziellen Unterstüzung unseres Projekts. | 
+| Geldkompass                                                                     | **09.07.**               | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | -          |
 | [Schmuck aus Müll](https://www.facebook.com/events/861188190735337/)            | 16:00 - 18:00 **22.06**  | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Kommt vorbei, bringt euren „eingentlich-viel-zu-schade-zum Wegschmeißen-Müll“ mit und bastelt mit uns! Aus alt mach neu!    |
 | [Fensterlunch am Fensterplatz](https://www.fensterplatz-heidelberg.de/#Termine) | 12:30 - 14:00 **13.06.** | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Lunch mit Foodtrucks und einem darstellendem Künstler                                                                       |
 
