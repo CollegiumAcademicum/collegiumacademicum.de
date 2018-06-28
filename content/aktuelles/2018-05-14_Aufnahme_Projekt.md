@@ -14,6 +14,6 @@ Wir bedanken uns bei allen beteiligten Menschen und freuen uns sehr
 Teil dieser großen Sache zu sein.
 
 <figure>
-<img src="mhs_mv_vorstellung.jpg"/>
+<img src="/aktuelles/mhs_mv_vorstellung.jpg"/>
 <figcaption><cite>© Christian Hölzing</cite></figcaption>
 </figure>

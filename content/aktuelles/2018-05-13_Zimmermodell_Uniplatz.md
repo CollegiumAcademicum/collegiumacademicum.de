@@ -23,8 +23,8 @@ angekommen und heißen euch wilkommen.
 <figure>
 <table>
 <tr>
-<td><img src="demonstrator_uni_small.jpg"/></td>
-<td><img src="demonstrator_uni_traktor_small.jpg"/></td>
+<td><img src="/aktuelles/demonstrator_uni_small.jpg"/></td>
+<td><img src="/aktuelles/demonstrator_uni_traktor_small.jpg"/></td>
 </tr>
 </table>
 </figure>

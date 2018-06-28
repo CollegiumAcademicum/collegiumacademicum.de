@@ -16,8 +16,7 @@ Veranstaltung zu ergänzen.
 
 Am **Montag, den 11. Juni um 14 Uhr** geht es los: Wir feiern zusammen
 mit der Internationalen Bauausstellung Heidelberg
-([IBA](https://iba.heidelberg.de/)) und dem Heidelberger
-Projektentwickler [Epple](https://www.eppleimmobilien.de/) ein
+([IBA](https://iba.heidelberg.de/)) und unserem Gastgeber [Epple](https://www.eppleimmobilien.de/) ein
 Zimmermodell-Opening.  Es wird ein gemeinsames Pressegespräch geben
 und im Anschluss jede Menge Raum für Austausch.
 

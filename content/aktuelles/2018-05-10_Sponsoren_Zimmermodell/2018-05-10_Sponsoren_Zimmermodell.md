@@ -20,6 +20,9 @@ Vielen Dank für die großzügige Unterstützung!
 <tr>
   <td style="text-align:center;"><a href="https://www.pabst-metallbau.de/"><img src="/aktuelles/2018-05-10_Sponsoren_Zimmermodell/pabst_logo.svg" style="height:10em" /></a></td><td style="vertical-align:middle;"><a href="https://www.nora.com/global/en"><img src="/aktuelles/2018-05-10_Sponsoren_Zimmermodell/nora_logo.svg" /></a></td>
  </tr> 
+ <tr>
+  <td style="text-align:center;" colspan="2"><a href="https://www.stamisol.com/"><img src="/aktuelles/2018-05-10_Sponsoren_Zimmermodell/stamisol_logo.svg"  style="height:3.5em" /></a></td>
+ </tr> 
 </table>
 <figcaption><cite>Sponsoren unseres Zimmermodells</cite></figcaption>
 </figure>
