@@ -4,7 +4,15 @@ date: 2018-03-26T03:53:46+02:00
 ---
 
 <div class="notification is-primary"><button class="delete"></button>
-    Aktuell kann unser Zimmermodell am <a href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a> besucht werden. Das Co-Working Café Fensterplatz befindet sich auf dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m entfernt vom Hauptbahnhof an der Kurfürstenanlage. Veranstaltungen an dem Modell werden unter <a href="https://collegiumacademicum.de/aktuelles">Aktuelles</a> gelistet.
+    Aktuell kann unser Zimmermodell am <a
+    href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a>
+    besucht werden. Das Co-Working Café Fensterplatz befindet sich auf
+    dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m
+    entfernt vom Hauptbahnhof an der Kurfürstenanlage.<br />
+	Am <strong>10. Juli</strong> findet am Zimmermodell ein Infoabend zum Thema
+    Direktkredite statt. Weitere Veranstaltungen an dem Modell werden unter <a
+    href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
+    gelistet.
 </div>
 
 <div class="columns is-centered">
