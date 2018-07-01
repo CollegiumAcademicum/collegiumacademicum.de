@@ -8,8 +8,8 @@
 {{ .Date.Day }}. {{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
 </time>
 </p>
-<div class="content content_newsletter">
-  <div>
+
+<div style="margin: 0 auto; width:95%;">
     {{ .Content }}
 </div>
 {{ end }}

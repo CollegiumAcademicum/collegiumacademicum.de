@@ -6,19 +6,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    
     <meta name="theme-color" content="#38A9A1">
 
-    <link rel="stylesheet" href="{{ "main.css" | relURL }}" />
+    <!-- <link rel="stylesheet" href="{{ "main.css" | relURL }}" /> -->
+
+    <!-- <link rel="stylesheet" href="https://collegiumacademicum.de/main.css" /> -->
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <style>
+      img {
+      display:block;
+      margin:0 auto;
+      }
+      
+      h1 {
+      text-align:center
+      }
+
+      h2 {
+      text-align:center
+      }
+      
+      #date_newsletter {
+      margin: 0 auto;
+      font-size: 1.5em;
+      text-align: center;
+      }
+
+      .button {
+      display:inline-block;
+      width: 10em;
+      height: 2em;
+      border-radius: 15px;
+      background-color: #38A9A1;
+      text-align: center;
+      padding-top: 0.8em;
+      color: white;
+      text-decoration: none;
+      }
+      </style>
 </head>
 
-<body>
-  <div id="upper_delimiter">
+<!-- styles must be entered explicitly so that need css file needs to be loaded" -->
+<body style="background-color:#fcfcfc;">
+  <div style="margin: 1em auto 0; width: 50%; height: 50px; background-color: #38A9A1; border-radius: 30px 30px 0 0; ">
      	&nbsp;
   </div>
-  <main class="main content main_newsletter">
-    <img id="logo_newsletter" src="{{ "img/logo.png" | relURL }}" alt="Logo: Collegium Academicum" />
+  <main style="margin:0 auto; width:50%; background-color: white">
+    <img style="margin: 1em auto 0;" src="{{ "img/logo.png" | relURL }}" alt="Logo: Collegium Academicum" />
         {{ block "main" . }}
         {{ end }}
 
@@ -28,9 +64,9 @@
             </div>
         </div>
 
-        <div class="buttons" style="padding-top:2em; border-top: 1px solid #ccc;">
-            <a class="button is-primary" href="https:/collegiumacademicum.de">Homepage</a>
-            <a class="button is-secondary" href="/unsubscribe">Unsubscribe</a>
+        <div style="margin: 0 auto; padding-top:2em; border-top: 1px solid #ccc; width: 50%; text-align:center;">
+            <a class="button" href="https:/collegiumacademicum.de">Homepage</a>
+            <a class="button" style="background-color:#B8161A" href="/unsubscribe">Unsubscribe</a>
         </div>
     </main>
 </body>
