@@ -2,8 +2,14 @@
 
 {{ define "main" }}
 <h1 class="title is-1">{{ .Title }}</h1>
-<h4 class="title is-4" style="padding-bottom: 1em; margin-bottom: 1em; border-bottom: 1px solid #ccc;">Collegium Academicum — {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-<div class="content">
+
+<p id="date_newsletter">
+<time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
+{{ .Date.Day }}. {{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+</time>
+</p>
+<div class="content content_newsletter">
+  <div>
     {{ .Content }}
 </div>
 {{ end }}

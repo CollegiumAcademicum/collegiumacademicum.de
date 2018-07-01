@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -13,7 +14,11 @@
 </head>
 
 <body>
-    <main class="section content">
+  <div id="upper_delimiter">
+     	&nbsp;
+  </div>
+  <main class="main content main_newsletter">
+    <img id="logo_newsletter" src="{{ "img/logo.png" | relURL }}" alt="Logo: Collegium Academicum" />
         {{ block "main" . }}
         {{ end }}
 
