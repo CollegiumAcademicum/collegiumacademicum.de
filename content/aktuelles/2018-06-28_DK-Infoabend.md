@@ -3,8 +3,8 @@ title: "Infoabend: Direktkredite. Eine ökologisch nachhaltige Geldanlage."
 date: 2018-06-28T09:04:19+02:00
 ---
 
-Am **10. Juli 2018 um 19:30 Uhr** veranstalten wir einen Infoabend zu
-Thema Direktkredite. 
+Am **10. Juli 2018 um 19:30 Uhr** veranstalten wir einen Infoabend zum
+Thema Direktkredite.
 
 Direktkredite sind das Herz und wichtigste Voraussetzung unserer
 Finanzierung, da sie das Fundament für unsere zwei weiteren
