@@ -1,7 +1,7 @@
 {{ define "title" }} {{ .Title }} - {{ .Site.Title }} {{ end }}
 
 {{ define "main" }}
-<h1 class="title is-1">{{ .Title }}</h1>
+<h1>{{ .Title }}</h1>
 
 <p id="date_newsletter">
 <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
@@ -12,4 +12,5 @@
 <div style="margin: 0 auto; width:95%;">
     {{ .Content }}
 </div>
+
 {{ end }}
