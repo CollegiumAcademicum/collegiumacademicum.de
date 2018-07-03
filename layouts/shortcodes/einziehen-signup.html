@@ -1,11 +1,12 @@
 <!-- phplist form: einziehen -->
+<!-- REMINDER: Adapt the action attribute to the actually used list and the numbers in the list[x] and listname[x] fields -->
 <div class="columns is-centered">
   <form method="post" action="https://list.collegiumacademicum.de/?p=subscribe&id=6" name="subscribeform">
 
     <div class="field">
       <label class="label" for="EMAIL">{{ i18n "deine-mailadresse" }}</label>
       <div class="control has-icons-left">
-	<input type="text" name="email" value=""  class="input required email" id="EMAIL" size="55" />
+	<input type="email" name="email" value=""  class="input required email" id="EMAIL" size="55" />
 	<script language="Javascript" type="text/javascript">addFieldToCheck("email","E-Mail");</script>
 	<span class="icon is-small is-left">
 	  <i class="fas fa-envelope"></i>
