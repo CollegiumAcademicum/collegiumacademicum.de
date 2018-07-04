@@ -34,10 +34,10 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
 
 <div class="columns">
     <div class="column">
-    {{< cimg src="holzmodell_wg" attr="DGJ Architektur 2018" >}}
-        {{< img src="holzmodell_wg" attr="DGJ Architektur 2018" >}}
-        {{< img src="einzelwg" attr="DGJ Architektur 2016" >}}
-    {{< /cimg >}}
+        <figure>
+            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/24045214@N06/39829536020/" title="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"><img src="https://farm1.staticflickr.com/876/39829536020_3c98b557ef.jpg" width="500" height="281" alt="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            <figcaption><cite>© DGJ Architekten 2018</cite></figcaption>
+        </figure>
     </div>
     <div class="column">
       Ein flexibles Zusammenspiel von Individual- und Gemeinschaftsfläche innerhalb der Wohngemeinschaften wird durch bewegliche Wandelemente ermöglicht. Bei Einzug befinden sich alle Zimmer im ausgebauten Zustand von 14 Quadratmetern. Durch Verkleinerung der Individualfläche ist es möglich sich als Wohngemeinschaft für eine Gemeinschaftsfläche von bis zu 49 Quadratmetern zu entscheiden. Vielfältige Zwischenformen, etwa ein privater Kernbereich mit einem vorgelagerten Wohn- und Arbeitszimmer, das durch Regalwände, Vorhänge oder Ähnlichem durchlässig von der Gemeinschaftsfläche abgegrenzt ist, bieten Raum für individuelle Gestaltung.
