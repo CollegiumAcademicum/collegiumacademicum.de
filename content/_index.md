@@ -22,9 +22,9 @@ date: 2018-03-26T03:53:46+02:00
     </div>
 </div>
 
-<!-- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
     <iframe src="https://player.vimeo.com/video/191458892?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div> -->
+ </div>
 
 <div class="front-box wohnen">
     <a href="https://collegiumacademicum.de/wohnen" ><img src="front_wohnen.png"></a>
