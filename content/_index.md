@@ -3,24 +3,18 @@ title: "Collegium Academicum"
 date: 2018-03-26T03:53:46+02:00
 ---
 
-<!-- <div class="notification is-primary"><button class="delete"></button> -->
-<!--     Aktuell kann unser Zimmermodell am <a -->
-<!--     href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a> -->
-<!--     besucht werden. Das Co-Working Café Fensterplatz befindet sich auf -->
-<!--     dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m -->
-<!--     entfernt vom Hauptbahnhof an der Kurfürstenanlage.<br /> -->
-<!-- 	Am <strong>10. Juli</strong> findet am Zimmermodell ein Infoabend zum Thema -->
-<!--     Direktkredite statt. Weitere Veranstaltungen an dem Modell werden unter <a -->
-<!--     href="https://collegiumacademicum.de/aktuelles">Aktuelles</a> -->
-<!--     gelistet. -->
-<!-- </div> -->
-
 <div class="notification is-primary"><button class="delete"></button>
-	Heute Abend um <strong>17:30 Uhr</strong> findet, wie jeden ersten
-	Mittwoch im Monat, unser Kennenlerntreffen in der
-	<strong>Sandgasse 7</strong> in der Altstadt statt. Wenn du unser
-	Projekt interessant findest und dir vorstellen könntest mit zu
-	machen , komm sehr gerne vorbei. Wir freuen uns auf dich! </div>
+    Am <strong>10. Juli</strong> findet am Zimmermodell ein <strong>Infoabend zum Thema
+    Direktkredite</strong> statt. Weitere Veranstaltungen an dem Modell werden unter <a
+    href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
+    gelistet.<br />
+	Aktuell kann unser Zimmermodell am <a
+    href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a>
+    besucht werden. Das Co-Working Café Fensterplatz befindet sich auf
+    dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m
+    entfernt vom Hauptbahnhof an der Kurfürstenanlage.<br />
+</div>
+
 
 <div class="columns is-centered">
     <div class="column is-10" style="line-height: 1.2em; text-align: justify;">
