@@ -4,15 +4,14 @@ date: 2018-03-26T03:53:46+02:00
 ---
 
 <div class="notification is-primary"><button class="delete"></button>
-    Am <strong>10. Juli</strong> findet am Zimmermodell ein <strong>Infoabend zum Thema
-    Direktkredite</strong> statt. Weitere Veranstaltungen an dem Modell werden unter <a
-    href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
-    gelistet.<br />
-	Aktuell kann unser Zimmermodell am <a
+    Zurzeit kann unser Zimmermodell am <a
     href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a>
     besucht werden. Das Co-Working Café Fensterplatz befindet sich auf
     dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m
     entfernt vom Hauptbahnhof an der Kurfürstenanlage.<br />
+    Aktuelle Veranstaltungen an dem Modell werden unter <a
+    href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
+    aufgeführt.<br />
 </div>
 
 

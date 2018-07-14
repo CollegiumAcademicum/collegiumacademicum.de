@@ -5,46 +5,54 @@ date: 2018-04-02T18:42:10+02:00
 
 Das CA besteht heute aus Menschen, die zusammen in einer Projektgruppe
 den Neubau eines Studierendenwohnheims planen. Diese Projektgruppe ist
-u.a. aus dem Förderverein Collegium Academicum e.V.[^1], der seit vielen
-Jahren besteht, entstanden. Der Verein mietet seit Mitte der 80er das
-Haus in der Plöck 93, in dem heute 11 Studierende auf 3 Stockwerken
-wohnen. Des Weiteren ist er seit 2017 Mieter einer 8ter WG in
-der Rheinstraße 2, die CAtze genannt wird.
+aus einer Hausgemeinschaft in der Plöck 93 entstanden. Das Haus wird
+seit 1985 vom Förderverein Collegium Academicum e.V.[^1] betrieben, um
+Studierenden die Möglichkeit zu geben sich über ihr Studium hinaus zu
+engagieren. Dabei ist der Förderverein Bindeglied zwischen den
+Generationen und ermöglicht Erfahrungsaustausch, wobei das ehemalige
+CA in der Seminarstraße 2 einen reichhaltigen Reflektionspunkt bietet.
 
 {{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende auf dem Fritz*innen Hof bei Freiburg." >}}
 
-Die Bewohner*innen der Plöck 93, der CAtze und viele weitere Menschen
-verstehen sich als gestaltendes Element des zukünftigen
-Studierendenwohnheims und stehen im engen Austausch mit vielen
-ehemaligen Bewohner\*innen der Seminarstraße 2 (dem "alten CA"). Ziel
-ist es, durch verstärkte Aktivität, insbesondere durch den Neubau, auch mit
-Hilfe ehemaliger CA-ler\*innen und anderen Unterstützer*innen, das CA
-wieder zu einer in der Heidelberger Öffentlichkeit und unter den
-Studierenden bekannten sowie anerkannten Institution zu machen.
-[Unser Leitbild](/leitbild) spiegelt diese Ziele und deren Hintergründe wider.
+Wir sind eine motivierte, engagierte und offene Gruppe von
+Menschen. Wir verstehen uns als Gestalterinnen und Ermöglicherinnen
+des zukünftigen Studierendenwohnheims. Ziel ist es, durch verstärkte
+Aktivität, insbesondere durch den Neubau, das CA wieder zu einer in
+der Heidelberger Öffentlichkeit und unter den Studierenden bekannten
+sowie anerkannten Institution zu machen. [Unser Leitbild](/leitbild)
+spiegelt diese Ziele und deren Hintergründe wider.
+
+Der Fokus des neuen CA liegt auf der Bildung, denn wir sind überzeugt,
+dass Bildung die Grundlage einer funktionierenden und offenen
+Gesellschaft ist. Mündige und kritisch denkende Menschen können ein
+selbstbestimmtes Leben führen und für eine gerechte und
+zukunftsgerichtete Gesellschaft Initiative ergreifen. Wir wollen mit
+einem fächerübergreifenden, reflektierten und erfahrungsbasiertem
+Bildungsprogramm einen Teil dazu beitragen und Verantwortung
+übernehmen.
 
 ## Projektgruppe
 
 Die Projektgruppe trifft sich jeden Mittwoch um 18 Uhr in der
 Sandgasse 7 in der Heidelberger Altstadt, um gemeinsam den Bau des
-neuen Studierendenwohnheims zu planen, zu finanzieren und den Dialog
-mit der Öffentlichkeit zu pflegen. Die drei Bereiche Planung,
-Finanzierung und Öffentlichkeitsarbeit sind äußerst vielfältig: sie
-reichen von der Organisation von Infoständen bis in planerische
-Details des Baus. Um die vielen Aufgaben anzugehen, gibt es neben den
-Treffen mittwochs noch viele weitere Treffen im Lauf der Woche, in
-denen sich Kleingruppen mit speziellen Fragen beschäftigen. Die
-Mittwochstreffen sind offen für alle; du bist herzlich willkommen ein
-[Teil des CA zu werden](/mach-mit).
+neuen Studierendenwohnheims zu planen, dessen Finanzierung zu
+organisieren und den Dialog mit der Öffentlichkeit zu pflegen.
+Konkret reicht das beispielsweise von der Organisation von Infoständen
+bis in planerische Details rund um die Selbstbau-Fassade oder die
+Gestaltung der Wohnungen. Um die vielen Aufgaben anzugehen, gibt es
+neben den Treffen mittwochs noch viele weitere Treffen im Lauf der
+Woche, in denen sich Kleingruppen mit speziellen Fragen
+beschäftigen. Die Mittwochstreffen sind offen für alle; du bist
+herzlich willkommen ein [Teil des CA zu werden](/mach-mit).
 
 ## Weitere Aktivitäten
 
-Neben der Beschäftigung mit dem Bau des Studierendwohnheims, gibt es
-gemeinsame Abende in der Plöck oder CAtze, Teamwochenenden und vieles
-mehr. Der Austausch zu gesellschaftlichen Themen untereinander und mit
-anderen ist uns sehr wichtig. Deshalb haben wir in den letzten Jahren
-immer wieder Veranstaltungen und Aktionen durchgeführt, wie etwa
-Hofflohmärkte, Theater, Vorträge, Konzerte, Ausstellungen,
-Diskussionen und Themenabende...
+Neben der Beschäftigung mit dem neuen Wohnheim treffen wir uns für
+gemeinsame Abende, Teamwochenenden und vieles mehr. Der Austausch zu
+gesellschaftlichen Themen untereinander und mit anderen ist uns sehr
+wichtig. Deshalb haben wir in den letzten Jahren immer wieder
+Veranstaltungen und Aktionen durchgeführt, wie etwa Hofflohmärkte,
+Theater, Vorträge, Konzerte, Ausstellungen, Diskussionen und
+Themenabende...
 
 [^1]: Mitglieder des Fördervereins sind ehemalige und aktuelle Bewohner*innen und jede*r, der/die uns durch die Vereinsmitgliedschaft unterstützen möchte.
