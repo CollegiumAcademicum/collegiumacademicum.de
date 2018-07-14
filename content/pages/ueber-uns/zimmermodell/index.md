@@ -1,58 +1,63 @@
 ---
 title: "Zimmermodell"
-date: 2018-07-14T21:44:10+02:00
+date: 2018-07-14T00:10:10+02:00
 ---
 
-Das CA besteht heute aus Menschen, die zusammen in einer Projektgruppe
-den Neubau eines Studierendenwohnheims planen. Diese Projektgruppe ist
-aus einer Hausgemeinschaft in der Plöck 93 entstanden. Das Haus wird
-seit 1985 vom Förderverein Collegium Academicum e.V.[^1] betrieben, um
-Studierenden die Möglichkeit zu geben sich über ihr Studium hinaus zu
-engagieren. Dabei ist der Förderverein Bindeglied zwischen den
-Generationen und ermöglicht Erfahrungsaustausch, wobei das ehemalige
-CA in der Seminarstraße 2 einen reichhaltigen Reflektionspunkt bietet.
+Im Mai 2018 haben wir ein Zimmermodell in Realgröße gebaut, damit sich
+die Öffentlichkeit ein Bild von unserem Projekt machen kann. Der
+Prototyp zeigt eines der 176 Zimmer des Neubaus, die in 3er und 4er
+WGs organisiert sind. Wir stellen unseren "Demonstrator" an
+verschiedenen Orten in Heidelberg aus.
 
-{{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende auf dem Fritz*innen Hof bei Freiburg." >}}
+Im Folgenden ein paar fotografische Impressionen unseres Zimmermodells:
 
-Wir sind eine motivierte, engagierte und offene Gruppe von
-Menschen. Wir verstehen uns als Gestalterinnen und Ermöglicherinnen
-des zukünftigen Studierendenwohnheims. Ziel ist es, durch verstärkte
-Aktivität, insbesondere durch den Neubau, das CA wieder zu einer in
-der Heidelberger Öffentlichkeit und unter den Studierenden bekannten
-sowie anerkannten Institution zu machen. [Unser Leitbild](/leitbild)
-spiegelt diese Ziele und deren Hintergründe wider.
+<div class="columns">
+    <div class="column is-flex-middle">
+    Prototypische Innenausstattung der Kernzoe eines Wohnheimzimmers.
+    </div>
+    <div class="column">
+    {{< img src="dem_innenleben" alt="Prototypische Innenausstattung der Kernzone eines Wohnheimzimmers" >}}
+    </div>
+</div>
 
-Der Fokus des neuen CA liegt auf der Bildung, denn wir sind überzeugt,
-dass Bildung die Grundlage einer funktionierenden und offenen
-Gesellschaft ist. Mündige und kritisch denkende Menschen können ein
-selbstbestimmtes Leben führen und für eine gerechte und
-zukunftsgerichtete Gesellschaft Initiative ergreifen. Wir wollen mit
-einem fächerübergreifenden, reflektierten und erfahrungsbasiertem
-Bildungsprogramm einen Teil dazu beitragen und Verantwortung
-übernehmen.
+<div class="columns">
+ <div class="column">
+    {{< img src="dem_neuenheim" alt="Frontansicht des Zimmermodells. Aufgenommen im Neuenheimer Feld." >}}
+    </div>
+<div class="column is-flex-middle">
+Frontansicht des Zimmermodells. Aufgenommen im Neuenheimer Feld.
+    </div>
+</div>
 
-## Projektgruppe
+<div class="columns">
+<div class="column is-flex-middle">
+Das Zimmermodell kurz nach seiner Ankunft auf dem Uniplatz.
+    </div>
+     <div class="column">
+    {{< img src="dem_uniplatz" alt="Das Zimmermodell kurz nach seiner Ankunft auf dem Uniplatz." >}}
+    </div>
+</div>
 
-Die Projektgruppe trifft sich jeden Mittwoch um 18 Uhr in der
-Sandgasse 7 in der Heidelberger Altstadt, um gemeinsam den Bau des
-neuen Studierendenwohnheims zu planen, dessen Finanzierung zu
-organisieren und den Dialog mit der Öffentlichkeit zu pflegen.
-Konkret reicht das beispielsweise von der Organisation von Infoständen
-bis in planerische Details rund um die Selbstbau-Fassade oder die
-Gestaltung der Wohnungen. Um die vielen Aufgaben anzugehen, gibt es
-neben den Treffen mittwochs noch viele weitere Treffen im Lauf der
-Woche, in denen sich Kleingruppen mit speziellen Fragen
-beschäftigen. Die Mittwochstreffen sind offen für alle; du bist
-herzlich willkommen ein [Teil des CA zu werden](/mach-mit).
+Wir hätten das Zimmermodell nicht ohne die großzügige Unterstützung
+von engagierten Firmen verwirklichen können. Deshalb gilt unser Dank
 
-## Weitere Aktivitäten
-
-Neben der Beschäftigung mit dem neuen Wohnheim treffen wir uns für
-gemeinsame Abende, Teamwochenenden und vieles mehr. Der Austausch zu
-gesellschaftlichen Themen untereinander und mit anderen ist uns sehr
-wichtig. Deshalb haben wir in den letzten Jahren immer wieder
-Veranstaltungen und Aktionen durchgeführt, wie etwa Hofflohmärkte,
-Theater, Vorträge, Konzerte, Ausstellungen, Diskussionen und
-Themenabende...
-
-[^1]: Mitglieder des Fördervereins sind ehemalige und aktuelle Bewohner*innen und jede*r, der/die uns durch die Vereinsmitgliedschaft unterstützen möchte.
+<figure style="margin:0 auto; background-color:#E8E8E8; width:82%;">
+<table>
+ <tr>
+  <td><a href="http://dgj.eu"><img src="/img/sponsors/dgj_logo.svg" /></a</td><td><a href="https://iba.heidelberg.de/"><img src="/img/sponsors/iba_logo.svg" /></a></td>
+ </tr>
+ <tr>
+  <td><a href="https://www.stura.uni-heidelberg.de/"><img src="/img/sponsors/stura_logo.svg" /></a></td><td style="vertical-align:middle;"><a href="https://sponsort.de/home"><img src="/img/sponsors/sponsort_logo.svg" /></a></td>
+ </tr>
+ <tr>
+  <td  style="vertical-align:middle;" ><a href="https://www.interpane.com/"><img src="/img/sponsors/interpane_logo.svg" /></a></td><td><a href="https://www.schueco.com/web2/com"><img src="/img/sponsors/schueco_logo.svg" /></a></td>
+ </tr>
+<tr>
+  <td style="text-align:center;"><a href="https://www.pabst-metallbau.de/"><img src="/img/sponsors/pabst_logo.svg" style="height:10em" /></a></td><td style="vertical-align:middle;"><a href="https://www.nora.com/global/en"><img src="/img/sponsors/nora_logo.svg" /></a></td>
+ </tr> 
+ <tr>
+  <td style="text-align:center;" colspan="2"><a href="https://www.stamisol.com/"><img src="/img/sponsors/stamisol_logo.svg"  style="height:3.5em" /></a></td>
+ </tr> 
+</table>
+<figcaption><cite>Sponsoren unseres Zimmermodells</cite></figcaption>
+</figure>
