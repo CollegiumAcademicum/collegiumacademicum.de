@@ -5,24 +5,26 @@
                 <img class="image" src="{{ "img/layout/infopaket.jpg" | relURL }}">
             </div>
             <div class="card-content">
-                {{/*
+                <p class="title is-3 is-marginless">Newsletter</p>
+                Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
+                {{ partial "newsletter-signup.html" }} <br />
+
                 <p class="title is-3 is-marginless">Infopaket</p>
-                <p>Infopaket text platzhalter</p>
-                <div class="field has-addons">
+                <p><strong>Möchten Sie mehr darüber erfahren wie Sie unser Projekt unterstützen können?</strong></p>
+ 		<p>Hier können Sie sich unser detailliertes Informationspaket anfordern. Einfach Ihre E-Mail Adresse eintragen und auf den Button klicken.</p>
+		<form action="/scripts/infopaket.php" method="POST" autocomplete="off">
+		<div class="field has-addons">
                     <div class="control has-icons-left">
-                        <input class="input" type="email" placeholder="{{ i18n "deine-mailadresse" }}">
+                        <input class="input" type="email" name="email_address" placeholder="{{ i18n "deine-mailadresse" }}">
                         <span class="icon is-small is-left">
                             <i class="fas fa-envelope"></i>
                         </span>
                     </div>
                     <div class="control">
-                        <a class="button is-primary">Bestellen</a>
+                        <a class="button is-primary">Anfordern</a>
                     </div>
                 </div>
-                */}}
-                <p class="title is-3 is-marginless">Newsletter</p>
-                Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
-                {{ partial "newsletter-signup.html" }}
+		</form>
             </div>
         </div>
 
