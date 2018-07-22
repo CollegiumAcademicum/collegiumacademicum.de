@@ -4,11 +4,9 @@ date: 2018-03-26T03:53:46+02:00
 ---
 
 <div class="notification is-primary"><button class="delete"></button>
-    Zurzeit kann unser Zimmermodell am <a
-    href="https://www.openstreetmap.org/node/5576336951">Fensterplatz</a>
-    besucht werden. Das Co-Working Café Fensterplatz befindet sich auf
-    dem ehemaligen Gelände von Heidelberg Druckmaschienen, 300m
-    entfernt vom Hauptbahnhof an der Kurfürstenanlage.<br />
+    Zurzeit steht unser Zimmermodell auf dem <a
+    href="http://www.metropolink-festival.net/">Metropolink Festival</a>.
+    Das Festival findet auf dem <a href="https://www.openstreetmap.org/#map=15/49.3853/8.6322">Patrick-Henry-Village</a> statt.<br />
     Aktuelle Veranstaltungen an dem Modell werden unter <a
     href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
     aufgeführt.<br />
