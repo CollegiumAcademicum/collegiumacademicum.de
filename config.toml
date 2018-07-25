@@ -23,4 +23,4 @@ audio ="/:slug/"
 
 [mediaTypes]
   [mediaTypes."audio/mpeg3"]
-  suffix = "mp3"
+  suffixes = ["mp3"]
