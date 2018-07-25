@@ -2,6 +2,10 @@
 
 This repo contains the new version of collegiumacademicum.de.
 
+## Requirements
+
+* Hugo: __>=0.44__
+
 ## Installation
 
 The website is a static website built with the static site generator [Hugo](gohugo.io). As CSS framework we use [Bulma](bulma.io).
