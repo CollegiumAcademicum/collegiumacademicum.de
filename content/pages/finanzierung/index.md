@@ -43,7 +43,8 @@ Im Rahmen des Zukunftsinvestitionsprogramms [“Modellvorhaben Variowohnen”](h
 des Bundesbauministeriums wurde die Collegium Academicum GmbH als
 herausragendes Vorhaben eingestuft. Die Förderung beläuft sich auf
 rund 2,12 Millionen Euro. Zusätzlich stehen Landesfördermittel in Höhe
-von 500.000 Euro in Aussicht. 
+von 500.000 Euro in Aussicht.
+
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
@@ -81,8 +82,8 @@ gemeinsam mit der finanzierenden Bank eine KfW Förderung umgesetzt
 werden. Diese Förderung besteht aus einer Zinsvergünstigung sowie
 einem Tilgungszuschuss in Höhe von etwa 1,4 Millionen Euro.
 
-
 ### Sonstige Einsparungen
+
 #### Sponsoring
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
@@ -121,20 +122,20 @@ garantieren. Mehr Informationen findet ihr
 
 ## Die Zahlen auf einen Blick
 
-Fördermittel | 
+Fördermittel |
 --- | ---:
 Förderprogramm Variowohnen | 2,12 Millionen Euro
 Landesförderung (in Aussicht gestellt) | 0,50 Millionen Euro
 
-Private Unterstützung | 
+Private Unterstützung |
 --- | ---:
 Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
 
-Bankfinanzierung | 
+Bankfinanzierung |
 --- | ---:
 KfW (Zinsvergünstigtes Darlehen KfW 40+) | ~ 9,38 Millionen Euro
 
-Sonstiges | 
+Sonstiges |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,75 Millionen Euro
 Gesamtinvestitionssumme | ~ 14,75 Millionen Euro
