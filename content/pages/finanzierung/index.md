@@ -122,20 +122,20 @@ garantieren. Mehr Informationen findet ihr
 
 ## Die Zahlen auf einen Blick
 
-Fördermittel |
---- | ---:
+Fördermittel | |
+--- | ---: 
 Förderprogramm Variowohnen | 2,12 Millionen Euro
 Landesförderung (in Aussicht gestellt) | 0,50 Millionen Euro
 
-Private Unterstützung |
+Private Unterstützung | |
 --- | ---:
 Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
 
-Bankfinanzierung |
+Bankfinanzierung | |
 --- | ---:
 KfW (Zinsvergünstigtes Darlehen KfW 40+) | ~ 9,38 Millionen Euro
 
-Sonstiges |
+Sonstiges | |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,75 Millionen Euro
 Gesamtinvestitionssumme | ~ 14,75 Millionen Euro
