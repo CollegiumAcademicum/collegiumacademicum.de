@@ -16,7 +16,7 @@ $sender_email = "collegiumacademicum@posteo.de";
 $reply_email = "kontakt@collegiumacademicum.de";
 
 // Attachments
-$files = array("brochure.pdf","info_direktkredite.pdf","finanzierung.pdf");
+$files = array("broschuere.pdf","info_direktkredite.pdf","finanzierung.pdf");
 
 // Read the text for the infopackage from a txt file.
 $infopackage_text = file_get_contents("infopackage.txt");
