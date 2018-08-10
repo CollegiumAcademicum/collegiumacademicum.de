@@ -4,10 +4,11 @@ date: 2018-03-26T03:53:46+02:00
 ---
 
 <div class="notification is-primary"><button class="delete"></button>
-    Zurzeit steht unser Zimmermodell auf dem <a
-    href="http://www.metropolink-festival.net/">Metropolink Festival</a>.
-    Das Festival findet auf dem <a href="https://www.openstreetmap.org/#map=15/49.3853/8.6322">Patrick-Henry-Village</a> statt.<br />
-    Aktuelle Veranstaltungen an dem Modell werden unter <a
+    Zurzeit steht unser Zimmermodell vor dem  <a
+    href="http://www.alteshallenbad.de/">Alten Hallenbad</a> in der
+    Poststraße 36 / 5, 69115 Heidelberg.
+	<br />
+    Aktuelle Veranstaltungen am Modell werden unter <a
     href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
     aufgeführt.<br />
 </div>
