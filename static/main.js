@@ -49,7 +49,7 @@ function openModal(target) {
   var $target = document.getElementById(target);
   rootEl.classList.add('is-clipped');
   $target.classList.add('is-active');
-  var img_nodes = getAll('#' + target + ' .modal-content img')
+  var img_nodes = getAll('#' + target + ' .modal-content img');
   for(var i=0; i<img_nodes.length; i++) {
     img_nodes[i].src = img_nodes[i].dataset.src;
   }
@@ -70,7 +70,7 @@ $quoteGridIcons.forEach(function ($el) {
   $el.addEventListener('click', function (e) {
     if (e.target.tagName === 'FIGURE') {
       $el.classList.add('is-active');
-      $el.querySelector('.quotegrid-overlay').classList.remove('is-hidden')
+      $el.querySelector('.quotegrid-overlay').classList.remove('is-hidden');
     }
   });
 });
@@ -84,16 +84,16 @@ $quoteGrids.forEach(function ($el) {
 });
 
 //Accordion
-const MOUSE_EVENTS = ['click', 'touchstart'];
-var accordions = document.querySelectorAll('.accordions');
-[].forEach.call(accordions, function(accordion) {
-  var items = accordion.querySelectorAll('.accordion');
-  [].forEach.call(items, function(item) {
-    MOUSE_EVENTS.forEach((event) => {
+var MOUSE_EVENTS = ['click', 'touchstart'];
+var accordions = getAll('.accordions');
+accordions.forEach.call(function(accordion) {
+  var items = getAll('.accordions .accordion');
+  items.forEach.call(function(item) {
+    MOUSE_EVENTS.forEach(function (event) {
       item.querySelector('.toggle, [data-action="toggle"]').addEventListener(event, e => {
         e.preventDefault();
         if (!item.classList.contains('is-active')) {
-          let activeItem = accordion.querySelector('.accordion.is-active');
+          var activeItem = accordion.querySelector('.accordion.is-active');
           if (activeItem) {
             activeItem.classList.remove('is-active');
           }
