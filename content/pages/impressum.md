@@ -3,7 +3,7 @@ title: "Impressum"
 date: 2018-05-19T10:51:57+02:00
 ---
 
-Collegium Academicum GmbH
+Förderverein Collegium Academicum Heidelberg e.V.
 
 Plöck 93
 
