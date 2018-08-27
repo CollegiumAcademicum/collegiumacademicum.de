@@ -1,3 +1,8 @@
+// Polyfilling
+HTMLDocument.prototype.getAll || (HTMLDocument.prototype.getAll = function (s) {
+  return Array.prototype.slice.call(this.querySelectorAll(s), 0);
+});
+
 // Burgers
 var burgers = document.getAll('.burger');
 
@@ -14,7 +19,7 @@ function setBurgerListeners() {
 }
 
 // Delete
-var $deletes = getAll('.delete');
+var $deletes = document.getAll('.delete');
 
 if ($deletes.length > 0) {
   $deletes.forEach(function ($el) {
@@ -25,9 +30,9 @@ if ($deletes.length > 0) {
 }
 
 // Modals
-var modals = getAll('.modal');
-var modalButtons = getAll('.modal-button');
-var modalClosers = getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
+var modals = document.getAll('.modal');
+var modalButtons = document.getAll('.modal-button');
+var modalClosers = document.getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
 
 if (modalButtons.length > 0 && modalClosers.length > 0) {
   setModalButtonListeners();
@@ -56,8 +61,8 @@ function setModalCloserListeners() {
 }
 
 //Quote Grid
-var quoteGridIcons = getAll('.quotegrid-icon');
-var quoteGrids = getAll('.quotegrid-overlay');
+var quoteGridIcons = document.getAll('.quotegrid-icon');
+var quoteGrids = document.getAll('.quotegrid-overlay');
 
 if (quoteGridIcons.length > 0 && quoteGrids.length > 0) {
   setQuoteGridListeners();
@@ -87,7 +92,7 @@ function setQuoteGridListeners() {
 
 //Accordion
 var MOUSE_EVENTS = ['click', 'touchstart'];
-var accordions = getAll('.accordions');
+var accordions = document.getAll('.accordions');
 
 if (accordions.length > 0) {
   setAccordionListeners();
@@ -95,7 +100,7 @@ if (accordions.length > 0) {
 
 function setAccordionListeners() {
   accordions.forEach.call(function (accordion) {
-    var items = getAll('.accordions .accordion');
+    var items = document.getAll('.accordions .accordion');
     items.forEach.call(function (item) {
       MOUSE_EVENTS.forEach(function (event) {
         item.querySelector('.toggle, [data-action="toggle"]').addEventListener(event, e => {
@@ -113,9 +118,4 @@ function setAccordionListeners() {
       });
     });
   });
-}
-
-// Functions
-function getAll(selector) {
-  return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
 }
