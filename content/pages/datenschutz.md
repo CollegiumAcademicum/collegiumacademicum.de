@@ -3,7 +3,14 @@ title: "Datenschutz"
 date: 2018-05-19T10:51:57+02:00
 ---
 
-[Impressum](/impressum)
+<pre>
+Förderverein Collegium Academicum Heidelberg e.V.
+Plöck 93
+69117 Heidelberg
+
+Tel.: <a href:"tel:+4906221652236">+49 (0)6221-652236</a>
+E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>
+</pre>
 
 (im Folgenden: „Wir“) ist als Betreiber der Website collegiumacademicum.de Verantwortlicher für die personenbezogenen Daten der Nutzer*innen der Website (im Folgenden: „du“) im Sinne der Datenschutzgrundverordnung.
 
