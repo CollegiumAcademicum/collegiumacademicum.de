@@ -194,11 +194,19 @@ footer
         padding: 0.5rem
 
     .quotegrid-icon
+        position: relative
         &.is-active
             z-index: 1
             .quotegrid-overlay
                 display: block
                 animation: unOpaque $speed ease-in-out forwards
+
+        span
+            position: absolute
+            color: $white
+            background: transparentize($secondary, 0.3)
+            bottom: 0
+            font-size: $size-6
 
     .delete
         position: absolute
