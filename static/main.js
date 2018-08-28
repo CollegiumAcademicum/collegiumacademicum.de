@@ -45,10 +45,10 @@ function setModalButtonListeners() {
       var modal = document.getElementById(this.dataset.target);
       document.documentElement.classList.add('is-clipped');
       modal.classList.add('is-active');
-      var img_nodes = document.getAll('#' + modal + ' .modal-content img')
-      for(var i=0; i<img_nodes.length; i++) {
-        img_nodes[i].src = img_nodes[i].dataset.src;
-      }
+      var images = document.getAll('#' + modal.id + ' .modal-content img')
+      images.forEach(function (image) {
+        image.src = image.dataset.src;
+      });
     });
   });
 }
