@@ -1,0 +1,19 @@
+<div class='quotegrid columns is-multiline is-gapless is-hidden-mobile'>
+    {{ range $.Site.Data.quotes_team.quotes_team }}
+        <div class="quotegrid-icon column is-4">
+            <div class="image is-128x128">
+                <figure style="background-image: url({{ .img | relURL }})" ></figure>
+            </div>
+            <div class='quotegrid-overlay'>
+                <div class="image is-128x128">
+                    <figure style="background-image: url({{ .img | relURL }})" ></figure>
+                </div>
+                <blockquote>
+                    {{ .quote }}
+                    <cite>{{ .attr }}</cite>
+                </blockquote>
+                <button class="delete is-medium" aria-label="close"></button>
+            </div>
+        </div>
+    {{ end }}
+</div>
