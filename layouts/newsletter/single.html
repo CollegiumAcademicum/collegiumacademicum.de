@@ -5,7 +5,7 @@
 
 <p id="date_newsletter">
 <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
-{{ .Date.Day }}. {{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+{{ .Date.Day }}. {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
 </time>
 </p>
 
