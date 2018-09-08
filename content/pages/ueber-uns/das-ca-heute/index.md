@@ -14,7 +14,7 @@ CA in der Seminarstraße 2 einen reichhaltigen Reflektionspunkt bietet.
 
 {{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende auf dem Fritz*innen Hof bei Freiburg." >}}
 
-<!-- {{< team >}} -->
+{{< quotes "team" >}}
 
 Wir sind eine motivierte, engagierte und offene Gruppe von
 Menschen. Wir verstehen uns als Gestalterinnen und Ermöglicherinnen
