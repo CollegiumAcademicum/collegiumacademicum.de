@@ -1,6 +1,5 @@
 ---
 title: "Unsere Finanzierung"
-date: 2018-06-03T12:42:42+02:00
 slug: "finanzierung"
 ---
 
@@ -123,7 +122,7 @@ garantieren. Mehr Informationen findet ihr
 ## Die Zahlen auf einen Blick
 
 Fördermittel | |
---- | ---: 
+--- | ---:
 Förderprogramm Variowohnen | 2,12 Millionen Euro
 Landesförderung (in Aussicht gestellt) | 0,50 Millionen Euro
 

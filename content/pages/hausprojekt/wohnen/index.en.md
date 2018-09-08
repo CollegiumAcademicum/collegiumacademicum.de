@@ -1,6 +1,5 @@
 ---
 title: "Living"
-date: 2018-03-27T20:26:42+02:00
 ---
 
 Our finacial setup

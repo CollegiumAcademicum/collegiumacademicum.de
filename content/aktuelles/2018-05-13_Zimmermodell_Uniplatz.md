@@ -1,6 +1,6 @@
 ---
 title: "Zimmermodell auf dem Uniplatz"
-date: 2018-05-13T17:14:19+02:00
+date: 2018-05-13
 ---
 
 <cite>"Man ist nicht als Frau geboren, man wird es.“ <br /> Simone de Beauvoir (1949)</cite>

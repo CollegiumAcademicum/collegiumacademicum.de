@@ -1,11 +1,11 @@
 ---
 title: "Zimmermodell im Neuenheimerfeld"
-date: 2018-05-27T08:00:19+02:00
+date: 2018-05-27
 ---
 
 Heute ist unser Zimmermodell gewandert und zwar vom Uniplatz ins Neuenheimer Feld. Ihr findet es in der Nähe der Zentralmensa auf dem großen Platz.
-Vom 27. Mai bis zum 08. Juni könnt ihr euch über unser Wohnheim informieren, zum Essen vorbei kommen oder Kaffee und Kuchen genießen. 
-Wir freuen uns über jede*n Besucher*in. 
+Vom 27. Mai bis zum 08. Juni könnt ihr euch über unser Wohnheim informieren, zum Essen vorbei kommen oder Kaffee und Kuchen genießen.
+Wir freuen uns über jede*n Besucher*in.
 
 <figure>
 <table>

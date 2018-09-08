@@ -1,6 +1,5 @@
 ---
 title: "Einziehen"
-date: 2018-04-17T10:51:57+02:00
 ---
 
 Nicht mehr lange und es ist soweit: wir stehen kurz vor Beginn des

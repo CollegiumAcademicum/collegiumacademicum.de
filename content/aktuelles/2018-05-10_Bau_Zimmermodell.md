@@ -1,6 +1,6 @@
 ---
 title: "Bau unseres Zimmermodells"
-date: 2018-05-10T10:43:19+02:00
+date: 2018-05-10
 ---
 
 Wir haben mit dem Bau begonnen! Zugegeben - noch ist es erst eine

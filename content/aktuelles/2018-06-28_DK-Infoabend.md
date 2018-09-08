@@ -1,6 +1,6 @@
 ---
 title: "Infoabend: Direktkredite. Eine ökologisch nachhaltige Geldanlage."
-date: 2018-06-28T09:04:19+02:00
+date: 2018-06-28
 ---
 
 Am **10. Juli 2018 um 19:30 Uhr** veranstalten wir einen Infoabend zum
@@ -13,9 +13,9 @@ Sie dienen der Finanzierung der Planung und bilden unseren
 Eigenkapitalersatz für ein zukünftiges Bankdarlehen.
 
 Wenn Sie Interesse haben uns finanziell zu unterstützen, ist dieser
-Infoabend eine gute Gelegenheit Zweifel und Fragen zu klären. 
+Infoabend eine gute Gelegenheit Zweifel und Fragen zu klären.
 Wir werden unser Finanzierungskonzept detailliert vorstellen und
-anschließend im offenen Gespräch Ihre Fragen beantworten. 
+anschließend im offenen Gespräch Ihre Fragen beantworten.
 
 Der Infoabend findet in unserem Zimmermodell am
 **[FensterPlatz](https://www.fensterplatz-heidelberg.de/)** statt. Der

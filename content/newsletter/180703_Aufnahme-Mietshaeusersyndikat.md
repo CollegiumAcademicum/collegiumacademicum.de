@@ -1,6 +1,5 @@
 ---
 title: "Aufnahme ins Mietshäusersyndikat"
-date: 2018-07-03T15:00:46+02:00
 ---
 
 Liebe Unterstützer*innen,
@@ -69,7 +68,7 @@ uns jeder Beitrag, auch kleinere Kredite. Die Direktkredite sind der
 wichtigste Bestandteil der Finanzierung, weil diese vor Freigabe der
 Bankkredite nachgewiesen werden müssen. Da wir bald die Flächen kaufen
 möchten, ist jetzt ein wichtiger Zeitpunkt uns einen Direktkredit zu
-leihen. Wenn Sie es sich vorstellen können, uns zu unterstützen und 
+leihen. Wenn Sie es sich vorstellen können, uns zu unterstützen und
 oder Menschen kennen, die sich für das Projekt gewinnen ließen, freuen
 wir uns sehr, wenn Sie uns kontaktieren! Einfach eine E-Mail an
 [mailto:kontakt@collegiumacademicum.de](kontakt@collegiumacademicum.de)
@@ -80,4 +79,4 @@ Am **Dienstag, den 10.07.2018 um 19:30 Uhr** ist ein **Informationstreffen zu
 Direktkrediten am Zimmermodell** in der Kurfürstenanlage 58 geplant. Wir
 freuen uns auf Ihr Kommen!
 
-Ihre Projektgruppe Collegium Academicum 
+Ihre Projektgruppe Collegium Academicum

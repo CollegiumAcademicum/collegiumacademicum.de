@@ -1,6 +1,5 @@
 ---
 title: "Nachhaltigkeit"
-date: 2018-04-02T13:20:22+02:00
 ---
 
 Bei der Konstruktion des innovativen Neubaus wird beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet, im Gebäudebetrieb werden weitgehend erneuerbare Energien genutzt. Durch sparsame Technik und Dämmung wird die Energieeffizienz weiter erhöht. Der Architektonische Entwurf berücksichtigt so die Ziele des Masterplans „100% Klimaschutz“.

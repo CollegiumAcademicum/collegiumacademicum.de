@@ -1,6 +1,5 @@
 ---
 title: "Zimmermodell"
-date: 2018-07-14T00:10:10+02:00
 ---
 
 Im Mai 2018 haben wir ein Zimmermodell in Realgröße gebaut, damit sich

@@ -1,6 +1,5 @@
 ---
 title: "Mach Mit"
-date: 2018-04-02T18:13:52+02:00
 ---
 
 <div class="columns">

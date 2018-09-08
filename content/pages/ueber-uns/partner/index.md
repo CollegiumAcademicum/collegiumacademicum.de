@@ -1,6 +1,5 @@
 ---
 title: "Partner"
-date: 2018-04-02T18:42:36+02:00
 ---
 
 <div class="color-block">Was die Mitglieder des Gemeinderat Heidelberg zu dem Projekt Collegium Academicum sagen:</div>

@@ -1,6 +1,6 @@
 ---
 title: "Zimmermodell am Alten Hallenbad"
-date: 2018-08-05T10:00:19+02:00
+date: 2018-08-05
 ---
 
 Ihr findet unser [Zimmermodell](/zimmermodell) zurzeit vor

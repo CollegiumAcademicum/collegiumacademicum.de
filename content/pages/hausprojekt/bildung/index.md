@@ -1,6 +1,5 @@
 ---
 title: "Bildung"
-date: 2018-04-02T13:20:17+02:00
 ---
 
 <div class="color-block">Bildung ist im CA selbstbestimmt – und ganzheitlich.</div>

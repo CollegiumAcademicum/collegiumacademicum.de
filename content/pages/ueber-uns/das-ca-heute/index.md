@@ -1,6 +1,5 @@
 ---
 title: "Das CA Heute"
-date: 2018-07-14T21:42:10+02:00
 ---
 
 Das CA besteht heute aus Menschen, die zusammen in einer Projektgruppe

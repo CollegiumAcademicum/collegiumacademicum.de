@@ -1,6 +1,5 @@
 ---
 title: "Geschichte des CA"
-date: 2018-04-02T18:42:18+02:00
 slug: "geschichte"
 ---
 

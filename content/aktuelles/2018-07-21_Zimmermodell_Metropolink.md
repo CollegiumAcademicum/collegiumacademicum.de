@@ -1,6 +1,6 @@
 ---
 title: "Zimmermodell am Metropolink Festival"
-date: 2018-07-21T08:00:19+02:00
+date: 2018-07-21
 ---
 
 Kurzes Update: Unser [Zimmermodell](/zimmermodell) steht momentan auf dem

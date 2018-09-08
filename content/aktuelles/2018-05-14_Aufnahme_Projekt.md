@@ -1,6 +1,6 @@
 ---
 title: "Unsere Aufnahme im Mietshäusersyndikat"
-date: 2018-05-14T20:39:19+02:00
+date: 2018-05-14
 ---
 
 Letzten Samstag gab es für uns großen Grund zur Freude: Unser Projekt

@@ -1,6 +1,6 @@
 ---
 title: "Fensterplatz - Demonstrator Opening"
-date: 2018-06-10T20:30:19+02:00
+date: 2018-06-10
 ---
 
 Letzten Freitag (08. Juni 2018) ist unser Zimmermodell wieder

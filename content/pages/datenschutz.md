@@ -1,6 +1,5 @@
 ---
 title: "Datenschutz"
-date: 2018-05-19T10:51:57+02:00
 ---
 
 <pre>
