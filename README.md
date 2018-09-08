@@ -46,10 +46,9 @@ You can use the following custom shortcodes in the content markdown files to get
 | Shortcode | function |
 | --- | --- |
 | `{{< img src="" alt="" attr="" >}}` | Includes an image and adds the modal popup. |
-| `{{< cimg src="" alt="" attr="" >}} {{< /cimg >}}` | Includes an image and adds the modal popup with the given content in the modal.  |
-| `{{< quotes ### >}}` | Prints a grid of quotes. Either 'team' or 'supporters'. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |
-| `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/partner.toml` |
-| `{{< partners >}}` | Prints the list of partners. Data can be added/edited in `data/timeline.toml` |
-| `{{< audio ### >}}`| Embeds a audio file. |
+| `{{< cimg src="" alt="" attr="" >}}###{{< /cimg >}}` | Includes an image and adds the modal popup with the given content in the modal.  |
 | `{{< pdf src="" width="" height="" >}}`| Embeds a PDF. |
-| `{{< map >}}` | Embeds the CA Mapbox - Map |
+| `{{< audio ### >}}`| Embeds a audio file. |
+| `{{< quotes ### >}}` | Prints a grid of quotes. Either `team` or `supporters`. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |
+| `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/timeline.toml` |
+| `{{< partners >}}` | Prints the list of partners. Data can be added/edited in `data/partners.toml` |

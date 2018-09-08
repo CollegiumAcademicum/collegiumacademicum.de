@@ -1,4 +1,4 @@
-{{ range $.Site.Data.partner.partners }}
+{{ range $.Site.Data.partners.partners }}
 <div class="columns">
     <div class="column is-3 is-offset-1">
         <a href="{{ .link }}"><img class="image" src="{{ printf "/partner/%s" .img | relURL }}" /></a>
