@@ -1,4 +1,4 @@
-{{ if eq (.Get 0) "team" }}
+{{ if eq (.Get "source") "team" }}
     {{ .Scratch.Set "quotes_data" $.Site.Data.quotes_team.quotes_team }}
 {{ else }}
     {{ .Scratch.Set "quotes_data" $.Site.Data.quotes_supporters.quotes_supporters }}
@@ -8,11 +8,11 @@
         {{ range .Scratch.Get "quotes_data" }}
             <div class="quotegrid-icon column is-4">
                 <div class="image is-128x128">
-                    <figure style="background-image: url({{ .img | relURL }})" ></figure>
+                    <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                 </div>
                 <div class='quotegrid-overlay'>
                     <div class="image is-128x128">
-                        <figure style="background-image: url({{ .img | relURL }})" ></figure>
+                        <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                     </div>
                     <blockquote>
                         {{ .quote }}

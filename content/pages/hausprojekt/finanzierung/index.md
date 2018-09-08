@@ -94,7 +94,7 @@ IBA bereits in Kontakt mit potentiellen Sponsoren.
 #### Eigenleistung
 
 Wir sind motiviert, Eigenleistung zu erbringen. Die Voraussetzungen,
-dass dafür auch die zukünftigen Bewohner*innen begeistert werden
+dass dafür auch die zukünftigen Bewohner\*innen begeistert werden
 können, sind gut, da das Projekt insgesamt auf Eigeninitiative und
 Mitarbeit ausgelegt ist und Eigenleistung explizit vorsieht. Außerdem
 sind Workcamps und eine Zusammenarbeit mit Wandergesellen
@@ -109,13 +109,12 @@ reduzieren.
 ## Refinanzierung der Kredite
 
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
-Bewohner*innen über die Mieteinnahmen abzüglich der laufenden
+Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
-Bewohner*innen beläuft sich auf 300 Euro/Monat/Zimmer. Da unser
-Projekt nicht gewinnorientiert ist und die Bewohner*innen zugleich
+Bewohner\*innen beläuft sich auf 300 Euro/Monat/Zimmer. Da unser
+Projekt nicht gewinnorientiert ist und die Bewohner\*innen zugleich
 Eigentümer sein werden, können wir langfristig kostengünstige Mieten
-garantieren. Mehr Informationen findet ihr
-[hier]({{< relref "faq">}}).
+garantieren.
 
 {{< img src="refinanzierung_bearbeitet" alt="Refinanzierung" >}}
 

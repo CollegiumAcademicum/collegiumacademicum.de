@@ -13,14 +13,14 @@ CA in der Seminarstraße 2 einen reichhaltigen Reflektionspunkt bietet.
 
 {{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende auf dem Fritz*innen Hof bei Freiburg." >}}
 
-{{< quotes "team" >}}
+{{< quotes source="team" >}}
 
 Wir sind eine motivierte, engagierte und offene Gruppe von
 Menschen. Wir verstehen uns als Gestalterinnen und Ermöglicherinnen
 des zukünftigen Studierendenwohnheims. Ziel ist es, durch verstärkte
 Aktivität, insbesondere durch den Neubau, das CA wieder zu einer in
 der Heidelberger Öffentlichkeit und unter den Studierenden bekannten
-sowie anerkannten Institution zu machen. [Unser Leitbild](/leitbild)
+sowie anerkannten Institution zu machen. [Unser Leitbild]({{< relref "unser-leitbild" >}})
 spiegelt diese Ziele und deren Hintergründe wider.
 
 Der Fokus des neuen CA liegt auf der Bildung, denn wir sind überzeugt,
@@ -44,7 +44,7 @@ Gestaltung der Wohnungen. Um die vielen Aufgaben anzugehen, gibt es
 neben den Treffen mittwochs noch viele weitere Treffen im Lauf der
 Woche, in denen sich Kleingruppen mit speziellen Fragen
 beschäftigen. Die Mittwochstreffen sind offen für alle; du bist
-herzlich willkommen ein [Teil des CA zu werden](/mach-mit).
+herzlich willkommen ein [Teil des CA zu werden]({{< relref "mach-mit" >}}).
 
 ## Weitere Aktivitäten
 
@@ -56,4 +56,4 @@ Veranstaltungen und Aktionen durchgeführt, wie etwa Hofflohmärkte,
 Theater, Vorträge, Konzerte, Ausstellungen, Diskussionen und
 Themenabende...
 
-[^1]: Mitglieder des Fördervereins sind ehemalige und aktuelle Bewohner*innen und jede*r, der/die uns durch die Vereinsmitgliedschaft unterstützen möchte.
+[^1]: Mitglieder des Fördervereins sind ehemalige und aktuelle Bewohner\*innen und jede\*r, der/die uns durch die Vereinsmitgliedschaft unterstützen möchte.

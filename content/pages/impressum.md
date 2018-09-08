@@ -21,4 +21,4 @@ Der Förderverein Collegium Academicum e.V. ist beim Amtsgericht Mannheim unter 
 Hiermit erklären wir, keinerlei Verantwortung für die Inhalte verlinkter Seiten anderer zu übernehmen. Alle hier veröffentlichen Texte und Bilder stehen, soweit nicht anders vermerkt, unter der Lizenz [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). Eine Nutzung und Weiterverbreitung ist dementsprechend bei Nennung der Collegium Academicum GmbH erlaubt.
 
 ### Datenschutz
-In unserer [Datenschutzerklärung](/datenschutz) finden sie eine Beschreibung unseres Datenschutzes.
+In unserer [Datenschutzerklärung]({{< relref "datenschutz" >}}) finden sie eine Beschreibung unseres Datenschutzes.

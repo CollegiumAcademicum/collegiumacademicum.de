@@ -25,13 +25,13 @@ Wir hätten das Zimmermodell nicht ohne die großzügige Unterstützung
 von engagierten Firmen verwirklichen können. Deshalb gilt unser Dank
 
 <div class="columns is-multiline">
-    <div class="column is-4 is-offset-1"><a href="http://dgj.eu"><img src="/img/sponsors/dgj_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-2"><a href="https://iba.heidelberg.de/"><img src="/img/sponsors/iba_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-1"><a href="https://www.stura.uni-heidelberg.de/"><img src="/img/sponsors/stura_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-2"><a href="https://sponsort.de/home"><img src="/img/sponsors/sponsort_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-1"><a href="https://www.interpane.com/"><img src="/img/sponsors/interpane_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-2"><a href="https://www.schueco.com/web2/com"><img src="/img/sponsors/schueco_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-1"><a href="https://www.pabst-metallbau.de/"><img src="/img/sponsors/pabst_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-2"><a href="https://www.nora.com/global/en"><img src="/img/sponsors/nora_logo.svg" /></a></div>
-    <div class="column is-4 is-offset-1"><a href="https://www.stamisol.com/"><img src="/img/sponsors/stamisol_logo.svg" /></a></div>
+    <div class="column is-4 is-offset-1"><a href="http://dgj.eu"><img src="/zimmermodell/sponsors/dgj.svg" /></a></div>
+    <div class="column is-4 is-offset-2"><a href="https://iba.heidelberg.de/"><img src="/zimmermodell/sponsors/iba.svg" /></a></div>
+    <div class="column is-4 is-offset-1"><a href="https://www.stura.uni-heidelberg.de/"><img src="/zimmermodell/sponsors/stura.svg" /></a></div>
+    <div class="column is-4 is-offset-2"><a href="https://sponsort.de/home"><img src="/zimmermodell/sponsors/sponsort.svg" /></a></div>
+    <div class="column is-4 is-offset-1"><a href="https://www.interpane.com/"><img src="/zimmermodell/sponsors/interpane.svg" /></a></div>
+    <div class="column is-4 is-offset-2"><a href="https://www.schueco.com/web2/com"><img src="/zimmermodell/sponsors/schueco.svg" /></a></div>
+    <div class="column is-4 is-offset-1"><a href="https://www.pabst-metallbau.de/"><img src="/zimmermodell/sponsors/pabst.svg" /></a></div>
+    <div class="column is-4 is-offset-2"><a href="https://www.nora.com/global/en"><img src="/zimmermodell/sponsors/nora.svg" /></a></div>
+    <div class="column is-4 is-offset-1"><a href="https://www.stamisol.com/"><img src="/zimmermodell/sponsors/stamisol.svg" /></a></div>
 </div>

@@ -21,7 +21,7 @@ an?
 Für uns ist vor allem eines wichtig, dass du Lust hast dein Leben mit
 anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich
 vertraut mit unserem
-[Leitbild](/leitbild/)
+[Leitbild]({{< relref "unser-leitbild" >}})
 und dem [Mietshäusersyndikat](https://www.syndikat.org/de/ ). Wenn
 dir gefällt was du liest, trag dich am Ende der Seite einfach ein.
 
