@@ -134,13 +134,18 @@
         .quotegrid-overlay
             display: none
             position: absolute
-            height: 100%
             top: 0
             left: 0
             background: transparentize($white, 0.05)
             transition: $speed
             opacity: 0
-            .delete
-                position: absolute
-                top: 17px
-                right: 21px
+            height: 100%
+            .image
+                display: inline-block
+                vertical-align: top
+            blockquote
+                display: inline-block
+            .is-128x128 + blockquote
+                width: calc(100% - 131px)
+            .is-256x256 + blockquote
+                width: calc(100% - 259px)

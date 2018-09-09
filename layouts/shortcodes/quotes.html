@@ -11,14 +11,13 @@
                     <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                 </div>
                 <div class='quotegrid-overlay'>
-                    <div class="image is-128x128">
+                    <div class="image is-{{ $.Params.iconsize }}x{{ $.Params.iconsize }}">
                         <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                     </div>
                     <blockquote>
                         {{ .quote }}
                         <cite>{{ .attr }}</cite>
                     </blockquote>
-                    <button class="delete is-medium" aria-label="close"></button>
                 </div>
             </div>
         {{ end }}

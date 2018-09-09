@@ -3,7 +3,7 @@ title: "Über uns"
 slug: "ueber-uns"
 ---
 
-{{< quotes source="team" size="2" >}}
+{{< quotes source="team" size="2" iconsize="256" >}}
 
 Wir sind eine Gruppe junger Menschen, die zusammen in einer Projektgruppe
 den Neubau des Collegium Academicums planen. Die Gruppe und die Idee für Projekt ist

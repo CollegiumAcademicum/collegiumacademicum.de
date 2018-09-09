@@ -33,4 +33,4 @@ title: "Collegium Academicum"
 
 ### Was unsere Unterstützer*Innen sagen:
 
-{{< quotes source="supporters" size="3" >}}
+{{< quotes source="supporters" size="3" iconsize="128" >}}

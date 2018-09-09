@@ -68,8 +68,8 @@ function setModalButtonListeners(modalButtons) {
 }
 
 function setModalCloserListeners(modalClosers) {
-  modalClosers.forEach(function (modalCloser) {
-    modalCloser.addEventListener('click', function () {
+  modalClosers.forEach(function (closer) {
+    closer.addEventListener('click', function () {
       document.documentElement.classList.remove('is-clipped');
       document.getAll('.modal').forEach(function (modal) {
         modal.classList.remove('is-active');
@@ -89,12 +89,10 @@ function setQuoteGridIconListeners(quoteGridIcons) {
   });
 }
 
-function setQuoteGridListeners(quoteGrids, quoteGridIcons) {
-  quoteGrids.forEach(function (quoteGrid) {
-    quoteGrid.addEventListener('click', function () {
-      quoteGridIcons.forEach(function (quoteGrid) {
-        quoteGrid.classList.remove('is-active');
-      });
+function setQuoteGridListeners(quoteGridsOverlays) {
+  quoteGridsOverlays.forEach(function (overlay) {
+    overlay.addEventListener('click', function () {
+      document.querySelector('.quotegrid-icon.is-active').classList.remove('is-active');
     });
   });
 }
@@ -132,10 +130,10 @@ domready(function () {
 
 
   //Quote Grid
-  var quoteGrids = document.getAll('.quotegrid-overlay');
+  var quoteGridsOverlays = document.getAll('.quotegrid-overlay');
   var quoteGridIcons = document.getAll('.quotegrid-icon');
-  if (quoteGridIcons.length > 0 && quoteGrids.length > 0) {
-    setQuoteGridListeners(quoteGrids, quoteGridIcons);
+  if (quoteGridIcons.length > 0 && quoteGridsOverlays.length > 0) {
+    setQuoteGridListeners(quoteGridsOverlays);
     setQuoteGridIconListeners(quoteGridIcons);
   }
 
