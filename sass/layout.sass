@@ -16,15 +16,13 @@
             background: #f0f0f0
     .navbar-menu
         +desktop
-            border-bottom: 1px solid $grey-lighter
             justify-content: center
-    .navbar-start
-        +desktop
-            display: flex
-            align-self: center
-            margin-right: 0
-    .navbar-end
-        padding-top: 4px
+            .navbar-start
+                    display: flex
+                    align-self: center
+                    margin-right: 0
+        .navbar-end
+            padding-top: 4px
     .hero-body
         img
             width: 308px
@@ -41,6 +39,9 @@
         .navbar-burger
             width: 48px
             height: 48px
+    .navbar-dropdown
+        box-shadow: $box-shadow
+        border-top: none
 
 // SIDEBAR
 aside
@@ -60,7 +61,7 @@ footer
 
     nav.container
         margin-top: 4rem
-        .tag
+        .button
             box-shadow: $box-shadow
 
 // Main Content
@@ -168,49 +169,40 @@ footer
 .quotegrid
     position: relative
     margin-top: 0!important
-    .image
-        background: $secondary
-        figure
-            background-size: cover
-            height: 100%
-            width: 100%
-            margin: 0
-            transition: 4 * $speed
-        &:hover
-            figure
-                mix-blend-mode: screen
-                -webkit-filter: grayscale(100%)
-                filter: grayscale(100%)
-
-    .quotegrid-overlay
-        display: none
-        position: absolute
-        height: 100%
-        top: 0
-        left: 0
-        background: transparentize($white, 0.1)
-        transition: $speed
-        opacity: 0
-        padding: 0.5rem
-
-    .quotegrid-icon
+    .column
         &.is-active
             z-index: 1
             .quotegrid-overlay
                 display: block
                 animation: unOpaque $speed ease-in-out forwards
-
-        span
+        .image
+            figure
+                background-size: cover
+                height: 100%
+                width: 100%
+                margin: 0
+                transition: 4 * $speed
+        & > .image
+            background: $secondary
+            &:hover
+                figure
+                    mix-blend-mode: screen
+                    -webkit-filter: grayscale(100%)
+                    filter: grayscale(100%)
+        .quotegrid-overlay
+            display: none
             position: absolute
-            color: $white
-            background: transparentize($secondary, 0.3)
-            bottom: 0
-            font-size: $size-6
+            height: 100%
+            top: 0
+            left: 0
+            background: transparentize($white, 0.05)
+            transition: $speed
+            opacity: 0
+            .delete
+                position: absolute
+                top: 17px
+                right: 21px
 
-    .delete
-        position: absolute
-        top: 17px
-        right: 21px
 
 @keyframes unOpaque
     from
