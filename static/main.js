@@ -118,7 +118,7 @@ domready(function () {
 
   // Delete
   var deleters = document.getAll('.delete');
-  if (deleters.length > 0) setDeletersListeners(deletes);
+  if (deleters.length > 0) setDeletersListeners(deleters);
 
 
   // Modals
