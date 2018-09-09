@@ -25,7 +25,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="level box">
             <div class="level-item">
                 <a href="http://iba.heidelberg.de/">
@@ -54,19 +54,25 @@
             </div>
         </div>
     </div>
-  
-    <nav class="container">
-        <p class="tag">
-            <a href="{{ "impressum" | relLangURL }}">
-                <span class="icon"><i class="fas fa-info"></i></span>
-                Impressum
-            </a>
-        </p>
-        <p class="tag">
-            <a href="{{ "datenschutz" | relLangURL }}">
-                <span class="icon"><i class="fas fa-user-secret"></i></span>
-                Datenschutz
-            </a>
-        </p>
+
+    <nav class="container buttons">
+        <a class="button is-primary is-small" href="{{ "impressum" | relLangURL }}">
+            <span class="icon is-small">
+                <i class="fas fa-info"></i>
+            </span>
+            <span>Impressum</span>
+        </a>
+        <a class="button is-primary is-small" href="{{ "datenschutz" | relLangURL }}">
+            <span class="icon is-small">
+                <i class="fas fa-user-secret"></i>
+            </span>
+            <span>Datenschutz</span>
+        </a>
+        <a class="button is-primary is-small" href="https://github.com/CollegiumAcademicum/collegiumacademicum.de">
+            <span class="icon is-small">
+                <i class="fab fa-github"></i>
+            </span>
+            <span>Quellcode</span>
+        </a>
     </nav>
 </footer>
