@@ -1,0 +1,43 @@
+#navHero
+    +tablet
+        background-image: url(img/layout/nav-bg.jpg)
+        background-position: top center
+        background-repeat: no-repeat
+    .navbar
+        background: $background
+    .navbar-item, .navbar-item .navbar-link
+        font-family: $family-accent
+        font-size: 1.5rem
+        padding-bottom: 0
+    .navbar-link
+        color: $black
+        +touch
+            background: #f0f0f0
+    .navbar-menu
+        +desktop
+            justify-content: center
+            .navbar-start
+                    display: flex
+                    align-self: center
+                    margin-right: 0
+        .navbar-end
+            padding-top: 4px
+    .hero-body
+        img
+            width: 308px
+            height: 206px
+            background: transparentize($background, 0.1)
+            padding: 1rem
+            border-radius: $radius-large
+            transition: $speed
+            &:hover
+                background: transparentize($background, 0.3)
+    .navbar-brand
+        .navbar-item
+            padding: 0.6rem
+        .navbar-burger
+            width: 48px
+            height: 48px
+    .navbar-dropdown
+        box-shadow: $box-shadow
+        border-top: none

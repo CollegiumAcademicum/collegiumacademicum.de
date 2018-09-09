@@ -22,24 +22,24 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 <progress class="progress is-large is-primary" value="933" max="1600">933.000 €</progress>
 Zurzeit haben wir inklusive Spenden bereits __933.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
 
-<section class="accordions">
-  <div class="accordion is-active">
-    <div class="accordion-header toggle">
+<section>
+  <div class="message toggle is-active">
+    <div class="message-header">
       <p>Warum sind wir auf Direktkredite angewiesen?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
-      <p>Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.</p>
-      <div class="message is-primary"><div class="message-body">Mit einem Direktkredit bei uns haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.</div></div>
+    <div class="message-body">
+      <div class="message-content">
+        <p>Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.</p>
+        <div class="notification is-primary">Mit einem Direktkredit bei uns haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.</div>
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Gibt es verschiedene Optionen bei der Direktkreditvergabe?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
+    <div class="message-body">
+      <div class="message-content">
       <div class="columns">
         <div class="column">
         <h3>Sofort-Direktkredit</h3>
@@ -53,71 +53,66 @@ Zurzeit haben wir inklusive Spenden bereits __933.000 Euro__ eingeworben. Vielen
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Welche Konditionen gibt es?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
+    <div class="message-body">
+      <div class="message-content">
       Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0.01 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Wie sicher ist es einen Direktkredit zu geben?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
+    <div class="message-body">
+      <div class="message-content">
       Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden. Sollte es zum Extremfall einer Insolvenz kommen, erhalten zuerst andere Gläubiger, etwa Banken, ihr Geld zurück. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Was habe ich bei den Steuern zu beachten?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
+    <div class="message-body">
+      <div class="message-content">
       Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Du bist daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhältst du auf Wunsch eine Bescheinigung über die Zinseinnahmen.
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Welche gesetzlichen Regelungen gibt es?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
+    <div class="message-body">
+      <div class="message-content">
       Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des Vermögensanlagengesetzes. Danach bietet die Träger-GmbH mehrere Vermögensanlagen mit unterschiedlichen Zinssätzen an. Im Rahmen einer einzelnen Vermögensanlage werden innerhalb von 12 Monaten nicht mehr als insgesamt 100.000 Euro bzw. maximal 20 Direktkredite angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz (Bagatellgrenze).
       </div>
     </div>
   </div>
-  <div class="accordion">
-    <div class="accordion-header toggle">
+  <div class="message toggle">
+    <div class="message-header">
       <p>Wo finde ich weitere Informationen über Direktkredite?</p>
     </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
-      <article class="message is-info">
-  <div class="message-body">
-    <ul>
-      <li>Schreiben Sie uns eine E-Mail
-        <pre><a href="mailto:direktkredit@collegiumacademicum.de">direktkredit@collegiumacademicum.de</a></pre>
-      </li>
-      <li>Auf dem Postweg
-        <pre>Collegium Academicum GmbH
+    <div class="message-body">
+      <div class="message-content">
+        <ul>
+          <li>Schreiben Sie uns eine E-Mail
+            <pre><a href="mailto:direktkredit@collegiumacademicum.de">direktkredit@collegiumacademicum.de</a></pre>
+          </li>
+          <li>Auf dem Postweg
+            <pre>Collegium Academicum GmbH
 Plöck 93
 69117 Heidelberg</pre>
-      </li>
-      <li>Einfach anrufen
-        <pre>06221-652236</pre>
-        <p>Bitte beachten Sie, dass wir nicht jeder Zeit erreichbar sein können. Versuchen sie es im Zweifel einfach später noch einmal.</p>
-    </li>
-</ul>
-
-  </div>
-</article>
+          </li>
+          <li>Einfach anrufen
+            <pre>06221-652236</pre>
+            <p>Bitte beachten Sie, dass wir nicht jeder Zeit erreichbar sein können. Versuchen sie es im Zweifel einfach später noch einmal.</p>
+          </li>
+        </ul>
       </div>
     </div>
   </div>

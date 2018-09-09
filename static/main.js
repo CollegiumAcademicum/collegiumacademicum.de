@@ -1,14 +1,41 @@
+/*!
+  * domready (c) Dustin Diaz 2014 - License MIT
+  * SRC: https://github.com/ded/domready/blob/master/ready.js
+  */
+ !function (name, definition) {
+
+  if (typeof module != 'undefined') module.exports = definition()
+  else if (typeof define == 'function' && typeof define.amd == 'object') define(definition)
+  else this[name] = definition()
+
+}('domready', function () {
+
+  var fns = [], listener
+    , doc = typeof document === 'object' && document
+    , hack = doc && doc.documentElement.doScroll
+    , domContentLoaded = 'DOMContentLoaded'
+    , loaded = doc && (hack ? /^loaded|^c/ : /^loaded|^i|^c/).test(doc.readyState)
+
+
+  if (!loaded && doc)
+  doc.addEventListener(domContentLoaded, listener = function () {
+    doc.removeEventListener(domContentLoaded, listener)
+    loaded = 1
+    while (listener = fns.shift()) listener()
+  })
+
+  return function (fn) {
+    loaded ? setTimeout(fn, 0) : fns.push(fn)
+  }
+
+});
+
 // Polyfilling
 HTMLDocument.prototype.getAll || (HTMLDocument.prototype.getAll = function (s) {
   return Array.prototype.slice.call(this.querySelectorAll(s), 0);
 });
 
-// Burgers
-var burgers = document.getAll('.burger');
-
-if (burgers.length > 0) setBurgerListeners();
-
-function setBurgerListeners() {
+function setBurgerListeners(burgers) {
   burgers.forEach(function (burger) {
     burger.addEventListener('click', function () {
       this.classList.toggle('is-active');
@@ -18,28 +45,15 @@ function setBurgerListeners() {
   });
 }
 
-// Delete
-var $deletes = document.getAll('.delete');
-
-if ($deletes.length > 0) {
-  $deletes.forEach(function ($el) {
-    $el.addEventListener('click', function () {
-      $el.parentElement.classList.toggle('is-hidden');
+function setDeletersListeners(deleters) {
+  deleters.forEach(function (deleter) {
+    deleter.addEventListener('click', function () {
+      deleter.parentElement.classList.toggle('is-hidden');
     });
   });
 }
 
-// Modals
-var modals = document.getAll('.modal');
-var modalButtons = document.getAll('.modal-button');
-var modalClosers = document.getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
-
-if (modalButtons.length > 0 && modalClosers.length > 0) {
-  setModalButtonListeners();
-  setModalCloserListeners();
-}
-
-function setModalButtonListeners() {
+function setModalButtonListeners(modalButtons) {
   modalButtons.forEach(function (modalButton) {
     modalButton.addEventListener('click', function () {
       var modal = document.getElementById(this.dataset.target);
@@ -53,27 +67,18 @@ function setModalButtonListeners() {
   });
 }
 
-function setModalCloserListeners() {
+function setModalCloserListeners(modalClosers) {
   modalClosers.forEach(function (modalCloser) {
     modalCloser.addEventListener('click', function () {
       document.documentElement.classList.remove('is-clipped');
-      modals.forEach(function (modal) {
+      document.getAll('.modal').forEach(function (modal) {
         modal.classList.remove('is-active');
       });
     });
   });
 }
 
-//Quote Grid
-var quoteGridIcons = document.getAll('.quotegrid-icon');
-var quoteGrids = document.getAll('.quotegrid-overlay');
-
-if (quoteGridIcons.length > 0 && quoteGrids.length > 0) {
-  setQuoteGridListeners();
-  setQuoteGridIconListeners();
-}
-
-function setQuoteGridIconListeners() {
+function setQuoteGridIconListeners(quoteGridIcons) {
   quoteGridIcons.forEach(function (icon) {
     icon.addEventListener('click', function (e) {
       if (e.target.tagName === 'FIGURE') {
@@ -84,7 +89,7 @@ function setQuoteGridIconListeners() {
   });
 }
 
-function setQuoteGridListeners() {
+function setQuoteGridListeners(quoteGrids, quoteGridIcons) {
   quoteGrids.forEach(function (quoteGrid) {
     quoteGrid.addEventListener('click', function () {
       quoteGridIcons.forEach(function (quoteGrid) {
@@ -94,32 +99,47 @@ function setQuoteGridListeners() {
   });
 }
 
-//Accordion
-var MOUSE_EVENTS = ['click', 'touchstart'];
-var accordions = document.getAll('.accordions');
-
-if (accordions.length > 0) {
-  setAccordionListeners();
-}
-
-function setAccordionListeners() {
-  accordions.forEach.call(function (accordion) {
-    var items = document.getAll('.accordions .accordion');
-    items.forEach.call(function (item) {
-      MOUSE_EVENTS.forEach(function (event) {
-        item.querySelector('.toggle, [data-action="toggle"]').addEventListener(event, e => {
-          e.preventDefault();
-          if (!item.classList.contains('is-active')) {
-            var activeItem = accordion.querySelector('.accordion.is-active');
-            if (activeItem) {
-              activeItem.classList.remove('is-active');
-            }
-            item.classList.add('is-active');
-          } else {
-            item.classList.remove('is-active');
-          }
-        });
+function setToggleMessagesListeners(toggleMessages) {
+  toggleMessages.forEach(function (toggleMessage) {
+    ['click', 'touchstart'].forEach(function (event) {
+      toggleMessage.querySelector('.message-header').addEventListener(event, function () {
+        toggleMessage.classList.toggle('is-active')
       });
     });
   });
 }
+
+domready(function () {
+  // Burgers
+  var burgers = document.getAll('.burger');
+  if (burgers.length > 0) setBurgerListeners(burgers);
+
+
+
+  // Delete
+  var deleters = document.getAll('.delete');
+  if (deleters.length > 0) setDeletersListeners(deletes);
+
+
+  // Modals
+  var modalButtons = document.getAll('.modal-button');
+  var modalClosers = document.getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
+  if (modalButtons.length > 0 && modalClosers.length > 0) {
+    setModalButtonListeners(modalButtons);
+    setModalCloserListeners(modalClosers);
+  }
+
+
+
+  //Quote Grid
+  var quoteGrids = document.getAll('.quotegrid-overlay');
+  var quoteGridIcons = document.getAll('.quotegrid-icon');
+  if (quoteGridIcons.length > 0 && quoteGrids.length > 0) {
+    setQuoteGridListeners(quoteGrids, quoteGridIcons);
+    setQuoteGridIconListeners(quoteGridIcons);
+  }
+
+  //Toggle Messages
+  var toggleMessages = document.getAll('.message.toggle');
+  if (toggleMessages.length > 0) setToggleMessagesListeners(toggleMessages);
+});
