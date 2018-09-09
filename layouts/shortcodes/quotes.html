@@ -6,7 +6,7 @@
 
 <div class='quotegrid columns is-multiline is-gapless is-hidden-mobile'>
         {{ range .Scratch.Get "quotes_data" }}
-            <div class="quotegrid-icon column is-4">
+            <div class="quotegrid-icon column is-{{ $.Params.size }}">
                 <div class="image is-128x128">
                     <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                 </div>

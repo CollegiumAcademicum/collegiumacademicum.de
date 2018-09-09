@@ -25,4 +25,4 @@ Das Programm für die vierzehn Tage findet ihr hier:
 | Küche für Alle (Küfa) | 12-14 **29.05.** | Neuenheimer Feld (Zentralmensa) | Möchtest du mal etwas anderes als Mensa? Appel un'Ei und das CA kochen für euch gegen Spende. Wir freuen uns euch zu sehen. |
 | Jonglier-Workshop     | 17:30 **28.05.** | Neuenheimer Feld (Zentralmensa) | Hast du Lust etwas über die Kunst des Jonglierens zu lernen? Komm vorbei                                                    |
 
-Erfahren Sie <a href="{{< relref "2018-05-10_Sponsoren_Zimmermodell.md" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
+Erfahren Sie <a href="{{< relref "zimmermodell" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.

@@ -8,4 +8,4 @@ Kurzes Update: Unser [Zimmermodell](/zimmermodell) steht momentan auf dem
 
 Auf [Facebook](https://www.facebook.com/MetropolinkFestival/photos/gm.274307839996473/1883274415026017/?type=3&theater) findest du Informationen, wie du am besten auf das Gelände kommst.
 
-Erfahren Sie <a href="{{< relref "2018-05-10_Sponsoren_Zimmermodell.md" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
+Erfahren Sie <a href="{{< relref "zimmermodell" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.

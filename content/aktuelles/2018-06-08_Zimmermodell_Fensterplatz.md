@@ -23,4 +23,4 @@ werden wir in Kürze hier veröffentlichen:
 | [Fensterlunch am Fensterplatz](https://www.fensterplatz-heidelberg.de/#Termine) | 12:30 - 14:00 **13.06.** | [Fensterplatz](https://www.openstreetmap.org/node/5576336951) | Lunch mit Foodtrucks und einem darstellendem Künstler                                                                       |
 
 
-Erfahren Sie <a href="{{< relref "2018-05-10_Sponsoren_Zimmermodell.md" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
+Erfahren Sie <a href="{{< relref "zimmermodell" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.

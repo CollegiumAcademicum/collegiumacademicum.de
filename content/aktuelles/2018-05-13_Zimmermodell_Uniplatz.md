@@ -29,4 +29,4 @@ angekommen und heißen euch wilkommen.
 </table>
 </figure>
 
-Erfahren Sie <a href="{{< relref "2018-05-10_Sponsoren_Zimmermodell.md" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
+Erfahren Sie <a href="{{< relref "zimmermodell" >}}"> hier</a> mehr darüber, wer uns bei der Umsetzung des Zimmermodells unterstützt hat.
