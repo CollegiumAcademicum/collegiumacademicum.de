@@ -9,10 +9,10 @@
 {{ else }}
     {{ .Scratch.Set "image_big" ($original.Resize "900x q60 Lanczos") }}
     {{ .Scratch.Set "image_small" ($original.Resize "700x q60 Lanczos") }}
-{{ end }}    
+{{ end }}
 {{ $image_small := .Scratch.Get "image_small" }}
 {{ $image_big := .Scratch.Get "image_big" }}
-<figure class="modal-figure">
+<figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img {{ with .Parent }}src="" data-src="{{ $image_big.RelPermalink }}"{{ else }}src="{{ $image_small.RelPermalink }}"{{ end }} {{ with .Get "alt" }}alt="{{.}}"{{ end }} {{ with .Parent }}{{ else }}data-target="modal-{{ $DataTarget }}" {{ end }}class="image {{ with .Parent }}{{ else }}modal-button {{ end }}{{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     {{ with .Get "attr" }}
     <figcaption>

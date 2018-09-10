@@ -34,7 +34,7 @@ Für die Projektfinanzierung sind verschiedene Bausteine
 vorgesehen: Die Finanzierung setzt sich zusammen aus
 Fördermitteln, privaten Direktkrediten und, von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)), geförderten Bankkrediten. Hinzu kommen Einsparungen durch Sponsoring und Eigenleistung.
 
-{{< img src="bausteine_finanzierung_bearbeitet" alt="Die Bausteine unserer Finanzierung" >}}
+{{< img src="bausteine_finanzierung_bearbeitet" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" >}}
 
 ### Förderung
 
@@ -116,7 +116,7 @@ Projekt nicht gewinnorientiert ist und die Bewohner\*innen zugleich
 Eigentümer sein werden, können wir langfristig kostengünstige Mieten
 garantieren.
 
-{{< img src="refinanzierung_bearbeitet" alt="Refinanzierung" >}}
+{{< img src="refinanzierung_bearbeitet" alt="Refinanzierung" style="margin: 10%" >}}
 
 ## Die Zahlen auf einen Blick
 
