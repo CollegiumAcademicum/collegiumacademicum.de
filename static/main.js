@@ -78,25 +78,6 @@ function setModalCloserListeners(modalClosers) {
   });
 }
 
-function setQuoteGridIconListeners(quoteGridIcons) {
-  quoteGridIcons.forEach(function (icon) {
-    icon.addEventListener('click', function (e) {
-      if (e.target.tagName === 'FIGURE') {
-        icon.classList.add('is-active');
-        icon.querySelector('.quotegrid-overlay').classList.remove('is-hidden');
-      }
-    });
-  });
-}
-
-function setQuoteGridListeners(quoteGridsOverlays) {
-  quoteGridsOverlays.forEach(function (overlay) {
-    overlay.addEventListener('click', function () {
-      document.querySelector('.quotegrid-icon.is-active').classList.remove('is-active');
-    });
-  });
-}
-
 function setToggleMessagesListeners(toggleMessages) {
   toggleMessages.forEach(function (toggleMessage) {
     ['click', 'touchstart'].forEach(function (event) {
@@ -125,16 +106,6 @@ domready(function () {
   if (modalButtons.length > 0 && modalClosers.length > 0) {
     setModalButtonListeners(modalButtons);
     setModalCloserListeners(modalClosers);
-  }
-
-
-
-  //Quote Grid
-  var quoteGridsOverlays = document.getAll('.quotegrid-overlay');
-  var quoteGridIcons = document.getAll('.quotegrid-icon');
-  if (quoteGridIcons.length > 0 && quoteGridsOverlays.length > 0) {
-    setQuoteGridListeners(quoteGridsOverlays);
-    setQuoteGridIconListeners(quoteGridIcons);
   }
 
   //Toggle Messages

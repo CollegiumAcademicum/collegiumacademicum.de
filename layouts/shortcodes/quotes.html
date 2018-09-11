@@ -4,13 +4,19 @@
     {{ .Scratch.Set "quotes_data" $.Site.Data.quotes_supporters.quotes_supporters }}
 {{ end }}
 
-<div class='quotegrid columns is-multiline is-gapless is-hidden-mobile'>
+<div class='modalgrid columns is-multiline is-gapless is-hidden-mobile'>
         {{ range .Scratch.Get "quotes_data" }}
-            <div class="quotegrid-icon column is-{{ $.Params.size }}">
-                <div class="image is-128x128">
-                    <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
+
+        {{ $DataTarget := substr .img 0 -4 }}
+            <div class="column is-{{ $.Params.size }}" >
+                <div class="modal-figure image is-128x128">
+                    <figure class="modal-button" style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" data-target="modal-{{ $DataTarget }}" ></figure>
                 </div>
-                <div class='quotegrid-overlay'>
+            </div>
+            <div id="modal-{{ $DataTarget }}" class="modal">
+                <div class="modal-background"></div>
+                <button class="modal-close" aria-label="close"></button>
+                <div class="modal-content">
                     <div class="image is-{{ $.Params.iconsize }}x{{ $.Params.iconsize }}">
                         <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
                     </div>

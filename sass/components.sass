@@ -33,6 +33,10 @@
 
 // Modal
 .modal
+    opacity: 0
+    &.is-active
+        animation: unOpaque $speed ease-in-out forwards
+        opacity: 1
     figcaption
         @extend .notification
     .modal-close
@@ -110,44 +114,22 @@
             height: 40px
 
 // The grid of supporter and team quotes
-.quotegrid
-    position: relative
-    margin-top: 0!important
-    .column
-        &.is-active
-            z-index: 1
-            .quotegrid-overlay
-                display: block
-                animation: unOpaque $speed ease-in-out forwards
-        .image
-            figure
-                background-size: cover
-                height: 100%
-                width: 100%
-                margin: 0
-                transition: 4 * $speed
-        & > .image
-            background: $secondary
-            &:hover
-                figure
-                    mix-blend-mode: screen
-                    -webkit-filter: grayscale(100%)
-                    filter: grayscale(100%)
-        .quotegrid-overlay
-            display: none
-            position: absolute
-            top: 0
-            left: 0
-            background: transparentize($white, 0.05)
-            transition: $speed
-            opacity: 0
+.modalgrid
+    .image
+        figure
+            background-size: cover
             height: 100%
-            .image
-                display: inline-block
-                vertical-align: top
-            blockquote
-                display: inline-block
-            .is-128x128 + blockquote
-                width: calc(100% - 131px)
-            .is-256x256 + blockquote
-                width: calc(100% - 259px)
+            width: 100%
+            margin: 0
+            &:hover
+                transition: 4 * $speed
+    .modal
+        .image
+            display: inline-block
+            vertical-align: top
+        blockquote
+            display: inline-block
+        .is-128x128 + blockquote
+            width: calc(100% - 131px)
+        .is-256x256 + blockquote
+            width: calc(100% - 259px)
