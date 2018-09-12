@@ -12,7 +12,7 @@ Ein für Außenstehende offenes, von den Bewohnenden ausgearbeitetes, studienbeg
     Eine Besonderheit stellt das Propädeutikum im Altbau dar: Zwischen Schule und Studium wird jungen Menschen ein einjähriges, fachübergreifendes Vorbereitungsstudium ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
     </div>
     <div class="column">
-        {{< img src="bib_schloss" alt="Ein Blick aus der Universitätsbibliothek auf das Heidelberger Schloss." attr="Margarete Over 2016" >}}
+        {{< img src="bib_schloss" alt="Ein Blick aus der Universitätsbibliothek auf das Heidelberger Schloss." attr="Margarete Over 2016" />}}
     </div>
 </div>
 

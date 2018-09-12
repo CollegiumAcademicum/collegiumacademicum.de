@@ -45,8 +45,7 @@ You can use the following custom shortcodes in the content markdown files to get
 
 | Shortcode | function |
 | --- | --- |
-| `{{< img src="" alt="" attr="" >}}` | Includes an image and adds the modal popup. |
-| `{{< cimg src="" alt="" attr="" >}}###{{< /cimg >}}` | Includes an image and adds the modal popup with the given content in the modal.  |
+| `{{< img src="" alt="" attr="" />}}` | Includes an image and adds the modal popup. **Note the trailing slash!** |
 | `{{< pdf src="" width="" height="" >}}`| Embeds a PDF. |
 | `{{< audio ### >}}`| Embeds a audio file. |
 | `{{< quotes source="" size="" >}}` | Prints a grid of quotes. Source `team` or `supporters`. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |

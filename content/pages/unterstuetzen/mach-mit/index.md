@@ -5,7 +5,7 @@ title: "Mach Mit"
 
 <div class="columns">
     <div class="column">
-        {{< img src="grufo" alt="Die Projektgruppe auf einem Teambuilding Wochenende im Schwarzwald." >}}
+        {{< img src="grufo" alt="Die Projektgruppe auf einem Teambuilding Wochenende im Schwarzwald." />}}
     </div>
     <div class="column">
         Wünscht Du dir auch…

@@ -4,10 +4,10 @@ title: "Zimmermodell"
 
 <div class="columns">
     <div class="column">
-    {{< img src="uniplatz" alt="Das Zimmermodell kurz nach seiner Ankunft auf dem Uniplatz." >}}
+    {{< img src="uniplatz" alt="Das Zimmermodell kurz nach seiner Ankunft auf dem Uniplatz." />}}
     </div>
     <div class="column">
-    {{< img src="innenleben" alt="Prototypische Innenausstattung der Kernzone eines Wohnheimzimmers" >}}
+    {{< img src="innenleben" alt="Prototypische Innenausstattung der Kernzone eines Wohnheimzimmers" />}}
     </div>
 </div>
 

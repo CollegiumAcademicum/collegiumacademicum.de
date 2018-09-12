@@ -3,6 +3,11 @@ title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
 
+[params]
+sml_imgsize = "600"
+med_imgsize = "900"
+big_imgsize = "1800"
+
 [languages]
 [languages.de]
 languageName = 'Deutsch'

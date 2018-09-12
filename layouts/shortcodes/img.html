@@ -5,15 +5,36 @@
 {{ $extension := index (split $original.Name ".") 1 }}
 {{ if eq $extension "svg" }}
     {{ .Scratch.Set "image_big" ($original) }}
+    {{ .Scratch.Set "image_medium" ($original) }}
     {{ .Scratch.Set "image_small" ($original) }}
 {{ else }}
-    {{ .Scratch.Set "image_big" ($original.Resize "900x q60 Lanczos") }}
-    {{ .Scratch.Set "image_small" ($original.Resize "700x q60 Lanczos") }}
+    {{ .Scratch.Set "image_big" ($original.Resize (printf "%s%s" $.Site.Params.big_imgsize "x q60 Lanczos")) }}
+    {{ .Scratch.Set "image_medium" ($original.Resize (printf "%s%s" $.Site.Params.med_imgsize "x q60 Lanczos")) }}
+    {{ .Scratch.Set "image_small" ($original.Resize (printf "%s%s" $.Site.Params.sml_imgsize "x q60 Lanczos")) }}
 {{ end }}
 {{ $image_small := .Scratch.Get "image_small" }}
+{{ $image_medium := .Scratch.Get "image_medium" }}
 {{ $image_big := .Scratch.Get "image_big" }}
+{{ $srcset := printf "%s %sw, %s %sw, %s %sw" $image_small.RelPermalink $.Site.Params.sml_imgsize $image_medium.RelPermalink $.Site.Params.med_imgsize $image_big.RelPermalink $.Site.Params.big_imgsize }}
+{{ with .Parent}}
 <figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
-    <img {{ with .Parent }}src="" data-src="{{ $image_big.RelPermalink }}"{{ else }}src="{{ $image_small.RelPermalink }}"{{ end }} {{ with .Get "alt" }}alt="{{.}}"{{ end }} {{ with .Parent }}{{ else }}data-target="modal-{{ $DataTarget }}" {{ end }}class="image {{ with .Parent }}{{ else }}modal-button {{ end }}{{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
+    <img alt="{{ .Get "alt" }}"
+        src="" data-src="{{ $image_medium.RelPermalink }}"
+        srcset="" data-srcset="{{ $srcset }}"
+        class="image {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
+    {{ with .Get "attr" }}
+    <figcaption>
+        <cite>© {{.}}</cite>
+    </figcaption>
+    {{ end }}
+</figure>
+{{ else}}
+<figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
+    <img alt="{{ .Get "alt" }}"
+        src="{{ $image_small.RelPermalink }}"
+        srcset="{{ $srcset }}"
+        data-target="modal-{{ $DataTarget }}"
+        class="image modal-button {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     {{ with .Get "attr" }}
     <figcaption>
         <cite>© {{.}}</cite>
@@ -21,12 +42,17 @@
     {{ end }}
 </figure>
 
-{{ with .Parent }}{{ else }}
 <div id="modal-{{ $DataTarget }}" class="modal">
         <div class="modal-background"></div>
         <div class="modal-content {{ if eq $extension "svg" }}box{{ end }}">
+            {{ if len .Inner }}
+                {{ .Inner }}
+            {{ else }}
             <figure>
-                <img src="" data-src="{{ $image_big.RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }} class="image"/>
+                <img alt="{{ .Get "alt" }}"
+                    src="" data-src="{{ $image_medium.RelPermalink }}"
+                    srcset="" data-srcset="{{ $srcset }}"
+                    class="image"/>
                 {{ if or (.Get "alt") (.Get "attr")}}
                 <figcaption>
                     {{ with .Get "alt"}}
@@ -38,6 +64,7 @@
                 </figcaption>
                 {{ end }}
             </figure>
+            {{ end }}
         </div>
         <button class="modal-close" aria-label="close"></button>
 </div>

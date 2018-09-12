@@ -4,7 +4,7 @@ title: "Nachhaltigkeit"
 
 Bei der Konstruktion des innovativen Neubaus wird beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet, im Gebäudebetrieb werden weitgehend erneuerbare Energien genutzt. Durch sparsame Technik und Dämmung wird die Energieeffizienz weiter erhöht. Der Architektonische Entwurf berücksichtigt so die Ziele des Masterplans „100% Klimaschutz“.
 
-{{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" >}}
+{{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
 
 Auf Grund des kreativen Wohnkonzepts mit dem Anspruch, sich auf das wesentliche zu reduzieren (Suffizienz), dient das Projekt dem ifeu – Institut für Energie- und Umweltforschung – als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität:
 

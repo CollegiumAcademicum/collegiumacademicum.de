@@ -16,7 +16,7 @@ Oder eventuell bist du begeistert von einem Leben in einer großen
 Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel
 an?
 
-{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" >}}
+{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
 
 Für uns ist vor allem eines wichtig, dass du Lust hast dein Leben mit
 anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich

@@ -62,6 +62,7 @@ function setModalButtonListeners(modalButtons) {
       var images = document.getAll('#' + modal.id + ' .modal-content img')
       images.forEach(function (image) {
         image.src = image.dataset.src;
+        image.srcset = image.dataset.srcset;
       });
     });
   });

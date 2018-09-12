@@ -7,13 +7,13 @@ slug: "geschichte"
 
 Von der Gründung im Jahr 1945 bis zur Räumung 1978 – der Versuch einige Aspekte der vielseitigen und komplexen Geschichte des CA darzustellen.
 
-{{< img src="seminarstrasse" alt="Das Gebäude des alten CA in der Seminarstraße." >}}
+{{< img src="seminarstrasse" alt="Das Gebäude des alten CA in der Seminarstraße." />}}
 
 Gegründet wurde das Collegium Academicum 1945 durch den damaligen Rektor Bauer. Der erste Leiter des CA wurde Dr. Joachim Boeckh, welcher auch die ersten _„Leitsätze für das zu errichtende Collegium Accademicum“_ verfasste. Hintergrund stellte die Forderung der amerikanischen Besatzungsmacht dar, den universitären Betrieb zeitnah nach dem Kriegsende wieder aufzunehmen. Im Zuge des Re-Education-Programms sollte eine demokratische Elite ausgebildet werden. Da jedoch viele Häuser durch den Krieg zerstört waren und für viele potentielle Studierende kein Wohnraum vorhanden war, forderte Rektor Bauer die amerikanischen Besatzer auf, ihm ein geeignetes Gebäude zur Verfügung zu stellen. Dieses Gebäude sollte das um 1750 erbaute Gebäude in der heutigen Seminarstaße werden, wo die Mitglieder des CA (des damaligen Vereins) bis März 1978 wohnten. Diese Möglichkeit eines Studentenwohnheims war jedoch von amerikanischer Seite aus an Bedingungen geknüpft. So wurde im Einvernehmen beider Parteien ein sogenanntes „Kollegienhaus“ nach amerikanischem Vorbild eingerichtet.
 
 <div class="columns">
     <div class="column">
-        {{< img src="bp_freudenberg" alt="" attr="Universitätsarchiv Heidelberg 1949" >}}
+        {{< img src="bp_freudenberg" alt="" attr="Universitätsarchiv Heidelberg 1949" />}}
     </div>
     <div class="column is-flex-middle">
         Die Studierenden, die häufig heimgekehrte Soldaten waren, sollten nach den teils traumatischen Erfahrungen des Krieges und der nationalsozialistischen Diktatur Demokratie selbst erfahren und durch praktische Übung lernen und politische Verantwortung übernehmen, dabei sei die Einbindung in die Institution der Universität sehr wichtig. Joachim Boeckh notiert in einem Programm im Oktober 1945 die Föderung begabter und würdiger Studenten, sowie die Bildung einer wissenschaftlich gegründeten führenden Akademikerschicht. Nicht zuletzt ist das Heidelberger Collegium Academicum, als Erstes von vielen anderen Kollegienhäusern in deutschen Universitätsstädten, Teil des Re-Education-Programms der Amerikaner.
@@ -30,7 +30,7 @@ Im Juni 1947 wurde vom Präsidenten des Landesbezirks Baden eine Oberstudienrats
         Die Selbstverwaltungsstruktur des CA war von Anfang an stark an den Aufbau einer Universität angelehnt. Die Organe der Selbstverwaltung waren Konvent, studentische Vertretung, Senior, Präfekt und Zehnerrat. Der <b>Konvent</b> war die Vollversammlung der im Collegium Academicum lebenden Studenten und bildete das “höchste Organ der Willensbildung”. Der <b>Senior</b> war als Repräsentant der Selbstverwaltung für die Vertretung der Kollegiaten gegenüber dem Leiter des CA. Der <b>Präfekt</b> führte das sogenannte Hauswesen. Er, sowie der Seinor wurde für die Dauer eines Semesters vom Konvent gewählt.
     </div>
     <div class="column">
-        {{< img src="zimmer" alt="" attr="Universitätsarchiv Heidelberg 1950" >}}
+        {{< img src="zimmer" alt="" attr="Universitätsarchiv Heidelberg 1950" />}}
     </div>
 </div>
 
@@ -38,7 +38,7 @@ Die <b>studentische Vertretung</b> bestand aus einem zwöpfigen Gremium, das sic
 
 <div class="columns">
     <div class="column">
-        {{< img src="waschraum" alt="" attr="Universitätsarchiv Heidelberg 1950" >}}
+        {{< img src="waschraum" alt="" attr="Universitätsarchiv Heidelberg 1950" />}}
     </div>
     <div class="column">
         Neben der Selbstverwaltung gab es ein verpflichtendes Studium Generale, das sich aus “offiziellen Abendveranstaltungen”, “offenen Abenden”, dem “politischen Wochenbericht” und den verschiedenen Arbeitsgemeinschaften zusammensetzte. Die offiziellen Abendveranstaltungen waren Vorträge von Hochschullehrern, Politikern oder Künstlern. Großer Wert wurde hierbei auf eine anschließende Diskussion gelegt, im Rahmen derer die Kollegiaten das Respektieren fremder Meinungen und die sachliche Verteidigung ihres Standpunktes lernen sollten.
@@ -49,10 +49,10 @@ Die offenen Abende glichen den offiziellen Abendveranstaltungen, jedoch waren si
 
 <div class="columns">
     <div class="column">
-        {{< img src="fasching-1" alt="" attr="Universitätsarchiv Heidelberg 1956" >}}
+        {{< img src="fasching-1" alt="" attr="Universitätsarchiv Heidelberg 1956" />}}
     </div>
     <div class="column">
-        {{< img src="fasching-2" alt="" attr="Universitätsarchiv Heidelberg 1956" >}}
+        {{< img src="fasching-2" alt="" attr="Universitätsarchiv Heidelberg 1956" />}}
     </div>
 </div>
 
@@ -60,7 +60,7 @@ Die Kooperation zwischen Universität und Bewohner\*innen funktionierte gut, bis
 
 <div class="columns">
     <div class="column">
-        {{< img src="theater" alt="" attr="Universitätsarchiv Heidelberg" >}}
+        {{< img src="theater" alt="" attr="Universitätsarchiv Heidelberg" />}}
     </div>
     <div class="column is-flex-middle">
         Seit 1956 gab es im Rahmen des Collegium Academicum auch eine eigene Theatergruppe. Diese erarbeitete sich bereits in frühen Jahren einen (internationalen) Ruf. es gab nicht nur Auftritte auf der CA-eigenen Bühne („Theater im Gewölbe“), sondern auch auf Gastspielreisen, die die Gruppe bis nach England brachten. „Der Tag“ (Berlin) berichtet hierüber: „Es ist das erste Mal, daß; uns ein studentisches Liebhabertheater etwas gibt, das über die Grenzen des dilettantischen hinausreicht.“
@@ -76,7 +76,7 @@ Unbeeindruckt davon beschloss der Senat der Universität Heidelberg am 18.2.1975
         Nicht nur die Universität hat mit der Räumung einen lebendigen Teil studentischen Lebens und kritischer Wissenschaft verloren, auch der Altstadt und ihrer studentische Kultur ist ein kulturelles Zentrum abhanden gekommen. Es scheint in der Rücksicht sarkastisch, dass aus dem Haus für die Studierenden ein Haus für die Verwaltung eben jener gemacht wurde (Aspekte 1978).
     </div>
     <div class="column">
-        {{< img src="kaefer" alt="" attr="Universitätsarchiv Heidelberg 1950er" >}}
+        {{< img src="kaefer" alt="" attr="Universitätsarchiv Heidelberg 1950er" />}}
     </div>
 </div>
 
