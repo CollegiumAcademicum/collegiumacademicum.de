@@ -56,8 +56,26 @@
             mix-blend-mode: screen
             filter: grayscale(100%)
             -webkit-filter: grayscale(100%)
-    figcaption
-        background-color: $white
+// The grid of supporter and team quotes
+.modalgrid
+    .image
+        figure
+            background-size: cover
+            height: 100%
+            width: 100%
+            margin: 0
+            &:hover
+                transition: 4 * $speed
+    .modal
+        .image
+            display: inline-block
+            vertical-align: top
+        blockquote
+            display: inline-block
+        .is-128x128 + blockquote
+            width: calc(100% - 131px)
+        .is-256x256 + blockquote
+            width: calc(100% - 259px)
 
 // Timeline
 .timeline
@@ -113,24 +131,3 @@
             background-image: url('/img/map-demonstrator-icon.png')
             width: 40px
             height: 40px
-
-// The grid of supporter and team quotes
-.modalgrid
-    .image
-        figure
-            background-size: cover
-            height: 100%
-            width: 100%
-            margin: 0
-            &:hover
-                transition: 4 * $speed
-    .modal
-        .image
-            display: inline-block
-            vertical-align: top
-        blockquote
-            display: inline-block
-        .is-128x128 + blockquote
-            width: calc(100% - 131px)
-        .is-256x256 + blockquote
-            width: calc(100% - 259px)

@@ -17,7 +17,7 @@
 {{ $image_big := .Scratch.Get "image_big" }}
 {{ $srcset := printf "%s %sw, %s %sw, %s %sw" $image_small.RelPermalink $.Site.Params.sml_imgsize $image_medium.RelPermalink $.Site.Params.med_imgsize $image_big.RelPermalink $.Site.Params.big_imgsize }}
 {{ with .Parent}}
-<figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
+<figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
         src="" data-src="{{ $image_medium.RelPermalink }}"
         srcset="" data-srcset="{{ $srcset }}"
