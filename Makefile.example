@@ -4,33 +4,28 @@ UPLOAD_DIR=$(BASEDIR)/upload
 
 LOCALURL=http://localhost/
 
-FTP_HOST=collegiumacademicum.de
-FTP_USER=anonymous
-FTP_TARGET_DIR=/website/
-
 help:
 	@echo 'Makefile for a hugo Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make clean                          remove all generated files         '
 	@echo '   make css                            (re)generate the stylesheets       '
 	@echo '   make publish                        generate in production and upload  '
 	@echo '   make local                  		  generate for local dev settings    '
 	@echo '                                                                          '
 
-clean:
-	hugo --gc
-	[ ! -d $(UPLOAD_DIR) ] || rm -rf $(UPLOAD_DIR)
-	[ ! -d $(LOCAL_DIR) ] || rm -rf $(LOCAL_DIR)
-
 css:
 	sass sass/main.sass static/main.css
 
 local: css
+	[ ! -d $(LOCAL_DIR) ] || rm -rf $(LOCAL_DIR)
+	mkdir $(LOCAL_DIR)
 	hugo -D --i18n-warnings -b $(LOCALURL) -d $(LOCAL_DIR)
+	chmod 755 $(LOCAL_DIR)/main.js
 
 publish: css
+	[ ! -d $(UPLOAD_DIR) ] || rm -rf $(UPLOAD_DIR)
+	mkdir $(UPLOAD_DIR)
+	find $(UPLOAD_DIR) -type f -name "*.html" -exec sed -i '/^ *$/d' {} \;
 	hugo -d $(UPLOAD_DIR)
-	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(LOCAL_DIR) $(FTP_TARGET_DIR) ; quit"
 
-.PHONY: help clean css local publish
+.PHONY: help css local publish
