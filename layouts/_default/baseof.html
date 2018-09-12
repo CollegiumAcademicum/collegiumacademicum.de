@@ -6,7 +6,7 @@
     {{ $.Scratch.Add "InvLang" "Deutsch" }}
 {{ end }}
 <!DOCTYPE html>
-<html>
+<html lang="de">
 
 <head>
     <meta charset="utf-8">
@@ -20,7 +20,7 @@
 
 
     <link rel="stylesheet" href="{{ "main.css" | relURL }}" />
-    <script async type="text/javascript" src="{{ "main.js" | relURL }}"></script>
+    <script async src="{{ "main.js" | relURL }}"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous"></script>
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="hero-foot">
-            <nav class="navbar" role="navigation" aria-label="dropdown navigation">
+            <nav class="navbar" aria-label="dropdown navigation">
                 <div class="container">
                     <div class="navbar-brand is-hidden-desktop">
                         <a class="navbar-item" href="{{ "/" | relLangURL }}">
@@ -81,11 +81,11 @@
     </header>
     <!-- END NAV -->
 
-    <section class="section">
+    <main class="section">
         {{ block "main" . }}
         <!-- The part of the page that begins to differ between templates -->
         {{ end }}
-    </section>
+    </main>
 
     {{ partial "footer.html" }}
 </body>

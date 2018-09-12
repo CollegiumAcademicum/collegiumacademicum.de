@@ -3,7 +3,7 @@
 {{ define "main" }}
 <div class="container">
     <div class="columns is-centered">
-        <main class="column is-8">
+        <section class="column is-8">
             <h1 class="title is-1">{{ .Title }}</h1>
             <div class="content">
                 {{ range .Paginator.Pages }}
@@ -18,7 +18,7 @@
                 {{ end }}
             </div>
             {{ template "_internal/pagination.html" . }}
-        </main>
+        </section>
     </div>
 </div>
 {{ end }}
