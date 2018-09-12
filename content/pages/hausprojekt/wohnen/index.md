@@ -9,10 +9,16 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="model" attr="DGJ Architektur 2016" >}}
+        <div class="columns">
+        <div class="column">
             {{< img src="model_nw" attr="DGJ Architektur 2016" />}}
             {{< img src="model_w" attr="DGJ Architektur 2016" />}}
+        </div>
+        <div class="column">
             {{< img src="model_s" attr="DGJ Architektur 2016" />}}
             {{< img src="model_sw" attr="DGJ Architektur 2016" />}}
+        </div>
+        </div>
     {{< /img >}}
     </div>
     <div class="column">
