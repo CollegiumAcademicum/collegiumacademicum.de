@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "September 2018"
+content = "Zusage von Fördermitten in Höhe von 500 Tausend Euro für Innovationen im Holzbau aus dem Europäischen Fond für regionale Entwicklung."
+
+[[timeline]]
 heading = "Mai 2018"
 content = "<img src='mv_mannheim.jpg' />Das Collegium Academicum wird in das <a href='https://syndikat.org'>Mietshäuser Syndikat</a> aufgenommen. Dieses wird damit zweiter Gesellschafter der GmbH."
 
@@ -49,10 +53,6 @@ content = "Unser Planungsteam für Architektur, Tragwerksplanung, Brandschutz, B
 [[timeline]]
 heading = "2017"
 center = true
-
-[[timeline]]
-heading = "November 2016"
-content = "<a href='https://www.facebook.com/333578626757327/posts/1132158796899302/'>Nachbarschaftsfest/Kreativwerkstatt</a> auf der Fläche Hospital mit Vorstellung des Vorhabens"
 
 [[timeline]]
 heading = "November 2016"

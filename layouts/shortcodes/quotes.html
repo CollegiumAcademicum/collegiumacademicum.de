@@ -18,7 +18,9 @@
                 <button class="modal-close" aria-label="close"></button>
                 <div class="modal-content">
                     <div class="image is-{{ $.Params.iconsize }}x{{ $.Params.iconsize }}">
-                        <figure style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" ></figure>
+                        <figure>
+                            <img data-src="/img/{{ $.Params.source }}/{{ .img }}" />
+                        </figure>
                     </div>
                     <blockquote>
                         {{ .quote }}

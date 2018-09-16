@@ -123,7 +123,7 @@ garantieren.
 Fördermittel | |
 --- | ---:
 Förderprogramm Variowohnen | 2,12 Millionen Euro
-Landesförderung (in Aussicht gestellt) | 0,50 Millionen Euro
+Landesförderung | 0,50 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:

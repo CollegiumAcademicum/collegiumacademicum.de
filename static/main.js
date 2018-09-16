@@ -61,8 +61,8 @@ function setModalButtonListeners(modalButtons) {
       modal.classList.add('is-active');
       var images = document.getAll('#' + modal.id + ' .modal-content img')
       images.forEach(function (image) {
-        image.src = image.dataset.src;
-        image.srcset = image.dataset.srcset;
+        if (image.dataset.src) image.src = image.dataset.src;
+        if (image.dataset.srcset) image.srcset = image.dataset.srcset;
       });
     });
   });
