@@ -18,6 +18,15 @@ footer
         margin-top: 4rem
         .button
             box-shadow: $box-shadow
+    .level
+        .level-right, .level-left
+            +mobile
+                display: flex
+                justify-content: center
+    .level-item
+        +mobile
+            margin-right: 0.75em
+            margin-bottom: 0
 
 // Main Content
 .container
@@ -66,6 +75,10 @@ ul li audio
 .is-256x256
     height: 256px
     width: 256px
+
+.is-medium-mobile
+    +mobile
+        @extend .is-medium
 
 figure
     figcaption
