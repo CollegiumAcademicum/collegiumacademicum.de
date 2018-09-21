@@ -5,6 +5,14 @@ aside
             margin-bottom: 1rem
         &:not(:first-child)
             margin-top: 1rem
+        .card-image
+            background-size: cover
+            background-position: center
+            height: 9em
+            +mobile
+                height: 6em
+        .field
+            margin-top: 1em
 
 // FOOTER
 footer
@@ -75,10 +83,6 @@ ul li audio
 .is-256x256
     height: 256px
     width: 256px
-
-.is-medium-mobile
-    +mobile
-        @extend .is-medium
 
 figure
     figcaption
