@@ -1,5 +1,6 @@
 ---
 title: "Aufnahme ins Mietshäusersyndikat"
+date: 2018-07-03
 ---
 
 Liebe Unterstützer*innen,
