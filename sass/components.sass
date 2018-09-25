@@ -39,12 +39,16 @@
         opacity: 1
     figcaption
         @extend .notification
+        border-top-left-radius: 0
+        border-top-right-radius: 0
     .modal-close
         +desktop
             max-width: 120px
             max-height: 120px
             width: 120px
             height: 120px
+    .modal-content
+        overflow-x: hidden
 .modal-figure
     background-color: $secondary
     .modal-button
@@ -100,27 +104,21 @@
     .marker
         background-size: cover
         cursor: pointer
-
     .mapboxgl-popup
         max-width: 200px
-
     .mapboxgl-popup-content
         text-align: center
         font-family: $family-sans-serif
-
     &#ca-map
         height: 60vh
         width: 100%
         +tablet
             height: 400px
             margin: 7em 0
-
         .marker
             background-image: url('/img/map-voigl-icon.png')
             width: 22px
             height: 22px
-
-    // Demonstrator Map
     &#ca-demonstrator-map
         height: 80vh
         width: 100%
