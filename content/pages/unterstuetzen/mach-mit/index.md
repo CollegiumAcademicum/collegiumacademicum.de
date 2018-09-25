@@ -26,4 +26,6 @@ Lass' es drauf ankommen und geh' mit Mut in eine selbstgestaltete Zukunft!
 
 Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns **jeden Mittwoch um 18:00 Uhr in der Sandgasse 7**
 
+Jeden **ersten Mittwoch im Monat** veranstalten wir vor dem Projekttreffen um 17:30 Uhr ein **Interessiertentreffen**!
+
 ## Wir freuen uns auf Dich!
