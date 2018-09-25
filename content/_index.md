@@ -2,22 +2,21 @@
 title: "Collegium Academicum"
 ---
 
-<div class="notification is-primary"><button class="delete"></button>
-	Heute Abend findet, wie jeden ersten Mittwoch im Monat, unser
-	<strong>Kennenlerntreffen in der Sandgasse 7</strong> statt.
-	Wenn du Interesse hast mehr über unser Projekt und die Projektgruppe zu erfahren,
-		dann komm um <strong>17:30 Uhr</strong> vorbei.
-   </div>
+<!-- <div class="notification is-primary"><button class="delete"></button>
+     Heute Abend findet, wie jeden ersten Mittwoch im Monat, unser
+     <strong>Kennenlerntreffen in der Sandgasse 7</strong> statt.
+     Wenn du Interesse hast mehr über unser Projekt und die Projektgruppe zu erfahren,
+     dann komm um <strong>17:30 Uhr</strong> vorbei.
+     </div> -->
 
-<!-- <div class="notification is-primary"><button class="delete"></button> -->
-<!--     Zurzeit steht unser Zimmermodell vor dem  <a -->
-<!--     href="http://www.alteshallenbad.de/">Alten Hallenbad</a> in der -->
-<!--     Poststraße 36 / 5, 69115 Heidelberg. -->
-<!-- 	<br /> -->
-<!--     Aktuelle Veranstaltungen am Modell werden unter <a -->
-<!--     href="https://collegiumacademicum.de/aktuelles">Aktuelles</a> -->
-<!--     aufgeführt.<br /> -->
-<!-- </div> -->
+<div class="notification is-primary"><button class="delete"></button>
+  Zurzeit steht unser Zimmermodell vor dem  <a href="http://www.alteshallenbad.de/">Alten Hallenbad</a> in der
+  Poststraße 36 / 5, 69115 Heidelberg.
+  <br />
+  Aktuelle Veranstaltungen am Modell werden unter <a
+  href="https://collegiumacademicum.de/aktuelles">Aktuelles</a>
+  aufgeführt.<br />
+</div>
 
 <div class="columns is-centered">
     <div class="column is-10" style="line-height: 1.2em; text-align: justify;">
