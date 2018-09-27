@@ -43,15 +43,15 @@
             width: 120px
             height: 120px
     .modal-content
-        overflow-x: hidden
+        overflow: hidden
 .modal-figure
     background-color: $secondary
     .modal-button
         width: 100%
         display: block
         cursor: pointer
-        transition: 4 * $speed
         &:hover
+            transition: 4 * $speed
             mix-blend-mode: screen
             filter: grayscale(100%)
             -webkit-filter: grayscale(100%)
@@ -71,6 +71,9 @@
             vertical-align: top
         blockquote
             display: inline-block
+            border-radius: $radius-large
+            border-top-left-radius: 0
+            box-shadow: $box-shadow
         .is-128x128 + blockquote
             width: calc(100% - 131px)
         .is-256x256 + blockquote
@@ -80,7 +83,7 @@
 .timeline
     .timeline-item
         img
-            border-radius: 10px
+            border-radius: $radius-large
 
 // Toggleable messages
 .message.toggle
@@ -119,7 +122,6 @@
         width: 100%
         +tablet
             height: 400px
-
         .marker
             background-image: url('/img/map-demonstrator-icon.png')
             width: 40px
