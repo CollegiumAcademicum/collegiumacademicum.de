@@ -1,6 +1,6 @@
 ---
 title: "Direktkredite und Spenden über 1 Million – Danke!"
-date: 2018-09-23
+date: 2018-10-06
 ---
 
 Liebe Unterstützer*innen,
@@ -22,16 +22,14 @@ In den letzten Wochen konnten wir erfreut die eine Millionen-Euro-Marke an
 Direktkrediten und Spenden knacken! Für dieses Vertrauen und die dadurch
 gebotene Unterstützung möchten wir uns vielmals bei allen bedanken! Das Projekt
 konnte nur dadurch so weit kommen, dass viele begeisterte Menschen uns
-unterstützt und unsere Ideen in ihrem Umfeld verbreitet haben. Durch ein solches
-gemeinschaftliches Zusammenwirken können wir auch noch die restliche
-Finanzierung stemmen. Bis zum Baubeginn brauchen wir nach aktuellen
-Finanzkonditionen noch zwischen 600 und 700 000 Euro an Direktkrediten. Diese
-sind notwendig, um die letzten Planungsschritte einzuleiten und die
-Ausschreibungen vorzubereiten. In dieser heißen Phase unseres Projekts freuen
-wir uns ganz besonders über jeden weiteren finanziellen Beitrag. Wenn Sie sich
-vorstellen können, uns zu unterstützen und / oder Menschen kennen, die sich für
-das Projekt gewinnen ließen, freuen wir uns sehr, wenn Sie uns kontaktieren! Sie
-erreichen uns per Mail unter
+unterstützt und unsere Ideen in ihrem Umfeld verbreitet haben. Gemeinsam können
+wir die restliche Finanzierung stemmen! Bis zum Baubeginn brauchen wir noch
+600.000 Euro an Direktkrediten. Diese sind notwendig, um die letzten
+Planungsschritte einzuleiten und die Ausschreibungen vorzubereiten. In dieser
+heißen Phase unseres Projekts freuen wir uns ganz besonders über jeden weiteren
+finanziellen Beitrag. Wenn Sie sich vorstellen können, uns zu unterstützen und /
+oder Menschen kennen, die sich für das Projekt gewinnen ließen, freuen wir uns
+sehr, wenn Sie uns kontaktieren! Sie erreichen uns per Mail unter
 [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de) oder
 telefonisch unter 06221-652236.
 
@@ -72,13 +70,10 @@ immer ein Kind seiner Zeit war. Daraus können wir vieles für das neue CA lerne
 In den kommenden Wochen und Monaten werden wir wieder bei verschiedensten
 Veranstaltungen präsent sein. Darunter zählen etwa:
 
-|            |                                                                                                          |
-|------------|:---------------------------------------------------------------------------------------------------------|
-| __27.09.__ | Rundgang des Netzwerks „Geldkompass-Heidelberg“ zu Möglichkeiten nachhaltiger Geldanlage vor Ort         |
-| __23.10.__ | 19.30 Uhr Vorstellung des CA im Prisma-Haus, Heidelberg                                                  |
-| __10.11.__ | Freundeskreistreffen ab 16.30 Uhr im „Rabatz“, Heidelberg                                                |
-| __01.12.__ | Teilnahme bei der Fachtagung „Strategien für bezahlbaren Wohnraum“ der Heinrich-Böll-Stiftung, Stuttgart |
-
+|                       |                                                                                                                            |
+|-----------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| __23.10.  19.30 Uhr__ | Vorstellung des CA im [Prisma-Haus](http://www.boehmehd.de/oase/wohnprojekt.html), Richard-Wagner-Str. 6, 69121 Heidelberg |
+| __10.11.  16.30 Uhr__ | Freundeskreistreffen  im „[Rabatz](https://hagebutze.de/rabatz/)“, Rheinstr. 4, 69126 Heidelberg                          |
 
 Wir freuen uns, wenn Sie uns bei weiteren Direktkrediten unterstützen und wir
 Sie auf der ein oder anderen Veranstaltung begrüßen können!
