@@ -60,27 +60,25 @@ main
     h4
         &:not(:last-child)
             margin-bottom: 0.1666em
-
     figure
         text-align: left
-
     blockquote
         position: relative
         border-left: none
         background: $secondary
         color: $white
         padding-left: 54px
-
+        line-height: 1.6rem
         cite
             font-size: 0.9rem
-
-    blockquote::before
-        color: $white
-        content: "„"
-        font-size: 180px
-        position: absolute
-        left: -12px
-        top: -160px
+        &::before
+            color: $white
+            content: "„"
+            font-size: 180px
+            position: absolute
+            left: -12px
+            top: -42px
+            line-height: 0
 
     ul
         list-style: none

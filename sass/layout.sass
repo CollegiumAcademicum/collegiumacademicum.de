@@ -37,7 +37,10 @@ footer
             margin-bottom: 0
 
 // Main Content
-.container
+main
+    +mobile
+        padding-left: 0
+        padding-right: 0
     // Sides without sidebar:
     .columns
         &:not(:last-child)
@@ -50,26 +53,19 @@ footer
             .content > h4
                 +desktop
                     padding: 0 7%
-    main
+    .content
+        p, .column
+            +mobile
+                text-align: justify
         .column
             +desktop
                 text-align: right
                 &:nth-child(even)
                     text-align: left
-            figure
-                margin: 0
-        .modal
-            figure:not(:last-child)
-                margin-bottom: 6em
-
-        p, .column
+        figure
             +mobile
-                text-align: justify
-.content
-    figure
-        +mobile
-            margin-left: 0
-            margin-right: 0
+                margin-left: 0
+                margin-right: 0
 
 @keyframes unOpaque
     from
