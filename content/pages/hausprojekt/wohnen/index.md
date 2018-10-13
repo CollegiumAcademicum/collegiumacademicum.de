@@ -41,9 +41,6 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
     </div>
 </div>
 
-<script src='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
-<link href='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
-
 <div id='ca-map'></div>
 <script>
     mapboxgl.accessToken = 'pk.eyJ1IjoiY29sbGVnaXVtYWNhZGVtaWN1bSIsImEiOiJjamdwZGFreWMwMzNiMzNvZmloZWs3eHNxIn0.ClXp6n8qltuq-IO9cUnsqw';
@@ -55,11 +52,9 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
         pitch: 60,
         style: 'mapbox://styles/collegiumacademicum/cjh3tor1j2nha2rp86mehjslm'
     });
-
     map.on("load", function () {
         var el = document.createElement('div');
         el.className = 'marker';
-
         new mapboxgl.Marker(el)
         .setLngLat([8.686231829139132, 49.37589920283469])
         .addTo(map);
