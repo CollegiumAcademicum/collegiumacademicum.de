@@ -10,11 +10,11 @@ title: "Mach Mit"
     <div class="column">
         Wünscht Du dir auch…
         <ul>
-        <li>einem Ort an dem wild gesponnen werden darf?</li>
-        <li>einem Ort des bunten und aktiven Lebens?</li>
-        <li>einem Ort des Wissens und der Bildung?</li>
-        <li>einem Ort zum Musik und Kultur machen?</li>
-        <li>einem Ort an dem Diskussionen entstehen?</li>
+        <li>einen Ort an dem wild gesponnen werden darf?</li>
+        <li>einen Ort des bunten und aktiven Lebens?</li>
+        <li>einen Ort des Wissens und der Bildung?</li>
+        <li>einen Ort zum Musik und Kultur machen?</li>
+        <li>einen Ort an dem Diskussionen entstehen?</li>
         </ul>
     </div>
 </div>

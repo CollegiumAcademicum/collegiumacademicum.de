@@ -31,14 +31,11 @@ Verwendungszweck: Spende CA, Ihr Name</pre>
         <p>Sie können auch online spenden. Aufgrund der höheren Transaktionsgebühren für den Service ist diese Option vorrangig für kleinere Beträge gedacht.</p>
     </div>
     <div class="column">
-        <div class="notification is-primary">
         <form class="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="6JJ9J9UTPSKCG">
-            <input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-            <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+            <input type="image" src="paypal_donate.gif" border="0" name="submit" alt="Dem Collegium Academicum über Paypal gelden spenden.">
         </form>
-        </div>
     </div>
 </div>
 

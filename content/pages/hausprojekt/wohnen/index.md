@@ -84,7 +84,7 @@ Für den innovativen Charakter im Bereich flexiblen Wohnens und das nachhaltige 
 
 ## Der Altbau
 
-Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstbau sollen Wohnboxen entstehen, in der umliegenden Gebäudehülle sollen Gemeinschaftsfläche für Zusammenleben, Lernen und kreatives Arbeiten zur Verfügung stehen. Mehrere Seminarräume sind für die Bewohner*innen und externen Initiativen im Erdgeschoss angedacht. Das im Altbau vorgesehene Orintierungsjahr ist wichtiger Bestandteil des ganzheitlichen Bildungskonzepts.
+Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstbau sollen Wohnboxen entstehen, in der umliegenden Gebäudehülle sollen Gemeinschaftsflächen für Zusammenleben, Lernen und kreatives Arbeiten zur Verfügung stehen. Mehrere Seminarräume sind für die Bewohner*innen und externen Initiativen im Erdgeschoss angedacht. Das im Altbau vorgesehene Orintierungsjahr ist wichtiger Bestandteil des ganzheitlichen Bildungskonzepts.
 
 {{< img src="altbau_wide" attr="Christian Buck 2016" >}}
     {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
@@ -94,4 +94,4 @@ Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstb
 
 Die Internationale Bauausstellung (IBA) Heidelberg, die als Exzellenzinitiative für Stadtplanung bis 2022 an zukunftsweisenden Lösungen angesichts städtebaulicher und gesellschaftlicher Herausforderungen arbeitet, kürte das Vorhaben 2015 zum IBA_PROJEKT unter dem Motto „Wissen | schafft | Stadt“.
 
-Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung begleitet wird. Der Anspruch sich auf das Wesentliche zu reduzieren (Suffizienz) drückt sich in experimentellem Wohnen, den Gemeinschaftsflächen und Räume für Kreativnutzung aus.
+Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung begleitet wird. Der Anspruch sich auf das Wesentliche zu reduzieren (Suffizienz) drückt sich in experimentellem Wohnen, den Gemeinschaftsflächen und Räumen für Kreativnutzung aus.
