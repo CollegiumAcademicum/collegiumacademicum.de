@@ -19,8 +19,8 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-<progress class="progress is-large is-primary" value="1000" max="1600">1.000.000 €</progress>
-Zurzeit haben wir inklusive Spenden bereits __1.000.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
+<progress class="progress is-large is-primary" value="1100" max="1600">1.000.000 €</progress>
+Zurzeit haben wir inklusive Spenden bereits __1.010.000 Euro__ eingeworben. Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn dieses Jahr benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
 
 <section>
   <div class="message toggle is-active">

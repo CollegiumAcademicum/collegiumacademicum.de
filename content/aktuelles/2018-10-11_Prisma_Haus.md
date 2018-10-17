@@ -2,7 +2,7 @@
 title: "Prisma-Haus"
 date: 2018-10-11
 ---
-Wir laden euch herzlich ins Mehrgenerationenhaus
+Wir laden euch herzlich am 23.10 ins Mehrgenerationenhaus
 [Prisma](http://www.boehmehd.de/oase/wohnprojekt.html) zu einer
 Informationsveranstaltung zu unserem Wohnprojekt ein.
 
@@ -26,12 +26,10 @@ Zur Umsetzung nach dem Konzept des Mietshäusersyndikats benötigt das Projekt
 Direktkredite und Spenden. Hiervon konnte die Projektgruppe bisher 1 Million
 Euro erfolgreich einwerben. Ungeachtet dieses Erfolges benötigt die Gruppe noch
 weitere finanzielle Unterstützung, um notwendiges Eigenkapital für einen
-Bankkredit zu bilden. 
+Bankkredit zu bilden.
 
 Kommt vorbei! Wir freuen uns auf euch und eure Fragen.
 
+Wann:     __23.10, 19:30 Uhr__
 
-Uhrzeit:     __19:30 Uhr__  
-Treffpunkt:  __Mehrgenerationenhaus Prisma, Richard-Wagner-Str. 6, Heidelberg 69121__  
-
-
+Treffpunkt:  __Mehrgenerationenhaus Prisma, Richard-Wagner-Str. 6, Heidelberg 69121__
