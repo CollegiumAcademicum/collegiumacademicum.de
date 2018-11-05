@@ -119,12 +119,6 @@ date = "09.05.2018"
 link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-hospital-gelaende-heidelberg-hier-soll-ein-stabiles-gesellschaftliches-gefuege-entstehen-_arid,357461.html"
 
 [[press]]
-title = "Konversion Südstadt: Bezahlbare Wohnungen auf ehemaligem US Hospital-Gelände?"
-source = "Heidelberg24"
-date = "08.05.2018"
-link = "https://www.heidelberg24.de/heidelberg/heidelberg-rohrbach-konversionsflaeche-passiert-ehemaligen-us-hospital-gelaende-9853609.html"
-
-[[press]]
 title = "Angenehm Analog in Zeiten von Touch-Displays und Virtual-Reality"
 source = "Rhein-Neckar-Zeitung"
 date = "27.04.2018"
@@ -147,12 +141,6 @@ title = "Variable WG-Wände im Uni Journal"
 source = "Journal@RupertoCarola"
 date = "Oktober 2017"
 link = "https://www.uni-heidelberg.de/studium/journal/2017/10/ca.html"
-
-[[press]]
-title = "Diese Hardcore-Studis bauen sich ein eigenes Wohnheim"
-source = "tilllate.com "
-date = "27.09.2017"
-link = "http://tilllate.com/de/story/studenten-wohnheim-heidelberg?ref=home-story-2"
 
 [[press]]
 title = "Studierende bauen ihr Wohnheim"
@@ -241,38 +229,10 @@ date = "16.11.2015"
 link = "http://www.ruprecht.de/?p=9586"
 
 [[press]]
-title = "Erst Jesuiten, dann Soldaten."
-source = "Rhein-Neckar-Zeitung"
-date = "20.10.2015"
-link = ""
-
-[[press]]
-title = "Die alten Schlachten sind doch die besten."
-source = "Rhein-Neckar-Zeitung"
-date = "20.10.2015"
-link = ""
-
-[[press]]
 title = "Eine Idee ist nicht totzukriegen"
 source = "Rhein-Neckar-Zeitung"
 date = "14.11.2015"
 link = "http://www.rnz.de/nachrichten/heidelberg/campus_artikel,-Collegium-Academicum-Eine-Idee-ist-nicht-totzukriegen-_arid,141758.html"
-
-[[press]]
-title = "CA soll auf die Patton Barracks."
-source = "Rhein-Neckar-Zeitung"
-date = "14.11.2015"
-
-[[press]]
-title = "Ganz schön elitär, aber dafür basisdemokratisch."
-source = "Rhein-Neckar-Zeitung"
-date = "14.11.2015"
-link = ""
-
-[[press]]
-title = "Vom Lieblingskind zum Problemfall."
-source = "Rhein-Neckar-Zeitung"
-date = "20.10.2015"
 
 [[press]]
 title = "In Gesellschaft von Keimlingen"
@@ -285,18 +245,6 @@ title = "Selbstverwaltetes Wohnen Teil 1 – Collegicum Academicum"
 source = "RadioAktiv"
 date = "2015"
 link = "https://www.radioaktiv.org/2015/11/26/selbstverwaltetes-wohnen-collegicum-academicum/"
-
-[[press]]
-title = "Der Pseudo-Joschka von Heidelberg"
-source = "Kontext Wochenzeitung"
-date = "2014"
-link = "http://www.kontextwochenzeitung.de/zeitgeschehen/171/der-pseudo-joschka-von-heidelberg-2295.html"
-
-[[press]]
-title = "„Ich bin ein Spätzünder“ Der Heidelberer Lyriker Michael Buselmeier im Portrait"
-source = "Ruprecht"
-date = "19.01.2013"
-link = "http://2006-2013.ruprecht.de/nachrichten/archive/2013/january/29/article/ich-bin-ein-spaetzuender/"
 
 [[press]]
 title = "Vom Collegium Academicum zum »Carolinum« "
