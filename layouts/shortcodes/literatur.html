@@ -1,10 +1,12 @@
-<ul>
+<ul class="citation-list">
 {{ range $.Site.Data.bibliography.literature.literature }}
     <li>
-        {{ .title | markdownify }}
-        {{ if isset . "heidi" }}
-        <a href="http://katalog.ub.uni-heidelberg.de/titel/{{ .heidi }}">HEIDI</a>
-        {{ end }}
+        <time>{{ .year }}</time>
+        <span>
+        {{ if isset . "heidi" }}<a href="http://katalog.ub.uni-heidelberg.de/titel/{{ .heidi }}">{{ .title }}</a>
+        {{ else if isset . "doi" }}<a href="https://doi.org/{{ .doi }}">{{ .title }}</a>
+        {{ else }}{{ .title }}{{ end }}
+        </span>
         <cite>{{ .cite }}</cite>
     </li>
 {{ end }}
