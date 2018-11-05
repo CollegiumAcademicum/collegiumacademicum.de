@@ -1,0 +1,18 @@
+<ul>
+{{ range $.Site.Data.bibliography.press.press }}
+    <li>
+        {{ if isset . "link" }}
+        <a href="{{ .link }}">{{ .title }}</a>
+        {{ else }}
+        <span>{{ .title }}</span>
+        {{ end }}
+        <cite>{{ .source }}, {{ .date }}</cite>
+        {{ if isset . "audio" }}
+        <audio controls>
+            <source src="/audio/{{ .audio }}">
+            Your browser does not support the audio element
+        </audio>
+        {{ end }}
+    </li>
+{{ end }}
+</ul>
