@@ -62,7 +62,7 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
 </script>
 
 <div class="columns">
-    <div class="column">
+    <div class="column" style="display:flex; align-items: center;">
         <figure>
             <a data-flickr-embed="true"  href="https://www.flickr.com/photos/24045214@N06/39829536020/" title="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"><img src="https://farm1.staticflickr.com/876/39829536020_3c98b557ef.jpg" width="500" height="281" alt="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
             <figcaption><cite>© DGJ Architekten 2018</cite></figcaption>
