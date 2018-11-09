@@ -3,6 +3,7 @@ title = "Mieten? Kaufen! - Heidelberger Studenten bauen sich einfach ihr eigenes
 source = "Bayrischer Rundfunk, Das Campusmagazin"
 date = "04.11.2018"
 link = "https://www.br.de/mediathek/podcast/das-campusmagazin/mieten-kaufen-heidelberger-studenten-bauen-sich-einfach-ihr-eigenes-wohnheim/1285328"
+audio = "181104_BR_Das_Campusmagazin.mp3"
 
 [[press]]
 title = "Mono-Material-Konstruktion aus Holz"
@@ -20,13 +21,14 @@ link = "https://www.daserste.de/information/politik-weltgeschehen/morgenmagazin/
 title = "Studenten gründen ihr eigenes Wohnheim"
 source = "ARD-Aktuell"
 date = "31.10.2018"
-link = "https://www.ardmediathek.de/tv/tagesschau24/WIRTSCHAFT-Teureres-Heiz%C3%B6l-durch-Niedri/tagesschau24/Video?bcastId=6753968&documentId=57266934"
+link = "ard_aktuell.webm"
 
 [[press]]
 title = "Studierende in Heidelberg bauen ihr eigenes Wohnheim Puls"
 source = "Bayrischer Rundfunk"
 date = "25.10.2018"
 link = "https://www.br.de/puls/themen/leben/studierende-bauen-eigenes-wohnheim-heidelberg-100.html"
+audio = "181025_BR_radioWelt.mp3"
 
 [[press]]
 title = "Wegen zu hoher Mieten: Studenten werden Bauherren"
@@ -45,12 +47,6 @@ title = "Mieten für Studierende immer teurer"
 source = "Südwestrundfunk"
 date = "08.10.2018"
 link = "https://swrmediathek.de/player.htm?show=ce1134b0-cb26-11e8-9a07-005056a12b4c"
-
-[[press]]
-title = "Collegium Academicum erhält weitere 500 000 Euro"
-source = "Mannheimer Morgen"
-date = "06.10.2018"
-link = "https://www.morgenweb.de/mannheimer-morgen_artikel,-heidelberg-collegium-academium-erhaelt-weitere-500-000-euro-_arid,1328321.html"
 
 [[press]]
 title = "Neue Ideen, neue Gemeinschaften"
@@ -86,7 +82,7 @@ link = "https://heidelred.de/2018/06/11/collegium_academicum/"
 title = "Radiointerview SWR4 Modellzimmer"
 source = "SWR4 Radio Mannheim"
 date = "15.05.2018"
-audio = "20180515_SWR4.mp3"
+audio = "180515_SWR4_Radio_Mannheim.mp3"
 
 [[press]]
 title = "Collegium Academicum So baut man sich ein selbstverwaltetes Bildungs- und Wohnprojekt"
@@ -99,12 +95,6 @@ title = "Studierende bauen sich ihr eigenes Traum-Wohnheim"
 source = "DASDING"
 date = "18.05.2018"
 link = "https://www.dasding.de/rhein-neckar/Heidelberg-Studierende-bauen-sich-ihr-eigenes-Traumwohnheim,studierende-bauen-sich-ihr-eigenes-traumwohnheim-102.html"
-
-[[press]]
-title = "Günstiges Wohnen in Heidelberg: Dieses Projekt soll den Studenten-Traum erfüllen"
-source = "Heidelberg24"
-date = "16.05.2018"
-link = "https://www.heidelberg24.de/heidelberg/video-heidelberg-altstadt-zimmer-fuer-studenten-und-azubis-fuer-300-euro-auf-uni-platz-9873287.html"
 
 [[press]]
 title = "Gemeinsam wohnen und lernen"
@@ -153,7 +143,7 @@ title = "Studierende bauen ihr Wohnheim"
 source = "SWR 2 Kultur Regional"
 date = "20.09.2017"
 link = "https://www.swr.de/swr2/kultur-info/collegium-academicum-studentenheim-heidelberg/-/id=9597116/did=20315166/nid=9597116/13ppmdh/index.html"
-audio = "swr220170920.mp3"
+audio = "170920_SWR2_Kultur_Regional.mp3"
 
 [[press]]
 title = "Diese Studenten bauen ihr eigenes Wohnheim"
@@ -178,7 +168,7 @@ title = "Wohnen studentisch organisiert"
 source = "Hochschulradio Düsseldorf"
 date = "11.08.2017"
 link = "http://hochschulradio.de/insider-am-freitag-11-august/"
-audio= "hsr-duesseldorg20170811.mp3"
+audio= "170811_Hochschulradio_Duesseldorf.mp3"
 
 [[press]]
 title = "Diese Studenten eröffnen ihr eigenes Wohnheim"
@@ -202,7 +192,7 @@ link = "http://www.ruprecht.de/?p=12905"
 title = "Radiointerview Collegium Academicum"
 source = "SWR4 radio Mannheim"
 date = " 30.12.2016"
-audio = "Mitschnitt_CA-Beitrag.mp3"
+audio = "161230_SWR4_Radio_Mannheim.mp3"
 
 [[press]]
 title = "Mehr als ein Studentenwohnheim – Collegium Academicum stellte seine Pläne vor"
