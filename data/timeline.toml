@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "Oktober 2018"
+content = "1.000.000€ in Direktkrediten eingeworben."
+
+[[timeline]]
 heading = "September 2018"
 content = "Zusage von Fördermitten in Höhe von 500 Tausend Euro für Innovationen im Holzbau aus dem Europäischen Fond für regionale Entwicklung."
 
