@@ -1,0 +1,19 @@
+<div id='ca-map'></div>
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiY29sbGVnaXVtYWNhZGVtaWN1bSIsImEiOiJjamdwZGFreWMwMzNiMzNvZmloZWs3eHNxIn0.ClXp6n8qltuq-IO9cUnsqw';
+    var map = new mapboxgl.Map({
+        container: 'ca-map',
+        center: [{{ $.Site.Params.Heidelberg.longitude }},{{ $.Site.Params.Heidelberg.latitude}}],
+        zoom: 11.5,
+        bearing: 0,
+        pitch: 0,
+        style: 'mapbox://styles/collegiumacademicum/cjh3tor1j2nha2rp86mehjslm'
+    });
+    map.on("load", function () {
+        var el = document.createElement('div');
+        el.className = 'marker';
+        new mapboxgl.Marker(el)
+        .setLngLat([{{ $.Site.Params.Hospital.longitude }},{{ $.Site.Params.Hospital.latitude}}])
+        .addTo(map);
+    });
+</script>

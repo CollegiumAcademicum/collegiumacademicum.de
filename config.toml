@@ -3,10 +3,24 @@ title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
 
+
 [params]
 sml_imgsize = "600"
 med_imgsize = "900"
 big_imgsize = "1800"
+
+  [params.zimmermodell]
+  longitude = 8.68685
+  latitude = 49.37632
+  location = ""
+
+  [params.heidelberg]
+  longitude = 8.6871
+  latitude = 49.4013
+
+  [params.hospital]
+  longitude = 8.686231829139132
+  latitude = 49.37589920283469
 
 [languages]
 [languages.de]
