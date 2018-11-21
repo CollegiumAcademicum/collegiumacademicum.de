@@ -138,3 +138,19 @@
             left: 0
         audio
             margin: 1em 0 1.5em
+
+.puzzle
+    display: flex
+    flex-wrap: wrap
+    background: url(/puzzle/puzzle_bg.jpg)
+    width: 2 * 20rem
+    height: 2 * 10rem
+    background-size: cover
+    .puzzle-part
+        background: $white
+        width: 2 * 1em
+        height: 2 * 1em
+        &.visible
+            box-shadow: 1px 1px 0px rgba($white,0.4)
+            background: initial
+            background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)
