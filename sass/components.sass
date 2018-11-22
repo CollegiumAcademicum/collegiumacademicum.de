@@ -143,14 +143,14 @@
     display: flex
     flex-wrap: wrap
     background: url(/puzzle/puzzle_bg.jpg)
-    width: 2 * 20rem
-    height: 2 * 10rem
+    width: 100%
     background-size: cover
+    border-radius: $radius-large
     .puzzle-part
         background: $white
-        width: 2 * 1em
-        height: 2 * 1em
+        box-shadow: -1px -1px 0px rgba($white,0.7)
+        width: 5%
+        padding-top: 5%
         &.visible
-            box-shadow: 1px 1px 0px rgba($white,0.4)
             background: initial
             background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)
