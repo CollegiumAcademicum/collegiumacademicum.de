@@ -140,6 +140,7 @@
             margin: 1em 0 1.5em
 
 .puzzle
+    $puzzle-row-size: 50
     display: flex
     flex-wrap: wrap
     background: url(/puzzle/puzzle_bg.jpg)
@@ -149,8 +150,8 @@
     .puzzle-part
         background: $white
         box-shadow: -1px -1px 0px rgba($white,0.7)
-        width: 5%
-        padding-top: 5%
+        width: 100% / $puzzle-row-size
+        padding-top: 100% / $puzzle-row-size
         &.visible
             background: initial
             background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)

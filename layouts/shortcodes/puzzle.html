@@ -1,3 +1,3 @@
 <div class="puzzle">
-    {{ range $i := (seq 200 | shuffle) }}<div class='puzzle-part {{if gt $i 99}}visible{{end}}'></div> {{ end }}
+    {{ range $i := (seq 1000 | shuffle) }}<div class='puzzle-part {{if gt $i 499}}visible{{end}}'></div> {{ end }}
 </div>
