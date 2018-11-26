@@ -11,11 +11,15 @@ content = "<a href='/docs/brochure.pdf'>Projektbroschüre</a>"
 
 [[publications]]
 year = "2016"
+content = "<a href='/leitbild'>Unser Leibild</a>"
+
+[[publications]]
+year = "2016"
 content = "<a href='/docs/finanzierungs_flyer.pdf'>Flyer Informationen zu Direktkrediten</a>"
 
 [[publications]]
 year = "2015"
-content = "<a href='/links-presse/ergebnisse_bildungsworkshop.pdf'>Ergebnisse des Workshops „Leben und Lernen im Collegium Academicum“</a>"
+content = "<a href='/eigene-veroeffentlichungen/ergebnisse_bildungsworkshop.pdf'>Ergebnisse des Workshops „Leben und Lernen im Collegium Academicum“</a>"
 
 [[publications]]
 year = "2015"
@@ -23,19 +27,15 @@ content = "Ergebnisse des Workshops „Suffizient Leben – Suffizient Bauen?!�
 
 [[publications]]
 year = "2014"
-content = "<a href='/links-presse/mitmach_flyer.jpg'>CA-Mitmach-Flyer</a>"
-
-[[publications]]
-year = "2012"
-content = "<a href='/leitbild'>Unser Leibild</a>"
+content = "<a href='/eigene-veroeffentlichungen/mitmach_flyer.jpg'>CA-Mitmach-Flyer</a>"
 
 [[publications]]
 year = "1992"
-content = "<a href='/links-presse/Denkschrift-CA_1985-1992.pdf'>Denkschrift 1985 – 1992</a>"
+content = "<a href='/eigene-veroeffentlichungen/Denkschrift-CA_1985-1992.pdf'>Denkschrift 1985 – 1992</a>"
 
 [[publications]]
 year = "1985"
-content = "<a href='/links-presse/Denkschrift_1945-1985.pdf'>Denkschrift 1945 – 1985</a>"
+content = "<a href='/eigene-veroeffentlichungen/Denkschrift_1945-1985.pdf'>Denkschrift 1945 – 1985</a>"
 
 [[publications]]
 year = "1978/1979"

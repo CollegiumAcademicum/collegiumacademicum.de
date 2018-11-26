@@ -4,7 +4,7 @@ title: "Spenden"
 
 Sie können das Projekt eines neuen Collegium Academicum mit einer Spende unterstützen.
 
-Spenden an das Projekt – zum Zweck von Planung und Bau des Collegium Academicum als Studierendenwohnheim, Bildungsinstitution und kulturelles Zentrum – sind über den „Förderverein Collegium Academicum Heidelberg e.V.“ möglich. Die Satzung des Fördervereins ist [hier](/docs/satzung_foerderverein.pdf) zu finden. Die Spenden an den Förderverein können Sie im Rahmen der gesetzlichen Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend machen.
+Spenden an das Projekt – zum Zweck von Planung und Bau des Collegium Academicum als Wohnheim, Bildungsinstitution und kulturelles Zentrum – sind über den „Förderverein Collegium Academicum Heidelberg e.V.“ möglich. Die Satzung des Fördervereins ist [hier](/docs/satzung_foerderverein.pdf) zu finden. Die Spenden an den Förderverein können Sie im Rahmen der gesetzlichen Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend machen.
 
 <div class="columns">
     <div class="column">

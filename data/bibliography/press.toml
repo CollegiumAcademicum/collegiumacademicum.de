@@ -24,8 +24,8 @@ date = "31.10.2018"
 link = "ard_aktuell.webm"
 
 [[press]]
-title = "Studierende in Heidelberg bauen ihr eigenes Wohnheim Puls"
-source = "Bayrischer Rundfunk"
+title = "Studierende in Heidelberg bauen ihr eigenes Wohnheim"
+source = "Bayrischer Rundfunk, puls"
 date = "25.10.2018"
 link = "https://www.br.de/puls/themen/leben/studierende-bauen-eigenes-wohnheim-heidelberg-100.html"
 audio = "181025_BR_radioWelt.mp3"
@@ -107,12 +107,6 @@ title = "Collegium Academicum nimmt richtig Fahrt auf"
 source = "Rhein-Neckar-Zeitung"
 date = "09.05.2018"
 link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-studentisches-wohnprojekt-collegium-academicum-nimmt-richtig-fahrt-auf-_arid,357464.html"
-
-[[press]]
-title = "Hier soll ein „stabiles gesellschaftliches Gefüge“ entstehen"
-source = "Rhein-Neckar-Zeitung"
-date = "09.05.2018"
-link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-hospital-gelaende-heidelberg-hier-soll-ein-stabiles-gesellschaftliches-gefuege-entstehen-_arid,357461.html"
 
 [[press]]
 title = "Angenehm Analog in Zeiten von Touch-Displays und Virtual-Reality"
@@ -280,3 +274,4 @@ link = "1998_04_Unimut.pdf"
 title = "So ist aus dem Haus ein Mythos geworden"
 source = "Ruprecht"
 link = "1996_02_Ruprecht.pdf"
+data = "1996"
