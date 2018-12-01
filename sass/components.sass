@@ -148,10 +148,11 @@
     background-size: cover
     border-radius: $radius-large
     .puzzle-part
-        background: $white
         box-shadow: -1px -1px 0px rgba($white,0.7)
         width: 100% / $puzzle-row-size
         padding-top: 100% / $puzzle-row-size
         &.visible
             background: initial
             background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)
+        &.hidden
+            background: rgba($white, 0.8)
