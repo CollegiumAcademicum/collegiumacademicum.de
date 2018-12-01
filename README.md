@@ -21,9 +21,13 @@ You will need to have the `Hugo` binary installed. You may do this by:
 
 And you need [Yarn](https://yarnpkg.com/lang/en/docs/install)
 
-## Compiling
+```bash
+git clone https://github.com/CollegiumAcademicum/collegiumacademicum.de
+yarn install
+make local
+```
 
-We use `make` to build the website. Copy the `Makefile.example` to `Makefile` and set the `FTP_USER` variable and the `LOCALURL` _if needed_.
+## Compiling
 
 | Command | Function |
 | --- | --- |

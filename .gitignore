@@ -7,8 +7,6 @@
 .vscode/
 *orig
 
-Makefile
-
 public/
 resources/
 static/main.css

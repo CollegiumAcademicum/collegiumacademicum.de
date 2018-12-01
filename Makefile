@@ -17,7 +17,7 @@ local:
 	mkdir $(LOCAL_DIR)
 	hugo -D --i18n-warnings -b $(LOCALURL) -d $(LOCAL_DIR)
 
-publish:
+publish: css
 	[ ! -d $(UPLOAD_DIR) ] || rm -rf $(UPLOAD_DIR)
 	mkdir $(UPLOAD_DIR)
 	hugo -d $(UPLOAD_DIR)
