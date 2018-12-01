@@ -17,10 +17,8 @@ local:
 	mkdir $(LOCAL_DIR)
 	hugo -D --i18n-warnings -b $(LOCALURL) -d $(LOCAL_DIR)
 
-publish: css
-	[ ! -d $(UPLOAD_DIR) ] || rm -rf $(UPLOAD_DIR)
-	mkdir $(UPLOAD_DIR)
+publish:
 	hugo -d $(UPLOAD_DIR)
-	find $(UPLOAD_DIR) -type f -name "*.html" -exec node_modules/.bin/html-beautify -r {} \;
+	find $(UPLOAD_DIR) -type f -name "*.html" -exec node_modules/.bin/html-beautify -s 2 --no-preserve-newlines -r {} \;
 
 .PHONY: help local publish
