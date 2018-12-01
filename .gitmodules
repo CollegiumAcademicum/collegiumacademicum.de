@@ -1,6 +1,0 @@
-[submodule "sass/bulma"]
-	path = sass/bulma
-	url = https://github.com/jgthms/bulma
-[submodule "sass/bulma-timeline"]
-	path = sass/bulma-timeline
-	url = https://github.com/Wikiki/bulma-timeline/

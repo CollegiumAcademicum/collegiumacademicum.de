@@ -2,6 +2,7 @@ baseURL = "https://collegiumacademicum.de"
 title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
+assetDir = '.'
 
 
 [params]

@@ -14,3 +14,4 @@ resources/
 static/main.css
 static/main.css.map
 upload/
+node_modules/

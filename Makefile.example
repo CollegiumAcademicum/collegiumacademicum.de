@@ -8,24 +8,19 @@ help:
 	@echo 'Makefile for a hugo Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make css                            (re)generate the stylesheets       '
 	@echo '   make publish                        generate in production and upload  '
 	@echo '   make local                  		  generate for local dev settings    '
 	@echo '                                                                          '
 
-css:
-	sass sass/main.sass static/main.css
-
-local: css
+local:
 	[ ! -d $(LOCAL_DIR) ] || rm -rf $(LOCAL_DIR)
 	mkdir $(LOCAL_DIR)
 	hugo -D --i18n-warnings -b $(LOCALURL) -d $(LOCAL_DIR)
-	chmod 755 $(LOCAL_DIR)/main.js
 
-publish: css
+publish:
 	[ ! -d $(UPLOAD_DIR) ] || rm -rf $(UPLOAD_DIR)
 	mkdir $(UPLOAD_DIR)
-	find $(UPLOAD_DIR) -type f -name "*.html" -exec sed -i '/^ *$/d' {} \;
 	hugo -d $(UPLOAD_DIR)
+	find $(UPLOAD_DIR) -type f -name "*.html" -exec node_modules/.bin/html-beautify -r {} \;
 
-.PHONY: help css local publish
+.PHONY: help local publish

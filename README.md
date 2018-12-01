@@ -4,25 +4,22 @@ This repo contains the new version of collegiumacademicum.de.
 
 ## Requirements
 
-* Hugo: __>=0.44__
+* Hugo: __>=0.49__
+* YARN
 
 ## Installation
 
 The website is a static website built with the static site generator [Hugo](gohugo.io). As CSS framework we use [Bulma](bulma.io).
 
-You will need to have the `Hugo` and the `SASS` binary installed. You may do this by:
+You will need to have the `Hugo` binary installed. You may do this by:
 
 | Dist | install command |
 | --- | --- |
-| Ubuntu | `sudo apt-get install hugo ruby-sass` |
-| Arch Linux | `sudo pacman -S hugo ruby-sass` |
-| Fedora | `sudo yum install hugo rubygem-sass` |
+| Ubuntu | `sudo apt-get install hugo` |
+| Arch Linux | `sudo pacman -S hugo` |
+| Fedora | `sudo yum install hugo` |
 
-Next clone the repo. As the repo contains submodules you will need to do:
-
-```shell
-git clone --recursive -j8 git://github.com/CollegiumAcademicum/collegiumacademicum.de.git
-```
+And you need [Yarn](https://yarnpkg.com/lang/en/docs/install)
 
 ## Compiling
 
@@ -32,8 +29,6 @@ We use `make` to build the website. Copy the `Makefile.example` to `Makefile` an
 | --- | --- |
 | `make publish` | Build for online deployment (into ./upload/) and upload using `lftp` |
 | `make local` | Build for local development (into ./public/)|
-| `make clean` | Clean all generated files |
-| `make css` | Only compile the SASS files |
 
 ### Audio files
 
