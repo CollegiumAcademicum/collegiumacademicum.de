@@ -1,8 +1,8 @@
 ---
 title: "Alternativer Weihnachtsmarkt in der  Weststadt"
-date: 2018-12-02
+date: 2018-12-03
 ---
-Am 09. Dezember 2018, von 11:00 bis 19:00 Uhr, findet ihr uns zusammen mit der
+Am 09. Dezember 2018, von 12:00 bis 19:00 Uhr, findet ihr uns zusammen mit der
 Heidelberger Energiegenossenschaft
 ([HEG](https://www.heidelberger-energiegenossenschaft.de/)) und dem Wohnprojekt
 [Hagebutze](https://hagebutze.de/) auf dem
@@ -20,5 +20,5 @@ schneeweißen Waffel.
 
 Wir freuen uns sehr auf euer Kommen!
 
-Wann:     __09.12, 11:00 Uhr__  
+Wann:     __09.12, ab 12:00 Uhr__  
 Ort: __Wilhelmsplatz in Heidelberger Weststadt__
