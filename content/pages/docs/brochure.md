@@ -1,6 +1,6 @@
 ---
 title: "Die Projektbroschüre"
-slug: "brochure"
+slug: "broschuere"
 ---
 
-{{< pdf src="docs/brochure.pdf" height="500px" >}}
+{{< pdf src="docs/ca_broschuere.pdf" height="500px" >}}

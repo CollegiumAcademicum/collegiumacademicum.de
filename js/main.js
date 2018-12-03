@@ -113,3 +113,14 @@ domready(function () {
   var toggleMessages = document.getAll('.message.toggle');
   if (toggleMessages.length > 0) setToggleMessagesListeners(toggleMessages);
 });
+
+function validateDKForm() {
+  sofort = document.getElementById('field_sofort');
+  treuhand = document.getElementById('field_treuhand');
+  if (!sofort.getElementsByTagName('input')[0].checked && !treuhand.getElementsByTagName('input')[0].checked){
+    sofort.getElementsByClassName('help')[0].classList.remove('is-hidden');
+    treuhand.getElementsByClassName('help')[0].classList.remove('is-hidden');
+    return false;
+  }
+  return true;
+}

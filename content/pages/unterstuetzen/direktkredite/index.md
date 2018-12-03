@@ -17,6 +17,15 @@ Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass 
 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
+<div class="buttons is-centered">
+    <a href="{{< relref "direktkredit-geben" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="fas fa-hand-holding-heart"></i>
+        </span>
+        <span>Jetzt Direktkredit anfragen</span>
+    </a>
+</div>
+
 ## Aktueller Stand
 
 <progress class="progress is-large is-primary" value="1042" max="1600">1.000.000 €</progress>
