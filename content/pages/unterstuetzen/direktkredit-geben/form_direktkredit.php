@@ -23,7 +23,7 @@ if($sofort_check){
 $gdpr_check = filter_input(INPUT_POST, 'gdpr', FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE);
 if(!$gdpr_check) redirect_fail();
 
-require('../scripts/mail.php');
+require('../lib/mail.php');
 
 date_default_timezone_set('Europe/Berlin');
 
