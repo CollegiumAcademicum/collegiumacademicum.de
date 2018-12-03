@@ -1,5 +1,6 @@
 ---
 title: "Direktkredite"
+novoigl: yes
 ---
 
 <div class="columns">
@@ -11,12 +12,6 @@ title: "Direktkredite"
   </div>
 </div>
 
-Ihr Direktkredit leistet einen Beitrag jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
-
-Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass durch seine Holzkonstruktion ein Leuchturm im Bereich Nachhaltigkeit sein wird und dessen Nutzungskonzept zum Leben im Stadteil Rohrbach beitragen wird.
-
-Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
-
 <div class="buttons is-centered">
     <a href="{{< relref "direktkredit-geben" >}}" class="button is-medium is-primary">
         <span class="icon">
@@ -25,6 +20,12 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
         <span>Jetzt Direktkredit anfragen</span>
     </a>
 </div>
+
+Ihr Direktkredit leistet einen Beitrag jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
+
+Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass durch seine Holzkonstruktion ein Leuchturm im Bereich Nachhaltigkeit sein wird und dessen Nutzungskonzept zum Leben im Stadteil Rohrbach beitragen wird.
+
+Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
 ## Aktueller Stand
 
@@ -126,3 +127,12 @@ Plöck 93
     </div>
   </div>
 </section>
+
+<div class="buttons is-centered" style="margin-top:4em;">
+    <a href="{{< relref "direktkredit-geben" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="fas fa-hand-holding-heart"></i>
+        </span>
+        <span>Jetzt Direktkredit anfragen</span>
+    </a>
+</div>

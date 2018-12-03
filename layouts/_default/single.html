@@ -9,6 +9,8 @@
                 {{ .Content }}
             </div>
 
+            {{ if isset .Params "novoigl" }}
+            {{ else }}
             <div class="level" style="margin-top: 4em;">
                 <div class="level-item">
                     <img class="image" src="{{ "img/feuervoigl.png" | relURL }}" alt="Der Feuer Voigl" />
@@ -18,6 +20,7 @@
                 <p>Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten einen Beitrag zur Verwirklichung leisten?</p>
                 <p><a class="button is-secondary" href="{{ "direktkredite" | relURL }}">Unterstützen sie uns mit einem Direktkredit.</a></p>
             </div>
+            {{ end }}
         </section>
     </div>
 </div>
