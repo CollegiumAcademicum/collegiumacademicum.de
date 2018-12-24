@@ -41,4 +41,4 @@ Und 2019? Coming Soon…
 … Baubeginn!
 
 Damit wir im Frühsommer 2019 mit den Bauarbeiten beginnen können, sind wir noch
-auf weiter Unterstützung in Form von Direktkrediten und Spenden angewiesen.
+auf weitere Unterstützung in Form von Direktkrediten und Spenden angewiesen.
