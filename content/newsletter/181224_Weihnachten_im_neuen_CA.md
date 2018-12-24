@@ -7,8 +7,9 @@ Liebe Unterstützer*innen,
 zahlreiche Menschen haben uns auf unserem bisherigen Weg hin zum CA unterstützt.
 Hierfür möchten wir uns noch einmal __sehr herzlich bedanken__. Nur dank Ihnen
 konnten wir auch in diesem Jahr wieder kräftig voranschreiten und uns dem Ziel des
-Wohnheims ein großes Stück nähern. 
-[Hier könnte ein Link zum Jahresrückblick hin.](Hier könnte ein Link zum Jahresrückblick hin.) Wir freuen uns schon sehr auf das nächste Jahr! 
+Wohnheims ein großes Stück nähern. Einen kleinen [Jahresrückblick](https://collegiumacademicum.de/aktuelles/) können Sie im Bereich [Aktuelles](https://collegiumacademicum.de/aktuelles/) auf unserer
+Webseite finden.  
+Wir freuen uns schon sehr auf das nächste Jahr! 
 
 ## Ein Blick nach vorne
 Aber wagen wir einen __Blick noch weiter nach vorne__: In zwei Jahren werden die
