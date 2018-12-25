@@ -1,6 +1,6 @@
 ---
 title: "Weihnachten im neuen CA"
-date: 2018-12-24
+date: 2018-12-25
 ---
 Liebe Unterstützer*innen,
 
