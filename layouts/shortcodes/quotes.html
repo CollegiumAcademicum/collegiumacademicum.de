@@ -24,7 +24,7 @@
                     </div>
                     <blockquote>
                         {{ .quote }}
-                        <cite>{{ .attr }}</cite>
+                        <cite>{{ .attr | markdownify }}</cite>
                     </blockquote>
                 </div>
             </div>
