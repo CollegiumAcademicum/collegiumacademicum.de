@@ -31,7 +31,7 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 <progress class="progress is-large is-primary" value="1304" max="1600">1.000.000 €</progress>
 Zurzeit haben wir inklusive Spenden bereits __1.304.000 Euro__ eingeworben
-(13.01.2018). Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn
+(13.01.2019). Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn
 im Frühjahr 2019 benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
 
 <section>
