@@ -28,7 +28,7 @@ function send_mail_with_attachments($to, $subject, $message, $sender, $sender_em
    $header .= "Reply-To: ".$reply_email."\n";
 
    $header.= "MIME-Version: 1.0\r\n";
-   $header .= "X-Mailer: PHP ". phpversion()."\r\n";
+   $header .= "X-Mailer: PHP ".phpversion()."\r\n";
    $header.= "Content-Type: multipart/mixed;\r\n";
    $header.= " boundary=\"".$mime_boundary."\"\r\n";
 
@@ -61,7 +61,7 @@ function send_mail_without_attachments($to, $subject, $message, $sender, $sender
       $header = "MIME-Version: 1.0\r\n";
       $header  ="From:".$sender."<".$sender_email.">\n";
       $header.= "Content-Type: text/plain; charset=UTF-8\r\n";
-      $header .= "X-Mailer: PHP ". phpversion();
+      $header .= "X-Mailer: PHP ".phpversion()."\r\n";
 
       return mail($to, $subject, $message, $header);
    }
