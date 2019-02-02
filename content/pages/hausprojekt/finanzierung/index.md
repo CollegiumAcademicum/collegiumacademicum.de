@@ -18,31 +18,34 @@ oder telefonisch unter 06221-6734812.
 
 ## Projektkosten
 
-Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum
-GmbH setzt sich aus einem Neubau sowie zwei Bestandsbauten
-zusammen. Die Gesamtkosten für den Neubau liegen zwischen 14 und 15
-Millionen Euro. Die genaue Kalkulation konkretisiert sich ständig
-durch Anpassungen und Fortschritte in den Planungen. Sie umfassen die
-geschätzten Kosten für das Baugrundstück, die Erschließung, die
-Baukonstruktion und technische Anlagen, die Außenanlagen, die
-Ausstattung sowie die Baunebenkosten.  Weitere Details zur Architektur
-und zur Planung finden Sie [hier]({{< relref "wohnen" >}} ).
+Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
+setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
+für den Neubau liegen bei etwa 16 Millionen Euro. Die genaue Kalkulation
+konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
+Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
+Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
+die Baunebenkosten. Weitere Details zur Architektur und zur Planung finden Sie
+[hier]({{< relref "wohnen" >}} ).
 
 ## Finanzierungsbausteine
 
 Für die Projektfinanzierung sind verschiedene Bausteine
 vorgesehen: Die Finanzierung setzt sich zusammen aus
-Fördermitteln, privaten Direktkrediten und, von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)), geförderten Bankkrediten. Hinzu kommen Einsparungen durch Sponsoring und Eigenleistung.
+Fördermitteln, privaten Direktkrediten und Spenden, sowie einem von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)) gefördertem Bankkredit. Hinzu kommen Sponsoring und Eigenleistung.
 
 {{< img src="bausteine_finanzierung_bearbeitet" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
 ### Förderung
 
-Im Rahmen des Zukunftsinvestitionsprogramms [“Modellvorhaben Variowohnen”](https://www.forschungsinitiative.de/variowohnungen/p01-foerderprogramm/)
-des Bundesbauministeriums wurde die Collegium Academicum GmbH als
-herausragendes Vorhaben eingestuft. Die Förderung beläuft sich auf
-rund 2,12 Millionen Euro. Zusätzlich stehen Landesfördermittel in Höhe
-von 500.000 Euro in Aussicht.
+Im Rahmen des Zukunftsinvestitionsprogramms ["Modellvorhaben
+Variowohnen""](https://www.forschungsinitiative.de/variowohnungen/p01-foerderprogramm/)
+des Bundesbauministeriums wurde unser Projekt als herausragendes Vorhaben
+eingestuft. Die Förderung beläuft sich auf rund 2,12 Millionen Euro. Zusätzlich
+wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
+genehmigt, welches sich aus dem [Europäischen Fonds für regionale Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/)
+(EFRE) und Landesmitteln finanziert. Eine weitere städtische Förderung in Höhe
+von 50.000 Euro würdigt die barrierearme Planung des Wohnheims. Weitere 200.000
+Euro städtischer Förderung für Passivhausbau stehen in Aussicht.
 
 ### Direktkredite und Spenden
 
@@ -54,7 +57,8 @@ Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
 nahestehen. Die aktuelle Planung sieht vor, etwa zwei Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben.
+an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "direktkredite" >}}) unserer
+Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
 
@@ -75,21 +79,19 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 ### Bankfinanzierung
 
-Es ist geplant, ca. 9,38 Millionen Euro über eine Bankfinanzierung
-abzudecken.  Für den geplanten Niedrigenergiestandard KfW 40 Plus soll
-gemeinsam mit der finanzierenden Bank eine KfW Förderung umgesetzt
-werden. Diese Förderung besteht aus einer Zinsvergünstigung sowie
-einem Tilgungszuschuss in Höhe von etwa 1,4 Millionen Euro.
+Es ist geplant, ca. 11 Millionen Euro über eine Bankfinanzierung abzudecken. Für
+den geplanten Niedrigenergiestandard KfW 40 Plus soll gemeinsam mit der
+finanzierenden Bank eine KfW Förderung umgesetzt werden. Diese Förderung besteht
+aus einer Zinsvergünstigung sowie einem annuitätsreduzierendem Tilgungszuschuss
+in Höhe von 15% des Kreditbetrags.
 
-### Sonstige Einsparungen
+### Sonstiges
 
 #### Sponsoring
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
 Nutzungskonzept und Modulbauweise) steht unser Vorhaben stark in der
-Öffentlichkeit. Deshalb rechnen wir mit Sponsoring in einem
-nennenswerten Umfang. Die Projektgruppe steht mit Unterstützung der
-IBA bereits in Kontakt mit potentiellen Sponsoren.
+Öffentlichkeit. Eine Übersicht der [Pressebeiträge]({{< relref "presse">}}) findet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
 
 #### Eigenleistung
 
@@ -122,8 +124,10 @@ garantieren.
 
 Fördermittel | |
 --- | ---:
-Förderprogramm Variowohnen | 2,12 Millionen Euro
-Landesförderung | 0,50 Millionen Euro
+Förderprogramm "Variowohnen"" | 2,12 Millionen Euro
+Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
+Förderprogramm "Rationelle Energieverwendung" | ~0,20 Millionen Euro
+Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
@@ -131,9 +135,9 @@ Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
 
 Bankfinanzierung | |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) | ~ 9,38 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) | ~ 11,00 Millionen Euro
 
 Sonstiges | |
 --- | ---:
-Eigenleistungen und Sponsoring| ~ 0,75 Millionen Euro
-Gesamtinvestitionssumme | ~ 14,75 Millionen Euro
+Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
+Gesamtinvestitionssumme | ~ 16,00 Millionen Euro
