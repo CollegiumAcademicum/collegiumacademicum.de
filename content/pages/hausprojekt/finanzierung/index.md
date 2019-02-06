@@ -33,7 +33,7 @@ Für die Projektfinanzierung sind verschiedene Bausteine
 vorgesehen: Die Finanzierung setzt sich zusammen aus
 Fördermitteln, privaten Direktkrediten und Spenden, sowie einem von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)) gefördertem Bankkredit. Hinzu kommen Sponsoring und Eigenleistung.
 
-{{< img src="bausteine_finanzierung_bearbeitet" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
 ### Förderung
 
