@@ -1,53 +1,68 @@
 <aside class="column">
-    <div class="section">
+  <div class="section">
 
 
-            <a href="{{ "direktkredite" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Direktkredit geben</a>
+    <a href="{{ "direktkredite" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Direktkredit geben</a>
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/termine.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <p class="title is-3 is-marginless">Termine</p>
+        <p>Haben Sie Nachfragen zu unserem Projekt?</p><p> Besuch Sie unsere <strong>Sprechstunde!</strong></p>
+	<br />
+	<ul>
+	  <li>Mi. 13.02. 14-16 Uhr</li>
+	  <li>Mo. 18.02. 18-20 Uhr</li>
+	  <li>So. 24.02. 16-18 Uhr</li>
+	</ul>
+	<br />
+	<p>Und wo?<br /> artes liberales – universitas, Mittelbadgasse 7.</p>
+      </div>
+    </div>
 
-        <div class="card">
-            <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
-            <div class="card-content">
-                <p class="title is-3 is-marginless">Newsletter</p>
-                Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
-                {{ partial "newsletter-signup.html" }} <br />
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <p class="title is-3 is-marginless">Newsletter</p>
+        Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
+        {{ partial "newsletter-signup.html" }} <br />
 
-                <p class="title is-3 is-marginless">Infopaket</p>
-                <p><strong>Möchten Sie mehr darüber erfahren wie Sie unser Projekt unterstützen können?</strong></p>
- 		        <p>Hier können Sie sich unser detailliertes Informationspaket anfordern. Einfach Ihre E-Mail Adresse eintragen und auf den Button klicken.</p>
-		        <form action="lib/form_infopaket.php" method="POST" autocomplete="off">
-		            <div class="field has-addons">
-                        <div class="control has-icons-left">
-                            <input class="input" type="email" name="email" placeholder="{{ i18n "deine-mailadresse" }}">
-                            <span class="icon is-small is-left">
-                                <i class="fas fa-envelope"></i>
-                            </span>
-                        </div>
-                        <div class="control">
-                            <button type="submit" class="button is-primary">Anfordern</button>
-                        </div>
-                    </div>
-		        </form>
+        <p class="title is-3 is-marginless">Infopaket</p>
+        <p><strong>Möchten Sie mehr darüber erfahren wie Sie unser Projekt unterstützen können?</strong></p>
+ 	<p>Hier können Sie sich unser detailliertes Informationspaket anfordern. Einfach Ihre E-Mail Adresse eintragen und auf den Button klicken.</p>
+	<form action="lib/form_infopaket.php" method="POST" autocomplete="off">
+	  <div class="field has-addons">
+            <div class="control has-icons-left">
+              <input class="input" type="email" name="email" placeholder="{{ i18n "deine-mailadresse" }}">
+              <span class="icon is-small is-left">
+                <i class="fas fa-envelope"></i>
+              </span>
             </div>
-        </div>
-
-        <div class="card">
-            <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
-            <div class="card-content">
-                <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
-                Du hast jetzt bereits Interesse daran 2019 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:
-                <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Interesse anmelden</a>
+            <div class="control">
+              <button type="submit" class="button is-primary">Anfordern</button>
             </div>
-        </div>
+          </div>
+	</form>
+      </div>
+    </div>
 
-        <div class="card is-hidden-mobile">
-            <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
-            <div class="card-content">
-                <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
-            </div>
-        </div>
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
+        Du hast jetzt bereits Interesse daran 2019 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:
+        <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Interesse anmelden</a>
+      </div>
+    </div>
 
-        <div class="card is-hidden-mobile">
-            <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
+    <div class="card is-hidden-mobile">
+      <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
+      </div>
+    </div>
+
+    <div class="card is-hidden-mobile">
+      <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
             <div class="card-content">
                 <a href="{{ "zimmermodell" | relURL }}" class="button is-radiusless is-fullwidth is-link">Unser Zimmermodell</a>
             </div>
