@@ -29,8 +29,8 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-<progress class="progress is-large is-primary" value="1355" max="1600">1.000.000 €</progress>
-Zurzeit haben wir inklusive Spenden bereits __1.355.000 Euro__ eingeworben
+<progress class="progress is-large is-primary" value="1380" max="1600">1.000.000 €</progress>
+Zurzeit haben wir inklusive Spenden bereits __1.380.000 Euro__ eingeworben
 (02.02.2019). Vielen Dank für Ihre großzügige Unterstützung! Für den Baubeginn
 im Frühjahr 2019 benötigen wir dringend weitere finanzielle Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und Fördergeldern den Baukredit aufnehmen können, müssen wir 1,6 Millionen € an Krediten einwerben.
 
@@ -71,7 +71,7 @@ im Frühjahr 2019 benötigen wir dringend weitere finanzielle Mittel. Damit wir 
     </div>
     <div class="message-body">
       <div class="message-content">
-      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0.01 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
+      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
       </div>
     </div>
   </div>
