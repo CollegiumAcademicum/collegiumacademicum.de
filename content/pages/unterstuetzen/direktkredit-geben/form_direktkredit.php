@@ -5,8 +5,10 @@ function redirect_fail(){
 
 if ($_SERVER['REQUEST_METHOD'] != 'POST') redirect_fail();
 
-$email_address = filter_input(INPUT_POST,'email', FILTER_VALIDATE_EMAIL);
+$email_address = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);
 if(!$email_address) redirect_fail();
+
+$name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
 
 $treuhand_check = filter_input(INPUT_POST, 'treuhand_check', FILTER_VALIDATE_BOOLEAN);
 if($treuhand_check){
@@ -33,6 +35,7 @@ $sender_email = "collegiumacademicum@posteo.de";
 $to = "direktkredit@collegiumacademicum.de";
 $message = "Eingegangen ist:\r\n"
          . "----------------\r\n"
+         . "Name: " . $name . "\r\n"
          . "E-Mail: " . $email_address . "\r\n"
          . "Treuhand: " . ($treuhand_check ? "ja" : "nein") . "\r\n"
          . "Treuhand-Betrag: " . $treuhand_value . "\r\n"
