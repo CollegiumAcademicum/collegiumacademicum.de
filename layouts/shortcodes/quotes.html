@@ -1,11 +1,16 @@
+{{  $cnt := 0 }}
 {{ if eq (.Get "source") "team" }}
     {{ .Scratch.Set "quotes_data" $.Site.Data.quotes_team.quotes_team }}
+    {{ $cnt = len $.Site.Data.quotes_team.quotes_team }}
 {{ else }}
     {{ .Scratch.Set "quotes_data" $.Site.Data.quotes_supporters.quotes_supporters }}
+    {{ $cnt = len $.Site.Data.quotes_supporters.quotes_supporters }}
 {{ end }}
+{{ $first := int ( default $cnt (.Get "first")) }}
+{{ $after := int ( default 1 (.Get "after")) }}
 
 <div class='modalgrid columns is-multiline is-gapless is-hidden-mobile'>
-        {{ range .Scratch.Get "quotes_data" }}
+        {{ range first $first (after $after (.Scratch.Get "quotes_data")) }}
 
         {{ $DataTarget := substr .img 0 -4 }}
             <div class="column is-{{ $.Params.size }}" >
