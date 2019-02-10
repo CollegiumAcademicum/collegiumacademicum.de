@@ -53,10 +53,10 @@ img = "nilss.jpg"
 attr = "Nils Schween"
 quote = "Gemeinsam Leben bedeutet politische Praxis. Das zukünftige CA bietet Platz dieses Leben mannigfaltig auszugestalten und schafft auf diese Weise Raum für junge Menschen sich politisch zu entwickeln und auszuprobieren. Ich hoffe auf Generationen von kritischen Menschen."
 
-# [[quotes_team]]
-# img = "maurice.jpg"
-# attr = "Maurice Frank"
-# quote = ""
+[[quotes_team]]
+img = "maurice.jpg"
+attr = "Maurice Frank"
+quote = "Mir hat die Teamarbeit im CA gezeigt was möglich ist, wenn eine kleine Gruppe mit Überzeugung für eine Sache Arbeitet. Das selbstverwaltete und nachhaltige Wohnen, das wir schaffen, wird diese Erfahrung an viele spätere BewohnerInnen weiterreichen. Die Welt braucht junge Menschen mit Visionen und der Entschlossenheit diese anzupacken. Ich bringe mich im CA in technischen Bereichen und der Planung ein."
 
 [[quotes_team]]
 img = "hella.jpg"
@@ -72,3 +72,13 @@ quote = "Unsere Gesellschaft braucht Projekte, in denen junge Menschen gemeinsch
 img = "ina.jpg"
 attr = "Ina Kuhn"
 quote = "Ich bin überzeugt von unserem Projekt, weil es auf verschiedenen Ebenen aktuelle Probleme thematisiert und wir gemeinschaftlich als Gruppe eine Idee verwirklichen, die meiner Meinung nach einen sehr großen Beitrag in unserer heutigen Gesellschaft darstellt. Wir leben demokratische Strukturen und flache Hierarchien und wollen auf diesem Wege zeigen, wie auch junge Menschen aktiv die Zukunft von Städten mit beeinflussen können. Durch das CA habe ich neben vielen spannenden inhaltlichen Aspekten zu alternativem Wohnraum auch einige persönliche Werte für mich neu definieren können. Ich bin hauptsächlich in der Öffentlichkeitsarbeit tätig."
+
+[[quotes_team]]
+img = "mathis.jpg"
+attr = "Mathis Wilck"
+quote = "Das CA verbindet Ökologie, Bildung und Selbstverwaltung und kann damit als fruchtbarer Multiplikator in die Stadt und die ganze Gesellschaft hinein wirken. Das Projekt wird ein Freiraum werden, in dem Menschen sich austauschen, engagieren, politisieren und kreativ ausdrücken können. Solcher Alternativen sind in Zeiten von Klimakatastrophe, Kapitalismus und Rechtsruck unglaublich wichtig. Ich enagiere mich vor allem im Bereich Öffentlichkeitsarbeit."
+
+[[quotes_team]]
+img = "cyrus.jpg"
+attr = "Cyrus Amin Parsa"
+quote = "Wie kann es sein, dass eine Universitätsstadt, die von ihren Studierenden lebt, eben jenen kaum noch bezahlbaren Wohnraum bieten kann? Wohl vertraut mit der Problematik der heidelberger Wohnsituation, bin ich von der Vision des CA überzeugt und möchte mich neben dem Studium für deren Verwirklichung einbringen. Ich glaube an eine Gesellschaft, eine Gemeinschaft, in der man nicht nur für sich selber lebt, sondern sich um andere kümmert, an seine Nächsten und an die Zukunft denkt und verantwortungsvoll Alltäglichem wie Künftigem begegnet."
