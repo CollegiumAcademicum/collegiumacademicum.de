@@ -29,9 +29,9 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-<progress class="progress is-large is-primary" value="1540" max="1700">1.700.000 €</progress>
-Zurzeit haben wir inklusive Spenden bereits __1.540.000 Euro__ eingeworben
-(26.02.2019). Vielen Dank für Ihre großzügige Unterstützung!
+<progress class="progress is-large is-primary" value="1606" max="1700">1.700.000 €</progress>
+Zurzeit haben wir inklusive Spenden bereits __1.606.000 Euro__ eingeworben
+(01.03.2019). Vielen Dank für Ihre großzügige Unterstützung!
 
 Für den Baubeginn im Frühjahr 2019 benötigen wir dringend weitere finanzielle
 Mittel. Damit wir mit den Mitteln aus den Direktkrediten, Spenden und
