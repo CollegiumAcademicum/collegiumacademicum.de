@@ -29,12 +29,10 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-<div class="progress-wrapper">
-  <progress class="progress is-large is-primary" value="1758" max="2000">1.758.140€</progress>
-</div>
-
+<progress class="progress is-large is-primary" value="1758" max="1700">1.758.140€</progress>
 Es ist uns bis Anfang März 2019 gelungen __1.758.140 EUR__ (08.03.2019) an Direktkrediten und Spenden einzusammeln. Damit erfüllen wir die Auflage unserer Bank zum Start der Bankfinanzierung. Vielen Dank für Ihre großzügige Unterstützung!
 
+<progress class="progress is-large is-primary" value="1600" max="2000">1.600.000€</progress>
 Für den Baubeginn im Sommer 2019 benötigen wir bis Ende Juli 2019 die restlichen 400.000 € der gesamten Direktkreditsumme von 2 Millionen Euro.
 
 <section>
