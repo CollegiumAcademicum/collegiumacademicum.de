@@ -160,3 +160,29 @@
             background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)
         &.hidden
             background: rgba($white, 0.8)
+
+//Progress
+.progress-wrapper
+    position: relative
+    margin: 1rem 0 1rem
+    &:before
+        display: block
+        content: ""
+        position: absolute
+        top: 0
+        left: 80%
+        border-left: 2px solid $grey-darker
+        height: 1.5rem
+        line-height: 1.5rem
+        color: $grey-darker
+        padding-left: 5px
+        font-size: 1.4rem
+    &:after
+        display: block
+        content: "↓ Bankfinanzierung"
+        position: absolute
+        font-size: 1rem
+        color: $grey-darker
+        left: 79%
+        bottom: 100%
+        line-height: 1.5rem
