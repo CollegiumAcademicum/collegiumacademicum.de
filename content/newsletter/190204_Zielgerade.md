@@ -2,7 +2,6 @@
 title: "Das Jahr 2019 ganz im Zeichen des Baubeginns – auf der Zielgeraden zum Bankkredit."
 date: 2019-02-04
 ---
-
 Liebe Unterstützer*innen,
 
 ein neues Jahr ist angebrochen und ein sehr erfolgreiches liegt hinter uns! Die
