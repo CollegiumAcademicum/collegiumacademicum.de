@@ -31,9 +31,10 @@ link = "https://www.morgenweb.de/mannheimer-morgen_artikel,-heidelberg-junge-hei
 
 [[press]]
 title = "Radiointerview im Infomagazin"
-source = "Radio Dreieckland"
+source = "Radio Dreyeckland"
 date = "15.02.2019"
 link = "https://rdl.de/beitrag/infomagazin-vom-15022019"
+audio = "190215_Radio_Dreyeckland_Infomagazin.mp3"
 
 [[press]]
 title = "In Heidelberg steigen die Mieten rasant – also bauen Studierende ein eigenes Wohnheim"
