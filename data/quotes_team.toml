@@ -31,19 +31,14 @@ attr = "Jost Burhop"
 quote = "Für mich ist das CA ein Projekt, das die größten Probleme unserer Gesellschaft angeht und zwar nicht getrennt voneinander, sondern mit einem ganzheitlichen Lösungsansatz. Ich bin überzeugt davon, dass eine ökologisch und sozial nachhaltige Welt möglich ist. Im CA können solche Utopien erträumt und auch direkt umgesetzt werden, worüber Menschen dazu ermutigt werden, das eigene Umfeld selbst aktiv mitzugestalten. Für eine lebendige Zivilgesellschaft und Demokratie sind deshalb selbstverwaltete Orte, wie das CA, unabdingbar. Da besonders für junge Menschen Raum zum Wohnen und Leben geschaffen wird, hat das CA für mich auch eine Katalysatorfunktion: Je mehr Menschen ihren Konsum reflektieren, je mehr Menschen das Mietshäuser Syndikat kennen und unterstützen, je mehr Menschen sich für ihre Umwelt verantwortlich fühlen und je mehr Menschen in Gemeinschaft aktiv werden, desto näher kommen wir dem guten Leben. In der Projektgruppe beschäftige ich mich größtenteils mit der Finanzierung des neuen CA und bin viel auf Infoständen in Heidelberg unterwegs, um Menschen über unser Projekt zu informieren. Jede Person, die unser Projekt unterstützt, motiviert mich, mich noch mehr für diesen Traum einzusetzen. Denn es zeigt, dass der Traum von einer Gesellschaft, in der sich die Menschen sowohl um die eigenen Nachbar*innen kümmern, als auch Menschen und andere Lebewesen respektieren, die weit entfernt leben oder noch nicht einmal geboren sind, ein Gemeinschaftstraum ist."
 
 [[quotes_team]]
-img = "mirjam.jpg"
-attr = "Mirjam Kern"
-quote = "Als Sozialarbeiterin begegne ich täglich Menschen, die auf der Suche nach bezahlbarem Wohnraum sind. Für die Umsetzung des Projektes bilden Direktkredite die Basis, daher bringe ich mich in der Finanzierungs-AG ein."
-
-[[quotes_team]]
 img = "henrik.jpg"
 attr = "Henrik Eckhardt"
 quote = "Ich bin davon überzeugt, dass es für die Stärkung von demokratischen Prinzipien sowie einer nachhaltigen ökologischen und sozialen Entwicklung unserer Gesellschaft, Orte wie das CA braucht. Aus diesen und vielen weiteren Gründen ist meine Motivation für dieses Projekt ungebrochen. Ich bringe mich vor allem bei Öffentlichkeitsarbeits- und Planungsthemen sowie der Finanzplanung ein."
 
 [[quotes_team]]
-img = "isabelle.jpg"
-attr = "Isabelle Ponto"
-quote = "Als Studentin in Heidelberg kenne ich das Problem der knappen und teuren Wohnungslage sehr gut. Durch diese Erfahrung und die Auseinandersetzung mit alternativen, nachhaltigen, sozialen und integrativen Wohn- bzw. Gemeinschaftskonzepten, wurde ich auf das Collegium Academicum (CA) aufmerksam. Ganzheitliche Bildung, d.h., den ganzen Menschen und alle Fachrichtungen in den Blick nehmend, ist mir besonders wichtig. Neben der AG-Planung beschäftige im mich deshalb besonders mit unserem Bildungskonzept und dessen Umsetzungsmöglichkeiten. Durch unseren intensiven Austausch und die Zusammenarbeit in unserer Projektgruppe, ist jeder/jede über den ganzen Arbeitsprozess unseres Projekts informiert und hat die Möglichkeit, sich je nach Interesse in verschiedenen Aufgabenfeldern zu engagieren. Diesen „Rundumblick“ schätze ich sehr. Durch die bunte Gruppe, an unterschiedlichsten Menschen, aus allen Fachrichtungen und aus verschiedenen Lebenslagen, ist die Arbeit nie langweilig und unheimlich bereichernd. Für mich ist unser Projekt ein Ort, an dem ich Lebenspraktisches lerne und meine im Studium gelernte Theorie in die Praxis umsetzen kann. Viel wichtiger noch: Das CA gibt mir die Möglichkeit, durch Zusammenarbeit und Zusammenhalt, unsere Gesellschaft im Sinne von gelebter Toleranz und einem ganzheitlichen Ansatz, aktiv zu gestalten."
+img = "mirjam.jpg"
+attr = "Mirjam Kern"
+quote = "Als Sozialarbeiterin begegne ich täglich Menschen, die auf der Suche nach bezahlbarem Wohnraum sind. Für die Umsetzung des Projektes bilden Direktkredite die Basis, daher bringe ich mich in der Finanzierungs-AG ein."
 
 [[quotes_team]]
 img = "felix.jpg"
@@ -54,6 +49,11 @@ quote = "Was mich beim CA so motiviert, ist die Perspektive auf ein sehr konkret
 img = "nilss.jpg"
 attr = "Nils Schween"
 quote = "Gemeinsam Leben bedeutet politische Praxis. Das zukünftige CA bietet Platz, dieses Leben mannigfaltig auszugestalten und schafft auf diese Weise Raum für junge Menschen, sich politisch zu entwickeln und auszuprobieren. Ich hoffe auf Generationen von kritischen Menschen."
+
+[[quotes_team]]
+img = "isabelle.jpg"
+attr = "Isabelle Ponto"
+quote = "Als Studentin in Heidelberg kenne ich das Problem der knappen und teuren Wohnungslage sehr gut. Durch diese Erfahrung und die Auseinandersetzung mit alternativen, nachhaltigen, sozialen und integrativen Wohn- bzw. Gemeinschaftskonzepten, wurde ich auf das Collegium Academicum (CA) aufmerksam. Ganzheitliche Bildung, d.h., den ganzen Menschen und alle Fachrichtungen in den Blick nehmend, ist mir besonders wichtig. Neben der AG-Planung beschäftige im mich deshalb besonders mit unserem Bildungskonzept und dessen Umsetzungsmöglichkeiten. Durch unseren intensiven Austausch und die Zusammenarbeit in unserer Projektgruppe, ist jeder/jede über den ganzen Arbeitsprozess unseres Projekts informiert und hat die Möglichkeit, sich je nach Interesse in verschiedenen Aufgabenfeldern zu engagieren. Diesen „Rundumblick“ schätze ich sehr. Durch die bunte Gruppe, an unterschiedlichsten Menschen, aus allen Fachrichtungen und aus verschiedenen Lebenslagen, ist die Arbeit nie langweilig und unheimlich bereichernd. Für mich ist unser Projekt ein Ort, an dem ich Lebenspraktisches lerne und meine im Studium gelernte Theorie in die Praxis umsetzen kann. Viel wichtiger noch: Das CA gibt mir die Möglichkeit, durch Zusammenarbeit und Zusammenhalt, unsere Gesellschaft im Sinne von gelebter Toleranz und einem ganzheitlichen Ansatz, aktiv zu gestalten."
 
 [[quotes_team]]
 img = "maurice.jpg"
@@ -79,6 +79,11 @@ quote = "Ich bin überzeugt von unserem Projekt, weil es auf verschiedenen Ebene
 img = "mathis.jpg"
 attr = "Mathis Wilk"
 quote = "Das CA verbindet Ökologie, Bildung und Selbstverwaltung und kann damit als fruchtbarer Multiplikator in die Stadt und die ganze Gesellschaft hinein wirken. Das Projekt wird ein Freiraum werden, in dem Menschen sich austauschen, engagieren, politisieren und kreativ ausdrücken können. Solchen Alternativen sind in Zeiten von Klimakatastrophen, Kapitalismus und Rechtsruck unglaublich wichtig. Ich engagiere mich vor allem im Bereich Öffentlichkeitsarbeit."
+
+[[quotes_team]]
+img = "nele.jpg"
+attr = "Nele Schäfer"
+quote ="Das CA ist das vielfältigste Projekt mit dem ich bisher in Berührung gekommen bin. Wir schaffen nicht nur bezahlbaren Wohnraum, der über Jahrzehnte hinweg Bestand haben wird, sondern auch einen Ort an dem selbstbestimmtes Leben und Lernen möglich ist. Einen Ort an dem sich Menschen begegnen, sich ausprobieren und engagieren können. Ich glaube solche Orte sind unglaublich wichtig für unsere Gesellschaft. Sie fördern nicht nur kritisches Denken, sondern auch Respekt gegenüber anderen Meinungen. Die vielfältigen sozialen, politischen und ökologischen Probleme, denen wir gegenüber stehen, brauchen zu ihrer Lösung, kritisch denkende Menschen, die sich trauen neue Wege zu gehen. Zurzeit engagiere ich mich in der AG Finanzierung."
 
 [[quotes_team]]
 img = "cyrus.jpg"
