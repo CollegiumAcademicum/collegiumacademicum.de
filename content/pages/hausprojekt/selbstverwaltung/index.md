@@ -16,6 +16,8 @@ title: "Selbstverwaltung"
     {{< img src="iba_graphic" alt="" attr="IBA Heidelberg | Matthias Schardt 2016" />}}
     </div>
     <div class="column">
-    Dieser Ort der Selbstentfaltung, des lebhaften Austauschs und des frei zugänglichen Wissens soll nicht nur für Studierende von besonderer Bedeutung sein. Alle Interessenten sollen die Gemeinschaftsräume nutzen können und an Kunst und Kultur, Diskussionen, Vorträgen und Musik teilnehmen können. Insbesondere das selbstverwaltete Café an der Karlsruher Straße wird ein idealer sozialer und kultureller Treffpunkt in der Nachbarschaft sein. Zudem stehen Werkstätten, Ateliers und Veranstatultungsräume Kulturschaffenden als experimentelle Wirkstätten zur Verfügung.
+    Dieser Ort der Selbstentfaltung, des lebhaften Austauschs und des frei
+    zugänglichen Wissens soll nicht nur für Studierende von besonderer Bedeutung
+    sein. Alle Interessent*innen sollen die Gemeinschaftsräume nutzen können und an Kunst und Kultur, Diskussionen, Vorträgen und Musik teilnehmen können. Insbesondere das selbstverwaltete Café an der Karlsruher Straße wird ein idealer sozialer und kultureller Treffpunkt in der Nachbarschaft sein. Zudem stehen Werkstätten, Ateliers und Veranstatultungsräume Kulturschaffenden als experimentelle Wirkstätten zur Verfügung.
     </div>
 </div>
