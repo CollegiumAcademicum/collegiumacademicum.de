@@ -42,3 +42,8 @@ text = "Die Heidelberger Energiegenossenschaft hilft uns bei der Umsetzung unser
 img = "hd_vernetzt.png"
 link = "https://hdvernetzt.wordpress.com/"
 text = "Wir sind eines der Heidelberger Wohnprojekte, die in hd_vernetzt organisiert sind. "
+
+[[partners]]
+img = "transition_town_hd.png"
+link = "https://transition-heidelberg.org/"
+text = "Wir betreiben das TransitionHaus und freuen uns auf euren Besuch."
