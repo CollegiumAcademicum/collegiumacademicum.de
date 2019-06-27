@@ -47,3 +47,13 @@ text = "Wir sind eines der Heidelberger Wohnprojekte, die in hd_vernetzt organis
 img = "transition_town_hd.png"
 link = "https://transition-heidelberg.org/"
 text = "Wir betreiben das TransitionHaus und freuen uns auf euren Besuch."
+
+[[partners]]
+img = "ikea.png"
+link = "https://www.ikeastiftung.de/"
+text = "Die Eigenleistungen sowie die Einrichtung der offenen Werkstatt im Neubaugebäude werden von der IKEA-Stiftung gefördert."
+
+[[partners]]
+img = "stadt_hd.png"
+link = "https://www.heidelberg.de/hd/HD/Leben/Foerderprogramme+Barrierefreiheit.html"
+text = "Das CA wird im Rahmen des Programms \"Barrierfreie Lebenslaufwohnungen\" der Stadt Heidelberg gefördert."
