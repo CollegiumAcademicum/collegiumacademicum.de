@@ -37,7 +37,7 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das neu
       Der innovative Holzbau bietet Platz für Individualität und Gemeinschaft: 46 Wohngemeinschaften für drei oder vier Personen sind auf die vier Etagen des Neubaus verteilt. Die oberen Wohnungen verbindet auf dem Dach der Aula ein Dachgarten als Begegnungsstätte. Alle Wohnungen und Wege sind auf Standards barrierearmen Wohnens ausgelegt, insbesondere im Erdgeschoss. Dort befinden sich auch die Gemeinschaftsflächen: eine Werkstatt, die Aula und ein Multifunktionsraum mit Küche.
     </div>
     <div class="column">
-        {{< img src="grundriss" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2017" />}}
+        {{< img src="grundrissb" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2019" />}}
     </div>
 </div>
 
