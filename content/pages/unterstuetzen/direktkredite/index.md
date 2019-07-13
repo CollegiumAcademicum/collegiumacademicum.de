@@ -29,12 +29,12 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Bis jetzt ist es uns gelungen __1.845.000 EUR__ (19.06.2019) an Direktkrediten
+Bis jetzt ist es uns gelungen __1.896.000 EUR__ (13.07.2019) an Direktkrediten
 einzuwerben. Damit erfüllen wir die Auflage unserer Bank zum Start der
 Bankfinanzierung. Vielen Dank für Ihre großzügige Unterstützung!
 
 Für den Baubeginn im Sommer 2019 benötigen wir bis Ende Juli 2019 die restlichen
-__155.000 EUR__ der gesamten Direktkreditsumme von 2 Millionen Euro.
+__104.000 EUR__ der gesamten Direktkreditsumme von 2 Millionen Euro.
 
 <progress class="progress is-large is-primary" value="1845" max="2000">1.845.000€</progress>
 
