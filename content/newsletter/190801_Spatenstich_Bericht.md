@@ -14,7 +14,7 @@ symbolisch ein Zeichen für das Wachsen neuer Ideen und für den nachhaltigen Ch
 des gesamten Projekts.
 
 <figure>
-<img src="/newsletter/spatenstich.jpg"  alt="Ein Teil der Projektgruppe auf der BAU in München." title="Ein Teil der Projektgruppe auf der BAU in München." width="85%" />
+<img src="/newsletter/spatenstich.jpg"  alt="Ein Einblick in den Spatenstich der etwas anderen Art." title="Ein Einblick in den Spatenstich der etwas anderen Art." width="85%" />
 <figcaption style="text-align:center;">
 <p>&copy; Tobias Dittmer. Ein Einblick in den Spatenstich der etwas anderen Art. </p>
 </figcaption>
@@ -48,8 +48,8 @@ Da die Abrissarbeiten des alten Krankenhausgebäudes noch nicht abgeschlossen si
 
 Um das CA wie geplant realisieren zu können, sind wir weiterhin unter anderem
 auf Spenden und die letzten fehlenden Direktkredite für den Neubau angewiesen!
-Insbesondere Direktkredite bilden das Herz unserer Finanzierung, mehr
-Informationen dazu finden Sie [hier](https://collegiumacademicum.de/direktkredite).
+Mehr Informationen, wie Sie uns finanziell unterstützen können, finden Sie
+[hier](https://collegiumacademicum.de/direktkredite).
 
 Mit besten Grüßen,  
 Ihre Projektgruppe Collegium Academicum
