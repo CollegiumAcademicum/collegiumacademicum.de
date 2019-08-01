@@ -49,7 +49,7 @@ Da die Abrissarbeiten des alten Krankenhausgebäudes noch nicht abgeschlossen si
 Um das CA wie geplant realisieren zu können, sind wir weiterhin unter anderem
 auf Spenden und die letzten fehlenden Direktkredite für den Neubau angewiesen!
 Mehr Informationen, wie Sie uns finanziell unterstützen können, finden Sie
-[hier](https://collegiumacademicum.de/direktkredite).
+[hier](https://collegiumacademicum.de/unterstuetzen/).
 
 Mit besten Grüßen,  
 Ihre Projektgruppe Collegium Academicum
