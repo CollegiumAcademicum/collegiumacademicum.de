@@ -1,15 +1,15 @@
 <!-- phplist form: einziehen -->
 <!-- REMINDER: Adapt the action attribute to the actually used list and the numbers in the list[x] and listname[x] fields -->
 <div class="columns is-centered">
-  <form method="post" action="https://list.collegiumacademicum.de/?p=subscribe&id=6" name="subscribeform">
+  <form method="post" action="https://list.collegiumacademicum.de/?p=subscribe&id=4" name="subscribeform">
 
     <div class="field">
       <label class="label" for="EMAIL">{{ i18n "deine-mailadresse" }}</label>
       <div class="control has-icons-left">
         <input type="email" name="email" value="" class="input required email" id="EMAIL" size="55" />
-        <script language="Javascript" type="text/javascript">
-          addFieldToCheck("email", "E-Mail");
-        </script>
+        <!-- <script language="Javascript" type="text/javascript">
+             addFieldToCheck("email", "E-Mail");
+        </script> -->
         <span class="icon is-small is-left">
           <i class="fas fa-envelope"></i>
         </span>
@@ -22,9 +22,9 @@
       <label class="label" for="FNAME">{{ i18n "vorname" }}</label>
       <div class="control has-icons-left">
         <input type="text" name="attribute1" class="input" value="" id="FNAME" />
-        <script language="Javascript" type="text/javascript">
-          addFieldToCheck("attribute1", "First Name");
-        </script>
+        <!-- <script language="Javascript" type="text/javascript">
+             addFieldToCheck("attribute1", "First Name"); 
+        </script> -->
         <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
         </span>
@@ -35,10 +35,10 @@
       <label class="label" for="LNAME">{{ i18n "nachname" }}</label>
       <div class="control has-icons-left">
         <input type="text" name="attribute2" class="input" value="" id="LNAME" />
-        <script language="Javascript" type="text/javascript">
-          addFieldToCheck("attribute2", "Last Name");
-        </script>
-        <span class="icon is-small is-left">
+        <!-- <script language="Javascript" type="text/javascript">
+             addFieldToCheck("attribute2", "Last Name");
+             </script>
+	-->  <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
         </span>
       </div>
@@ -50,7 +50,8 @@
     </div>
     <div class="field">
       <div class="control">
-        <input type=submit name="subscribe" value="{{ i18n "interesse-anmelden" }}" onClick="return checkform();" class="button is-primary">
+	<!-- onClick="return checkform();" -->
+        <input type=submit name="subscribe" value="{{ i18n "interesse-anmelden" }}"  class="button is-primary">
       </div>
     </div>
   </form>
