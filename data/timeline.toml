@@ -3,6 +3,30 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "Juli 2019"
+content = "<img src='spatenstich.jpg' />Symbolischer Spatenstich"
+
+[[timeline]]
+heading = "Juni 2019"
+content = "Kauf des Grundstücks und Abschluss des Kreditvertrags mit der Bank"
+
+[[timeline]]
+heading = "April 2019"
+content = "<img src='teststand.jpg' />Stand zum testen des Einbaus und des Schallschutzes der flexiblen Wände."
+
+[[timeline]]
+heading = "April 2019"
+content = "<img src='teambuilding_02.jpg' />Die Projektgruppe trifft sich zu einem zweiten Teambuilding Wochenende in der Bacherlebnisstation in Ladenburg."
+
+[[timeline]]
+heading = "Februar 2019"
+content = "1.500.000€ in Direktkrediten und Spenden eingeworben"
+
+[[timeline]]
+heading = "2019"
+center = true
+
+[[timeline]]
 heading = "Oktober 2018"
 content = "1.000.000€ in Direktkrediten und Spenden eingeworben"
 
@@ -17,6 +41,10 @@ content = "<img src='mv_mannheim.jpg' />Das Collegium Academicum wird in das <a 
 [[timeline]]
 heading = "Mai 2018"
 content = "<img src='demonstrator.jpg' />Wir stellen unser 1-zu-1 Modell eines späteren Wohnheimzimmers fertig."
+
+[[timeline]]
+heading = "April 2018"
+content = "<img src='teambuilding_01.jpg' />Die Projektgruppe trifft sich zu einem ersten Teambuilding Wochenende auf dem <a href='https://bergfritzenhof.de/bergfritzenhof/'>Fritzinnen Hof</a> im Südschwarzwald ."
 
 [[timeline]]
 heading = "Februar 2018"
