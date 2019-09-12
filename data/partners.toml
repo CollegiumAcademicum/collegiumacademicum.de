@@ -44,9 +44,9 @@ link = "https://hdvernetzt.wordpress.com/"
 text = "Wir sind eines der Heidelberger Wohnprojekte, die in hd_vernetzt organisiert sind. "
 
 [[partners]]
-img = "transition_town_hd.png"
+img = "transition_town.png"
 link = "https://transition-heidelberg.org/"
-text = "Wir betreiben das TransitionHaus und freuen uns auf euren Besuch."
+text = "Wir sind in unserem gemeinsamen Bemühen gesellschaftlichen Wandel voranzutreiben mit der Transition Town Bewegung in Heidelberg partnerschaftlich verbunden."
 
 [[partners]]
 img = "ikea.png"
