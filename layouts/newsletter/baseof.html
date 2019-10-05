@@ -6,116 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <meta name="theme-color" content="#38A9A1">
-    
-    <!-- styles must be entered explicitly so that need css file needs to be loaded" -->
-    <!-- <link rel="stylesheet" href="{{ "main.css" | relURL }}" /> -->
-
-    <!-- <link rel="stylesheet" href="https://collegiumacademicum.de/main.css" /> -->
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-    <!-- styles must be entered explicitly so that need css file needs to be loaded" -->
-    <!-- do not mix classes with further inline-styling some mail clients cannot deal with it -->
+    <!-- We build the SASS directly into the inline styles… -->
     <style>
-     body{
-	 font-family: Helvetica, Arial, sans-serif;
-	 color: #4a4a4a;
-	 background-color:#fcfcfc;
-     }
-     a {
-	 color:#38A9A1;
-	 text-decoration:none;
-     }
-     a:hover{
-	 color:black;
-     }
-     img {
-	 display:block;
-	 margin:0 auto;
-     }
-
-     h1 {
-	 text-align:center
-     }
-
-     h2 {
-	 text-align:center
-     }
-
-     #date_newsletter {
-	 margin: 0 auto;
-	 font-size: 1.5em;
-	 text-align: center;
-     }
-     
-     .button {
-	 display:inline-block;
-	 width: 10em;
-	 height: 2em;
-	 border-radius: 15px;
-	 text-align: center;
-	 padding-top: 1em;
-	 color: white;
-	 text-decoration: none;
-     }
-     .button:hover {
-	 background-color: #4a4a4a;
-	 color:white;
-     }
-
-     .is-primary {
-	 background-color: #38A9A1;
-     }
-     
-     .is-secondary {
-	 background-color: #B8161A;
-     }
-     
-     #footer_newsletter{
-	 margin: 1em auto;
-	 padding: 0.5em;
-	 width: 70%;
-	 font-size: 75%;
-     }
+      {{ (resources.Get "sass/newsletter.sass" | toCSS).Content | safeCSS }}
     </style>
   </head>
 
   <body>
-    <!-- Upper delimiter -->
-    <div style="position:relative; margin: 1em auto 0; width: 70%; height: 50px; background-color: #38A9A1; border-radius: 20px 20px 0 0; font-size:75%; color: white;">
-      <p style="position: absolute; top: 10px; left: 15px; ">Collegium Academicum - Gemeinsam Leben und Lernen</p>
-      <p style="position: absolute; top: 10px; right: 15px;"> <a style="color: white; text-decoration:underline;" href="{{ ref . .File.LogicalName }}">View this email in your browser</a></p>
+    <div class="body">
+    <div class="box" style="margin-top: 0;">
+        <a href="{{ ref . .File.LogicalName }}">View this email in your browser</a>
     </div>
-    <!-- Main Container -->
-    <div role="main" style="margin:0 auto; width:70%; background-color: white;">
 
-      <img style="margin: 0 auto ; padding-top: 1em;" src="{{ "img/logo.png" | relURL }}" alt="Logo: Collegium Academicum" />
+    <div class="box">
+      <a href="https://collegiumacademicum.de/"><img class="logo" src="{{ "img/logo-bottom.png" | relURL }}" alt="Logo: Collegium Academicum" /></a>
+      <a href="https://collegiumacademicum.de/"><img class="logo" style="float:right;" src="{{ "img/logo-top.png" | relURL }}" alt="Logo: Collegium Academicum" /></a>
+    </div>
 
-      <!-- loading single.html -->
+    <div role="main" class="box main">
       {{ block "main" . }}
       {{ end }}
 
-      <!-- Voigl at the end -->
-      <div style="margin-top: 4em;">
-        <img class="image" src="{{ "img/feuervoigl.png" | relURL }}" alt="Der Feuer Voigl" />
+      <div class="voigl">
+        <img src="{{ "img/feuervoigl.png" | relURL }}" alt="Der Feuer Voigl" />
       </div>
-      <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));" />
     </div>
-    <!-- <a class="button is-primary"  href="https://collegiumacademicum.de">Homepage</a> -->
-    <div role="footer" id="footer_newsletter">
-      <p style="margin:0 auto; width:20%;">Mehr Informationen erhalten Sie auf unserer <a href="https://collegiumacademicum.de">Webseite</a>. </p>
+
+    <div role="footer" class="footer box">
+      <p>Mehr Informationen erhalten Sie auf unserer <a href="https://collegiumacademicum.de">Webseite</a>. </p>
       <p>Diese Nachricht wurde von [FROMEMAIL] an [EMAIL] gesendet.<br />
          Falls Sie diese Nachricht weiterleiten möchten, verwenden Sie
          bitte <em>nicht</em>  die Weiterleiten-Funktion ihres E-Mail Programmes, da diese Nachricht speziell für Sie generiert wurde. Benutzen Sie die  <a href="[FORWARDURL]">Weiterleit-Funktion</a> unseres
-         Newsletter Systems. <br />
-	 Falls Sie Ihre Einstellungen verändern möchten, besuchen Sie
-	 ihre persönlichen <a href="[PREFERENCESURL]">Einstellungs-Seite.</a>
-	 Oder falls Sie sich vollständig von unserem Newsletter abmelden möchten:
+         Newsletter Systems.
+      </p>
+      <p>Falls Sie Ihre Einstellungen verändern möchten, besuchen Sie
+	       ihre persönlichen <a href="[PREFERENCESURL]">Einstellungs-Seite.</a>
+         Falls Sie sich vollständig von unserem Newsletter abmelden möchten:
+      </p>
       <p>
-	<a  class="button is-secondary" href="[UNSUBSCRIBEURL]"> Abmelden</a>
+	      <a  class="button" href="[UNSUBSCRIBEURL]"> Abmelden</a>
       </p>
     </div>
 
+  </div>
   </body>
 </html>
