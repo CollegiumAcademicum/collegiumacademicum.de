@@ -10,4 +10,4 @@ for dir in ${PWD}/upload/newsletter/*_*; do
 done
 
 # Beautify everything
-# find "${PWD}/upload" -type f -name "*.html" -exec node_modules/.bin/html-beautify -s 2 --no-preserve-newlines -r {} \;
+find "${PWD}/upload" -type f -name "*.html" -exec node_modules/.bin/html-beautify -s 2 --no-preserve-newlines -r {} \;
