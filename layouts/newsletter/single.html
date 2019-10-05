@@ -1,19 +1,19 @@
 {{ define "title" }} {{ .Title }} - {{ .Site.Title }} {{ end }}
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<div class="title">
+  <h1>{{ .Title }}</h1>
 
-{{if isset .Params "subtitle"}}
-  <h2 style="margin-top:-0.6em; font-weight:normal;"> {{ .Params.subtitle}} </h2>
-{{end}}
+  {{if isset .Params "subtitle"}}
+  <h2>{{ .Params.subtitle}} </h2>
+  {{end}}
 
-  <p id="date_newsletter">
-<time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
-{{ .Date.Day }}. {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
-</time>
-</p>
+  <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
+    {{ .Date.Day }}. {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
+  </time>
+</div>
 
-<div style="margin: 0 auto; width:95%;">
-    {{ .Content }}
+<div>
+  {{ .Content }}
 </div>
 
 {{ end }}
