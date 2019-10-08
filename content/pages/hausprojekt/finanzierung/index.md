@@ -38,14 +38,16 @@ Fördermitteln, privaten Direktkrediten und Spenden, sowie einem von der Kredita
 ### Förderung
 
 Im Rahmen des Zukunftsinvestitionsprogramms ["Modellvorhaben
-Variowohnen""](https://www.forschungsinitiative.de/variowohnungen/p01-foerderprogramm/)
+Variowohnen""](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
 des Bundesbauministeriums wurde unser Projekt als herausragendes Vorhaben
 eingestuft. Die Förderung beläuft sich auf rund 2,12 Millionen Euro. Zusätzlich
-wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
-genehmigt, welches sich aus dem [Europäischen Fonds für regionale Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/)
-(EFRE) und Landesmitteln finanziert. Eine weitere städtische Förderung in Höhe
-von 50.000 Euro würdigt die barrierearme Planung des Wohnheims. Weitere 200.000
-Euro städtischer Förderung für Passivhausbau stehen in Aussicht.
+wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz
+Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
+genehmigt, welches sich aus dem [Europäischen Fonds für regionale
+Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/) (EFRE) und
+Landesmitteln finanziert. Eine weitere städtische Förderung in Höhe von 50.000
+Euro würdigt die barrierearme Planung des Wohnheims. Weitere 200.000 Euro
+städtischer Förderung für Passivhausbau stehen in Aussicht.
 
 ### Direktkredite und Spenden
 
