@@ -38,7 +38,7 @@ Fördermitteln, privaten Direktkrediten und Spenden, sowie einem von der Kredita
 ### Förderung
 
 Im Rahmen des Zukunftsinvestitionsprogramms ["Modellvorhaben
-Variowohnen""](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
+Variowohnen"](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
 des Bundesbauministeriums wurde unser Projekt als herausragendes Vorhaben
 eingestuft. Die Förderung beläuft sich auf rund 2,12 Millionen Euro. Zusätzlich
 wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz
