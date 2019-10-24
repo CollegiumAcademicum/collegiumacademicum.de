@@ -32,6 +32,10 @@ weight = 1
 languageName = 'English'
 weight = 2
 
+[languages.fr]
+languageName = 'Francais'
+weight = 3
+
 [imaging]
 quality = 60
 resampleFilter = "lanczos"
