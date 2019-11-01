@@ -22,10 +22,10 @@
     {{ $style := resources.Get "sass/main.sass" | toCSS $sass_options | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
-    <!-- {{ $mainjs := resources.Get "js/main.js" | minify }}
-	 {{ $turbolinks := resources.Get "node_modules/turbolinks/dist/turbolinks.js" }}
-	 {{ $js := slice $turbolinks $mainjs | resources.Concat "js/main.js" | fingerprint }} 
-    <script async src="{{ $js.Permalink }}"></script> -->
+    {{ $mainjs := resources.Get "js/main.js" | minify }}
+    <!-- {{ $turbolinks := resources.Get "node_modules/turbolinks/dist/turbolinks.js" }}
+	 {{ $js := slice $turbolinks $mainjs | resources.Concat "js/main.js" | fingerprint }}  -->
+    <script async src="{{ $mainjs.Permalink }}"></script>
 
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous"></script>
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
