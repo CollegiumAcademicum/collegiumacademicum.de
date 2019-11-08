@@ -30,7 +30,7 @@ Außerdem bieten wir in den nächsten Wochen einige Termine an uns entspannt
 kennenzulernen, direkt mitzudiskutieren und -machen:
 
 
-|  „Das ist unser Haus!“ – Filmabend & Diskussion |
+|  [„Das ist unser Haus!“ – Filmabend & Diskussion](http://das-ist-unser-haus.de/) |
 | --- | 
 | 08.11. 19-21h, Rheinstr. 4, Rabatz |
 
