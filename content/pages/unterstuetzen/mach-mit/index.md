@@ -29,31 +29,6 @@ Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns **jed
 Außerdem bieten wir in den nächsten Wochen einige Termine an uns entspannt
 kennenzulernen, direkt mitzudiskutieren und -machen:
 
-| Kick-Off: Kaffee, Kuchen und Kontakte knüpfen |
-| --- |
-| 17.10. 16-18h, Rheinstraße 4, Rabatz |
-
-Du hast Lust, in gemütlicher Runde mehr über das Projekt und uns zu erfahren?
-Dann bist Du hier genau richtig! In gemütlicher Runde haben wir die Möglichkeit,
-in Ruhe ins Gespräch zu kommen: über Pläne und Visionen, die Projektarbeit,
-Beteiligungsmöglichkeiten etc.
-
-| Exkursion zum US-Hospital: Hier entsteht das neue CA! |
-| --- |
-| 23.10. 16-18h, Karlsruher Straße, US-Hospital |
-
-Selbstverwaltetes Wohnheim bauen klingt ja schön und gut, aber wo? Damit Du den
-Standort gleich mal in real kennenlernen kannst, geht es gemeinsam auf die
-Fläche! Wir erkunden das Grundstück, das ehemalige Pförtnerhäuschen und den
-Altbau, in dem man bereits die Werkstatt im Aufbau sehen kann!
-
-| Neuentreff: Vorstellung CA & Mitmachmöglichkeiten |
-| --- |
-| 06.11. 17.30h, Sandgasse 7, Altstadt |
-
-Einmal im Monat gibt es vor dem Projekttreffen einen Neuentreff. Darin bekommst
-Du nochmal kompakt alle wichtigen Infos zum Projekt, wie wir arbeiten und in
-welcher Form Du Dich z.B. einbringen könntest. Perfekt zum Einstieg!
 
 |  „Das ist unser Haus!“ – Filmabend & Diskussion |
 | --- | 
@@ -64,5 +39,22 @@ und was da sonst noch hinter dem Gedanken eines selbstverwalteten Wohnheims
 steckt? Dann schau Dir gemeinsam mit uns den Film „Das ist unser Haus!“ zum
 Mietshäusersyndikat an! Und genug Zeit für Gespräche und Diskussionen bleibt
 danach auf jeden Fall! :)
+
+|  [Karlstorbahnhof - Ab in den Süden](https://www.karlstorbahnhof.de/programm/veranstaltung/ab-in-den-sueden/) |
+| --- | 
+| 10.11. 15h, Karlsruher Straße, US-Hospital |
+
+Das Collegium Academicum hat in Heidelberg eine lange Geschichte. Als ehemaliges
+Institut der Universität wurde es nach dem Zweiten Weltkrieg als Wohnheim für
+Studierende gegründet, um die Neueröffnung der Universität zu unterstützen. Auch
+in den 60er und 70er Jahren nahm das CA einen zentralen Platz in der Politischen
+Studierendenschaft ein, viele Gruppen nutzten die Räume in der Altstadt, um
+ihrer Arbeit nachzugehen 1975 schließlich wurde es offiziell geschossen, die
+Räumung erfolgte drei Jahre später. Dank der Konversionsflächen gibt es nun
+endlich wieder Platz in der Stadt und so wird das Collegium Academicum auf dem
+ehemaligen U.S. Hospital-Gelände in Rohrbach neu entstehen, nur ein paar hundert
+Meter vom zukünftigen Standort des Karlstorbahnhofs entfernt. Vor kurzem fiel
+mit dem offiziellen Spatenstich der Startschuss für die heiße Phase: Jetzt wird
+endlich gebaut!
 
 ## Wir freuen uns auf Dich!
