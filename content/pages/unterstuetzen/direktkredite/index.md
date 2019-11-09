@@ -29,18 +29,23 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Bis jetzt ist es uns gelungen __1.975.000 EUR__ (17.10.2019) an Direktkrediten
-einzuwerben. Damit erfüllen wir die Auflage unserer Bank zum Start der
-Bankfinanzierung. Vielen Dank für Ihre großzügige Unterstützung!
+Es ist uns gelungen die **2.000.000 EUR** (09. Nov. 2019) Direktkredite
+zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!!** Danke an all
+diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
+Projekts gebracht haben und bringen.
 
-Für den im Jahr 2019 anstehenden Baubeginn des Neubaus benötigen wir bis Ende
-November 2019 die restlichen __25.000 EUR__ der gesamten Direktkreditsumme von 2
-Millionen Euro.
+<!-- <progress class="progress is-large is-primary" value="2000" max="2000">2.000.000€</progress> -->
 
-<progress class="progress is-large is-primary" value="1975" max="2000">1.975.000€</progress>
+Sie können das CA auch **weiterhin mit Direktkrediten unterstützen**. Da wir
+schon einige Kosten für den Altbau vorfinanzieren mussten, sind wir
+weiterhin auf Ihre Unterstützung angewiesen. Zudem gilt: Je höher der Anteil von
+Direktkrediten im Verhältnis zur Bankfinanzierung ist, desto größer ist unser
+Gestaltungsraum für bezahlbare Mieten und die erfolgreiche Umsetzung unseres
+Vorhabens.
 
-Wir freuen uns sehr über weitere Unterstützung. Lesen Sie im Folgenden warum wir
-Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
+Wir freuen uns deshalb sehr über weitere Unterstützung. Lesen Sie im Folgenden
+warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu
+geben.
 
 <section>
   <div class="message toggle is-active">
@@ -67,7 +72,8 @@ Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-        Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen.
+		Zur seit gibt es diese Möglichkeit leider nicht. 
+        <!-- Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen. -->
         </div>
       </div>
       </div>
