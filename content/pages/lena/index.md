@@ -3,7 +3,8 @@ title: "Lena"
 ---
 
 ### Einleitung
-Dies ist ein Webseite zum Üben und basteln.
+Update 17.11.19 Heute üben wir wieder am Basteln der Webseite.
+Dies ist ein Webseite zum Üben und basteln. Sie wird aber auch nochmal überarbeitet.
 
 
 ### Formatfragen
