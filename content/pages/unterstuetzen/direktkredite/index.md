@@ -72,7 +72,7 @@ geben.
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-		Zur seit gibt es diese Möglichkeit leider nicht. 
+		Zur Zeit gibt es diese Möglichkeit leider nicht. 
         <!-- Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen. -->
         </div>
       </div>
