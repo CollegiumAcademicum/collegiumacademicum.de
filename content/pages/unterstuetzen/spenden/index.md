@@ -1,13 +1,17 @@
 ---
 title: "Spenden"
 ---
+<!---ToDo:
+- Einzug für alle Abschnitte gleich (aktuell 01.12.19 sind die Columns nicht
+auf Breite der anderen Textblöcke
+- Fotos in den Columns enden auf gleicher Höhe wie Textblöcke
+- Onlinespende sieht noch unschön aus)
+- Kontobox: neu überlegen, Text mittig im gleichen Schriftstil wie sonst. Weiße box mit gleichem Abstand zu Raendern der blauen Box--->
 
 Mit einer Spende unterstützen Sie direkt den Neubau des CA als Bildungsprojekt. Ganz konkret
 ermöglichen Sie praktische Lernräume, bei denen Studierende selbst an der
 Gestaltung und dem Bau beteiligt sind. Hierzu haben wir mit Unterstützung der
-IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir die Möbel für das Wohnheim
-selbst bauen. Die Materialien für Möbel, Schiebewände und Fassadenelemente
-werden durch Spenden mitfinanziert. 2020 sind mehrere internationale Workcamps
+IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir z.B. die Möbel für das Wohnheim selbst bauen. Die Materialien hierfür werden durch Spenden mitfinanziert. 2020 sind mehrere internationale Workcamps
 mit jungen Freiwilligen geplant, die der Förderverein finanziell bezuschusst.
 Im Neubau werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner*innen eigene Projekte realisieren können.
 Um Ressourcen zu schonen, nehmen wir auch gerne
@@ -22,14 +26,13 @@ Interesse gerne Kontakt zu uns auf.
 <div class="columns">
 <!--- ToDo: Blocksatz in den Columns--->
   <div class="column">
-  <p align="right">
+  <p align="left">
   Spenden an das Projekt sind über den „Förderverein Collegium Academicum Heidelberg e.V.“ möglich. Dieser verfolgt das Ziel, fachübergreifende Bildung zu fördern. Die Mitglieder des
   Vereins sind überwiegend ehemalige Kollegiat*innen, Mitglieder der Projektgruppe und Förderer des Projekts,
   die gemeinsam in geistiger wie in materieller Hinsicht Freiräume schaffen für junge Menschen.
-  </p>
-
   </div>
   <div class="column">
+    <!---<p align="right">--->
     {{< img src="Gruppenfoto_liegend_plan.jpg" alt="Aktive schauen liegend auf einen Plan am Boden"/>}}
   </div>
 </div>
@@ -37,8 +40,8 @@ Interesse gerne Kontakt zu uns auf.
 
 <div class="columns">
   <div class="column">
+    <!---<p align="left">--->
   {{< img src="Gruppenfoto_Saege.jpg" alt="Aktive stehen an der Saege und disktuieren."/>}}
-
   </div>
 
   <div class="column">
