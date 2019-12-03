@@ -83,9 +83,10 @@ haben möchten, dann schicken Sie uns gerne eine Mail oder besuchen sie uns bei
 einem unserer Infostände.
 
 Und so können Sie helfen, dass dieser Aufruf möglichst viele Menschen erreicht:
-  - Leiten Sie diesen Newsletter weiter. Nutzen Sie dafür einfach diesen <a href="[FORWARDURL]">Link</a>.
-  - Verfolgen und teilen Sie unsere aktuellen Entwicklungen auf unserer Webseite und Facebook 
-  - Verteilen Sie unseren neuen Spendenflyer an Ihre Freund*innen
+
+- Leiten Sie diesen Newsletter weiter. Nutzen Sie dafür einfach diesen <a href="[FORWARDURL]">Link</a>.
+- Verfolgen und teilen Sie unsere aktuellen Entwicklungen auf unserer Webseite und Facebook 
+- Verteilen Sie unseren neuen Spendenflyer an Ihre Freund*innen
 
 Termine im Dezember – Kommen Sie uns besuchen!  
 Sie möchten sich mit eigenen Augen von den Fortschritten des Projekts überzeugen
