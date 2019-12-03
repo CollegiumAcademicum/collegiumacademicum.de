@@ -1,72 +1,110 @@
 ---
 title: "Ein Aufruf zum Teilen: Spenden statt Geschenke."
-date: 2019-12-02
+date: 2019-12-03
 ---
 
 Liebe Unterstützer*innen,
-der Herbst ist da, bringt Veränderung und einen neuen Newsletter! Lassen Sie uns einige Neuigkeiten mit Ihnen teilen:
 
-## Finanzierung: Meilenstein von 2 Mio. Direktkrediten erreicht!
+pünktlich zum Start in die Vorweihnachtszeit melden wir uns bei Ihnen mit
+Neuigkeiten zurück und würden uns freuen, wenn Sie den Newsletter mit Ihrem
+Umfeld teilen würden. Heutige Themen sind:
 
-Seit über drei Jahren arbeiten wir unermüdlich an der gemeinschaftlichen
-Finanzierung unseres Vorhabens. Hierfür sind wir insbesondere auf die
-Beteiligung vieler Privatpersonen angewiesen, die das Projekt mit privaten
-Direktkrediten und Spenden unterstützen. Nun können wir offiziell verkünden,
-dass wir die 2 Millionen Euro Direktkredite als einen wichtigen Baustein der
-Finanzierung für den Neubau eingeworben haben. **Wir sagen Danke!!**  
-Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die
-Realisierung des Projekts gebracht haben und bringen. Der Weg war und ist nicht
-immer leicht und gelegentlich steinig. Danke für all das Vertrauen und die
-ermutigenden Worte auf diesem Weg. Veränderung kann nur durch gemeinschaftliches
-Engagement und die Unterstützung vieler ermöglicht werden: Mit unserem Projekt
-wird ein soziales und ökologisch nachhaltiges Leben Realität.
+-  Planungsfortschritt – der Baubeginn in Sichtweite
+-  Mit Ihrer Spende Bildung ermöglichen
+-  Sachspenden – OSB-Platten, Starkstromgenerator & Möbel
+-  Helfen Sie mit, unseren Aufruf zu verbreiten!
+-  Termine im Dezember – kommen Sie uns besuchen!
+
+## Planungsfortschritt – der Baubeginn in Sichtweite
+
+Die Vorbereitungen für den Bau laufen weiterhin auf Hochtouren: Inzwischen haben
+wir die ersten und größten Lose für den Neubau veröffentlicht – ein weiterer
+erreichter Meilenstein! Wenn Sie Unternehmen kennen, die am Bau unseres Gebäudes
+interessiert sind, würden wir uns sehr über eine Weiterleitung der Kontaktdaten
+freuen.  Auch die Einrichtung der Werkstatt im Altbau, in der wir während des
+Baus Möbel für das Wohnheim herstellen, schreitet voran. Nach Verzögerungen in
+den Abrissarbeiten werden wir im neuen Jahr mit dem Bau starten. Auf folgendem
+Bild sehen Sie den Stand der Arbeiten am 22. November.
 
 <figure>
-<img src="/newsletter/gruppenbild_altbau.jpg" alt="Die Projektgruppe vor dem Altbau" title="Die Projektgruppe im Zimmermodell" width="65%" />
+<img src="/newsletter/abriss_altbau.jpg" alt="Aufnahme des Abrisses des US-Hospital" title="Aufnahme des Abrisses des US-Hospital" width="50%" />
 <figcaption style="text-align:center;">
-<p>Die Projektgruppe vor dem Altbau</p>
+<p>Aufnahme des Abrisses des US-Hospital</p>
 </figcaption>
 </figure>
 
-## Planungsfortschritt – der Baubeginn rückt langsam näher…
+## Mit Ihrer Spende Bildung ermöglichen
 
-Die Vorbereitungen für den Bau laufen auf Hochtouren: Derzeit bereiten wir die
-Einrichtung der Werkstatt im Altbau vor, in der wir während der Bauzeit Möbel
-für das zukünftige Wohnheim herstellen werden. Sie haben Lust, selbst Hand
-anzulegen? Dann kommen Sie **mittwochs zwischen 15:00-17.30 Uhr** auf das
-Gelände des ehemaligen US-Hospital!
-
-Wie bereits in den vergangenen Newslettern berichtet, haben sich die
-Abrissarbeiten des alten Krankenhausgebäudes (die nicht in unserer Hand liegen)
-verzögert und sind derzeit noch nicht abgeschlossen. Wir gehen davon
-aus, dass wir im neuen Jahr mit dem Bau starten werden. Auf dem folgenden Bild
-sehen Sie den Stand der Arbeiten am 04. November:
+In ganz Deutschland läutete der Black Friday den Beginn des vorweihnachtlichen
+Konsumrauschs ein, bei dem Geschäfte mit Rabattaktionen zum Neukauf verführten.
+Doch es werden auch kritische Stimmen lauter, die dazu auffordern, den Konsum zu
+hinterfragen: Was brauche wirklich für ein gutes Leben? Wie kann ich etwas
+weiter nutzen, reparieren und teilen, was bereits produziert wurde? Und wie
+können wir gemeinsam die sozial-ökologische Transformation einleiten?
 
 <figure>
-<img src="/newsletter/abriss_hospital.jpg" alt="Aktueller Stand Abriss US-Hospital" title="Die Projektgruppe im Zimmermodell" width="65%" />
+<img src="/newsletter/gruppenbild_demonstrator.jpg" alt="Die Projektgruppe im Zimmermodell" title="Die Projektgruppe im Zimmermodell" width="50%" />
 <figcaption style="text-align:center;">
-<p>Aktueller Stand Abriss US-Hospital</p>
+<p>Die Projektgruppe im Zimmermodell</p>
 </figcaption>
 </figure>
 
-## Veranstaltungshinweise – Kommen Sie uns besuchen!
+Das CA bietet auf all diese drängenden Fragen eine Antwort und setzt ökologische
+und gesellschaftliche Alternativen direkt in die Praxis um. Wer Geld übrig hat,
+kann sich deshalb gegen den Kaufrausch entscheiden und es stattdessen einer
+nachhaltigen Nutzung zur Verfügung stellen. Eine Spende an unseren
+(gemeinnützigen) Förderverein Collegium Academicum Heidelberg e.V. ist dafür
+eine gute Gelegenheit! Mit einer Spende unterstützen Sie die Bildungsarbeit
+eines selbstverwalteten, ökologisch und sozial nachhaltigen Projekts in
+Heidelberg, welches jungen Menschen Freiräume und Gestaltungsmöglichkeiten
+bietet.
 
-Sie möchten den aktuellen Stand mit eigenen Augen zu sehen und/ oder uns
-persönlich begegnen? Wir möchten Sie herzlich dazu einladen, uns im Rahmen der
-folgenden Veranstaltungen zu begegnen:
+## Sachspenden – OSB-Platten, Starkstromgenerator & Möbel
 
-- __Sonntag, 10.11.__ | 15h | [Ab in den Süden – der Karlstorbahnhof zu Besuch bei uns](https://www.karlstorbahnhof.de/ab-in-den-sueden/zusammen-leben/) | US-Hospital, Rohrbach  
+Neben Geldspenden nehmen wir auch gerne Sachspenden an, um Ressourcen zu
+schonen. Für die Einrichtung der Werkstatt benötigen wir folgende Gegenstände –
+vielleicht können Sie uns weiterhelfen?
 
-- __Sonntag, 08.12.__ | 11-17 h | [Alternativer Weihnachtsmarkt](https://zukunftswerkstatt-weststadt.de/includes/index.php) | Wilhelmsplatz, Weststadt  
+1. Ca. 50 qm OSB Platten (2500 x 67,5 x 18 mm) für den Werkstattboden
+2. Für die Inbetriebnahme der modernen CNC Holzfräse im Januar wird übergangsweise ein Starkstromgenerator benötigt (Spitzenleistung: 5 kW, Drehstromanschluss).
 
-- __Sonntag, 15.12.__ | 17.30 h | Spaziergang über das Gelände des zukünftigen CA| US-Hospital, Rohrbach  
+Nehmen sie gerne per E-Mail Kontakt zu uns auf, wenn Sie uns eine Sachspende
+zukommen lassen wollen! Sie erreichen uns unter: kontakt@collegiumacademicum.de
 
-Mit herzlichen Grüßen aus Heidelberg,  
+## Helfen Sie uns, diesen Aufruf zu verbreiten!
+
+Bis zum neuen Jahr möchten wir die für das Neubauprojekt noch fehlenden
+vorgesehenen Spenden von 40.000 Euro einsammeln. Das sind 400 Personen, die uns
+100 Euro spenden oder 80 Personen, die 500 Euro spenden oder 40 Personen, die
+1.000 Euro spenden. Für diesen Zweck haben wir ganz aktuell einen <a href="https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf">Flyer</a>
+erstellt, der über die Arbeit des Fördervereins informiert und genau erklärt
+wofür wir Ihre Spenden nutzen. Wenn Sie ein oder mehrere Exemplare des Flyers
+haben möchten, dann schicken Sie uns gerne eine Mail oder besuchen sie uns bei
+einem unserer Infostände.
+
+Und so können Sie helfen, dass dieser Aufruf möglichst viele Menschen erreicht:
+  - Leiten Sie diesen Newsletter weiter. Nutzen Sie dafür einfach diesen <a href="[FORWARDURL]">Link</a>.
+  - Verfolgen und teilen Sie unsere aktuellen Entwicklungen auf unserer Webseite und Facebook 
+  - Verteilen Sie unseren neuen Spendenflyer an Ihre Freund*innen
+
+Termine im Dezember – Kommen Sie uns besuchen!  
+Sie möchten sich mit eigenen Augen von den Fortschritten des Projekts überzeugen
+und/ oder uns persönlich begegnen? Wir möchten Sie herzlich dazu einladen, uns
+im Rahmen der folgenden Veranstaltungen zu begegnen:
+
+- __Immer mittwochs__ | 14h - 17:30 Uhr|  Treffen der AG Eigenleistung | US-Hospital, Rohrbach  
+- __Freitag, 06.12.__ | ab 17 Uhr | Offener Hof mit Verschenkemarkt, Punsch, Plätzchen und viel Musik | Plöck 93, HD-Altstadt  
+- __Sonntag, 08.12.__ | 12-18 Uhr | [Alternativer Weihnachtsmarkt](https://zukunftswerkstatt-weststadt.de/includes/index.php) | Wilhelmsplatz  
+- __Sonntag, 15.12.__ | 14 h | Spaziergang über das Gelände des zukünftigen CA| US-Hospital, Rohrbach  
+
+Gemeinsam können wir Großes schaffen.
+
+Mit herzlichen Grüßen aus Heidelberg  
 Ihr CA-Team
 
-**PS:** Sie können das CA auch weiterhin mit Direktkrediten unterstützen. Da wir
-schon einige Kosten für den Altbau vorfinanzieren mussten, sind wir weiterhin
-auf Ihre Unterstützung angewiesen. Außerdem gilt: Je höher der Anteil von
-Direktkrediten im Verhältnis zur Bankfinanzierung ist, desto größer ist unser
-Gestaltungsraum für bezahlbare Mieten und die erfolgreiche Umsetzung unseres
-Vorhabens.
+PS: Sie können das CA auch weiterhin mit Direktkrediten unterstützen. Um alte
+Direktkreditverträge abzulösen und entstandene Nebenkosten beim Kauf des Neubaus
+zu refinanzieren, sind wir weiterhin auf Ihre Unterstützung angewiesen. Je mehr
+auslaufende Direktkredite wir durch neue Unterstützer*innen austauschen können,
+desto größer ist unser Gestaltungsraum für bezahlbare Mieten und die
+erfolgreiche Umsetzung unseres Vorhabens.
