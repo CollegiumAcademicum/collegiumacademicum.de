@@ -22,11 +22,13 @@ gut erhaltene Möbelspenden zur Einrichtung der
 Zimmer und Gemeinschaftsflächen. Nehmen Sie bei
 Interesse gerne Kontakt zu uns auf.
 
+Alle weitere Informationen finden Sie auch auf unserem
+Spendenflyer, den Sie <a href="/docs/2019_spenden_flyer.pdf">hier</a> herunterladen können.
 
 <div class="columns">
 <!--- ToDo: Blocksatz in den Columns--->
   <div class="column">
-  <p align="left">
+  <p style="text-align:right">
   Spenden an das Projekt sind über den „Förderverein Collegium Academicum Heidelberg e.V.“ möglich. Dieser verfolgt das Ziel, fachübergreifende Bildung zu fördern. Die Mitglieder des
   Vereins sind überwiegend ehemalige Kollegiat*innen, Mitglieder der Projektgruppe und Förderer des Projekts,
   die gemeinsam in geistiger wie in materieller Hinsicht Freiräume schaffen für junge Menschen.
@@ -45,11 +47,11 @@ Interesse gerne Kontakt zu uns auf.
   </div>
 
   <div class="column">
-  Aktuell unterstützt der Förderverein den Bau des neuen
+  <p style="text-align:left">Aktuell unterstützt der Förderverein den Bau des neuen
   Collegium Academicum vor allem bei der Bildungsarbeit
   und dem Selbstbau. So werden Vorträge, Schulungen und Workshops unterstützt und Konzepte für ein Tutorienprogramm im neuen CA entwickelt.
   <!---To Do: Hier nur Zeilenumbruch und keine Leerzeile --->
-  Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der CNC-Fräse um diese im Selbstbau zu verwenden.
+  Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der CNC-Fräse um diese im Selbstbau zu verwenden.</p>
   </div>
 </div>
 
