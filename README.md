@@ -24,15 +24,13 @@ And you need [Yarn](https://yarnpkg.com/lang/en/docs/install)
 ```bash
 git clone https://github.com/CollegiumAcademicum/collegiumacademicum.de
 yarn install
-make local
 ```
 
 ## Compiling
 
 | Command | Function |
 | --- | --- |
-| `make publish` | Build for online deployment (into ./upload/) and upload using `lftp` |
-| `make local` | Build for local development (into ./public/)|
+| `./build.sh` | Build for online deployment (into ./upload/) and upload using `lftp` |
 
 ### Audio files
 
