@@ -67,7 +67,7 @@ ausschließlich ehrenamtlich.
 ### Spenden per Banküberweisung
 Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto.
 Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung.
-Setzen Sie sich diesbezüglich mit uns in Verbindung.
+Setzen Sie sich diesbezüglich mit uns in Verbindung, oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
 
 
 <!---ToDo: Box anpassen, Text mittig, ggf. gleiche Schriftart wie restlicher Text--->
