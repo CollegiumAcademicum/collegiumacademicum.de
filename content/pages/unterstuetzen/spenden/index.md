@@ -1,12 +1,6 @@
 ---
 title: "Spenden"
 ---
-<!---ToDo:
-- Einzug für alle Abschnitte gleich (aktuell 01.12.19 sind die Columns nicht
-auf Breite der anderen Textblöcke
-- Fotos in den Columns enden auf gleicher Höhe wie Textblöcke
-- Onlinespende sieht noch unschön aus)
-- Kontobox: neu überlegen, Text mittig im gleichen Schriftstil wie sonst. Weiße box mit gleichem Abstand zu Raendern der blauen Box--->
 
 Mit einer Spende unterstützen Sie direkt den Neubau des CA als Bildungsprojekt.
 Ganz konkret ermöglichen Sie praktische Lernräume, bei denen Studierende selbst
