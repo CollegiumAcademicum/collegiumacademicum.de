@@ -67,24 +67,18 @@ Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend
 machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 
 
-### Spenden per Banküberweisung
+### Geldspende per Banküberweisung
 Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto.
 Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung.
-Setzen Sie sich diesbezüglich mit uns in Verbindung, oder fügen Sie als
-Verwendungszweck zusätzlich ihre Adresse hinzu.
+Setzen Sie sich diesbezüglich mit uns in Verbindung (<a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>),
+oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
 
 
-<div class="message is-primary" style="text-align:left;">
-<div class="message-body">
-  Telefon: 06221-652236<br>
-  E-Mail: <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a><br>
-  <br><br>
-  Spendenkonto (nicht für Direktkredite):<br>
+<div class="notification is-primary">
   Förderverein Collegium Academicum Heidelberg e.V.<br>
-  IBAN: DE92 4306 0967 6036 6733 00<br>
+  <b>IBAN:</b> DE92 4306 0967 6036 6733 00<br>
   GLS Gemeinschaftsbank eG<br>
-  Verwendungszweck: Spende CA, Ihr Name
-</div>
+  <b>Verwendungszweck:</b> Spende CA, Ihr Name
 </div>
 
 <div class="columns">
