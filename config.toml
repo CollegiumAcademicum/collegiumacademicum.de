@@ -48,3 +48,8 @@ audio ="/:slug/"
 [mediaTypes]
   [mediaTypes."audio/mpeg3"]
   suffixes = ["mp3"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
