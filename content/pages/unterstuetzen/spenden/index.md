@@ -81,24 +81,6 @@ oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
   <b>Verwendungszweck:</b> Spende CA, Ihr Name
 </div>
 
-<div class="columns">
-    <div class="column">
-        <h2>Onlinespende</h2>
-        <p>
-        Sie können auch online spenden. Aufgrund der höheren
-        Transaktionsgebühren für den Service ist diese Option vorrangig für
-        kleinere Beträge gedacht.
-        </p>
-    </div>
-    <div class="column">
-        <form class="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="6JJ9J9UTPSKCG">
-            <input type="image" src="paypal_donate.gif" border="0" name="submit" alt="Dem Collegium Academicum über Paypal gelden spenden.">
-        </form>
-    </div>
-</div>
-
 
 Weiterhin besteht die Möglichkeit einer dauerhaften Mitgliedschaft im
 _„Förderverein Collegium Academicum Heidelberg e.V.“_. Die Satzung des
