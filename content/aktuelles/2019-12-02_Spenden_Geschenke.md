@@ -44,7 +44,7 @@ vorgesehenen Spenden von **40.000 Euro** einsammeln. Das sind 400 Personen, die 
 erstellt, der über die Arbeit des Fördervereins informiert und genau erklärt
 wofür wir die Spenden genutzt werden.
 
- Wir freuen uns über jede Spende. Gern leitet unseren Aufruf weiter!
+ Wir freuen uns über jede Spende. Leitet unseren Aufruf gerne weiter!
 
 
 
