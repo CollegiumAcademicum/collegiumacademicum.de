@@ -6,7 +6,7 @@ Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in
 Heidelberg-Rohrbach, setzt sich aus zwei Bestandsgebäuden und einem innovativen
 Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
-2020 in den Neubau einziehen.
+2021 in den Neubau einziehen.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" />}}
