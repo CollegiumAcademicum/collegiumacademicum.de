@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "November 2019"
+content = "2.000.000€ in Direktkrediten eingeworben"
+
+[[timeline]]
 heading = "Juli 2019"
 content = "<img src='spatenstich.jpg' />Symbolischer Spatenstich"
 
