@@ -85,7 +85,7 @@ geben.
     </div>
     <div class="message-body">
       <div class="message-content">
-      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 2.00 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
+      Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1.50 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
       </div>
     </div>
   </div>
