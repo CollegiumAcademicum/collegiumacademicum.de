@@ -7,7 +7,7 @@ Liebe Unterstützer*innen,
 
 pünktlich zum Start in die Vorweihnachtszeit melden wir uns bei Ihnen mit
 Neuigkeiten zurück und würden uns freuen, wenn Sie den Newsletter mit Ihrem
-Umfeld teilen würden. Heutige Themen sind:
+Umfeld teilen. Heutige Themen sind:
 
 -  Planungsfortschritt – der Baubeginn in Sichtweite
 -  Mit Ihrer Spende Bildung ermöglichen
@@ -27,9 +27,9 @@ den Abrissarbeiten werden wir im neuen Jahr mit dem Bau starten. Auf folgendem
 Bild sehen Sie den Stand der Arbeiten am 22. November.
 
 <figure>
-<img src="/newsletter/abriss_altbau.jpg" alt="Aufnahme des Abrisses des US-Hospital" title="Aufnahme des Abrisses des US-Hospital" width="50%" />
+<img src="/newsletter/abriss_altbau.jpg" alt="Aufnahme vom Abriss des US-Hospitals" title="Aufnahme vom Abriss des US-Hospitals" width="50%" />
 <figcaption style="text-align:center;">
-<p>Aufnahme des Abrisses des US-Hospital</p>
+<p>Aufnahme vom Abriss des US-Hospital</p>
 </figcaption>
 </figure>
 
@@ -80,22 +80,21 @@ vorgesehenen Spenden von 40.000 Euro einsammeln. Das sind 400 Personen, die uns
 erstellt, der über die Arbeit des Fördervereins informiert und genau erklärt
 wofür wir Ihre Spenden nutzen. Wenn Sie ein oder mehrere Exemplare des Flyers
 haben möchten, dann schicken Sie uns gerne eine Mail oder besuchen sie uns bei
-einem unserer Infostände.
-
+einem unserer Infostände.  
 Und so können Sie helfen, dass dieser Aufruf möglichst viele Menschen erreicht:
 
 - Leiten Sie diesen Newsletter weiter. Nutzen Sie dafür einfach diesen <a href="[FORWARDURL]">Link</a>.
 - Verfolgen und teilen Sie unsere aktuellen Entwicklungen auf unserer Webseite und Facebook 
 - Verteilen Sie unseren neuen Spendenflyer an Ihre Freund*innen
 
-Termine im Dezember – Kommen Sie uns besuchen!  
-Sie möchten sich mit eigenen Augen von den Fortschritten des Projekts überzeugen
-und/ oder uns persönlich begegnen? Wir möchten Sie herzlich dazu einladen, uns
-im Rahmen der folgenden Veranstaltungen zu begegnen:
+## Termine im Dezember – Kommen Sie uns besuchen!
+
+Wir möchten Sie herzlich dazu einladen, uns im Rahmen der folgenden
+Veranstaltungen zu begegnen:
 
 - __Immer mittwochs__ | 14h - 17:30 Uhr|  Treffen der AG Eigenleistung | US-Hospital, Rohrbach  
-- __Freitag, 06.12.__ | ab 17 Uhr | Offener Hof mit Verschenkemarkt, Punsch, Plätzchen und viel Musik | Plöck 93, HD-Altstadt  
-- __Sonntag, 08.12.__ | 12-18 Uhr | [Alternativer Weihnachtsmarkt](https://zukunftswerkstatt-weststadt.de/includes/index.php) | Wilhelmsplatz  
+- __Freitag, 06.12.__ | ab 17 Uhr | Offener Hof mit Verschenkemarkt, Punsch, Plätzchen und viel Musik | Plöck 93, Altstadt  
+- __Sonntag, 08.12.__ | 12-18 Uhr | [Alternativer Weihnachtsmarkt](https://zukunftswerkstatt-weststadt.de/includes/index.php) | Wilhelmsplatz, Weststadt  
 - __Sonntag, 15.12.__ | 14 h | Spaziergang über das Gelände des zukünftigen CA| US-Hospital, Rohrbach  
 
 Gemeinsam können wir Großes schaffen.
@@ -104,7 +103,7 @@ Mit herzlichen Grüßen aus Heidelberg
 Ihr CA-Team
 
 PS: Sie können das CA auch weiterhin mit Direktkrediten unterstützen. Um alte
-Direktkreditverträge abzulösen und entstandene Nebenkosten beim Kauf des Neubaus
+Direktkreditverträge abzulösen und entstandene Nebenkosten beim Kauf des Altbaus
 zu refinanzieren, sind wir weiterhin auf Ihre Unterstützung angewiesen. Je mehr
 auslaufende Direktkredite wir durch neue Unterstützer*innen austauschen können,
 desto größer ist unser Gestaltungsraum für bezahlbare Mieten und die
