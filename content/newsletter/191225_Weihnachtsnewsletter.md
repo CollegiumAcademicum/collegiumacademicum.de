@@ -1,5 +1,5 @@
 ---
-title: "Frohe Festtage und wir freuen uns auf 2020 mit Ihnen!"
+title: "Frohe Festtagswünsche und Vorfreude auf das Jahr 2020!"
 date: 2019-12-25
 ---
 
@@ -68,11 +68,11 @@ Collegium Academicum Heidelberg e.V. ist dafür eine gute Gelegenheit! Mit Ihrem
 Beitrag fördern Sie die Bildungsarbeit eines selbstverwalteten, ökologisch und
 sozial nachhaltigen Projekts in Heidelberg, welches jungen Menschen Freiräume
 und Gestaltungsmöglichkeiten bietet. Weitere Informationen finden Sie auf
-unserem [Flyer](https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf) und sowie auf unserer [Website](https://collegiumacademicum.de).
+unserem [Flyer](https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf) und sowie auf unserer [Webseite](https://collegiumacademicum.de).
 
 Ihre Spenden können Sie jederzeit ganz einfach auf unser Konto überweisen:
-Spendenkonto:
 
+Spendenkonto:  
 Förderverein Collegium Academicum Heidelberg e.V.  
 IBAN: DE92 4306 0967 6036 6733 00  
 GLS Gemeinschaftsbank eG  
@@ -85,10 +85,9 @@ Dank!
 <figure>
 <img src="/newsletter/abriss_hospital_2.jpg" alt="Aktueller Stand Abriss US-Hospital" title="Aktueller Stand Abriss US-Hospital" width="50%" />
 <figcaption style="text-align:center;">
-<p>Aktueller Stand Abriss US-Hospital</p>
+<p>Stand der Abrissarbeiten 17. Dezember 2019</p>
 </figcaption>
 </figure>
-
 
 ## Ausblick & Termine – freuen Sie sich mit uns auf das Jahr 2020!
 Und 2020? Coming soon… Baubeginn im März! Die Bauphase werden wir mit
@@ -102,6 +101,7 @@ ganz herzlich zu unseren Exkursionen im neuen Jahr ein:
 - __So., 23.02.__ | 14:00-15:30 Uhr | Spaziergang über das Gelände des zukünftigen CA | US-Hospital, Rohrbach
 - __So., 22.03.__ | 14:00-15:30 Uhr | Spaziergang über das Gelände des zukünftigen CA | US-Hospital, Rohrbach
 
+Treffpunkt ist jeweils der Zugang von der Karlsruher Straße.
 
 Zuletzt möchten wir uns noch einmal von ganzem Herzen für Ihre vielfältige
 Unterstützung in diesem Jahr bedanken. Wir wünschen Ihnen erholsame Feiertage
