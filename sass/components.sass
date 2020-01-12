@@ -145,24 +145,6 @@
         audio
             margin: 1em 0 1.5em
 
-.puzzle
-    $puzzle-row-size: 50
-    display: flex
-    flex-wrap: wrap
-    background: url(/puzzle/puzzle_bg.jpg)
-    width: 100%
-    background-size: cover
-    border-radius: $radius-large
-    .puzzle-part
-        box-shadow: -1px -1px 0px rgba($white,0.7)
-        width: 100% / $puzzle-row-size
-        padding-top: 100% / $puzzle-row-size
-        &.visible
-            background: initial
-            background: linear-gradient(to bottom right, rgba(255,255,255,0.3),rgba(0,0,0,0) 50%)
-        &.hidden
-            background: rgba($white, 0.8)
-
 //Progress
 .progress.is-large
     margin-bottom: 1.5rem
