@@ -19,7 +19,7 @@ title: "Mach Mit"
     </div>
 </div>
 
-Einen solchen Ort in Heidelberg zu verwirklichen ist unser Traum! Dazu braucht es nur viele, unterschiedliche, kreative und aktive Menschen mit Ideen!
+Einen solchen Ort in Heidelberg zu verwirklichen ist unser Traum! Dazu braucht es nur [viele, unterschiedliche, kreative und aktive Menschen](/ueber-uns) mit Ideen!
 
 Mach' auch du mit und gestalte aktiv dein Lebensumfeld!
 Lass' es drauf ankommen und geh' mit Mut in eine selbstgestaltete Zukunft!
