@@ -2,21 +2,13 @@
   <div class="section">
 
     <a href="{{ "direktkredite" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Direktkredit geben</a>
-<br>
+    <br>
     <a href="{{ "spenden" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Spenden</a>
 
     <div class="card">
-      <div class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></div>
-      <div class="card-content">
-        Die Baustelle des CAs befindet sich in Rohrbach auf dem Gelände US-Hospital
-        <a href="{{ "anfahrt" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Anfahrt</a>
-      </div>
-    </div>
-
-    <div class="card">
       <div class="card-image" style="background-image: url({{ "img/layout/baustelle.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">Exkursion</p>
+      <div class="card-content">
+          <p class="title is-3 is-marginless">Exkursionen</p>
           <p>
             Sie möchten den Fortschritt des Projekts mit eigenen Augen sehen?
             Wir laden Sie ganz herzlich zu unseren Exkursionen im neuen Jahr ein. (<a href="{{ "anfahrt" | relURL }}">Anfahrt</a>)
@@ -28,46 +20,53 @@
             <tr><td>So, 23.02</td> <td>14-15:30 Uhr</td></tr>
             <tr><td>So, 22.03</td> <td>14-15:30 Uhr</td></tr>
           </table>
-        </div>
-
       </div>
+    </div>
 
-      <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">Newsletter</p>
-          Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
-          {{ partial "newsletter-signup.html" }} <br />
-        </div>
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></div>
+      <div class="card-content">
+        Die Baustelle des CAs befindet sich in Rohrbach auf dem Gelände US-Hospital
+        <a href="{{ "anfahrt" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Anfahrt</a>
       </div>
+    </div>
 
-      <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
-          Du hast jetzt bereits Interesse daran 2020 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:
-          <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Interesse anmelden</a>
-        </div>
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <p class="title is-3 is-marginless">Newsletter</p>
+        Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
+        {{ partial "newsletter-signup.html" }} <br />
       </div>
+    </div>
 
-      <div class="card is-hidden-mobile">
-        <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
-        </div>
+    <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
+        Du hast jetzt bereits Interesse daran 2020 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:
+        <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Interesse anmelden</a>
       </div>
+    </div>
 
-      <div class="card is-hidden-mobile">
-        <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
-              <div class="card-content">
-                  <a href="{{ "zimmermodell" | relURL }}" class="button is-radiusless is-fullwidth is-link">Unser Zimmermodell</a>
-              </div>
-          </div>
-
-          <div class="box is-shadowless">
-              <a href="https://www.syndikat.org/">
-                  <img class="image" src="{{ "img/stakeholder/syndikat_big.png" | relURL }}" alt="Logo Mitshäuser Syndikat" />
-              </a>
-          </div>
+    <div class="card is-hidden-mobile">
+      <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
       </div>
+    </div>
+
+    <div class="card is-hidden-mobile">
+      <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
+      <div class="card-content">
+        <a href="{{ "zimmermodell" | relURL }}" class="button is-radiusless is-fullwidth is-link">Unser Zimmermodell</a>
+      </div>
+    </div>
+
+    <div class="box is-shadowless">
+      <a href="https://www.syndikat.org/">
+        <img class="image" src="{{ "img/stakeholder/syndikat_big.png" | relURL }}" alt="Logo Mitshäuser Syndikat" />
+      </a>
+    </div>
+  </div>
 </aside>
