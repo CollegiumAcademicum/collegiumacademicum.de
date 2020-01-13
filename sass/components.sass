@@ -10,21 +10,24 @@
         padding: 1em 1em 0 0
         +desktop
             margin-right: 9em
+        h2
+            font-size: 3rem
+            font-weight: 400
+            margin: 0 0 0 -0.2em
+            text-indent: 0.2em
+            a
+                text-decoration: none
+                color: $black
+        p
+            text-align: justify
     img
         position: absolute
         transition: 4 * $speed
         top: 2em
         right: 0
-    h2
-        font-size: 3rem
-        margin: 0
-        text-indent: 0.2em
-        a
-            text-decoration: none
-            color: $black
     &:hover
         img
-            top: 0
+            top: 1.3em
 
 // Modal
 .modal
@@ -97,6 +100,7 @@
     margin-bottom: 0.5rem
     .message-header
         cursor: pointer
+        box-shadow: 1px 1px 2px rgba(0,0,0,0.2)
     .message-body
         display: none
     &.is-active

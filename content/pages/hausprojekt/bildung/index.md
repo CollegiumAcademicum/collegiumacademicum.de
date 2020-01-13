@@ -7,18 +7,20 @@ title: "Bildung"
 Ein für Außenstehende offenes, von den Bewohnenden ausgearbeitetes, studienbegleitendes Tutoriums- und Veranstaltungsprogramm, das Studium Generale, soll die Interessen der Studierenden widerspiegeln und sich mit aktuellen gesellschaftlichen Herausforderungen auseinandersetzen. Ein differenzierter Blick auf das eigene Fach und die Aufgaben der Wissenschaft stehen ebenso im Fokus wie konkrete Fragen der Nachhaltigkeit. Dabei soll sowohl der wissenschaftliche Nachwuchs intern gefördert werden, als auch externe Vortragende aus verschiedenen Lebensbereichen zu Wort kommen.
 
 ## Propädeutikum Bildungsprogramm
+
+Eine Besonderheit stellt das Propädeutikum im Altbau dar: Zwischen Schule und Studium wird jungen Menschen ein einjähriges, fachübergreifendes Vorbereitungsstudium ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
+
 <div class="columns">
     <div class="column is-flex-middle">
-    Eine Besonderheit stellt das Propädeutikum im Altbau dar: Zwischen Schule und Studium wird jungen Menschen ein einjähriges, fachübergreifendes Vorbereitungsstudium ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
+        Ein hierfür eigens gegründeter wissenschaftlicher Beirat, bestehend aus ehemaligen und aktiven Professoren und Wissenschaftlern soll das Bildungskonzept beraten und aktiv unterstützen.
     </div>
     <div class="column">
         {{< img src="bib_schloss" alt="Ein Blick aus der Universitätsbibliothek auf das Heidelberger Schloss." attr="Margarete Over 2016" />}}
     </div>
 </div>
 
-Ein hierfür eigens gegründeter wissenschaftlicher Beirat, bestehend aus ehemaligen und aktiven Professoren und Wissenschaftlern soll das Bildungskonzept beraten und aktiv unterstützen.
 
-<div class="color-block">Bildung wird hierbei nicht nur als eine Ausbildung, sondern als Bildung von freien, mündigen Bürgern verstanden:</div>
+<div class="color-block">Bildung wird hierbei nicht nur als eine Ausbildung, sondern als Bildung von <em>freien, mündigen Bürgern</em> verstanden:</div>
 
 Über akademische Inhalte hinaus werden praktische Fähigkeiten und persönliche Entwicklung gefördert. _Projektorientiertes Lernen_ – das bietet das CA vor allem als großes, selbstverwaltetes Projekt in das jeder sich einbringt und Verantwortung übernimmt. In Werkstätten und Gemeinschaftsräume können zudem kulturelle und konkret-praktische Initiativen von Arbeits- und Projektgruppen aller Art entstehen.
 

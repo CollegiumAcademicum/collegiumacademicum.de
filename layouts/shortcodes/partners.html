@@ -1,7 +1,7 @@
 {{ range $.Site.Data.partners.partners }}
 <div class="columns">
     <div class="column is-3 is-offset-1">
-        <a href="{{ .link }}"><img class="image" src="{{ printf "/partner/%s" .img | relURL }}" /></a>
+        <a href="{{ .link }}"><img class="image" src="{{ printf "/partnerinnen/%s" .img | relURL }}" /></a>
     </div>
     <div class="column is-6 is-offset-1">
         {{ .text }}
