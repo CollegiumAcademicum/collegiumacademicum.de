@@ -49,3 +49,18 @@ You can use the following custom shortcodes in the content markdown files to get
 | `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/timeline.toml` |
 | `{{< partners >}}` | Prints the list of partners. Data can be added/edited in `data/partners.toml` |
 | `{{< hausprojekt-boxes >}}` | Outputs the menu boxes for the house projekt pages |
+
+## Various
+
+### Videos
+
+Encode videos two times as [recommended by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs):
+
+- One with MP4 and libx264 Video + AAC audio
+    ```bash
+    ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libx264 -crf 26 -c:a aac -b:a 128k output_video.mp4
+    ```
+- One with WEBM and VP8 video + Opus audio
+    ```bash
+    ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libvpx -crf 20 -c:a libopus -b:a 96k output_video.webm
+    ```
