@@ -10,7 +10,7 @@ den Abrissarbeiten werden wir im neuen Jahr mit dem Bau starten.
 
 
 <figure>
-<img src="/newsletter/gruppenbild_demonstrator.jpg" alt="Die Projektgruppe im Zimmermodell" title="Die Projektgruppe im Zimmermodell"/>
+<img src="/aktuelles/gruppenbild_demonstrator.jpg" alt="Die Projektgruppe im Zimmermodell" title="Die Projektgruppe im Zimmermodell"/>
 <figcaption style="text-align:center;">
 <p>Die Projektgruppe im Zimmermodell</p>
 </figcaption>
