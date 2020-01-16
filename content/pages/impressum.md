@@ -12,7 +12,7 @@ E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademi
 </pre>
 
 ### Vertretungsberechtigte Vorstände
-Henrik Eckhardt, Nicolai Ferchl, Eberhard Gretz, Franziska Meier
+Klara Müller, Henrik Eckhardt, Eberhard Gretz, Lisa Müller-Haude, Nils Schween
 
 ### Registereintrag
 Der Förderverein Collegium Academicum e.V. ist beim Amtsgericht Mannheim unter der VR-Nummer 101638 eingetragen.
