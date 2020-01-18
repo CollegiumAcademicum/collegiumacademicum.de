@@ -20,18 +20,22 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 16 Millionen Euro. Die genaue Kalkulation
+für den Neubau liegen bei etwa 17 Millionen Euro. Die genaue Kalkulation
 konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Weitere Details zur Architektur und zur Planung finden Sie
-[hier]({{< relref "wohnen" >}} ).
+[hier]({{< relref "wohnen" >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
+Forschung sind in der Kalkulation enthalten.
 
 ## Finanzierungsbausteine
 
-Für die Projektfinanzierung sind verschiedene Bausteine
-vorgesehen: Die Finanzierung setzt sich zusammen aus
-Fördermitteln, privaten Direktkrediten und Spenden, sowie einem von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)) gefördertem Bankkredit. Hinzu kommen Sponsoring und Eigenleistung.
+Für die Projektfinanzierung sind verschiedene Bausteine vorgesehen: Die
+Finanzierung setzt sich einerseits zusammen aus Fördermitteln, privaten
+Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen. Zudem erhalten
+wir einen von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW))
+gefördertem Bankkredit, welchen wir über die Umweltbank beantragt haben, die uns
+ebenfalls einen Kredit zur Verfügung stellt.
 
 {{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
@@ -45,22 +49,22 @@ wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
 genehmigt, welches sich aus dem [Europäischen Fonds für regionale
 Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/) (EFRE) und
-Landesmitteln finanziert. Eine weitere städtische Förderung in Höhe von 50.000
-Euro würdigt die barrierearme Planung des Wohnheims. Weitere 200.000 Euro
-städtischer Förderung für Passivhausbau stehen in Aussicht.
+Landesmitteln finanziert. Desweiteren würdigen städtische Förderungen in Höhe
+von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
+Passivhausbauweise (190.000 Euro) des Wohnheims.
 
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
-umgesetzt, mit welchem deutschlandweit bereits über 120 Projekte
+umgesetzt, mit welchem deutschlandweit bereits über ca. 150 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
-nahestehen. Die aktuelle Planung sieht vor, etwa zwei Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "direktkredite" >}}) unserer
-Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
+nahestehen. Die aktuelle Planung sieht vor, etwa zweieinhalb Millionen Euro
+an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "direktkredite" >}})
+unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
 
@@ -81,11 +85,11 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 ### Bankfinanzierung
 
-Es ist geplant, ca. 11 Millionen Euro über eine Bankfinanzierung abzudecken. Für
-den geplanten Niedrigenergiestandard KfW 40 Plus soll gemeinsam mit der
-finanzierenden Bank eine KfW Förderung umgesetzt werden. Diese Förderung besteht
-aus einer Zinsvergünstigung sowie einem annuitätsreduzierendem Tilgungszuschuss
-in Höhe von 15% des Kreditbetrags.
+Es ist geplant, ca. 12 Millionen Euro über eine Bankfinanzierung abzudecken. Für
+den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
+Umweltbank eine KfW Förderung umgesetzt. Diese Förderung besteht aus einer
+Zinsvergünstigung sowie einem annuitätsreduzierendem Tilgungszuschuss in Höhe
+von 15% des Kreditbetrags.
 
 ### Sonstiges
 
@@ -97,15 +101,15 @@ Nutzungskonzept und Modulbauweise) steht unser Vorhaben stark in der
 
 #### Eigenleistung
 
-Wir sind motiviert, Eigenleistung zu erbringen. Die Voraussetzungen,
-dass dafür auch die zukünftigen Bewohner\*innen begeistert werden
-können, sind gut, da das Projekt insgesamt auf Eigeninitiative und
-Mitarbeit ausgelegt ist und Eigenleistung explizit vorsieht. Außerdem
-sind Workcamps und eine Zusammenarbeit mit Wandergesellen
+Wir sind motiviert, Eigenleistungen zu erbringen, also Teile des Gebäudes selbst
+zu bauen. Die Voraussetzungen, dass dafür auch die zukünftigen Bewohner\*innen
+begeistert werden können, sind gut, da das Projekt insgesamt auf Eigeninitiative
+und Mitarbeit ausgelegt ist und Eigenleistung explizit vorsieht. Außerdem
+sind Workcamps und eine Zusammenarbeit mit Wandergesell\*innen
 geplant. Trotzdem ist Eigenleistung bisher entsprechend eines
 konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet. Sie
 beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
-vor allem Arbeiten im Außenbereich, Malerarbeiten, Aufbau von Möbeln
+vor allem Arbeiten im Außenbereich, Fassade, Malerarbeiten, Aufbau von Möbeln
 sowie Mitarbeit bei der Erstellung von Trennwänden. Es besteht
 folglich noch weiteres Potenzial, die Baukosten durch Eigenleistung zu
 reduzieren.
@@ -115,10 +119,10 @@ reduzieren.
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
-Bewohner\*innen beläuft sich auf 300 Euro/Monat/Zimmer. Da unser
-Projekt nicht gewinnorientiert ist und die Bewohner\*innen zugleich
-Eigentümer sein werden, können wir langfristig kostengünstige Mieten
-garantieren.
+Bewohner\*innen beläuft sich auf 300 Euro/Monat/Person. Über diese Mieten werden
+auch die großen Gemeinschaftflächen mitfinanizert. Da unser Projekt nicht
+gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
+sein werden, können wir langfristig kostengünstige Mieten garantieren.
 
 {{< img src="refinanzierung_bearbeitet" alt="Refinanzierung" style="margin: 10%" />}}
 
@@ -128,18 +132,19 @@ Fördermittel | |
 --- | ---:
 Förderprogramm "Variowohnen"" | 2,12 Millionen Euro
 Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
-Förderprogramm "Rationelle Energieverwendung" | ~0,20 Millionen Euro
+Förderprogramm "Rationelle Energieverwendung" | ~0,19 Millionen Euro
 Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
+Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,50 Millionen Euro
+Spenden | 0,15 Millionen Euro
 
 Bankfinanzierung | |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) | ~ 11,00 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 12,00 Millionen Euro
 
 Sonstiges | |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
-Gesamtinvestitionssumme | ~ 16,00 Millionen Euro
+Gesamtinvestitionssumme | ~ 17,00 Millionen Euro
