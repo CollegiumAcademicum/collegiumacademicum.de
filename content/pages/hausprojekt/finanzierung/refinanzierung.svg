@@ -1,49 +1,399 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="650pt" height="400pt" version="1.1" viewBox="0 0 650 400" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<metadata>
-<rdf:RDF>
-<cc:Work rdf:about="">
-<dc:format>image/svg+xml</dc:format>
-<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-<dc:title/>
-</cc:Work>
-</rdf:RDF>
-</metadata>
-<rect style="fill:#fcfcfc;" width="650" height="400" x="0" y="0" />
-<path d="m130.9 96.404 439.74 66.056-439.72 0.18582z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m108.75 96.402h22.209v66.208h-22.209z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m130.9 180.87 439.74 66.064-439.72 0.18582z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m108.75 180.87h22.246v66.208h-22.246z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m5.3033 36.011h125.77v46.229h-125.77z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m131.14 317.23 419.03 0.10768-419.03-51.061z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m570.8 266.13-400.57 0.014 400.57 49.5z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m570.8 265.99 72.967 49.759-72.967-0.11279z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m5.3033 266.27h125.85v50.976h-125.85z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m130.6 344.5h405.49v30.32h-405.49z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m540.2 344.5h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<g transform="translate(0,-25.5)">
-<text x="99.878098" y="150.27231" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-anchor="end" style="line-height:18.75px"><tspan x="99.878098" y="150.27231" text-align="end" style="line-height:9.75px">Bankkredit</tspan><tspan x="99.878098" y="169.02231" text-align="end" style="line-height:9.75px">aufnehmen</tspan></text>
-</g>
-<text x="99.752876" y="287.58035" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-anchor="end" style="line-height:18.75px"><tspan x="99.752876" y="287.58035" text-align="end" style="line-height:9.75px">Direktkredite</tspan><tspan x="99.752876" y="306.33035" text-align="end" style="line-height:9.75px">einwerben</tspan></text>
-<text x="99.515869" y="209.74324" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-anchor="end" style="line-height:18.75px"><tspan x="99.515869" y="209.74324" text-align="end" style="line-height:0px">KfW-Kredit</tspan><tspan x="99.515869" y="228.49324" text-align="end" style="line-height:0px">aufnehmen</tspan></text>
-<text x="99.565125" y="63.582901"><tspan x="99.565125" y="63.582901" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:0px">Förderung</tspan></text>
-<text x="228.30826" y="368.43909"><tspan x="228.30826" y="368.43909" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">Mieteinahmen</tspan></text>
-<text x="563.93585" y="284.91183" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-anchor="end" style="line-height:18.75px"><tspan x="563.93585" y="284.91183" text-align="end" style="line-height:9.75px">neue DK einwerben</tspan><tspan x="563.93585" y="303.66183" text-align="end" style="line-height:9.75px"/></text>
-<path d="m555.3 344.5h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m570.87 344.5h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<text x="165.61096" y="24.800632" fill="#161614" style="line-height:18.75px"><tspan x="165.61096" y="24.800632" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">Einzug 2019</tspan></text>
-<text x="262.05222" y="22.233833" fill="#161614" style="line-height:18.75px"><tspan x="262.05222" y="22.233833" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">…</tspan></text>
-<text x="385.72311" y="26.037748" fill="#161614" style="line-height:18.75px"><tspan x="385.72311" y="26.037748" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">2035</tspan></text>
-<text x="473.47699" y="22.460445" fill="#161614" style="line-height:18.75px"><tspan x="473.47699" y="22.460445" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">…</tspan></text>
-<text x="570.98016" y="26.070602" fill="#161614" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-anchor="end" style="line-height:18.75px"><tspan x="570.98016" y="26.070602" text-align="end" style="line-height:9.75px">2050</tspan><tspan x="570.98016" y="44.820602" text-align="end" style="line-height:9.75px"/></text>
-<g transform="matrix(.99126 0 0 1 5.1715 0)">
-<path d="m9.9657 330.65h634.26" stroke="#161614" stroke-width="1.1831"/>
-</g>
-<text x="215.82227" y="223.47701"><tspan x="215.82227" y="223.47701" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">Kredit tilgen</tspan></text>
-<text x="215.82227" y="138.81805"><tspan x="215.82227" y="138.81805" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">Kredit tilgen</tspan></text>
-<path d="m587.87 344.41h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m605.38 344.41h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<path d="m622.35 344.41h10.6v30.32h-10.6z" fill="#38a9a0" fill-rule="evenodd"/>
-<circle cx="131.07" cy="330.76" r="3.1488" fill="#fff" stroke="#161614" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
-<text x="228.11766" y="308.91025"><tspan x="228.11766" y="308.91025" fill="#fff" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75px" text-align="end" text-anchor="end" style="line-height:9.75px">DK rückzahlen</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="650pt"
+   height="400pt"
+   version="1.1"
+   viewBox="0 0 650 400"
+   id="svg644"
+   sodipodi:docname="refinanzierung.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <defs
+     id="defs648" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     id="namedview646"
+     showgrid="false"
+     inkscape:zoom="1.1813103"
+     inkscape:cx="491.90143"
+     inkscape:cy="273.49918"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg644" />
+  <metadata
+     id="metadata534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#fcfcfc;"
+     width="650"
+     height="400"
+     x="0"
+     y="0"
+     id="rect536" />
+  <path
+     id="path540"
+     d="m 108.75,96.402 h 22.209 V 162.61 H 108.75 Z m 22.15,0.002 439.74,66.056 -439.72,0.18582 z"
+     style="fill:#38a9a0;fill-opacity:1" />
+  <path
+     id="path544"
+     d="m 108.75,180.87 h 22.246 v 66.208 H 108.75 Z m 22.15,0 439.74,66.064 -439.72,0.18582 z"
+     style="fill:#38a9a0;fill-opacity:1" />
+  <path
+     d="m5.3033 36.011h125.77v46.229h-125.77z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path546" />
+  <path
+     id="path552"
+     d="m 570.8,265.99 72.967,49.759 -72.967,-0.11279 z m 0,0.14 -400.57,0.014 400.57,49.5 z"
+     style="fill:#38a9a0;fill-opacity:1" />
+  <path
+     id="path554"
+     d="m 5.3033,266.27 h 125.85 v 50.976 H 5.3033 Z m 125.8367,50.96 419.03,0.10768 -419.03,-51.061 z"
+     style="fill:#38a9a0;fill-opacity:1" />
+  <path
+     d="m130.6 344.5h405.49v30.32h-405.49z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path556" />
+  <path
+     d="m540.2 344.5h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path558" />
+  <g
+     transform="translate(0,-25.5)"
+     id="g566">
+    <text
+       x="99.878098"
+       y="150.27231"
+       fill="#161614"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-anchor="end"
+       style="line-height:18.75px"
+       id="text564">
+      <tspan
+         x="99.878098"
+         y="150.27231"
+         text-align="end"
+         style="line-height:9.75px"
+         id="tspan560">Bankkredit</tspan>
+      <tspan
+         x="99.878098"
+         y="169.02231"
+         text-align="end"
+         style="line-height:9.75px"
+         id="tspan562">aufnehmen</tspan>
+    </text>
+  </g>
+  <text
+     x="99.752876"
+     y="287.58035"
+     fill="#fff"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     stroke-width=".75px"
+     text-anchor="end"
+     style="line-height:18.75px"
+     id="text572">
+    <tspan
+       x="99.752876"
+       y="287.58035"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan568">Direktkredite</tspan>
+    <tspan
+       x="99.752876"
+       y="306.33035"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan570">einwerben</tspan>
+  </text>
+  <text
+     x="99.515869"
+     y="209.74324"
+     fill="#161614"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     stroke-width=".75px"
+     text-anchor="end"
+     style="line-height:18.75px"
+     id="text578">
+    <tspan
+       x="99.515869"
+       y="209.74324"
+       text-align="end"
+       style="line-height:0px"
+       id="tspan574">KfW-Kredit</tspan>
+    <tspan
+       x="99.515869"
+       y="228.49324"
+       text-align="end"
+       style="line-height:0px"
+       id="tspan576">aufnehmen</tspan>
+  </text>
+  <text
+     x="99.565125"
+     y="63.582901"
+     id="text582">
+    <tspan
+       x="99.565125"
+       y="63.582901"
+       fill="#fff"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:0px"
+       id="tspan580">Förderung</tspan>
+  </text>
+  <text
+     x="228.30826"
+     y="368.43909"
+     id="text586">
+    <tspan
+       x="228.30826"
+       y="368.43909"
+       fill="#fff"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan584">Mieteinahmen</tspan>
+  </text>
+  <text
+     x="563.93585"
+     y="284.91183"
+     fill="#fff"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     stroke-width=".75px"
+     text-anchor="end"
+     style="line-height:18.75px"
+     id="text592">
+    <tspan
+       x="563.93585"
+       y="284.91183"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan588">neue DK einwerben</tspan>
+    <tspan
+       x="563.93585"
+       y="303.66183"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan590" />
+  </text>
+  <path
+     d="m555.3 344.5h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path594" />
+  <path
+     d="m570.87 344.5h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path596" />
+  <text
+     x="165.61096"
+     y="24.800632"
+     style="line-height:18.75px;fill:#161614"
+     id="text600">
+    <tspan
+       x="165.61096"
+       y="24.800632"
+       font-size="14px"
+       text-align="end"
+       style="font-size:14px;line-height:9.75px;font-family:'Source Sans Pro';text-align:end;text-anchor:end;fill:#161614;stroke-width:0.75px"
+       id="tspan598">Einzug 2021</tspan>
+  </text>
+  <text
+     x="262.05222"
+     y="22.233833"
+     fill="#161614"
+     style="line-height:18.75px"
+     id="text604">
+    <tspan
+       x="262.05222"
+       y="22.233833"
+       fill="#161614"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan602">…</tspan>
+  </text>
+  <text
+     x="385.72311"
+     y="26.037748"
+     fill="#161614"
+     style="line-height:18.75px"
+     id="text608">
+    <tspan
+       x="385.72311"
+       y="26.037748"
+       fill="#161614"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan606">2035</tspan>
+  </text>
+  <text
+     x="473.47699"
+     y="22.460445"
+     fill="#161614"
+     style="line-height:18.75px"
+     id="text612">
+    <tspan
+       x="473.47699"
+       y="22.460445"
+       fill="#161614"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan610">…</tspan>
+  </text>
+  <text
+     x="570.98016"
+     y="26.070602"
+     fill="#161614"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     stroke-width=".75px"
+     text-anchor="end"
+     style="line-height:18.75px"
+     id="text618">
+    <tspan
+       x="570.98016"
+       y="26.070602"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan614">2050</tspan>
+    <tspan
+       x="570.98016"
+       y="44.820602"
+       text-align="end"
+       style="line-height:9.75px"
+       id="tspan616" />
+  </text>
+  <g
+     transform="matrix(.99126 0 0 1 5.1715 0)"
+     id="g622">
+    <path
+       d="m9.9657 330.65h634.26"
+       stroke="#161614"
+       stroke-width="1.1831"
+       id="path620" />
+  </g>
+  <text
+     x="215.82227"
+     y="223.47701"
+     id="text626">
+    <tspan
+       x="215.82227"
+       y="223.47701"
+       fill="#fff"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan624">Kredit tilgen</tspan>
+  </text>
+  <text
+     x="215.82227"
+     y="138.81805"
+     id="text630">
+    <tspan
+       x="215.82227"
+       y="138.81805"
+       fill="#fff"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan628">Kredit tilgen</tspan>
+  </text>
+  <path
+     d="m587.87 344.41h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path632" />
+  <path
+     d="m605.38 344.41h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path634" />
+  <path
+     d="m622.35 344.41h10.6v30.32h-10.6z"
+     fill="#38a9a0"
+     fill-rule="evenodd"
+     id="path636" />
+  <circle
+     cx="131.07"
+     cy="330.76"
+     r="3.1488"
+     fill="#fff"
+     stroke="#161614"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="1.125"
+     id="circle638" />
+  <text
+     x="228.11766"
+     y="308.91025"
+     id="text642">
+    <tspan
+       x="228.11766"
+       y="308.91025"
+       fill="#fff"
+       font-family="'Source Sans Pro'"
+       font-size="14px"
+       stroke-width=".75px"
+       text-align="end"
+       text-anchor="end"
+       style="line-height:9.75px"
+       id="tspan640">DK rückzahlen</tspan>
+  </text>
 </svg>
