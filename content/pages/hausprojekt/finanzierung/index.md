@@ -124,7 +124,7 @@ auch die großen Gemeinschaftflächen mitfinanizert. Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren.
 
-{{< img src="refinanzierung_bearbeitet" alt="Refinanzierung" style="margin: 10%" />}}
+{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
 
 ## Die Zahlen auf einen Blick
 
