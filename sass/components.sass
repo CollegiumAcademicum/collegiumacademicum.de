@@ -47,6 +47,8 @@
             height: 120px
     .modal-content
         overflow-x: hidden
+        +desktop
+            width: 900px
 .modal-figure
     background-color: $secondary
     .modal-button
@@ -58,6 +60,10 @@
             mix-blend-mode: screen
             filter: grayscale(100%)
             -webkit-filter: grayscale(100%)
+.modal-background
+    filter: grayscale(100%)
+    background-color: rgba(0,0,0,0.7)
+
 // The grid of supporter and team quotes
 .modalgrid
     &.columns:not(:first-child)
