@@ -41,8 +41,8 @@
      id="namedview737"
      showgrid="false"
      inkscape:zoom="1.2685614"
-     inkscape:cx="283.89745"
-     inkscape:cy="376.91547"
+     inkscape:cx="227.29756"
+     inkscape:cy="338.00131"
      inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
@@ -1063,7 +1063,7 @@
        transform="translate(-218.11032,92.813872)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.94675636px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.70353335;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.94675636px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.70353335"
          x="614.76245"
          y="122.48479"
          id="text1873"><tspan
@@ -1071,12 +1071,12 @@
            id="tspan1871"
            x="614.76245"
            y="122.48479"
-           style="stroke-width:0.70353335;fill:#3f3f3f;fill-opacity:1;">2,65</tspan></text>
+           style="fill:#3f3f3f;fill-opacity:1;stroke-width:0.70353335;-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2,15</tspan></text>
     </g>
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g265"
-       transform="translate(-201.53059,92.813872)">
+       transform="translate(-198.53059,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1088,7 +1088,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g269"
-       transform="translate(-201.53059,92.813872)">
+       transform="translate(-198.53059,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1100,7 +1100,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g273"
-       transform="translate(-201.53059,92.813872)">
+       transform="translate(-198.53059,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1112,7 +1112,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g277"
-       transform="translate(-201.53059,92.813872)">
+       transform="translate(-198.53059,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1124,7 +1124,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g285"
-       transform="translate(-201.53059,92.813872)">
+       transform="translate(-198.53059,92.813872)">
       <use
          height="100%"
          width="100%"
