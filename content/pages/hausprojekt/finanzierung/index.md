@@ -62,7 +62,7 @@ Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
-nahestehen. Die aktuelle Planung sieht vor, etwa zweieinhalb Millionen Euro
+nahestehen. Die aktuelle Planung sieht vor, etwa zwei Millionen Euro
 an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
@@ -137,7 +137,7 @@ Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,50 Millionen Euro
+Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
 Spenden | 0,15 Millionen Euro
 
 Bankfinanzierung | |
