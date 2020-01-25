@@ -46,9 +46,16 @@
             width: 120px
             height: 120px
     .modal-content
+        scrollbar-color: $primary $white
+        scrollbar-width: thin
         overflow-x: hidden
+        padding-bottom: 4em
         +desktop
             width: 900px
+        figure
+            margin: 0 0 1em 0
+        figure:last-child
+            margin-bottom: 4em
 .modal-figure
     background-color: $secondary
     .modal-button
