@@ -53,10 +53,13 @@
                     src="" data-src="{{ $image_medium.RelPermalink }}"
                     srcset="" data-srcset="{{ $srcset }}"
                     class="image"/>
-                {{ if or (.Get "alt") (.Get "attr")}}
+                {{ if or (.Get "alt") (.Get "attr") (.Get "desc")}}
                 <figcaption>
                     {{ with .Get "alt"}}
                     <span>{{.}}</span>
+                    {{ end }}
+                    {{ with .Get "desc"}}
+                    <p>{{. | markdownify }}</p>
                     {{ end }}
                     {{ with .Get "attr"}}
                         <cite>© {{.}}</cite>
