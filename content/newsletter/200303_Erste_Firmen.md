@@ -87,17 +87,18 @@ kann sich gerne bei uns melden. Wir freuen uns über jede helfende Hand!
 <div style="display:flex; justify-content:center;">
 	<div style="margin-right: 1em; flex-basis:40%;">
 	<img src="/newsletter/gruppenfoto_cnc_fraese.jpg" alt="Gruppenfoto vor der Holzfräse" title="Gruppenfoto vor der Holzfräse" width="100%" />
-	<p style="margin-bottom: 0; color: gray">Einweisung in die Arbeit mit der CNC-Fräse Ende Januar ( &copy; Uli Hillenbrand) und unser erster selbstgefertigter Schreibtisch.</p>
+	<p style="margin-bottom: 0; color: gray">Einweisung in die Arbeit mit der CNC-Fräse Ende Januar <br />( &copy; Uli Hillenbrand) .</p>
 	</div>
 	<div style="flex-basis:40%;">
 		<img src="/newsletter/erster_selbstgebauter_schreibtisch.jpg" alt="Erster selbstgebauter Schreibtisch" title="Erster selbstgebauter Schreibtisch" width="100%" />
+		<p style="margin-bottom: 0; color: gray">Unser erster selbstgefertigter Schreibtisch</p>		
 	</div>
 </div>
 
 ## Termine – wir freuen uns auf Sie!
 
-- __So., 22.03.__ | 14:00-15:30 Uhr | Spaziergang über das Gelände des zukünftigen CA | US-Hospital, Rohrbach
-- __Save-the-date__ | April | Workcamp und offener Möbelbau (nähere Informationen folgen) | US-Hospital, Rohrbach
+- __So., 22.03.__   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;| 14:00-15:30 Uhr | Spaziergang über das Gelände des zukünftigen CA | US-Hospital, Rohrbach
+- __Save-the-date__ | April &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Workcamp und offener Möbelbau (nähere Informationen folgen) | US-Hospital, Rohrbach
 
 Treffpunkt ist jeweils der Zugang von der Karlsruher Straße. Eine Anmeldung ist nicht erforderlich.  
 
