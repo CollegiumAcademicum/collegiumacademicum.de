@@ -14,7 +14,7 @@ bilden und engagieren. Dabei ist der Förderverein Bindeglied zwischen den
 Generationen und ermöglicht Erfahrungsaustausch. Der Verein in der Plöck 93 ist Nachfolger des [alten CA](/geschichte), das von 1945 bis 1978 in der Seminarstraße 2 existierte.
 
 Wir sind eine motivierte, engagierte und offene Gruppe. Wir verstehen uns als Gestalter\*innen und Ermöglicher\*innen
-des zukünftigen Wohnheims und [laden alle Interessierten ein]({{< relref "mach-mit" >}}), sich mit uns an diese Aufgabe zu wagen. [Unser Leitbild]({{< relref "unser-leitbild" >}}) fasst unsere Grundsätze für das Zusammenleben und unsere Ziele zusammen.
+des zukünftigen Wohnheims und [laden alle Interessierten ein]({{< relref "/pages/unterstuetzen/mach-mit" >}}), sich mit uns an diese Aufgabe zu wagen. [Unser Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) fasst unsere Grundsätze für das Zusammenleben und unsere Ziele zusammen.
 
 Der Fokus des neuen CA liegt auf der Bildung, denn wir sind überzeugt,
 dass Bildung die Grundlage einer funktionierenden und offenen
