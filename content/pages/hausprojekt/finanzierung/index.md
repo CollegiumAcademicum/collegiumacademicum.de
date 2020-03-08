@@ -25,7 +25,7 @@ konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Weitere Details zur Architektur und zur Planung finden Sie
-[hier]({{< relref "wohnen" >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
+[hier]({{< relref "/pages/hausprojekt/wohnen"  >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
 Forschung sind in der Kalkulation enthalten.
 
 ## Finanzierungsbausteine
@@ -63,19 +63,19 @@ Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
 nahestehen. Die aktuelle Planung sieht vor, etwa zwei Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "direktkredite" >}})
+an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
 
 <div class="buttons is-centered">
-    <a href="{{< relref "direktkredite" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
         <span>Direktkredite</span>
     </a>
-    <a href="{{< relref "spenden" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
@@ -97,7 +97,7 @@ von 15% des Kreditbetrags.
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
 Nutzungskonzept und Modulbauweise) steht unser Vorhaben stark in der
-Öffentlichkeit. Eine Übersicht der [Pressebeiträge]({{< relref "presse">}}) findet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
+Öffentlichkeit. Eine Übersicht der [Pressebeiträge]({{< relref "/pages/presse-links/presse">}}) findet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
 
 #### Eigenleistung
 
