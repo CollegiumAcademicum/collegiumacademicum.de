@@ -4,9 +4,9 @@ title: "Einziehen"
 
 {{< zimmer-video >}}
 
-Nicht mehr lange und es ist soweit: wir stehen kurz vor Beginn des Baus unseres Studierendenwohnheims. 2019 wird es fertig gestellt sein. Ein Wohnheim wird aber erst zu einem Wohnheim, durch die vielen Menschen die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten.
+Nicht mehr lange und es ist soweit: wir stehen kurz vor Beginn des Baus unseres Studierendenwohnheims. 2021 wird es fertig gestellt sein. Ein Wohnheim wird aber erst zu einem Wohnheim, durch die vielen Menschen die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten.
 
-Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du in 2019 ein Studium in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
+Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du in 2021 ein Studium in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
 
 {{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
 
