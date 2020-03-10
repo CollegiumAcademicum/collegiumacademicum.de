@@ -20,11 +20,13 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 17 Millionen Euro. Die genaue Kalkulation
+für den Neubau liegen bei etwa 18 Millionen Euro. Die genaue Kalkulation
 konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
-die Baunebenkosten. Weitere Details zur Architektur und zur Planung finden Sie
+die Baunebenkosten. Für den Großteil der Bauleistungen sind bereits
+Beauftragungen erteilt worden, sodass wir über eine große Kostensicherheit
+verfügen. Weitere Details zur Architektur und zur Planung finden Sie
 [hier]({{< relref "/pages/hausprojekt/wohnen"  >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
 Forschung sind in der Kalkulation enthalten.
 
@@ -62,7 +64,7 @@ Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
-nahestehen. Die aktuelle Planung sieht vor, etwa zwei Millionen Euro
+nahestehen. Die aktuelle Planung sieht vor, etwa 2,3 Millionen Euro
 an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
@@ -137,8 +139,8 @@ Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,00 Millionen Euro
-Spenden | 0,15 Millionen Euro
+Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,30 Millionen Euro
+Spenden | 0,16 Millionen Euro
 
 Bankfinanzierung | |
 --- | ---:
@@ -147,4 +149,4 @@ KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 12,00 Mi
 Sonstiges | |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
-Gesamtinvestitionssumme | ~ 17,00 Millionen Euro
+Gesamtinvestitionssumme | ~ 18,00 Millionen Euro

@@ -40,9 +40,9 @@
      inkscape:window-height="1061"
      id="namedview737"
      showgrid="false"
-     inkscape:zoom="1.2685614"
-     inkscape:cx="227.29756"
-     inkscape:cy="338.00131"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="530.72295"
+     inkscape:cy="185.22825"
      inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
@@ -756,17 +756,17 @@
        id="path145" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#3f3f3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 277.37015,212.3334 43.80078,-15.59765 c 0,-0.1211 0,-0.1211 0.11719,-0.1211 h 5.16015 v 0.96094 h -5.16015 l 0.12109,-0.12109 -43.80078,15.59765 z m 0,0"
        id="path147" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#3f3f3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 391.24905,342.29434 22.80079,-9.24219 c 0,-0.11719 0.12109,-0.11719 0.12109,-0.11719 h 5.27734 v 0.95703 h -5.27734 l 0.23828,-0.11718 -22.91797,9.23828 z m 0,0"
        id="path149" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#3f3f3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 382.85062,463.85293 26.16015,7.5625 -0.12109,-0.12109 h 5.28125 v 0.96094 h -5.28125 c 0,0 0,0 -0.12109,0 l -26.16016,-7.5625 z m 0,0"
        id="path151" />
     <g
@@ -1023,118 +1023,6 @@
     </g>
     <g
        style="fill:#3f3f3f;fill-opacity:1"
-       id="g241"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-13"
-         x="591.23834"
-         y="122.27591"
-         id="use243" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g245"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-14"
-         x="598.54175"
-         y="122.27591"
-         id="use247" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g249"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-15"
-         x="606.98132"
-         y="122.27591"
-         id="use251" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g257"
-       transform="translate(-218.11032,92.813872)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.94675636px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.70353335"
-         x="614.76245"
-         y="122.48479"
-         id="text1873"><tspan
-           sodipodi:role="line"
-           id="tspan1871"
-           x="614.76245"
-           y="122.48479"
-           style="fill:#3f3f3f;fill-opacity:1;stroke-width:0.70353335;-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2,15</tspan></text>
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g265"
-       transform="translate(-198.53059,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-17"
-         x="625.64563"
-         y="122.27591"
-         id="use267" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g269"
-       transform="translate(-198.53059,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-2"
-         x="637.33118"
-         y="122.27591"
-         id="use271" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g273"
-       transform="translate(-198.53059,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-18"
-         x="641.22632"
-         y="122.27591"
-         id="use275" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g277"
-       transform="translate(-198.53059,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-15"
-         x="649.99048"
-         y="122.27591"
-         id="use279" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g285"
-       transform="translate(-198.53059,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-19"
-         x="657.45624"
-         y="122.27591"
-         id="use287" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
        id="g289"
        transform="translate(-218.11032,92.813872)">
       <use
@@ -1276,114 +1164,6 @@
          x="723.80396"
          y="230.04233"
          id="use335" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g341"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-16"
-         x="649.32501"
-         y="250.31343"
-         id="use343" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g345"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-24"
-         x="657.43994"
-         y="250.31343"
-         id="use347" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g349"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-25"
-         x="661.49744"
-         y="250.31343"
-         id="use351" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g353"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-26"
-         x="669.45007"
-         y="250.31343"
-         id="use355" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g361"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-17"
-         x="680.81097"
-         y="250.31343"
-         id="use363" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g365"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-2"
-         x="692.65881"
-         y="250.31343"
-         id="use367" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g369"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-18"
-         x="696.55396"
-         y="250.31343"
-         id="use371" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g373"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-15"
-         x="705.31812"
-         y="250.31343"
-         id="use375" />
-    </g>
-    <g
-       style="fill:#3f3f3f;fill-opacity:1"
-       id="g381"
-       transform="translate(-218.11032,92.813872)">
-      <use
-         height="100%"
-         width="100%"
-         xlink:href="#glyph0-19"
-         x="712.62152"
-         y="250.31343"
-         id="use383" />
     </g>
     <g
        style="fill:#3f3f3f;fill-opacity:1"
@@ -1736,7 +1516,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g517"
-       transform="translate(-218.11032,92.813872)">
+       transform="translate(-210.59228,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1748,7 +1528,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g521"
-       transform="translate(-218.11032,92.813872)">
+       transform="translate(-210.59228,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1760,7 +1540,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g525"
-       transform="translate(-218.11032,92.813872)">
+       transform="translate(-210.59228,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1772,7 +1552,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g529"
-       transform="translate(-218.11032,92.813872)">
+       transform="translate(-210.59228,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -1784,7 +1564,7 @@
     <g
        style="fill:#3f3f3f;fill-opacity:1"
        id="g537"
-       transform="translate(-218.11032,92.813872)">
+       transform="translate(-210.59228,92.813872)">
       <use
          height="100%"
          width="100%"
@@ -2236,5 +2016,39 @@
          y="386.75806"
          id="use731" />
     </g>
+    <g
+       style="fill:#3f3f3f;fill-opacity:1"
+       id="g509-3"
+       transform="translate(-210.05753,92.81488)">
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#glyph0-32"
+         x="674.65985"
+         y="416.88068"
+         id="use511-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="431.43579"
+       y="340.37579"
+       id="text4968"><tspan
+         sodipodi:role="line"
+         id="tspan4966"
+         x="431.43579"
+         y="340.37579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.20000076px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#3f3f3f;fill-opacity:1;stroke-width:0.75">2,93 Mio. €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="366.76056"
+       y="212.93942"
+       id="text4968-7"><tspan
+         sodipodi:role="line"
+         x="366.76056"
+         y="212.93942"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.20000076px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#3f3f3f;fill-opacity:1;stroke-width:0.75"
+         id="tspan5793">ca. 2,46 Mio. €</tspan></text>
   </g>
 </svg>
