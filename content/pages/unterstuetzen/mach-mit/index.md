@@ -24,6 +24,10 @@ Einen solchen Ort in Heidelberg zu verwirklichen ist unser Traum! Dazu braucht e
 Mach' auch du mit und gestalte aktiv dein Lebensumfeld!
 Lass' es drauf ankommen und geh' mit Mut in eine selbstgestaltete Zukunft!
 
-Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns **jeden Mittwoch um 18:00 Uhr in der Sandgasse 7**
+Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns ~~**jeden Mittwoch um 18:00 Uhr in der Sandgasse 7**~~
+
+<div class="notification is-secondary">
+    Unter der aktuellen Lage finden momentan, auf unbestimmte Zeit, keine Gruppentreffen statt. Möchtest du uns kontaktieren schreibe uns unter <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>.
+</div>
 
 ## Wir freuen uns auf Dich!
