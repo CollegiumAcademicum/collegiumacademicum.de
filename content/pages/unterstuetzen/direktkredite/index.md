@@ -5,7 +5,7 @@ novoigl: yes
 
 <div class="columns">
   <div class="column">
-    Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen, selbstbestimmtes Lernen und Leben in Heidelberg. Für über 200 junge Menschen ensteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung um eigene Potenziale zu entdecken, einen Raum um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+    Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen, selbstbestimmtes Lernen und Leben in Heidelberg. Für über 200 junge Menschen entsteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
   </div>
   <div class="column">
     {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
@@ -21,18 +21,18 @@ novoigl: yes
     </a>
 </div>
 
-Ihr Direktkredit leistet einen Beitrag jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
+Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 
-Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass durch seine Holzkonstruktion ein Leuchturm im Bereich Nachhaltigkeit sein wird und dessen Nutzungskonzept zum Leben im Stadteil Rohrbach beitragen wird.
+Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich Nachhaltigkeit sein wird und dessen Nutzungskonzept zum Leben im Stadtteil Rohrbach beiträgt.
 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
 ## Aktueller Stand
 
-Es ist uns gelungen die **2.000.000 EUR** (09. Nov. 2019) Direktkredite
+Es ist uns gelungen **2.000.000 EUR** (09. Nov. 2019) Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen.
+Projekts gebracht haben und bringen werden.
 
 <!-- <progress class="progress is-large is-primary" value="2000" max="2000">2.000.000€</progress> -->
 
@@ -43,7 +43,7 @@ Direktkrediten im Verhältnis zur Bankfinanzierung ist, desto größer ist unser
 Gestaltungsraum für bezahlbare Mieten und die erfolgreiche Umsetzung unseres
 Vorhabens.
 
-Wir freuen uns deshalb sehr über weitere Unterstützung. Lesen Sie im Folgenden
+Wir freuen uns deshalb sehr über weitere Unterstützung. Lesen Sie im Folgenden,
 warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu
 geben.
 
@@ -54,7 +54,7 @@ geben.
     </div>
     <div class="message-body">
       <div class="message-content">
-        <p>Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.</p>
+        <p>Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.</p>
         <div class="notification is-primary">Mit einem Direktkredit bei uns haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.</div>
       </div>
     </div>
@@ -68,11 +68,11 @@ geben.
       <div class="columns">
         <div class="column">
         <h3>Sofort-Direktkredit</h3>
-        Sofort-Direktkredite stehen uns unmittelbar zur Verfügung. Damit können wir wichtige externen Planungsleistungen und Genehmigungen finanzieren. Diese Initialfinanzierung ist entscheidend für den Erfolg des Projekts. Ohne Sofort-Direktkredite ist eine Umsetzung des Projektes nicht möglich.
+        Sofort-Direktkredite stehen uns unmittelbar zur Verfügung. Damit können wir wichtige externe Planungsleistungen und Genehmigungen finanzieren. Diese Initialfinanzierung ist entscheidend für den Erfolg des Projekts. Ohne Sofort-Direktkredite ist eine Umsetzung des Projektes nicht möglich.
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-		Zur Zeit gibt es diese Möglichkeit leider nicht.
+		Zurzeit gibt es diese Möglichkeit leider nicht.
         <!-- Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen. -->
         </div>
       </div>
@@ -105,7 +105,7 @@ geben.
     </div>
     <div class="message-body">
       <div class="message-content">
-      Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Du bist daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhältst du auf Wunsch eine Bescheinigung über die Zinseinnahmen.
+      Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Sie sind daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhalten Sie auf Wunsch eine Bescheinigung über die Zinseinnahmen.
       </div>
     </div>
   </div>
@@ -126,7 +126,7 @@ geben.
     <div class="message-body">
       <div class="message-content">
         <ul>
-          <li>Schreiben Sie uns eine E-Mail
+          <li>Schreiben Sie uns eine E-Mail an:
             <pre><a href="mailto:direktkredit@collegiumacademicum.de">direktkredit@collegiumacademicum.de</a></pre>
           </li>
           <li>Auf dem Postweg
@@ -136,7 +136,7 @@ Plöck 93
           </li>
           <li>Einfach anrufen
             <pre>06221-652236</pre>
-            <p>Bitte beachten Sie, dass wir nicht jeder Zeit erreichbar sein können. Versuchen sie es im Zweifel einfach später noch einmal.</p>
+            <p>Bitte beachten Sie, dass wir nicht jederzeit erreichbar sein können. Versuchen Sie es im Zweifel einfach später noch einmal.</p>
           </li>
         </ul>
       </div>

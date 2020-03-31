@@ -1,0 +1,148 @@
+---
+title: "Direktkredit geben"
+novoigl: yes
+---
+<form method="POST" action="form_direktkredit.php" name="dk-form" onsubmit="return validateDKForm();">
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <p>Vous pouvez soutenir le CA avec un prêt direct fiduciaire ou un prêt direct immédiat. Il est également possible de combiner les deux en divisant le montant entre les deux options.
+_Les crédits directs fiduciaires ne sont plus disponibles à l'heure actuelle. Ils le seront probablement de nouveau lors du financement de la rénovation des bâtiments administratifs._
+Si vous nous laissez vos coordonnées, nous serons heureux de vous contacter personnellement et de vous envoyer les documents appropriés par e-mail.  _Nos contrats sont en allemand, mais une version traduite peut-être envoyée sur demande._  Étant donné que nous avons différents contrats pour des montants inférieurs à 5.000 euros et supérieurs à 5.000 euros, il est important d'indiquer le montant souhaité. Vous trouverez de plus amples informations sur les prêts directs en détail dans notre <a href="/docs/ca_flyer_direktkredite.pdf">fiche d'information</a> sur les prêts directs (_en allemand_). Si vous avez d'autres questions concernant un prêt direct ou notre projet, n'hésitez pas à nous contacter - par <a href="mailto:direktkredite@collegiumacademicum.de">E-Mail</a> ou par téléphone au 0049 6221-652236.
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label">
+            <label class="label">Crédit direct fiduciaire</label>
+        </div>
+        <div class="field-body">
+            <div class="field" id="field_treuhand">
+                <div class="control">
+                    <label class="checkbox">
+                        <input type="checkbox" name="treuhand_check">
+                        est initialement géré par un fiduciaire jusqu'au moment de l'achat du terrain. Les prêts directs fiduciaires sont importants pour le financement global du projet.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Eine der Varianten muss ausgewählt werden.</p>
+            </div>
+        </div>
+    </div>
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-right">
+                    <input class="input is-success" type="number" name="treuhand_value" placeholder="Montant" value="">
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-euro-sign"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label">
+            <label class="label">Crédit direct immédiat</label>
+        </div>
+        <div class="field-body">
+            <div class="field" id="field_sofort">
+                <div class="control">
+                    <label class="checkbox">
+                        <input type="checkbox" name="sofort_check">
+                        nous est immédiatement disponible. Cela nous permet de financer d'importants éléments de la planification. Ce financement initial est crucial pour la réussite du projet. Sans crédits directs immédiats, il ne serait pas possible de mettre en œuvre le projet.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Eine der Varianten muss ausgewählt werden.</p>
+            </div>
+        </div>
+    </div>
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-right">
+                    <input class="input is-success" type="number" name="sofort_value" placeholder="Montant" value="">
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-euro-sign"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"><label class="label">Nom</label></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-left has-icons-right">
+                    <input class="input" type="text" name="name" placeholder="Votre nom" value="" required>
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-signature"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"><label class="label">Email</label></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-left has-icons-right">
+                    <input class="input" type="email" name="Courriel" placeholder="Adresse e-mail" value="" required>
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-envelope"></i>
+                    </span>
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-exclamation-triangle"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control">
+                    <label class="checkbox">
+                        <input class="is-danger" type="checkbox" name="gdpr" required>
+                        Je confirme que des informations sur les crédits directs pour le Collegium Academicum peuvent m'être envoyées.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Veuillez confirmer ce champ.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control">
+                    <button class="button is-primary" type="submit">
+                        Envoyer
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="field is-horizontal">
+    <div class="field-label"></div>
+    <div class="field-body">
+        <p class="is-italic">Merci pour votre soutien et pour votre confiance!</p>
+    </div>
+</div>
+<div class="field is-horizontal">
+    <div class="field-label"></div>
+    <div class="field-body">
+        {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
+    </div>
+</div>
+
+</form>
