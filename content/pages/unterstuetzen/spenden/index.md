@@ -17,7 +17,7 @@ Aktuell suchen wir insbesondere gut erhaltene Möbelspenden zur Einrichtung der
 Zimmer und Gemeinschaftsflächen. Nehmen Sie bei Interesse gerne Kontakt zu uns
 auf.
 
-Alle weitere Informationen finden Sie auch auf unserem Spendenflyer, den Sie
+Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
 <a href="/docs/2019_spenden_flyer.pdf">hier</a> herunterladen können.
 
 <div class="columns">
@@ -27,8 +27,8 @@ Alle weitere Informationen finden Sie auch auf unserem Spendenflyer, den Sie
     Heidelberg e.V.“ möglich. Dieser verfolgt das Ziel, fachübergreifende
     Bildung zu fördern. Die Mitglieder des Vereins sind überwiegend ehemalige
     Kollegiat*innen, Mitglieder der Projektgruppe und Förderer des Projekts, die
-    gemeinsam in geistiger wie in materieller Hinsicht Freiräume schaffen für
-    junge Menschen.
+    gemeinsam in geistiger wie in materieller Hinsicht Freiräume für
+    junge Menschen schaffen.
     </p>
   </div>
   <div class="column">
@@ -49,7 +49,7 @@ Alle weitere Informationen finden Sie auch auf unserem Spendenflyer, den Sie
     im neuen CA entwickelt.
     <br>
     Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der
-    CNC-Fräse um diese im Selbstbau zu verwenden.
+    CNC-Fräse, um diese im Selbstbau zu verwenden.
     </p>
   </div>
 </div>
@@ -64,7 +64,7 @@ machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 ### Geldspende per Banküberweisung
 Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto.
 Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung.
-Setzen Sie sich diesbezüglich mit uns in Verbindung (<a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>),
+Setzen Sie sich diesbezüglich mit uns in Verbindung (<a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>)
 oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
 
 

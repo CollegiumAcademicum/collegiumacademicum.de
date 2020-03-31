@@ -6,10 +6,10 @@ slug: "ueber-uns"
 {{< quotes source="team" size="2" iconsize="256" >}}
 
 Wir sind eine Gruppe junger Menschen, die zusammen in einer Projektgruppe
-den Neubau des Collegium Academicums planen. Die Gruppe und die Idee für Projekt ist
+den Neubau des Collegium Academicums planen. Die Gruppe und die Idee für das Projekt sind
 aus der selbstverwalteten Hausgemeinschaft in der Plöck 93 entstanden. Das Haus wird
 seit 1985 vom Förderverein Collegium Academicum e.V.[^1] betrieben, um
-Studierenden die Möglichkeit zu geben sich über ihr Studium hinaus zu
+Studierenden die Möglichkeit zu geben, sich über ihr Studium hinaus zu
 bilden und engagieren. Dabei ist der Förderverein Bindeglied zwischen den
 Generationen und ermöglicht Erfahrungsaustausch. Der Verein in der Plöck 93 ist Nachfolger des [alten CA](/geschichte), das von 1945 bis 1978 in der Seminarstraße 2 existierte.
 

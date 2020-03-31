@@ -132,14 +132,14 @@ sein werden, können wir langfristig kostengünstige Mieten garantieren.
 
 Fördermittel | |
 --- | ---:
-Förderprogramm "Variowohnen"" | 2,12 Millionen Euro
+Förderprogramm "Variowohnen" | 2,12 Millionen Euro
 Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
 Förderprogramm "Rationelle Energieverwendung" | ~0,19 Millionen Euro
 Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) und Spenden | ~ 2,30 Millionen Euro
+Direktkredite (nachrangige Darlehen) | ~ 2,30 Millionen Euro
 Spenden | 0,16 Millionen Euro
 
 Bankfinanzierung | |
