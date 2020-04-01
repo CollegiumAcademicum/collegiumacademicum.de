@@ -60,8 +60,10 @@
                         <div class="navbar-start navbar-middle-desktop">
                             {{ if eq .Site.Language.Lang "de" }}
                                 {{ partial "menu.html" }}
-                            {{ else }}
+                            {{ else if eq .Site.Language.Lang "en"}}
                                 {{ partial "menu.en.html" }}
+			    {{ else if eq .Site.Language.Lang "fr"}}
+                                {{ partial "menu.fr.html" }}
                             {{ end }}
                             {{/*
                             <a class="navbar-item is-hidden-desktop" href="{{ $.Scratch.Get "InvLangLink" }}">
