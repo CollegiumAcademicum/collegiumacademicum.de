@@ -8,14 +8,20 @@
             <div class="content">
                 {{ .Content }}
             </div>
-
+	{{ if eq .Site.Language.Lang "de" }}
             {{ partial "voigl-message.html" }}
+        {{ else if eq .Site.Language.Lang "en"}}
+	    {{ partial "voigl-message.en.html" }}
+	{{ else if eq .Site.Language.Lang "fr"}}
+	    {{ partial "voigl-message.fr.html" }}
+        {{ end }}
         </section>
-
         {{ if eq .Site.Language.Lang "de" }}
             {{ partial "aside.html" }}
-        {{ else }}
+        {{ else if eq .Site.Language.Lang "en"}}
             {{ partial "aside.en.html" }}
+	{{ else if eq .Site.Language.Lang "fr"}}
+            {{ partial "aside.fr.html" }}
         {{ end }}
     </div>
 </div>
