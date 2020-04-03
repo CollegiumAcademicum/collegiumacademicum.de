@@ -1,5 +1,6 @@
 ---
 title: "Nos Principes"
+slug: principes
 ---
 
 (élaborés sur la base de deux ateliers collectifs en juillet et septembre 2016)

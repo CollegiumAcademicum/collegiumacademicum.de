@@ -1,5 +1,6 @@
 ---
 title: "Qui sommes nous?"
+slug: qui-sommes-nous
 ---
 
 {{< quotes source="team" size="2" iconsize="256" >}}

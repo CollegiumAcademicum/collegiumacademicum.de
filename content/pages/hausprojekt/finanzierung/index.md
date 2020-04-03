@@ -33,8 +33,8 @@ Forschung sind in der Kalkulation enthalten.
 ## Finanzierungsbausteine
 
 Für die Projektfinanzierung sind verschiedene Bausteine vorgesehen: Die
-Finanzierung setzt sich einerseits zusammen aus Fördermitteln, privaten
-Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen. Zudem erhalten
+Finanzierung setzt sich zum einen aus Fördermitteln, privaten
+Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen; zum anderen erhalten
 wir einen von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW))
 gefördertem Bankkredit, welchen wir über die Umweltbank beantragt haben, die uns
 ebenfalls einen Kredit zur Verfügung stellt.
@@ -51,19 +51,19 @@ wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
 genehmigt, welches sich aus dem [Europäischen Fonds für regionale
 Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/) (EFRE) und
-Landesmitteln finanziert. Desweiteren würdigen städtische Förderungen in Höhe
+Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
 von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
-Passivhausbauweise (190.000 Euro) des Wohnheims.
+Passivhausbauweise des Wohnheim (190.000 Euro).
 
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
-umgesetzt, mit welchem deutschlandweit bereits über ca. 150 Projekte
+umgesetzt, mit dem deutschlandweit bereits über 150 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
-Syndikats sieht es vor, dass eine wichtige Säule der Finanzierung auf
+Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
-von Privatpersonen gegeben, welche das Projekt unterstützen und ihm
+von Privatpersonen vergeben, die das Projekt unterstützen und ihm
 nahestehen. Die aktuelle Planung sieht vor, etwa 2,3 Millionen Euro
 an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
@@ -89,8 +89,8 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 Es ist geplant, ca. 12 Millionen Euro über eine Bankfinanzierung abzudecken. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
-Umweltbank eine KfW Förderung umgesetzt. Diese Förderung besteht aus einer
-Zinsvergünstigung sowie einem annuitätsreduzierendem Tilgungszuschuss in Höhe
+Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
+Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
 von 15% des Kreditbetrags.
 
 ### Sonstiges
@@ -98,8 +98,8 @@ von 15% des Kreditbetrags.
 #### Sponsoring
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
-Nutzungskonzept und Modulbauweise) steht unser Vorhaben stark in der
-Öffentlichkeit. Eine Übersicht der [Pressebeiträge]({{< relref "/pages/presse-links/presse">}}) findet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
+Nutzungskonzept und Modulbauweise) ist unser Vorhaben in der
+Öffentlichkeit sehr präsent. Eine Übersicht der [Pressebeiträge]({{< relref "/pages/presse-links/presse">}}) befindet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
 
 #### Eigenleistung
 
@@ -111,7 +111,7 @@ sind Workcamps und eine Zusammenarbeit mit Wandergesell\*innen
 geplant. Trotzdem ist Eigenleistung bisher entsprechend eines
 konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet. Sie
 beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
-vor allem Arbeiten im Außenbereich, Fassade, Malerarbeiten, Aufbau von Möbeln
+vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten, Aufbau von Möbeln
 sowie Mitarbeit bei der Erstellung von Trennwänden. Es besteht
 folglich noch weiteres Potenzial, die Baukosten durch Eigenleistung zu
 reduzieren.
@@ -122,7 +122,7 @@ Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
 Bewohner\*innen beläuft sich auf 300 Euro/Monat/Person. Über diese Mieten werden
-auch die großen Gemeinschaftflächen mitfinanizert. Da unser Projekt nicht
+auch die großen Gemeinschaftsflächen mitfinanziert. Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren.
 
