@@ -1,5 +1,6 @@
 ---
-title: "CRÉDITS DIRECTS"
+title: "Crédits directs"
+slug: credits-directs
 ---
 
 <div class="columns">
@@ -16,7 +17,7 @@ title: "CRÉDITS DIRECTS"
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Jetzt Direktkredit anfragen</span>
+        <span>Accorder un crédit direct</span>
     </a>
 </div>
 
@@ -106,7 +107,7 @@ Vous trouverez ci-dessous plus d‘informations et de détails sur ce que cela s
   </div>
   <div class="message toggle">
     <div class="message-header">
-      <p>Où puis-je trouver de plus amples informations sur les prêts directs ?</p>
+      <p>Où puis-je trouver de plus amples informations sur les crédits directs ?</p>
     </div>
     <div class="message-body">
       <div class="message-content">
@@ -135,6 +136,6 @@ Vous trouverez ci-dessous plus d‘informations et de détails sur ce que cela s
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Jetzt Direktkredit anfragen</span>
+        <span>Accorder un crédit direct</span>
     </a>
 </div>
