@@ -95,6 +95,8 @@ von 15% des Kreditbetrags.
 
 ### Sonstiges
 
+
+
 #### Sponsoring
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
