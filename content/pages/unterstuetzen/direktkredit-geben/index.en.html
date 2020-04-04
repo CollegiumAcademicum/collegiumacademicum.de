@@ -1,0 +1,155 @@
+---
+title: "Grant a direct loan"
+novoigl: yes
+---
+<form method="POST" action="form_direktkredit.php" name="dk-form" onsubmit="return validateDKForm();">
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <p>Du kannst das CA mit einem Treuhand-Direktkredit oder einem Sofort-Direktkredit unterstützen. Es ist auch möglich, beides zu kombinieren, in dem Du den Betrag auf die zwei Varianten aufteilst. Wenn Du uns Deine Kontaktdaten hinterlässt, dann nehmen wir gerne persönlich Kontakt zu Dir auf und senden Dir die passenden Unterlagen per E-Mail zu. Da wir verschiedene Verträge für Beträge unter 5.000 Euro und ab 5.000 Euro haben, ist die Angabe des gewünschten Betrags wichtig. Weitere Informationen zu den Direktkrediten findest Du ausführlich in unserem <a href="/docs/ca_flyer_direktkredite.pdf">Direktkreditinfoblatt</a>. Bei weiteren Fragen zu einem Direktkredit oder unserem Projekt kannst Du uns gerne kontaktieren - per <a href="mailto:direktkredite@collegiumacademicum.de">E-Mail</a> oder telefonisch unter <a href="tel:+4906221652236">06221-652236</a>.</p>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label">
+            <label class="label">Treuhand-Direktkredit</label>
+        </div>
+        <div class="field-body">
+            <div class="field" id="field_treuhand">
+                <div class="control">
+                    <label class="checkbox">
+                        <input type="checkbox" name="treuhand_check">
+                        wird zunächst von einem Treuhänder verwaltet, bis die Freigabe für das Projekt zum Zeitpunkt des
+                        Grundstückskaufs erfolgt. Die Treuhand-Direktkredite sind wichtig für die Gesamtfinanzierung des
+                        Projekts.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Eine der Varianten muss ausgewählt werden.</p>
+            </div>
+        </div>
+    </div>
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-right">
+                    <input class="input is-success" type="number" name="treuhand_value" placeholder="Betrag" value="">
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-euro-sign"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label">
+            <label class="label">Sofort-Direktkredit</label>
+        </div>
+        <div class="field-body">
+            <div class="field" id="field_sofort">
+                <div class="control">
+                    <label class="checkbox">
+                        <input type="checkbox" name="sofort_check">
+                        steht dem Projekt direkt zur Verfügung und wird u. a. für die Planung verwendet. Die
+                        Sofort-Direktkredite sind also essentiell für die Initialfinanzierung und die Gesamtfinanzierung
+                        unseres Projektes.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Eine der Varianten muss ausgewählt werden.</p>
+            </div>
+        </div>
+    </div>
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-right">
+                    <input class="input is-success" type="number" name="sofort_value" placeholder="Betrag" value="">
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-euro-sign"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"><label class="label">Name</label></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-left has-icons-right">
+                    <input class="input" type="text" name="name" placeholder="Ihr Name" value="" required>
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-signature"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"><label class="label">Email</label></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control has-icons-left has-icons-right">
+                    <input class="input" type="email" name="email" placeholder="Email Adresse" value="" required>
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-envelope"></i>
+                    </span>
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-exclamation-triangle"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control">
+                    <label class="checkbox">
+                        <input class="is-danger" type="checkbox" name="gdpr" required>
+                        Hiermit bestätige ich, dass mir Informationen zu Direktkrediten für das Collegium Academicum
+                        zugesendet
+                        werden dürfen.
+                    </label>
+                </div>
+                <p class="help is-danger is-hidden">Dieses Feld muss bestätigt werden.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="field is-horizontal">
+        <div class="field-label"></div>
+        <div class="field-body">
+            <div class="field">
+                <div class="control">
+                    <button class="button is-primary" type="submit">
+                        Senden
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="field is-horizontal">
+    <div class="field-label"></div>
+    <div class="field-body">
+        <p class="is-italic">Jungen Menschen die Erfahrung machen zu lassen etwas verändern zu können, ist die beste
+            Möglichkeit Wandel anzustoßen. Wir glauben an eine bessere Welt und wollen Verantwortung übernehmen, um
+            diese mitzugestalten. Unsere Zukunft geht uns etwas an und deshalb nehmen wir sie selbst in die Hand.
+            Begleiten Sie uns auf unserem Weg und unterstützen Sie unser Projekt!</p>
+    </div>
+</div>
+<div class="field is-horizontal">
+    <div class="field-label"></div>
+    <div class="field-body">
+        {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
+    </div>
+</div>
+
+</form>
