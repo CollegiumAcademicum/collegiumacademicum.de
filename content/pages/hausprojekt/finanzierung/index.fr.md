@@ -56,6 +56,8 @@ Il est prévu de couvrir environ 12 millions d'euros par un prêt bancaire. Pour
 
 ### Divers
 
+
+
 #### Sponsoring
 
 En tant que projet IBA et en raison de ses nombreuses particularités (construction en bois, construction modulaire et concept d’usage), notre projet a une portée importante. Un aperçu des [articles de presse]({{< relref "/pages/presse-links/presse">}}) se trouve sur notre page presse. Nous nous attendons donc à un soutien financier sous forme de rabais sur les produits nécessaires à la construction du bâtiment. Les premiers accords de sponsoring ont déjà été conclus et nous sommes en contact prometteur avec d'autres sponsors potentiels avec le soutien de l'IBA.

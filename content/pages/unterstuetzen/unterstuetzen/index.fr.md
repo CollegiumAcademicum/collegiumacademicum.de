@@ -2,7 +2,7 @@
 title: "Soutien"
 ---
 
-DLe CA n'est pas un projet commercial et n'a donc pas de grands investisseurs. Nous voulons travailler avec le plus grand nombre de personnes possible pour aboutir à quelque chose dont nous pouvons tous être fiers. Par conséquent, ce projet ne peut fonctionner que si le travail et le financement se répartissent sur de nombreuses épaules.
+Le CA n'est pas un projet commercial et n'a donc pas de grands investisseurs. Nous voulons travailler avec le plus grand nombre de personnes possible pour aboutir à quelque chose dont nous pouvons tous être fiers. Par conséquent, ce projet ne peut fonctionner que si le travail et le financement se répartissent sur de nombreuses épaules.
 
 ## FINANCEMENT
 

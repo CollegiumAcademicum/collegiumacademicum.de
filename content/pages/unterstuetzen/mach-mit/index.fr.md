@@ -8,13 +8,13 @@ title: "Participer"
         {{< img src="grufo" alt="Die Projektgruppe auf einem Teambuilding Wochenende im Schwarzwald." />}}
     </div>
     <div class="column">
-        Toi aussi, tu te souhaites...
+        Toi aussi, tu souhaites vivre dans...
         <ul>
         <li>un lieu de musique et de culture ?</li>
-        <li>un lieu où l‘on peut s‘égarer et fantasmer ?</li>
-        <li>un lieu tout en couleur et plein de vie ?</li>
         <li>un lieu de connaissances et d‘auto-apprentissage ?</li>
+        <li>un lieu où l‘on peut s‘égarer et fantasmer ?</li>
         <li>un lieu de débats et de discussions ?</li>
+        <li>un lieu tout en couleur et plein de vie ?</li>
         </ul>
     </div>
 </div>

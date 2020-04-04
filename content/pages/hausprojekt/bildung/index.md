@@ -6,9 +6,9 @@ title: "Bildung"
 
 Ein für Außenstehende offenes, von den Bewohnenden ausgearbeitetes, studienbegleitendes Tutoriums- und Veranstaltungsprogramm, das Studium Generale, soll die Interessen der Studierenden widerspiegeln und sich mit aktuellen gesellschaftlichen Herausforderungen auseinandersetzen. Ein differenzierter Blick auf das eigene Fach und die Aufgaben der Wissenschaft stehen ebenso im Fokus wie konkrete Fragen der Nachhaltigkeit. Dabei soll sowohl der wissenschaftliche Nachwuchs intern gefördert werden als auch externe Vortragende aus verschiedenen Lebensbereichen zu Wort kommen.
 
-## Propädeutikum Bildungsprogramm
+## Orientierungsjahr
 
-Eine Besonderheit stellt das Propädeutikum im Altbau dar: Zwischen Schule und Studium wird jungen Menschen ein einjähriges, fachübergreifendes Vorbereitungsstudium ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
+Eine Besonderheit stellt das Orientierungsjahr im Altbau dar: Zwischen Schule und Studium wird jungen Menschen ein einjähriges, fachübergreifendes Vorbereitungsstudium ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
 
 <div class="columns">
     <div class="column is-flex-middle">
