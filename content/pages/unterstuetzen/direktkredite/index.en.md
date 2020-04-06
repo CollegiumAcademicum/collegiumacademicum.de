@@ -1,5 +1,6 @@
 ---
 title: "Direct loans"
+slug: "direct-loans"
 novoigl: yes
 ---
 

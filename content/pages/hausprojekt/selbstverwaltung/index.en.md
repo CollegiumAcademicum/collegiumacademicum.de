@@ -1,5 +1,6 @@
 ---
 title: "Self-management"
+slug: "self-management"
 ---
 In the CA, we want to shape our community life ourselves, independent of outside interests. The basis for this is formed by bottom-up democratic structures such as flat hierarchies, consensus-oriented and transparent decision making.
 
@@ -21,4 +22,4 @@ In the CA, we want to shape our community life ourselves, independent of outside
     </div>
 </div>
 
-In support of this, we will open a self-managed café (at Karlsruher Straße) and, of course, workshops, studios and event rooms will be available for creative talents who can carry out experimental work there. 
+In support of this, we will open a self-managed café (at Karlsruher Straße) and, of course, workshops, studios and event rooms will be available for creative talents who can carry out experimental work there.

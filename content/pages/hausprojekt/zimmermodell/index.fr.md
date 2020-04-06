@@ -16,7 +16,7 @@ slug: "chambre-prototype"
 
 {{< zimmer-map >}}
 
-<h3>Unser Dank gilt den Sponsoren des Modells</h3>
+<h3>Nos remerciements vont aux sponsors du modèle</h3>
 <div class="columns is-multiline">
     <div class="column is-3 is-offset-1"><a href="http://dgj.eu"><img src="/zimmermodell/sponsors/dgj.svg" /></a></div>
     <div class="column is-3 is-offset-1"><a href="https://iba.heidelberg.de/"><img src="/zimmermodell/sponsors/iba.svg" /></a></div>
