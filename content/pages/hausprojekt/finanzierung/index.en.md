@@ -81,7 +81,7 @@ Funding programme "_Barrierefreie Lebenslaufwohnungen_" | € 0,05 million
 
 Private support | |
 --- | ---:
-Direct loans (nachrangige Darlehen) | ~ € 2,30 million
+Direct loans | ~ € 2,30 million
 Donations | € 0,16 million
 
 Bank financing | |
