@@ -1,20 +1,20 @@
 <aside class="column">
   <div class="section">
 
-    <a href="{{ "direktkredite" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Direktkredit geben</a>
+    <a href="{{ "direktkredite" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Direct loans</a>
     <br>
-    <a href="{{ "spenden" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Spenden</a>
+    <a href="{{ "spenden" | relURL }}" class="button is-hidden-mobile is-fullwidth is-link">Donations</a>
 
     <div class="card">
       <div class="card-image" style="background-image: url({{ "img/layout/baustelle.jpg" | relURL }});"></div>
       <div class="card-content">
-          <p class="title is-3 is-marginless">Exkursionen</p>
+          <p class="title is-3 is-marginless">Excursions</p>
           <p>
-            Sie möchten den Fortschritt des Projekts mit eigenen Augen sehen?
-            Wir laden Sie ganz herzlich zu unseren Exkursionen im neuen Jahr ein. (<a href="{{ "anfahrt" | relURL }}">Anfahrt</a>)
+            Would you like to see the progress of the project?
+            You are invited to take part to our coming excursions. (<a href="{{ "anfahrt" | relURL }}">How to get there</a>)
           </p>
           <br>
-          <strong>Termine Spaziergänge</strong>
+          <strong>Excursion dates</strong>
           <table>
             <tr><td>So, 26.04</td> <td>14-15:30 Uhr</td></tr>
             <tr><td>So, 24.05</td> <td>14-15:30 Uhr</td></tr>
@@ -25,8 +25,8 @@
     <div class="card">
       <div class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></div>
       <div class="card-content">
-        Die Baustelle des CAs befindet sich in Rohrbach auf dem Gelände US-Hospital
-        <a href="{{ "anfahrt" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Anfahrt</a>
+      The CA is located in Rohrbach on the site of the former US Hospital
+        <a href="{{ "anfahrt" | relURL }}" class="field button is-radiusless is-fullwidth is-link">How to get there</a>
       </div>
     </div>
 
@@ -34,7 +34,7 @@
       <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
       <div class="card-content">
         <p class="title is-3 is-marginless">Newsletter</p>
-        Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter.
+        Sign up for our newsletter to stay up to date on all CA news (in german).
         {{ partial "newsletter-signup.html" }} <br />
       </div>
     </div>
@@ -43,22 +43,22 @@
       <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
       <div class="card-content">
         <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
-        Du hast jetzt bereits Interesse daran 2021 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:
-        <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Interesse anmelden</a>
+        You are already interested in moving into the newly built CA in 2021? You can get in touch with us:
+        <a href="{{ "einziehen" | relURL }}" class="field button is-radiusless is-fullwidth is-link">Moving in</a>
       </div>
     </div>
 
     <div class="card is-hidden-mobile">
       <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
       <div class="card-content">
-        <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Broschüre ansehen</a>
+        <a href="{{ "broschuere" | relURL }}" class="button is-radiusless is-fullwidth is-link">Informationsheet (in german)</a>
       </div>
     </div>
 
     <div class="card is-hidden-mobile">
       <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
       <div class="card-content">
-        <a href="{{ "zimmermodell" | relURL }}" class="button is-radiusless is-fullwidth is-link">Unser Zimmermodell</a>
+        <a href="{{ "zimmermodell" | relURL }}" class="button is-radiusless is-fullwidth is-link">Our Room-Modell</a>
       </div>
     </div>
 
@@ -68,45 +68,4 @@
       </a>
     </div>
   </div>
-</aside>
-
-
-
-
-
-<aside class="column">
-    <div class="section">
-        <div class="card">
-            <div class="card-image">
-                <img class="image" src="{{ "img/layout/infopaket.jpg" | relURL }}">
-            </div>
-            <div class="card-content">
-                <p class="title is-3 is-marginless">Info package</p>
-                <p>Get the info package with all possible information about the project and how to support our cause.</p>
-                <div class="field has-addons">
-                    <div class="control has-icons-left">
-                        <input class="input" type="email" placeholder="{{ i18n "deine-mailadresse" }}">
-                        <span class="icon is-small is-left">
-                            <i class="fas fa-envelope"></i>
-                        </span>
-                    </div>
-                    <div class="control">
-                        <a class="button is-primary">Send me!</a>
-                    </div>
-                </div>
-                <p class="title is-3 is-marginless">Newsletter</p>
-                <p>Sign up for our newsletter to get all the news.</p>
-                {{ partial "newsletter-signup.html" }}
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card-image">
-                <img class="image" src="{{ "img/layout/brochure.jpg" | relURL }}" alt="Photo of the brochure">
-            </div>
-            <div class="card-content">
-                <a href="{{ "docs/ca_broschuere.pdf" | relURL }}" target="_blank" class="button is-radiusless is-fullwidth is-link">View brochure</a>
-            </div>
-        </div>
-    </div>
 </aside>
