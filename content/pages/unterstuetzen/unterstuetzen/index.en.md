@@ -1,5 +1,6 @@
 ---
 title: "Support"
+slug: "support"
 ---
 
 Collegium Academicum is a non-profit project and, therefore, no large investors are involved. We want it to be a common project for many people, something we can all be proud of. This can only become reality if we can spread the work and funding on as many shoulders as possible.

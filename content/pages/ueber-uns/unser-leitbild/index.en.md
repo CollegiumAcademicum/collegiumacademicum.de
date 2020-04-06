@@ -13,7 +13,7 @@ slug: "vision"
 * __open__: The CA welcomes people who are interested in the project and want to shape it. As a social and cultural meeting point, the CA will make the neighbourhood richer and have a positive impact on life in Heidelberg.
 * __sustainable__: we interact with nature and environment in a responsible manner. Therefore, sustainability is deeply rooted at all levels of the CA: in the architecture, in the dormitory's operations, as a significant component of the educational concept and in our daily living together.
 
-## We want to:
+## We want to
 * __think critically__: rethinking boundaries and challenging social conventions is a part of this, just as much as reflecting on our subject of study and our role in society.
 * __think creatively__: we are curious, and our interests extend beyond subjects of study and borders – we want to develop our own ideas.
 * __take a new approach__: we become active and realise common projects – and we are willing to try out and engage with new ideas.
