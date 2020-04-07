@@ -26,7 +26,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
     {{< /img >}}
     </div>
     <div class="column">
-      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. <a href="http://dgj.eu/portfolio/dgj223iba-heidelberg-collegium-academicum/">Die Planung</a> berücksichtigt den Ressourcenverbrauch nicht nur im Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
+      Der Neubau, entworfen von Dipl. Arch. ETH Hans Drexler, erfüllt sowohl hohe ökologische als auch ästhetische Ansprüche. Das Architektenbüro Drexler Guinand Jauslin hat sich auf energieeffizientes Bauen spezialisiert und wurde dafür vielfach in internationalen Wettbewerben ausgezeichnet. <a href="http://dgj.eu/portfolio/dgj223-iba-collegium-academicum/">Die Planung</a> berücksichtigt den Ressourcenverbrauch nicht nur im Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion. Daher wird in der Konstruktion beinahe ausschließlich Holz als nachwachsender Rohstoff verwendet.
     </div>
 </div>
 

@@ -22,7 +22,7 @@ Self-managed dormitory, education and culture center: the new Collegium Academic
     {{< /img >}}
     </div>
     <div class="column">
-      The new house, which was designed by architect <a href="http://dgj.eu/portfolio/dgj223iba-heidelberg-collegium-academicum/">Hans Drechsler</a> (Dipl. Arch. ETH), fulfils high ecological and aesthetic standards. The architects Drexler Guinand Jauslin specialise in energy efficient construction and have won many awards in this field in international competitions. Resource awareness is an important design consideration both for the construction and future exploitation of the house. That is why we use wood, a renewable resource, almost everywhere as a construction material.
+      The new house, which was designed by architect <a href="http://dgj.eu/portfolio/dgj223-iba-collegium-academicum/">Hans Drechsler</a> (Dipl. Arch. ETH), fulfils high ecological and aesthetic standards. The architects Drexler Guinand Jauslin specialise in energy efficient construction and have won many awards in this field in international competitions. Resource awareness is an important design consideration both for the construction and future exploitation of the house. That is why we use wood, a renewable resource, almost everywhere as a construction material.
     </div>
 </div>
 
