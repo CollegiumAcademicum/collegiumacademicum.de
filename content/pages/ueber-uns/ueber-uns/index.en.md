@@ -13,6 +13,6 @@ Our team is motivated, active and open. We see ourselves as designers and facili
 
 The focus of the new CA is on education, because we strongly believe that education is the basis for a functioning and open society. People who are mature and critical thinkers can lead a self-determined life and take action for a just and forward-looking society. We want to contribute and to take responsibility with an interdisciplinary and reflective educational program that is based on practical experience.
 
-{{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende in der Bacherlebnisstation in Ladenburg." />}}
+{{< img src="gruppenbild" alt="A part of the team in our room-model." />}}
 
 [^1]: Members of the support association are former and current residents and anyone who would like to support us through membership.

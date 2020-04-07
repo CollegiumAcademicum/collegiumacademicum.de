@@ -13,6 +13,6 @@ Nous sommes un groupe motivé, engagé et ouvert à toutes et à tous ! Nous no
 Le nouveau CA se concentre sur l'éducation. Nous sommes convaincu.es que l'éducation est la base d'une société ouverte et fonctionnelle. Des personnes responsables et dotées d'un esprit critique peuvent à la fois mener une vie autodéterminée et s’engager pour une société juste et tournée vers l'avenir. Nous voulons y contribuer avec un programme d'éducation interdisciplinaire, basé sur l'expérience et la réflexion.
 
 
-{{< img src="gruppenbild" alt="Une partie du groupe lors d'un week-end commun au centre écologique de Ladenburg." />}}
+{{< img src="gruppenbild" alt="Une partie du groupe dans notre chambre prototype." />}}
 
 [^1]: Membres de l'association sont les ancien.nes et actuel.es résident.es et tous ceux et celles qui souhaitent nous soutenir en devenant membre de l'association.
