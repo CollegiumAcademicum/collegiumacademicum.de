@@ -25,6 +25,6 @@ einem fächerübergreifenden, reflektierten und erfahrungsbasiertem
 Bildungsprogramm einen Teil dazu beitragen und Verantwortung
 übernehmen.
 
-{{< img src="gruppenbild" alt="Ein Teil der Projektgruppe beim Teamwochenende in der Bacherlebnisstation in Ladenburg." />}}
+{{< img src="gruppenbild" alt="Ein Teil der Projektgruppe im Zimmermodell" />}}
 
 [^1]: Mitglieder des Fördervereins sind ehemalige und aktuelle Bewohner\*innen und jede\*r, der/die uns durch die Vereinsmitgliedschaft unterstützen möchte.
