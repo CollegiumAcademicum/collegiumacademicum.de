@@ -11,6 +11,7 @@ title: "Collegium Academicum"
 
 {{< hausprojekt-boxes >}}
 
-<h3 id="was-unsere-unterstützer-innen-sagen" class="is-hidden-mobile">Was unsere Unterstützer*Innen sagen:</h3>
+<h3 id="was-unsere-unterstützer-innen-sagen" class="is-hidden-mobile">Read what
+our supports say about us:</h3>
 
 {{< quotes source="supporters" size="3" iconsize="128" >}}
