@@ -22,7 +22,7 @@ Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien
     {{< /img >}}
     </div>
     <div class="column">
-      Le bâtiment neuf, <a href="http://dgj.eu/portfolio/dgj223-iba-collegium-academicum/">conçu</a> par l’architecte Hans Drexler, répond à des exigences élevées, à la fois au niveau écologique et esthétique. Le bureau d'architectes _Drexler Guinand Jauslin_ s'est spécialisé dans la construction à haute performance énergétique et a déjà reçu plusieurs distinctions au niveau international. L’impact environnemental et climatique est non seulement pris en compte en ce qui concerne l’usage à venir du bâtiment, mais également dans la phase de construction elle-même. Nous avons donc choisi comme matière principale  le bois, une ressource renouvelable qui a, parmi de nombreux autres avantages, celui de stocker du carbone.
+      Le bâtiment neuf, conçu par <a href="http://dgj.eu/portfolio/dgj223-iba-collegium-academicum/">le bureau d'architecture Hans Drexler</a>, répond à des exigences élevées, à la fois au niveau écologique et esthétique. Le bureau d'architectes _Drexler Guinand Jauslin_ s'est spécialisé dans la construction à haute performance énergétique et a déjà reçu plusieurs distinctions au niveau international. L’impact environnemental et climatique est non seulement pris en compte en ce qui concerne l’usage à venir du bâtiment, mais également dans la phase de construction elle-même. Nous avons donc choisi comme matière principale  le bois, une ressource renouvelable qui a, parmi de nombreux autres avantages, celui de stocker du carbone.
     </div>
 </div>
 
