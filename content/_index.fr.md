@@ -13,7 +13,7 @@ title: "Collegium Academicum"
 	mutuelle. Les premiers résident.e.s emménageront fin 2021 dans le site
 	actuellement en construction. La construction du bâtiment en bois massif a
 	lieu sur le site de l’ancienne caserne américaine "US Hospital"  à
-	Heidelberg-Rohrbach (Baden-Württemberg, Allemagne).  <a href="{{< relref path="pages/unterstuetzen/direktkredite/" lang="fr" >}}">Pour savoir comment soutenir le projet, c’est par ici.</a>
+	Heidelberg-Rohrbach (Baden-Württemberg, Allemagne).  <a href="{{< relref path="/pages/unterstuetzen/unterstuetzen" lang="fr" >}}">Pour savoir comment soutenir le projet, c’est par ici.</a>
 </p>
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
