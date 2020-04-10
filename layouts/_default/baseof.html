@@ -1,10 +1,3 @@
-{{ if eq .Site.Language.Lang "de" }}
-    {{ $.Scratch.Add "InvLangLink" ("en" | relURL) }}
-    {{ $.Scratch.Add "InvLang" "English" }}
-{{ else }}
-    {{ $.Scratch.Add "InvLangLink" ("" | relURL) }}
-    {{ $.Scratch.Add "InvLang" "Deutsch" }}
-{{ end }}
 <!DOCTYPE html>
 <html lang="de">
 
@@ -32,7 +25,7 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 </head>
 
-<body>
+<body>  
     <!-- START NAV -->
     <header id="navHero" class="hero is-white">
         <div class="hero-body">
@@ -65,23 +58,27 @@
 			    {{ else if eq .Site.Language.Lang "fr"}}
                                 {{ partial "menu.fr.html" }}
                             {{ end }}
-                            {{/*
-                            <a class="navbar-item is-hidden-desktop" href="{{ $.Scratch.Get "InvLangLink" }}">
-                                <span class="icon"><i class="fas fa-language"></i></span>
-                                <span>{{ $.Scratch.Get "InvLang" }}</span>
-                            </a>
-                            */}}
+			    <span class="icon is-hidden-desktop"><i class="fas fa-language"></i></span>
+			    <ul>
+			      {{ range $.Site.Home.AllTranslations }}
+			      <li>
+				<a class="navbar-item is-hidden-desktop" href="{{ .Permalink }}">
+				  <span>{{ .Language.LanguageName }}</span>
+				</a>
+			      </li>
+			      {{ end }}
+			    </ul>
                         </div>
-                        {{/*
                         <div class="navbar-end is-hidden-touch">
-                            <a class="button is-link" href="{{ $.Scratch.Get "InvLangLink" }}">
-                                <span class="icon">
-                                    <i class="fas fa-language"></i>
-                                </span>
-                                <span>{{ $.Scratch.Get "InvLang" }}</span>
-                            </a>
+                            <span class="icon">
+                              <i class="fas fa-language"></i>
+                            </span>
+			    <ul>
+			      {{ range $.Site.Home.AllTranslations }}
+			      <li><a href="{{ .Permalink }}"><span>{{ .Language.LanguageName }}</span></a></li>
+			      {{ end }}
+			    </ul>
                         </div>
-                        */}}
                     </div>
                 </div>
             </nav>
