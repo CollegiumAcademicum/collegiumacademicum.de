@@ -33,7 +33,7 @@ languageName = 'English'
 weight = 2
 
 [languages.fr]
-languageName = 'Francais'
+languageName = 'Français'
 weight = 3
 
 [imaging]
