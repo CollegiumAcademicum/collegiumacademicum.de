@@ -18,7 +18,7 @@ novoigl: yes
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Jetzt Direktkredit anfragen</span>
+        <span>Grant a direct loan</span>
     </a>
 </div>
 
