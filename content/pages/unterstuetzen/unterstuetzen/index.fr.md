@@ -14,13 +14,13 @@ Notre [financement](/finanzierung) consiste en un prêt bancaire, des subvention
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Direktkredite</span>
+        <span>Crédits directs</span>
     </a>
     <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Spenden</span>
+        <span>Dons</span>
     </a>
 </div>
 
@@ -33,6 +33,6 @@ Nous sommes un groupe de projet ouvert et nous sommes toujours à la recherche d
         <span class="icon">
             <i class="fas fa-wrench"></i>
         </span>
-        <span>Mach mit</span>
+        <span>Participer</span>
     </a>
 </div>
