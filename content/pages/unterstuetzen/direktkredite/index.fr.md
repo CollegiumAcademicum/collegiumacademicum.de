@@ -1,6 +1,7 @@
 ---
 title: "Crédits directs"
 slug: credits-directs
+novoigl: yes
 ---
 
 <div class="columns">
