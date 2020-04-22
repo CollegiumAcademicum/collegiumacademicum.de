@@ -27,7 +27,7 @@ Votre prêt contribue à financer un projet d‘habitat écologique unique et ay
 
 Nous avons réussi à obtenir les **2 100 000 €** (25/02/20) de „crédits directs“ pour co-financer le bâtiment neuf. **Un grand merci !** Merci pour chaque contribution financière qui nous rapproche un peu plus de la réalisation de notre projet.
 
-<!-- <progress class="progress is-large is-primary" value="2000" max="2000">2.000.000€</progress> -->
+<progress class="progress is-large is-primary" value="2151" max="2386"></progress>
 
 Vous pouvez **continuer à soutenir le CA** à travers des crédits directs. Nous sommes toujours dépendants de votre soutien pour la rénovation des deux anciens bâtiments administratifs. Par ailleurs, plus la proportion de crédits directs par rapport au financement bancaire est élevée, plus notre marge de manœuvre et notre capacité d‘offrir des loyers à bas coûts est grande.
 

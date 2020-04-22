@@ -39,7 +39,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
     </div>
 </div>
 
-{{< map >}}
+{{< map long=8.6862 lat=49.3759 zoom=11.5 bearing=45 pitch=45 >}}
 
 <div class="columns">
     <div class="column" style="display:flex; align-items: center;">
