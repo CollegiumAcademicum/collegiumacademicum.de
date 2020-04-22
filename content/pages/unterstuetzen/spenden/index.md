@@ -74,15 +74,3 @@ oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
   GLS Gemeinschaftsbank eG<br>
   <b>Verwendungszweck:</b> Spende CA, Ihr Name
 </div>
-
-
-### Förderverein
-Weiterhin besteht die Möglichkeit einer dauerhaften Mitgliedschaft im
-_„Förderverein Collegium Academicum Heidelberg e.V.“_. Die Satzung des
-Fördervereins ist [hier](/docs/satzung_foerderverein.pdf) zu finden. Bei
-Interesse wenden Sie sich bitte per E-Mail an
-[collegiumacademicum@posteo.de](mailto:collegiumacademicum@posteo.de) oder
-postalisch an Förderverein Collegium Academicum Heidelberg e.V. – Plöck 93 –
-69117 Heidelberg.
-
-Vielen Dank!
