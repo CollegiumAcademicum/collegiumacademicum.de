@@ -34,7 +34,7 @@ zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
-<!-- <progress class="progress is-large is-primary" value="2000" max="2000">2.000.000€</progress> -->
+<progress class="progress is-large is-primary" value="2151" max="2386"></progress>
 
 Im Folge der Ausschreibungsergebnisse haben wir unsere Kosten- und Wirtschaftlichkeitsrechnung für den Neubau überarbeitet. Da wir auch  von leichten Baukostensteigerungen betroffen sind, haben wir gemeinsam mit unser Bank die Kreditkonditionen angepasst und optimiert. Außerdem haben wir uns dafür entschieden, dass wir unsere eigenkapitalähnlichen Mittel für den Neubau in Form von Spenden, Direktkrediten, Sponsoring sowie Eigenleistung erhöhen, um die Mehrkosten auszugleichen.
 

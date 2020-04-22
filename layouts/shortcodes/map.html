@@ -3,10 +3,10 @@
     mapboxgl.accessToken = 'pk.eyJ1IjoiY29sbGVnaXVtYWNhZGVtaWN1bSIsImEiOiJjamdwZGFreWMwMzNiMzNvZmloZWs3eHNxIn0.ClXp6n8qltuq-IO9cUnsqw';
     var map = new mapboxgl.Map({
         container: 'ca-map',
-        center: [{{ $.Site.Params.Heidelberg.longitude }},{{ $.Site.Params.Heidelberg.latitude}}],
-        zoom: 11.5,
-        bearing: 0,
-        pitch: 0,
+        center: [{{ .Get "long"}}, {{ .Get "lat"}}],
+        zoom: {{ .Get "zoom" }},
+        bearing: {{ with .Get "bearing" }}{{.}}{{else}}0{{end}},
+        pitch: {{ with .Get "pitch" }}{{.}}{{else}}0{{end}},
         style: 'mapbox://styles/collegiumacademicum/cjh3tor1j2nha2rp86mehjslm'
     });
     map.on("load", function () {
