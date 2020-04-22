@@ -6,6 +6,6 @@
 </div>
 
 <div class="has-text-centered content">
-    <p>Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten einen Beitrag zur Verwirklichung leisten?</p>
-    <p><a class="button is-secondary is-mobile-fullwidth" href="{{ "direktkredite" | relLangURL }}">Unterstützen Sie uns mit einem Direktkredit.</a></p>
+    <p>{{ i18n "voigl-message" }}</p>
+    <p><a class="button is-secondary is-mobile-fullwidth" href="{{ with .Site.GetPage "/direktkredite" }}{{ .Permalink }}{{ end }}">{{ i18n "voigl-message-button" }}</a></p>
 </div>
