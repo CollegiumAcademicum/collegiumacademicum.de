@@ -1,0 +1,4 @@
+{{ $page := .Get 0}}
+{{ with .Site.GetPage $page }}
+    {{ .RawContent | safeHTML}}
+{{ end }}
