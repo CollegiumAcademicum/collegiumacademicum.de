@@ -31,6 +31,9 @@ other = "Emménager"
 [interesse-anmelden]
 other = "Je suis intéressé.e"
 
+[interesse-anmelden-message]
+other = "Du hast jetzt bereits Interesse daran 2021 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:"
+
 [ich-will-spaeter-einziehen]
 other = "Je désire emménager!"
 
@@ -42,3 +45,36 @@ other = "Vous partagez notre vision d'un logement autogéré et aimeriez contrib
 
 [voigl-message-button]
 other = "Soutenez-nous avec un crédit direct."
+
+[direktkredit-geben]
+other = "Accorder un crédit direct"
+
+[spenden]
+other = "Faire un don"
+
+[exkursionen]
+other = "Excursions"
+
+[exkursionen-message]
+other = "Vous souhaitez voir l'avancement du projet de vos propres yeux? Nous vous invitons à prendre part à nos excursions pour la nouvelle année."
+
+[anfahrt]
+other = "Carte"
+
+[anfahrt-message]
+other = "Le CA est situé à Rohrbach (Heidelberg, Allemagne), sur le site de l'ancien hôpital américain."
+
+[unser-zimmermodell]
+other = "Notre Prototype"
+
+[broschure-ansehen]
+other = "Notre brochure (en allemand)"
+
+[newsletter]
+other = "Bulletin d'information"
+
+[newsletter-message]
+other = "Nous vous tiendrons au courant de toute l'actualité du CA grâce à notre bulletin d'information (en allemand)."
+
+[termine]
+other = "Rendez-vous"

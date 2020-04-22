@@ -31,6 +31,9 @@ other = "Einziehen"
 [interesse-anmelden]
 other = "Interesse anmelden"
 
+[interesse-anmelden-message]
+other = "Du hast jetzt bereits Interesse daran 2021 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:"
+
 [ich-will-spaeter-einziehen]
 other = "Ich habe Interesse später einzuziehen!"
 
@@ -42,3 +45,36 @@ other = "Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten
 
 [voigl-message-button]
 other = "Unterstützen Sie uns mit einem Direktkredit."
+
+[direktkredit-geben]
+other = "Direktkredit geben"
+
+[spenden]
+other = "Spenden"
+
+[exkursionen]
+other = "Exkursionen"
+
+[exkursionen-message]
+other = "Sie möchten den Fortschritt des Projekts mit eigenen Augen sehen? Wir laden Sie ganz herzlich zu unseren Exkursionen im neuen Jahr ein."
+
+[anfahrt]
+other = "Anfahrt"
+
+[anfahrt-message]
+other = "Die Baustelle des CAs befindet sich in Rohrbach auf dem Gelände US-Hospital."
+
+[unser-zimmermodell]
+other = "Unser Zimmermodell"
+
+[broschure-ansehen]
+other = "Broschüre ansehen"
+
+[newsletter]
+other = "Newsletter"
+
+[newsletter-message]
+other = "Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit unserem Newsletter."
+
+[termine]
+other = "Termine"

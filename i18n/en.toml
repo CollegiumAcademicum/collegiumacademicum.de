@@ -31,6 +31,9 @@ other = "Moving in"
 [interesse-anmelden]
 other = "Show interest"
 
+[interesse-anmelden-message]
+other = "You are already interested in moving into the newly built CA in 2021? You can get in touch with us:"
+
 [ich-will-spaeter-einziehen]
 other = "I am interested to move in later!"
 
@@ -42,3 +45,36 @@ other = "You share our vision of a self-managed house community and would like t
 
 [voigl-message-button]
 other = "Support us with a direct loan."
+
+[direktkredit-geben]
+other = "Direct loans"
+
+[spenden]
+other = "Donations"
+
+[exkursionen]
+other = "Excursions"
+
+[exkursionen-message]
+other = "Would you like to see the progress of the project? You are invited to take part to our coming excursions."
+
+[anfahrt]
+other = "How to get there"
+
+[anfahrt-message]
+other = "The CA is located in Rohrbach on the site of the former US Hospital."
+
+[unser-zimmermodell]
+other = "Our Room-model"
+
+[broschure-ansehen]
+other = "Informationsheet (in German)"
+
+[newsletter]
+other = "Newsletter"
+
+[newsletter-message]
+other = "Sign up for our newsletter to stay up to date on all CA news (in German)."
+
+[termine]
+other = "Dates"
