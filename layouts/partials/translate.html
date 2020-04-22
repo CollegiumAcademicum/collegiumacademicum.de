@@ -1,0 +1,20 @@
+{{ if .Site.IsMultiLingual }}
+{{ $pageLang := .Page.Lang}}
+{{ $pageTrans := .Page.Translations }}
+{{ $base := .Site.BaseURL }}
+{{ $scr := .Scratch }}
+<span class="icon"><i class="fas fa-language"></i></span>
+{{ range .Site.Languages }}
+    {{ $lang := . }}
+    {{ $scr.Set "missing" "true" }}
+    {{ range $pageTrans }}
+        {{ if eq .Lang $lang.Lang }}
+            {{ $scr.Set "missing" "false" }}
+            <a class="navbar-item" href="{{ .RelPermalink }}">{{ $lang.LanguageName }}</a>
+        {{ end }}
+    {{ end }}
+    {{ if eq ($scr.Get "missing") "true" }}{{ if ne $pageLang $lang.Lang }}
+        <a class="navbar-item" href="{{ $base }}/{{ $lang.Lang }}">{{ $lang.LanguageName }}</a>
+    {{ end }}{{ end }}
+{{ end }}
+{{ end }}
