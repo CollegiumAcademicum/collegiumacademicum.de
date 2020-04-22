@@ -1,83 +1,104 @@
 [[main]]
     name = "Aktuelles"
     url = "/aktuelles"
+    weight = 1
 
 [[main]]
     name = "Hausprojekt"
     url = "/hausprojekt"
+    weight = 2
 [[main]]
     name = "Wohnen"
     url = "/wohnen"
+    weight = 1
     parent = "Hausprojekt"
 [[main]]
     name = "Bildung"
     url = "/bildung"
+    weight = 2
     parent = "Hausprojekt"
 [[main]]
     name = "Nachhaltigkeit"
     url = "/nachhaltigkeit"
+    weight = 3
     parent = "Hausprojekt"
 [[main]]
     name = "Selbstverwaltung"
     url = "/selbstverwaltung"
+    weight = 4
     parent = "Hausprojekt"
 [[main]]
     name = "Finanzierung"
     url = "/finanzierung"
+    weight = 5
     parent = "Hausprojekt"
 [[main]]
     name = "Zimmermodell"
     url = "/zimmermodell"
+    weight = 6
     parent = "Hausprojekt"
 
 [[main]]
     name = "Unterstützen"
     url = "/unterstuetzen"
+    weight = 3
 [[main]]
     name = "Direktkredite"
     url = "/direktkredite"
+    weight = 1
     parent = "Unterstützen"
 [[main]]
     name = "Spenden"
     url = "/spenden"
+    weight = 2
     parent = "Unterstützen"
 [[main]]
     name = "Mach mit"
     url = "/mach-mit"
+    weight = 3
     parent = "Unterstützen"
 
 [[main]]
     name = "Über uns"
     url = "/ueber-uns"
+    weight = 4
 [[main]]
     name = "Unser Leitbild"
     url = "/leitbild"
+    weight = 1
     parent = "Über uns"
 [[main]]
     name = "Geschichte des CA"
     url = "/geschichte"
+    weight = 2
     parent = "Über uns"
 [[main]]
     name = "Timeline"
     url = "/timeline"
+    weight = 3
     parent = "Über uns"
 [[main]]
     name = "Partner*innen"
     url = "/partnerinnen"
+    weight = 4
     parent = "Über uns"
 
 [[main]]
     name = "Presse & Links"
     url = "/presse-links"
+    weight = 5
 [[main]]
     name = "Eigene Veröffentlichungen"
     url = "/eigene-veroeffentlichungen"
+    weight = 1
     parent = "Presse & Links"
 [[main]]
     name = "In der Presse"
     url = "/presse"
+    weight = 2
     parent = "Presse & Links"
 [[main]]
     name = "Literatur"
     url = "/literatur"
+    weight = 3
     parent = "Presse & Links"

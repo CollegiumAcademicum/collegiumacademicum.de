@@ -1,55 +1,69 @@
 [[main]]
     name = "Habitat autogéré"
     url = "/habitat-autogere"
+    weight = 1
 [[main]]
     name = "Habiter"
     url = "/habiter"
+    weight = 1
     parent = "Habitat autogéré"
 [[main]]
     name = "Apprendre"
     url = "/apprendre"
+    weight = 2
     parent = "Habitat autogéré"
 [[main]]
     name = "Durabilité"
     url = "/durabilité"
+    weight = 3
     parent = "Habitat autogéré"
 [[main]]
     name = "Autogestion"
     url = "/autogestion"
+    weight = 4
     parent = "Habitat autogéré"
 [[main]]
     name = "Financement"
     url = "/financement"
+    weight = 5
     parent = "Habitat autogéré"
 
 [[main]]
     name = "Soutien"
     url = "/soutien"
+    weight = 2
 [[main]]
     name = "Participer"
     url = "/participer"
+    weight = 1
     parent = "Soutien"
 [[main]]
     name = "Crédits directs"
     url = "/credits-directs"
+    weight = 2
     parent = "Soutien"
 [[main]]
     name = "Dons"
     url = "/dons"
+    weight = 3
     parent = "Soutien"
 
 [[main]]
     name = "Qui sommes-nous?"
     url = "/qui-sommes-nous"
+    weight = 3
 [[main]]
     name = "Nos Principes"
     url = "/principes"
+    weight = 1
     parent = "Qui sommes-nous?"
 [[main]]
     name = "Liens & Presse"
     url = "/presse-liens"
+    weight = 2
     parent = "Qui sommes-nous?"
 [[main]]
     name = "Partenaires"
     url = "/partenaires"
+    weight = 3
     parent = "Qui sommes-nous?"

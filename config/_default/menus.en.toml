@@ -1,59 +1,74 @@
 [[main]]
     name = "Housing Project"
     url = "/housing-project"
+    weight = 1
 [[main]]
     name = "Living"
     url = "/living"
+    weight = 1
     parent = "Housing Project"
 [[main]]
     name = "Education"
     url = "/education"
+    weight = 2
     parent = "Housing Project"
 [[main]]
     name = "Sustainability"
     url = "/sustainability"
+    weight = 3
     parent = "Housing Project"
 [[main]]
     name = "Self-management"
     url = "/self-management"
+    weight = 4
     parent = "Housing Project"
 [[main]]
     name = "Funding"
     url = "/funding"
+    weight = 5
     parent = "Housing Project"
 [[main]]
     name = "Room-Model"
     url = "/room-model"
+    weight = 6
     parent = "Housing Project"
 
 [[main]]
     name = "Support"
     url = "/support"
+    weight = 2
 [[main]]
     name = "Join us!"
     url = "/join-us"
+    weight = 1
     parent = "Support"
 [[main]]
     name = "Direct loans"
     url = "/direct-loans"
+    weight = 2
     parent = "Support"
 [[main]]
     name = "Donations"
     url = "/donations"
+    weight = 3
     parent = "Support"
 
 [[main]]
     name = "About us"
     url = "/about-us"
+    weight = 3
 [[main]]
     name = "Our vision"
     url = "/vision"
+    weight = 1
     parent = "About us"
 [[main]]
     name = "Links & Press"
     url = "/press-links"
+    weight = 2
     parent = "About us"
 [[main]]
     name = "Partners"
     url = "/partnerinnen"
+    weight = 3
     parent = "About us"
