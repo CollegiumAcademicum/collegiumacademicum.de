@@ -1,0 +1,55 @@
+[[main]]
+    name = "Habitat autogéré"
+    url = "/habitat-autogere"
+[[main]]
+    name = "Habiter"
+    url = "/habiter"
+    parent = "Habitat autogéré"
+[[main]]
+    name = "Apprendre"
+    url = "/apprendre"
+    parent = "Habitat autogéré"
+[[main]]
+    name = "Durabilité"
+    url = "/durabilité"
+    parent = "Habitat autogéré"
+[[main]]
+    name = "Autogestion"
+    url = "/autogestion"
+    parent = "Habitat autogéré"
+[[main]]
+    name = "Financement"
+    url = "/financement"
+    parent = "Habitat autogéré"
+
+[[main]]
+    name = "Soutien"
+    url = "/soutien"
+[[main]]
+    name = "Participer"
+    url = "/participer"
+    parent = "Soutien"
+[[main]]
+    name = "Crédits directs"
+    url = "/credits-directs"
+    parent = "Soutien"
+[[main]]
+    name = "Dons"
+    url = "/dons"
+    parent = "Soutien"
+
+[[main]]
+    name = "Qui sommes-nous?"
+    url = "/qui-sommes-nous"
+[[main]]
+    name = "Nos Principes"
+    url = "/principes"
+    parent = "Qui sommes-nous?"
+[[main]]
+    name = "Liens & Presse"
+    url = "/presse-liens"
+    parent = "Qui sommes-nous?"
+[[main]]
+    name = "Partenaires"
+    url = "/partenaires"
+    parent = "Qui sommes-nous?"

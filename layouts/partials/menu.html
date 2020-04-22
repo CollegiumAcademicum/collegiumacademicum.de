@@ -1,37 +1,15 @@
-<a href="{{ "aktuelles" | relURL }}" class="navbar-item">Aktuelles</a>
-<div class="navbar-item is-hoverable has-dropdown">
-    <a href="{{ "hausprojekt" | relURL }}" class="navbar-link">Hausprojekt</a>
-    <div class="navbar-dropdown">
-        <a href="{{ "wohnen" | relURL }}" class="navbar-item">Wohnen</a>
-        <a href="{{ "bildung" | relURL }}" class="navbar-item">Bildung</a>
-        <a href="{{ "nachhaltigkeit" | relURL }}" class="navbar-item">Nachhaltigkeit</a>
-        <a href="{{ "selbstverwaltung" | relURL }}" class="navbar-item">Selbstverwaltung</a>
-        <a href="{{ "finanzierung" | relURL }}" class="navbar-item">Finanzierung</a>
-        <a href="{{ "zimmermodell" | relURL }}" class="navbar-item">Zimmermodell</a>
-    </div>
-</div>
-<div class="navbar-item is-hoverable has-dropdown">
-    <a href="{{ "unterstuetzen" | relURL }}" class="navbar-link">Unterstützen</a>
-    <div class="navbar-dropdown">
-        <a href="{{ "direktkredite" | relURL }}" class="navbar-item">Direktkredite</a>
-        <a href="{{ "spenden" | relURL }}" class="navbar-item">Spenden</a>
-        <a href="{{ "mach-mit" | relURL }}" class="navbar-item">Mach mit</a>
-    </div>
-</div>
-<div class="navbar-item is-hoverable has-dropdown">
-    <a href="{{ "ueber-uns" | relURL }}" class="navbar-link">Über uns</a>
-    <div class="navbar-dropdown">
-        <a href="{{ "leitbild" | relURL }}" class="navbar-item">Unser Leitbild</a>
-        <a href="{{ "geschichte" | relURL }}" class="navbar-item">Geschichte des CA</a>
-        <a href="{{ "timeline" | relURL }}" class="navbar-item">Timeline</a>
-        <a href="{{ "partnerinnen" | relURL }}" class="navbar-item">Partner*innen</a>
-    </div>
-</div>
-<div class="navbar-item is-hoverable has-dropdown">
-    <a href="{{ "presse-links" | relURL }}" class="navbar-link">Presse & Links</a>
-    <div class="navbar-dropdown">
-        <a href="{{ "eigene-veroeffentlichungen" | relURL }}" class="navbar-item">Eigene Veröffentlichungen</a>
-        <a href="{{ "presse" | relURL }}" class="navbar-item">In der Presse</a>
-        <a href="{{ "literatur" | relURL }}" class="navbar-item">Literatur</a>
-    </div>
-</div>
+{{ $currentPage := . }}
+{{ range .Site.Menus.main }}
+    {{ if .HasChildren }}
+        <div class="navbar-item is-hoverable has-dropdown">
+            <a href="{{ .URL | absLangURL }}" class="navbar-link">{{ .Name }}</a>
+            <div class="navbar-dropdown">
+                {{ range .Children }}
+                    <a href="{{ .URL | absLangURL }}" class="navbar-item">{{ .Name }}</a>
+                {{ end }}
+            </div>
+        </div>
+    {{ else }}
+        <a href="{{ .URL | absLangURL }}" class="navbar-item">{{ .Name }}</a>
+    {{ end }}
+{{ end }}

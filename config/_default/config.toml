@@ -24,17 +24,17 @@ big_imgsize = "1800"
   latitude = 49.37589920283469
 
 [languages]
-[languages.de]
-languageName = 'Deutsch'
-weight = 1
+  [languages.de]
+  languageName = 'Deutsch'
+  weight = 1
 
-[languages.en]
-languageName = 'English'
-weight = 2
+  [languages.en]
+  languageName = 'English'
+  weight = 2
 
-[languages.fr]
-languageName = 'Français'
-weight = 3
+  [languages.fr]
+  languageName = 'Français'
+  weight = 3
 
 [imaging]
 quality = 60

@@ -1,0 +1,83 @@
+[[main]]
+    name = "Aktuelles"
+    url = "/aktuelles"
+
+[[main]]
+    name = "Hausprojekt"
+    url = "/hausprojekt"
+[[main]]
+    name = "Wohnen"
+    url = "/wohnen"
+    parent = "Hausprojekt"
+[[main]]
+    name = "Bildung"
+    url = "/bildung"
+    parent = "Hausprojekt"
+[[main]]
+    name = "Nachhaltigkeit"
+    url = "/nachhaltigkeit"
+    parent = "Hausprojekt"
+[[main]]
+    name = "Selbstverwaltung"
+    url = "/selbstverwaltung"
+    parent = "Hausprojekt"
+[[main]]
+    name = "Finanzierung"
+    url = "/finanzierung"
+    parent = "Hausprojekt"
+[[main]]
+    name = "Zimmermodell"
+    url = "/zimmermodell"
+    parent = "Hausprojekt"
+
+[[main]]
+    name = "Unterstützen"
+    url = "/unterstuetzen"
+[[main]]
+    name = "Direktkredite"
+    url = "/direktkredite"
+    parent = "Unterstützen"
+[[main]]
+    name = "Spenden"
+    url = "/spenden"
+    parent = "Unterstützen"
+[[main]]
+    name = "Mach mit"
+    url = "/mach-mit"
+    parent = "Unterstützen"
+
+[[main]]
+    name = "Über uns"
+    url = "/ueber-uns"
+[[main]]
+    name = "Unser Leitbild"
+    url = "/leitbild"
+    parent = "Über uns"
+[[main]]
+    name = "Geschichte des CA"
+    url = "/geschichte"
+    parent = "Über uns"
+[[main]]
+    name = "Timeline"
+    url = "/timeline"
+    parent = "Über uns"
+[[main]]
+    name = "Partner*innen"
+    url = "/partnerinnen"
+    parent = "Über uns"
+
+[[main]]
+    name = "Presse & Links"
+    url = "/presse-links"
+[[main]]
+    name = "Eigene Veröffentlichungen"
+    url = "/eigene-veroeffentlichungen"
+    parent = "Presse & Links"
+[[main]]
+    name = "In der Presse"
+    url = "/presse"
+    parent = "Presse & Links"
+[[main]]
+    name = "Literatur"
+    url = "/literatur"
+    parent = "Presse & Links"
