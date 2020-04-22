@@ -25,7 +25,7 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 </head>
 
-<body>  
+<body>
     <!-- START NAV -->
     <header id="navHero" class="hero is-white">
         <div class="hero-body">
@@ -51,13 +51,7 @@
                     </div>
                     <div id="navbarMenu" class="navbar-menu">
                         <div class="navbar-start navbar-middle-desktop">
-                            {{ if eq .Site.Language.Lang "de" }}
-                                {{ partial "menu.html" }}
-                            {{ else if eq .Site.Language.Lang "en"}}
-                                {{ partial "menu.en.html" }}
-			    {{ else if eq .Site.Language.Lang "fr"}}
-                                {{ partial "menu.fr.html" }}
-                            {{ end }}
+                                {{ partial "menu.html" . }}
 			    <span class="icon is-hidden-desktop"><i class="fas fa-language"></i></span>
 			    <ul>
 			      {{ range $.Site.Home.AllTranslations }}

@@ -1,0 +1,59 @@
+[[main]]
+    name = "Housing Project"
+    url = "/housing-project"
+[[main]]
+    name = "Living"
+    url = "/living"
+    parent = "Housing Project"
+[[main]]
+    name = "Education"
+    url = "/education"
+    parent = "Housing Project"
+[[main]]
+    name = "Sustainability"
+    url = "/sustainability"
+    parent = "Housing Project"
+[[main]]
+    name = "Self-management"
+    url = "/self-management"
+    parent = "Housing Project"
+[[main]]
+    name = "Funding"
+    url = "/funding"
+    parent = "Housing Project"
+[[main]]
+    name = "Room-Model"
+    url = "/room-model"
+    parent = "Housing Project"
+
+[[main]]
+    name = "Support"
+    url = "/support"
+[[main]]
+    name = "Join us!"
+    url = "/join-us"
+    parent = "Support"
+[[main]]
+    name = "Direct loans"
+    url = "/direct-loans"
+    parent = "Support"
+[[main]]
+    name = "Donations"
+    url = "/donations"
+    parent = "Support"
+
+[[main]]
+    name = "About us"
+    url = "/about-us"
+[[main]]
+    name = "Our vision"
+    url = "/vision"
+    parent = "About us"
+[[main]]
+    name = "Links & Press"
+    url = "/press-links"
+    parent = "About us"
+[[main]]
+    name = "Partners"
+    url = "/partnerinnen"
+    parent = "About us"
