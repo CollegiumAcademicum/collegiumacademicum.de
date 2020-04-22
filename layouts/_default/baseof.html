@@ -52,26 +52,10 @@
                     <div id="navbarMenu" class="navbar-menu">
                         <div class="navbar-start navbar-middle-desktop">
                                 {{ partial "menu.html" . }}
-			    <span class="icon is-hidden-desktop"><i class="fas fa-language"></i></span>
-			    <ul>
-			      {{ range $.Site.Home.AllTranslations }}
-			      <li>
-				<a class="navbar-item is-hidden-desktop" href="{{ .Permalink }}">
-				  <span>{{ .Language.LanguageName }}</span>
-				</a>
-			      </li>
-			      {{ end }}
-			    </ul>
-                        </div>
-                        <div class="navbar-end is-hidden-touch">
-                            <span class="icon">
-                              <i class="fas fa-language"></i>
-                            </span>
-			    <ul>
-			      {{ range $.Site.Home.AllTranslations }}
-			      <li><a href="{{ .Permalink }}"><span>{{ .Language.LanguageName }}</span></a></li>
-			      {{ end }}
-			    </ul>
+
+                                <div class="translate is-hidden-desktop">
+                                    {{ partial "translate.html" . }}
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -79,6 +63,10 @@
         </div>
     </header>
     <!-- END NAV -->
+
+    <div class="translator is-hidden-touch">
+        {{ partial "translate.html" . }}
+    </div>
 
     <main class="section">
         {{ block "main" . }}
