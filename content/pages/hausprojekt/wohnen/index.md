@@ -53,7 +53,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
     </div>
 </div>
 
-Das [Modell eines solchen Einzelzimmers](/zimmermodell) wird momentan an [verschiedenen Orten](/aktuelles/zimmermodell_karte) in Heidelberg ausgestellt.
+Das [Modell eines solchen Einzelzimmers](/zimmermodell) wird momentan an [verschiedenen Orten](/anfahrt) in Heidelberg ausgestellt.
 
 Für den innovativen Charakter im Bereich flexiblen Wohnens und das nachhaltige Baukonzept, welches einen Fokus auf Gemeinschaftsflächen legt wird das Projekt mit 2,2 Millionen Euro aus dem Zukunftsinvestitionsprogramm „Variowohnen“  des Bundesbauministerium gefördert.
 

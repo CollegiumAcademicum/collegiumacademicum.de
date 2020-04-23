@@ -78,3 +78,12 @@ other = "Sign up for our newsletter to stay up to date on all CA news (in German
 
 [termine]
 other = "Dates"
+
+[datenschutz]
+other = "Privacy Policy"
+
+[code]
+other = "Source Code"
+
+[impressum]
+other = "Site Notice"

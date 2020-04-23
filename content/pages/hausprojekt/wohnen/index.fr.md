@@ -49,7 +49,7 @@ Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien
     </div>
 </div>
 
-Un  [prototype d’une telle chambre](/zimmermodell) se trouve actuellement [sur le site de l’ancien hôpital militaire.](/aktuelles/zimmermodell_karte)
+Un  [prototype d’une telle chambre](/zimmermodell) se trouve actuellement [sur le site de l’ancien hôpital militaire.](/fr/carte)
 
 Pour son caractère innovant dans le domaine de l'habitat flexible et un concept de construction durable axé sur les espaces collectifs, le projet est soutenu avec 2,2 millions d'euros par le programme "Variowohnen", un programme d'investissement du ministère fédéral de la construction, de la recherche et de la technologie pour la construction durable.
 
