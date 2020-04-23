@@ -3,7 +3,7 @@ title: "Über uns"
 slug: "ueber-uns"
 ---
 
-{{< quotes source="team" size="2" iconsize="256" >}}
+{{< quotes source="team" size="2" iconsize="256" first=12 >}}
 
 Wir sind eine Gruppe junger Menschen, die zusammen in einer Projektgruppe
 den Neubau des Collegium Academicums planen. Die Gruppe und die Idee für das Projekt sind
@@ -12,6 +12,8 @@ seit 1985 vom Förderverein Collegium Academicum e.V.[^1] betrieben, um
 Studierenden die Möglichkeit zu geben, sich über ihr Studium hinaus zu
 bilden und engagieren. Dabei ist der Förderverein Bindeglied zwischen den
 Generationen und ermöglicht Erfahrungsaustausch. Der Verein in der Plöck 93 ist Nachfolger des [alten CA](/geschichte), das von 1945 bis 1978 in der Seminarstraße 2 existierte.
+
+{{< quotes source="team" size="2" iconsize="256" first=14 after=13 >}}
 
 Wir sind eine motivierte, engagierte und offene Gruppe. Wir verstehen uns als Gestalter\*innen und Ermöglicher\*innen
 des zukünftigen Wohnheims und [laden alle Interessierten ein]({{< relref "/pages/unterstuetzen/mach-mit" >}}), sich mit uns an diese Aufgabe zu wagen. [Unser Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) fasst unsere Grundsätze für das Zusammenleben und unsere Ziele zusammen.
