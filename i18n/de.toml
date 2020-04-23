@@ -78,3 +78,12 @@ other = "Wir halten dich über alle Neuigkeiten des CA auf dem Laufenden mit uns
 
 [termine]
 other = "Termine"
+
+[datenschutz]
+other = "Datenschutz"
+
+[code]
+other = "Quellcode"
+
+[impressum]
+other = "Impressum"

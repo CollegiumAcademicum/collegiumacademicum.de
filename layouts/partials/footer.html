@@ -82,23 +82,23 @@
         </div>
 
         <nav class="buttons">
-            <a class="button is-primary is-small" href="{{ "impressum" | relLangURL }}">
+            <a class="button is-primary is-small" href="{{ "impressum" | absURL }}">
                 <span class="icon is-small">
                     <i class="fas fa-info"></i>
                 </span>
-                <span>Impressum</span>
+                <span>{{ i18n "impressum" }}</span>
             </a>
-            <a class="button is-primary is-small" href="{{ "datenschutz" | relLangURL }}">
+            <a class="button is-primary is-small" href="{{ "datenschutz" | absURL }}">
                 <span class="icon is-small">
                     <i class="fas fa-user-secret"></i>
                 </span>
-                <span>Datenschutz</span>
+                <span>{{ i18n "datenschutz" }}</span>
             </a>
             <a class="button is-primary is-small" href="https://github.com/CollegiumAcademicum/collegiumacademicum.de">
                 <span class="icon is-small">
                     <i class="fab fa-github"></i>
                 </span>
-                <span>Quellcode</span>
+                <span>{{ i18n "code" }}</span>
             </a>
         </nav>
     </div>

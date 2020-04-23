@@ -69,6 +69,6 @@
     parent = "About us"
 [[main]]
     name = "Partners"
-    url = "/partnerinnen"
+    url = "/partners"
     weight = 3
     parent = "About us"
