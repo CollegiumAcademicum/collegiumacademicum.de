@@ -1,5 +1,14 @@
 <svg width="520.19pt" height="420.65pt" version="1.1" viewBox="0 0 520.19 420.65" xmlns="http://www.w3.org/2000/svg">
- <defs></defs>
+ <defs>
+         <style type="text/css">
+            @font-face{
+                font-family:'Source Sansy Pro';
+                font-style:normal;
+                font-weight:400;
+                src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url("/source-sans-pro-regular.woff2") format("woff2"),url("/source-sans-pro-regular.woff") format("woff");
+            }
+        </style>
+ </defs>
  <g transform="translate(-.73309 -174.67)">
   <rect x="-10.404" y="164.6" width="543.52" height="442.39" ry="0" fill="#fcfcfc"/>
   <g fill-rule="evenodd">
