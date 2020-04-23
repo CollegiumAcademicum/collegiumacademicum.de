@@ -16,7 +16,7 @@ The dormitory is planned as a self-managed entity. It is maintained by Collegium
 
 FThere are different sources of funding for our project: government grants, direct private loans and donations, sponsoring and our own work. In addition to these elements, we have obtained a bank loan subsidised by the German Reconstruction Loan Corporation ([KfW](https://de.wikipedia.org/wiki/KfW)), which we applied for through the _UmweltBank_, which also provides us with a loan.
 
-{{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="The elements of our funding" style="margin: 15%" />}}
 
 ### Grants
 
