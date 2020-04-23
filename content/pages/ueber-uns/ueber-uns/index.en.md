@@ -3,10 +3,11 @@ title: "About us"
 slug: "about-us"
 ---
 
-{{< quotes source="team" size="2" iconsize="256" >}}
+{{< quotes source="team" size="2" iconsize="256" first=12 >}}
 
 We are a team of young people planning the new house of Collegium Academicum (CA) together. The team and the idea for the project both emerged in Plöck 93, a self-managed house community. This house is maintained since 1985 by a non-profit Association _Collegium Academicum e.V._[^1] in order to give students the possibility to educate themselves and get involved beyond their studies. Being successor of the [former CA](/geschichte) that existed from 1945 to 1978 in Seminarstraße 2, the Association acts as a link between generations and encourages the exchange of experiences.
 
+{{< quotes source="team" size="2" iconsize="256" first=14 after=12 >}}
 
 Our team is motivated, active and open. We see ourselves as designers and facilitators of the future dormitory. We [invite everybody interested]({{< relref "/pages/unterstuetzen/mach-mit" >}}) to participate in our project. [Our vision]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) summarises the goals and principles governing our living together.
 
