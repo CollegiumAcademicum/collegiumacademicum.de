@@ -7,7 +7,7 @@
     {{ $cnt = len $.Site.Data.quotes_supporters.quotes_supporters }}
 {{ end }}
 {{ $first := int ( default $cnt (.Get "first")) }}
-{{ $after := int ( default 1 (.Get "after")) }}
+{{ $after := int ( default 0 (.Get "after")) }}
 
 <div class='modalgrid columns is-multiline is-gapless is-hidden-mobile'>
         {{ range first $first (after $after (.Scratch.Get "quotes_data")) }}
