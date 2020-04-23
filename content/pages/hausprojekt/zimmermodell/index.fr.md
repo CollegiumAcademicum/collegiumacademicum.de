@@ -14,8 +14,6 @@ slug: "chambre-prototype"
     </div>
 </div>
 
-{{< zimmer-map >}}
-
 <h3>Nos remerciements vont aux sponsors du modèle</h3>
 <div class="columns is-multiline">
     <div class="column is-3 is-offset-1"><a href="http://dgj.eu"><img src="/zimmermodell/sponsors/dgj.svg" /></a></div>
