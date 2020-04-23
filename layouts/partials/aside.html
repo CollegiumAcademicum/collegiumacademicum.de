@@ -22,7 +22,7 @@
       </div>
 
       <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></div>
+        <a href="{{ with .Site.GetPage "/anfahrt" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></a>
         <div class="card-content">
           {{ i18n "anfahrt-message" }}
           <a href="{{ with .Site.GetPage "/anfahrt" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "anfahrt" }}</a>
@@ -48,14 +48,14 @@
       </div>
 
       <div class="card is-hidden-mobile">
-        <div class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></div>
+        <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></a>
         <div class="card-content">
-          <a href="{{ with .Site.GetPage "/broschuere" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
+          <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
         </div>
       </div>
 
       <div class="card is-hidden-mobile">
-        <div class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></div>
+        <a href="{{ with .Site.GetPage "/zimmermodell" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></a>
         <div class="card-content">
           <a href="{{ with .Site.GetPage "/zimmermodell" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "unser-zimmermodell" }}</a>
         </div>
