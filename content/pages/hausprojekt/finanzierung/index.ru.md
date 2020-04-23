@@ -15,7 +15,7 @@ title: "ФИНАНСИРОВАНИЕ"
 
  Проект финансируется из разных источников: государственные субсидии, частные прямые кредиты и пожертвования, а также спонсорство и выполнение работ собственными силами. Кроме этого, мы получили кредиты в Банке развития ФРГ ([KfW](https://de.wikipedia.org/wiki/KfW)), и банке _UmweltBank_.
 
-{{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
 ### ГОСУДАРСТВЕННЫЕ СУБСИДИИ
 

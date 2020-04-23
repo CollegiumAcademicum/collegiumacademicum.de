@@ -39,7 +39,7 @@ wir einen von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.or
 gefördertem Bankkredit, welchen wir über die Umweltbank beantragt haben, die uns
 ebenfalls einen Kredit zur Verfügung stellt.
 
-{{< img src="bausteine_finanzierung" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
 ### Förderung
 

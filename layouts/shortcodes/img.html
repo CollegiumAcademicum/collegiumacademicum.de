@@ -2,7 +2,7 @@
 {{ $DataTarget := substr ( .Get "src" | md5 ) 0 8 }}
 
 {{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "src")) }}
-{{ $extension := index (split $original.Name ".") 1 }}
+{{ $extension := index (last 1 (split $original.Name ".")) 0 }}
 {{ if eq $extension "svg" }}
     {{ .Scratch.Set "image_big" ($original) }}
     {{ .Scratch.Set "image_medium" ($original) }}
