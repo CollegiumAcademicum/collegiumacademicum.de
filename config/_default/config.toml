@@ -36,6 +36,10 @@ big_imgsize = "1800"
   languageName = 'Français'
   weight = 3
 
+  [languages.ru]
+  languageName = 'русский'
+  weight = 4
+
 [imaging]
 quality = 60
 resampleFilter = "lanczos"
