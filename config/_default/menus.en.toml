@@ -3,8 +3,8 @@
     url = "/housing-project"
     weight = 1
 [[main]]
-    name = "Living"
-    url = "/living"
+    name = "Housing"
+    url = "/housing"
     weight = 1
     parent = "Housing Project"
 [[main]]
