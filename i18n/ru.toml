@@ -1,0 +1,89 @@
+[deine-mailadresse]
+other = "Ваш почтовый адрес"
+
+[kontakt]
+other = "Контактная информация"
+
+[literatur]
+other = "Литература"
+
+[presseartikel]
+other = "Статьи в прессе"
+
+[subscribe]
+other = "Подписаться"
+
+[eigene-veroeffentlichungen]
+other = "Собственные публикации"
+
+[mail-notwendig]
+other = "Ваш почтовый адрес необходим."
+
+[vorname]
+other = "Имя"
+
+[nachname]
+other = "Фамилия"
+
+[einziehen]
+other = "Заселение"
+
+[interesse-anmelden]
+other = "Мне интересно"
+
+[interesse-anmelden-message]
+other = "Ты хочешь заселиться в 2021 году в новый корпус КА? Свяжись с нами."
+
+[ich-will-spaeter-einziehen]
+other = "Мне интересно переехать попозже!"
+
+[newsletter-anmelde]
+other = "Подписаться"
+
+[voigl-message]
+other = "Вам нравится наша концепция самоуправляемого общежития и вы хотите ее поддержать­?"
+
+[voigl-message-button]
+other = "Поддержите нас прямым кредитом."
+
+[direktkredit-geben]
+other = "Дать прямой кредит"
+
+[spenden]
+other = "Пожертвования"
+
+[exkursionen]
+other = "Экскурсии"
+
+[exkursionen-message]
+other = "На данный момент наши экскурсии будут проводиться исключительно онлайн. Просто посетите нашу страницу в Facebook в данное время."
+
+[anfahrt]
+other = "Как проехать"
+
+[anfahrt-message]
+other = "Стройплощадка КА находится в Рорбахе на территории бывшего американского госпиталя."
+
+[unser-zimmermodell]
+other = "Модель комнаты"
+
+[broschure-ansehen]
+other = "брошюра (на немецком языке)"
+
+[newsletter]
+other = "Рассылка"
+
+[newsletter-message]
+other = "С нашей рассылкой (на немецком языке) вы всегда будете в курсе событий."
+
+[termine]
+other = "даты"
+
+[datenschutz]
+other = "Политика конфиденциальности"
+
+[code]
+other = "Исходный код"
+
+[impressum]
+other = "Уведомление о сайте"

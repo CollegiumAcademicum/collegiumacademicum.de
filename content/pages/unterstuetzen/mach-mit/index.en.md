@@ -20,7 +20,7 @@ slug: "join-us"
     </div>
 </div>
 
-Our dream is to make it happen in Heidelberg! To do this we need many [different creative and active people](/ueber-uns) with ideas!
+Our dream is to make it happen in Heidelberg! To do this we need many [different creative and active people](/en/about-us) with ideas!
 
 Join us and shape your environment yourself!
 Take a chance to construct your own future!

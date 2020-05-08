@@ -7,7 +7,7 @@ Collegium Academicum is a non-profit project and, therefore, no large investors 
 
 ## Funding
 
-Our sources of [Funding](/finanzierung) include bank loans, public grants, sponsoring, **direct loans and donations**. The direct loans are smaller loans made by individuals and companies. We use those as our own capital resources needed to be able to apply for regular bank loans. These direct loans are subordinate to bank loans and will be repaid from future rental income too. Please find more information on the direct loan section.
+Our sources of [Funding]({{< relref "/pages/hausprojekt/finanzierung" >}})  include bank loans, public grants, sponsoring, **direct loans and donations**. The direct loans are smaller loans made by individuals and companies. We use those as our own capital resources needed to be able to apply for regular bank loans. These direct loans are subordinate to bank loans and will be repaid from future rental income too. Please find more information on the direct loan section.
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">

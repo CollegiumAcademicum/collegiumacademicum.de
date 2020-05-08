@@ -57,3 +57,8 @@ text = "Die Eigenleistungen sowie die Einrichtung der offenen Werkstatt im Neuba
 img = "stadt_hd.png"
 link = "https://www.heidelberg.de/hd/HD/Leben/Foerderprogramme+Barrierefreiheit.html"
 text = "Das CA wird im Rahmen des Programms \"Barrierfreie Lebenslaufwohnungen\" und für den Bau im Passivhausstandard von der Stadt Heidelberg gefördert."
+
+[[partners]]
+img = "proclima.png"
+link = "https://proclima.com/"
+text = "Pro clima unterstützt uns mit Produkten und Fachwissen zur Dichtung der Gebäudehülle - für mehr Energieeffizienz, ein gutes Raumklima sowie Schutz vor Bauschäden und Schimmel."

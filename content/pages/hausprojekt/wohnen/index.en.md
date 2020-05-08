@@ -49,7 +49,7 @@ Self-managed dormitory, education and culture centre: the new Collegium Academic
     </div>
 </div>
 
-The [model of such an individual room](/zimmermodell) is currently on display in [several places](/en/map) in Heidelberg.
+The [model of such an individual room](/en/room-model) is currently on display in [several places](/en/map) in Heidelberg.
 
 In recognition of its innovative flexible way of living and sustainable construction concept focusing on common space, the project is supported by the Federal Ministry for Construction and obtained a grant over € 2.2 million under the “Variowohnen” future investment program.
 

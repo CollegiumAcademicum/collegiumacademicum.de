@@ -28,7 +28,7 @@ Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien
 
 <div class="columns">
     <div class="column">
-      La construction innovante en bois offre à la fois des espaces individuels et collectifs : 46 appartements en colocation de trois ou quatre personnes sont répartis sur les quatre étages du bâtiment. Un jardin sur le toit de l'auditorium relie les appartements supérieurs et crée un lieu de rencontre. Tous les appartements voies d’accès, en particulier au rez-de-chaussée, sont conçus et adaptés aux personnes à mobilité réduite. Les espaces communs sont également situés au rez-de-chaussée: l’atelier, l'auditorium et une salle multifonctionnelle avec cuisine.
+      La construction innovante en bois offre à la fois des espaces individuels et collectifs : 46 appartements en colocation de trois ou quatre personnes sont répartis sur les quatre étages du bâtiment. Un jardin sur le toit de l'auditorium relie les appartements supérieurs et crée un lieu de rencontre. Tous les appartements et voies d’accès, en particulier au rez-de-chaussée, sont conçus et adaptés aux personnes à mobilité réduite. Les espaces communs sont également situés au rez-de-chaussée: l’atelier, l'auditorium et une salle multifonctionnelle avec cuisine.
     </div>
     <div class="column">
         {{< img src="grundrissb" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2019" />}}
@@ -49,7 +49,7 @@ Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien
     </div>
 </div>
 
-Un  [prototype d’une telle chambre](/zimmermodell) se trouve actuellement [sur le site de l’ancien hôpital militaire.](/fr/carte)
+Un  [prototype d’une telle chambre](/fr/chambre-prototype) se trouve actuellement [sur le site de l’ancien hôpital militaire.](/fr/carte)
 
 Pour son caractère innovant dans le domaine de l'habitat flexible et un concept de construction durable axé sur les espaces collectifs, le projet est soutenu avec 2,2 millions d'euros par le programme "Variowohnen", un programme d'investissement du ministère fédéral de la construction, de la recherche et de la technologie pour la construction durable.
 

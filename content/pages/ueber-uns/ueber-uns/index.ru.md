@@ -1,6 +1,6 @@
 ---
 title: "О НАС"
-slug: "о-нас"
+slug: "О-НАС"
 ---
 
 {{< quotes source="team" size="2" iconsize="256" >}}
