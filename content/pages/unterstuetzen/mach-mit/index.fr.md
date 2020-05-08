@@ -19,7 +19,7 @@ title: "Participer"
     </div>
 </div>
 
-Réaliser un tel lieu à Heidelberg est notre rêve ! Il nous faut simplement [beaucoup de personnes différentes, créatives et actives](/ueber-uns), et avec de nombreuses idées !
+Réaliser un tel lieu à Heidelberg est notre rêve ! Il nous faut simplement [beaucoup de personnes différentes, créatives et actives](/fr/qui-sommes-nous), et avec de nombreuses idées !
 
 Viens et participe toi aussi à concevoir un cadre de vie commun ! Prends ton courage en main et viens t‘égarer avec nous - viens t'engager dans la conception d‘un avenir autodéterminé!
 

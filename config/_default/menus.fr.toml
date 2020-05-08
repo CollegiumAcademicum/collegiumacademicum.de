@@ -58,12 +58,17 @@
     weight = 1
     parent = "Qui sommes-nous?"
 [[main]]
+    name = "Chronologie"
+    url = "/chronologie"
+    weight = 2
+    parent = "Qui sommes-nous?"
+[[main]]
     name = "Liens & Presse"
     url = "/presse-liens"
-    weight = 2
+    weight = 3
     parent = "Qui sommes-nous?"
 [[main]]
     name = "Partenaires"
     url = "/partenaires"
-    weight = 3
+    weight = 4
     parent = "Qui sommes-nous?"

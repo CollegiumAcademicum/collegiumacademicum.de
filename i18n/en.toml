@@ -29,7 +29,7 @@ other = "Surname"
 other = "Moving in"
 
 [interesse-anmelden]
-other = "Show interest"
+other = "I am interested"
 
 [interesse-anmelden-message]
 other = "You are already interested in moving into the newly built CA in 2021? You can get in touch with us:"
@@ -41,7 +41,7 @@ other = "I am interested to move in later!"
 other = "Sign me up for the newsletter"
 
 [voigl-message]
-other = "You share our vision of a self-managed house community and would like to contribute to its realization?"
+other = "You share our vision of a self-managed house community and you would like to contribute to its realization?"
 
 [voigl-message-button]
 other = "Support us with a direct loan."
@@ -65,16 +65,16 @@ other = "How to get there"
 other = "The CA is located in Rohrbach on the site of the former US Hospital."
 
 [unser-zimmermodell]
-other = "Our Room-model"
+other = "Our Room model"
 
 [broschure-ansehen]
-other = "Informationsheet (in German)"
+other = "Our booklets (in German)"
 
 [newsletter]
 other = "Newsletter"
 
 [newsletter-message]
-other = "Sign up for our newsletter to stay up to date on all CA news (in German)."
+other = "Sign up for our newsletter to stay up-to-date on all CA news (in German)."
 
 [termine]
 other = "Dates"
