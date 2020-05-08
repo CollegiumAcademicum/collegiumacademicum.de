@@ -139,6 +139,6 @@ Plöck 93
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Request a direct loan</span>
+        <span>Grant a direct loan</span>
     </a>
 </div>
