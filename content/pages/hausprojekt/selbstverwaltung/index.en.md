@@ -2,7 +2,7 @@
 title: "Self-management"
 slug: "self-management"
 ---
-In the CA, we want to shape our community life ourselves, independent of outside interests. The basis for this is formed by bottom-up democratic structures such as flat hierarchies, consensus-oriented and transparent decision making.
+In the CA, we want to shape our community life ourselves, independently of outside interests. The basis for this is formed by bottom-up democratic structures such as flat hierarchies, consensus-oriented and transparent decision making.
 
 <div class="columns">
     <div class="column">

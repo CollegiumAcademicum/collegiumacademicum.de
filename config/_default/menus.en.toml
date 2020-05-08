@@ -28,7 +28,7 @@
     weight = 5
     parent = "Housing Project"
 [[main]]
-    name = "Room-Model"
+    name = "Room Model"
     url = "/room-model"
     weight = 6
     parent = "Housing Project"

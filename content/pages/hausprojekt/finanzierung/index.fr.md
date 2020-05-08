@@ -40,13 +40,13 @@ Si vous souhaitez également nous soutenir, vous pouvez en savoir plus sur les p
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Direktkredite</span>
+        <span>Accorder un crédit direct</span>
     </a>
     <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="fas fa-hand-holding-heart"></i>
         </span>
-        <span>Spenden</span>
+        <span>Faire un don</span>
     </a>
 </div>
 

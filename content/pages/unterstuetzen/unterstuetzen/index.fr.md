@@ -7,7 +7,7 @@ Le CA n'est pas un projet commercial et n'a donc pas de grands investisseurs. No
 
 ## FINANCEMENT
 
-Notre [financement](/finanzierung) consiste en un prêt bancaire, des subventions publiques, du sponsoring, **des „crédits directs“ et des dons**. Les „crédits directs“ sont des prêts de moindre importance qui nous sont accordés par des particuliers et des entreprises et qui fait office de capital propre lors de l‘emprunt bancaire. Ils sont remboursés de manière subordonnée au prêt bancaire par le biais des futurs loyers. Vous trouverez plus d'informations sur la page „crédits directs“.
+Notre [financement]({{< relref "/pages/hausprojekt/finanzierung" >}}) consiste en un prêt bancaire, des subventions publiques, du sponsoring, **des „crédits directs“ et des dons**. Les „crédits directs“ sont des prêts de moindre importance qui nous sont accordés par des particuliers et des entreprises et qui fait office de capital propre lors de l‘emprunt bancaire. Ils sont remboursés de manière subordonnée au prêt bancaire par le biais des futurs loyers. Vous trouverez plus d'informations sur la page „crédits directs“.
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">
