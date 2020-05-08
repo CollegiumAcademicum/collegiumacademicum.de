@@ -4,7 +4,7 @@ title: "Education"
 
 <div class="color-block">Education in the CA is self-determined and holistic.</div>
 
-Developed by the house residents and open for everybody, _Studium Generale_ is a program of tutorials and events which will accompany university studies. It will reflect student interests and deal with key challenges in society. Gaining insight into various aspects of one’s own field of study and knowing the general tasks of science will be as important as concrete issues of sustainability. The goal is to support young academics internally as well as to provide a forum where speakers from different areas of life can present their views.
+Developed by the house residents and open for everybody, _Studium Generale_ is a program of tutorials and events which will accompany university studies. It will reflect student interests and deal with key challenges in society. Gaining insight into various aspects of one’s own field of study and knowing the general tasks of science will be as important as concrete issues of sustainability. The goal is to support young academics internally as well as to provide a forum where speakers from different areas of expertise can present their views.
 
 ## Educational Concept
 
@@ -15,7 +15,7 @@ A special feature of our educational concept is the _propaedeutic studies_ in th
         Specifically for these preparatory studies, a scientific advisory board will be established. It will consist of active and former professors and scientists who will consult and support the concept.
     </div>
     <div class="column">
-        {{< img src="bib_schloss" alt="Ein Blick aus der Universitätsbibliothek auf das Heidelberger Schloss." attr="Margarete Over 2016" />}}
+        {{< img src="bib_schloss" alt="View out of the University Library in Heidelberg" attr="Margarete Over 2016" />}}
     </div>
 </div>
 
