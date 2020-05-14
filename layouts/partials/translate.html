@@ -3,7 +3,7 @@
 {{ $pageTrans := .Page.Translations }}
 {{ $base := .Site.BaseURL }}
 {{ $scr := .Scratch }}
-<span class="icon"><i class="fas fa-language"></i></span>
+<span class="icon"><i class="icon-language"></i></span>
 {{ range .Site.Languages }}
     {{ $lang := . }}
     {{ $scr.Set "missing" "true" }}

@@ -32,13 +32,13 @@ Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-inn
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Direct loans</span>
     </a>
     <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Donations</span>
     </a>

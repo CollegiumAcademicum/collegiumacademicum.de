@@ -11,13 +11,13 @@ title: "ПОДДЕРЖАТЬ"
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Direct loans</span>
     </a>
     <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Donations</span>
     </a>
@@ -30,7 +30,7 @@ title: "ПОДДЕРЖАТЬ"
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/mach-mit" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-wrench"></i>
+            <i class="icon-wrench"></i>
         </span>
         <span>Join us!</span>
     </a>

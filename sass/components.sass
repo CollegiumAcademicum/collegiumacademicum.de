@@ -196,3 +196,46 @@
     a
         color: $black
         display: inline
+
+// Icons
+.icon
+    &.heart
+        background: url()
+
+@font-face
+    font-family: 'fontello'
+    src: url('/fontello.woff2') format('woff2')
+
+[class^="icon-"]:before, [class*=" icon-"]:before
+    font-family: "fontello"
+    display: inline-block
+    text-decoration: inherit
+    width: 1em
+    text-align: center
+    font-size: 120%
+    font-style: normal
+
+.icon-home:before
+    content: '\e800'
+.icon-heart:before
+    content: '\e801'
+.icon-phone:before
+    content: '\e802'
+.icon-user:before
+    content: '\e803'
+.icon-exclamation:before
+    content: '\e804'
+.icon-wrench:before
+    content: '\e805'
+.icon-github-circled:before
+    content: '\f09b'
+.icon-mail-alt:before
+    content: '\f0e0'
+.icon-info:before
+    content: '\f129'
+.icon-euro:before
+    content: '\f153'
+.icon-language:before
+    content: '\f1ab'
+.icon-user-secret:before
+    content: '\f21b'

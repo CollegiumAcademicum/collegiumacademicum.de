@@ -15,7 +15,7 @@ novoigl: yes
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredit-geben" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Jetzt Direktkredit anfragen</span>
     </a>
@@ -146,7 +146,7 @@ Plöck 93
 <div class="buttons is-centered" style="margin-top:4em;">
     <a href="{{< relref "/pages/unterstuetzen/direktkredit-geben" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Jetzt Direktkredit anfragen</span>
     </a>

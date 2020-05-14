@@ -15,7 +15,7 @@ Bis Mitte Juli konnten wir darüber hinaus über __1.896.000 €__ an Direktkred
 <div class="buttons is-centered">
     <a href="{{< relref "direktkredite" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Direktkredite</span>
     </a>
@@ -25,4 +25,4 @@ Bis Mitte Juli konnten wir darüber hinaus über __1.896.000 €__ an Direktkred
  Außerdem freuen wir uns sehr über diverse Pressebeiträge zu unserem Projekt, das inzwischen auch in internationalen Medien Beachtung findet. Neben einem Radiobeitrag bei DLF Nova, waren wir unter anderem im Schweizer Magazin modulart und bei BBC Capital vertreten. Diese und weitere Beiträge können Sie <a
  href="https://collegiumacademicum.de/presse/">hier</a> finden.
 
-Am 13.7.2019 werden wir auf dem Heidelberger Fairwandeln mit einem Stand vertreten sein. Wir freuen uns mit Ihnen persönlich ins Gespräch zu kommen und über die Fortschritte des Projektes zu berichten.  
+Am 13.7.2019 werden wir auf dem Heidelberger Fairwandeln mit einem Stand vertreten sein. Wir freuen uns mit Ihnen persönlich ins Gespräch zu kommen und über die Fortschritte des Projektes zu berichten.
