@@ -14,6 +14,9 @@
     {{ $sass_options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
     {{ $style := resources.Get "sass/main.sass" | toCSS $sass_options | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ if eq .Site.Language.Lang "ru" }}
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+    {{ end }}
 
     {{ $mainjs := resources.Get "js/main.js" | minify }}
     <script async src="{{ $mainjs.Permalink }}"></script>
