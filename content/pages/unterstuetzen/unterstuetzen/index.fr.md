@@ -12,13 +12,13 @@ Notre [financement]({{< relref "/pages/hausprojekt/finanzierung" >}}) consiste e
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Crédits directs</span>
     </a>
     <a href="{{< relref "/pages/unterstuetzen/spenden" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-hand-holding-heart"></i>
+            <i class="icon-heart"></i>
         </span>
         <span>Dons</span>
     </a>
@@ -31,7 +31,7 @@ Nous sommes un groupe de projet ouvert et nous sommes toujours à la recherche d
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/unterstuetzen/mach-mit" >}}" class="button is-medium is-primary">
         <span class="icon">
-            <i class="fas fa-wrench"></i>
+            <i class="icon-wrench"></i>
         </span>
         <span>Participer</span>
     </a>
