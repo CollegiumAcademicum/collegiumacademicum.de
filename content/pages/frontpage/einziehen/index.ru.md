@@ -1,19 +1,19 @@
 ---
-title: "Присоединяйтесь к нам"
-slug: "Присоединяйтесь-к-нам"
+title: "Заселение"
+slug: "Заселение"
 ---
 
 {{< zimmer-video >}}
 
-The construction of the new, wooden building has already begun and will be finished in 2021. But a housing project only becomes a housing project through the many people who make it a joyful and lively place. Therefore we are very interested in finding great people as soon as possible who want to live there with us.
+Еще немного, и мы у цели: совсем скоро начнется строительство нашего студенческого общежития. В 2021 году оно будет готово. Но настоящим общежитием оно станет только тогда, когда его наполнят люди и жизнь закипит. Поэтому мы уже сейчас ищем симпатичных единомышленников, которые хотят жить там вместе с нами.
 
-If you are interested in sustainability, education and self-organisation, our address could become your address. Maybe you'll start studying in Heidelberg in 2021 and will be looking for an apartment? Or maybe you are enthusiastic about living in a large community? Or you may simply be looking for a change of scenery?
+Если экологичность, образование, самоуправление для тебя не пустые слова, наш  адрес может стать и твоим. В 2021 году ты начинаешь учиться в Гейдельберге и ищешь жилье? Ты хочешь жить в большом коллективе? Или тебе просто нужно сменить обстановку?
 
 {{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
 
-That you want to take your life together with other people into your own hands is the only important thing for us. Make yourself familiar with our [vision]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) and the ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ). If this fits to you, just sign up at the bottom of the page.
+Самое главное для нас – это твое желание взять жизнь в свои руки, вместе с другими. Познакомься с нашей [философией]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) и моделью ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ) (синдикат арендуемого жилья). Если тебе понравится, ты можешь зарегистрироваться внизу страницы.
 
-_P.S.:_ The weather forecast for hobbyists of all kinds and people enjoying do-it-yourself stuff is very good. We are building some of the furniture and facade elements by ourselves in our in-house workshop. Therefore, we welcome anyone motivated to help us! This also applies, of course, to the many other tasks that have to be done for such a huge project as the CA. If you would like to move in and/ or already have time, please contact us:
+_P.S.:_ Для любителей DIY и мастеров на все руки: прогноз погоды очень хороший! Часть мебели и элементов фасада мы собираем в собственной мастерской сами. И мы рады всем, кто готов помочь. Конечно же, помощь нужна и для других работ, возникающих при строительстве такого большого общежития. Хотите получить комнату в общежитии и у вас уже сейчас есть время? Свяжитесь с нами:
 [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
 
 {{< einziehen-signup >}}
