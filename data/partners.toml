@@ -62,3 +62,8 @@ text = "Das CA wird im Rahmen des Programms \"Barrierfreie Lebenslaufwohnungen\"
 img = "proclima.png"
 link = "https://proclima.com/"
 text = "pro clima unterstützt uns mit Produkten und Fachwissen zur Dichtung der Gebäudehülle - für mehr Energieeffizienz, ein gutes Raumklima sowie Schutz vor Bauschäden und Schimmel."
+
+[[partners]]
+img = "xfix.png"
+link = "http://www.x-fix.at/de/"
+text = "X-Fix unterstützt uns mit Holz-Holz Verbindern für ein umweltfreundliches Bauen mit Holz."
