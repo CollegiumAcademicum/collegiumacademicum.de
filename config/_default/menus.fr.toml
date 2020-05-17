@@ -13,8 +13,8 @@
     weight = 2
     parent = "Habitat autogéré"
 [[main]]
-    name = "Durabilité"
-    url = "/durabilité"
+    name = "Écologie"
+    url = "/ecologie"
     weight = 3
     parent = "Habitat autogéré"
 [[main]]
