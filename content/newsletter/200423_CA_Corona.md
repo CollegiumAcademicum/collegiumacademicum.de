@@ -26,7 +26,7 @@ Heutige Themen:
 - PS: Die Plöck 93 sucht ein neues Zuhause ab Sommer 2020
 
 <figure>
-<img src="/newsletter/mosaic.jpg" alt="Digitale Zusammenarbeit" title="Digitale Zusammenarbeit" width="50%" />
+<img src="/newsletter/digitale_zusammenarbeit.png" alt="Digitale Zusammenarbeit" title="Digitale Zusammenarbeit" width="50%" />
 <figcaption style="text-align:center;">
 <p>Einblick in unsere digitale Zusammenarbeit</p>
 </figcaption>
