@@ -3,6 +3,14 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "Mai 2020"
+content = "Baubeginn"
+
+[[timeline]]
+heading = "März 2020"
+content = "Einrichtung der Werkstatt und Anschschaffung einer CnC- Holzfräse für den Möbelselbstbau"
+
+[[timeline]]
 heading = "November 2019"
 content = "2.000.000€ in Direktkrediten eingeworben"
 

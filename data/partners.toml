@@ -67,3 +67,8 @@ text = "pro clima unterstützt uns mit Produkten und Fachwissen zur Dichtung der
 img = "xfix.png"
 link = "http://www.x-fix.at/de/"
 text = "X-Fix unterstützt uns mit Holz-Holz Verbindern für ein umweltfreundliches Bauen mit Holz."
+
+[[partners]]
+img = "velux.png"
+link = "https://www.velux.de/"
+text = "VELUX unterstützt uns mit Tageslicht-Lösungen in unserer Aula für ein gemeinschaftliches Miteinander mit viel Tageslicht und Frischluft."
