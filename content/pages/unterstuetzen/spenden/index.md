@@ -32,13 +32,13 @@ Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
     </p>
   </div>
   <div class="column">
-    {{< img src="Gruppenfoto_liegend_plan.jpg" alt="Aktive schauen liegend auf einen Plan am Boden"/>}}
+    {{< img src="Gruppenfoto_liegend_plan.jpg" alt="Mitglieder der Projektrgruppe besprechen einen Bauplan auf dem Boden"/>}}
   </div>
 </div>
 
 <div class="columns">
   <div class="column">
-  {{< img src="Gruppenfoto_Saege.jpg" alt="Aktive stehen an der Saege und disktuieren."/>}}
+  {{< img src="Gruppenfoto_Saege.jpg" alt="Mitglieder der Projektgruppe stehen an einer Holzsäge und diskutieren."/>}}
   </div>
 
   <div class="column">
