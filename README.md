@@ -64,3 +64,9 @@ Encode videos two times as [recommended by Mozilla](https://developer.mozilla.or
     ```bash
     ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libvpx -crf 20 -c:a libopus -b:a 96k output_video.webm
     ```
+
+### Icons
+
+Get from http://fontello.com/.
+
+Icons needed: heart, euro, user, mail-alt, exclamation, wrench, phone, info, user-secret, github-circled, home, language
