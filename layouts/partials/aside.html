@@ -30,15 +30,6 @@
       </div>
 
       <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "newsletter" }}</p>
-          {{ i18n "newsletter-message" }}
-          {{ partial "newsletter-signup.html" }} <br />
-        </div>
-      </div>
-
-      <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
         <div class="card-content">
           <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
@@ -47,17 +38,19 @@
         </div>
       </div>
 
-      <div class="card is-hidden-mobile">
-        <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></a>
+      <div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/infopaket.jpg" | relURL }});"></div>
         <div class="card-content">
-          <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
+          <p class="title is-3 is-marginless">{{ i18n "newsletter" }}</p>
+          {{ i18n "newsletter-message" }}
+          {{ partial "newsletter-signup.html" }} <br />
         </div>
       </div>
 
       <div class="card is-hidden-mobile">
-        <a href="{{ with .Site.GetPage "/zimmermodell" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/zimmermodell.jpg" | relURL }});"></a>
+        <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></a>
         <div class="card-content">
-          <a href="{{ with .Site.GetPage "/zimmermodell" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "unser-zimmermodell" }}</a>
+          <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
         </div>
       </div>
 
