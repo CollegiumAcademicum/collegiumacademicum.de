@@ -9,12 +9,12 @@
 {{ $first := int ( default $cnt (.Get "first")) }}
 {{ $after := int ( default 0 (.Get "after")) }}
 
-<div class='modalgrid columns is-multiline is-gapless is-hidden-mobile'>
+<div class='modalgrid columns is-multiline is-gapless is-mobile'>
         {{ range first $first (after $after (.Scratch.Get "quotes_data")) }}
 
         {{ $DataTarget := substr .img 0 -4 }}
             <div class="column is-{{ $.Params.size }}" >
-                <div class="modal-figure image is-128x128">
+                <div class="modal-figure image">
                     <figure class="modal-button" style="background-image: url(/img/{{ $.Params.source }}/{{ .img }})" data-target="modal-{{ $DataTarget }}" ></figure>
                 </div>
             </div>
