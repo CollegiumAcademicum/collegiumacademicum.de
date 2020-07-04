@@ -36,7 +36,6 @@ aufgestellt, sodass unsere Baustelle nun bei der Ausfahrt aus Heidelberg
 	</div>
 	<div style="flex-basis:40%;">
 		<img src="/newsletter/stand_baustelle_juni.jpg" alt="Stand der Baustelle Ende Juni" title="Stand der Baustelle Ende Juni" width="100%" />
-		<p style="margin-bottom: 0; color: gray">Unser erster selbstgefertigter Schreibtisch</p>		
 	</div>
 </div>
 
