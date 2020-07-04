@@ -1,14 +1,9 @@
-<!-- Newsletter phplist -->
-<!-- REMINDER: Adapt the action attribute to the actually used list and the numbers in the list[x] and listname[x] fields -->
 <div>
   <form action="https://list.collegiumacademicum.de/?p=subscribe&id=7" method="post"  name="subscribeform">
     <div class="field has-addons">
       <div class="control has-icons-left">
-	<input class="input" type="email" name="email" value="" placeholder="{{ i18n "deine-mailadresse" }}"/>
-	<!-- <script language="Javascript" type="text/javascript">addFieldToCheck("email","E-Mail");</script> -->
-	<span class="icon is-small is-left">
-	  <i class="icon-mail-alt"></i>
-	</span>
+        <input class="input" type="email" name="email" value="" placeholder="{{ i18n "deine-mailadresse" }}"/>
+        <span class="icon is-small is-left"><i class="icon-mail-alt"></i></span>
       </div>
       <input type="hidden" name="htmlemail" value="1" />
       <input type="hidden" name="list[2]" value="signup" />
