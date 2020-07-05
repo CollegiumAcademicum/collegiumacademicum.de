@@ -2,11 +2,15 @@
 title: "Bewerbung"
 ---
 
+<form>
+
+<p>Schön, dass Du Lust hast, ins CA einzuziehen</p>
+
 <h2>Allgemein</h2>
 <div class="field">
-    <label class="label">Name</label>
+    <label class="label">Name *</label>
     <div class="control has-icons-left">
-        <input type="text" name="attribute1" class="input" />
+        <input type="text" name="attribute1" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -14,7 +18,7 @@ title: "Bewerbung"
 </div>
 
 <div class="field">
-    <label class="label" for="EMAIL">E-Mail</label>
+    <label class="label" for="EMAIL">E-Mail *</label>
     <div class="control has-icons-left">
         <input type="email" name="email" value="" class="input required email"
             id="EMAIL" size="55" />
@@ -33,15 +37,16 @@ title: "Bewerbung"
 
 <div class="field">
     <label class="label">Welche Punkte an unserem Leitbild sind dir besonders
-        wichtig, welchen Punkten stehst du kritisch gegenüber?</label>
+        wichtig, welchen Punkten stehst du kritisch gegenüber? *</label>
     <div class="control">
         <textarea class="textarea" placeholder="Pflichtfeld" maxlength="1000"
             required="required"></textarea>
     </div>
+    <p class="help is-success">Unser Leitbild findest Du <a href="/leitbild">hier</a>.</p>
 </div>
 
 <div class="field">
-    <label class="label">Warum hast Du Lust auf Selbstverwaltung?</label>
+    <label class="label">Warum hast Du Lust auf Selbstverwaltung? *</label>
     <div class="control">
         <textarea class="textarea" placeholder="Pflichtfeld" maxlength="1000"
             required="required"></textarea>
@@ -51,7 +56,7 @@ title: "Bewerbung"
 <div class="field">
     <label class="label">Was sollten wir sonst noch über Dich wissen?</label>
     <div class="control">
-        <textarea class="textarea" placeholder="Pflichtfeld"
+        <textarea class="textarea" placeholder="Optional"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -65,6 +70,59 @@ title: "Bewerbung"
     Du folgende Fragen beantwortest. Wenn Du die Fragen nicht beantworten
     willst, ist das auch kein Problem.
 </p>
+
+<p>
+    Hier keine Angaben zu machen wird sich <b>nicht</b> negativ auf deine Bewerbung auswirken!
+</p>
+<!-- <div class="field is-horizontal">
+    <div class="field-body">
+        <div class="field">
+            <label class="label">Zum Zeitpunkt des Einzugs (2021) was wird Deine offizielle Tätigkeit sein?</label>
+            <div class="control">
+                <div class="select">
+                    <select>
+                        <option>Studium</option>
+                        <option>Promotion</option>
+                        <option>Ausbildung</option>
+                        <option>Sonstiges</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="field">
+            <label class="label">Falls Sonstiges:</label>
+            <div class="control">
+                <input type="text" class="input" maxlength="100">
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<div class="field">
+    <label class="label">Was is Deine offizielle Tätigkeit?</label>
+    <div class="control">
+        <div class="select">
+            <select>
+                <option>Studium</option>
+                <option>Promotion</option>
+                <option>Ausbildung</option>
+                <option>Sonstiges</option>
+            </select>
+        </div>
+    </div>
+    <p class="help">Bitte gib deine erwartete Tätigkeit zum Zeitpunkt des Einzugs 2021 an.</p>
+</div>
+
+<div class="field">
+    <label class="label">Wenn Studium oder Promotion, welche Fachrichtung? Wenn
+        Ausbildung, für welchen Beruf?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60">
+    </div>
+    <p class="help">Falls Du unter Tätigkeit Sonstiges angegeben hast, kannst du hier auch eine Ergänzung schreiben.</p>
+</div>
+
+<hr>
 
 
 <div class="field">
@@ -91,31 +149,11 @@ title: "Bewerbung"
     </div>
 </div>
 
+<hr>
+
 <div class="field">
     <label class="label">Bist Du auf eine barrierefreie Wohnung
         angewiesen?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60">
-    </div>
-</div>
-
-<div class="field">
-    <label class="label">Was ist Deine offizielle Tätigkeit?</label>
-    <div class="control">
-        <div class="select">
-            <select>
-                <option>Studium</option>
-                <option>Promotion</option>
-                <option>Ausbildung</option>
-                <option>Sonstiges</option>
-            </select>
-        </div>
-    </div>
-</div>
-
-<div class="field">
-    <label class="label">Wenn Studium oder Promotion, welche Fachrichtung? Wenn
-        Ausbildung, für welchen Beruf?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60">
     </div>
@@ -136,9 +174,14 @@ title: "Bewerbung"
     </div>
 </div>
 
+<hr>
 
-<div class="field is-grouped">
+<p>Nach dem Absenden bekommst Du eine Bestätigungsmail an Deine angegebene Adresse.</p>
+
+<div class="field">
     <div class="control">
         <button class="button is-link">Abschicken</button>
     </div>
 </div>
+
+</form>
