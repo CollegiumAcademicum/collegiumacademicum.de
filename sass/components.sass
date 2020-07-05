@@ -92,8 +92,9 @@
                 transition: 4 * $speed
     .modal
         .image
-            display: inline-block
-            vertical-align: top
+            +tablet
+                display: inline-block
+                vertical-align: top
         blockquote
             display: inline-block
             border-radius: $radius-large
@@ -101,10 +102,13 @@
             box-shadow: $box-shadow
             max-height: 40vh
             overflow-y: scroll
-        .is-128x128 + blockquote
-            width: calc(100% - 132px)
-        .is-256x256 + blockquote
-            width: calc(100% - 260px)
+            +mobile
+                margin-top: 0.5em
+        +tablet
+            .is-128x128 + blockquote
+                width: calc(100% - 132px)
+            .is-256x256 + blockquote
+                width: calc(100% - 260px)
         .modal-content
             overflow-y: hidden
 
