@@ -23,6 +23,6 @@ Réaliser un tel lieu à Heidelberg est notre rêve ! Il nous faut simplement [b
 
 Viens et participe toi aussi à concevoir un cadre de vie commun ! Prends ton courage en main et viens t‘égarer avec nous - viens t'engager dans la conception d‘un avenir autodéterminé!
 
-Il suffit de nous écrire un e-mail ou de passer directement nous voir - nous avons notre réunion hebdomadaire **tous les mercredis à 18 heures dans la Sandgasse 7 à Heidelberg.**
+Il suffit de nous écrire un e-mail ou de passer directement nous voir - nous avons notre réunion hebdomadaire **tous les mercredis à 18 heures** ([ancien hôpital américain, Karlsruher Straße]({{https://www.openstreetmap.org/#map=17/49.37609/8.68707}} )).
 
 ## À très bientôt!
