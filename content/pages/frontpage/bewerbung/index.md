@@ -1,16 +1,35 @@
 ---
 title: "Bewerbung"
+url: "/bewerbung/index.php"
 ---
+{{< php >}} 
+<?php
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
-<form>
 
+require '../../php_libs/PHPMailer/src/Exception.php';
+require '../../php_libs/PHPMailer/src/PHPMailer.php';
+require '../../php_libs/PHPMailer/src/SMTP.php';
+
+// Import Formr Class
+require_once '../../php_libs/formr/class.formr.php';
+
+// Creates the form: command inserts the html form tag
+$form = new Formr();
+echo $form->form_open();
+?>
+{{< /php >}}
 <p>Schön, dass Du Lust hast, ins CA einzuziehen</p>
 
 <h2>Allgemein</h2>
 <div class="field">
-    <label class="label">Name *</label>
-    <div class="control has-icons-left">
-        <input type="text" name="attribute1" class="input" maxlength="100" />
+<label class="label" for="full_name">Name *</label>
+	<div class="control has-icons-left">
+        <input type="text" name="full_name" value="" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -18,10 +37,10 @@ title: "Bewerbung"
 </div>
 
 <div class="field">
-    <label class="label" for="EMAIL">E-Mail *</label>
+    <label class="label" for="email">E-Mail *</label>
     <div class="control has-icons-left">
         <input type="email" name="email" value="" class="input required email"
-            id="EMAIL" size="55" />
+            id="email" size="55" />
         <span class="icon is-small is-left">
             <i class="icon-mail-alt"></i>
         </span>
@@ -36,27 +55,27 @@ title: "Bewerbung"
     Zeichen. Die ersten beiden Felder sind Pflichtfelder.</p>
 
 <div class="field">
-    <label class="label">Welche Punkte an unserem Leitbild sind dir besonders
+    <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind dir besonders
         wichtig, welchen Punkten stehst du kritisch gegenüber? *</label>
     <div class="control">
-        <textarea class="textarea" placeholder="Pflichtfeld" maxlength="1000"
+        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000"
             required="required"></textarea>
     </div>
     <p class="help is-success">Unser Leitbild findest Du <a href="/leitbild">hier</a>.</p>
 </div>
 
 <div class="field">
-    <label class="label">Warum hast Du Lust auf Selbstverwaltung? *</label>
+    <label class="label" for="selbstverwaltung">Warum hast Du Lust auf Selbstverwaltung? *</label>
     <div class="control">
-        <textarea class="textarea" placeholder="Pflichtfeld" maxlength="1000"
+        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" maxlength="1000"
             required="required"></textarea>
     </div>
 </div>
 
 <div class="field">
-    <label class="label">Was sollten wir sonst noch über Dich wissen?</label>
+    <label class="label" for="sonstiges">Was sollten wir sonst noch über Dich wissen?</label>
     <div class="control">
-        <textarea class="textarea" placeholder="Optional"
+        <textarea name="sonstiges" class="textarea" placeholder="Optional"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -76,10 +95,10 @@ title: "Bewerbung"
 </p>
 
 <div class="field">
-    <label class="label">Was is Deine offizielle Tätigkeit?</label>
+    <label class="label" for="taetigkeit">Was is Deine offizielle Tätigkeit?</label>
     <div class="control">
         <div class="select">
-            <select>
+            <select name="taetigkeit">
                 <option>Studium</option>
                 <option>Promotion</option>
                 <option>Ausbildung</option>
@@ -91,7 +110,7 @@ title: "Bewerbung"
 </div>
 
 <div class="field">
-    <label class="label">Wenn Studium oder Promotion, welche Fachrichtung? Wenn
+    <label class="label" for="fachrichtung">Wenn Studium oder Promotion, welche Fachrichtung? Wenn
         Ausbildung, für welchen Beruf?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60">
@@ -158,8 +177,62 @@ title: "Bewerbung"
 
 <div class="field">
     <div class="control">
+<label class="sr-only" for="submit"></label>
+<input type="submit" name="submit" value="Submit" class="btn" id="submit">
         <button class="button is-link">Abschicken</button>
     </div>
 </div>
 
-</form>
+{{< php >}}
+<?php
+echo $form->form_close();
+
+if($form->submit()){
+	$full_name = $form->post('full_name');
+	$email = $form->post('email','Email','valid_email');
+	$leitbild = $form->post('leitbild');
+	$selbstverwaltung = $form->post('selbstverwaltung');
+	
+	print($email);
+		// Instantiation and passing `true` enables exceptions
+	$mail = new PHPMailer(true);
+	try {
+
+	   //Recipients
+        $mail->setFrom('bewerbung@collegiumacademicum.de', 'Auswahl Team');
+		$mail->addAddress($email, $full_name);     // Add a recipient
+		// $mail->addAddress('ellen@example.com');               // Name is optional
+		$mail->addReplyTo('kontakt@collegiumacademicum.com', 'Collegium Academicum');
+		//$mail->addCC('cc@example.com');
+		//$mail->addBCC('bcc@example.com');
+
+
+
+    // Attachments
+    //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+    //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+
+    // Content
+    // $mail->isHTML(true);                                  // Set email format to HTML
+    $mail->Subject = 'Bewerbung Collegium Academicum';
+    // $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    
+	$body = "Bewerbung von $full_name\n\n
+Leitbild:\n$leitbild\n
+Selbstverwaltung:\n
+$selbstverwaltung";
+			 
+	$mail->Body = $body;
+
+    $mail->send();
+
+    echo 'Message has been sent';
+
+} catch (Exception $e) {
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+}
+
+	}
+?>
+{{< /php >}}
+
