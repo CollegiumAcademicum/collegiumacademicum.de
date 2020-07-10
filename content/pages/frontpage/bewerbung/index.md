@@ -182,43 +182,52 @@ echo $form->form_open();
 <?php
 echo $form->form_close();
 
-if($form->submit()){
-    $get_post =  function($val) { return $form->post($val); };
-    $fields = ['full_name', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts']
+function send_mail($from, $to, $data) {
+    $mail = new PHPMailer(true);
+    $hr = str_repeat("-", 45);
 
-    $data = array_map($get_post, $fields);
-    $data['email'] = $form->post('email','Email','valid_email');
-    $data_repr = "{$hr}\n\n";
-    foreach ($data as $key => $value) {
-        $data_repr .= "{$key}:\t{$value}\n";
-    }
-    $data_repr .= "\n{$hr}\n";
+    try {
+        call_user_func_array(array($mail, "setFrom"), $from);
+        call_user_func_array(array($mail, "addAddress"), $to);
+        call_user_func_array(array($mail, "addReplyTo"), $from);
 
-	print($email);
-    // Instantiation and passing `true` enables exceptions
-	$mail = new PHPMailer(true);
-	try {
+        $mail->Subject = "Bewerbung {$data['full_name']} Collegium Academicum";
 
-	   //Recipients
-        $mail->setFrom('bewerbung@collegiumacademicum.de', 'Auswahl Team');
-		$mail->addAddress($email, $full_name);     // Add a recipient
-		$mail->addReplyTo('kontakt@collegiumacademicum.com', 'Collegium Academicum');
-
-        // Content
-        $mail->Subject = 'Bewerbung Collegium Academicum';
-        $hr = str_repeat("-", 45);
-        $body = "Bewerbung von {$full_name}\n
-        $body .= "Mit Daten:\n{$data_repr}\n"
+        $body = "Bewerbung von {$full_name}\n";
+        $body .= "Mit Daten:\n";
+        $body .= "{$hr}\n\n";
+        foreach ($data as $key => $value) {
+            $body .= "{$key}:\t{$value}\n";
+        }
+        $body .= "\n{$hr}\n";
 
         $mail->Body = $body;
         $mail->send();
 
         echo 'Message has been sent';
-
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
 
-	}
+}
+
+if($form->submit()){
+    $get_post =  function($val) { return $form->post($val); };
+    $fields = ['full_name', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
+
+    $data = array_map($get_post, $fields);
+
+    $applicant = array($form->post('email','Email','valid_email'), $data['full_name']);
+
+    // The id of the auswahl team this email goes to
+    $rid = rand(1,5);
+    $contact = array("bewerbung{$rid}@collegiumacademicum.de", "Auswahl Team");
+
+    // Send the mail to the applicant as a confirmation
+    send_mail($contact, $applicant, $data);
+
+    // Send the mail to us @ posteo
+    // send_mail($applicant, $contact, $data);
+}
 ?>
 {{< /php >}}
