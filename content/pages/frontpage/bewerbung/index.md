@@ -30,13 +30,13 @@ title: "Bewerbung"
 
 <h2>Textfragen</h2>
 
-<p>Um Dich und deine Einstellung zum CA kennenzulernen haben wir hier
+<p>Um Dich und Deine Einstellung zum CA kennenzulernen haben wir hier
     drei ausführlichere Fragen. Bitte beantworte sie in höchstens 1.000
     Zeichen. Nur die ersten beiden Felder sind Pflichtfelder.</p>
 
 <div class="field">
-    <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind dir besonders
-        wichtig, welchen Punkten stehst du kritisch gegenüber? *</label>
+    <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind Dir besonders
+        wichtig, welchen Punkten stehst Du kritisch gegenüber? *</label>
     <div class="control">
         <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
     </div>
@@ -69,7 +69,7 @@ title: "Bewerbung"
 </p>
 
 <p>
-    Hier keine Angaben zu machen wird sich <b>nicht</b> negativ auf deine Bewerbung auswirken!
+    Hier keine Angaben zu machen wird sich <b>nicht</b> negativ auf Deine Bewerbung auswirken!
 </p>
 
 <div class="field">
@@ -85,7 +85,7 @@ title: "Bewerbung"
             </select>
         </div>
     </div>
-    <p class="help">Bitte gib deine erwartete Tätigkeit zum Zeitpunkt des Einzugs 2021 an.</p>
+    <p class="help">Bitte gib Deine erwartete Tätigkeit zum Zeitpunkt des Einzugs 2021 an.</p>
 </div>
 
 <div class="field">
@@ -93,7 +93,7 @@ title: "Bewerbung"
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="occupation_subject">
     </div>
-    <p class="help">Falls Du unter Tätigkeit Sonstiges angegeben hast, kannst du hier auch eine Ergänzung schreiben.</p>
+    <p class="help">Falls Du unter Tätigkeit Sonstiges angegeben hast, kannst Du hier auch eine Ergänzung schreiben.</p>
 </div>
 
 <hr>
@@ -103,11 +103,11 @@ title: "Bewerbung"
     <div class="control">
         {{< nationality-form >}}
     </div>
-    <p class="help">Falls Du mehere Staatsangehörigkeiten besitzt, kannst du dir auch gerne eine Aussuchen.</p>
+    <p class="help">Falls Du mehere Staatsangehörigkeiten besitzt, kannst Du Dir auch gerne eine Aussuchen.</p>
 </div>
 
 <div class="field">
-    <label class="label" for="gender">Wie würdest du Deine geschlechtliche Zugehörigkeit
+    <label class="label" for="gender">Wie würdest Du Deine geschlechtliche Zugehörigkeit
         bezeichnen?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="gender">
