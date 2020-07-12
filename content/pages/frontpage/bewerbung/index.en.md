@@ -76,11 +76,11 @@ title: "Application"
     <div class="control">
         <div class="select">
             <select name="occupation">
+                <option>No answer</option>
                 <option>Student</option>
                 <option>Doctorate</option>
                 <option>Apprenticeship</option>
                 <option>Other</option>
-                <option>No answer</option>
             </select>
         </div>
     </div>
@@ -100,7 +100,7 @@ title: "Application"
 <div class="field">
     <label class="label" for="nationality">What nationality do you have?</label>
     <div class="control">
-        {{< nationality-form >}}
+        {{< nationality-form  lang="en" >}}
     </div>
     <p class="help">If you own multiple citizenships you may also choose one of them here.</p>
 </div>
