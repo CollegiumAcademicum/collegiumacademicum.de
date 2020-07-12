@@ -77,6 +77,7 @@ title: "Bewerbung"
     <div class="control">
         <div class="select">
             <select name="occupation">
+                <option>Keine Angabe</option>
                 <option>Studium</option>
                 <option>Promotion</option>
                 <option>Ausbildung</option>
