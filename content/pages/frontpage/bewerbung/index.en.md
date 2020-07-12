@@ -152,7 +152,7 @@ title: "Application"
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
-          <input type="hidden" name="language" value="de">
+          <input type="hidden" name="language" value="en">
         <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
 </div>
