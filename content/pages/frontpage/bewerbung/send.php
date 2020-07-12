@@ -74,7 +74,7 @@ function send_mail($from, $to, $data, $lang, $with_message) {
 
         $body = "{$i18n[$lang]['dear']} {$data['full_name']},";
         if ($with_message) {
-            $body .= "\n{$i18n[$lang]['mail-message']}";
+            $body .= "\n\n{$i18n[$lang]['mail-message']}";
         }
 
         $body .= $hr;
