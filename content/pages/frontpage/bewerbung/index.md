@@ -146,7 +146,7 @@ title: "Bewerbung"
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="contacts">
     </div>
-    <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen wie Du bewerben.</p>
+    <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie Du bewerben.</p>
 </div>
 
 <hr>
