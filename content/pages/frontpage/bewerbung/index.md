@@ -153,6 +153,8 @@ title: "Bewerbung"
 
 <p>Nach dem Absenden bekommst Du eine Bestätigungsmail an Deine angegebene Adresse.</p>
 
+<p>Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest Du weitere Informationen.</p>
+
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
