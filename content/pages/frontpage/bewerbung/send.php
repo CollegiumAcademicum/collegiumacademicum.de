@@ -71,16 +71,19 @@ function send_mail($from, $to, $data, $lang, $with_message) {
         call_user_func_array(array($mail, "addReplyTo"), $from);
 
         $mail->Subject = "{$i18n[$lang]['application']} {$data['full_name']} Collegium Academicum";
+        $body = "";
 
-        $body = "{$i18n[$lang]['dear']} {$data['full_name']},";
         if ($with_message) {
+            $body .= "{$i18n[$lang]['dear']} {$data['full_name']},";
             $body .= "\n\n{$i18n[$lang]['mail-message']}";
         }
 
         $body .= $hr;
         $body .= "{$i18n[$lang]['with-data']}\n\n";
         foreach ($data as $key => $value) {
-            $body .= "{$i18n[$lang][$key]}:\t{$value}\n";
+            $_val = wordwrap(str_replace("\n", "\n\t", $value), 60, "\n\t");
+            $body .= "{$i18n[$lang][$key]}:\n";
+            $body .= "\t{$_val}\n";
         }
         $body .= $hr;
 
@@ -104,7 +107,11 @@ if($form->submit()){
 
     $data = ["email" => $form->post('email','Email','valid_email')];
     foreach ($fields as $field) {
-        $data[$field] = $form->post($field);
+        $_dat = $form->post($field);
+        if (mb_strlen($_dat, 'utf8') > 2500) {
+            $_dat = substr($_dat, 0, 2500);
+        }
+        $data[$field] = $_dat;
     }
     // no idea why this doesnt work?
     // $get_post =  function($val) { return $form->post($val); };
