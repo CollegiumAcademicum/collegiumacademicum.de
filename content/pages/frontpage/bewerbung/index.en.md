@@ -1,11 +1,11 @@
 ---
-title: "Bewerbung"
+title: "Application"
 ---
 
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
-<p>Schön, dass Du Lust hast, ins CA einzuziehen.</p>
+<p>Awesome that you are interested in moving into the CA.</p>
 
-<h2>Allgemein</h2>
+<h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -28,30 +28,29 @@ title: "Bewerbung"
 </div>
 
 
-<h2>Textfragen</h2>
+<h2>Text questions</h2>
 
-<p>Um Dich und deine Einstellung zum CA kennenzulernen haben wir hier
-    drei ausführlichere Fragen. Bitte beantworte sie in höchstens 1.000
-    Zeichen. Nur die ersten beiden Felder sind Pflichtfelder.</p>
+<p>To learn about you and how good you would fit into the CA, we ask you three
+    longer text questions. Please keep it short and answer in less than
+    1.000 characters. Only the first two fields are mandatory.</p>
 
 <div class="field">
-    <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind dir besonders
-        wichtig, welchen Punkten stehst du kritisch gegenüber? *</label>
+    <label class="label" for="leitbild">Which points about our vision are important to you? Are there some that you are critical about? *</label>
     <div class="control">
         <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
     </div>
-    <p class="help is-success">Schau Dir <a href="/leitbild">Unser Leitbild</a> an.</p>
+    <p class="help is-success">Take a look at <a href="/vision">our vision</a>.</p>
 </div>
 
 <div class="field">
-    <label class="label" for="selbstverwaltung">Warum hast Du Lust auf Selbstverwaltung? *</label>
+    <label class="label" for="selbstverwaltung">Why do want to live in self-managed housing? *</label>
     <div class="control">
         <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="sonstiges">Was sollten wir sonst noch über Dich wissen?</label>
+    <label class="label" for="sonstiges">Is there something else we should know about you?</label>
     <div class="control">
         <textarea name="sonstiges" class="textarea" placeholder="Optional"
             maxlength="1000"></textarea>
@@ -59,55 +58,55 @@ title: "Bewerbung"
 </div>
 
 
-<h2>Diversität</h2>
+<h2>Diversity</h2>
 
 <p>
-    Um die Vielfalt in unserem Wohnheim zu sichern haben wir uns verschiedene
-    Quoten gesetzt. Bitte hilf uns, diese nicht aus dem Auge zu verlieren, indem
-    Du folgende Fragen beantwortest. Wenn Du die Fragen nicht beantworten
-    willst, ist das auch kein Problem.
+    To keep the house a diverse place we tasked ourselves with multiple soft
+    quotas. Please help us to not loose sight of those by answering the following
+    questions. If you don't want to answer any of the questions, that is also
+    fine.
 </p>
 
 <p>
-    Hier keine Angaben zu machen wird sich <b>nicht</b> negativ auf deine Bewerbung auswirken!
+    Not answering questions in this section will <b>not</b> have negative impact on your application!
 </p>
 
 <div class="field">
-    <label class="label" for="occupation">Was is Deine hauptsächliche offizielle Tätigkeit?</label>
+    <label class="label" for="occupation">What is your main official occupation?</label>
     <div class="control">
         <div class="select">
             <select name="occupation">
-                <option>Studium</option>
-                <option>Promotion</option>
-                <option>Ausbildung</option>
-                <option>Sonstiges</option>
+                <option>Student</option>
+                <option>Doctorate</option>
+                <option>Apprenticeship</option>
+                <option>Other</option>
+                <option>No answer</option>
             </select>
         </div>
     </div>
-    <p class="help">Bitte gib deine erwartete Tätigkeit zum Zeitpunkt des Einzugs 2021 an.</p>
+    <p class="help">Please answer with your expected ocupation at the expected moving date 2021.</p>
 </div>
 
 <div class="field">
-    <label class="label" for="occupation_subject">Wenn Studium oder Promotion, welche Fachrichtung? Wenn Ausbildung, für welchen Beruf?</label>
+    <label class="label" for="occupation_subject">If your studying, in which degree? If doing an apprenticeship, for which job?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="occupation_subject">
     </div>
-    <p class="help">Falls Du unter Tätigkeit Sonstiges angegeben hast, kannst du hier auch eine Ergänzung schreiben.</p>
+    <p class="help">If you answered with other in the previous question, you can also add an comment here.</p>
 </div>
 
 <hr>
 
 <div class="field">
-    <label class="label" for="nationality">Was ist Deine Staatsangehörigkeit?</label>
+    <label class="label" for="nationality">What nationality do you have?</label>
     <div class="control">
         {{< nationality-form >}}
     </div>
-    <p class="help">Falls Du mehere Staatsangehörigkeiten besitzt, kannst du dir auch gerne eine Aussuchen.</p>
+    <p class="help">If you own multiple citizenships you may also choose one of them here.</p>
 </div>
 
 <div class="field">
-    <label class="label" for="gender">Wie würdest du Deine geschlechtliche Zugehörigkeit
-        bezeichnen?</label>
+    <label class="label" for="gender">How would you call your gender identity?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="gender">
     </div>
@@ -125,38 +124,36 @@ title: "Bewerbung"
 <hr>
 
 <div class="field">
-    <label class="label" for="barrier_free">Bist Du auf eine barrierefreie Wohnung
-        angewiesen?</label>
+    <label class="label" for="barrier_free">Do you need accessible housing?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="barrier_free">
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="children">Hast Du Kinder, die mit Dir einziehen würden?</label>
+    <label class="label" for="children">Do you have childen that live with you?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="children">
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="contacts">Kennst Du bereits andere Leute, mit denen Du zusammenziehen
-        möchtest?</label>
+    <label class="label" for="contacts">Do you already know people that you want to move together with?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="contacts">
     </div>
-    <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen wie Du bewerben.</p>
+    <p class="help">That could be somebody also applying concurrently or already living in the house.</p>
 </div>
 
 <hr>
 
-<p>Nach dem Absenden bekommst Du eine Bestätigungsmail an Deine angegebene Adresse.</p>
+<p>After submitting, you will receive a confirmation mail to your given address.</p>
 
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
           <input type="hidden" name="language" value="de">
-        <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
+        <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
 </div>
 
