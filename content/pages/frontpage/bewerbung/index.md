@@ -1,86 +1,8 @@
 ---
 title: "Bewerbung"
-url: "/bewerbung/index.php"
 ---
-{{< php >}}
-<?php
-// Import PHPMailer classes into the global namespace
-// These must be at the top of your script, not inside a function
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\SMTP;
-use PHPMailer\PHPMailer\Exception;
 
-
-require '../../php_libs/PHPMailer/src/Exception.php';
-require '../../php_libs/PHPMailer/src/PHPMailer.php';
-require '../../php_libs/PHPMailer/src/SMTP.php';
-
-// Import Formr Class
-require_once '../../php_libs/formr/class.formr.php';
-
-// Creates the form: command inserts the html form tag
-$form = new Formr();
-
-function send_mail($from, $to, $data) {
-    $mail = new PHPMailer(true);
-    $hr = str_repeat("-", 45);
-
-    try {
-        call_user_func_array(array($mail, "setFrom"), $from);
-        call_user_func_array(array($mail, "addAddress"), $to);
-        call_user_func_array(array($mail, "addReplyTo"), $from);
-
-        $mail->Subject = "Bewerbung {$data['full_name']} Collegium Academicum";
-
-        $body = "Bewerbung von {$full_name}\n";
-        $body .= "Mit Daten:\n";
-        $body .= "{$hr}\n\n";
-        foreach ($data as $key => $value) {
-            $body .= "{$key}:\t{$value}\n";
-        }
-        $body .= "\n{$hr}\n";
-
-        $mail->Body = $body;
-        $mail->send();
-
-        echo 'Message has been sent';
-    } catch (Exception $e) {
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    }
-
-}
-
-
-if($form->submit()){
-    $fields = ['full_name', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
-
-    $data = [];
-    foreach ($fields as $field) {
-        echo $field;
-        $data[$field] = $form->post($field);
-    }
-    // no idea why this doesnt work?
-    // $get_post =  function($val) { return $form->post($val); };
-    // $data = array_map($get_post, $fields);
-
-    $applicant = array($form->post('email','Email','valid_email'), $data['full_name']);
-
-    // The id of the auswahl team this email goes to
-    $rid = rand(1,5);
-    $contact = array("bewerbung{$rid}@collegiumacademicum.de", "Auswahl Team");
-
-    // Send the mail to the applicant as a confirmation
-    send_mail($contact, $applicant, $data);
-
-    // Send the mail to us @ posteo
-    send_mail($applicant, $contact, $data);
-
-    header("Location:./");
-}
-
-echo $form->form_open();
-?>
-{{< /php >}}
+<form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass Du Lust hast, ins CA einzuziehen</p>
 
 <h2>Allgemein</h2>
@@ -232,12 +154,9 @@ echo $form->form_open();
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
+          <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
 </div>
 
-{{< php >}}
-<?php
-echo $form->form_close();
-?>
-{{< /php >}}
+</form>
