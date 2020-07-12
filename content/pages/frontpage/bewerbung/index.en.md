@@ -149,6 +149,8 @@ title: "Application"
 
 <p>After submitting, you will receive a confirmation mail to your given address.</p>
 
+<p>We are keeping this data only for the duration of your application, after which it will be deleted. Please see our <a href="https://collegiumacademicum.de/datenschutz/">Privacy Policy</a> for further information.</p>
+
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>

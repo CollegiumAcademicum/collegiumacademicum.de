@@ -30,9 +30,9 @@ $i18n = [
         "contacts" => "MitbewohnerInnen-Wunsch",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
-        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass wir das Intresse an selbst-verwalteten Wohnen mit dir teilen. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu deiner Bewerbung haben, kannst Du auf diese nachricht antowrten und sie wird die Person erreichen die deine Bewerbung bearbeitet.",
+        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass wir das Intresse an selbst-verwalteten Wohnen mit dir teilen. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese nachricht antowrten und sie wird die Person erreichen die Deine Bewerbung bearbeitet.",
         "with-data" => "Wir haben folgende Daten empfangen:",
-        "privacy-notice" => "Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest du weitere Informationen zu unserer Datenschutzerklärung.",
+        "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
     ],
     "en" => [
