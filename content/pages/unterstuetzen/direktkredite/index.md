@@ -29,22 +29,16 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen **2.100.000 EUR** (29. März 2020) Direktkredite
-zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!!** Danke an all
+Es ist uns gelungen **2.300.000 EUR** (Juni 2020) Direktkredite
+zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
+Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen, davon **500.000 € bis Ende September**.
 
-Im Folge der Ausschreibungsergebnisse haben wir unsere Kosten- und Wirtschaftlichkeitsrechnung für den Neubau überarbeitet. Da wir auch  von leichten Baukostensteigerungen betroffen sind, haben wir gemeinsam mit unser Bank die Kreditkonditionen angepasst und optimiert. Außerdem haben wir uns dafür entschieden, dass wir unsere eigenkapitalähnlichen Mittel für den Neubau in Form von Spenden, Direktkrediten, Sponsoring sowie Eigenleistung erhöhen, um die Mehrkosten auszugleichen.
+<progress class="progress is-large is-primary" value="2300" max="3800"></progress>
 
-
-Unser Ziel ist es also, **für den Neubau insgesamt weitere 200.000 € Direktkredite bis Ende April** einzuwerben. Außerdem werden wir danach **weitere Direktkredite und Spenden für die Finanzierung der beiden Altbauten** benötigen.
-Zudem gilt: Je höher der Anteil von Direktkrediten im Verhältnis zur Bankfinanzierung ist, desto größer ist unser Gestaltungsraum für bezahlbare Mieten und die erfolgreiche Umsetzung unseres Vorhabens.
-
-<progress class="progress is-large is-primary" value="2151" max="2386"></progress>
-
-
-Sie können also das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
+Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
 
 <section style="margin-top: 4em;">
   <div class="message toggle is-active">

@@ -29,11 +29,13 @@ Your help is welcome! Please take a look at our webpages and do not hesitate to 
 
 ## Current status
 
-We have managed to raise **€ 2,000,000 EUR** (09 November 2019) in direct loans to fund the New House! **Thank you!!** We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
+We have managed to raise **€ 2,300,000 EUR** (June 2020) in direct loans to fund the New House! **Thank you!** We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
 
-<progress class="progress is-large is-primary" value="2151" max="2386"></progress>
+<progress class="progress is-large is-primary" value="2300" max="3800"></progress>
 
-**You can still support the CA with your direct loans.** We already had to finance some costs for the old buildings in advance, and your support is still something we must rely on. Besides, the higher the share of the direct loans in proportion to the bank loans, the more room there is for affordable rent and bigger chances for success of our project.
+To finance the old building we still need your help and are thankful if you can participate in the collective success of the project. In total, we estimate the need of an additional 1.5 MM€ in direct loans, with **500.000 € until the end of September**.
+
+Besides, the higher the share of the direct loans in proportion to the bank loans, the more room there is for affordable rent and bigger chances for the success of our project.
 
 That is why we would be very glad about further support! Here you can read why we need direct loans and how they work.
 
