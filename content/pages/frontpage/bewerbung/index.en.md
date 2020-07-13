@@ -27,12 +27,19 @@ title: "Application"
     </div>
 </div>
 
+<div class="field">
+    <label class="label" for="age">Birthday *</label>
+    <div class="control">
+        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+    </div>
+</div>
+
 
 <h2>Text questions</h2>
 
 <p>To learn about you and how good you would fit into the CA, we ask you three
     longer text questions. Please keep it short and answer in less than
-    1.000 characters. Only the first two fields are mandatory.</p>
+    1.000 characters each. Only the first two fields are mandatory.</p>
 
 <div class="field">
     <label class="label" for="leitbild">Which points about our vision are important to you? Are there some that you are critical about? *</label>

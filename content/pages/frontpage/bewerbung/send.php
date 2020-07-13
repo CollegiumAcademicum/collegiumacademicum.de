@@ -13,11 +13,12 @@ require '../../php_libs/PHPMailer/src/SMTP.php';
 // Import Formr Class
 require_once '../../php_libs/formr/class.formr.php';
 
-$fields = ['full_name', 'email', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
+$fields = ['full_name', 'email', 'age', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
 $i18n = [
     "de" => [
         "full_name" => "Name",
         "email" => "E-mail",
+        "age" => "Geburtstag",
         "leitbild" => "Leitbild",
         "selbstverwaltung" => "Selbstverwaltung",
         "sonstiges" => "Über dich",
@@ -38,6 +39,7 @@ $i18n = [
     "en" => [
         "full_name" => "Name",
         "email" => "E-mail",
+        "age" => "Birthday",
         "leitbild" => "Our Vision",
         "selbstverwaltung" => "Self-management",
         "sonstiges" => "About you",
@@ -108,14 +110,12 @@ if($form->submit()){
     $data = ["email" => $form->post('email','Email','valid_email')];
     foreach ($fields as $field) {
         $_dat = $form->post($field);
+        // just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
         if (mb_strlen($_dat, 'utf8') > 2500) {
-            $_dat = substr($_dat, 0, 2500);
+            $_dat = mb_substr($_dat, 0, 2500, 'utf8');
         }
         $data[$field] = $_dat;
     }
-    // no idea why this doesnt work?
-    // $get_post =  function($val) { return $form->post($val); };
-    // $data = array_map($get_post, $fields);
 
     $applicant = array($data["email"], $data['full_name']);
 
