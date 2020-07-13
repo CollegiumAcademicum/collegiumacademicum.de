@@ -7,7 +7,7 @@ title: "Bewerbung"
 
 <h2>Allgemein</h2>
 <div class="field">
-<label class="label" for="full_name">Name *</label>
+    <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
         <input type="text" name="full_name" value="" class="input required" maxlength="100" required/>
         <span class="icon is-small is-left">
@@ -15,6 +15,7 @@ title: "Bewerbung"
         </span>
     </div>
 </div>
+
 
 <div class="field">
     <label class="label" for="email">E-Mail *</label>
@@ -27,11 +28,18 @@ title: "Bewerbung"
     </div>
 </div>
 
+<div class="field">
+    <label class="label" for="age">Geburtstag *</label>
+    <div class="control">
+        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+    </div>
+</div>
+
 
 <h2>Textfragen</h2>
 
 <p>Um Dich und Deine Einstellung zum CA kennenzulernen haben wir hier
-    drei ausführlichere Fragen. Bitte beantworte sie in höchstens 1.000
+    drei ausführlichere Fragen. Bitte beantworte sie in je höchstens 1.000
     Zeichen. Nur die ersten beiden Felder sind Pflichtfelder.</p>
 
 <div class="field">
