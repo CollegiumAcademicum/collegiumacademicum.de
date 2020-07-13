@@ -1,16 +1,12 @@
 <?php
-// Import PHPMailer classes into the global namespace
-// These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
-
 
 require '../../php_libs/PHPMailer/src/Exception.php';
 require '../../php_libs/PHPMailer/src/PHPMailer.php';
 require '../../php_libs/PHPMailer/src/SMTP.php';
 
-// Import Formr Class
 require_once '../../php_libs/formr/class.formr.php';
 
 $fields = ['full_name', 'email', 'age', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
@@ -31,7 +27,7 @@ $i18n = [
         "contacts" => "MitbewohnerInnen-Wunsch",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
-        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass wir das Intresse an selbst-verwalteten Wohnen mit dir teilen. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese nachricht antowrten und sie wird die Person erreichen die Deine Bewerbung bearbeitet.",
+        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass wir das Interesse an selbstverwaltetem Wohnen mit dir teilen. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese Nachricht antworten und sie wird die Person erreichen die Deine Bewerbung bearbeitet. Bitte sieh innerhalb der nächsten zwei Wochen davon ab, uns Rückfragen zum Stand deiner Bewerbung zu schicken.",
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
@@ -52,7 +48,7 @@ $i18n = [
         "contacts" => "Roommate wish",
         "application" => "Application",
         "application-sent" => "en/application-sent",
-        "mail-message" => "Thank you for your application to the Collegium Academicum!\nWe are happy that we share the interest in self-managed housing with you. With this message we are confirming, that we received your application. We will come back to you in the following two weeks. If you have any questions in the meantime, you can reply to this e-mail and you will reach the person that is responsible for yor application.",
+        "mail-message" => "Thank you for your application to the Collegium Academicum!\nWe are happy that we share the interest in self-managed housing with you. With this message we are confirming, that we received your application. We will come back to you in the following two weeks. If you have any questions in the meantime, you can reply to this e-mail and you will reach the person that is responsible for yor application. Please avoid inquiring about the state of your application for the first two weeks.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",
@@ -96,7 +92,7 @@ function send_mail($from, $to, $data, $lang, $with_message) {
         $mail->Body = $body;
         $mail->send();
     } catch (Exception $e) {
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}. Please contact m_frank@collegiumacademicum.de";
+        echo "Message could from {$from[0]} to {$to[0]} not be sent.\nMailer Error: {$mail->ErrorInfo}.\nPlease, contact m_frank@collegiumacademicum.de";
     }
 }
 
