@@ -1,7 +1,13 @@
 <div class="select">
-    <select>
-        {{ range $.Site.Data.nationalities.nationalities }}
-        <option>{{ . }}</option>
+    <select name="nationality">
+        {{ if eq (.Get "lang") "en" }}
+            {{ range $.Site.Data.en.nationalities.nationalities }}
+            <option>{{ . }}</option>
+            {{ end }}
+        {{else}}
+            {{ range $.Site.Data.nationalities.nationalities }}
+            <option>{{ . }}</option>
+            {{ end }}
         {{ end }}
     </select>
 </div>
