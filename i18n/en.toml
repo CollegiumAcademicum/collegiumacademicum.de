@@ -90,3 +90,9 @@ other = "Site Notice"
 
 [submit]
 other = "Submit"
+
+[bewerbung]
+other = "Application"
+
+[bewerben]
+other = "Apply"
