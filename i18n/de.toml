@@ -32,7 +32,10 @@ other = "Einziehen"
 other = "Interesse anmelden"
 
 [interesse-anmelden-message]
-other = "Du hast jetzt bereits Interesse daran 2021 in das frisch gebaute CA einzuziehen? Dann melde dich bei uns:"
+other = "Du hast jetzt bereits Interesse daran 2021 in das frisch gebaute CA einzuziehen und in der Selbstverwaltung mitzugestalten?"
+
+[melde-dich]
+other = "Dann melde dich bei uns:"
 
 [ich-will-spaeter-einziehen]
 other = "Ich habe Interesse später einzuziehen!"

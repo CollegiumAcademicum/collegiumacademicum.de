@@ -32,7 +32,10 @@ other = "Moving in"
 other = "I am interested"
 
 [interesse-anmelden-message]
-other = "You are already interested in moving into the newly built CA in 2021? You can get in touch with us:"
+other = "You are already interested in moving into the newly built CA in 2021 and to participate in the self-management?"
+
+[melde-dich]
+other = "Then get in touch with us:"
 
 [ich-will-spaeter-einziehen]
 other = "I am interested to move in later!"
