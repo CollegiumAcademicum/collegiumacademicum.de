@@ -71,9 +71,16 @@
     </div>
 
     <main class="section">
-        {{ block "main" . }}
-        <!-- The part of the page that begins to differ between templates -->
-        {{ end }}
+        <div class="container">
+            {{ block "main" . }}
+            <!-- The part of the page that begins to differ between templates -->
+            {{ end }}
+
+            {{ if not (isset .Params "novoigl") }}
+                {{ partial "voigl-message.html" .}}
+            {{ end }}
+        </div>
+
     </main>
 
     {{ partial "footer.html" }}

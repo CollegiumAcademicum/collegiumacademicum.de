@@ -1,19 +1,12 @@
 {{ define "title" }} {{ .Title }} - {{ .Site.Title }} {{ end }}
 
 {{ define "main" }}
-<div class="container">
-    <div class="columns is-centered">
-        <section class="column is-10">
-            <h1 class="title is-1">{{ .Title }}</h1>
-            <div class="content">
-                {{ .Content }}
-            </div>
-
-            {{ if isset .Params "novoigl" }}
-            {{ else }}
-            {{ partial "voigl-message.html" .}}
-            {{ end }}
-        </section>
-    </div>
+<div class="columns is-centered">
+    <section class="column is-10">
+        <h1 class="title is-1">{{ .Title }}</h1>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </section>
 </div>
 {{ end }}
