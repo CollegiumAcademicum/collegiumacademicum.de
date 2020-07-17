@@ -2,14 +2,12 @@
 
 
 {{ define "main" }}
-<div class="container">
-    <div class="columns">
-        <section class="front column is-three-fifths">
-            <div class="content">
-                {{ .Content }}
-            </div>
-        </section>
-        {{ partial "aside.html" . }}
-    </div>
+<div class="columns">
+    <section class="front column is-three-fifths">
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </section>
+    {{ partial "aside.html" . }}
 </div>
 {{ end }}

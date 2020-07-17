@@ -1,24 +1,22 @@
 {{ define "title" }} {{ .Title }} - {{ .Site.Title }} {{ end }}
 
 {{ define "main" }}
-<div class="container">
-    <div class="columns is-centered">
-        <section class="column is-10">
-            <h1 class="title is-1">{{ .Title }}</h1>
-            <div class="content">
-                {{ range .Paginator.Pages }}
-                    <hr>
-                    <article class="">
-                        <h2>{{ .Title }}</h2>
-                        <date class="tag is-small">{{.Date.Format "2006-01-02"}}</date>
-                        <div class="">
-                            {{ .Content }}
-                        </div>
-                    </article>
-                {{ end }}
-            </div>
-            {{ template "_internal/pagination.html" . }}
-        </section>
-    </div>
+<div class="columns is-centered">
+    <section class="column is-10">
+        <h1 class="title is-1">{{ .Title }}</h1>
+        <div class="content">
+            {{ range .Paginator.Pages }}
+                <hr>
+                <article class="">
+                    <h2>{{ .Title }}</h2>
+                    <date class="tag is-small">{{.Date.Format "2006-01-02"}}</date>
+                    <div class="">
+                        {{ .Content }}
+                    </div>
+                </article>
+            {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
+    </section>
 </div>
 {{ end }}
