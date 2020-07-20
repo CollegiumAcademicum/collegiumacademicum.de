@@ -53,6 +53,7 @@ $i18n = [
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",
     ]];
+$number_of_inboxes = 4;
 
 // Creates the form: command inserts the html form tag
 $form = new Formr();
@@ -116,7 +117,7 @@ if($form->submit()){
     $applicant = array($data["email"], $data['full_name']);
 
     // The id of the auswahl team this email goes to
-    $rid = rand(1,5);
+    $rid = rand(1,$number_of_inboxes);
     $contact = array("bewerbung{$rid}@collegiumacademicum.de", "Collegium Academicum");
 
     // Send the mail to the applicant as a confirmation
