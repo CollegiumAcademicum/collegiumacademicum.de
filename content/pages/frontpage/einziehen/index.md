@@ -1,5 +1,6 @@
 ---
 title: "Einziehen"
+novoigl: yes
 ---
 
 {{< zimmer-video >}}
