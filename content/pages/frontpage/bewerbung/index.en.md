@@ -1,5 +1,6 @@
 ---
 title: "Application"
+novoigl: yes
 ---
 
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">

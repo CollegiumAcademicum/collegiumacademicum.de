@@ -1,6 +1,7 @@
 ---
 title: "Moving in"
 slug: "moving-in"
+novoigl: yes
 ---
 
 {{< zimmer-video >}}
