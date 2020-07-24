@@ -7,9 +7,32 @@ novoigl: yes
 
 Nicht mehr lange und es ist soweit: **Ende 2021** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Bewerbungen für Plätze im neuen CA sind ab sofort möglich, die **Hälfte der Plätze soll bereits bis Ende 2020 vergeben werden**!
 
-Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du 2021 ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
+<div class="columns" style="margin-top: 2em;">
+    <div class="column">
+    {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
+        {{< img src="projektgruppe" desc="Das ist das Pförtnerhaus an der Einfahrt auf das Gelände US Hospital. Wir planen dieses Gebäude in ein selbstverwaltetes Café umzugestalten." attr="Johannes Roßnagel 2017" />}}
+        {{< img src="werkstatt" alt="Die Holzwerkstatt ist im Altbau schon vorbereitet. Die Projektgruppe und künftige Mitbewohner*innen werden am Bau des Wohnheims beteiligt sein, durch die selbständige Konstruktion von Holzmöbeln und Bauteilen. Du bist handwerklich begabt oder willst so etwas lernen? Perfekt!" attr="Uli Hillenbrand 2020" />}}
+        {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir bauen das Wohnheim gemeinsam und auf dem Weg lernen wir voneinander und unterstützen einander." attr="Johannes Roßnagel 2019" />}}
+    {{< /img >}}
+    </div>
+    <div class="column">
+        Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du 2021 ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
+    </div>
+</div>
 
-{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
+Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird vorraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Stromkosten. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt hängt vor allem von der Entwicklung der Baukosten ab.
+
+<div class="columns" style="margin-top: 2em;">
+    <div class="column">
+        Die Zimmer sind gut 14qm groß und befinden sich in 3er oder 4er Wohngeimeinschaften. Die Zimmer können auf 7qm halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt und der Dachgarten.
+    </div>
+    <div class="column">
+        {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
+            {{< img src="zimmer" desc="So ungefähr wird ein einzelnes Zimmer später aussehen. Zu sehen ist unser Zimmermodell / Demonstrator. Gemütliches Leben, moderne Architektur und nachhaltige Rohstoffe!" attr="Johannes Roßnagel 2019" />}}
+            {{< img src="wohnung" alt="Ein kleines Modell zweier zukünftigen Wohnungen. Am unteren Rand zu sehen ist der Laubengang, der alle Wohnungen verbindet. Die roten Kennzeichnung zeigen, wie Du später flexibel deine Zimmergröße selbst anpassen kannst, zusammen mit deiner Wohngemeinschaft." attr="dgj Architekten 2017" />}}
+        {{< /img >}}
+    </div>
+</div>
 
 Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann bewirb dich gerne auf einen Platz bei uns und / oder trag dich am Ende der Seite auf den entsprechenden [Newsletter](#einziehen_form) ein.
 Eine weitere Bedingung ist, dass du studierst, eine Ausbildung machst oder promovierst.

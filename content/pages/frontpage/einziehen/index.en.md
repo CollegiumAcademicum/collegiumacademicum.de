@@ -9,9 +9,32 @@ novoigl: yes
 
 The construction of the new wooden building has already begun and we are finally ready: **End of 2021** the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now and **half of the rooms will be filled by the end of 2020**!
 
-If you are interested in sustainability, education and self-organisation, our address could become your address. Maybe you'll start studying in Heidelberg in 2021 and will be looking for an apartment? Or maybe you are enthusiastic about living in a large community? Or you may simply be looking for a change of scenery?
+<div class="columns" style="margin-top: 2em;">
+    <div class="column">
+    {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
+        {{< img src="projektgruppe" desc="This is the small porter house at the entrance to the areal. We are planning to transform this building to a self-organized cafe." attr="Johannes Roßnagel 2017" />}}
+        {{< img src="werkstatt" alt="The wood workshop is already set up in the old house. The project group and later residents will be participating at the house construction by building wooden parts and furniture on their own. Are you a do-it-yourself person or want to get better at it? Perfect!" attr="Uli Hillenbrand 2020" />}}
+        {{< img src="teamwork" alt="Self-organization means teamwork. We are building the new house as a team an always learn from each other on the was and support each other." attr="Johannes Roßnagel 2019" />}}
+    {{< /img >}}
+    </div>
+    <div class="column">
+        If you are interested in sustainability, education and self-organisation, our address could become your address. Maybe you'll start studying in Heidelberg in 2021 and will be looking for an apartment? Or maybe you are enthusiastic about living in a large community? Or you may simply be looking for a change of scenery?
+    </div>
+</div>
 
-{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
+Here a small summary of the numbers about living in the new CA house: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
+
+<div class="columns" style="margin-top: 2em;">
+    <div class="column">
+        The rooms are approximately 14 square meters big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 square meters which vice versa increases the common room size of the flat. Included in the rent, are also the big common areas in the house, for example, the big assembly hall for 600 people, the multi-functional room and the big roof terrace.
+    </div>
+    <div class="column">
+        {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
+            {{< img src="zimmer" desc="This is our test-build of a room, how it will most likely look like. Cozy living, modern architecture and renewable ressources!" attr="Johannes Roßnagel 2019" />}}
+            {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which will serve as the connection between all flats. The red markings show, how you can flexibly change your room size togehter with your flat-mates." attr="dgj Architekten 2017" />}}
+        {{< /img >}}
+    </div>
+</div>
 
 The most important for us is that you want to take your life into your own hands, together with other people. Make yourself familiar with [our vision]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) and the ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ). If this fits to you, then please apply for a room and / or sign up for the [newsletter](#einziehen_form) at the bottom of the page. Another condition is that you are studying, doing an apprenticeship or a doctorate.
 
