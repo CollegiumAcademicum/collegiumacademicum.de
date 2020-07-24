@@ -16,17 +16,25 @@
 {{ $image_medium := .Scratch.Get "image_medium" }}
 {{ $image_big := .Scratch.Get "image_big" }}
 {{ $srcset := printf "%s %sw, %s %sw, %s %sw" $image_small.RelPermalink $.Site.Params.sml_imgsize $image_medium.RelPermalink $.Site.Params.med_imgsize $image_big.RelPermalink $.Site.Params.big_imgsize }}
+
+{{ $alt := .Get "alt" }}
+{{ $desc := .Get "desc" | markdownify }}
+{{ $attr := .Get "attr" }}
+
 {{ with .Parent}}
 <figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
         src="" data-src="{{ $image_medium.RelPermalink }}"
         srcset="" data-srcset="{{ $srcset }}"
         class="image {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
-    {{ with .Get "attr" }}
     <figcaption>
-        <cite>© {{.}}</cite>
+        {{ if $desc }}
+            <p>{{ $desc }}</p>
+        {{ else }}
+            <p>{{$alt}}</p>
+        {{ end }}
+        <cite>© {{ $attr }}</cite>
     </figcaption>
-    {{ end }}
 </figure>
 {{ else}}
 <figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
@@ -35,11 +43,9 @@
         srcset="{{ $srcset }}"
         data-target="modal-{{ $DataTarget }}"
         class="image modal-button {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
-    {{ with .Get "attr" }}
     <figcaption>
-        <cite>© {{.}}</cite>
+        <cite>© {{ $attr }}</cite>
     </figcaption>
-    {{ end }}
 </figure>
 
 <div id="modal-{{ $DataTarget }}" class="modal">
@@ -53,19 +59,14 @@
                     src="" data-src="{{ $image_medium.RelPermalink }}"
                     srcset="" data-srcset="{{ $srcset }}"
                     class="image"/>
-                {{ if or (.Get "alt") (.Get "attr") (.Get "desc")}}
                 <figcaption>
-                    {{ with .Get "alt"}}
-                    <span>{{.}}</span>
+                    {{ if $desc }}
+                        <p>{{ $desc }}</p>
+                    {{ else }}
+                        <p>{{$alt}}</p>
                     {{ end }}
-                    {{ with .Get "desc"}}
-                    <p>{{. | markdownify }}</p>
-                    {{ end }}
-                    {{ with .Get "attr"}}
-                        <cite>© {{.}}</cite>
-                    {{ end }}
+                    <cite>© {{ $attr }}</cite>
                 </figcaption>
-                {{ end }}
             </figure>
             {{ end }}
         </div>
