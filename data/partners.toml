@@ -69,6 +69,11 @@ link = "http://www.x-fix.at/de/"
 text = "X-Fix unterstützt uns mit Holz-Holz Verbindern für ein umweltfreundliches Bauen mit Holz."
 
 [[partners]]
+img = "dehn.png"
+link = "https://www.dehn.de/de"
+text = "DEHN unterstützt uns mit Blitzschutzmaterialien für ein sicheres Zusammenleben im Wohnheim."
+
+[[partners]]
 img = "velux.png"
 link = "https://www.velux.de/"
 text = "VELUX unterstützt uns mit Tageslicht-Lösungen in unserer Aula für ein gemeinschaftliches Miteinander mit viel Tageslicht und Frischluft."
