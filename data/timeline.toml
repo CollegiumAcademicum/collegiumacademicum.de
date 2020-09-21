@@ -3,12 +3,28 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "September 2020"
+content = "Beginn der Planung für die Sanierung der Altbauten, in Zusammenarbeit mit dem <a href='https://gerstner-hofmeister.de/'>Architekturbüro Gerstner + Hofmeister</a> "
+
+[[timeline]]
+heading = "August 2020"
+content = "<img src='workcamp.jpg' />Zweiwöchiger Deutsch-Französischer Workcamp"
+
+[[timeline]]
+heading = "Juli 2020"
+content = "Beginn der Direktkreditwerbung für die Altbauten"
+
+[[timeline]]
 heading = "Mai 2020"
-content = "Baubeginn"
+content = "Baubeginn (Neubau)"
 
 [[timeline]]
 heading = "März 2020"
 content = "Einrichtung der Werkstatt und Anschschaffung einer CnC- Holzfräse für den Möbelselbstbau"
+
+[[timeline]]
+heading = "2020"
+center = true
 
 [[timeline]]
 heading = "November 2019"
