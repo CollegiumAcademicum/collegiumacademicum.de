@@ -3,6 +3,30 @@ heading = "AUJOURD'HUI"
 center = true
 
 [[timeline]]
+heading = "Septembre 2020"
+content = "Début de la planification de la rénovation des anciens bâtiments, en coopération avec le <a href='https://gerstner-hofmeister.de/'>bureau d'architecture Gerstner + Hofmeister</a> "
+
+[[timeline]]
+heading = "Août 2020"
+content = "<img src='workcamp.jpg' />Chantier participatif franco-allemand"
+
+[[timeline]]
+heading = "Juillet 2020"
+content = "Début du financement participatif pour la rénovation des deux bâtiments existants"
+
+[[timeline]]
+heading = "Mai 2020"
+content = "Mise en chantier du bâtiment bois"
+
+[[timeline]]
+heading = "Mars 2020"
+content = "Installation de l'atelier et achat d'une fraiseuse à bois CnC pour la construction de meubles"
+
+[[timeline]]
+heading = "2020"
+center = true
+
+[[timeline]]
 heading = "Novembre 2019"
 content = "2.000.000€ levés en financement participatif (crédits directs)."
 

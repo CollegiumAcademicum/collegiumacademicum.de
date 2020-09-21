@@ -57,6 +57,11 @@
     url = "/mach-mit"
     weight = 3
     parent = "Unterstützen"
+[[main]]
+    name = "Förderverein"
+    url = "/foerderverein"
+    weight = 4
+    parent = "Unterstützen"
 
 [[main]]
     name = "Über uns"

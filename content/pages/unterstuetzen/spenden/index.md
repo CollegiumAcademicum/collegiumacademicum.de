@@ -74,7 +74,7 @@ oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
   GLS Gemeinschaftsbank eG<br>
   <b>Verwendungszweck:</b> Spende CA, Ihr Name
 </div>
-<!--
+
 ### Sachspenden
 
 Ergänzend zu den Geldspenden bieten Sachspenden eine wertvolle Unterstützung für die gemeinschaftliche Nutzung der Räume.
@@ -83,4 +83,4 @@ Sowohl für die aktuelle als auch für die zukünftige Nutzung freuen wir uns au
 - Große Kochtöpfe
 - Küchenaustattung im Allgemeinen
 - Möbelspenden
-- Material für die Werkstatt-->
+- Material für die Werkstatt
