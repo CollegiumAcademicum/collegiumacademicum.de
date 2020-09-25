@@ -77,3 +77,8 @@ text = "DEHN unterstützt uns mit Blitzschutzmaterialien für ein sicheres Zusam
 img = "velux.png"
 link = "https://www.velux.de/"
 text = "VELUX unterstützt uns mit Tageslicht-Lösungen in unserer Aula für ein gemeinschaftliches Miteinander mit viel Tageslicht und Frischluft."
+
+[[partners]]
+img = "estlcam.png"
+link = "https://www.estlcam.de/"
+text = "Estlcam unterstützt uns mit Lizenzen für ihre CAD Software."
