@@ -14,6 +14,11 @@ attr = "Margarete Over"
 quote = "Ich engagiere und begeistere mich für das CA, weil es jungen Leuten durch die Selbstverwaltung ermöglicht, sich in einem demokratischen Erfahrungsraum weiterzuentwickeln. Mein Wunsch ist es, dass das CA in die Stadt hineinwirkt und Ausgangspunkt vielfältiger Initiativen und Projekte ist – künstlerisch, ökologisch, sozial. Ich bringe mich aktuell insbesondere in die Verwaltung und die Finanzierung ein."
 
 [[quotes_team]]
+img = "nilsp.jpg"
+attr = "Nils Posch"
+quote = "Die Faszination, welche das Projekt in sich birgt, ergibt sich aus der Überlegung, dass Bildung, Nachhaltigkeit und Selbstverwaltung zusammen gedacht werden. Diese Idee war und ist für mich in dieser Konstellation ein absolutes Novum. Außerdem ist es notwendiger denn je, dass Orte der politischen, sozialen und kulturellen Begegnung fernab von Konsum und Profitinteressen entstehen - das CA wird dafür einen wunderbaren Erfahrungsraum schaffen. Zur Zeit engagiere ich mich in der Öffentlichkeits-AG."
+
+[[quotes_team]]
 img = "nilss.jpg"
 attr = "Nils Schween"
 quote = "Gemeinsam Leben bedeutet politische Praxis. Das zukünftige CA bietet Platz, dieses Leben mannigfaltig auszugestalten und schafft auf diese Weise Raum für junge Menschen, sich politisch zu entwickeln und auszuprobieren. Ich hoffe auf Generationen von kritischen Menschen."
@@ -34,9 +39,9 @@ attr = "Henrik Eckhardt"
 quote = "Ich bin davon überzeugt, dass es für die Stärkung von demokratischen Prinzipien sowie einer nachhaltigen ökologischen und sozialen Entwicklung unserer Gesellschaft, Orte wie das CA braucht. Aus diesen und vielen weiteren Gründen ist meine Motivation für dieses Projekt ungebrochen. Ich bringe mich vor allem bei Öffentlichkeitsarbeits- und Planungsthemen sowie der Finanzplanung ein."
 
 [[quotes_team]]
-img = "hannah.jpg"
-attr = "Hannah Hoffmann"
-quote ="Das CA besteht aus vielen unterschiedlichen Menschen, die eine gemeinsame Wertebasis teilen und sich dennoch in vielerlei Hinsicht unterscheiden. Die Zusammenarbeit in der Gruppe ermöglicht jeder/m eigene Ideale, ob nun Hierarchielosigkeit, ökologische Nachhaltigkeit, Gemeinschaft und Vielfalt miteinzubauen und ermutigt gleichzeitig durch Basisdemokratie und Konsensverfahren dazu, sich mit unterschiedlichen Positionen und Lebensrealitäten auseinanderzusetzten. Aus dieser Zusammenarbeit und Auseinandersetzung entsteht also nun ein ganz besonderes Wohnheim, das hoffentlich den zukünftigen Bewohner*innen das Erleben der gleichen bereichernden Erfahrungen ermöglicht und außerdem langfrisitg günstigen Wohnraum schafft und einen öffentlichen Freiraum zur kritischen Auseinandersetzung mit Allem bietet. Ich habe mich bis jetzt hauptsächlich in der Finanzierung engagiert."
+img = "charly.jpg"
+attr = "Charlotte Lachauer"
+quote = "Mit meinem Engagement im CA möchte ich dazu beitragen einen selbstverwalteten und bezahlbaren Wohnraum zu schaffen, der langfristig dem spekulativen Markt entzogen wird und der gleichzeitig als unkommerzieller Freiraum Menschen dazu motiviert, sich politisch, sozial und kreativ an einem gesellschaftlichen Miteinander zu engagieren."
 
 [[quotes_team]]
 img = "hella.jpg"
@@ -44,19 +49,9 @@ attr = "Hella Dilling"
 quote = "Ich engagiere mich in der Projektgruppe des CA, weil gemeinschaftliches Leben und Lernen bedeutet, tagtäglich auf seine Mitmenschen einzugehen, andere Perspektiven wahrzunehmen und Kompromissbereitschaft und Solidarität zu lernen - Haltungen, die in unserer individualisierten Gesellschaft zu kurz kommen."
 
 [[quotes_team]]
-img = "nilsp.jpg"
-attr = "Nils Posch"
-quote = "Die Faszination, welche das Projekt in sich birgt, ergibt sich aus der Überlegung, dass Bildung, Nachhaltigkeit und Selbstverwaltung zusammen gedacht werden. Diese Idee war und ist für mich in dieser Konstellation ein absolutes Novum. Außerdem ist es notwendiger denn je, dass Orte der politischen, sozialen und kulturellen Begegnung fernab von Konsum und Profitinteressen entstehen - das CA wird dafür einen wunderbaren Erfahrungsraum schaffen. Zur Zeit engagiere ich mich in der Öffentlichkeits-AG."
-
-[[quotes_team]]
 img = "maurice.jpg"
 attr = "Maurice Frank"
 quote = "Mir hat die Teamarbeit im CA gezeigt, was möglich ist, wenn eine kleine Gruppe mit Überzeugung für eine Sache arbeitet. Das selbstverwaltete und nachhaltige Wohnen, das wir schaffen, wird diese Erfahrung an viele spätere BewohnerInnen weiterreichen. Die Welt braucht junge Menschen mit Visionen und der Entschlossenheit, diese anzupacken. Ich bringe mich im CA in technischen Bereichen und der Planung ein."
-
-[[quotes_team]]
-img = "charly.jpg"
-attr = "Charlotte Lachauer"
-quote = "Mit meinem Engagement im CA möchte ich dazu beitragen einen selbstverwalteten und bezahlbaren Wohnraum zu schaffen, der langfristig dem spekulativen Markt entzogen wird und der gleichzeitig als unkommerzieller Freiraum Menschen dazu motiviert, sich politisch, sozial und kreativ an einem gesellschaftlichen Miteinander zu engagieren."
 
 [[quotes_team]]
 img = "isabelle.jpg"
@@ -69,29 +64,9 @@ attr = "Félix Girault"
 quote = "Was mich beim CA so motiviert, ist die Perspektive auf ein sehr konkretes Ergebnis - und ergänzt somit die eher theoretische Arbeit im Studium. Außerdem liegt das Projekt an der Schnittstelle vieler Thematiken, die mich interessieren: Klima- und Ressourcenschutz, gemeinschaftliches Wohnen, Demokratie im Alltag, aber auch Suffizienz und interdisziplinäres Lernen. Zurzeit engagiere ich mich vor allem im Bereich Öffentlichkeitsarbeit."
 
 [[quotes_team]]
-img = "juli.jpg"
-attr = "Julian Waibel"
-quote = "Unsere Gesellschaft braucht Projekte, in denen junge Menschen gemeinschaftlich leben und lernen können. Orte, an denen neue Ideen erprobt und alte Strukturen hinterfragt werden und wo jedem und jeder Einzelnen ermöglicht wird, sich nach seinen Vorstellungen in einer Gemeinschaft zu entfalten."
-
-[[quotes_team]]
-img = "ina.jpg"
-attr = "Ina Kuhn"
-quote = "Ich bin überzeugt von unserem Projekt, weil es auf verschiedenen Ebenen aktuelle Probleme thematisiert und wir gemeinschaftlich als Gruppe eine Idee verwirklichen, die meiner Meinung nach einen sehr großen Beitrag in unserer heutigen Gesellschaft darstellt. Wir leben demokratische Strukturen und flache Hierarchien und wollen auf diesem Wege zeigen, wie auch junge Menschen aktiv die Zukunft von Städten mit beeinflussen können. Durch das CA habe ich neben vielen spannenden inhaltlichen Aspekten zu alternativem Wohnraum auch einige persönliche Werte für mich neu definieren können. Ich bin hauptsächlich in der Öffentlichkeitsarbeit tätig."
-
-[[quotes_team]]
-img = "mathis.jpg"
-attr = "Mathis Wilk"
-quote = "Das CA verbindet Ökologie, Bildung und Selbstverwaltung und kann damit als fruchtbarer Multiplikator in die Stadt und die ganze Gesellschaft hinein wirken. Das Projekt wird ein Freiraum werden, in dem Menschen sich austauschen, engagieren, politisieren und kreativ ausdrücken können. Solchen Alternativen sind in Zeiten von Klimakatastrophen, Kapitalismus und Rechtsruck unglaublich wichtig. Ich engagiere mich vor allem im Bereich Öffentlichkeitsarbeit."
-
-[[quotes_team]]
 img = "nele.jpg"
 attr = "Nele Schäfer"
 quote ="Das CA ist das vielfältigste Projekt mit dem ich bisher in Berührung gekommen bin. Wir schaffen nicht nur bezahlbaren Wohnraum, der über Jahrzehnte hinweg Bestand haben wird, sondern auch einen Ort an dem selbstbestimmtes Leben und Lernen möglich ist. Einen Ort an dem sich Menschen begegnen, sich ausprobieren und engagieren können. Ich glaube solche Orte sind unglaublich wichtig für unsere Gesellschaft. Sie fördern nicht nur kritisches Denken, sondern auch Respekt gegenüber anderen Meinungen. Die vielfältigen sozialen, politischen und ökologischen Probleme, denen wir gegenüber stehen, brauchen zu ihrer Lösung, kritisch denkende Menschen, die sich trauen neue Wege zu gehen. Zurzeit engagiere ich mich in der AG Finanzierung."
-
-[[quotes_team]]
-img = "cyrus.jpg"
-attr = "Cyrus Amin Parsa"
-quote = "Wie kann es sein, dass eine Universitätsstadt, die von ihren Studierenden lebt, eben jenen kaum noch bezahlbaren Wohnraum bieten kann? Wohl vertraut mit der Problematik der heidelberger Wohnsituation, bin ich von der Vision des CA überzeugt und möchte mich neben dem Studium für deren Verwirklichung einbringen. Ich glaube an eine Gesellschaft, eine Gemeinschaft, in der man nicht nur für sich selber lebt, sondern sich um andere kümmert, an seine Nächsten und an die Zukunft denkt und verantwortungsvoll Alltäglichem wie Künftigem begegnet."
 
 [[quotes_team]]
 img = "klara.jpg"
@@ -132,3 +107,43 @@ quote = "Um ein solches Projekt umzusetzen, benötigt es viel Mut, Ausdauer, Lei
 img = "josse.jpg"
 attr = "Josse Schubert"
 quote = "Das CA ist nicht nur ein Beispiel für verantwortliches Handeln in unserem Alltag, sondern wird auch Generationen zukünftiger Bewohner*innen anregen, sich mit den Auswirkungen ihres Lebensstils und dem der sie umgebenden Gesellschaft zu beschäftigen. Damit hat das Projekt eine Reichweite wie wenig andere Projekte. Das macht es für mich zu dem Projekt, in dem ich durch mein Engagement besonders viel erreichen kann."
+
+[[quotes_team]]
+img = "johanna.jpg"
+attr = "Johanna Ueltzhöffer"
+quote = "Durch das CA-Projekt habe ich die Möglichkeit Gesellschaft zukunftsfähig mitgestalten zu können. Es vereint mir Wichtiges: Darunter beispielweise Nachhaltigkeit auf allen Ebenen, gemeinschaftliches und bezahlbares Wohnen sowie  ein umfassendes ganzheitliches Bildungsverständnis.  Beim Mitwirken im Projekt gibt es unglaublich viel Neues zu lernen - über seinen Horizont hinauszuwachsen, Konkretes anzupacken und wertvolle Gemeinschaft zu erleben. Insgesamt finde ich das folgende Motto sehr passend für die junge, hoch motivierte und engagierte Projektgruppe sowie das bisher schon Gewordene: Wo der Wille ist, ist auch ein Weg! Gerade engagiere ich mich vor allem in der Altbau-AG, was auch die Planung mit einem Architekturbüro beinhaltet."
+
+[[quotes_team]]
+img = "anja.jpg"
+attr = "Anja Popp"
+quote = "Ich bin davon überzeugt, dass unsere bisherige Art zu leben nicht zukunftsfähig ist und vieles neu gedacht werden muss. Das CA bietet einen Freiraum, in dem andere Arten des Wohnens und Lebens erprobt werden können. Mich begeistert die Idee eines Orts, an dem junge Menschen selbstverwaltet wohnen, an dem aktuelle Strukturen und Gewohnheiten kritisch hinterfragt und selbstständiges Denken und Lernen praktiziert werden. Deshalb - und wegen der tollen Gemeinschaft der Projektgruppe - unterstütze ich vor allem die AG Altbau."
+
+[[quotes_team]]
+img = "karl.jpg"
+attr = "Karl Kraus"
+quote = "Das Collegium Academicum ist ein Leuchtturmprojekt, im Bezug auf ökologische Nachhaltigkeit, Bildung und Selbstermächtigung, von den verschiedenen architektonischen Entwürfen bis hin zur Ausgestaltung der Regenrinnen. Dabei handeln wir pragmatisch und zugleich wertegebunden, unser in allen politischen Spektren anerkanntes Projekt bringt Menschen ganz unterschiedlicher Denkrichtungen zusammen. Es kommt ja gerade darauf an, etwas zu verändern, statt sich in abstrakten Debatten zu verlieren, und nur auf diese Weise kann man andere Meinungen und die Komplexität vieler Probleme verstehen lernen. Das CA ist die Anti-Filterblase schlechthin, gegen gesellschaftliche Polarisierung."
+
+[[quotes_team]]
+img = "hannah.jpg"
+attr = "Hannah Hoffmann"
+quote ="Das CA besteht aus vielen unterschiedlichen Menschen, die eine gemeinsame Wertebasis teilen und sich dennoch in vielerlei Hinsicht unterscheiden. Die Zusammenarbeit in der Gruppe ermöglicht jeder/m eigene Ideale, ob nun Hierarchielosigkeit, ökologische Nachhaltigkeit, Gemeinschaft und Vielfalt miteinzubauen und ermutigt gleichzeitig durch Basisdemokratie und Konsensverfahren dazu, sich mit unterschiedlichen Positionen und Lebensrealitäten auseinanderzusetzten. Aus dieser Zusammenarbeit und Auseinandersetzung entsteht also nun ein ganz besonderes Wohnheim, das hoffentlich den zukünftigen Bewohner*innen das Erleben der gleichen bereichernden Erfahrungen ermöglicht und außerdem langfrisitg günstigen Wohnraum schafft und einen öffentlichen Freiraum zur kritischen Auseinandersetzung mit Allem bietet. Ich habe mich bis jetzt hauptsächlich in der Finanzierung engagiert."
+
+[[quotes_team]]
+img = "juli.jpg"
+attr = "Julian Waibel"
+quote = "Unsere Gesellschaft braucht Projekte, in denen junge Menschen gemeinschaftlich leben und lernen können. Orte, an denen neue Ideen erprobt und alte Strukturen hinterfragt werden und wo jedem und jeder Einzelnen ermöglicht wird, sich nach seinen Vorstellungen in einer Gemeinschaft zu entfalten."
+
+[[quotes_team]]
+img = "ina.jpg"
+attr = "Ina Kuhn"
+quote = "Ich bin überzeugt von unserem Projekt, weil es auf verschiedenen Ebenen aktuelle Probleme thematisiert und wir gemeinschaftlich als Gruppe eine Idee verwirklichen, die meiner Meinung nach einen sehr großen Beitrag in unserer heutigen Gesellschaft darstellt. Wir leben demokratische Strukturen und flache Hierarchien und wollen auf diesem Wege zeigen, wie auch junge Menschen aktiv die Zukunft von Städten mit beeinflussen können. Durch das CA habe ich neben vielen spannenden inhaltlichen Aspekten zu alternativem Wohnraum auch einige persönliche Werte für mich neu definieren können. Ich bin hauptsächlich in der Öffentlichkeitsarbeit tätig."
+
+[[quotes_team]]
+img = "mathis.jpg"
+attr = "Mathis Wilk"
+quote = "Das CA verbindet Ökologie, Bildung und Selbstverwaltung und kann damit als fruchtbarer Multiplikator in die Stadt und die ganze Gesellschaft hinein wirken. Das Projekt wird ein Freiraum werden, in dem Menschen sich austauschen, engagieren, politisieren und kreativ ausdrücken können. Solchen Alternativen sind in Zeiten von Klimakatastrophen, Kapitalismus und Rechtsruck unglaublich wichtig. Ich engagiere mich vor allem im Bereich Öffentlichkeitsarbeit."
+
+[[quotes_team]]
+img = "cyrus.jpg"
+attr = "Cyrus Amin Parsa"
+quote = "Wie kann es sein, dass eine Universitätsstadt, die von ihren Studierenden lebt, eben jenen kaum noch bezahlbaren Wohnraum bieten kann? Wohl vertraut mit der Problematik der heidelberger Wohnsituation, bin ich von der Vision des CA überzeugt und möchte mich neben dem Studium für deren Verwirklichung einbringen. Ich glaube an eine Gesellschaft, eine Gemeinschaft, in der man nicht nur für sich selber lebt, sondern sich um andere kümmert, an seine Nächsten und an die Zukunft denkt und verantwortungsvoll Alltäglichem wie Künftigem begegnet."
