@@ -34,7 +34,7 @@ Im Juni 1947 wurde vom Präsidenten des Landesbezirks Baden eine Oberstudienrats
     </div>
 </div>
 
-Die <b>studentische Vertretung</b> bestand aus einem zwöpfigen Gremium, das sich aus gewählten Vertretern der im CA vertretenen Fakultäten, dem Senior und dem Präfekten zusammensetzte. Der <b>Zehnerrat</b> stellte ein Beratungsgremium aus älteren, bewährten Kollegiaten, ehemaligen Senioren und Konventsvorständen dar. Ein für die Selbstverwaltung essentiell wichtiges Element stellte die Aufnahmekommission dar, die die Bewerber sichtete und nach dem ersten Mitgliedssemester über die endgültige Aufnahme entschied. Sie setzte sich aus dem Senior, dem Präfekten und einem Mitglied der studentischen Vertretung zusammen.
+Die <b>studentische Vertretung</b> bestand aus einem zwölfköpfigen Gremium, das sich aus gewählten Vertretern der im CA vertretenen Fakultäten, dem Senior und dem Präfekten zusammensetzte. Der <b>Zehnerrat</b> stellte ein Beratungsgremium aus älteren, bewährten Kollegiaten, ehemaligen Senioren und Konventsvorständen dar. Ein für die Selbstverwaltung essentiell wichtiges Element stellte die Aufnahmekommission dar, die die Bewerber sichtete und nach dem ersten Mitgliedssemester über die endgültige Aufnahme entschied. Sie setzte sich aus dem Senior, dem Präfekten und einem Mitglied der studentischen Vertretung zusammen.
 
 <div class="columns">
     <div class="column">
