@@ -34,11 +34,11 @@ zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
-<progress class="progress is-large is-primary" value="2340" max="2340"></progress>
+<progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen, davon **450.000 € für den Grundstückskauf**.
+Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen, davon **450.000 € in diesem Jahr**.
 
-<progress class="progress is-large is-primary" value="80" max="1500"></progress>
+<progress class="progress is-large is-primary" value="180" max="450"></progress>
 
 Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
 
