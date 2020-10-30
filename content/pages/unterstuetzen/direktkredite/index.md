@@ -29,7 +29,7 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen **2.340.000 EUR** (September 2020) Direktkredite
+Es ist uns gelungen **2.300.000 EUR** (September 2020) Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
