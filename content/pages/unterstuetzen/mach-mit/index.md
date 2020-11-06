@@ -24,6 +24,6 @@ Einen solchen Ort in Heidelberg zu verwirklichen ist unser Traum! Dazu braucht e
 Mach' auch du mit und gestalte aktiv dein Lebensumfeld!
 Lass' es drauf ankommen und geh' mit Mut in eine selbstgestaltete Zukunft!
 
-Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns **jeden Mittwoch um 18:00 Uhr auf unserer Fläche** ([ehemaliges US-Hospital, Karlsruher Straße]({{https://www.openstreetmap.org/#map=17/49.37609/8.68707}} )).
+Schreibe uns einfach eine Mail oder komm direkt vorbei – wir treffen uns **jeden Mittwoch um 18:00 Uhr auf unserer Fläche** ([ehemaliges US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)).
 
 ## Wir freuen uns auf Dich!
