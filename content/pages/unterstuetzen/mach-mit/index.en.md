@@ -25,6 +25,6 @@ Our dream is to make it happen in Heidelberg! To do this we need many [different
 Join us and shape your environment yourself!
 Take a chance to construct your own future!
 
-Write us an e-mail or just pass by – we meet **every Wednesday at 6 pm** ([US-Hospital, Karlsruher Straße]({{https://www.openstreetmap.org/#map=17/49.37609/8.68707}} )).
+Write us an e-mail or just pass by – we meet **every Wednesday at 6 pm** ([US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)).
 
 ## We look forward to meeting you!
