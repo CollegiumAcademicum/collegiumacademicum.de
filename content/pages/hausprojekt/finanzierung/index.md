@@ -27,7 +27,7 @@ Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Für den Großteil der Bauleistungen sind bereits
 Beauftragungen erteilt worden, sodass wir über eine große Kostensicherheit
 verfügen. Weitere Details zur Architektur und zur Planung finden Sie
-[hier]({{< relref "/pages/hausprojekt/wohnen"  >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
+[hier]({{< relref "/pages/hausprojekt/neubau"  >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
 Forschung sind in der Kalkulation enthalten.
 
 ## Finanzierungsbausteine

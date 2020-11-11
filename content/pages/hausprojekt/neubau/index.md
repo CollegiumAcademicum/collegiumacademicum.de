@@ -1,5 +1,6 @@
 ---
-title: "Wohnen"
+title: "Der Neubau"
+slug: "neubau"
 ---
 
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
@@ -57,16 +58,6 @@ Das [Modell eines solchen Einzelzimmers](/zimmermodell) wird momentan an [versch
 
 Für den innovativen Charakter im Bereich flexiblen Wohnens und das nachhaltige Baukonzept, welches einen Fokus auf Gemeinschaftsflächen legt wird das Projekt mit 2,2 Millionen Euro aus dem Zukunftsinvestitionsprogramm „Variowohnen“  des Bundesbauministerium gefördert.
 
-## Der Altbau
+Die Internationale Bauausstellung (<a href='https://iba.heidelberg.de/de/projekte/collegium-academicum'>IBA</a>) Heidelberg, die als Exzellenzinitiative für Stadtplanung bis 2022 an zukunftsweisenden Lösungen angesichts städtebaulicher und gesellschaftlicher Herausforderungen arbeitet, kürte das Vorhaben 2015 zum IBA-PROJEKT unter dem Motto „Wissen | schafft | Stadt“.
 
-Junge Menschen hauchen dem alten Verwaltungsgebäude neues Leben ein: Im Selbstbau sollen Wohnboxen entstehen, in der umliegenden Gebäudehülle sollen Gemeinschaftsflächen für Zusammenleben, Lernen und kreatives Arbeiten zur Verfügung stehen. Im Erdgeschoss sind mehrere Seminarräume für die Bewohner*innen und externen Initiativen angedacht. Das im Altbau vorgesehene Orientierungsjahr ist wichtiger Bestandteil des ganzheitlichen Bildungskonzepts.
-
-{{< img src="altbau_wide" attr="Christian Buck 2016" >}}
-    {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
-    {{< img src="altbau_back" attr="Christian Buck 2016" />}}
-{{< /img >}}
-
-
-Die Internationale Bauausstellung (IBA) Heidelberg, die als Exzellenzinitiative für Stadtplanung bis 2022 an zukunftsweisenden Lösungen angesichts städtebaulicher und gesellschaftlicher Herausforderungen arbeitet, kürte das Vorhaben 2015 zum IBA-PROJEKT unter dem Motto „Wissen | schafft | Stadt“.
-
-Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung begleitet wird. Der Anspruch, sich auf das Wesentliche zu reduzieren (Suffizienz), drückt sich in experimentellem Wohnen, Gemeinschaftsflächen und Räumen für Kreativnutzung aus.
+Zudem dient das Projekt als Praxismodell für die Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität, was vom Institut für Energie- und Umweltforschung (<a href="https://www.ifeu.de/projekt/suprastadt/">ifeu</a>) begleitet wird. Der Anspruch, sich auf das Wesentliche zu reduzieren (Suffizienz), drückt sich in experimentellem Wohnen, Gemeinschaftsflächen und Räumen für Kreativnutzung aus.

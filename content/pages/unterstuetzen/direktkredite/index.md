@@ -5,7 +5,7 @@ novoigl: yes
 
 <div class="columns">
   <div class="column">
-    Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen, selbstbestimmtes Lernen und Leben in Heidelberg. Für über 200 junge Menschen entsteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+  Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen entsteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
   </div>
   <div class="column">
     {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
@@ -23,7 +23,7 @@ novoigl: yes
 
 Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 
-Des Weiteren unterstützen Sie ein architektonisch innovatives Bauprojekt, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich Nachhaltigkeit sein wird und dessen Nutzungskonzept zum Leben im Stadtteil Rohrbach beiträgt.
+Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig Sanieren werden, um die  ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
@@ -67,8 +67,7 @@ Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-		Zurzeit gibt es diese Möglichkeit leider nicht.
-        <!-- Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald der Kauf des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung gesichert und momentan in Aussicht stehende Fördermittel zugesagt. Treuhand-Direktkredit erhöhen unseren Eigenkapitalanteil gegenüber der Bank und sind daher ein wichtiger Baustein. Sie können jedoch die notwendige Initialfinanzierung nicht ermöglichen. -->
+        Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald die Bezahlung des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung für das Grundstück gesichert. Treuhand-Direktkredite werden von den Banken dem wirtschaftlichen Eigenkapital zugerechnet und sind daher ein wichtiger Baustein. Für die notwendige Initialfinanzierung benötigen wir jedoch Sofort-Direktkredite.
         </div>
       </div>
       </div>

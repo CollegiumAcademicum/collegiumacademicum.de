@@ -10,7 +10,7 @@ our phone number is +49 (0)6221-6734812.
 
 ## Project costs
 
-The dormitory is planned as a self-managed entity. It is maintained by Collegium Academicum GmbH and comprises the New House and two older buildings (the Old House). For the New House, the total costs amount to approx. €17 million: building terrain, infrastructural development, structure of the building, technical facilities, outdoor areas, furnishing and other building costs. With adjustments and progress in planning, the exact numbers in our calculations are constantly being fine-tuned. [Here]({{< relref "/pages/hausprojekt/wohnen"  >}} ) you can find further details regarding the architecture. Costs such as interest incurred during construction and funds available for research are also included in the calculations.
+The dormitory is planned as a self-managed entity. It is maintained by Collegium Academicum GmbH and comprises the New House and two older buildings (the Old House). For the New House, the total costs amount to approx. €17 million: building terrain, infrastructural development, structure of the building, technical facilities, outdoor areas, furnishing and other building costs. With adjustments and progress in planning, the exact numbers in our calculations are constantly being fine-tuned. [Here]({{< relref "/pages/hausprojekt/neubau"  >}} ) you can find further details regarding the architecture. Costs such as interest incurred during construction and funds available for research are also included in the calculations.
 
 ## Funding sources
 
