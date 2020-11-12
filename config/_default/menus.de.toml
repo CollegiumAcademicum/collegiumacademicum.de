@@ -8,12 +8,12 @@
     url = "/hausprojekt"
     weight = 2
 [[main]]
-    name = "Der Neubau"
+    name = "Neubau"
     url = "/neubau"
     weight = 1
     parent = "Hausprojekt"
 [[main]]
-    name = "Die Altbauten"
+    name = "Altbauten"
     url = "/altbauten"
     weight = 2
     parent = "Hausprojekt"
