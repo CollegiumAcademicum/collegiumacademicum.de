@@ -1,5 +1,5 @@
 ---
-title: "Der Neubau"
+title: "Der Holz-Neubau"
 slug: "neubau"
 ---
 
@@ -15,7 +15,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
     {{< img src="cafe" alt="Übersicht des Geländes" attr="Christian Buck 2016" />}}
 {{< /img >}}
 
-## Der Neubau
+
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
