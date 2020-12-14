@@ -4,7 +4,7 @@ slug: "housing-project"
 ---
 
 <div class="front-box">
-    <a href="/en/living" ><img src="/img/icons/wohnen.png"></a>
+    <a href="/en/living" ><img src="/hausprojekt/wohnen.png"></a>
     <div>
         <div><h2><a href="/en/living" >Living</a></h2></div>
         <p>
@@ -14,7 +14,7 @@ slug: "housing-project"
 </div>
 
 <div class="front-box">
-    <a href="/en/education" ><img src="/img/icons/bildung.png"></a>
+    <a href="/en/education" ><img src="/hausprojekt/bildung.png"></a>
     <div>
         <div><h2><a href="/en/education" >Education</a></h2></div>
         <p>
@@ -24,7 +24,7 @@ slug: "housing-project"
 </div>
 
 <div class="front-box">
-    <a href="/en/sustainability" ><img src="/img/icons/nachhaltigkeit.png"></a>
+    <a href="/en/sustainability" ><img src="/hausprojekt/nachhaltigkeit.png"></a>
     <div>
         <div><h2><a href="/en/sustainability" >Sustainability</a></h2></div>
         <p>
@@ -34,7 +34,7 @@ slug: "housing-project"
 </div>
 
 <div class="front-box">
-    <a href="/en/self-management" ><img src="/img/icons/selbstverwaltung.png"></a>
+    <a href="/en/self-management" ><img src="/hausprojekt/selbstverwaltung.png"></a>
     <div>
         <div><h2><a href="/en/self-management" >Self-management</a></h2></div>
         <p>
@@ -44,7 +44,7 @@ slug: "housing-project"
 </div>
 
 <div class="front-box">
-    <a href="/en/funding" ><img src="/img/icons/finanzierung.png"></a>
+    <a href="/en/funding" ><img src="/hausprojekt/finanzierung.png"></a>
     <div>
         <div><h2><a href="/en/funding" >Funding</a></h2></div>
         <p>
