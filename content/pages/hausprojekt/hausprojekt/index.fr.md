@@ -4,7 +4,7 @@ slug: "habitat-autogere"
 ---
 
 <div class="front-box">
-    <a href="/fr/habiter" ><img src="/img/icons/wohnen.png"></a>
+    <a href="/fr/habiter" ><img src="/hausprojekt/wohnen.png"></a>
     <div>
         <div><h2><a href="/fr/habiter/" >Habitat</a></h2></div>
         <p>
@@ -18,7 +18,7 @@ slug: "habitat-autogere"
 </div>
 
 <div class="front-box">
-    <a href="/fr/apprendre" ><img src="/img/icons/bildung.png"></a>
+    <a href="/fr/apprendre" ><img src="/hausprojekt/bildung.png"></a>
     <div>
         <div><h2><a href="/fr/apprendre" >Éducation</a></h2></div>
         <p>
@@ -28,7 +28,7 @@ slug: "habitat-autogere"
 </div>
 
 <div class="front-box">
-    <a href="/fr/durabilité" ><img src="/img/icons/nachhaltigkeit.png"></a>
+    <a href="/fr/durabilité" ><img src="/hausprojekt/nachhaltigkeit.png"></a>
     <div>
         <div><h2><a href="/fr/durabilité" >Écologie</a></h2></div>
         <p>
@@ -38,7 +38,7 @@ slug: "habitat-autogere"
 </div>
 
 <div class="front-box">
-    <a href="/fr/autogestion" ><img src="/img/icons/selbstverwaltung.png"></a>
+    <a href="/fr/autogestion" ><img src="/hausprojekt/selbstverwaltung.png"></a>
     <div>
         <div><h2><a href="/fr/autogestion" >Autogestion</a></h2></div>
         <p>
@@ -48,7 +48,7 @@ slug: "habitat-autogere"
 </div>
 
 <div class="front-box">
-    <a href="/fr/financement" ><img src="/img/icons/finanzierung.png"></a>
+    <a href="/fr/financement" ><img src="/hausprojekt/finanzierung.png"></a>
     <div>
         <div><h2><a href="/fr/financement" >Financement</a></h2></div>
         <p>

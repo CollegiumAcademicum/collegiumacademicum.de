@@ -3,7 +3,7 @@ title: "Hausprojekt"
 ---
 
 <div class="front-box">
-    <a href="/wohnen" ><img src="/img/icons/wohnen.png"></a>
+    <a href="/wohnen" ><img src="/hausprojekt/wohnen.png"></a>
     <div>
         <div><h2><a href="/wohnen" >Wohnen</a></h2></div>
         <p>
@@ -13,7 +13,7 @@ title: "Hausprojekt"
 </div>
 
 <div class="front-box">
-    <a href="/bildung" ><img src="/img/icons/bildung.png"></a>
+    <a href="/bildung" ><img src="/hausprojekt/bildung.png"></a>
     <div>
         <div><h2><a href="/bildung" >Bildung</a></h2></div>
         <p>
@@ -23,7 +23,7 @@ title: "Hausprojekt"
 </div>
 
 <div class="front-box">
-    <a href="/nachhaltigkeit" ><img src="/img/icons/nachhaltigkeit.png"></a>
+    <a href="/nachhaltigkeit" ><img src="/hausprojekt/nachhaltigkeit.png"></a>
     <div>
         <div><h2><a href="/nachhaltigkeit" >Nachhaltigkeit</a></h2></div>
         <p>
@@ -33,7 +33,7 @@ title: "Hausprojekt"
 </div>
 
 <div class="front-box">
-    <a href="/selbstverwaltung" ><img src="/img/icons/selbstverwaltung.png"></a>
+    <a href="/selbstverwaltung" ><img src="/hausprojekt/selbstverwaltung.png"></a>
     <div>
         <div><h2><a href="/selbstverwaltung" >Selbstverwaltung</a></h2></div>
         <p>
@@ -43,7 +43,7 @@ title: "Hausprojekt"
 </div>
 
 <div class="front-box">
-    <a href="/finanzierung" ><img src="/img/icons/finanzierung.png"></a>
+    <a href="/finanzierung" ><img src="/hausprojekt/finanzierung.png"></a>
     <div>
         <div><h2><a href="/finanzierung" >Finanzierung</a></h2></div>
         <p>

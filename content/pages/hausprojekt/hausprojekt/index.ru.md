@@ -4,7 +4,7 @@ slug: "ПРОЕКТ-ЖИЛОГО-КОМПЛЕКСА"
 ---
 
 <div class="front-box">
-    <a href="/ru/ЖИЛЬЕ" ><img src="/img/icons/wohnen.png"></a>
+    <a href="/ru/ЖИЛЬЕ" ><img src="/hausprojekt/wohnen.png"></a>
     <div>
         <div><h2><a href="run/ЖИЛЬЕ" >ЖИЛЬЕ</a></h2></div>
         <p>
@@ -14,7 +14,7 @@ slug: "ПРОЕКТ-ЖИЛОГО-КОМПЛЕКСА"
 </div>
 
 <div class="front-box">
-    <a href="/ru/ОБРАЗОВАНИЕ" ><img src="/img/icons/bildung.png"></a>
+    <a href="/ru/ОБРАЗОВАНИЕ" ><img src="/hausprojekt/bildung.png"></a>
     <div>
         <div><h2><a href="/ru/ОБРАЗОВАНИЕ" >ОБРАЗОВАНИЕ</a></h2></div>
         <p>
@@ -24,7 +24,7 @@ slug: "ПРОЕКТ-ЖИЛОГО-КОМПЛЕКСА"
 </div>
 
 <div class="front-box">
-    <a href="/ru/ЭКОЛОГИЧНОСТЬ" ><img src="/img/icons/nachhaltigkeit.png"></a>
+    <a href="/ru/ЭКОЛОГИЧНОСТЬ" ><img src="/hausprojekt/nachhaltigkeit.png"></a>
     <div>
         <div><h2><a href="/ru/ЭКОЛОГИЧНОСТЬ" >ЭКОЛОГИЧНОСТЬ</a></h2></div>
         <p>
@@ -35,7 +35,7 @@ slug: "ПРОЕКТ-ЖИЛОГО-КОМПЛЕКСА"
 </div>
 
 <div class="front-box">
-    <a href="/ru/САМОУПРАВЛЕНИЕ" ><img src="/img/icons/selbstverwaltung.png"></a>
+    <a href="/ru/САМОУПРАВЛЕНИЕ" ><img src="/hausprojekt/selbstverwaltung.png"></a>
     <div>
         <div><h2><a href="/ru/САМОУПРАВЛЕНИЕ" >САМОУПРАВЛЕНИЕ</a></h2></div>
         <p>
@@ -45,7 +45,7 @@ slug: "ПРОЕКТ-ЖИЛОГО-КОМПЛЕКСА"
 </div>
 
 <div class="front-box">
-    <a href="/ru/ФИНАНСЫ" ><img src="/img/icons/finanzierung.png"></a>
+    <a href="/ru/ФИНАНСЫ" ><img src="/hausprojekt/finanzierung.png"></a>
     <div>
         <div><h2><a href="/ru/ФИНАНСЫ" >ФИНАНСЫ</a></h2></div>
         <p>
