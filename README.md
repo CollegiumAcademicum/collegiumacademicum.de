@@ -1,11 +1,15 @@
 # Collegium Academicum Website
 
+[![Hugo](https://img.shields.io/badge/Buildwith-hugo-pink?logo=hugo)](https://gohugo.io/)
+![GitHub](https://img.shields.io/github/license/morris-frank/unsupervised-source-separation)
+![GitHub repo size](https://img.shields.io/github/repo-size/collegiumacademicum/collegiumacademicum.de)
+
 This repo contains the new version of collegiumacademicum.de.
 
 ## Requirements
 
-* Hugo: __>=0.49__
-* YARN
+- Hugo: **>=0.49**
+- YARN
 
 ## Installation
 
@@ -13,11 +17,11 @@ The website is a static website built with the static site generator [Hugo](gohu
 
 You will need to have the `Hugo` binary installed. You may do this by:
 
-| Dist | install command |
-| --- | --- |
-| Ubuntu | `sudo apt-get install hugo` |
-| Arch Linux | `sudo pacman -S hugo` |
-| Fedora | `sudo yum install hugo` |
+| Dist       | install command             |
+| ---------- | --------------------------- |
+| Ubuntu     | `sudo apt-get install hugo` |
+| Arch Linux | `sudo pacman -S hugo`       |
+| Fedora     | `sudo yum install hugo`     |
 
 And you need [Yarn](https://yarnpkg.com/lang/en/docs/install)
 
@@ -28,8 +32,8 @@ yarn install
 
 ## Compiling
 
-| Command | Function |
-| --- | --- |
+| Command      | Function                                                             |
+| ------------ | -------------------------------------------------------------------- |
 | `./build.sh` | Build for online deployment (into ./upload/) and upload using `lftp` |
 
 ### Audio files
@@ -40,15 +44,15 @@ The audio files for the CA Ausstellung are way to big to put them in the Git pro
 
 You can use the following custom shortcodes in the content markdown files to get programmatic content blocks:
 
-| Shortcode | function |
-| --- | --- |
-| `{{< img src="" alt="" attr="" />}}` | Includes an image and adds the modal popup. **Note the trailing slash!** |
-| `{{< pdf src="" width="" height="" >}}`| Embeds a PDF. |
-| `{{< audio ### >}}`| Embeds a audio file. |
-| `{{< quotes source="" size="" >}}` | Prints a grid of quotes. Source `team` or `supporters`. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |
-| `{{< timeline >}}` | Prints the timeline. Data can be added/edited in `data/timeline.toml` |
-| `{{< partners >}}` | Prints the list of partners. Data can be added/edited in `data/partners.toml` |
-| `{{< hausprojekt-boxes >}}` | Outputs the menu boxes for the house projekt pages |
+| Shortcode                               | function                                                                                                                                      |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| `{{< img src="" alt="" attr="" />}}`    | Includes an image and adds the modal popup. **Note the trailing slash!**                                                                      |
+| `{{< pdf src="" width="" height="" >}}` | Embeds a PDF.                                                                                                                                 |
+| `{{< audio ### >}}`                     | Embeds a audio file.                                                                                                                          |
+| `{{< quotes source="" size="" >}}`      | Prints a grid of quotes. Source `team` or `supporters`. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |
+| `{{< timeline >}}`                      | Prints the timeline. Data can be added/edited in `data/timeline.toml`                                                                         |
+| `{{< partners >}}`                      | Prints the list of partners. Data can be added/edited in `data/partners.toml`                                                                 |
+| `{{< hausprojekt-boxes >}}`             | Outputs the menu boxes for the house projekt pages                                                                                            |
 
 ## Various
 
@@ -57,13 +61,13 @@ You can use the following custom shortcodes in the content markdown files to get
 Encode videos two times as [recommended by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs):
 
 - One with MP4 and libx264 Video + AAC audio
-    ```bash
-    ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libx264 -crf 26 -c:a aac -b:a 128k output_video.mp4
-    ```
+  ```bash
+  ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libx264 -crf 26 -c:a aac -b:a 128k output_video.mp4
+  ```
 - One with WEBM and VP8 video + Opus audio
-    ```bash
-    ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libvpx -crf 20 -c:a libopus -b:a 96k output_video.webm
-    ```
+  ```bash
+  ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libvpx -crf 20 -c:a libopus -b:a 96k output_video.webm
+  ```
 
 ### Icons
 
