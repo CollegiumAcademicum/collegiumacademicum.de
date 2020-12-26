@@ -3,11 +3,21 @@ title: "Hausprojekt"
 ---
 
 <div class="front-box">
-    <a href="/wohnen" ><img src="/hausprojekt/wohnen.png"></a>
+    <a href="/neubau" ><img src="/hausprojekt/neubau.png"></a>
     <div>
-        <div><h2><a href="/wohnen" >Wohnen</a></h2></div>
+        <div><h2><a href="/neubau" >Neubau</a></h2></div>
         <p>
-            Innovativer Holzbau und kreative Umnutzung: Auf ehemals militärisch genutzten Flächen entsteht das neue Collegium Academicum – bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/wohnen" >Mehr...</a>
+            Innovativer Holzbau: Bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/neubau" >Mehr...</a>
+        </p>
+    </div>
+</div>
+
+<div class="front-box">
+    <a href="/altbau" ><img src="/hausprojekt/altbau.png"></a>
+    <div>
+        <div><h2><a href="/altbau" >Altbau</a></h2></div>
+        <p>
+            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr behausen.<a class="mehr" href="/altbau" >Mehr...</a>
         </p>
     </div>
 </div>
