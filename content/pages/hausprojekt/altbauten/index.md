@@ -3,7 +3,7 @@ title: "Die Altbauten"
 slug: "altbauten"
 ---
 
-Zu unserem Porjekt gehören auch zwei Altbauten: das alte Verwaltungsgebäude des Krankenhauses sowie das ehemalige Pförtnerhäuschen an der Karlsruher Straße. Bei der Entwicklung dieser Gebäude setzen wir andere Schwerpunkte als bei dem Neubau. Die Sanierung der Altbauten orientiert sich nach drei wesentlichen Aspekten: ein [innovatives Orientierungsjahr]({{< relref "/pages/hausprojekt/bildung"  >}} ), ein kostengünstiges und zugleich energetisch anspruchsvolles Sanierungsvorhaben, und zuletzt einen hohen Anteil an Eigenleistungsarbeit.
+Zu unserem Projekt gehören auch zwei Altbauten: das alte Verwaltungsgebäude des Krankenhauses sowie das ehemalige Pförtnerhäuschen an der Karlsruher Straße. Bei der Entwicklung dieser Gebäude setzen wir andere Schwerpunkte als bei dem Neubau. Die Sanierung der Altbauten orientiert sich nach drei wesentlichen Aspekten: ein [innovatives Orientierungsjahr]({{< relref "/pages/hausprojekt/bildung"  >}} ), ein kostengünstiges und zugleich energetisch anspruchsvolles Sanierungsvorhaben, und zuletzt einen hohen Anteil an Eigenleistungsarbeit.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" />}}
