@@ -37,11 +37,6 @@
     url = "/finanzierung"
     weight = 6
     parent = "Hausprojekt"
-[[main]]
-    name = "Zimmermodell"
-    url = "/zimmermodell"
-    weight = 7
-    parent = "Hausprojekt"
 
 [[main]]
     name = "Unterstützen"
