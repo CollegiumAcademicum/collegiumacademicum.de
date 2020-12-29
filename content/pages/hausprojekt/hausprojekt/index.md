@@ -13,11 +13,11 @@ title: "Hausprojekt"
 </div>
 
 <div class="front-box">
-    <a href="/altbau" ><img src="/hausprojekt/altbau.png"></a>
+    <a href="/altbauten" ><img src="/hausprojekt/altbau.png"></a>
     <div>
-        <div><h2><a href="/altbau" >Altbau</a></h2></div>
+        <div><h2><a href="/altbauten" >Altbau</a></h2></div>
         <p>
-            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr behausen.<a class="mehr" href="/altbau" >Mehr...</a>
+            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr behausen.<a class="mehr" href="/altbauten" >Mehr...</a>
         </p>
     </div>
 </div>
