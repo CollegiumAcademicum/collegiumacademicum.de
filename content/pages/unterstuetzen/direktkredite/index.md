@@ -29,16 +29,16 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen **2.300.000 EUR** (September 2020) Direktkredite
+Es ist uns gelungen **2.300.000 EUR** Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen, davon **450.000 € in diesem Jahr**.
+Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
 
-<progress class="progress is-large is-primary" value="180" max="450"></progress>
+<progress class="progress is-large is-primary" value="357" max="1500"></progress>
 
 Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
 
@@ -67,7 +67,8 @@ Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen
         </div>
         <div class="column">
         <h3>Treuhand-Direktkredit</h3>
-        Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald die Bezahlung des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung für das Grundstück gesichert. Treuhand-Direktkredite werden von den Banken dem wirtschaftlichen Eigenkapital zugerechnet und sind daher ein wichtiger Baustein. Für die notwendige Initialfinanzierung benötigen wir jedoch Sofort-Direktkredite.
+        Diese Option steht nicht mehr zur Verfügung, da Gebäude und Flächen bereits bezahlt wurden.
+        <!--Treuhand-Direktkredite stehen uns erst zur Verfügung, sobald die Bezahlung des Grundstücks ansteht. Ab diesem Zeitpunkt ist die Bankfinanzierung für das Grundstück gesichert. Treuhand-Direktkredite werden von den Banken dem wirtschaftlichen Eigenkapital zugerechnet und sind daher ein wichtiger Baustein. Für die notwendige Initialfinanzierung benötigen wir jedoch Sofort-Direktkredite.-->
         </div>
       </div>
       </div>
