@@ -3,6 +3,11 @@ title: "Der Holz-Neubau"
 slug: "neubau"
 ---
 
+<video controls poster="2020_neubau_webcam.jpg" style="margin-bottom: 2em">
+      <source src="/video/2020_neubau_webcam.webm" type="video/webm">
+      <source src="/video/2020_neubau_webcam.mp4" type="video/mp4">
+</video>
+
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in
 Heidelberg-Rohrbach setzt sich aus zwei Bestandsgebäuden und einem innovativen
