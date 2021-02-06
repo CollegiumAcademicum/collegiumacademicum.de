@@ -3,7 +3,7 @@ title: "Über uns"
 slug: "ueber-uns"
 ---
 
-{{< quotes source="team" size="2" iconsize="256" first=25 >}}
+{{< quotes source="team" size="2" iconsize="256" first=24 >}}
 
 Wir sind eine Gruppe junger Menschen, die zusammen in einer Projektgruppe
 den Neubau des Collegium Academicums planen. Die Gruppe und die Idee für das Projekt sind
@@ -28,7 +28,7 @@ Bildungsprogramm einen Teil dazu beitragen und Verantwortung
 Viele Menschen haben sich in der Vergangenheit für das CA eingesetzt und stehen
 weiter dem Projekt nahe. Hier einige ehemalige Aktive:
 
-{{< quotes source="team" size="2" iconsize="256" first=6 after=25 >}}
+{{< quotes source="team" size="2" iconsize="256" first=7 after=24 >}}
 
 {{< img src="gruppenbild" alt="Ein Teil der Projektgruppe im Zimmermodell" />}}
 
