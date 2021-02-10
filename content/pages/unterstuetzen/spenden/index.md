@@ -20,39 +20,30 @@ auf.
 Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
 <a href="/docs/2019_spenden_flyer.pdf">hier</a> herunterladen können.
 
-<div class="columns">
-  <div class="column">
-    <p style="text-align:right">
-    Spenden an das Projekt sind über den „Förderverein Collegium Academicum
-    Heidelberg e.V.“ möglich. Dieser verfolgt das Ziel, fachübergreifende
-    Bildung zu fördern. Die Mitglieder des Vereins sind überwiegend ehemalige
-    Kollegiat*innen, Mitglieder der Projektgruppe und Förderer des Projekts, die
-    gemeinsam in geistiger wie in materieller Hinsicht Freiräume für
-    junge Menschen schaffen.
-    </p>
-  </div>
-  <div class="column">
-    {{< img src="Gruppenfoto_liegend_plan.jpg" alt="Mitglieder der Projektrgruppe besprechen einen Bauplan auf dem Boden"/>}}
-  </div>
-</div>
+<section class="grid-col">
+  <p style="text-align:right">
+  Spenden an das Projekt sind über den „Förderverein Collegium Academicum
+  Heidelberg e.V.“ möglich. Dieser verfolgt das Ziel, fachübergreifende
+  Bildung zu fördern. Die Mitglieder des Vereins sind überwiegend ehemalige
+  Kollegiat*innen, Mitglieder der Projektgruppe und Förderer des Projekts, die
+  gemeinsam in geistiger wie in materieller Hinsicht Freiräume für
+  junge Menschen schaffen.
+  </p>
+  {{< img src="Gruppenfoto_liegend_plan.jpg" alt="Mitglieder der Projektrgruppe besprechen einen Bauplan auf dem Boden"/>}}
+</section>
 
-<div class="columns">
-  <div class="column">
+<section class="grid-col">
   {{< img src="Gruppenfoto_Saege.jpg" alt="Mitglieder der Projektgruppe stehen an einer Holzsäge und diskutieren."/>}}
-  </div>
-
-  <div class="column">
-    <p style="text-align:left">
-    Aktuell unterstützt der Förderverein den Bau des neuen Collegium Academicum
-    vor allem bei der Bildungsarbeit und dem Selbstbau. So werden Vorträge,
-    Schulungen und Workshops unterstützt und Konzepte für ein Tutorienprogramm
-    im neuen CA entwickelt.
-    <br>
-    Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der
-    CNC-Fräse, um diese im Selbstbau zu verwenden.
-    </p>
-  </div>
-</div>
+  <p style="text-align:left">
+  Aktuell unterstützt der Förderverein den Bau des neuen Collegium Academicum
+  vor allem bei der Bildungsarbeit und dem Selbstbau. So werden Vorträge,
+  Schulungen und Workshops unterstützt und Konzepte für ein Tutorienprogramm
+  im neuen CA entwickelt.
+  <br>
+  Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der
+  CNC-Fräse, um diese im Selbstbau zu verwenden.
+  </p>
+</section>
 
 
 

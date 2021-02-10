@@ -1,0 +1,65 @@
+.carousel
+    overflow: hidden
+    .item
+        opacity: 0
+        position: absolute
+        top: 0
+        width: 100%
+        margin: auto
+        padding: 1rem 4rem
+        z-index: 100
+        transition: transform .5s, opacity .5s, z-index .5s
+        &.initial, &.active
+            opacity: 1
+            position: relative
+            z-index: 900
+        &.prev, &.next
+            z-index: 800
+        &.prev
+            transform: translateX(-100%)
+        &.next
+            transform: translateX(100%)
+    nav
+        &.prev, &.next
+            position: absolute
+            top: 50%
+            width: 3rem
+            height: 3rem
+            background-color: #FFF
+            transform: translateY(-50%)
+            border-radius: 50%
+            cursor: pointer 
+            z-index: 1001
+            border: 1px solid black
+        &.prev
+            left: 0
+        &.next
+            right: 0
+        &.prev::after, &.next::after
+            content: " "
+            position: absolute
+            width: 10px
+            height: 10px
+            top: 50%
+            left: 54%
+            border-right: 2px solid black
+            border-bottom: 2px solid black
+            transform: translate(-50%, -50%) rotate(135deg)
+        &.next::after
+            left: 47%
+            transform: translate(-50%, -50%) rotate(-45deg)
+
+.grid-col
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr))
+    grid-template-rows: auto 1fr
+    gap: 2em 1em
+    > *
+        align-self: center
+
+// OVERRIDES!!!!!
+.content
+    figure
+        margin: 0
+    figure:not(:last-child)
+        margin: 0
