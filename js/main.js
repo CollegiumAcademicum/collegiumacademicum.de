@@ -2,7 +2,7 @@
   * domready (c) Dustin Diaz 2014 - License MIT
   * SRC: https://github.com/ded/domready/blob/master/ready.js
   */
- !function (name, definition) {
+!function (name, definition) {
 
   if (typeof module != 'undefined') module.exports = definition()
   else if (typeof define == 'function' && typeof define.amd == 'object') define(definition)
@@ -18,11 +18,11 @@
 
 
   if (!loaded && doc)
-  doc.addEventListener(domContentLoaded, listener = function () {
-    doc.removeEventListener(domContentLoaded, listener)
-    loaded = 1
-    while (listener = fns.shift()) listener()
-  })
+    doc.addEventListener(domContentLoaded, listener = function () {
+      doc.removeEventListener(domContentLoaded, listener)
+      loaded = 1
+      while (listener = fns.shift()) listener()
+    })
 
   return function (fn) {
     loaded ? setTimeout(fn, 0) : fns.push(fn)
@@ -89,38 +89,118 @@ function setToggleMessagesListeners(toggleMessages) {
   });
 }
 
+function setCarouselListeners(carousels) {
+  carousels.forEach(function (carousel) {
+    var itemClassName = "item";
+        items = carousel.querySelectorAll(".item"),
+        totalItems = items.length,
+        slide = 0,
+        moving = true;
+
+    function setInitialClasses() {
+      items[0].classList.add("active");
+      items[1].classList.add("next");
+    }
+
+    function setEventListeners() {
+      var next = carousel.querySelector('nav.next'),
+        prev = carousel.querySelector('nav.prev');
+      next.addEventListener('click', moveNext);
+      prev.addEventListener('click', movePrev);
+    }
+
+    function moveNext() {
+      if (!moving) {
+        if (slide === (totalItems - 1)) {
+          slide = 0;
+        } else {
+          slide++;
+        }
+        moveCarouselTo(slide);
+      }
+    }
+
+    function movePrev() {
+      if (!moving) {
+        if (slide === 0) {
+          slide = (totalItems - 1);
+        } else {
+          slide--;
+        }
+        moveCarouselTo(slide);
+      }
+    }
+
+    function disableInteraction() {
+      moving = true;
+      setTimeout(function () {
+        moving = false
+      }, 500);
+    }
+
+    function moveCarouselTo(slide) {
+      if (!moving) {
+        disableInteraction();
+        var newPrevious = slide - 1,
+          newNext = slide + 1,
+          oldPrevious = slide - 2,
+          oldNext = slide + 2;
+        if ((totalItems - 1) > 3) {
+          if (newPrevious <= 0) {
+            oldPrevious = (totalItems - 1);
+          } else if (newNext >= (totalItems - 1)) {
+            oldNext = 0;
+          }
+          if (slide === 0) {
+            newPrevious = (totalItems - 1);
+            oldPrevious = (totalItems - 2);
+            oldNext = (slide + 1);
+          } else if (slide === (totalItems - 1)) {
+            newPrevious = (slide - 1);
+            newNext = 0;
+            oldNext = 1;
+          }
+          items[oldPrevious].className = itemClassName;
+          items[oldNext].className = itemClassName;
+          items[newPrevious].className = itemClassName + " prev";
+          items[slide].className = itemClassName + " active";
+          items[newNext].className = itemClassName + " next";
+        }
+      }
+    }
+
+    function initCarousel() {
+      setInitialClasses();
+      setEventListeners();  // Set moving to false so that the carousel becomes interactive
+      moving = false;
+    }
+
+    initCarousel();
+
+  });
+}
+
 domready(function () {
   // Burgers
-  var burgers = document.getAll('.burger');
+  let burgers = document.getAll('.burger');
   if (burgers.length > 0) setBurgerListeners(burgers);
 
-
-
   // Delete
-  var deleters = document.getAll('.delete');
+  let deleters = document.getAll('.delete');
   if (deleters.length > 0) setDeletersListeners(deleters);
 
-
   // Modals
-  var modalButtons = document.getAll('.modal-button');
-  var modalClosers = document.getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
+  let modalButtons = document.getAll('.modal-button');
+  let modalClosers = document.getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
   if (modalButtons.length > 0 && modalClosers.length > 0) {
     setModalButtonListeners(modalButtons);
     setModalCloserListeners(modalClosers);
   }
 
   //Toggle Messages
-  var toggleMessages = document.getAll('.message.toggle');
+  let toggleMessages = document.getAll('.message.toggle');
   if (toggleMessages.length > 0) setToggleMessagesListeners(toggleMessages);
-});
 
-function validateDKForm() {
-  sofort = document.getElementById('field_sofort');
-  treuhand = document.getElementById('field_treuhand');
-  if (!sofort.getElementsByTagName('input')[0].checked && !treuhand.getElementsByTagName('input')[0].checked){
-    sofort.getElementsByClassName('help')[0].classList.remove('is-hidden');
-    treuhand.getElementsByClassName('help')[0].classList.remove('is-hidden');
-    return false;
-  }
-  return true;
-}
+  let carousels = document.getAll('.carousel');
+  if (carousels.length > 0) setCarouselListeners(carousels);
+});
