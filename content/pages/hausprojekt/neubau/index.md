@@ -3,10 +3,9 @@ title: "Der Holz-Neubau"
 slug: "neubau"
 ---
 
-<video controls poster="2020_neubau_webcam.jpg" style="margin-bottom: 2em">
-      <source src="/video/2020_neubau_webcam.webm" type="video/webm">
-      <source src="/video/2020_neubau_webcam.mp4" type="video/mp4">
-</video>
+ <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2em;">
+    <iframe src="https://player.vimeo.com/video/506705472?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in

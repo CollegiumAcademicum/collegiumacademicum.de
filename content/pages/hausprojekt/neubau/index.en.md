@@ -2,6 +2,10 @@
 title: "Housing"
 ---
 
+ <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2em;">
+    <iframe src="https://player.vimeo.com/video/506705472?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 Self-managed dormitory, education and culture centre: the new Collegium Academicum is located on the site of the former US hospital in Heidelberg-Rohrbach. It comprises two existing buildings and one new building which is made of wood with an innovative architectural design. First tenants will move in by the end of 2021.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
