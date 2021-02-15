@@ -25,11 +25,31 @@ Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:
 
 </div>
 
+<div class="item">
+    <h3>AG Altbau</h3>
+    <div class="grid-col">
+        {{< img src="ag_altbau" />}}
+        <div class="">
+            <p>Wir koordinieren die Sanierung! Neben dem schmucken Holzbau gehören zwei tolle Altbauten zum CA, die als Wohn- und Gemeinschaftsraum dienen werden und bei denen für die neue Nutzung Sanierungsbedarf besteht. Im Gegensatz zum Neubau ist hier noch lange nicht alles in trockenen Tüchern, wir sind mitten in der spannenden Planungsphase und du kannst noch voll mit einsteigen und gestalten!</p>
+        </div>
+    </div>
+
+Unsere Aufgaben sind: 
+
+- Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?
+- Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.
+- Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung, die Workcamps dafür organisieren wir.
+- Planung für das Orientierungsjahr: Bildung anders denken, ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden. 
+
+Falls du dir jetzt denkst, das hab ich ja noch nie gemacht - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deinen support! 
+
+</div>
+
 
 <div class="item">
     <h3>AG Eigenleistung</h3>
     <div class="grid-col">
-        {{< img src="ag_it" />}}
+        {{< img src="ag_eigenleistung" attr="Uli Hillenbrand 2020" />}}
         <div class="">
             <p>Wir wollen werkeln! Das steckt hinter dem Begriff der AG Eigenleistung.</p>
             <p>So viel wie möglich selbst herzustellen – dieser Leitgedanke ist nicht nur mit vielen gemeinsamen Stunden Spaß in unserer selbst eingerichteten Werkstatt verbunden, sondern spart gleichzeitig Kosten.</p>
@@ -40,6 +60,25 @@ Das Herzstück der Werkstatt ist unsere CNC- Holzfräse, mit der wir größtente
 
 Wir sehen uns in der Werkstatt 😊
 
+</div>
+
+<div class="item">
+    <h3>AG Öffentlichkeit</h3>
+    <div class="grid-col">
+        {{< img src="ag_oeffentlichkeit" />}}
+        <div class="">
+            <p>Egal ob Du gerne kreativ Flyer, Sticker, Poster und vieles mehr designst, Texte schreibst, den Kontakt mit Pressevertreter*innen managst oder gerne mal ein großes Event organisieren wolltest – in unserer Öffentlichkeits-AG kannst Du Dich einbringen. Hier gibt es vielfältige Aufgaben, aber auch einiges zu koordinieren und organisieren:</p>
+        </div>
+    </div>
+
+- Das CA bekannter machen :-)
+- Design von Plakaten, Flyern, Stickern etc.
+- Presse, Magazine etc. anschreiben & Kontakt halten
+- Veranstaltungen (z.B. Konzerte, Partys, Workshops) organisieren
+- Kampagnen zu Spenden, Direktkrediten oder Eigenleistung planen
+- Online Auftritte mit Text- und Fotobeiträgen pflegen (Homepage, Facebook, Instagram etc.)
+- Newsletter schreiben
+  
 </div>
 
 <div class="item">
@@ -79,45 +118,6 @@ Die einzige Voraussetzung ist, dass du Lust hast mit Linux zu arbeiten und in di
 
 - Website verwalten, umstrukturieren
 - Technische Infrastruktur warten (Open-Source Chatsystem Mattermost, Nexcloud)
-
-</div>
-
-<div class="item">
-    <h3>AG Öffentlichkeit</h3>
-    <div class="grid-col">
-        {{< img src="ag_oeffentlichkeit" />}}
-        <div class="">
-            <p>Egal ob Du gerne kreativ Flyer, Sticker, Poster und vieles mehr designst, Texte schreibst, den Kontakt mit Pressevertreter*innen managst oder gerne mal ein großes Event organisieren wolltest – in unserer Öffentlichkeits-AG kannst Du Dich einbringen. Hier gibt es vielfältige Aufgaben, aber auch einiges zu koordinieren und organisieren:</p>
-        </div>
-    </div>
-
-- Das CA bekannter machen :-)
-- Design von Plakaten, Flyern, Stickern etc.
-- Presse, Magazine etc. anschreiben & Kontakt halten
-- Veranstaltungen (z.B. Konzerte, Partys, Workshops) organisieren
-- Kampagnen zu Spenden, Direktkrediten oder Eigenleistung planen
-- Online Auftritte mit Text- und Fotobeiträgen pflegen (Homepage, Facebook, Instagram etc.)
-- Newsletter schreiben
-  
-</div>
-
-<div class="item">
-    <h3>AG Altbau</h3>
-    <div class="grid-col">
-        {{< img src="ag_altbau" />}}
-        <div class="">
-            <p>Wir koordinieren die Sanierung! Neben dem schmucken Holzbau gehören zwei tolle Altbauten zum CA, die als Wohn- und Gemeinschaftsraum dienen werden und bei denen für die neue Nutzung Sanierungsbedarf besteht. Im Gegensatz zum Neubau ist hier noch lange nicht alles in trockenen Tüchern, wir sind mitten in der spannenden Planungsphase und du kannst noch voll mit einsteigen und gestalten!</p>
-        </div>
-    </div>
-
-Unsere Aufgaben sind: 
-
-- Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?
-- Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.
-- Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung, die Workcamps dafür organisieren wir.
-- Planung für das Orientierungsjahr: Bildung anders denken, ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden. 
-
-Falls du dir jetzt denkst, das hab ich ja noch nie gemacht - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deinen support! 
 
 </div>
 
