@@ -49,6 +49,19 @@
             left: 47%
             transform: translate(-50%, -50%) rotate(-45deg)
 
+
+.accordion
+    margin-bottom: 1rem
+    h5
+        border: 1px solid $grey
+        padding: 1rem
+        font-size: 1rem
+    div
+        border: 1px solid $grey
+        padding: 1rem
+        border-width: 0 1px 1px 1px
+        margin: 0
+
 .grid-col
     display: grid
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr))
@@ -63,3 +76,7 @@
         margin: 0
     figure:not(:last-child)
         margin: 0
+    h5:not(:last-child)
+        margin-bottom: 0
+    h5
+        margin-bottom: 0
