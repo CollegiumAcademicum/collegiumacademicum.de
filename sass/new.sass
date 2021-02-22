@@ -1,54 +1,15 @@
 .carousel
-    overflow: hidden
-    .item
-        opacity: 0
+    position: relative
+    padding-top: 4.5em
+    button
+        font-size: 2em
+        width: 2em
         position: absolute
         top: 0
-        width: 100%
-        margin: auto
-        padding: 1rem 4rem
-        z-index: 100
-        transition: transform .5s, opacity .5s, z-index .5s
-        &.initial, &.active
-            opacity: 1
-            position: relative
-            z-index: 900
-        &.prev, &.next
-            z-index: 800
-        &.prev
-            transform: translateX(-100%)
-        &.next
-            transform: translateX(100%)
-    nav
-        &.prev, &.next
-            position: absolute
-            top: 400px
-            width: 3rem
-            height: 3rem
-            background-color: #FFF
-            transform: translateY(-50%)
-            border-radius: 50%
-            cursor: pointer 
-            z-index: 1001
-            border: 1px solid black
-        &.prev
-            left: 2em
-        &.next
-            right: 2em
-        &.prev::after, &.next::after
-            content: " "
-            position: absolute
-            width: 10px
-            height: 10px
-            top: 50%
-            left: 54%
-            border-right: 2px solid black
-            border-bottom: 2px solid black
-            transform: translate(-50%, -50%) rotate(135deg)
-        &.next::after
-            left: 47%
-            transform: translate(-50%, -50%) rotate(-45deg)
-
+    .prev
+        left: 20%
+    .next
+        right: 20%
 
 .accordion
     margin-bottom: 1rem

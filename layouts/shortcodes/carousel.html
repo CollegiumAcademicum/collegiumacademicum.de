@@ -1,0 +1,5 @@
+<div class="carousel"  x-data="{ activeSlide: 1, nSlides: {{ .Get "nSlides"}} }">    
+    <button class="prev" x-on:click="activeSlide = activeSlide === 1 ? nSlides : activeSlide - 1">&#8592;</button>
+    <button class="next" x-on:click="activeSlide = activeSlide === nSlides ? 1 : activeSlide + 1">&#8594;</button>
+    {{ .Inner }}
+</div>
