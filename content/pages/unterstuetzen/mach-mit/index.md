@@ -2,10 +2,9 @@
 title: "Mach Mit"
 ---
 
-<div class="carousel">
-<div class="carousel-inner">
+{{< carousel nSlides="6" >}}
 
-<div class="item initial">
+<div x-show="activeSlide === 1">
     <h3>AG Planung Neubau</h3>
     <div class="grid-col">
         {{< img src="ag_neubau" />}}
@@ -25,7 +24,7 @@ Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:
 
 </div>
 
-<div class="item">
+<div x-show="activeSlide === 2">
     <h3>AG Altbau</h3>
     <div class="grid-col">
         {{< img src="ag_altbau" />}}
@@ -46,7 +45,7 @@ Falls du dir jetzt denkst, das hab ich ja noch nie gemacht - kein Problem, wir h
 </div>
 
 
-<div class="item">
+<div x-show="activeSlide === 3">
     <h3>AG Eigenleistung</h3>
     <div class="grid-col">
         {{< img src="ag_eigenleistung" attr="Uli Hillenbrand 2020" />}}
@@ -62,7 +61,7 @@ Wir sehen uns in der Werkstatt 😊
 
 </div>
 
-<div class="item">
+<div x-show="activeSlide === 4">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -81,7 +80,7 @@ Wir sehen uns in der Werkstatt 😊
   
 </div>
 
-<div class="item">
+<div x-show="activeSlide === 5">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -103,7 +102,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
   
 </div>
 
-<div class="item">
+<div x-show="activeSlide === 6">
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -121,8 +120,4 @@ Die einzige Voraussetzung ist, dass du Lust hast mit Linux zu arbeiten und in di
 
 </div>
 
-<nav class="next"></nav>
-<nav class="prev"></nav>
-
-</div>
-</div>
+{{< /carousel >}}
