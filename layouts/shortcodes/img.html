@@ -21,7 +21,7 @@
 {{ $desc := .Get "desc" | markdownify }}
 {{ $attr := .Get "attr" }}
 
-{{ with .Parent}}
+{{ if (isset .Parent "Name") }}
 <figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
         src="" data-src="{{ $image_medium.RelPermalink }}"
