@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/morris-frank/unsupervised-source-separation)
 ![GitHub repo size](https://img.shields.io/github/repo-size/collegiumacademicum/collegiumacademicum.de)
 
-This repo contains the new version of collegiumacademicum.de.
+This repo contains the code and content of collegiumacademicum.de.
 
 ## Requirements
 
