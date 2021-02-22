@@ -83,7 +83,7 @@ Wir sehen uns in der Werkstatt 😊
 <div x-show="activeSlide === 5">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
-        {{< img src="ag_it" />}}
+        {{< img src="ag_finanzierung" />}}
         <div class="">
             <p>Ohne Moos nix los - Willkommen in der Finanz-AG des CA! Da sich unser Projekt nicht ohne größere Summen an Geld realisieren lässt, ist die Finanzierungsarbeit das Rückgrat unseres Projektes. Deshalb werben wir auf verschiedenste Weisen Geld ein und organisieren dieses so, dass unser Projekt sich wirtschaftlich trägt.</p>
         </div>
