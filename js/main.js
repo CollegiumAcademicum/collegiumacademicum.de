@@ -79,16 +79,6 @@ function setModalCloserListeners(modalClosers) {
   });
 }
 
-function setToggleMessagesListeners(toggleMessages) {
-  toggleMessages.forEach(function (toggleMessage) {
-    ['click', 'touchstart'].forEach(function (event) {
-      toggleMessage.querySelector('.message-header').addEventListener(event, function () {
-        toggleMessage.classList.toggle('is-active')
-      });
-    });
-  });
-}
-
 function setCarouselListeners(carousels) {
   carousels.forEach(function (carousel) {
     var itemClassName = "item";
@@ -196,10 +186,6 @@ domready(function () {
     setModalButtonListeners(modalButtons);
     setModalCloserListeners(modalClosers);
   }
-
-  //Toggle Messages
-  let toggleMessages = document.getAll('.message.toggle');
-  if (toggleMessages.length > 0) setToggleMessagesListeners(toggleMessages);
 
   let carousels = document.getAll('.carousel');
   if (carousels.length > 0) setCarouselListeners(carousels);

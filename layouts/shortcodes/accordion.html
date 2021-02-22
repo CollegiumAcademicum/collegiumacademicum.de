@@ -1,0 +1,6 @@
+<nav class="accordion" x-data={show:false}>
+    <h5 @click="show=!show">{{ .Get 0 }}</h5>
+    <div x-show="show">
+        {{ .Inner | markdownify }}
+    </div>
+</nav>
