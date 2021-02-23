@@ -11,7 +11,7 @@ slug: "faq"
 Ja. Alle Wohnungen sind über einen Aufzug und ohne Schwellen zugänglich. Alle Türen haben eine rollstuhlgerechte Breite. Allerdings sind nur vier Wohnungen im Erdgeschoss bereits mit behindertengerechten Bädern ausgestattet. In allen anderen Wohnungen kann dies bei Bedarf nachgerüstet werden. Wenn du mehr Informationen benötigst, dann melde dich gerne bei uns unter einziehen@collegiumacademicum.de
 {{< /accordion >}}
 {{< accordion "Von wo wird der Strom bezogen?" >}}
-Aus 100% erneuerbaren Energien über die Heidelberger Energiegenossenschaft. Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt.
+Aus 100% erneuerbaren Energien über die Heidelberger Energiegenossenschaft. Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt. Die Stromkosten sind nicht in der Miete enthalten.
 {{< /accordion >}}
 {{< accordion "Steht jeder WG eine eigene Waschmaschine zur Verfügung?" >}}
 Nein, außer ihr wollt diese explizit installieren und die Kosten dafür übernehmen. Es gibt allerdings eine Waschlounge mit ausreichend guten Waschmaschinen für das ganze Wohnheim. Das ist ökologischer, platzsparender, effektiver und günstiger als eine eigene Waschmaschine pro WG.
@@ -20,7 +20,7 @@ Nein, außer ihr wollt diese explizit installieren und die Kosten dafür überne
  Herd, Backofen, Kühlschrank, Spüle, Arbeitsfläche, Tisch und Stühle .
 {{< /accordion >}}
 {{< accordion "Gibt es einen W-Lan Anschluss?" >}}
-Ja. Die Internetkosten sind in den Mietkosten enthalten.
+Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss und alle Wohnungen beinhalten eigene WiFi Access points. Die Internetkosten sind aber nicht in den Mietkosten beinhalten.
 {{< /accordion >}}
 
 ### Fragen zur Bewerbung
