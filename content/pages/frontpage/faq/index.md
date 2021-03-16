@@ -7,6 +7,18 @@ slug: "faq"
 
 ### Fragen zur Ausstattung der Zimmer und des Wohnheims
 
+{{< accordion "Wie hoch ist die Miete?" >}}
+Die fixe Miete beträgt 310€/Monat.
+{{< /accordion >}}
+{{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
+Jedes Zimmer ist 14m2 groß.
+{{< /accordion >}}
+{{< accordion "Wie viele Zimmer sind einer Wohnung?" >}}
+Jede Wohnung beinhaltet drei oder vier Zimmer und ein gemeinsame Küche.
+{{< /accordion >}}
+{{< accordion "Welche Nebenkosten sind in der Miete enthalten?" >}}
+Die fixe Miete beinhaltet Heiz-, Wasser- und Abwasserkosten, sowie die Instandhaltungskosten des Wohnheims. Die Stromkosten und die Internetkosten sind nicht in der fixen Miete enthalten. Die Stromkosten werden pro WG abgerechnet, der Internetvertrag wird zentral Abgeschlossen.
+{{< /accordion >}}
 {{< accordion "Sind die Wohnungen „barrierefrei“/ Rollstuhl gerecht?" >}}
 Ja. Alle Wohnungen sind über einen Aufzug und ohne Schwellen zugänglich. Alle Türen haben eine rollstuhlgerechte Breite. Allerdings sind nur vier Wohnungen im Erdgeschoss bereits mit behindertengerechten Bädern ausgestattet. In allen anderen Wohnungen kann dies bei Bedarf nachgerüstet werden. Wenn du mehr Informationen benötigst, dann melde dich gerne bei uns unter einziehen@collegiumacademicum.de
 {{< /accordion >}}
@@ -17,10 +29,10 @@ Aus 100% erneuerbaren Energien über die Heidelberger Energiegenossenschaft. Zu 
 Nein, außer ihr wollt diese explizit installieren und die Kosten dafür übernehmen. Es gibt allerdings eine Waschlounge mit ausreichend guten Waschmaschinen für das ganze Wohnheim. Das ist ökologischer, platzsparender, effektiver und günstiger als eine eigene Waschmaschine pro WG.
 {{< /accordion >}}
 {{< accordion "Welche Grundausstattung besitzt eine WG-Küche?" >}}
- Herd, Backofen, Kühlschrank, Spüle, Arbeitsfläche, Tisch und Stühle .
+Herd, Backofen, Kühlschrank, Spüle, Arbeitsfläche, Tisch und Stühle .
 {{< /accordion >}}
 {{< accordion "Gibt es einen W-Lan Anschluss?" >}}
-Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss und alle Wohnungen beinhalten eigene WiFi Access points. Die Internetkosten sind aber nicht in den Mietkosten beinhalten.
+Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss und alle Wohnungen beinhalten eigene WiFi Access points. Die Internetkosten sind aber nicht in den Mietkosten beinhalten, sollten aber relative günstig sein. Die Bewohner müssen sich nicht um einen eigenen Internetvertrag kümmern.
 {{< /accordion >}}
 
 ### Fragen zur Bewerbung
@@ -72,7 +84,4 @@ Es ist möglich, mit Kindern in das Wohnheim einzuziehen. Wichtig ist dabei, das
 {{< /accordion >}}
 {{< accordion "Muss ich selber auf der Baustelle helfen?" >}}
 Nein. Wir wünschen uns aber, dass viele Bewohner*innen schon vor dem Einzug mithelfen, z.B. beim Möbelbau, bei der Öffentlichkeitsarbeit oder in der Finanzierungsarbeit. 
-{{< /accordion >}}
-{{< accordion "Wie setzt sich der Mietpreis zusammen?" >}}
-Die Miete beträgt monatlich 310,20 Euro zzgl. Strom. Die 310,20 Euro beinhalten die Kaltmiete, sowie Kosten von Wärme und Wasserverbrauch und alle weiteren Kosten (auch Internet). Dazu kommt nur noch der Stromverbrauch.
 {{< /accordion >}}
