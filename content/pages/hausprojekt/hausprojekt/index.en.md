@@ -4,11 +4,11 @@ slug: "housing-project"
 ---
 
 <div class="front-box">
-    <a href="/en/living" ><img src="/hausprojekt/wohnen.png"></a>
+    <a href="/en/housing" ><img src="/hausprojekt/wohnen.png"></a>
     <div>
-        <div><h2><a href="/en/living" >Living</a></h2></div>
+        <div><h2><a href="/en/housing" >Housing</a></h2></div>
         <p>
-            With innovative wooden construction and creative conversion, a new living space is being built on land previously used by the military. The project is called Collegium Academicum and it will provide not only affordable accommodation for over 200 young people but also give room for creative ideas and lively exchange. <a class="mehr" href="/en/living" >More...</a>
+            With innovative wooden construction and creative conversion, a new living space is being built on land previously used by the military. The project is called Collegium Academicum and it will provide not only affordable accommodation for over 200 young people but also give room for creative ideas and lively exchange. <a class="mehr" href="/en/housing" >More...</a>
         </p>
     </div>
 </div>
