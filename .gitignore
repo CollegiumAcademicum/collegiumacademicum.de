@@ -9,6 +9,7 @@ beautify.bat
 *~
 .vscode/
 *orig
+.DS_Store
 
 public/
 resources/
