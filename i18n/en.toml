@@ -61,6 +61,12 @@ other = "Excursions"
 [exkursionen-message]
 other = "We welcome you to make an excursion to our construction site. It will take place online. We ask to you send us a very short email to the email address at the bottom to announce your participation."
 
+[richtfest]
+other = "Topping-out ceremony"
+
+[richtfest-message]
+other = "We will celebrate the topping out of the construction online. You are cordially invited."
+
 [anfahrt]
 other = "How to get there"
 
