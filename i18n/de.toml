@@ -61,6 +61,12 @@ other = "Exkursionen"
 [exkursionen-message]
 other = "Wir laden Sie herzlich zu unserer nächsten online Baustellenführung ein."
 
+[richtfest]
+other = "Richtfest"
+
+[richtfest-message]
+other = "Wir laden Sie herzlich zu unserem (online) Richtfest ein."
+
 [anfahrt]
 other = "Anfahrt"
 
