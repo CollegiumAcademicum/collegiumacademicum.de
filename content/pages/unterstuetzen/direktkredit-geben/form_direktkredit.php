@@ -10,17 +10,7 @@ if(!$email_address) redirect_fail();
 
 $name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
 
-$treuhand_check = filter_input(INPUT_POST, 'treuhand_check', FILTER_VALIDATE_BOOLEAN);
-if($treuhand_check){
-    $treuhand_value = filter_input(INPUT_POST, 'treuhand_value', FILTER_VALIDATE_INT);
-    if(!$treuhand_value) redirect_fail();
-}
-
-$sofort_check = filter_input(INPUT_POST, 'sofort_check', FILTER_VALIDATE_BOOLEAN);
-if($sofort_check){
-    $sofort_value = filter_input(INPUT_POST, 'sofort_value', FILTER_VALIDATE_INT);
-    if(!$sofort_value) redirect_fail();
-}
+$amount = filter_input(INPUT_POST, 'amount', FILTER_VALIDATE_INT);
 
 $gdpr_check = filter_input(INPUT_POST, 'gdpr', FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE);
 if(!$gdpr_check) redirect_fail();
@@ -37,10 +27,7 @@ $message = "Eingegangen ist:\r\n"
          . "----------------\r\n"
          . "Name: " . $name . "\r\n"
          . "E-Mail: " . $email_address . "\r\n"
-         . "Treuhand: " . ($treuhand_check ? "ja" : "nein") . "\r\n"
-         . "Treuhand-Betrag: " . $treuhand_value . "\r\n"
-         . "Sofort: " . ($sofort_check ? "ja" : "nein") . "\r\n"
-         . "Sofort-Betrag: " . $sofort_value . "\r\n"
+         . "Betrag: " . $amount . "\r\n"
          . "Verarbeitungs-OK: " . ($gdpr_check ? "zustimmung" : "keine zustimmung") . "\r\n"
          . "----------------\r\n\r\n"
          . "Eingang-Daten: " . date("Y-m-d H:i:s") . "\r\n"
