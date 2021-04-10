@@ -34,6 +34,8 @@ Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimme
     </div>
 </div>
 
+Die <a href="/barrierefreiheit">Wohnungen sind auf barrierefreiheit</a> ausgelegt.
+
 Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann bewirb dich gerne auf einen Platz bei uns und / oder trag dich am Ende der Seite auf den entsprechenden [Newsletter](#einziehen_form) ein.
 Eine weitere Bedingung ist, dass du studierst, eine Ausbildung machst oder promovierst.
 
