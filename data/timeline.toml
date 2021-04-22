@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "März 2020"
+content = "Richtfest des Neubaus."
+
+[[timeline]]
 heading = "September 2020"
 content = "Beginn der Planung für die Sanierung der Altbauten, in Zusammenarbeit mit dem <a href='https://gerstner-hofmeister.de/'>Architekturbüro Gerstner + Hofmeister</a> "
 
