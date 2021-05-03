@@ -48,7 +48,7 @@ Falls du dir jetzt denkst, das hab ich ja noch nie gemacht - kein Problem, wir h
 <div x-show="activeSlide === 3">
     <h3>AG Eigenleistung</h3>
     <div class="grid-col">
-        {{< img src="ag_eigenleistung" attr="Uli Hillenbrand 2020" />}}
+        {{< video "2021_Eigenleistung" >}}
         <div class="">
             <p>Wir wollen werkeln! Das steckt hinter dem Begriff der AG Eigenleistung.</p>
             <p>So viel wie möglich selbst herzustellen – dieser Leitgedanke ist nicht nur mit vielen gemeinsamen Stunden Spaß in unserer selbst eingerichteten Werkstatt verbunden, sondern spart gleichzeitig Kosten.</p>
