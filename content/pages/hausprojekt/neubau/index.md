@@ -3,9 +3,8 @@ title: "Der Holz-Neubau"
 slug: "neubau"
 ---
 
- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2em;">
-    <iframe src="https://player.vimeo.com/video/506705472?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+
+{{< video "2020_Bau_Entwicklung" >}}
 
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in
@@ -49,7 +48,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende
 <div class="columns">
     <div class="column" style="display:flex; align-items: center;">
         <figure>
-            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/24045214@N06/39829536020/" title="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"><img src="https://farm1.staticflickr.com/876/39829536020_3c98b557ef.jpg" width="500" height="281" alt="dgj223_IBA-CA_Stop Motion Movie 2018.04.10 ALL 8.4 SOUND HAV264"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            {{< video "2017_Interactive_hoousing" >}}
             <figcaption><cite>© DGJ Architekten 2018</cite></figcaption>
         </figure>
     </div>

@@ -62,11 +62,11 @@ Encode videos two times as [recommended by Mozilla](https://developer.mozilla.or
 
 - One with MP4 and libx264 Video + AAC audio
   ```bash
-  ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libx264 -crf 26 -c:a aac -b:a 128k output_video.mp4
+ffmpeg -i input.mp4 -c:a aac -crf 20 -preset slow -vf scale=-1:1080 output.mp4
   ```
 - One with WEBM and VP8 video + Opus audio
   ```bash
-  ❯ ffmpeg -i input_video.mp4 -s:v 512x288 -r 25 -c:v libvpx -crf 20 -c:a libopus -b:a 96k output_video.webm
+ffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus -vf scale=-1:1080 output.webm
   ```
 
 ### Icons

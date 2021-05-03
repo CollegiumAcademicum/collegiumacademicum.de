@@ -10,7 +10,7 @@ if(!$email_address) redirect_fail();
 
 $name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
 
-$amount = filter_input(INPUT_POST, 'amount', FILTER_VALIDATE_INT);
+$amount = filter_input(INPUT_POST, 'amount', FILTER_UNSAFE_RAW);
 
 $gdpr_check = filter_input(INPUT_POST, 'gdpr', FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE);
 if(!$gdpr_check) redirect_fail();
