@@ -6,7 +6,7 @@ novoigl: yes
 
 **Les candidatures sont malheureusement possibles qu'en [allemand](/einziehen) et en [anglais](/en/moving-in) pour le moment.**
 
-{{< zimmer-video >}}
+{{< video "2019_Zimmermodell" >}}
 
 Nous avons déjà commencé à construire le nouveau bâtiment, qui sera terminé en 2021. Mais un projet de logement ne devient vraiment un habitat qu'à travers les nombreuses personnes qui en font un lieu plein de vie et de bonne humeur! Nous cherchons donc à trouver le plus rapidement possible des personnes formidables qui veulent vivre avec nous.
 

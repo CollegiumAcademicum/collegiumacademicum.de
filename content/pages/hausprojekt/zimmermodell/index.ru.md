@@ -3,7 +3,7 @@ title: "МОДЕЛЬ КОМНАТЫ"
 slug: "МОДЕЛЬ-КОМНАТЫ"
 ---
 
-{{< zimmer-video >}}
+{{< video "2019_Zimmermodell" >}}
 
 <div class="columns">
     <div class="column">
