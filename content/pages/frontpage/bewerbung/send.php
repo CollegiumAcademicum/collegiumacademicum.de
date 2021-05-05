@@ -31,6 +31,7 @@ $i18n = [
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
+        "check_education_status" => "Hat die Richtlinien über den Ausbildungsstatus wahrgenommen",
     ],
     "en" => [
         "full_name" => "Name",
@@ -52,6 +53,7 @@ $i18n = [
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",
+        "check_education_status" => "Checked for educational status for moving in",
     ]];
 $number_of_inboxes = 4;
 
