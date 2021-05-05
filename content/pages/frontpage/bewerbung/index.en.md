@@ -114,20 +114,11 @@ novoigl: yes
 </div>
 
 <div class="field">
-    <label class="label" for="gender">How would you call your gender identity?</label>
+    <label class="label" for="gender">How would you call your gender identity? (Do you have preferred pronouns?)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="gender">
     </div>
 </div>
-
-<!-- <div class="field">
-    <label class="label">Fühlst Du Dich Gruppen zugehörig oder wirst zu Gruppen
-        zugeordnet, die Diskriminierung ausgesetzt oder anderweitig strukturell
-        benachteiligt sind? Wenn ja, welchen?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60">
-    </div>
-</div> -->
 
 <hr>
 
@@ -158,6 +149,15 @@ novoigl: yes
 <p>After submitting, you will receive a confirmation mail to your given address.</p>
 
 <p>We are keeping this data only for the duration of your application, after which it will be deleted. Please see our <a href="https://collegiumacademicum.de/datenschutz/">Privacy Policy</a> for further information.</p>
+
+<div class="field">
+  <div class="control">
+    <label class="checkbox" for="check_education_status">
+      <input type="checkbox" required name="check_education_status">
+        I am aware that I can only move into the CA with a proven educational status or by previously sending a separate hardship application via mail.
+    </label>
+  </div>
+</div>
 
 <div class="field">
     <div class="control">

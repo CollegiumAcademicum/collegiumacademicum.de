@@ -47,7 +47,7 @@ novoigl: yes
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind Dir besonders
         wichtig, welchen Punkten stehst Du kritisch gegenüber? *</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="3000" required></textarea>
     </div>
     <p class="help is-success">Schau Dir <a href="/leitbild">Unser Leitbild</a> an.</p>
 </div>
@@ -55,15 +55,15 @@ novoigl: yes
 <div class="field">
     <label class="label" for="selbstverwaltung">Warum hast Du Lust auf Selbstverwaltung? *</label>
     <div class="control">
-        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
+        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="3000" required></textarea>
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="sonstiges">Was sollten wir sonst noch über Dich wissen?</label>
+    <label class="label" for="sonstiges">Was willst Du uns sonst noch über Dich erzählen?</label>
     <div class="control">
         <textarea name="sonstiges" class="textarea" placeholder="Optional"
-            maxlength="1000"></textarea>
+            maxlength="3000"></textarea>
     </div>
 </div>
 
@@ -82,7 +82,7 @@ novoigl: yes
 </p>
 
 <div class="field">
-    <label class="label" for="occupation">Was is Deine hauptsächliche offizielle Tätigkeit?</label>
+    <label class="label" for="occupation">Was ist Deine hauptsächliche offizielle Tätigkeit?</label>
     <div class="control">
         <div class="select">
             <select name="occupation">
@@ -117,20 +117,11 @@ novoigl: yes
 
 <div class="field">
     <label class="label" for="gender">Wie würdest Du Deine geschlechtliche Zugehörigkeit
-        bezeichnen?</label>
+        bezeichnen? (Wie möchtest du angesprochen werden?)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="gender">
     </div>
 </div>
-
-<!-- <div class="field">
-    <label class="label">Fühlst Du Dich Gruppen zugehörig oder wirst zu Gruppen
-        zugeordnet, die Diskriminierung ausgesetzt oder anderweitig strukturell
-        benachteiligt sind? Wenn ja, welchen?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60">
-    </div>
-</div> -->
 
 <hr>
 
@@ -163,6 +154,15 @@ novoigl: yes
 <p>Nach dem Absenden bekommst Du eine Bestätigungsmail an Deine angegebene Adresse.</p>
 
 <p>Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest Du weitere Informationen.</p>
+
+<div class="field">
+  <div class="control">
+    <label class="checkbox" for="check_education_status">
+      <input type="checkbox" required name="check_education_status">
+        Mir ist bewusst, dass ich nur mit Ausbildungsstatus oder einem per Mail gestellten formlosen Härtefallantrag in das CA einziehen kann.
+    </label>
+  </div>
+</div>
 
 <div class="field">
     <div class="control">
