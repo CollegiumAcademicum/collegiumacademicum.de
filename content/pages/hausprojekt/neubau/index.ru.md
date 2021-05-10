@@ -2,9 +2,7 @@
 title: "ЖИЛЬЕ"
 ---
 
- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2em;">
-    <iframe src="https://player.vimeo.com/video/506705472?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+{{< video "2020_Bau_Entwicklung" >}}
 
 Общежитие, управляемое студентами, образовательная площадка и центр культуры: новый Коллегиум Академикум, строящийся на территории бывшего американского военного госпиталя в гейдельбергском Рорбахе, состоит из двух уже имеющихся зданий и современной новостройки из дерева. Планируется, что первые жильцы въедут в новый корпус уже в конце 2021 года.
 
