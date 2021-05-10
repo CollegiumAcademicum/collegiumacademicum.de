@@ -19,7 +19,7 @@ title: "ФИНАНСИРОВАНИЕ"
 
 ### ГОСУДАРСТВЕННЫЕ СУБСИДИИ
 
-Инвестиционная программа  ["Variowohnen"](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
+Инвестиционная программа  ["Variowohnen"](https://www.zukunftbau.de/programm/variowohnungen)
 (проекты вариативного жилья) Министерства строительства ФРГ признала наш проект выдающимся. Сумма субсидии составляет около 2,12 миллионов евро. Кроме этого мы получили дотацию в размере 500.000 евро по программе ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/) (новаторские решения для дерева) из регионального бюджета и из Европейского фонда регионального развития [EFRE](https://ec.europa.eu/regional_policy/de/funding/erdf/).Городская администрация поддержала реализацию безбарьерного доступа (50.000 евро) и использование принципа пассивного дома (190.000 евро).
 

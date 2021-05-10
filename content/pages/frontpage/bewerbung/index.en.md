@@ -47,7 +47,7 @@ novoigl: yes
     <div class="control">
         <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
     </div>
-    <p class="help is-success">Take a look at <a href="/vision">our vision</a>.</p>
+    <p class="help is-success">Take a look at <a href="/en/vision">our vision</a>.</p>
 </div>
 
 <div class="field">

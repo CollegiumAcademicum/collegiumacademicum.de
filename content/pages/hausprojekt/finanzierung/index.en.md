@@ -20,7 +20,7 @@ There are different sources of funding for our project: government grants, direc
 
 ### Grants
 
-Our project was recognised to be 'outstanding' under the ["Variowohnen"](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
+Our project was recognised to be 'outstanding' under the ["Variowohnen"](https://www.zukunftbau.de/programm/variowohnungen)
 future investment program by the Federal Ministry for Construction and we obtained a government grant of ca. €2,12 million. An additional grant over €500,000 was approved in the context of the program ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/) (innovation in wood) that is financed by the European Regional Development Fund [EFRE](https://ec.europa.eu/regional_policy/de/funding/erdf/) and the German State of Baden-Württemberg. Grants over €240,000 by the City of Heidelberg honour the dormitory’s barrier-free design (€50,000 Euro) and the energy efficient passive house construction (€190,000).
 
