@@ -15,7 +15,7 @@ $sender = "Collegium Academicum e.V.";
 $sender_email = "collegiumacademicum@posteo.de";
 $reply_email = "kontakt@collegiumacademicum.de";
 
-$files = array("../docs/ca_broschuere.pdf","../docs/ca_flyer_direktkredite.pdf","../docs/ca_finanzierung.pdf");
+$files = array("../media/2019_Broschüre.pdf","../media/2019_Direktkredit-Flyer.pdf");
 
 $infopackage_text = file_get_contents("infopackage.txt");
 

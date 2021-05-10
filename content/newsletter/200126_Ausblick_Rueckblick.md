@@ -100,7 +100,7 @@ Collegium Academicum Heidelberg e.V. ist dafür eine gute Gelegenheit! Mit Ihrem
 Beitrag fördern Sie die Bildungsarbeit eines selbstverwalteten, ökologisch und
 sozial nachhaltigen Projekts in Heidelberg, welches jungen Menschen Freiräume
 und Gestaltungsmöglichkeiten bietet. Weitere Informationen finden Sie auf
-unserem [Flyer](https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf) und sowie auf unserer [Webseite](https://collegiumacademicum.de).
+unserem [Flyer](https://collegiumacademicum.de/media/2019_Spenden-Flyer.pdf) und sowie auf unserer [Webseite](https://collegiumacademicum.de).
 
 Für das Jahr 2020 sind mehrere internationale Workcamps mit jungen Freiwilligen
 geplant, die der Förderverein finanziell bezuschusst. Im Neubau werden wir die

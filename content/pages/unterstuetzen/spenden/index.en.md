@@ -6,7 +6,7 @@ By donating you directly support the new building of the CA as an educational pr
 
 Currently we are particularly interested in donations of well-preserved furniture in order to furnish the rooms and common areas. If you are interested, please get in touch with us.
 
-You can find further information here on our <a href="/docs/2019_spenden_flyer.pdf">donations flyer</a> (_in German_).
+You can find further information here on our <a href="/media/2019_Spenden-Flyer.pdf">donations flyer</a> (_in German_).
 
 <div class="columns">
   <div class="column">

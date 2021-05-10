@@ -18,7 +18,7 @@ Zimmer und Gemeinschaftsflächen. Nehmen Sie bei Interesse gerne Kontakt zu uns
 auf.
 
 Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
-<a href="/docs/2019_spenden_flyer.pdf">hier</a> herunterladen können.
+<a href="/media/2019_Spenden-Flyer.pdf">hier</a> herunterladen können.
 
 <section class="grid-col">
   <p style="text-align:right">

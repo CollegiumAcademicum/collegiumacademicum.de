@@ -56,7 +56,7 @@ Beitrag fördern Sie die Bildungsarbeit eines selbstverwalteten, ökologisch und
 sozial nachhaltigen Projekts in Heidelberg, welches jungen Menschen Freiräume
 und Gestaltungsmöglichkeiten bietet und bieten wird. Weitere Informationen
 finden Sie in unserem
-[Spendenflyer](https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf).
+[Spendenflyer](https://collegiumacademicum.de/media/2019_Spenden-Flyer.pdf).
 
 ### Eigenleistungen: Möbelselbstbau & Arbeiten am Altbau
 
