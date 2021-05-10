@@ -82,3 +82,8 @@ text = "VELUX unterstützt uns mit Tageslicht-Lösungen in unserer Aula für ein
 img = "estlcam.png"
 link = "https://www.estlcam.de/"
 text = "Estlcam unterstützt uns mit Lizenzen für ihre CAD Software."
+
+[[partners]]
+img = "tesa.png"
+link = "https://meinbad.tesa.de/"
+text = "Tesa unterstützt uns in der Ausstattung der Badezimmer für eine gute gemeinschaftliche Nutzung."
