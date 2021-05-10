@@ -3,4 +3,4 @@ title: "Brochure"
 slug: "brochure"
 ---
 
-{{< pdf src="docs/ca_broschuere.pdf" height="500px" >}}
+{{< pdf src="media/2019_Broschüre.pdf" height="500px" >}}

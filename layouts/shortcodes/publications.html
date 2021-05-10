@@ -1,5 +1,5 @@
 <ul class="citation-list">
-{{ range $.Site.Data.bibliography.publications.publications }}
+{{ range $.Site.Data.bibliography.publications }}
     <li>
         <time>{{ .year }}</time>
         <span>{{ .content | markdownify }}</span>

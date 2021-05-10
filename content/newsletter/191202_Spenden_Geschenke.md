@@ -76,7 +76,7 @@ zukommen lassen wollen! Sie erreichen uns unter: kontakt@collegiumacademicum.de
 Bis zum neuen Jahr möchten wir die für das Neubauprojekt noch fehlenden
 vorgesehenen Spenden von 40.000 Euro einsammeln. Das sind 400 Personen, die uns
 100 Euro spenden oder 80 Personen, die 500 Euro spenden oder 40 Personen, die
-1.000 Euro spenden. Für diesen Zweck haben wir ganz aktuell einen <a href="https://collegiumacademicum.de/docs/2019_spenden_flyer.pdf">Flyer</a>
+1.000 Euro spenden. Für diesen Zweck haben wir ganz aktuell einen <a href="https://collegiumacademicum.de/media/2019_Spenden-Flyer.pdf">Flyer</a>
 erstellt, der über die Arbeit des Fördervereins informiert und genau erklärt
 wofür wir Ihre Spenden nutzen. Wenn Sie ein oder mehrere Exemplare des Flyers
 haben möchten, dann schicken Sie uns gerne eine Mail oder besuchen sie uns bei

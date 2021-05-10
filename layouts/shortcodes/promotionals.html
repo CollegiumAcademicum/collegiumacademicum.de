@@ -1,0 +1,8 @@
+<ul class="citation-list">
+{{ range $.Site.Data.bibliography.promotionals }}
+    <li>
+        <time>{{ .year }}</time>
+        <a href="/media/{{ .file }}">{{ .name }}</a>
+    </li>
+{{ end }}
+</ul>
