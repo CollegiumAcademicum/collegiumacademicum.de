@@ -3,7 +3,6 @@ title: "Der Holz-Neubau"
 slug: "neubau"
 ---
 
-
 {{< video "2020_Bau_Entwicklung" >}}
 
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das

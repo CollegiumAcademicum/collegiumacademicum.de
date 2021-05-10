@@ -2,9 +2,7 @@
 title: "Habiter"
 ---
 
- <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2em;">
-    <iframe src="https://player.vimeo.com/video/506705472?color=38A9A1&title=0&byline=0&portrait=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+{{< video "2020_Bau_Entwicklung" >}}
 
 Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien hôpital américain de Heidelberg-Rohrbach, le nouveau Collegium Academicum comporte deux bâtiments existants et un bâtiment neuf : une construction moderne en bois massif. Les premiers résident.e.s emménageront fin 2021 dans le bâtiment principal en bois.
 
