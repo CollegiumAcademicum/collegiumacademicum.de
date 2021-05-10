@@ -24,7 +24,7 @@ que nous avons sollicité par l'intermédiaire de la _Umweltbank_ (banque allema
 ### Subventions
 
 Notre projet a été classé comme projet modèle dans le cadre du programme d'investissement ["Modellvorhaben
-Variowohnen"](https://www.forschungsinitiative.de/variowohnungen/06-foerderprogramm/)
+Variowohnen"](https://www.zukunftbau.de/programm/variowohnungen)
 du Ministère fédéral de la construction. Le financement s'élève à un total d’environ 2,12 millions d'euros. En outre, une subvention de 500 000 euros a été approuvée dans le cadre du programme ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
 qui est financé par le Fonds européen de développement régional [FEDER](https://ec.europa.eu/regional_policy/de/funding/erdf/)  et des fonds publics. Des subventions municipales de 240 000 euros honorent la planification sans barrière (50 000 euros) et la construction sous norme « maison passive » (190 000 euros).
