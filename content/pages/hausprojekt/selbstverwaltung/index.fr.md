@@ -17,8 +17,8 @@ Les résident.e.s du CA organisent leur propre vie commune, indépendamment des 
     {{< img src="iba_graphic" alt="" attr="IBA Heidelberg | Matthias Schardt 2016" />}}
     </div>
     <div class="column">
-    Ce lieu d’émancipation, d'échanges et de transfert de savoir ne devrait pas seulement être important pour les étudiants. Toutes les personnes intéressées pourront utiliser les salles communes, participer aux activités artistiques et culturelles, aux discussions et aux conférences.
+    Ce lieu d’émancipation, d'échanges et de transfert de savoir ne devrait pas seulement être important pour les étudiant.e.s. Toutes les personnes intéressées pourront utiliser les salles communes, participer aux activités artistiques et culturelles, aux discussions et aux conférences.
     </div>
 </div>
 
-Le café autogéré de la Karlsruher Straße sera un lieu de rencontre idéal pour le quartier et ouvert à tous. En outre, des ateliers et des salles de réunion seront mis à la disposition d’artistes  en tant que lieux d’expérimentations.
+Le café autogéré de la Karlsruher Straße sera un lieu de rencontre idéal pour le quartier et ouvert à tou.te.s. En outre, des ateliers et des salles de réunion seront mis à la disposition d’artistes  en tant que lieux d’expérimentations.
