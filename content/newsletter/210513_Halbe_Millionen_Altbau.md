@@ -34,17 +34,18 @@ Heutige Themen:
 Bei unserem digitalen Richtfest am 30.03.2021 haben wir den Abschluss der
 Holz-Rohbauarbeiten gefeiert. Pünktlich dazu sind alle vier Bauabschnitte fertig
 aufgestellt gewesen. Sie können die Videoaufzeichnung von unserem Richtfest
-[hier](https://vimeo.com/user59079321) auf Vimeo anschauen. Im April standen
-dann viele Abschlüsse von Details, kleinere Ausbesserungen und Abnahmen an.
-Parallel dazu wurden im Gebäude alle zentralen Heiz- und Entlüftungsstränge für
-die Wohneinheiten fertiggestellt. An diese Leitungsstränge wurden auch die
-Fertigbäder angeschlossen, die während der Holzbauarbeiten mit dem Kran
-eingehoben wurden. Für die künftigen Bewohner*innen sind bereits fast alle
-Elektroleitungen verlegt und auch die zugehörigen Brandschotts bereits
-verschlossen. In den letzten Tagen wurde in den Außenwänden mit dem Einbau der
-dezentralen Lüftungsgeräte begonnen und auf dem Dach wird derweil die
-Photovoltaikanlage aufgebaut. Weitere Informationen zur Photovoltaikanlage
-können Sie diesen Sonntag bei unserer digitalen Führung um 14 Uhr erhalten.
+[hier](https://www.facebook.com/CollegiumAcademicum/videos/111935007560580/) auf
+Facebook anschauen. Im April standen dann viele Abschlüsse von Details, kleinere
+Ausbesserungen und Abnahmen an. Parallel dazu wurden im Gebäude alle zentralen
+Heiz- und Entlüftungsstränge für die Wohneinheiten fertiggestellt. An diese
+Leitungsstränge wurden auch die Fertigbäder angeschlossen, die während der
+Holzbauarbeiten mit dem Kran eingehoben wurden. Für die künftigen Bewohner*innen
+sind bereits fast alle Elektroleitungen verlegt und auch die zugehörigen
+Brandschotts bereits verschlossen. In den letzten Tagen wurde in den Außenwänden
+mit dem Einbau der dezentralen Lüftungsgeräte begonnen und auf dem Dach wird
+derweil die Photovoltaikanlage aufgebaut. Weitere Informationen zur
+Photovoltaikanlage können Sie diesen Sonntag bei unserer digitalen Führung um 14
+Uhr erhalten.
 
 ## Eine halbe Million Euro an Direktkrediten für die Altbauten gesammelt
 
