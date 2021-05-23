@@ -5,7 +5,9 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Nicht mehr lange und es ist soweit: **Ende 2021** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Bewerbungen für Plätze im neuen CA sind ab sofort möglich, die **Hälfte der Plätze soll bereits bis Ende 2020 vergeben werden**!
+Die häufigsten Fragen zur Bewerbung wir in [unserem FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
+
+Nicht mehr lange und es ist soweit: **November 2021** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Bewerbungen für Plätze im neuen CA sind ab sofort möglich!
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">

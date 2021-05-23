@@ -45,7 +45,7 @@ novoigl: yes
 <div class="field">
     <label class="label" for="leitbild">Which points about our vision are important to you? Are there some that you are critical about? *</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" minlength="300" maxlength="1000" required></textarea>
     </div>
     <p class="help is-success">Take a look at <a href="/en/vision">our vision</a>.</p>
 </div>
@@ -53,15 +53,14 @@ novoigl: yes
 <div class="field">
     <label class="label" for="selbstverwaltung">Why do want to live in self-managed housing? *</label>
     <div class="control">
-        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
+        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" minlength="300" maxlength="1000" required></textarea>
     </div>
 </div>
 
 <div class="field">
     <label class="label" for="sonstiges">Is there something else we should know about you?</label>
     <div class="control">
-        <textarea name="sonstiges" class="textarea" placeholder="Optional"
-            maxlength="1000"></textarea>
+        <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
     </div>
 </div>
 
