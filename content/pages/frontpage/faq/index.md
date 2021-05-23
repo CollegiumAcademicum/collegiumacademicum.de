@@ -37,6 +37,9 @@ Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss und alle 
 
 ### Fragen zur Bewerbung
 
+{{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere oder eine Ausbildung mache?" >}}
+Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung möglich. Für Menschen, die auf dem Wohnungsmarkt strukturell stark benachteiligt sind und sich in einer anderen Art der Ausbildung/Studium befinden (z.B. Deutschkurs, FSJ o.ä.). Die besondere Benachteiligung sowie die aktuelle hauptsächliche Beschäftigung müssen parallel zur Bewerbung über das Onlineformular formlos per E-Mail an einziehen@collegiumacademicum kurz geschildert werden.
+{{< /accordion >}}
 {{< accordion "Ich habe noch keine Zusage für einen Ausbildungs- oder Studienplatz, kann ich mich trotzdem schon bewerben?" >}}
 Ja, du kannst dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/ eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten.
 {{< /accordion >}}
