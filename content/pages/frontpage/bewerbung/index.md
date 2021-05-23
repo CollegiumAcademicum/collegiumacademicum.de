@@ -47,7 +47,7 @@ novoigl: yes
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind Dir besonders
         wichtig, welchen Punkten stehst Du kritisch gegenüber? *</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="3000" required></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="1000" required></textarea>
     </div>
     <p class="help is-success">Schau Dir <a href="/leitbild">Unser Leitbild</a> an.</p>
 </div>
@@ -55,7 +55,7 @@ novoigl: yes
 <div class="field">
     <label class="label" for="selbstverwaltung">Warum hast Du Lust auf Selbstverwaltung? *</label>
     <div class="control">
-        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="3000" required></textarea>
+        <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" minlength="200" maxlength="1000" required></textarea>
     </div>
 </div>
 
@@ -63,7 +63,7 @@ novoigl: yes
     <label class="label" for="sonstiges">Was willst Du uns sonst noch über Dich erzählen?</label>
     <div class="control">
         <textarea name="sonstiges" class="textarea" placeholder="Optional"
-            maxlength="3000"></textarea>
+            maxlength="1000"></textarea>
     </div>
 </div>
 
