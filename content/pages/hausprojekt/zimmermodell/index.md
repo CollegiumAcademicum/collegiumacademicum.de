@@ -6,7 +6,8 @@ title: "Zimmermodell"
 
 <div class="columns">
     <div class="column">
-    Im Mai 2018 haben wir ein Zimmermodell in Realgröße gebaut, damit sich die Öffentlichkeit ein Bild von unserem Projekt machen kann. Der Prototyp zeigt eines der 176 Zimmer des Neubaus, die in 3er und 4er WGs organisiert sind. Wir stellen unseren „Demonstrator“ an verschiedenen Orten in Heidelberg aus.
+    Im Mai 2018 haben wir ein erstes Zimmermodell in Realgröße gebaut, damit sich die Öffentlichkeit ein Bild von unserem Projekt machen kann. Der Prototyp zeigt eines der 176 Zimmer des Neubaus, die in 3er und 4er WGs organisiert sind. Der „Demonstrator“ wurde an verschiedenen Orten in Heidelberg ausgestellt und steht aktuell neben dem [Altbau](/Altbauten) auf unserem Gelände in Heidelberg-Rohrbach.
+        Seit dem ersten Entwurf haben sich natürlich noch ein paar Sachen verändert, so wurden noch Änderungen am Schreibtisch vorgenommen und Bett und Kleiderschrank optimalisiert.
     </div>
     <div class="column">
     {{< img src="uniplatz" alt="Das Zimmermodell kurz nach seiner Ankunft auf dem Uniplatz." />}}
