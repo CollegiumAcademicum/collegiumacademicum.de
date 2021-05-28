@@ -5,11 +5,11 @@ title: "Spenden"
 Mit einer Spende unterstützen Sie direkt den Neubau des CA als Bildungsprojekt.
 Ganz konkret ermöglichen Sie praktische Lernräume, bei denen Studierende selbst
 an der Gestaltung und dem Bau beteiligt sind. Hierzu haben wir mit Unterstützung
-der IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir z.B. die Möbel für das
+der IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir z. B. die Möbel für das
 Wohnheim selbst bauen. Die Materialien hierfür werden durch Spenden
 mitfinanziert. 2020 sind mehrere internationale Workcamps mit jungen
 Freiwilligen geplant, die der Förderverein finanziell bezuschusst. Im Neubau
-werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner*innen
+werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner\*innen
 eigene Projekte realisieren können. Um Ressourcen zu schonen, nehmen wir auch
 gerne Sachspenden an.
 
@@ -37,10 +37,10 @@ Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
   <p style="text-align:left">
   Aktuell unterstützt der Förderverein den Bau des neuen Collegium Academicum
   vor allem bei der Bildungsarbeit und dem Selbstbau. So werden Vorträge,
-  Schulungen und Workshops unterstützt und Konzepte für ein Tutorienprogramm
+  Schulungen und Workshops gefördert und Konzepte für ein Tutorienprogramm
   im neuen CA entwickelt.
   <br>
-  Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der
+  Zum Beispiel erlernen Mitglieder der Projektgruppe bspw. den Umgang mit der
   CNC-Fräse, um diese im Selbstbau zu verwenden.
   </p>
 </section>
@@ -73,5 +73,5 @@ Sowohl für die aktuelle als auch für die zukünftige Nutzung freuen wir uns au
 - Fahrradbestellanlagen
 - Große Kochtöpfe
 - Küchenaustattung im Allgemeinen
-- Möbelspenden
-- Material für die Werkstatt
+- Möbelspenden (Schränke, (Schreibtisch-)Stühle, Betten, Küchentische ...)
+- Material für die Werkstatt (Akkuschrauber, Schutzkleidung, Leitern, Schubkarren ...)
