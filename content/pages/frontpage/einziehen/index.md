@@ -5,7 +5,7 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Die häufigsten Fragen zur Bewerbung sind in [unserem FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
+Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
 Nicht mehr lange und es ist soweit: Im **November 2021** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft!
 
