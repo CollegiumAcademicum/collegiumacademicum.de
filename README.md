@@ -5,7 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/collegiumacademicum/collegiumacademicum.de)
 
 This repo contains the code and content of collegiumacademicum.de.
-DIESEN TEXT LÖSCHEN; IST NUR EIN TEST
 
 ## Requirements
 
@@ -56,8 +55,6 @@ You can use the following custom shortcodes in the content markdown files to get
 | `{{< hausprojekt-boxes >}}`             | Outputs the menu boxes for the house projekt pages                                                                                            |
 
 ## Various
-
-test
 
 ### Videos
 
