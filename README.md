@@ -5,6 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/collegiumacademicum/collegiumacademicum.de)
 
 This repo contains the code and content of collegiumacademicum.de.
+DIESEN TEXT LÖSCHEN; IST NUR EIN TEST
 
 ## Requirements
 
