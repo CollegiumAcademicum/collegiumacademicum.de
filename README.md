@@ -56,6 +56,8 @@ You can use the following custom shortcodes in the content markdown files to get
 
 ## Various
 
+test
+
 ### Videos
 
 Encode videos two times as [recommended by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs):
