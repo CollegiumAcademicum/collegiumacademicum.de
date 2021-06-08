@@ -36,7 +36,7 @@ Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf und schreiben Sie an <a
   Schulungen und Workshops gefördert und Konzepte für ein Tutorienprogramm
   im neuen CA entwickelt.
   <br>
-  So erlernen Mitglieder der Projektgruppe bspw. den Umgang mit der
+  Zum Beispiel erlernen Mitglieder der Projektgruppe den Umgang mit der
   CNC-Fräse, um diese im Selbstbau zu verwenden.
   </p>
 </section>
