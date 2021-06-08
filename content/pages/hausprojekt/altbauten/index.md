@@ -15,7 +15,7 @@ Zu unserem Projekt gehören auch zwei Altbauten: das alte Verwaltungsgebäude de
 
 ## Der große Altbau
 
-In dem alten Verwaltungsgebäude sollen ab Frühjahr 2023 etwa 75 Personen wohnen. Von diesen werden rund 40 bis 45 Personen  hier zwischen Schule und weiterem Lebensweg ein Orientierungsjahr absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
+In dem alten Verwaltungsgebäude sollen ab Frühjahr 2023 etwa 75 Personen wohnen. Von diesen werden rund 40 bis 45 Personen  hier zwischen Schule und weiterem Lebensweg ein [Orientierungsjahr]({{< relref "/pages/hausprojekt/bildung"  >}} ) absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
 
 Die weiteren Bewohnenden sollen vor allem Studierende, Promovierende und junge Berufstätige sein, um auch in diesem Gebäude eine Kontinuität der Bewohner\*innenschaft zu gewährleisten und die Verbindung zwischen Alt- und Neubau zu fördern.
 
