@@ -11,13 +11,12 @@ mitfinanziert. 2020 sind mehrere internationale Workcamps mit jungen
 Freiwilligen geplant, die der Förderverein finanziell bezuschusst. Im Neubau
 werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner\*innen
 eigene Projekte realisieren können. Um Ressourcen zu schonen, nehmen wir auch
-gerne Sachspenden an.
+gerne Sachspenden an. Aktuell suchen wir insbesondere gut erhaltene Möbelspenden zur Einrichtung der
+Zimmer und Gemeinschaftsflächen.
 
-Aktuell suchen wir insbesondere gut erhaltene Möbelspenden zur Einrichtung der
-Zimmer und Gemeinschaftsflächen. Nehmen Sie bei Interesse gerne Kontakt zu uns
-auf.
+Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf: <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>.
 
-Alle weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
+Weiteren Informationen finden Sie auch in unserem Spendenflyer, den Sie
 <a href="/media/2019_Spenden-Flyer.pdf">hier</a> herunterladen können.
 
 <section class="grid-col">
@@ -55,8 +54,8 @@ machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 ### Geldspende per Banküberweisung
 Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto.
 Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung.
-Setzen Sie sich diesbezüglich mit uns in Verbindung (<a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>)
-oder fügen Sie als Verwendungszweck zusätzlich ihre Adresse hinzu.
+Setzen Sie sich diesbezüglich per Mail an die oben genannte E-Mail-Adresse mit uns in Verbindung
+oder fügen Sie dem Verwendungszweck zusätzlich ihre Adresse bei.
 
 
 <div class="notification is-primary">
