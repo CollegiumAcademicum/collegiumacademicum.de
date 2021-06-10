@@ -11,7 +11,7 @@ unserer Baustelle in großen Schritten voran.
 Während die Fortschritte am Neubau gut sichtbar sind, wird an unseren
 Bestandsgebäuden aktuell in den Bereichen Planung und Finanzierung gearbeitet.
 Dank Ihrer Unterstützung konnten wir bereits etwa eine halbe Millionen Euro
-Direktkredite dafür einsammeln! Bis Ende Juni wollen wir nun insgesamt 750.00
+Direktkredite dafür einsammeln! Bis Ende Juni wollen wir nun insgesamt 750.000
 Euro einwerben.
 
 Heutige Themen:
