@@ -4,7 +4,7 @@ date: 2020-07-15
 ---
 Nicht mehr lange und es ist soweit: **Ende 2021** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Leben füllen.
 
-Deshalb sind ab sofort Bewerbungen für Plätze im neuen CA möglich! Die Hälfte der Plätze soll bereits bis Ende 2020 vergeben werden.
+Deshalb sind ab sofort Bewerbungen für Plätze im neuen CA möglich!
 
 <figure>
 <img src="/aktuelles/gruppenbild_strassenkreis.jpg" alt="Hier ist noch Platz! Wir freuen uns darauf mit dir zu diskutieren und das neue CA mit Leben zu füllen" title="Hier ist noch Platz! Wir freuen uns darauf mit dir zu diskutieren und das neue CA mit Leben zu füllen" width="100%" />
