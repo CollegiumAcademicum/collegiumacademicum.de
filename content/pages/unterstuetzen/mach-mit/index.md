@@ -9,11 +9,11 @@ title: "Mach Mit"
     <div class="grid-col">
         {{< img src="ag_neubau" />}}
         <div class="">
-            <p>Zwischen Schreibtisch und Baustelle passiert bei uns alles. Wir haben den Planungsprozess der Architektur zusammen mit der Fachplanung begleitet und haben im Sinne der offenen Partizipation die Vorstellungen der Projektgruppe vertreten. Genauso nehmen wir als Vertreter*innen der Bauherrschaft an den Bausitzungen teil, treffen Absprachen mit den Baufirmen und sehen unseren schönen Neubau wachsen.</p>
+            <p>Zwischen Schreibtisch und Baustelle passiert bei uns alles. Wir haben den Planungsprozess der Architektur zusammen mit der Fachplanung begleitet und im Sinne der offenen Partizipation die Vorstellungen der Projektgruppe vertreten. Genauso nehmen wir als Vertreter\*innen der Bauherrschaft an den Bausitzungen teil, treffen Absprachen mit den Baufirmen und sehen unseren schönen Neubau wachsen.</p>
         </div>
     </div>
 
-Die AG Planung kümmert sich um alles, was die Ausführung und die Baustelle betrifft – egal ob es um die Ausschreibungen der Bauleistungen geht oder die Leitungswege für Strom und Wasser der Stadtwerke, die Absprachen mit der Städtischen Wohnungsbaugesellschaft GGH, die die umliegende Fläche entwickelt oder die Kommunikation mit den Firmen, die auf der Fläche US Hospital arbeiten. Wir stehen dabei in enger Abstimmung mit unserem Bauleiter und weiteren Berater*innen.
+Die AG Planung kümmert sich um alles, was die Ausführung und die Baustelle betrifft – egal ob es um die Ausschreibungen der Bauleistungen geht oder die Leitungswege für Strom und Wasser der Stadtwerke, die Absprachen mit der Städtischen Wohnungsbaugesellschaft GGH, welche die umliegende Fläche entwickelt oder die Kommunikation mit den Firmen, die auf der Fläche US Hospital arbeiten. Wir stehen dabei in enger Abstimmung mit unserem Bauleiter und weiteren Berater\*innen.
 
 Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
     
