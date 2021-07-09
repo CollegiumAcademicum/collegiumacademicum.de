@@ -4,7 +4,7 @@ slug: "finanzierung"
 ---
 
 Da sich das Wohnheim nur gemeinschaftlich finanzieren lässt, versteht
-es sich für uns von selbst, dass wir unseren Unterstützer*innen
+es sich für uns von selbst, dass wir unseren Unterstützer\*innen
 Einblick in die Finanzen ermöglichen und unseren Finanzierungsplan so
 transparent wie möglich gestalten. Im Folgenden erhalten Sie einen
 Überblick zu Kosten und Finanzierung (gemäß der aktuellen Planung) zur
@@ -20,15 +20,15 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 18 Millionen Euro. Die genaue Kalkulation
+für den Neubau liegen bei etwa 19 Millionen Euro. Die genaue Kalkulation
 konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
-die Baunebenkosten. Für den Großteil der Bauleistungen sind bereits
+die Baunebenkosten. Auch Kosten wie Bauzeitzinsen und Gelder für
+Forschung sind in der Kalkulation enthalten. Für den Großteil der Bauleistungen sind bereits
 Beauftragungen erteilt worden, sodass wir über eine große Kostensicherheit
-verfügen. Weitere Details zur Architektur und zur Planung finden Sie
-[hier]({{< relref "/pages/hausprojekt/neubau"  >}} ). Auch Kosten wie Bauzeitzinsen und Gelder für
-Forschung sind in der Kalkulation enthalten.
+verfügen. Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
+[hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
 
 ## Finanzierungsbausteine
 
@@ -53,19 +53,20 @@ genehmigt, welches sich aus dem [Europäischen Fonds für regionale
 Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/) (EFRE) und
 Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
 von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
-Passivhausbauweise des Wohnheim (190.000 Euro).
+Passivhausbauweise des Wohnheims (190.000 Euro).
 
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
 umgesetzt, mit dem deutschlandweit bereits über 150 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
-Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
+Projektberater\*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen und ihm
 nahestehen. Die aktuelle Planung sieht vor, etwa 2,3 Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben. Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
+an nachrangigen Darlehen und Spenden einzuwerben. Für den Neubau haben wir unser Ziel schon erfüllt,
+für die Altbauten werden weiterhin Spenden gesucht! Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
@@ -123,7 +124,7 @@ reduzieren.
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
-Bewohner\*innen beläuft sich auf 300 Euro/Monat/Person. Über diese Mieten werden
+Bewohner\*innen beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
 auch die großen Gemeinschaftsflächen mitfinanziert. Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren.
