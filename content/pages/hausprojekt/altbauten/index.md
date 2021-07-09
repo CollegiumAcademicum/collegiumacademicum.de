@@ -15,11 +15,11 @@ Zu unserem Projekt gehören auch zwei Altbauten: das alte Verwaltungsgebäude de
 
 ## Der große Altbau
 
-In dem alten Verwaltungsgebäude sollen ab Frühjahr 2023 etwa 75 Personen wohnen. Von diesen werden rund 40 bis 45 Personen  hier zwischen Schule und weiterem Lebensweg ein Orientierungsjahr absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
+In dem alten Verwaltungsgebäude sollen ab Frühjahr 2023 etwa 75 Personen wohnen. Von diesen werden rund 40 bis 45 Personen zwischen Schule und weiterem Lebensweg ein Orientierungsjahr absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
 
 Die weiteren Bewohnenden sollen vor allem Studierende, Promovierende und junge Berufstätige sein, um auch in diesem Gebäude eine Kontinuität der Bewohner\*innenschaft zu gewährleisten und die Verbindung zwischen Alt- und Neubau zu fördern.
 
-Im Erdgeschoss werden neben Wohnflächen mehrere multifunktionale Seminar- und Gemeinschaftsräume entstehen, die barrierefrei zu erreichen sind. Zudem sind kleine Werkstätten und Lagerräume im Keller geplant, die die große Werkstatt im Neubau ergänzen. Das 1. OG ist Wohn- und Gemeinschaftsbereich für Menschen im Orientierungsjahr, das 2. OG und Dachgeschoss werden insgesamt fünf WGs beherbergen. Diese sind teilweise als Maisonnette-Wohnungen ausgestaltet.
+Im Erdgeschoss werden neben Wohnflächen mehrere multifunktionale Seminar- und Gemeinschaftsräume entstehen, die barrierefrei zu erreichen sind. Auch in den Obergeschossen werden Zimmer und Gemeinschaftsflächen eingerichtet werden. Zudem sind kleine Werkstätten und Lagerräume im Keller geplant, die die große Werkstatt im Neubau ergänzen.
 
 {{< img src="altbau_wide" attr="Christian Buck 2016" >}}
     {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
@@ -28,7 +28,7 @@ Im Erdgeschoss werden neben Wohnflächen mehrere multifunktionale Seminar- und G
 
 ## Das Café
 
-In dem ehemaligen Pförtnerhäuschen soll im Erdgeschoss ein selbstverwaltetes Café Möglichkeit für Begegnung und Austausch bieten. Angedacht ist das Bestehen als Anlaufpunkt, insbesondere für die Nachbarschaft. Außerdem wird das Café Raum für eine kleine Lebensmittelkooperative und/ oder ein „Repair-Café“ bieten, bei dem z. B. Elektronikgeräte gemeinsam repariert werden können. Die Räume im oberen Geschoss werden Platz für Büros der Selbstverwaltung bieten. Zudem ist dort eine Beratungsstelle für das <a href='https://www.syndikat.org/de/unternehmensverbund/'>Mietshäuser-Syndikat</a> angedacht.
+In dem ehemaligen Pförtnerhäuschen soll im Erdgeschoss ein selbstverwaltetes Café Möglichkeit für Begegnung und Austausch bieten. Angedacht ist das Bestehen als Anlaufpunkt, insbesondere für die Nachbarschaft. Außerdem wird das Café Raum für eine kleine Lebensmittelkooperative und/ oder ein „Repair-Café“ bieten, bei dem z. B. Elektronikgeräte gemeinsam repariert werden können. Die Räume im oberen Geschoss sind für Büros der Selbstverwaltung sowie als eine Beratungsstelle für das <a href='https://www.syndikat.org/de/unternehmensverbund/'>Mietshäuser-Syndikat</a> angedacht.
 
 {{< img src="cafe" attr="Christian Buck 2016" >}}
     {{< img src="cafe" attr="Christian Buck 2016" />}}
@@ -49,9 +49,9 @@ Da die Altbauten bereits in den 1930er Jahren entstanden sind und zuletzt als Ve
     {{< /img >}}
     </div>
     <div class="column">
-      In einem noch größerem Umfang als im [Holzneubau]({{< relref "/pages/hausprojekt/neubau"  >}} ) möchten wir im Altbau anfallende Arbeiten in Eigenleistung realisieren. Ein Beitrag dazu werden die verschiedenen partizipative Baustellen leisten: mehrere Wochen gemeinschaftlicher Arbeit mit lokalen und internationalen Freiwilligen sowie Wandergesell*innen treiben Rückbauarbeiten sowie auch Teile der eigentlichen Sanierung voran.
+      In einem noch größerem Umfang als im [Holzneubau]({{< relref "/pages/hausprojekt/neubau"  >}} ) möchten wir im Altbau anfallende Arbeiten in Eigenleistung realisieren. Einen Beitrag dazu werden die verschiedenen partizipative Baustellen leisten: mehrere Wochen gemeinschaftlicher Arbeit mit lokalen und internationalen Freiwilligen sowie Wandergesell*innen treiben Rückbauarbeiten sowie auch Teile der eigentlichen Sanierung voran.
       <p> Im August 2020 haben wir großartige Unterstützung durch zwei von uns organisierte deutsch-französische Workcamps erhalten. Aus beiden Ländern kamen ca. 10-15 junge Menschen, um mit uns zu arbeiten und sich auszutauschen. Neben den ersten Rückbauarbeiten im Gebäude wurde im Außenraum gepflastert und mit unserer CnC-Fräse Möbel gebaut. Zudem gab es Workshops (u.a. zu nachhaltigem Bauen), bei denen die Teilnehmenden das CA näher kennenlernen konnten.
-      <p> 2021 planen wir ebenfalls wieder Workcamps: Vom 09.-15. August, vom 30. August bis 05. September und vom 06.-12. September 2021. Bei diesen werden sowohl im Alt- als auch im Neubau Arbeiten durchgeführt werden. Bei Interesse an einer Teilnahme wende dich bitte an <a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a>.
+      <p> 2021 planen wir ebenfalls wieder Workcamps: Vom 08.-14. August, vom 29. August bis 04. September und vom 05.-11. September 2021. Bei diesen werden sowohl im Alt- als auch im Neubau Arbeiten durchgeführt werden. Bei Interesse an einer Teilnahme wende dich bitte an <a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a>.
     </div>
 </div>
 
