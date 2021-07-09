@@ -41,7 +41,7 @@ ebenfalls einen Kredit zur Verfügung stellt.
 
 {{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
-### Förderung
+### Förderung des Neubaus
 
 Im Rahmen des Zukunftsinvestitionsprogramms ["Modellvorhaben
 Variowohnen"](https://www.zukunftbau.de/programm/variowohnungen)
@@ -64,9 +64,10 @@ Projektberater\*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen und ihm
-nahestehen. Die aktuelle Planung sieht vor, etwa 2,3 Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben. Für den Neubau haben wir unser Ziel schon erfüllt,
-für die Altbauten werden weiterhin Spenden gesucht! Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
+nahestehen. Die aktuelle Planung sieht vor, für den Neubau etwa 2,3 Millionen Euro
+an nachrangigen Darlehen und Spenden einzuwerben. Unser erstes Ziel haben wir schon erreicht,
+für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
+Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
