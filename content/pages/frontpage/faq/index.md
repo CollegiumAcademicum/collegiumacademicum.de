@@ -8,10 +8,10 @@ slug: "faq"
 ### Fragen zur Ausstattung der Zimmer und des Wohnheims
 
 {{< accordion "Wie hoch ist die Miete?" >}}
-Die fixe Miete beträgt 310€/Monat.
+Die fixe Miete beträgt 312€/Monat.
 {{< /accordion >}}
 {{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
-Jedes Zimmer ist 14qm groß.
+Jedes Zimmer ist 14qm groß und kann flexibel auf 7qm verkleinert werden.
 {{< /accordion >}}
 {{< accordion "Wie viele Zimmer sind einer Wohnung?" >}}
 Jede Wohnung beinhaltet drei oder vier Zimmer und eine gemeinsame Küche.
@@ -49,8 +49,8 @@ Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du für einen Kennenle
 {{< accordion "Ich bin noch nicht volljährig, kann ich mich trotzdem bewerben?" >}}
 Ja, du kannst dich trotzdem schon bewerben. Für die Absichtserklärung und später den Mietvertrag ist dann eine Unterschrift deiner Erziehungsberechtigten notwendig.
 {{< /accordion >}}
-{{< accordion "Kann ich mich jetzt schon bewerben, wenn ich erst 2022 einziehen will?" >}}
-Nein, aktuell sind nur Bewerbungen für Ende 2021 möglich. 
+{{< accordion "Kann ich mich jetzt schon bewerben, wenn ich erst im Sommersemester 2022 einziehen will?" >}}
+Nein, aktuell sind nur Bewerbungen für den Ersteinzug im Januar 2022 möglich. 
 {{< /accordion >}}
 {{< accordion "Ich/ Wir haben eine kleinen/großen Direktkredit gegeben. Hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
 Nein, dies hat keinen Einfluss auf die Bewerbungschancen ihres Kindes. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im Wohnheim leben kann.
