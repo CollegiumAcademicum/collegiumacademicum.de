@@ -7,7 +7,7 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Nicht mehr lange und es ist soweit: Im **November 2021** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft!
+Nicht mehr lange und es ist soweit: Im **Januar 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft!
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -18,11 +18,11 @@ Nicht mehr lange und es ist soweit: Im **November 2021** werden die ersten Bewoh
     {{< /img >}}
     </div>
     <div class="column">
-        Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du Ende 2021 ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Dich begeistert die Idee vom Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
+        Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Dich begeistert die Idee vom Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
     </div>
 </div>
 
-Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt hängt vor allem von der Entwicklung der Baukosten ab.
+Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab.
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
