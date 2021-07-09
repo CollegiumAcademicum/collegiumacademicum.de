@@ -6,7 +6,7 @@ slug: "barrierefreiheit"
 
 Auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach entsteht ein viergeschossiger Holzneubau, der Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende bietet. Die Zimmer sind in 3er-und 4er WGs gruppiert, und besitzen je ein eigenes Bad und Küche. Bei der Architektur des Gebäudes wurde darauf Wert gelegt, möglichst barrierearm zu bauen.
 
-Aktuell sind Bewerbungen für den Erstbezug ab November 2021 möglich. Wir möchten Menschen mit Bedarf an barrierearmem Wohnraum, die eine Ausbildung machen oder studieren, ausdrücklich zu einer Bewerbung ermutigen.
+Aktuell sind Bewerbungen für den Erstbezug ab Januar 2022 möglich. Wir möchten Menschen mit Bedarf an barrierearmem Wohnraum, die eine Ausbildung machen oder studieren, ausdrücklich zu einer Bewerbung ermutigen.
 
 Mehr Informationen zur Bewerbung gibt es hier: https://collegiumacademicum.de/einziehen
 
@@ -30,7 +30,7 @@ Es sind unterfahrbare Waschtische vorhanden. Alle Duschen werden bodengleich und
 
 ### Verkehrsanbindung
 
-Das Wohnheim liegt in unmittelbarer Nähe der Haltestelle „Ortenauer Str.“ (laut Verkehrsverbund: Haltestelle mit einer Bahnsteighöhe von 30 cm: Weitgehend stufenloser, höhengleicher Zugang). Es wird außerdem zwei gekennzeichnete behindertengerechte Parkplätze mit einer Breite von 2,75m geben.
+Das Wohnheim liegt in unmittelbarer Nähe der Haltestelle „Ortenauer Str.“ ([Anfahrt](/anfahrt). Diese ist laut Verkehrsverbund eine Haltestelle mit einer Bahnsteighöhe von 30 cm und besitzt einen weitgehend stufenlosen, höhengleichen Zugang. Es wird außerdem zwei gekennzeichnete behindertengerechte Parkplätze mit einer Breite von 2,75m geben.
 
 ### Weitere Informationen
 
