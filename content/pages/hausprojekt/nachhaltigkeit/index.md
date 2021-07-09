@@ -7,8 +7,8 @@ title: "Nachhaltigkeit"
 
 Bei der Konstruktion des Neubaus wird überwiegend Holz als nachwachsender Rohstoff verwendet. Holz-Holz-Verbindungen ermöglichen es, weitestgehend auf metallische Verbindungen zu verzichten. Im Gegensatz zu „konventionellen“ Baumaterialien wie Stahl, Zement und Beton verursacht die Holzproduktion nicht nur sehr wenige  CO2-Emissionen, sondern bindet sogar Kohlenstoff. Zudem wird auf eine sortenreine Trennfähigkeit der Baustoffen geachtet, um ein späteres Recycling zu ermöglichen.
 
-<br>Durch sparsame Technik und gute Dämmung wird eine hohe Energieeffizienz erreicht. Der Neubau wird für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>. Die in der Größe maximierte Photovoltaikanlage liefert bilanziell mehr Strom als im Gebäude verbraucht wird.
-Aufgrund des kreativen Wohnkonzepts mit dem Anspruch Genügsamkeit in den Mittelpunkt zu stellen <a href="https://www.ifeu.de/gutes-leben-fuer-alle-aber-wie/">(Suffizienz)</a> dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Praxismodell für die <a href="https://www.ifeu.de/projekt/suprastadt/">Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität</a>.</br>
+<br>Durch sparsame Technik und gute Dämmung wird eine hohe Energieeffizienz erreicht. Der Neubau wird für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>. Die in der Größe maximierte Photovoltaikanlage liefert bilanziell mehr Strom, als im Gebäude verbraucht wird, der überschüssige Strom wird in das Netz eingespeist.
+Aufgrund des kreativen Wohnkonzepts mit dem Anspruch, Genügsamkeit in den Mittelpunkt zu stellen <a href="https://www.ifeu.de/gutes-leben-fuer-alle-aber-wie/">(Suffizienz)</a>, dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Praxismodell für die <a href="https://www.ifeu.de/projekt/suprastadt/">Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität</a>.</br>
 
 <div class="columns">
     <div class="column">
@@ -20,14 +20,14 @@ Aufgrund des kreativen Wohnkonzepts mit dem Anspruch Genügsamkeit in den Mittel
     </div>
 </div>
 
-Zudem bieten wir Räume für die Zivilgesellschaft: die Aula und die Multifunktionsräume können z.B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen verwendet werden. Direkt am Karlsruher Platz ist ein Laden-Café geplant.
+Zudem bieten wir Räume für die Zivilgesellschaft: die Aula und die Multifunktionsräume können z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen verwendet werden. Direkt am Karlsruher Platz ist ein Laden-Café geplant.
 
 <div class="columns">
     <div class="column">
     {{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
     </div>
     <div class="column">
-    Für nachhaltige Mobilität wird der Radverkehr gestärkt. Dafür stehen ausreichend und gute Fahrradstellplätze sowie eine Werkstatt zum reparieren zur Verfügung. Für motorisierten Individualverkehr sind nur sehr  begrenzt Stellplätze vorgesehen, die zudem teilweise für Carsharing-Angebote  reserviert sind. Nicht  zuletzt trägt  eine  sehr  gut  frequentierte  Straßenbahnhaltestelle in unmittelbarer Nähe zur nachhaltigen Mobilität bei.
+    Für nachhaltige Mobilität wird der Radverkehr gestärkt. Dafür stehen ausreichend viele Fahrradstellplätze sowie eine Werkstatt zum reparieren kaputter Räder zur Verfügung. Für motorisierten Individualverkehr sind nur sehr  begrenzt Stellplätze vorgesehen, die zudem teilweise für Carsharing-Angebote reserviert sind. Nicht  zuletzt trägt  eine  sehr  gut  frequentierte  Straßenbahnhaltestelle in unmittelbarer Nähe zur nachhaltigen Mobilität bei ([Anfahrt](/anfahrt).
     </div>
 </div>
 
