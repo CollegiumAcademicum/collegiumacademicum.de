@@ -9,6 +9,7 @@ slug: "leitbild"
 * __basisdemokratisch__: Wir gestalten unsere Entscheidungsfindung partizipativ, konsensorientiert und transparent.
 * __gemeinschaftlich__: Wir gestalten unser Zusammenleben verantwortungsvoll, übernehmen Gemeinschaftsaufgaben und ermutigen Einzelne, sich einzubringen.
 * __egalitär und inklusiv__: Wir lehnen Rassismus, Sexismus und Klassismus sowie jegliche Form der Diskriminierung ab. Wir fördern Diversität und individuelle Teilhabe nach den eigenen Möglichkeiten. Wir organisieren uns gleichberechtigt in flachen Hierarchien.
+* __gewaltfrei__: Wir distanzieren uns von Aktionen und Personen, die aktiv zu physischer Gewalt gegenüber Menschen aufrufen oder diese ausführen. Wir lehnen physische Gewalt als Mittel des politischen Ausdrucks ab.
 * __selbstbestimmt__: Wir orientieren uns an unseren gemeinsamen Werten. Das CA ist nicht gewinnorientiert und bleibt unabhängig von Interessen Dritter.
 * __offen__: Das CA lädt Interessierte ein, das Projekt mitzugestalten. Als sozialer und kultureller Treffpunkt bereichert das CA das Quartier und wirkt in die Stadt Heidelberg hinein.
 * __nachhaltig__: Wir pflegen einen verantwortungsvollen Umgang mit der Natur und unserer Umwelt. Daher ist Nachhaltigkeit auf allen Ebenen des CA verankert: architektonisch, im Wohnheimbetrieb, als wesentlicher Bestandteil des Bildungskonzepts und im alltäglichen Miteinander.
