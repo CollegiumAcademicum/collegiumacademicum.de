@@ -89,7 +89,7 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 ### Bankfinanzierung
 
-Es ist geplant, ca. 12 Millionen Euro über eine Bankfinanzierung abzudecken. Für
+Ca. 13 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
 Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
@@ -148,9 +148,9 @@ Spenden | 0,16 Millionen Euro
 
 Bankfinanzierung | |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 12,00 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,00 Millionen Euro
 
 Sonstiges | |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
-Gesamtinvestitionssumme | ~ 18,00 Millionen Euro
+Gesamtinvestitionssumme | ~ 19,00 Millionen Euro
