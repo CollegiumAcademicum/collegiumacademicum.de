@@ -8,7 +8,7 @@ novoigl: yes
 
 We have answers to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us under einziehen@collegiumacademicum.de.
 
-The construction of the new wooden building has already begun and we are finally ready: **November 2021** the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
+The construction of the new wooden building has already begun and we are finally ready: **January 2022** the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">

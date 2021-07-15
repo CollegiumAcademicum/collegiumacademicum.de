@@ -87,6 +87,11 @@
     url = "/partnerinnen"
     weight = 4
     parent = "Über uns"
+[[main]]
+    name = "Anfahrt"
+    url = "/anfahrt"
+    weight = 5
+    parent = "Über uns"
 
 [[main]]
     name = "Presse & Links"

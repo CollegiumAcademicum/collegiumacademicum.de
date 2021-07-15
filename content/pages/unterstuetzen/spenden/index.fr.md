@@ -43,7 +43,7 @@ soit ajouter votre adresse comme motif de paiement.
   Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE92 4306 0967 6036 6733 00<br>
   GLS Gemeinschaftsbank eG<br>
-  <b>Verwendungszweck:</b> Donation CA, Votre Nom
+  <b>Verwendungszweck:</b> Donation CA, Votre Nom, e-mail
 </div>
 
 

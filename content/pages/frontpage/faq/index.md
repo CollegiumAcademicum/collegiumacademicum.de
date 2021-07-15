@@ -62,7 +62,7 @@ Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszub
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im November 2021 möglich sein. 
+Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im Januar 2022 möglich sein. 
 {{< /accordion >}}
 {{< accordion "Kann ich mir meine Mitbewohner\*innen aussuchen?" >}}
 Ja. Sobald Du Deine Zusage für einen Platz im Wohnheim hast, kannst du andere neue Bewohner\*innen kennenlernen. Ihr könnt euch dann selbst in 4er WGs und einigen wenigen 3er WGs zusammenfinden. Wir unterstützen euch natürlich in dem Prozess.

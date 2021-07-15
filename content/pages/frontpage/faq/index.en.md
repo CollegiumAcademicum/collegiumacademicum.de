@@ -59,7 +59,7 @@ Given that the formal requirements are met (status as a student, docotral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan moving-in day will be in November 2021.
+As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan moving-in day will be in January 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
 Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.
