@@ -6,7 +6,7 @@ slug: "accessibility"
 
 In the area of a previous US army hospital in Heidelberg-Rohrbach, we are constructing a four-floored wooden dormitory. The project will accommodate 176 students, apprentices, and doctorands. The rooms are organized in flats of three or four rooms with a shared kitchen and bathroom. In the architecture, accessibility was an explicit concern, and we tried to have the house as barrier-free as possible.
 
-At the moment we are open for applications for tenants of the first move-in in November 2021. We explicitly encourage students and apprentices with special needs for barrier-free living to apply.
+At the moment we are open for applications for tenants of the first move-in in January 2022. We explicitly encourage students and apprentices with special needs for barrier-free living to apply.
 
 You can find more information about the application at https://collegiumacademicum/en/moving-in/
 

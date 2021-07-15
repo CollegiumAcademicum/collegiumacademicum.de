@@ -59,7 +59,7 @@ oder fügen Sie dem Verwendungszweck zusätzlich ihre Adresse bei.
   Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE92 4306 0967 6036 6733 00<br>
   GLS Gemeinschaftsbank eG<br>
-  <b>Verwendungszweck:</b> Spende CA, Ihr Name
+  <b>Verwendungszweck:</b> Spende CA, Ihr Name, Ihre Email / Ihre Anschrift
 </div>
 
 ### Sachspenden

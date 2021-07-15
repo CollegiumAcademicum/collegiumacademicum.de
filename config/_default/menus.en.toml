@@ -67,3 +67,8 @@
     url = "/partners"
     weight = 3
     parent = "About us"
+[[main]]
+    name = "How to get to us"
+    url = "/map"
+    weight = 4
+    parent = "About us"
