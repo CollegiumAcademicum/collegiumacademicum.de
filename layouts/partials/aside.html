@@ -16,6 +16,24 @@
       </div>
 
       <div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/baustelle.jpg" | relURL }});"></div>
+        <div class="card-content">
+            <p class="title is-3 is-marginless">{{ i18n "exkursionen" }}</p>
+            <p>
+                {{ i18n "exkursionen-message" }}
+              <a href="https://www.facebook.com/events/2313762825421229"><strong>(Facebook-Live)</strong></a>
+            </p><br>
+            <table>
+              <tr><td>25.07.2021</td> <td>14:00-15:00</td></tr>
+              <tr><td>29.08.2021</td> <td>14:00-15:00</td></tr>
+              <tr><td>26.09.2021</td> <td>14:00-15:00</td></tr>
+	          </table>
+	          <br>
+            Anmelden über <a href="mailto:exkursion@collegiumacademicum.de">exkursion@collegiumacademicum.de</a>
+        </div>
+      </div>
+
+      <div class="card">
         <a href="{{ with .Site.GetPage "/anfahrt" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></a>
         <div class="card-content">
           {{ i18n "anfahrt-message" }}
