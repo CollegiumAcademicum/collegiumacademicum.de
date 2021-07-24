@@ -21,7 +21,8 @@
 {{ $desc := .Get "desc" | markdownify }}
 {{ $attr := .Get "attr" }}
 
-{{ if (isset .Parent "Name") }}
+
+{{ with .Parent }}
 <figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
         src="" data-src="{{ $image_medium.RelPermalink }}"
@@ -73,4 +74,5 @@
         <button class="modal-close" aria-label="close"></button>
 </div>
 {{ end }}
+
 <!-- image -->
