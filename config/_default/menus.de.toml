@@ -58,9 +58,14 @@
     weight = 3
     parent = "Unterstützen"
 [[main]]
+    name = "CA-Summerschool"
+    url = "/summerschool"
+    weight = 4
+    parent = "Unterstützen"
+[[main]]
     name = "Förderverein"
     url = "/foerderverein"
-    weight = 4
+    weight = 5
     parent = "Unterstützen"
 
 [[main]]
