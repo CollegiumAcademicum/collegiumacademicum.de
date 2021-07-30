@@ -105,3 +105,12 @@ other = "Bewerbung"
 
 [bewerben]
 other = "Bewerben"
+
+[summerschool]
+other = "CA-Summerschool"
+
+[summerschool-message]
+other = "Das CA veranstaltet im Sommer mehrere Summerschools mit aktiven Bildungsprogrammen. In diesen Workcamps wollen wir bauliche Aktivitäten mit Bildung verbinden!"
+
+[informieren]
+other = "Informieren"
