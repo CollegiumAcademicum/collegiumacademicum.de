@@ -3,8 +3,12 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
-heading = "März 2020"
-content = "Richtfest des Neubaus."
+heading = "März 2021"
+content = "Richtfest des Neubaus"
+
+[[timeline]]
+heading = "2021"
+center = true
 
 [[timeline]]
 heading = "September 2020"
@@ -16,7 +20,7 @@ content = "<img src='betonnage.jpg' />Betonage der Bodenplatte"
 
 [[timeline]]
 heading = "August 2020"
-content = "<img src='workcamp.jpg' />Zweiwöchiger Deutsch-Französischer Workcamp"
+content = "<img src='workcamp.jpg' />Zweiwöchiges Deutsch-Französisches Workcamp"
 
 [[timeline]]
 heading = "Juli 2020"
@@ -40,7 +44,7 @@ center = true
 
 [[timeline]]
 heading = "November 2019"
-content = "2.000.000€ in Direktkrediten eingeworben"
+content = "2.000.000€ an Direktkrediten für den Neubau eingeworben"
 
 [[timeline]]
 heading = "Juli 2019"
@@ -52,7 +56,7 @@ content = "Kauf des Grundstücks und Abschluss des Kreditvertrags mit der Bank"
 
 [[timeline]]
 heading = "April 2019"
-content = "<img src='teststand.jpg' />Stand zum testen des Einbaus und des Schallschutzes der flexiblen Wände."
+content = "<img src='teststand.jpg' />Stand zum Testen des Einbaus und des Schallschutzes der flexiblen Wände."
 
 [[timeline]]
 heading = "April 2019"
@@ -60,7 +64,7 @@ content = "<img src='teambuilding_02.jpg' />Die Projektgruppe trifft sich zu ein
 
 [[timeline]]
 heading = "Februar 2019"
-content = "1.500.000€ in Direktkrediten und Spenden eingeworben"
+content = "1.500.000€ an Direktkrediten und Spenden eingeworben"
 
 [[timeline]]
 heading = "2019"
@@ -68,7 +72,7 @@ center = true
 
 [[timeline]]
 heading = "Oktober 2018"
-content = "1.000.000€ in Direktkrediten und Spenden eingeworben"
+content = "1.000.000€ an Direktkrediten und Spenden eingeworben"
 
 [[timeline]]
 heading = "September 2018"
@@ -80,7 +84,7 @@ content = "<img src='mv_mannheim.jpg' />Das Collegium Academicum wird in das <a 
 
 [[timeline]]
 heading = "Mai 2018"
-content = "<img src='demonstrator.jpg' />Wir stellen unser 1-zu-1 Modell eines späteren Wohnheimzimmers fertig."
+content = "<img src='demonstrator.jpg' />Wir stellen unser [1-zu-1 Modell eines späteren Wohnheimzimmers]({{< relref "/content/pages/hausprojekt/zimmermodell/"  >}} ) fertig und an verschiedenen Orten in Heidelberg aus."
 
 [[timeline]]
 heading = "April 2018"
@@ -212,7 +216,7 @@ content = "Gründung des Vereins <i>Wohnheim Collegium Academicum e.V.</i>"
 
 [[timeline]]
 heading = "Mai 2014"
-content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Entscheidung, sich auf dieses Konversionsfläche <i>Patton Barracks</i> zu fokussieren"
+content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Entscheidung, sich auf dies Konversionsfläche <i>Patton Barracks</i> in Heidelberg-Kirchheim zu fokussieren"
 
 [[timeline]]
 heading = "April 2014"
