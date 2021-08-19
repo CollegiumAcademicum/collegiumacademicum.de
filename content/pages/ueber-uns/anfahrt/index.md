@@ -19,7 +19,7 @@ direkt gegenüber der Tram-Haltestelle Ortenauer Straße.
 	Nerven bei der Parkplatzsuche, sondern auch die Umwelt. </p>
 	<p>Die Straßenbahn Linie 24 fährt direkt vom Heidelberger HBF bis zur Haltestelle
 	Ortenauer Straße, die ca. 50 Meter entfernt vom Gelände US Hospital entfernt
-	liegt. Vom Bismarckplatz erreichen Sie uns mit der Straßenbahn Linie 23 oder und der Buslinie 29</p>
+	liegt. Vom Bismarckplatz erreichen Sie uns mit der Straßenbahn Linie 23 oder und der Buslinie 29.</p>
 	<p>Wenn	Sie mit dem Auto anreisen, nehmen Sie von der A5 die Ausfahrt 38 Heidelberg/Schwetzingen.
 	Von dort aus folgen Sie der B535 bis zur Ausfahrt Leimen/HD-Boxberg/HD-Emmertsgrund
 	und bleiben auf der B3, die direkt am Gelände vorbei führt. </p>
