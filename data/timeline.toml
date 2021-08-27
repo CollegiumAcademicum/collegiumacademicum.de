@@ -84,7 +84,7 @@ content = "<img src='mv_mannheim.jpg' />Das Collegium Academicum wird in das <a 
 
 [[timeline]]
 heading = "Mai 2018"
-content = "<img src='demonstrator.jpg' />Wir stellen unser [1-zu-1 Modell eines späteren Wohnheimzimmers]({{< relref "/content/pages/hausprojekt/zimmermodell/"  >}} ) fertig und an verschiedenen Orten in Heidelberg aus."
+content = "<img src='demonstrator.jpg' />Wir stellen unser <a href='https://collegiumacademicum.de/zimmermodell/'>1-zu-1 Modell eines späteren Wohnheimzimmers</a> fertig und an verschiedenen Orten in Heidelberg aus."
 
 [[timeline]]
 heading = "April 2018"
