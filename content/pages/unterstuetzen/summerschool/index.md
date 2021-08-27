@@ -81,6 +81,6 @@ Außerdem möchten wir uns während der Arbeiten alle an die allgemeinen Infekti
 
 
 
-Du hast in den beiden Wochen keine Zeit? In der Woche vom **09. bis 15. August** wird es ein weiteres Workcamp geben. Bei Interesse melde dich über das Formular an und schreibe per E-Mail workcamps@collegiumacademicum.de 
+Du hast in den beiden Wochen keine Zeit? Bei Interesse melde dich über das Formular an und schreibe per E-Mail workcamps@collegiumacademicum.de 
 
 Bei Fragen oder Anregungen könnt ihr euch auch immer per Mail bei uns melden: workcamps@collegiumacademicum.de
