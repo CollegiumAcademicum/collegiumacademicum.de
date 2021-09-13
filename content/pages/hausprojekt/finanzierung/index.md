@@ -3,13 +3,13 @@ title: "Unsere Finanzierung"
 slug: "finanzierung"
 ---
 
-Da sich das Wohnheim nur gemeinschaftlich finanzieren lässt, versteht
+Da sich unser Projekt nur gemeinschaftlich finanzieren lässt, versteht
 es sich für uns von selbst, dass wir unseren Unterstützer\*innen
-Einblick in die Finanzen ermöglichen und unseren Finanzierungsplan so
-transparent wie möglich gestalten. Im Folgenden erhalten Sie einen
-Überblick zu Kosten und Finanzierung (gemäß der aktuellen Planung) zur
-Realisierung des Wohnheims sowie zum aktuellen Stand der eingeworbenen
-Direktkredite.
+Einblick in die Finanzen von Alt- und Neubau ermöglichen und unsere Finanzierungspläne so
+transparent wie möglich gestalten. Im Folgenden erhalten Sie gemäß der aktuellen Planungen einen
+Überblick zu Kosten und zur Finanzierung der
+Realisierung beider Gebäude sowie zum aktuellen Stand der jeweils 
+eingeworbenen Direktkredite.
 
 Wir stehen gerne persönlich für Rückfragen zur Finanzierung zur
 Verfügung. Kontaktieren Sie uns unter
@@ -20,13 +20,14 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 19 Millionen Euro. Die genaue Kalkulation
-konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
+für den Neubau liegen bei etwa 19 Millionen Euro, die für den Altbau bei ca. XXX Millionen Euro. 
+Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Auch Kosten wie Bauzeitzinsen und Gelder für
-Forschung sind in der Kalkulation enthalten. Für den Großteil der Bauleistungen sind bereits
-Beauftragungen erteilt worden, sodass wir über eine große Kostensicherheit
+Forschung sind in der Kalkulation enthalten.
+Im Neubau haben wir für den Großteil der Bauleistungen bereits
+Beauftragungen erteilt, sodass wir über eine große Kostensicherheit
 verfügen. Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
 [hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
 
@@ -58,15 +59,16 @@ Passivhausbauweise des Wohnheims (190.000 Euro).
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
-umgesetzt, mit dem deutschlandweit bereits über 150 Projekte
+umgesetzt, mit dem deutschlandweit bereits über 150 Projekte XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater\*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
-von Privatpersonen vergeben, die das Projekt unterstützen und ihm
-nahestehen. Die aktuelle Planung sieht vor, für den Neubau etwa 2,3 Millionen Euro
-an nachrangigen Darlehen und Spenden einzuwerben. Unser erstes Ziel haben wir schon erreicht,
-für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
+von Privatpersonen vergeben, die das Projekt unterstützen möchten.
+
+Für den Neubau haben wir etwa 2,3 Millionen Euro
+an nachrangigen Darlehen und Spenden eingeworben, womit wir unser erstes Ziel schon erreicht haben.
+Für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
 Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
@@ -89,14 +91,21 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 ### Bankfinanzierung
 
+#### Neubau
+
 Ca. 13 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
 Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
 von 15% des Kreditbetrags.
 
-### Sonstiges
+#### Altbauten
 
+Wie beim Neubau wird auch in den Altbauten ein Großteil der Kosten über einen Bankkredit sowie einen Kredit der KfW umgesetzt.
+Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den KfW-Standard 70 zu erreichen. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+### Sonstiges
 
 
 #### Sponsoring
@@ -108,31 +117,37 @@ Nutzungskonzept und Modulbauweise) ist unser Vorhaben in der
 #### Eigenleistung
 
 Wir sind motiviert, Eigenleistungen zu erbringen, also Teile des Gebäudes selbst
-zu bauen. Die Voraussetzungen, dass dafür auch die zukünftigen Bewohner\*innen
-begeistert werden können, sind gut, da das Projekt insgesamt auf Eigeninitiative
-und Mitarbeit ausgelegt ist und Eigenleistung explizit vorsieht. Außerdem
-sind Workcamps und eine Zusammenarbeit mit Wandergesell\*innen
-geplant. Trotzdem ist Eigenleistung bisher entsprechend eines
-konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet. Sie
-beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
-vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten, Aufbau von Möbeln
-sowie Mitarbeit bei der Erstellung von Trennwänden. Es besteht
-folglich noch weiteres Potenzial, die Baukosten durch Eigenleistung zu
-reduzieren.
+zu bauen und Arbeiten vorzunehmen. Die Voraussetzungen, dass dafür auch die zukünftigen Bewohner\*innen
+begeistert werden können, sind gut: Das Projekt insgesamt ist auf Eigeninitiative
+und Mitarbeit ausgelegt ist und sieht Eigenleistung explizit vor, wie wir es bspw.
+während den Workcamps im Sommer 2020 und 2021 verwirklicht haben. 
+Viele Möglichkeiten zur Eigenleistung 
+wurden von Anfang an eingeplant, einige ergeben sich aber auch erst im Laufe des Baufortschritts.
+Trotz ihres Potenzials ist Eigenleistung bisher entsprechend eines
+konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet.
+Im Neubau beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
+vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten sowie die Herstellung von Möbeln
+und den Bau von Schiebe- und Trennwänden. Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen.
+Auch in Zukunft bestehen weitere Chancen, die Baukosten durch Eigenleistung zu reduzieren.
 
 ## Refinanzierung der Kredite
 
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
-Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
+Betriebs- und Instandhaltungskosten getilgt, wobei letztere teilweise zunächst durch neu eingeworbene
+Direktkredite abgelöst werden. Die Warmmiete für die
 Bewohner\*innen beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
 auch die großen Gemeinschaftsflächen mitfinanziert. Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
-sein werden, können wir langfristig kostengünstige Mieten garantieren.
+sein werden, können wir langfristig kostengünstige Mieten garantieren. Auch werden wir mit Einzug
+der ersten Bewohner beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
+mit dem neue Hausprojekten bei ihrem Start unterstützt werden.
 
 {{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
 
 ## Die Zahlen auf einen Blick
+
+### Neubau
 
 Fördermittel | |
 --- | ---:
