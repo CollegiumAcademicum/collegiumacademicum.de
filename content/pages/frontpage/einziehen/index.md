@@ -7,14 +7,14 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft!
+Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen!
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
         {{< img src="projektgruppe" desc="Das ist das Pförtnerhaus an der Einfahrt auf das Gelände US Hospital. Wir planen, dieses Gebäude in ein selbstverwaltetes Café umzugestalten." attr="Johannes Roßnagel 2017" />}}
         {{< img src="werkstatt" alt="Die Holzwerkstatt im Altbau ist einsatzbereit. Die Projektgruppe und künftige Mitbewohner*innen werden am Bau des Wohnheims beteiligt sein, durch die selbständige Konstruktion von Holzmöbeln und Bauteilen. Du bist handwerklich begabt oder willst so etwas lernen? Perfekt!" attr="Uli Hillenbrand 2020" />}}
-        {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir bauen das Wohnheim gemeinsam und auf dem Weg lernen wir voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
+        {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir bauen das Wohnheim gemeinsam, auf dem Weg lernen wir voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}
     </div>
     <div class="column">
@@ -22,11 +22,11 @@ Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner
     </div>
 </div>
 
-Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab.
+Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-        Die Zimmer sind gut 14qm groß und befinden sich in 3er oder 4er Wohngeimeinschaften. Die Zimmer können auf 7qm halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt und der Dachgarten.
+        Die Zimmer sind gut 14qm groß und befinden sich in 3er oder 4er Wohngemeinschaften. Die Zimmer können auf 7qm halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
@@ -41,7 +41,7 @@ Die <a href="/barrierefreiheit">Wohnungen sind auf Barrierefreiheit</a> ausgeleg
 Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann bewirb dich gerne auf einen Platz bei uns und / oder trage dich am Ende der Seite im entsprechenden [Newsletter](#einziehen_form) ein.
 Eine weitere Bedingung ist, dass du studierst, eine Ausbildung machst oder promovierst.
 
-Da wir sehr viele Plätze zu vergeben haben und dementsprechend mit vielen Bewerbungen rechnen, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess sind, sag uns gerne Bescheid!
+Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess sind, sag uns gerne Bescheid, z. B. per Mail an einziehen@collegiumacademicum.de!
 
 So funktioniert die Bewerbung um einen Platz im neuen CA:
 

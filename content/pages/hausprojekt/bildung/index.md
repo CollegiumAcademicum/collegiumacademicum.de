@@ -15,7 +15,7 @@ Eine Besonderheit stellt das Orientierungsjahr dar, welches im Oktober 2023 star
 
 <div class="columns">
     <div class="column is-flex-middle">
-        Ein hierfür eigens gegründeter wissenschaftlicher Beirat, bestehend aus ehemaligen und aktiven Professor\*innen und Wissenschaftler*innen soll das Bildungskonzept beraten und aktiv unterstützen.
+        Ein hierfür eigens gegründeter wissenschaftlicher Beirat, bestehend aus ehemaligen und aktiven Professor*innen und Wissenschaftler*innen soll das Bildungskonzept beraten und aktiv unterstützen.
     </div>
     <div class="column">
         {{< img src="bib_schloss" alt="Ein Blick aus der Universitätsbibliothek auf das Heidelberger Schloss." attr="Margarete Over 2016" />}}
@@ -23,7 +23,7 @@ Eine Besonderheit stellt das Orientierungsjahr dar, welches im Oktober 2023 star
 </div>
 
 
-<div class="color-block">Bildung wird nicht nur als Ausbildung, sondern als Bildung von <em>freien, mündigen Bürger\*innen</em> verstanden:</div>
+<div class="color-block">Bildung wird nicht nur als Ausbildung, sondern als Bildung von <em>freien, mündigen Bürger*innen</em> verstanden:</div>
 
 
 Über wissenschaftliche Inhalte hinaus werden daher praktische Fähigkeiten und persönliche Entwicklung gefördert. _Projektorientiertes Lernen_ – das bietet das CA vor allem als großes, selbstverwaltetes Projekt, in das sich jede\*r einbringt und Verantwortung übernimmt. In Werkstätten und Gemeinschaftsräumen können kulturelle und konkret-praktische Initiativen aller Art entstehen. Es soll also auch und gerade um nicht-berufliche Lebensfragen gehen und Möglichkeiten aufgezeigt werden, alternative Lebensentwürfe umzusetzen.

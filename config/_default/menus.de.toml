@@ -78,7 +78,7 @@
     weight = 1
     parent = "Über uns"
 [[main]]
-    name = "Geschichte des CA"
+    name = "Geschichte des alten CA"
     url = "/geschichte"
     weight = 2
     parent = "Über uns"
