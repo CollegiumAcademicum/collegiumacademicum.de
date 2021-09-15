@@ -1,5 +1,5 @@
 ---
-title: "Geschichte des CA"
+title: "Geschichte des alten CA"
 slug: "geschichte"
 ---
 

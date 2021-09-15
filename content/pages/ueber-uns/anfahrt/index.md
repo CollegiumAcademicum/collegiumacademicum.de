@@ -5,8 +5,7 @@ title: "Anfahrt"
 {{< map long=8.6862 lat=49.3759 zoom=6.5 >}}
 
 Die Baustelle des Collegium Academicums befindet sich auf dem [Gelände US-Hospital in Rohrbach im Süden von Heidelberg](https://tools.wmflabs.org/geohack/geohack.php?pagename=Collegium+Academicum&params=49_22_34_N_8_41_10_E).
-Der Eingang befindet sich an der Karlsruher Str., in der Nähe der der Ecke Ortenauer Str.,
-direkt gegenüber der Tram-Haltestelle Ortenauer Straße.
+Der Eingang befindet sich an der Karlsruher Str., in der Nähe der der Ecke Ortenauer Str., direkt gegenüber der Tram-Haltestelle Ortenauer Straße.
 
 <div class="columns">
 	<div id="anfahrt" class="column">
@@ -23,8 +22,9 @@ direkt gegenüber der Tram-Haltestelle Ortenauer Straße.
 	<p>Wenn	Sie mit dem Auto anreisen, nehmen Sie von der A5 die Ausfahrt 38 Heidelberg/Schwetzingen.
 	Von dort aus folgen Sie der B535 bis zur Ausfahrt Leimen/HD-Boxberg/HD-Emmertsgrund
 	und bleiben auf der B3, die direkt am Gelände vorbei führt. </p>
+	<p>Am Bahnhof Heidelberg Kirchheim/Rohrbach gibt es einige Park &
+	Ride Parkplätze, dort aus sind es allerdings 20 Minuten Fußweg bis zu unserem
+	Gelände.</p>
 	</div>
 </div>
-Am Bahnhof Heidelberg Kirchheim/Rohrbach gibt es einige Park &
-Ride Parkplätze, dort aus sind es allerdings 20 Minuten Fußweg bis zu unserem
-Gelände.
+

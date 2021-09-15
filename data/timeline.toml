@@ -3,6 +3,14 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "Spätsommer 2021"
+content = "Drei Workcamps mit Projektgruppenmitgliedern, zukünftigen Bewohner*innen und Externen"
+
+[[timeline]]
+heading = "Juni 2021"
+content = "Grundsteinlegung im Neubau, bei der eine Zeitkapsel vergraben wurde"
+
+[[timeline]]
 heading = "März 2021"
 content = "<img src='richtfest.jpg' /><a href='https://www.facebook.com/events/721508651878156/'>Richtfest des Neubaus</a>"
 
@@ -216,7 +224,7 @@ content = "Gründung des Vereins <i>Wohnheim Collegium Academicum e.V.</i>"
 
 [[timeline]]
 heading = "Mai 2014"
-content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Entscheidung, sich auf dies Konversionsfläche <i>Patton Barracks</i> in Heidelberg-Kirchheim zu fokussieren"
+content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Entscheidung, sich auf die Konversionsfläche <i>Patton Barracks</i> in Heidelberg-Kirchheim zu fokussieren"
 
 [[timeline]]
 heading = "April 2014"
