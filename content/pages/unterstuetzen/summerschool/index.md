@@ -7,10 +7,10 @@ slug: "summerschool"
 
 Schon Pläne für den Sommer? Unser selbstverwaltetes Wohnheimsprojekt braucht deine Hilfe und lädt ein zu Bauen & Bildung:
 
-Wie auch in der Vergangenheit wollen wir diesen Sommer mehrtägige Workcamps veranstalten, um größere Arbeitsschritte im CA zu erledigen und gleichzeitig eine tolle Zeit miteinander zu verbringen. Beide Summerschools dauern je eine Woche und finden vom 30.08.-05.09. bzw. vom 06.09.-12.09. statt. 
+Wie zum ersten Mal im Sommer 2020 geschehen, haben wir auch im August und September 2021 mehrtägige Workcamps veranstaltet, um größere Arbeitsschritte im CA zu erledigen und gleichzeitig eine tolle Zeit miteinander zu verbringen. Beide Summerschools haben je eine Woche gedauert und fanden vom 30.08.-05.09. bzw. vom 06.09.-12.09. statt. 
 Unsere Workcamps werden von der Sto-Stiftung begleitet und unterstützt.
 
-Wir wollen bauliche Aktivitäten mit Bildung verbinden! Die Arbeiten in unserem Alt- und Neubau werden in selbstorganisierten Kleingruppen durchgeführt. Gerahmt werden die Tage auf dem Gelände von einem vielfältigen Bildungsangebot mit Seminaren, Workshops und Exkursionen zu den Themen:
+Gerahmt werden die Tage auf dem Gelände von einem vielfältigen Bildungsangebot mit Seminaren, Workshops und Exkursionen zu den Themen:
 
 - Natur und Ökologie der Stadt
 - Nachhaltiges und soziales Bauen und Wohnen
@@ -79,7 +79,7 @@ Außerdem möchten wir uns während der Arbeiten alle an die allgemeinen Infekti
 
 {{< pdf src="summerschool/Poster_Workcamps_2021_dt_en.pdf" >}}
 
-
+Bei all unseren Workcamps gilt: Wir wollen bauliche Aktivitäten mit Bildung verbinden! Die Arbeiten in unserem Alt- und Neubau werden in selbstorganisierten Kleingruppen durchgeführt. 
 
 Du hast in den beiden Wochen keine Zeit? Bei Interesse melde dich über das Formular an und schreibe per E-Mail workcamps@collegiumacademicum.de 
 
