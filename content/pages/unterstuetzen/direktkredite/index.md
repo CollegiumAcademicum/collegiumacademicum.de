@@ -29,7 +29,7 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen **2.460.000 EUR** Direktkredite
+Es ist uns gelungen, **2.460.000 EUR** Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
@@ -44,7 +44,7 @@ Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie i
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
 Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
-Mit einem Direktkredit bei uns haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.
+So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.
 {{< /accordion >}}
 
 {{< accordion "Welche Konditionen gibt es?" >}}
