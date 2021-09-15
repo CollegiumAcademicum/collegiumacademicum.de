@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "September 2021"
+content = "3.000.000€ an Direktkrediten eingeworben, davon 500.000€ für die <a href='https://collegiumacademicum.de/altbauten/'>Altbauten</a>"
+
+[[timeline]]
 heading = "Spätsommer 2021"
 content = "Drei Workcamps mit Projektgruppenmitgliedern, zukünftigen Bewohner*innen und Externen"
 

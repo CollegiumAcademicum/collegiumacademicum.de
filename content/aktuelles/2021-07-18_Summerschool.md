@@ -74,7 +74,7 @@ wir gerne unter 06221-652236 oder per E-Mail
 
 #### Das Orientierungsjahr nimmt Gestalt an
 
-Seit Anfang Juli haben wir die Möglichkeit endlich fokussiert an dem weiteren
+Seit Anfang Juli haben wir die Möglichkeit endlich fokussiert, an dem weiteren
 Konzept unseres Orientierungsjahres zu arbeiten, welches das Herzstück unserer
 Bildungskonzepts ist. Dieses umfasst sowohl unseren Holzneubau als Lernort für
 bereits Studierende und Auszubildende als auch den Altbau als Wohn- und
