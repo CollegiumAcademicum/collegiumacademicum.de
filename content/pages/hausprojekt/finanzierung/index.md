@@ -20,7 +20,7 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 19 Millionen Euro, die für den Altbau bei ca. XXX Millionen Euro. 
+für den Neubau liegen bei etwa 19 Millionen Euro, die für den Altbau bei etwas weniger als der Hälfte. 
 Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
@@ -59,14 +59,14 @@ Passivhausbauweise des Wohnheims (190.000 Euro).
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
-umgesetzt, mit dem deutschlandweit bereits über 150 Projekte XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+umgesetzt, mit dem deutschlandweit bereits über 150 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater\*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 
-Für den Neubau haben wir etwa 2,3 Millionen Euro
+Für den Neubau haben wir etwa 2,4 Millionen Euro
 an nachrangigen Darlehen und Spenden eingeworben, womit wir unser erstes Ziel schon erreicht haben.
 Für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
 Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
@@ -102,7 +102,7 @@ von 15% des Kreditbetrags.
 #### Altbauten
 
 Wie beim Neubau wird auch in den Altbauten ein Großteil der Kosten über einen Bankkredit sowie einen Kredit der KfW umgesetzt.
-Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den KfW-Standard 70 zu erreichen. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den angestrebten KfW-Standard zu erreichen.
 
 
 ### Sonstiges
