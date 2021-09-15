@@ -17,12 +17,12 @@ Der Eingang befindet sich an der Karlsruher Str., in der Nähe der der Ecke Orte
 	können Sie auch Fahrrad fahren oder zu Fuß gehen. Das schont nicht nur die
 	Nerven bei der Parkplatzsuche, sondern auch die Umwelt. </p>
 	<p>Die Straßenbahn Linie 24 fährt direkt vom Heidelberger HBF bis zur Haltestelle
-	Ortenauer Straße, die ca. 50 Meter entfernt vom Gelände US Hospital entfernt
+	<i>Ortenauer Straße</i>, die ca. 50 Meter entfernt vom Gelände US Hospital entfernt
 	liegt. Vom Bismarckplatz erreichen Sie uns mit der Straßenbahn Linie 23 oder und der Buslinie 29.</p>
-	<p>Wenn	Sie mit dem Auto anreisen, nehmen Sie von der A5 die Ausfahrt 38 Heidelberg/Schwetzingen.
-	Von dort aus folgen Sie der B535 bis zur Ausfahrt Leimen/HD-Boxberg/HD-Emmertsgrund
+	<p>Wenn	Sie mit dem Auto anreisen, nehmen Sie von der A5 die Ausfahrt 38 <i>Heidelberg/Schwetzingen</i>.
+	Von dort aus folgen Sie der B535 bis zur Ausfahrt <i>Leimen/HD-Boxberg/HD-Emmertsgrund</i>
 	und bleiben auf der B3, die direkt am Gelände vorbei führt. </p>
-	<p>Am Bahnhof Heidelberg Kirchheim/Rohrbach gibt es einige Park &
+	<p>Am Bahnhof <i>Heidelberg-Kirchheim/Rohrbach</i> gibt es einige Park &
 	Ride Parkplätze, dort aus sind es allerdings 20 Minuten Fußweg bis zu unserem
 	Gelände.</p>
 	</div>
