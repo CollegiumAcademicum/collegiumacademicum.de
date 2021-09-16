@@ -7,7 +7,7 @@ title: "Hausprojekt"
     <div>
         <div><h2><a href="/neubau" >Neubau</a></h2></div>
         <p>
-            Innovativer Holzbau: Bezahlbarer Wohnraum für über 200 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/neubau" >Mehr...</a>
+            Innovativer Holzbau: Bezahlbarer Wohnraum für 176 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/neubau" >Mehr...</a>
         </p>
     </div>
 </div>
@@ -17,7 +17,7 @@ title: "Hausprojekt"
     <div>
         <div><h2><a href="/altbauten" >Altbau</a></h2></div>
         <p>
-            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr behausen.<a class="mehr" href="/altbauten" >Mehr...</a>
+            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr sowie ein Wohnheim für 75 junge Leute behausen. <a class="mehr" href="/altbauten" >Mehr...</a>
         </p>
     </div>
 </div>
@@ -37,7 +37,7 @@ title: "Hausprojekt"
     <div>
         <div><h2><a href="/nachhaltigkeit" >Nachhaltigkeit</a></h2></div>
         <p>
-            Nachhaltig gedacht – von Anfang an! Ein bewusster Umgang mit Ressourcen steht nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion im Vordergrund. Im Zusammenleben ist Suffizienz (Genügsamkeit) das Schlüsselwort zu unserem Nachhaltigkeitskonzept: sich auf die wesentlichen Dinge und Gegenstände konzentrieren sowie einen verantwortungsvollen Umgang mit der Umwelt finden. <a class="mehr" href="/nachhaltigkeit" >Mehr...</a>
+            Nachhaltig gedacht – von Anfang an! Ein bewusster Umgang mit Ressourcen steht nicht nur in Hinblick auf den künftigen Betrieb, sondern bereits in der Baukonstruktion im Vordergrund. Im Zusammenleben ist Suffizienz (Genügsamkeit) das Schlüsselwort zu unserem Nachhaltigkeitskonzept: sich auf die wesentlichen Dinge und Gegenstände konzentrieren, sowie einen verantwortungsvollen Umgang mit der Umwelt finden. <a class="mehr" href="/nachhaltigkeit" >Mehr...</a>
         </p>
     </div>
 </div>
@@ -57,7 +57,7 @@ title: "Hausprojekt"
     <div>
         <div><h2><a href="/finanzierung" >Finanzierung</a></h2></div>
         <p>
-            Das Projekt wird auch in der Finanzierung gemeinschaftlich und durch viele Beiträge getragen. Wir wollen bei der Finanzierung so offen wie möglich sein geben einen Überblick über die Kosten und bisherigen Finanzierungsbausteine. <a class="mehr" href="/finanzierung" >Mehr...</a>
+            Das Projekt wird auch in der Finanzierung gemeinschaftlich und durch viele Beiträge getragen. Wir wollen bei der Finanzierung so offen wie möglich sein und geben einen Überblick über die Kosten und bisherigen Finanzierungsbausteine. <a class="mehr" href="/finanzierung" >Mehr...</a>
         </p>
     </div>
 </div>
