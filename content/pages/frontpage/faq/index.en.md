@@ -80,7 +80,7 @@ Each room is always rented furnished (desk, wardrobe, bed). For the first occupa
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
 {{< /accordion >}}
 {{< accordion "Does the house have special family flats for families with children?" >}}
-There are no specific family flats. Nevertheless it is possible to move in with children. Each room has to be rented by a student/trainee. Therefore for example, two rooms could be rented by the two parents, then live together in one of the rooms and use the other as a child room. Of course a child could also live together with a parent in the their room.
+There are no specific family flats. Nevertheless it is possible to move in with children. Each room has to be rented by a student/trainee. Therefore for example, two rooms could be rented by the two parents, then live together in one of the rooms and use the other as a child room. Of course, a child could also live together with a parent in the their room.
 {{< /accordion >}}
 {{< accordion "I am a single parent. Can I move in?" >}}
 Yes, you can. Take note though of the formal requirement that each room has to be rented by a student or trainee. See the question above.
