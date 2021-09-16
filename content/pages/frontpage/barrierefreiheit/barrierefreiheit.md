@@ -1,5 +1,5 @@
 ---
-title: "Informationen zu Barrierefreiheit"
+title: "Informationen zur Barrierefreiheit"
 novoigl: yes
 slug: "barrierefreiheit"
 ---
