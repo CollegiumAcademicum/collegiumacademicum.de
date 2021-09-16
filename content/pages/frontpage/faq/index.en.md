@@ -41,7 +41,7 @@ The complete house is equipped with high speed WiFi access. Each flat has its ow
 Yes! You can apply before getting your student or trainee status. It is necessary though, that at your moving in day, you are enrolled in your program. If in the mean time it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any costs.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Yes! We are still looking for many new residents* to move in in March 2022!
+Yes! We are still looking for many new residents for the move-in in March 2022!
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If your are invited for a get-to-know-you day, we cannot reimburse your travel costs, sadly. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
