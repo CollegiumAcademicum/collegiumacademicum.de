@@ -123,6 +123,7 @@ und Mitarbeit ausgelegt ist und sieht Eigenleistung explizit vor, wie wir es bsp
 während den Workcamps im Sommer 2020 und 2021 verwirklicht haben. 
 Viele Möglichkeiten zur Eigenleistung 
 wurden von Anfang an eingeplant, einige ergeben sich aber auch erst im Laufe des Baufortschritts.
+
 Trotz ihres Potenzials ist Eigenleistung bisher entsprechend eines
 konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet.
 Im Neubau beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
@@ -130,14 +131,15 @@ vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten sowie die Her
 und den Bau von Schiebe- und Trennwänden. Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen.
 Auch in Zukunft bestehen weitere Chancen, die Baukosten durch Eigenleistung zu reduzieren.
 
-## Refinanzierung der Kredite
+### Refinanzierung der Kredite
 
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
-Betriebs- und Instandhaltungskosten getilgt, wobei letztere teilweise zunächst durch neu eingeworbene
-Direktkredite abgelöst werden. Die Warmmiete für die
+Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
 Bewohner\*innen beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
-auch die großen Gemeinschaftsflächen mitfinanziert. Da unser Projekt nicht
+auch die großen Gemeinschaftsflächen mitfinanziert.
+
+Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren. Auch werden wir mit Einzug
 der ersten Bewohner beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
