@@ -160,7 +160,7 @@ Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) | ~ 2,30 Millionen Euro
+Direktkredite (nachrangige Darlehen) | ~ 2,46 Millionen Euro
 Spenden | 0,16 Millionen Euro
 
 Bankfinanzierung | |

@@ -30,7 +30,7 @@ Es sind unterfahrbare Waschtische vorhanden. Alle Duschen werden bodengleich und
 
 ### Verkehrsanbindung
 
-Das Wohnheim liegt in unmittelbarer Nähe der Haltestelle „Ortenauer Str.“ ([Anfahrt](/anfahrt). Diese ist laut Verkehrsverbund eine Haltestelle mit einer Bahnsteighöhe von 30 cm und besitzt einen weitgehend stufenlosen, höhengleichen Zugang. Es wird außerdem zwei gekennzeichnete behindertengerechte Parkplätze mit einer Breite von 2,75m geben.
+Das Wohnheim liegt in unmittelbarer Nähe der Haltestelle „Ortenauer Str.“ ([Anfahrt](/anfahrt)). Diese ist laut Verkehrsverbund eine Haltestelle mit einer Bahnsteighöhe von 30 cm und besitzt einen weitgehend stufenlosen, höhengleichen Zugang. Es wird außerdem zwei gekennzeichnete behindertengerechte Parkplätze mit einer Breite von 2,75m geben.
 
 ### Weitere Informationen
 
