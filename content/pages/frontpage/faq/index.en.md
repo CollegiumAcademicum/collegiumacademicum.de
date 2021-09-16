@@ -62,7 +62,7 @@ Given that the formal requirements are met (status as a student, docotral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan moving-in day will be in March 2022.
+As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan, the moving-in day will be in March 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
 Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.
@@ -74,7 +74,7 @@ No, in the dormitory pets are not currently allowed. An exception to this are as
 Given our current construction and financial situation, we think this possibility for this are extremely slim.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
-For simplicity's sake, all rooms are furnished! You can of course bring your own furniture and we can accomedate special cases. Note, that we make the specialized furniture with an in-house milling machine!
+Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy in March 2022, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again with Eberhard). The furnishing surcharge of 20€ remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
 {{< /accordion >}}
 {{< accordion "Do I have to give the project money or a loan to move in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
@@ -83,8 +83,8 @@ No! Financial support does not have any influence on who can move in. The financ
 There are no specific family flats. Nevertheless it is possible to move in with children. Each room has to be rented by a student/trainee. Therefore for example, two rooms could be rented by the two parents, then live together in one of the rooms and use the other as a child room. Of course a child could also live together with a parent in the their room.
 {{< /accordion >}}
 {{< accordion "I am a single parent. Can I move in?" >}}
-Yes you can. Take note though of the formal requirement, that each room has to be rented by a student or trainee. See the question above.
+Yes, you can. Take note though of the formal requirement that each room has to be rented by a student or trainee. See the question above.
 {{< /accordion >}}
 {{< accordion "Do I have to help with the construction of the house?" >}}
-No! Nevertheless we appreciate of course any help with the work necessary to finish the house. These topics include, the construction of the furniture, publicity work and the organization of the projects financials.
+No! Nevertheless we appreciate of course any help with the work necessary to finish the house. These topics include, the construction of the furniture, publicity work and the organization of the projects financials. However, support from those moving in is sensible and desirable, especially with regard to the future self-administration, and in order to be able to manage the move-in.
 {{< /accordion >}}
