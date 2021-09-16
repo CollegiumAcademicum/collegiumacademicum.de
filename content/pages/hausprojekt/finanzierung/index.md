@@ -16,7 +16,7 @@ Verfügung. Kontaktieren Sie uns unter
 [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
 oder telefonisch unter 06221-6734812.
 
-## Projektkosten
+### Projektkosten
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
@@ -31,7 +31,7 @@ Beauftragungen erteilt, sodass wir über eine große Kostensicherheit
 verfügen. Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
 [hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
 
-## Finanzierungsbausteine
+### Finanzierungsbausteine
 
 Für die Projektfinanzierung sind verschiedene Bausteine vorgesehen: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten

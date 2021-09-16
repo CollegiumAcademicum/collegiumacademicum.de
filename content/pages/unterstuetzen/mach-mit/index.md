@@ -2,6 +2,10 @@
 title: "Mach Mit"
 ---
 
+### Projekttreffen
+
+Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet <a href="/anfahrt">bei uns auf der Fläche</a> ein Projektplenum statt. Bei diesem werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen, außerdem ist es immer ein schöner Ort zum Socializing. Komm gerne vorbei, wenn du am Projekt interessiert bist oder einsteigen möchtest! Wir freuen uns auf dich!
+
 {{< carousel nSlides="6" >}}
 
 <div x-show="activeSlide === 1">
@@ -18,12 +22,13 @@ Die AG Planung kümmert sich um alles, was die Ausführung und die Baustelle bet
 
 Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
     
-
-* Teilnahme an den wöchentlichen Bausitzungen und weiteren Planungssitzungen<br>
-* Planungsentscheidungen vorbereiten und Bindeglied zwischen Projektgruppe und Firmen sein<br>
-* Ausschreibungsbegleitung, Angebotsaufforderungen, Vertragsabsprachen und Beauftragungen<br>
-* Rechnungsprüfung<br>
-* Absprachen mit städtischen Ämtern und Versorgern
+<ul>
+  <li>Teilnahme an den wöchentlichen Bausitzungen und weiteren Planungssitzungen</li>
+  <li>Planungsentscheidungen vorbereiten und Bindeglied zwischen Projektgruppe und Firmen sein</li>
+  <li>Ausschreibungsbegleitung, Angebotsaufforderungen, Vertragsabsprachen und Beauftragungen</li>
+  <li>Rechnungsprüfung (zusammen mit der AG Finanzierung)</li>
+  <li>Absprachen mit städtischen Ämtern und Versorgern</li>
+</ul>
 
 </div>
 
@@ -38,10 +43,12 @@ Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
 
 Unsere Aufgaben sind: 
 
-* Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?<br>
-* Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.<br>
-* Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung, die Workcamps dafür organisieren wir.<br>
-* Planung für das Orientierungsjahr: Bildung anders denken, ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden. <br>
+<ul>
+  <li>Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?</li>
+  <li>Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.</li>
+  <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung, die Workcamps dafür organisieren wir.</li>
+  <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
+</ul>
 
 Falls du dir jetzt denks: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
 
@@ -59,10 +66,10 @@ Falls du dir jetzt denks: "Das hab ich ja noch nie gemacht!" - kein Problem, wir
     </div>
 
 Das Herzstück der Werkstatt ist unsere CNC-Holzfräse, mit der wir größtenteils Tische, Betten und Schränke für die Wohnheimzimmer herstellen. Die AG Eigenleistung kümmert sich unter anderem darum, dass die Schiebewände im späteren Wohnheim reibungslos laufen. Bis sich unsere Prototypen für die Massenproduktion qualifizieren, bedarf es viel gemeinsamem Brainstorming, Konstruieren und Tüfteln. Dabei lernen wir, indem wir an Frässchulungen teilnehmen, uns von Schreiner*innen beraten lassen und schlichtweg ausprobieren. In regelmäßigen Abständen finden zudem Eigenleistungs-Wochenenden statt, bei welchen unterschiedlichste Aufgaben anstehen und jede helfende Hand willkommen ist.
-</br>
-Im Sommer 2020 fand bereits unser erstes und deutsch-französisches Workcamp statt, und auch im August und September 2022 haben wir gleich drei Workcamps veranstaltet. Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei!
-</br>
-Wir sehen uns in der Werkstatt 😊
+<br>
+Außerdem veranstalten wir <a href="/summerschool">Workcamps, bei denen wir Bauen und Bildung verbinden:</a> Im Sommer 2020 fand unser erstes und deutsch-französisches Workcamp statt, und auch im August und September 2021 haben wir gleich drei Workcamps veranstaltet. 
+<br>
+Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei! Wir sehen uns in der Werkstatt 😊
 
 </div>
 
@@ -76,13 +83,15 @@ Wir sehen uns in der Werkstatt 😊
     </div>
  Was wir tun:<br>
 
-* Das CA bekannter machen :-)<br>
-* Design von Plakaten, Flyern, Stickern etc.<br>
-* Presse, Magazine etc. anschreiben & Kontakt halten<br>
-* (digitale) Veranstaltungen organisieren<br>
-* Kampagnen zu Spenden, Direktkrediten oder Eigenleistung planen<br>
-* Online-Auftritte mit Text- und Fotobeiträgen pflegen (Homepage, Facebook, Instagram etc.)<br>
-* Newsletter schreiben<br>
+<ul>
+  <li>Das CA bekannter machen :-)</li>
+  <li>Design von Plakaten, Flyern, Stickern etc.</li>
+  <li>Presse, Magazine etc. anschreiben & Kontakt halten</li>
+  <li>(digitale) Veranstaltungen organisieren</li>
+  <li>Kampagnen zu Spenden, Direktkrediten oder Eigenleistung planen</li>
+  <li>Online-Auftritte mit Text- und Fotobeiträgen pflegen (Homepage, <a href="https://www.facebook.com/CollegiumAcademicum">Facebook</a>, <a href="https://www.instagram.com/collegiumacademicum">Instagram</a> etc.)</li>
+  <li>Newsletter schreiben</li>
+</ul>
   
 </div>
 
@@ -99,12 +108,14 @@ Die AG Finanzierung kümmert sich um die Erstellung von Finanzplänen und Kosten
 
 Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen zuständig, also das strukturierte Ablegen und Einscannen von Rechnungen, der Abstimmung mit unserem Steuerberater und der Vorbereitung für Jahresabschlüsse, die wir machen müssen. Es gibt also viele Dinge zu lernen, die für die Umsetzung von sozial-ökologischen Projekten in unserer heutigen Gesellschaft essenziell sind. So könnte deine Mitarbeit bei uns aussehen:
 
-* Konzepte zur Einwerbung von Direktkrediten und Spenden entwickeln<br>
-* Kreditanträge schreiben<br>
-* Buchhaltung/Verwaltung: Rechnungen einpflegen, Kredite verwalten, Konten verwalten, Steuererklärungen … <br>
-* Baukosten kontrollieren<br>
-* Förderanträge schreiben, Fördermittelverwaltung etc.<br>
-* Sponsor*innen finden, verhandeln, Gegenleistungen erbringen<br>
+<ul>
+  <li>Konzepte zur Einwerbung von Direktkrediten und Spenden entwickeln</li>
+  <li>Kreditanträge schreiben</li>
+  <li>Förderanträge schreiben, Fördermittelverwaltung etc.</li>
+  <li>Baukosten kontrollieren</li>
+  <li>Sponsor*innen finden, verhandeln, Gegenleistungen erbringen</li>
+  <li>Buchhaltung/Verwaltung: Rechnungen einpflegen, Kredite verwalten, Konten verwalten, Steuererklärungen …</li>
+</ul>
   
 </div>
 
@@ -121,10 +132,30 @@ Außerdem betreiben wir einen Linux Server, um unsere Zusammenarbeit zu koordini
 
 Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in die Open-Source Welt einzusteigen. Wir freuen uns, wenn du uns bei unseren Aufgaben unterstützt:
 
-* Websitenverwaltung und -umstrukturierung
-* Wartung der technischen Infrastruktur (Open-Source Chatsystem Mattermost, Nextcloud)
-* Entwicklung neuer Kommunikationskonzepte im Neubau
+<ul>
+  <li>Websitenverwaltung und -umstrukturierung</li>
+  <li>Wartung der technischen Infrastruktur (Open-Source Chatsystem Mattermost, Nextcloud)</li>
+  <li>Entwicklung neuer Kommunikationskonzepte für den Neubau</li>
+</ul>
 
+</div>
+
+<div x-show="activeSlide === 7">
+    <h3>AG Bildung</h3>
+    <div class="grid-col">
+        <!-- Hier kann noch ein Bild hin -->
+        <div class="">
+            <p>Du möchtest das <a href="/bildung">Bildungsprogramm</a> im zukünftigen CA mitzugestalten? Als gerade neu entstehende AG suchen wir interessierte Menschen, die Lust darauf haben, kreativ zu denken und entstandene Ideen weiter auszuarbeiten.</p>
+        </div>
+    </div>
+ Was machen wir?<br>
+
+<ul>
+  <li>Konzeption des Orientierungsjahrs zusammen mit der AG Altbau</li>
+  <li>Kontaktaufnahme und Austausch mit anderen, ähnlichen Projekten, um von ihren Erfahrungen zu lernen</li>
+  <li>Ansprechen von Betrieben und Institutionen, um Kooperationen zu entwickeln</li>
+</ul>
+  
 </div>
 
 {{< /carousel >}}
