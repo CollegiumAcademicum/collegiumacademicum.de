@@ -66,7 +66,7 @@ oder fügen Sie dem Verwendungszweck zusätzlich ihre Adresse bei.
 
 Ergänzend zu den Geldspenden bieten Sachspenden eine wertvolle Unterstützung für die gemeinschaftliche Nutzung der Räume.
 Sowohl für die aktuelle als auch für die zukünftige Nutzung freuen wir uns auf folgende Gegenstände:
-- Möbelspenden (stapelbare Stühle für die Aula, Kühlschränke, (Kleider-)Schränke/Zimmerregale, Schreibtischstühle, Betten (120x200 cm), Küchentische und Küchenstühle). Bitte KEINE Sofas, Sessel, Kommoden etc.!
+- Möbelspenden (stapelbare Stühle für die Aula, Kühlschränke, (Kleider-)Schränke/Zimmerregale, Schreibtischstühle, Betten (120x200 cm), Küchentische und Küchenstühle). Bitte KEINE (Bett-)Sofas, Sessel, Kommoden, Schuschränke etc.!
 - Fahrradbestellanlagen
 - Küchenaustattung im Allgemeinen
 - Material für die Werkstatt (Akkuschrauber, Schutzkleidung, Leitern, Schubkarren ...)
