@@ -37,29 +37,32 @@ The complete house is equipped with high speed WiFi access. Each flat has its ow
 
 ### Questions about the application
 
-{{< accordion "I am not yet a student or trainee?" >}}
-Yes! You can applied before getting your student or trainee status. It is necessary though, that at your moving in day your are enrolled in your program. If in the mean time it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any additional costs.
+{{< accordion "I am not yet a student or trainee, can I apply for a place?" >}}
+Yes! You can apply before getting your student or trainee status. It is necessary though, that at your moving in day, you are enrolled in your program. If in the mean time it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any costs.
+{{< /accordion >}}
+{{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
+Yes! We are still looking for many new residents* to move in in March 2022!
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
-No! The application does not cost you anything. If your are invited for a get-to-know-you day, we cannot reimburse your travel costs, sadly. (Note: Because of the current situation all get-to-knows are held online anyway!)
+No! The application does not cost you anything. If your are invited for a get-to-know-you day, we cannot reimburse your travel costs, sadly. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
 {{< /accordion >}}
-{{< accordion "I am under eightteen, can I apply anyway?" >}}
+{{< accordion "I am under eighteen, can I apply anyway?" >}}
 Yes, this is not a problem. For the letter of intent and the rental contract you will need a parent that can co-sign both documents.
 {{< /accordion >}}
-{{< accordion "Can I apply now already if I only want to move in 2022?" >}}
-No, right now we are focussing on finding the first residents that are moving in 2021. If you want to move in later, you should come back to us at a later time.
+{{< accordion "Can I apply now already if I only want to move in for the Winter semester 2022/2023?" >}}
+No, right now we are focussing on finding the first residents that are moving in in March 2022. If you want to move in later, you should come back to us at a later time.
 {{< /accordion >}}
 {{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
 {{< /accordion >}}
-{{< accordion "According to what criterions will the residents be choosen?" >}}
+{{< accordion "According to which criterions will the residents be choosen?" >}}
 Given that the formal requirements are met (status as a student, docotral student of trainee) we are searching for people that can identify with our mission statement, that want to engage in the self-organization of the dormitory and want to take up responsiblity for the community.
 {{< /accordion >}}
 
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan moving-in day will be in January 2022.
+As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan moving-in day will be in March 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
 Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.
