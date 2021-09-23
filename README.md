@@ -6,8 +6,6 @@
 
 This repo contains the code and content of collegiumacademicum.de.
 
-hallo 
-
 ## Requirements
 
 - Hugo: **>=0.49**
