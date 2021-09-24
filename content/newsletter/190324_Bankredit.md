@@ -41,7 +41,7 @@ Sie sich gerne [hier](https://de-de.facebook.com/CollegiumAcademicum/)
 anschauen.
 
 <figure>
-<img src="/newsletter/cnc_workshop.jpg"  alt="Die Projektgruppe zusammen mit Reinhard Hauser (4. von links) bei der Arbeit." title="Die Projektgruppe zusammen mit Reinhard Hauser (4. von links) bei der Arbeit." width="65%" />
+<img src="/newsletter/CNC_workshop.jpg"  alt="Die Projektgruppe zusammen mit Reinhard Hauser (4. von links) bei der Arbeit." title="Die Projektgruppe zusammen mit Reinhard Hauser (4. von links) bei der Arbeit." width="65%" />
 <figcaption style="text-align:center;">
 <p>Die Projektgruppe zusammen mit Reinhard Hauser (4. von links) bei der Arbeit.</p>
 </figcaption>

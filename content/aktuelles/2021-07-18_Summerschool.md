@@ -46,9 +46,9 @@ gekocht und gelacht. Das Workcamp wurde durch die
 [Sto-Stiftung](https://www.sto-stiftung.de/) finanziell unterstützt.
 
 <figure style="text-align:center;">
-<img alt="Bei unserem Workcamp übten wir nicht nur den Umgang mit unserer CnC-Fräse sondern auch mit vielen anderen Werkzeugen Collegium Academicum." src="/newsletter/eigenleistungsbande.png" width="80%" />
+<img alt="Bei unserem Workcamp übten wir nicht nur den Umgang mit unserer CNC-Fräse sondern auch mit vielen anderen Werkzeugen Collegium Academicum." src="/newsletter/eigenleistungsbande.png" width="80%" />
 <figcaption style="text-align:center;">
-<p>Bei unserem Workcamp übten wir nicht nur den Umgang mit unserer CnC-Fräse
+<p>Bei unserem Workcamp übten wir nicht nur den Umgang mit unserer CNC-Fräse
 sondern auch mit vielen anderen Werkzeugen (&#169; Projektgruppe Collegium Academicum).</p>
 </figcaption>
 </figure>

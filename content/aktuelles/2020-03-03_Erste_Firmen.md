@@ -76,7 +76,7 @@ kann sich gerne bei uns melden. Wir freuen uns über jede helfende Hand!
 
 <div style="display:flex; justify-content:center;">
 	<div style="margin-right: 1em; flex-basis:40%;">
-	<img src="/aktuelles/gruppenfoto_cnc_fraese.jpg" alt="Gruppenfoto vor der Holzfräse" title="Gruppenfoto vor der Holzfräse" width="100%" />
+	<img src="/aktuelles/gruppenfoto_CNC_fraese.jpg" alt="Gruppenfoto vor der Holzfräse" title="Gruppenfoto vor der Holzfräse" width="100%" />
 	<p style="margin-bottom: 0; color: gray">Einweisung in die Arbeit mit der CNC-Fräse Ende Januar <br />( &copy; Uli Hillenbrand) .</p>
 	</div>
 	<div style="flex-basis:40%;">
