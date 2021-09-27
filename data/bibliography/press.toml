@@ -13,7 +13,7 @@ link = "/media/2021_variowohnungen.pdf"
 title = "Anfang 2022 soll im Collegium Academicum Leben einkehren"
 source = "RNZ"
 date = "01.09.2021"
-link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
+link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-heidelberg-anfang-2022-soll-im-collegium-academicum-leben-einkehren-_arid,730582.html"
 
 [[press]]
 title = "Bezahlbaren und nachhaltigen Wohnraum schaffen"
@@ -25,7 +25,7 @@ link = "https://www.badisches-tagblatt.de/Nachrichten/Bezahlbaren-und-nachhaltig
 title = "plan b: Vier Wände für alle!"
 source = "plan b, ZDF"
 date = "07.08.2021"
-link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
+link = "/media/2021_planb.mp4"
 
 [[press]]
 title = "Holzverbindungen und Knotenpunkte: Wohnheim mit weltweit einzigartigem Holztragwerk"
@@ -183,6 +183,12 @@ title = 'ZÜBLIN Timber building Collegium Academicum residence hall in Heidelbe
 source = "ZÜBLIN Timber - press release"
 date = "07.05.2020"
 link = "https://www.zueblin-timber.com/en/news/zueblin-timber-building-collegium-academicum-residence-hall-in-heidelberg.html"
+
+[[press]]
+title = "Heidelberg – Hochkultur und Subkultur"
+source = "Arte"
+date = "27.02.2020"
+link = "/media/2020_arte_subkultur.mp4"
 
 [[press]]
 title = 'Studierende bauen Möbel'
