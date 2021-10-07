@@ -20,7 +20,7 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 19 Millionen Euro, die für den Altbau bei etwas weniger als der Hälfte. 
+für den Neubau liegen bei etwa 19 Millionen €, die für den Altbau bei etwa 8 Millionen €. 
 Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
@@ -33,12 +33,14 @@ verfügen. Weitere Details zur Architektur und zur Planung des Neubaus finden Si
 
 ### Finanzierungsbausteine
 
-Für die Projektfinanzierung sind verschiedene Bausteine vorgesehen: Die
+Für die Projektfinanzierung von Alt- und Neubau sind verschiedene Bausteine vorgesehen: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten
 Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen; zum anderen erhalten
 wir einen von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW))
 gefördertem Bankkredit, welchen wir über die Umweltbank beantragt haben, die uns
 ebenfalls einen Kredit zur Verfügung stellt.
+Da wir im Altbau mehrere Wohneinheiten im sozialen Wohnungsbau ermöglichen wollen,
+sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Finanzierungsbaustein. 
 
 {{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
 
@@ -101,8 +103,8 @@ von 15% des Kreditbetrags.
 
 #### Altbauten
 
-Wie beim Neubau wird auch in den Altbauten ein Großteil der Kosten über einen Bankkredit sowie einen Kredit der KfW umgesetzt.
-Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den angestrebten KfW-Standard zu erreichen.
+Wie beim Neubau wird auch in den Altbauten ein Großteil der Kosten von ca. 8 Millionen Euro über einen Bankkredit sowie einen Kredit der KfW umgesetzt.
+Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den angestrebten KfW-70-Standard zu erreichen.
 
 
 ### Sonstiges
