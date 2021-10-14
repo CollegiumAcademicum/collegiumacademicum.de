@@ -46,4 +46,8 @@ Gelände.
 	Gelände.</p>
 	</div>
 </div>
+<<<<<<< HEAD
  */}}
+=======
+*/}}
+>>>>>>> 16b88414f37a9ae64f4dda73eb60bc94eda20160
