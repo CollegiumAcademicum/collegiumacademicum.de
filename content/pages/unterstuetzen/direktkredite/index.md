@@ -29,12 +29,12 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen, **2.460.000 EUR** Direktkredite
+Es ist uns gelungen, **2.300.000 EUR** Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
-<progress class="progress is-large is-primary" value="2460" max="2460"></progress>
+<progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
 Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
 
@@ -48,7 +48,7 @@ So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhal
 {{< /accordion >}}
 
 {{< accordion "Welche Konditionen gibt es?" >}}
-Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,50 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
+Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,50 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
 {{< /accordion >}}
 
 {{< accordion "Wie sicher ist es einen Direktkredit zu geben?" >}}

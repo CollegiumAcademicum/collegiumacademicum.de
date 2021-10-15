@@ -20,7 +20,7 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 19 Millionen €, die für den Altbau bei etwa 8 Millionen €. 
+für den Neubau liegen bei etwa 19,5 Millionen €, die für den Altbau bei etwa 8 Millionen €. 
 Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
@@ -49,7 +49,7 @@ sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Fin
 Im Rahmen des Zukunftsinvestitionsprogramms ["Modellvorhaben
 Variowohnen"](https://www.zukunftbau.de/programm/variowohnungen)
 des Bundesbauministeriums wurde unser Projekt als herausragendes Vorhaben
-eingestuft. Die Förderung beläuft sich auf rund 2,12 Millionen Euro. Zusätzlich
+eingestuft. Die Förderung beläuft sich auf rund 2,193 Millionen Euro. Zusätzlich
 wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm ["Holz
 Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/)
 genehmigt, welches sich aus dem [Europäischen Fonds für regionale
@@ -68,7 +68,7 @@ Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 
-Für den Neubau haben wir etwa 2,4 Millionen Euro
+Für den Neubau haben wir etwa 2,3 Millionen Euro
 an nachrangigen Darlehen und Spenden eingeworben, womit wir unser erstes Ziel schon erreicht haben.
 Für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
 Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
@@ -95,7 +95,7 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 #### Neubau
 
-Ca. 13 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
+Ca. 13,5 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
 Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
@@ -128,7 +128,7 @@ wurden von Anfang an eingeplant, einige ergeben sich aber auch erst im Laufe des
 
 Trotz ihres Potenzials ist Eigenleistung bisher entsprechend eines
 konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet.
-Im Neubau beläuft sich derzeit auf etwa 2,5% des Gesamtvolumens. Dies beinhaltet
+Im Neubau beläuft sich derzeit auf etwa 380.000 Euro. Dies beinhaltet
 vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten sowie die Herstellung von Möbeln
 und den Bau von Schiebe- und Trennwänden. Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen.
 Auch in Zukunft bestehen weitere Chancen, die Baukosten durch Eigenleistung zu reduzieren.
@@ -155,21 +155,21 @@ mit dem neue Hausprojekten bei ihrem Start unterstützt werden.
 
 Fördermittel | |
 --- | ---:
-Förderprogramm "Variowohnen" | 2,12 Millionen Euro
+Förderprogramm "Variowohnen" | 2,193 Millionen Euro
 Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
-Förderprogramm "Rationelle Energieverwendung" | ~0,19 Millionen Euro
+Förderprogramm "Rationelle Energieverwendung" | 0,19 Millionen Euro
 Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
 Private Unterstützung | |
 --- | ---:
-Direktkredite (nachrangige Darlehen) | ~ 2,46 Millionen Euro
+Direktkredite (nachrangige Darlehen) | ~ 2,30 Millionen Euro
 Spenden | 0,16 Millionen Euro
 
 Bankfinanzierung | |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,00 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,55 Millionen Euro
 
 Sonstiges | |
 --- | ---:
 Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
-Gesamtinvestitionssumme | ~ 19,00 Millionen Euro
+Gesamtinvestitionssumme | ~ 19,50 Millionen Euro
