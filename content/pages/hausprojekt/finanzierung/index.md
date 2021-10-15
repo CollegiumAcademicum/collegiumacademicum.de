@@ -56,7 +56,7 @@ genehmigt, welches sich aus dem [Europäischen Fonds für regionale
 Entwicklung](https://ec.europa.eu/regional_policy/de/funding/erdf/) (EFRE) und
 Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
 von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
-Passivhausbauweise des Wohnheims (190.000 Euro).
+Passivhausbauweise des Wohnheims (190.500 Euro).
 
 ### Direktkredite und Spenden
 
@@ -95,7 +95,7 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 #### Neubau
 
-Ca. 13,5 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
+Ca. 13,57 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
 Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
@@ -153,23 +153,26 @@ mit dem neue Hausprojekten bei ihrem Start unterstützt werden.
 
 ### Neubau
 
-Fördermittel | |
+Fördermittel | ~ 2,879 Millionen Euro |
 --- | ---:
 Förderprogramm "Variowohnen" | 2,193 Millionen Euro
 Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
-Förderprogramm "Rationelle Energieverwendung" | 0,19 Millionen Euro
+Förderprogramm "Rationelle Energieverwendung" | ~0 ,19 Millionen Euro
 Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
 
-Private Unterstützung | |
+Private Unterstützung | 2,46 Millionen Euro |
 --- | ---:
 Direktkredite (nachrangige Darlehen) | ~ 2,30 Millionen Euro
 Spenden | 0,16 Millionen Euro
 
-Bankfinanzierung | |
+Bankfinanzierung | ~ 13,57 Millionen Euro |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,55 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,57 Millionen Euro
 
-Sonstiges | |
+Sonstiges |  ~ 0,5 Millionen Euro|
 --- | ---:
-Eigenleistungen und Sponsoring| ~ 0,50 Millionen Euro
+Eigenleistungen | ~ 0,38 Millionen Euro
+Sponsoring | ~ 0,12 Millionen Euro
+
+--- | ---:
 Gesamtinvestitionssumme | ~ 19,50 Millionen Euro
