@@ -22,7 +22,7 @@ Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner
     </div>
 </div>
 
-Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
+Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 310,20€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
