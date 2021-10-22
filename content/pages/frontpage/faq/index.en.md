@@ -8,7 +8,7 @@ slug: "faq"
 ### Questions about the furnishing of the rooms and the dormitory
 
 {{< accordion "How high is the rent?" >}}
-The fixed rent is 310€/month.
+The fixed rent is 310,20€/month.
 {{< /accordion >}}
 {{< accordion "How big are the rooms?" >}}
 Each room is 14qm big.

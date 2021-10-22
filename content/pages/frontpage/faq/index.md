@@ -8,7 +8,7 @@ slug: "faq"
 ### Fragen zur Ausstattung der Zimmer und des Wohnheims
 
 {{< accordion "Wie hoch ist die Miete?" >}}
-Die fixe Miete beträgt 312€/Monat.
+Die fixe Miete beträgt 310,20€/Monat.
 {{< /accordion >}}
 {{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
 Jedes Zimmer ist 14qm groß und kann flexibel auf 7qm verkleinert werden.
