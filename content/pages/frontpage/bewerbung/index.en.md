@@ -4,7 +4,7 @@ novoigl: yes
 ---
 
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
-<p>Awesome that you are interested in moving into the CA.</p>
+<p>Awesome that you are interested in moving into the CA!</p>
 
 <h2>General</h2>
 <div class="field">
@@ -75,7 +75,7 @@ novoigl: yes
 </p>
 
 <p>
-    Not answering questions in this section will <b>not</b> have negative impact on your application!
+    Not answering questions in this section will <b>not</b> have a negative impact on your application!
 </p>
 
 <div class="field">
@@ -91,7 +91,7 @@ novoigl: yes
             </select>
         </div>
     </div>
-    <p class="help">Please answer with your expected ocupation at the expected moving date 2021.</p>
+    <p class="help">Please answer with your expected ocupation at the expected moving date in March 2022.</p>
 </div>
 
 <div class="field">
@@ -99,17 +99,17 @@ novoigl: yes
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="occupation_subject">
     </div>
-    <p class="help">If you answered with other in the previous question, you can also add an comment here.</p>
+    <p class="help">If you answered "Other" in the previous question, you can also add a comment here.</p>
 </div>
 
 <hr>
 
 <div class="field">
-    <label class="label" for="nationality">What nationality do you have?</label>
+    <label class="label" for="nationality">Which nationality do you have?</label>
     <div class="control">
         {{< nationality-form  lang="en" >}}
     </div>
-    <p class="help">If you own multiple citizenships you may also choose one of them here.</p>
+    <p class="help">If you own multiple citizenships, you may also choose one of them here.</p>
 </div>
 
 <div class="field">
@@ -140,7 +140,7 @@ novoigl: yes
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="contacts">
     </div>
-    <p class="help">That could be somebody also applying concurrently or already living in the house.</p>
+    <p class="help">That could be somebody applying concurrently or already living in the house.</p>
 </div>
 
 <hr>

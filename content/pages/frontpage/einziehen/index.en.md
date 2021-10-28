@@ -9,6 +9,8 @@ novoigl: yes
 We have answers to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us under einziehen@collegiumacademicum.de.
 
 The construction of the new wooden building has already begun and we are finally ready: **March 2022** the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
+Here, you can see how many of our 176 future residents we have chosen already - we are still looking for you!
+<progress class="progress is-large is-primary" value="80" max="176"></progress>
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -19,7 +21,7 @@ The construction of the new wooden building has already begun and we are finally
     {{< /img >}}
     </div>
     <div class="column">
-        If you are interested in sustainability, education and self-organisation, our address could become your address. Maybe you'll start studying in Heidelberg in 2021 and will be looking for an apartment? Or maybe you are enthusiastic about living in a large community? Or you may simply be looking for a change of scenery?
+        If you are interested in sustainability, education and self-organisation, our address could become your address. Maybe you'll start studying in Heidelberg in 2022 and will be looking for an apartment? Or maybe you are enthusiastic about living in a large community? Or you may simply be looking for a change of scenery?
     </div>
 </div>
 
