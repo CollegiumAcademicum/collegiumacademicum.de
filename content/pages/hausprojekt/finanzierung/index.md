@@ -174,5 +174,7 @@ Sonstiges |  ~ 0,5 Millionen Euro|
 Eigenleistungen | ~ 0,38 Millionen Euro
 Sponsoring | ~ 0,12 Millionen Euro
 
---- | ---:
+<hr style="border:1px solid"> </hr>
+
 Gesamtinvestitionssumme | ~ 19,50 Millionen Euro
+--- | ---:

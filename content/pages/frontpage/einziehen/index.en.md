@@ -10,8 +10,11 @@ We have answers to the most common questions in [our FAQ](/en/faq). If you have 
 
 The construction of the new wooden building has already begun and we are finally ready: **March 2022** the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
 Here, you can see how many of our 176 future residents we have chosen already - we are still looking for you!
-<progress class="progress is-large is-primary" value="80" max="176"></progress>
-
+<div class="progress-wrapperEinzug">
+  <progress class="progress is-large is-primary" value="80" max="176">20%</progress>
+  <p class="progress-value has-text-white" style="--progressing: 80;">occupied</p>
+  <p class="progress-value" style="--progressing: 256;">free</p>
+</div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}

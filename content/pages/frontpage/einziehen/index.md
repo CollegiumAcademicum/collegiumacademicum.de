@@ -10,8 +10,11 @@ Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. We
 Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen!
 
 Hier der Stand von Ende Oktober an ausgewählten Mitbewohner*innen - bewirb dich jetzt bei uns!
-<progress class="progress is-large is-primary" value="80" max="176"></progress>
-
+<div class="progress-wrapperEinzug">
+  <progress class="progress is-large is-primary" value="80" max="176">20%</progress>
+  <p class="progress-value has-text-white" style="--progressing: 80;">vergeben</p>
+  <p class="progress-value " style="--progressing: 256;">frei</p>
+</div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
