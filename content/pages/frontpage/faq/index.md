@@ -41,7 +41,7 @@ Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss (Glasfase
 Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung möglich und für Menschen, die auf dem Wohnungsmarkt strukturell stark benachteiligt sind und sich in einer anderen Art der Ausbildung/Studium befinden (z. B. Deutschkurs, FSJ o. ä.). Die besondere Benachteiligung sowie die aktuelle hauptsächliche Beschäftigung müssen parallel zur Bewerbung über das Onlineformular formlos per E-Mail an einziehen@collegiumacademicum kurz geschildert werden.
 {{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
-Ja, wir suchen noch viele neue Bewohner*innen für den Einzug im März 2022! Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du weiteren Menschen, die ebenfalls Interesse am Einziehen haben könnten,von uns erzählst.
+Ja, wir suchen noch viele neue Bewohner*innen für den Einzug im März 2022! Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du weiteren Menschen, die ebenfalls Interesse am Einziehen haben könnten, von uns erzählst.
 {{< /accordion >}}
 {{< accordion "Ich habe noch keine Zusage für einen Ausbildungs- oder Studienplatz, kann ich mich trotzdem schon bewerben?" >}}
 Ja, du kannst dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten.
