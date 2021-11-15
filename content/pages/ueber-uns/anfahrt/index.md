@@ -25,7 +25,7 @@ Ride Parkplätze, dort aus sind es allerdings 20 Minuten Fußweg bis zu unserem
 Gelände.
 
 
-{{/*
+{{/* auskommentiert
 <div class="columns">
 	<div id="anfahrt" class="column">
 	 {{< img src="map_anfahrt_hospital" alt="Anfahrt US Hospital mit der Baustelle für das Collegium Academicum." attr="Maurice Frank" />}}
@@ -46,4 +46,8 @@ Gelände.
 	Gelände.</p>
 	</div>
 </div>
+<<<<<<< HEAD
+ */}}
+=======
 */}}
+>>>>>>> 16b88414f37a9ae64f4dda73eb60bc94eda20160

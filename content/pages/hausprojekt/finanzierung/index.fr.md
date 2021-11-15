@@ -74,23 +74,27 @@ Les emprunts bancaires et les « crédits directs » seront peu à peu rembour
 
 ## Les chiffres en un coup d'oeil
 
-Subventions | |
+Subventions | ~ 2,9 millions d'euros|
 --- | ---:
 Programme "Variowohnen" | 2,12 millions d'euros
 Programme "Holz Innovativ" | 0,50 millions d'euros
 Programme "Rationelle Energieverwendung" | ~0,19 millions d'euros
 Programme "Barrierefreie Lebenslaufwohnungen" | 0,05 millions d'euros
 
-Soutiens externes | |
+Soutiens externes | ~ 2,46 millions d'euros|
 --- | ---:
 "Crédits directs" | ~ 2,30 millions d'euros
 Dons | 0,16 millions d'euros
 
-Financement bancaire | |
+Financement bancaire | ~ 13,6 millions d'euros|
 --- | ---:
-_KfW_ (crédit avec bonification d'intérêts et de remboursement) et crédit de la _Umweltbank_ | ~ 12,00 millions d'euros
+_KfW_ (crédit avec bonification d'intérêts et de remboursement) et crédit de la _Umweltbank_ | ~ 13,57 millions d'euros
 
-Divers | |
+Divers | ~ 0,5 millions d'euro|
 --- | ---:
-Contributions propres et sponsoring| ~ 0,50 millions d'euros
-Somme d'investissement totale | ~ 18,00 millions d'euros
+Contributions propres et sponsoring| ~ 0,5 millions d'euros
+
+<hr style="border:1px solid "> </hr>
+
+Somme d'investissement totale | ~ 19,5 millions d'euros|
+--- | ---:

@@ -72,23 +72,27 @@ Bank loans and direct loans will be paid off from the moment the first tenants m
 
 ## Figures at a glance
 
-Grants | |
+Grants | ~ €2,9 million |
 --- | ---:
 Funding programme "_Variowohnen_" | €2,12 million
 Funding programme "_Holz Innovativ_" | €0,50 million
 Funding programme "_Rationelle Energieverwendung_" | ~ €0,19 million
 Funding programme "_Barrierefreie Lebenslaufwohnungen_" | €0,05 million
 
-Private support | |
+Private support | ~ €2,46 million |
 --- | ---:
 Direct loans | ~ €2,30 million
 Donations | €0,16 million
 
-Bank financing | |
+Bank financing | ~ €13,6 million|
 --- | ---:
-_KfW_ (KfW 40+ subsidised loan) and loan from the _Umweltbank_ | ~ €12,00 million
+KfW (KfW 40+ subsidised loan) and loan from the Umweltbank | ~ €13,6 million
 
-Other | |
+Other | ~ €0.5 million|
 --- | ---:
 Own work and sponsorship| ~ €0,50 million
-Total investment sum | ~ €18,00 million
+
+<hr style="border:1px solid"> </hr>
+
+Total investment sum | ~ €19,50 million|
+---| ---:
