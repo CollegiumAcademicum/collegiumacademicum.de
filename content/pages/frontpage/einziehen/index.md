@@ -9,6 +9,12 @@ Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. We
 
 Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen!
 
+Hier der Stand von Mitte November an ausgewählten Mitbewohner*innen - bewirb dich jetzt bei uns!
+<div class="progress-wrapperEinzug">
+  <progress class="progress is-large is-primary" value="90" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 90;">vergeben</p>
+  <p class="progress-value " style="--progressing: 256;">frei</p>
+</div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
@@ -22,7 +28,7 @@ Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner
     </div>
 </div>
 
-Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 312€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
+Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 310,20€ warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
