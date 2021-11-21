@@ -11,8 +11,8 @@ Nicht mehr lange und es ist soweit: Im **März 2022** werden die ersten Bewohner
 
 Hier der Stand von Mitte November an ausgewählten Mitbewohner*innen - bewirb dich jetzt bei uns!
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="90" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 90;">vergeben</p>
+  <progress class="progress is-large is-primary" value="100" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 100;">vergeben</p>
   <p class="progress-value " style="--progressing: 256;">frei</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
