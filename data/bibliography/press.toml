@@ -2,11 +2,12 @@
 title = "Beitrag zu _Unsere Wahl_"
 source = "VOX Nachrichten"
 date = "23.09.2021"
-link = "/media/2018_vox_news.webm"
+link = "/media/2021_vox_news.webm"
 
 [[press]]
 title = "Variowohnungen: Bezahlbar – Anpassbar – Nachhaltig"
 date = "08.2021"
+source = "Bundesinstitut für Bau-, Stadt- und Raumforschung"
 link = "/media/2021_variowohnungen.pdf"
 
 [[press]]
