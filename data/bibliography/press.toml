@@ -5,13 +5,19 @@ date = "11.11.2021"
 link = "https://www.youtube.com/watch?v=wvc_hJ3Owsk"
 
 [[press]]
+title = "Studierende bauen sich in Heidelberg ein eigenes Wohnheim"
+source = "SWR"
+date = "08.11.2021"
+link = "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/selbstgebautes-studentenwohnheim-wg-heidelberg-100.html"
+
+[[press]]
 title = "Selbstverwaltet: Student:innen bauen sich ihr eigenes Wohnheim"
 source = "Kugelzwei, WDR"
 date = "16.10.2021"
 link = "https://www.instagram.com/p/CVGGtRvvjAu/"
 
 [[press]]
-title = "Beitrag zu _Unsere Wahl_"
+title = "Beitrag zu _Unsere Wahl"
 source = "VOX Nachrichten"
 date = "23.09.2021"
 link = "/media/2021_vox_news.webm"
@@ -583,9 +589,9 @@ date = "2013"
 link = "2013_01_Unimut_S11-17.pdf"
 
 [[press]]
-title = "Habitus Academicus"
+title = "Habitus Academicus - „Leben und Lernen: selbstverwaltet, bezahlbar, gemeinschaftlich und kreativ“"
 source = "Ruprecht"
-date = "2013"
+date = "11.2013"
 link = "http://www.ruprecht.de/wp-content/uploads/2013/10/ru146.pdf"
 
 [[press]]
