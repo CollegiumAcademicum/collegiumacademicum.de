@@ -41,7 +41,7 @@ The complete house is equipped with high speed WiFi access. Each flat has its ow
 Yes! You can apply before getting your student or trainee status. It is necessary though, that at your moving in day, you are enrolled in your program. If in the mean time it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any costs.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Yes, we are still looking for many new residents for the move-in in March 2022! So get to work and send us your application! We would also be happy if you told other people about us who might also be interested in moving in.
+Yes, we are still looking for many new residents for the move-in in April or May 2022! So get to work and send us your application! We would also be happy if you told other people about us who might also be interested in moving in.
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If your are invited for a get-to-know-you day, we cannot reimburse your travel costs, sadly. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
@@ -50,7 +50,7 @@ No! The application does not cost you anything. If your are invited for a get-to
 Yes, this is not a problem. For the letter of intent and the rental contract you will need a parent that can co-sign both documents.
 {{< /accordion >}}
 {{< accordion "Can I apply now already if I only want to move in for the Winter semester 2022/2023?" >}}
-No, right now we are focussing on finding the first residents that are moving in in March 2022. If you want to move in later, you should come back to us at a later time.
+No, right now we are focussing on finding the first residents that are moving in in April or May 2022. If you want to move in later, you should come back to us at a later time.
 {{< /accordion >}}
 {{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
@@ -62,7 +62,7 @@ Given that the formal requirements are met (status as a student, docotral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan, the moving-in day will be in March 2022.
+As we are currently constructing the building, we can sadly not guarentee are precise fixed moving in date. Given our current plan, the moving-in day will be in April or May 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
 Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.
@@ -74,7 +74,7 @@ No, in the dormitory pets are not currently allowed. An exception to this are as
 Given our current construction and financial situation, we think this possibility for this are extremely slim.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
-Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy in March 2022, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again with Eberhard). The furnishing surcharge of 20€ remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
+Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy in April or May 2022, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again with Eberhard). The furnishing surcharge of 20€ remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
 {{< /accordion >}}
 {{< accordion "Do I have to give the project money or a loan to move in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
