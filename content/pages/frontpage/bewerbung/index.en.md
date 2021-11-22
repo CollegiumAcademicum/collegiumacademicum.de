@@ -91,7 +91,7 @@ novoigl: yes
             </select>
         </div>
     </div>
-    <p class="help">Please answer with your expected ocupation at the expected moving date in March 2022.</p>
+    <p class="help">Please answer with your expected ocupation at the expected moving date in April or May 2022.</p>
 </div>
 
 <div class="field">
