@@ -47,8 +47,15 @@ The <a href="/en/accessibility">flats are prepared to be barrier-free</a>.
 
 
 The most important for us is that you want to take your life into your own hands, together with other people. Make yourself familiar with [our vision]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) and the ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ). If this fits to you, then please apply for a room and / or sign up for the [newsletter](#einziehen_form) at the bottom of the page. Another condition is that you are studying, doing an apprenticeship or a doctorate.
+If you would like to **have a look** at your future home before or after your application, please send us an email to kontakt@collegiumacademicum.de .
+We can then decide together in what form this is possible at the time. 
 
 As we have many rooms to fill and are accordingly expecting many applications, we do have to formalize the application process a bit. We developed the application process over a longer time, and think it is reasonably transparent, fair and inclusive. If you feel you are disadvantaged by the process or unhappy with it out of other reasons, please do not hesitate to contact us!
+
+<p style="padding: 10px; border: 2px solid #35ADA4;">
+If you would like to <b>have a look</b> at your future home before or after your application, please send us an <a href="mailto:kontakt@collegiumacademicum.de">email</a> .
+We can then decide together in what form this is possible at the time. 
+</p>
 
 Here is how the application process for a room in the new CA works:
 
