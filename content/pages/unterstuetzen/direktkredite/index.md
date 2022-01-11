@@ -29,16 +29,16 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-Es ist uns gelungen, **2.300.000 EUR** Direktkredite
+Es ist uns gelungen, **2.440.000 EUR** Direktkredite
 zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
 diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden.
 
-<progress class="progress is-large is-primary" value="2300" max="2300"></progress>
+<progress class="progress is-large is-primary" value="2440" max="2440"></progress>
 
 Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
 
-<progress class="progress is-large is-primary" value="600" max="1500"></progress>
+<progress class="progress is-large is-primary" value="666" max="1500"></progress>
 
 Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 

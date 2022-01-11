@@ -9,7 +9,7 @@ Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. We
 
 Nicht mehr lange und es ist soweit: Im **April oder Mai 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen für die 176 Plätze!
 
-Hier der Stand an ausgewählten Mitbewohner*innen vom 09. Dezember - bewirb dich jetzt bei uns!
+Hier der Stand an ausgewählten Mitbewohner*innen vom 12. Januar - bewirb dich jetzt bei uns!
 <div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="106" max="176"></progress>
   <p class="progress-value has-text-white" style="--progressing: 106;">vergeben</p>
@@ -48,8 +48,7 @@ Eine weitere Bedingung ist, dass du studierst, eine Ausbildung machst oder promo
 Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess sind, sag uns gerne Bescheid, z. B. per Mail an einziehen@collegiumacademicum.de!
 
 <p style="padding: 10px; border: 2px solid #35ADA4;">
-Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:kontakt@collegiumacademicum.de">E-Mail</a>.   
-Wir können dann gemeinsam entscheiden, in welcher Form dies zu dem entsprechenden Zeitpunkt möglich ist.
+Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:kontakt@collegiumacademicum.de">E-Mail</a>, um einen möglichen Termin abzuklären, oder melde dich über <a href="mailto:exkursion@collegiumacademicum.de">diese Adresse</a> bei einer unserer nächsten Führungen an (Termine siehe auf der rechten Seitenleiste der Homepage).  
 </p>
 
 So funktioniert die Bewerbung um einen Platz im neuen CA:
