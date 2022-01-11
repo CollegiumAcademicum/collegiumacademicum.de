@@ -43,7 +43,7 @@ Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige U
 Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
-Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
+Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
 So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.
 {{< /accordion >}}
 
@@ -51,7 +51,7 @@ So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhal
 Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,20 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
 {{< /accordion >}}
 
-{{< accordion "Wie sicher ist es einen Direktkredit zu geben?" >}}
+{{< accordion "Wie sicher ist es, einen Direktkredit zu geben?" >}}
 Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden. Sollte es zum Extremfall einer Insolvenz kommen, erhalten zuerst andere Gläubiger, etwa Banken, ihr Geld zurück. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.
 {{< /accordion >}}
 
