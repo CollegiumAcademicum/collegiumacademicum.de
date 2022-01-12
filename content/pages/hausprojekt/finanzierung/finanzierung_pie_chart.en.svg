@@ -1,44 +1,338 @@
-<svg width="520.19pt" height="420.65pt" version="1.1" viewBox="0 0 520.19 420.65" xmlns="http://www.w3.org/2000/svg">
- <defs>
-         <style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="520.19pt"
+   height="420.65pt"
+   version="1.1"
+   viewBox="0 0 520.19 420.65"
+   id="svg122"
+   sodipodi:docname="finanzierung_pie_chart.en.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview124"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.4852015"
+     inkscape:cx="347.09095"
+     inkscape:cy="280.76998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg122" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">
             @font-face{
                 font-family:'Source Sansy Pro';
                 font-style:normal;
                 font-weight:400;
-                src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url("/source-sans-pro-regular.woff2") format("woff2"),url("/source-sans-pro-regular.woff") format("woff");
+                src:local(&quot;Source Sans Pro Regular&quot;),local(&quot;SourceSansPro-Regular&quot;),url(&quot;/source-sans-pro-regular.woff2&quot;) format(&quot;woff2&quot;),url(&quot;/source-sans-pro-regular.woff&quot;) format(&quot;woff&quot;);
             }
         </style>
- </defs>
- <g transform="translate(-.73309 -174.67)">
-  <rect x="-10.404" y="164.6" width="543.52" height="442.39" ry="0" fill="#fcfcfc"/>
-  <g fill-rule="evenodd">
-   <path d="m209.03 202.29c49.68 0 89.18 15.816 124.94 50.375l-124.8 129.2z" fill="#2b9991"/>
-   <path d="m338.91 257.44c51.957 50.16 69.002 116.06 47.76 185.18l-174.55-53.777z" fill="#30aba1"/>
-   <path d="m384.58 449.28c-3.5976 11.758-5.4223 15.93-11.18 26.848l-134.28-71.615z" fill="#38c5ba"/>
-   <path d="m370.12 482.22c-49.922 93.363-159.59 124.43-252.95 74.514-93.48-49.922-127.27-161.79-77.473-255.27 33.359-62.398 91.746-98.937 162.54-98.937l0.12673 189.8z" fill="#7dd9d1"/>
+  </defs>
+  <g
+     transform="translate(-.73309 -174.67)"
+     id="g26">
+    <rect
+       x="-10.404"
+       y="164.6"
+       width="543.52"
+       height="442.39"
+       ry="0"
+       fill="#fcfcfc"
+       id="rect6" />
+    <g
+       fill-rule="evenodd"
+       id="g16">
+      <path
+         d="m209.03 202.29c49.68 0 89.18 15.816 124.94 50.375l-124.8 129.2z"
+         fill="#2b9991"
+         id="path8" />
+      <path
+         d="m338.91 257.44c51.957 50.16 69.002 116.06 47.76 185.18l-174.55-53.777z"
+         fill="#30aba1"
+         id="path10" />
+      <path
+         d="m384.58 449.28c-3.5976 11.758-5.4223 15.93-11.18 26.848l-134.28-71.615z"
+         fill="#38c5ba"
+         id="path12" />
+      <path
+         d="m370.12 482.22c-49.922 93.363-159.59 124.43-252.95 74.514-93.48-49.922-127.27-161.79-77.473-255.27 33.359-62.398 91.746-98.937 162.54-98.937l0.12673 189.8z"
+         fill="#7dd9d1"
+         id="path14" />
+    </g>
+    <g
+       fill="#3f3f3f"
+       id="g24">
+      <path
+         d="m277.37 212.33 43.801-15.598c0-0.1211 0-0.1211 0.11719-0.1211h5.1602v0.96094h-5.1602l0.12109-0.12109-43.801 15.598z"
+         id="path18" />
+      <path
+         d="m391.25 342.29 22.801-9.2422c0-0.11719 0.12109-0.11719 0.12109-0.11719h5.2773v0.95703h-5.2773l0.23828-0.11718-22.918 9.2383z"
+         id="path20" />
+      <path
+         d="m382.85 463.85 26.16 7.5625-0.12109-0.12109h5.2812v0.96094h-5.2812-0.12109l-26.16-7.5625z"
+         id="path22" />
+    </g>
   </g>
-  <g fill="#3f3f3f">
-   <path d="m277.37 212.33 43.801-15.598c0-0.1211 0-0.1211 0.11719-0.1211h5.1602v0.96094h-5.1602l0.12109-0.12109-43.801 15.598z"/>
-   <path d="m391.25 342.29 22.801-9.2422c0-0.11719 0.12109-0.11719 0.12109-0.11719h5.2773v0.95703h-5.2773l0.23828-0.11718-22.918 9.2383z"/>
-   <path d="m382.85 463.85 26.16 7.5625-0.12109-0.12109h5.2812v0.96094h-5.2812-0.12109l-26.16-7.5625z"/>
+  <g
+     transform="translate(-.73309 -.67179)"
+     display="none"
+     fill="#4a4a4a"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     letter-spacing="0px"
+     stroke-width=".75"
+     text-anchor="middle"
+     word-spacing="0px"
+     id="g56">
+    <text
+       x="402.41394"
+       y="23.428148"
+       xml:space="preserve"
+       id="text32"><tspan
+         x="402.41394"
+         y="23.428148"
+         text-align="center"
+         id="tspan28">Direktkredite/Spenden</tspan><tspan
+         x="402.41394"
+         y="44.678146"
+         dy="-5.6399999"
+         text-align="center"
+         id="tspan30">ca. 2,46 Mio. €</tspan></text>
+    <text
+       x="461.16483"
+       y="282.73056"
+       xml:space="preserve"
+       id="text40"><tspan
+         x="461.16483"
+         y="282.73056"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan34">Eigenleistung</tspan><tspan
+         x="461.16483"
+         y="303.98056"
+         text-align="center"
+         id="tspan36">Sponsoring</tspan><tspan
+         x="461.16483"
+         y="325.23056"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan38">ca. 0,55 Mio. €</tspan></text>
+    <text
+       x="134.08031"
+       y="287.46585"
+       xml:space="preserve"
+       id="text48"><tspan
+         x="134.08031"
+         y="287.46585"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan42">Bankkredit</tspan><tspan
+         x="134.08031"
+         y="308.71585"
+         text-align="center"
+         id="tspan44">gefördert durch KfW</tspan><tspan
+         x="134.08031"
+         y="329.96585"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan46">ca. 12 Mio. €</tspan></text>
+    <text
+       x="462.49066"
+       y="153.5952"
+       xml:space="preserve"
+       id="text54"><tspan
+         x="462.49066"
+         y="153.5952"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan50">Fördermittel</tspan><tspan
+         x="462.49066"
+         y="174.8452"
+         text-align="center"
+         id="tspan52">2,93 Mio. €</tspan></text>
   </g>
- </g>
- <g transform="translate(-.73309 -.67179)" display="none" fill="#4a4a4a" font-family="'Source Sans Pro'" font-size="14px" letter-spacing="0px" stroke-width=".75" text-anchor="middle" word-spacing="0px">
-  <text x="402.41394" y="23.428148"  xml:space="preserve"><tspan x="402.41394" y="23.428148" text-align="center" >Direktkredite/Spenden</tspan><tspan x="402.41394" y="44.678146" dy="-5.6399999" text-align="center" >ca. 2,46 Mio. €</tspan></text>
-  <text x="461.16483" y="282.73056"  xml:space="preserve"><tspan x="461.16483" y="282.73056" dy="5.5999999" text-align="center" >Eigenleistung</tspan><tspan x="461.16483" y="303.98056" text-align="center" >Sponsoring</tspan><tspan x="461.16483" y="325.23056" dy="-5.5999999" text-align="center" >ca. 0,55 Mio. €</tspan></text>
-  <text x="134.08031" y="287.46585"  xml:space="preserve"><tspan x="134.08031" y="287.46585" dy="5.5999999" text-align="center" >Bankkredit</tspan><tspan x="134.08031" y="308.71585" text-align="center" >gefördert durch KfW</tspan><tspan x="134.08031" y="329.96585" dy="-5.5999999" text-align="center" >ca. 12 Mio. €</tspan></text>
-  <text x="462.49066" y="153.5952"  xml:space="preserve"><tspan x="462.49066" y="153.5952" dy="5.5999999" text-align="center" >Fördermittel</tspan><tspan x="462.49066" y="174.8452" text-align="center" >2,93 Mio. €</tspan></text>
- </g>
- <g transform="translate(-.73309 -.67179)" display="none" fill="#4a4a4a" font-family="'Source Sans Pro'" font-size="14px" letter-spacing="0px" stroke-width=".75" text-anchor="middle" word-spacing="0px">
-  <text x="402.41394" y="23.428148"  xml:space="preserve"><tspan x="402.41394" y="23.428148" text-align="center" >Crédits directs/ dons</tspan><tspan x="402.41394" y="44.678146" dy="-5.5999999 0 0" text-align="center" >env. 2,46 Md€</tspan></text>
-  <text x="453.47504" y="279.54858"  xml:space="preserve"><tspan x="453.47504" y="279.54858" dy="5.5999999" text-align="center" >Contributions propres</tspan><tspan x="453.47504" y="300.79858" text-align="center" >sponsoring</tspan><tspan x="453.47504" y="322.04858" dy="-5.5999999" text-align="center" >env. 0,55 Md€</tspan></text>
-  <text x="160.14281" y="296.46585"  xml:space="preserve"><tspan x="160.14281" y="296.46585" text-align="center" ><tspan dy="5.5999999" fill="#4a4a4a" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75" text-align="center" text-anchor="middle" >Financement bancaire</tspan></tspan><tspan x="160.14281" y="317.71585" text-align="center" ><tspan fill="#4a4a4a" font-family="'Source Sans Pro'" font-size="14px" stroke-width=".75" text-align="center" text-anchor="middle" >crédit promotionnel de la KfW</tspan></tspan><tspan x="160.14281" y="338.96585" dy="-5.5999999" text-align="center" >env. 12 Md€</tspan></text>
-  <text x="462.49066" y="153.5952"  xml:space="preserve"><tspan x="462.49066" y="153.5952" text-align="center" >Subventions</tspan><tspan x="462.49066" y="174.8452" dy="-5.5999999" text-align="center" >2,93 Md€</tspan></text>
- </g>
- <g transform="translate(-.73309 -.67179)" fill="#4a4a4a" font-family="'Source Sans Pro'" font-size="14px" letter-spacing="0px" stroke-width=".75" text-anchor="middle" word-spacing="0px">
-  <text x="402.41394" y="23.428148"  xml:space="preserve"><tspan x="402.41394" y="23.428148" text-align="center" >Direct loans / donations</tspan><tspan x="402.41394" y="44.678146" dy="-5.6399999" text-align="center" >ca. € 2.46 Mio</tspan></text>
-  <text x="461.16483" y="282.73056"  xml:space="preserve"><tspan x="461.16483" y="282.73056" dy="5.5999999" text-align="center" >Own work</tspan><tspan x="461.16483" y="303.98056" text-align="center" >Sponsoring</tspan><tspan x="461.16483" y="325.23056" dy="-5.5999999" text-align="center" >ca. € 0.55 Mio</tspan></text>
-  <text x="134.08031" y="287.46585"  xml:space="preserve"><tspan x="134.08031" y="287.46585" dy="5.5999999" text-align="center" >Bank loan</tspan><tspan x="134.08031" y="308.71585" text-align="center" >supported by KfW</tspan><tspan x="134.08031" y="329.96585" dy="-5.5999999" text-align="center" >ca. € 12 Mio</tspan></text>
-  <text x="455.19861" y="149.35255"  xml:space="preserve"><tspan x="455.19861" y="149.35255" dy="5.5999999" text-align="center" >Grants</tspan><tspan x="455.19861" y="170.60255" text-align="center" >€ 2.93 Mio</tspan></text>
- </g>
+  <g
+     transform="translate(-.73309 -.67179)"
+     display="none"
+     fill="#4a4a4a"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     letter-spacing="0px"
+     stroke-width=".75"
+     text-anchor="middle"
+     word-spacing="0px"
+     id="g90">
+    <text
+       x="402.41394"
+       y="23.428148"
+       xml:space="preserve"
+       id="text62"><tspan
+         x="402.41394"
+         y="23.428148"
+         text-align="center"
+         id="tspan58">Crédits directs/ dons</tspan><tspan
+         x="402.41394"
+         y="44.678146"
+         dy="-5.5999999 0 0"
+         text-align="center"
+         id="tspan60">env. 2,46 Md€</tspan></text>
+    <text
+       x="453.47504"
+       y="279.54858"
+       xml:space="preserve"
+       id="text70"><tspan
+         x="453.47504"
+         y="279.54858"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan64">Contributions propres</tspan><tspan
+         x="453.47504"
+         y="300.79858"
+         text-align="center"
+         id="tspan66">sponsoring</tspan><tspan
+         x="453.47504"
+         y="322.04858"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan68">env. 0,55 Md€</tspan></text>
+    <text
+       x="160.14281"
+       y="296.46585"
+       xml:space="preserve"
+       id="text82"><tspan
+         x="160.14281"
+         y="296.46585"
+         text-align="center"
+         id="tspan74"><tspan
+           dy="5.5999999"
+           fill="#4a4a4a"
+           font-family="'Source Sans Pro'"
+           font-size="14px"
+           stroke-width=".75"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan72">Financement bancaire</tspan></tspan><tspan
+         x="160.14281"
+         y="317.71585"
+         text-align="center"
+         id="tspan78"><tspan
+           fill="#4a4a4a"
+           font-family="'Source Sans Pro'"
+           font-size="14px"
+           stroke-width=".75"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan76">crédit promotionnel de la KfW</tspan></tspan><tspan
+         x="160.14281"
+         y="338.96585"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan80">env. 12 Md€</tspan></text>
+    <text
+       x="462.49066"
+       y="153.5952"
+       xml:space="preserve"
+       id="text88"><tspan
+         x="462.49066"
+         y="153.5952"
+         text-align="center"
+         id="tspan84">Subventions</tspan><tspan
+         x="462.49066"
+         y="174.8452"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan86">2,93 Md€</tspan></text>
+  </g>
+  <g
+     transform="translate(-.73309 -.67179)"
+     fill="#4a4a4a"
+     font-family="'Source Sans Pro'"
+     font-size="14px"
+     letter-spacing="0px"
+     stroke-width=".75"
+     text-anchor="middle"
+     word-spacing="0px"
+     id="g120">
+    <text
+       x="402.41394"
+       y="23.428148"
+       xml:space="preserve"
+       id="text96"><tspan
+         x="402.41394"
+         y="23.428148"
+         text-align="center"
+         id="tspan92">Direct loans / donations</tspan><tspan
+         x="402.41394"
+         y="44.678146"
+         dy="-5.6399999"
+         text-align="center"
+         id="tspan94">ca. € 2,5 Mio</tspan></text>
+    <text
+       x="461.16483"
+       y="282.73056"
+       xml:space="preserve"
+       id="text104"><tspan
+         x="461.16483"
+         y="282.73056"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan98">Own work</tspan><tspan
+         x="461.16483"
+         y="303.98056"
+         text-align="center"
+         id="tspan100">Sponsoring</tspan><tspan
+         x="461.16483"
+         y="325.23056"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan102">ca. € 0,5 Mio</tspan></text>
+    <text
+       x="134.08031"
+       y="287.46585"
+       xml:space="preserve"
+       id="text112"><tspan
+         x="134.08031"
+         y="287.46585"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan106">Bank loan</tspan><tspan
+         x="134.08031"
+         y="308.71585"
+         text-align="center"
+         id="tspan108">supported by KfW</tspan><tspan
+         x="134.08031"
+         y="329.96585"
+         dy="-5.5999999"
+         text-align="center"
+         id="tspan110">ca. € 13,6 Mio</tspan></text>
+    <text
+       x="455.19861"
+       y="149.35255"
+       xml:space="preserve"
+       id="text118"><tspan
+         x="455.19861"
+         y="149.35255"
+         dy="5.5999999"
+         text-align="center"
+         id="tspan114">Grants</tspan><tspan
+         x="455.19861"
+         y="170.60255"
+         text-align="center"
+         id="tspan116">ca. € 2,9 Mio</tspan></text>
+  </g>
 </svg>

@@ -88,7 +88,7 @@ Bank financing | ~ €13,6 million|
 --- | ---:
 KfW (KfW 40+ subsidised loan) and loan from the Umweltbank | ~ €13,6 million
 
-Other | ~ €0.5 million|
+Other | ~ €0,5 million|
 --- | ---:
 Own work and sponsorship| ~ €0,50 million
 
