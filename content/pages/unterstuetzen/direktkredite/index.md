@@ -43,7 +43,7 @@ Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige U
 Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
-Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
+Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie wahlweise einen Vertrag mit unserer Collegium Academicum GmbH oder dem Wohnheim Collegium Academicum e.V. ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
 So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhaltigen Geldanlage.
 {{< /accordion >}}
 
@@ -60,7 +60,7 @@ Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubeha
 {{< /accordion >}}
 
 {{< accordion "Welche gesetzlichen Regelungen gibt es?" >}}
-Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des Vermögensanlagengesetzes. Danach bietet die Träger-GmbH mehrere Vermögensanlagen mit unterschiedlichen Zinssätzen an. Im Rahmen einer einzelnen Vermögensanlage werden innerhalb von 12 Monaten nicht mehr als insgesamt 100.000 Euro bzw. maximal 20 Direktkredite angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz (Bagatellgrenze).
+Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des Vermögensanlagengesetzes. Danach bietet die Träger-GmbH bzw. der Träger-Verein mehrere Vermögensanlagen mit unterschiedlichen Zinssätzen an. Im Rahmen einer einzelnen Vermögensanlage werden innerhalb von 12 Monaten nicht mehr als insgesamt 100.000 Euro bzw. maximal 20 Direktkredite angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz (Bagatellgrenze).
 {{< /accordion >}}
 
 {{< accordion "Wo finde ich weitere Informationen über Direktkredite?" >}}
