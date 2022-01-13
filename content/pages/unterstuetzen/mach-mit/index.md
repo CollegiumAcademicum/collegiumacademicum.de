@@ -4,7 +4,8 @@ title: "Mach Mit"
 
 ### Projekttreffen
 
-Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet <a href="/anfahrt">bei uns auf der Fläche</a> ein Projektplenum statt. Bei diesem werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen, außerdem ist es immer ein schöner Ort zum Socializing. Komm gerne vorbei, wenn du am Projekt interessiert bist oder einsteigen möchtest! Wir freuen uns auf dich!
+Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet im Rabatz, dem Veranstaltungsraum des Wohnprojekts "Hagebutze" in der Rheinstr. 4 das große Projektplenum statt. Bei diesem werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
+
 
 {{< carousel nSlides="6" >}}
 
