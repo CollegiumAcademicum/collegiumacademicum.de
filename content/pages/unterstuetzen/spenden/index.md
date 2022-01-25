@@ -64,7 +64,9 @@ Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Kont
 Ergänzend zu den Geldspenden bieten Sachspenden eine wertvolle Unterstützung für die gemeinschaftliche Nutzung der Räume.
 Sowohl für die aktuelle als auch für die zukünftige Nutzung freuen wir uns auf folgende Gegenstände:
 - Möbelspenden (stapelbare Stühle für die Aula, freistehende Kühl-Gefrier-Kombis, (Kleider-)Schränke/Zimmerregale bis 200cm Höhe, Schreibtischstühle, Betten (120x200 oder 90x200cm), Küchentische und Küchenstühle).
-Bitte KEINE (Bett-)Sofas, Sessel, Kommoden, Schuhschränke etc.!
 - Fahrradbestellanlagen
-- Küchenaustattung im Allgemeinen
+- Kühl-Gefrier-Kombis (freistehend, bis ca. 170 cm Höhe), KEINE Herde/Backöfen
 - Material für die Werkstatt (Akkuschrauber, Schutzkleidung, Leitern, Schubkarren ...)
+
+Bitte KEINE:
+- (Bett-)Sofas, Sessel, Kommoden, Schuhschränke etc.!
