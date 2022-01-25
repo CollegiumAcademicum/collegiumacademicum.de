@@ -32,7 +32,7 @@ Erschließungsarbeiten geht es voran, denn es wird an den Hausanschlüssen für
 Fernwärme und Wasser gearbeitet, sodass möglichst bald warmes Wasser aus den
 Wasserhähnen kommt. Parallel arbeiten wir an Nacharbeiten im Planungsbereich,
 sodass das Gebäude möglichst bald in Betrieb gehen kann. Derzeit sieht es so
-aus, dass wir unser Einzugsziel auf den April oder Mai 2022 verschieben müssen.
+aus, dass wir unser Einzugsziel auf den August 2022 verschieben müssen.
 
 <figure>
 <img alt="Rund um die Baustelle unseres Neubaus geht es mit den Erschließungsarbeiten sichtbar voran." src="/newsletter/frontal_neubau.jpg" width="100%" />

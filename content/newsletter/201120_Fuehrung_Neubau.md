@@ -47,7 +47,7 @@ sicher noch einige auf uns warten. DANKE an dieser Stelle an all diejenigen, die
 uns bisher auf diesem Weg begleitet haben!
 
 Durch die Holzskelettbauweise und das hohe Maß an Vorfertigung der einzelnen
-Elemente wird der Neubau bereits April oder Mai 2022 fertiggestellt. Sehen Sie selbst den
+Elemente wird der Neubau bereits August 2022 fertiggestellt. Sehen Sie selbst den
 aktuellen Stand:
 
 <div style="display:flex; justify-content:center;">

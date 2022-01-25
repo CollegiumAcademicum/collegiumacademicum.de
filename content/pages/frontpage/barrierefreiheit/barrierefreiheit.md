@@ -6,7 +6,7 @@ slug: "barrierefreiheit"
 
 Auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach entsteht ein viergeschossiger Holzneubau, der Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende bietet. Die Zimmer sind in 3er-und 4er WGs gruppiert, und besitzen je ein eigenes Bad und Küche. Bei der Architektur des Gebäudes wurde darauf Wert gelegt, möglichst barrierearm zu bauen.
 
-Aktuell sind Bewerbungen für den Erstbezug ab April oder Mai 2022 möglich. Wir möchten Menschen mit Bedarf an barrierearmem Wohnraum, die eine Ausbildung machen oder studieren, ausdrücklich zu einer Bewerbung ermutigen.
+Aktuell sind Bewerbungen für den Erstbezug ab August 2022 möglich. Wir möchten Menschen mit Bedarf an barrierearmem Wohnraum, die eine Ausbildung machen oder studieren, ausdrücklich zu einer Bewerbung ermutigen.
 
 Mehr Informationen zur Bewerbung gibt es hier: https://collegiumacademicum.de/einziehen
 
