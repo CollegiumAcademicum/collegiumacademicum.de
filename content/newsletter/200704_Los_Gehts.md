@@ -61,7 +61,7 @@ informieren.
 
 Wir suchen Mitbewohner\*innen, Mitgestalter\*innen und Mitdenker\*innen. Ja genau,
 wir suchen Dich! Du bist in einer Ausbildung, studierst oder promovierst und
-hast Lust im August 2022 im neuen Wohnheim einzuziehen? Dann haben wir eine gute
+hast Lust im Ende Juli oder August 2022 im neuen Wohnheim einzuziehen? Dann haben wir eine gute
 Nachricht für Dich: **ab dem 15. Juli 2020** beginnt die erste Bewerbungsphase!
 
 Wir haben viel darüber diskutiert, wie wir die Bewohner\*innen in einem möglichst

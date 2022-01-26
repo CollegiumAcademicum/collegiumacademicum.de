@@ -7,7 +7,7 @@ title: "Mach Mit"
 Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet im Rabatz, dem Veranstaltungsraum des Wohnprojekts "Hagebutze" in der Rheinstr. 4 das große Projektplenum statt. Bei diesem werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 
 
-{{< carousel nSlides="6" >}}
+{{< carousel nSlides="8" >}}
 
 <div x-show="activeSlide === 1">
     <h3>AG Planung Neubau</h3>
@@ -155,6 +155,28 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   <li>Konzeption des Orientierungsjahrs zusammen mit der AG Altbau</li>
   <li>Kontaktaufnahme und Austausch mit anderen, ähnlichen Projekten, um von ihren Erfahrungen zu lernen</li>
   <li>Ansprechen von Betrieben und Institutionen, um Kooperationen zu entwickeln</li>
+  <li>Planung des Besuchs von Bildungsveranstaltungen und Vorträgen</li>
+</ul>
+  
+</div>
+
+
+<div x-show="activeSlide === 8">
+    <h3>AG Gemeinschaft</h3>
+    <div class="grid-col">
+        <!-- Hier kann noch ein Bild hin -->
+        <div class="">
+            <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß zu haben. Für neue Ideen freuen wir uns auf deinen Input!
+            </p>
+        </div>
+    </div>
+ Was tun wir, um das Gruppenleben zu gestalten?<br>
+
+<ul>
+  <li>Auflockerungs- und Aufwärmspiele bei längeren Plenumstreffen</li>
+  <li>Gemeinsames Kochen beim Plenum (sofern es die Coronabedingungen erlauben)</li>
+  <li>Überwachung von Gruppenprozessen, Schaffung neuer Bindungen z. B. bei Einziehenden</li>
+  <li>Entwicklung eines Awarness-Konzepts</li>
 </ul>
   
 </div>

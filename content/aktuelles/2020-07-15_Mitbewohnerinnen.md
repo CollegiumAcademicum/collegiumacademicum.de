@@ -2,7 +2,7 @@
 title: "Mitbewohner*innen gesucht!"
 date: 2020-07-15
 ---
-Nicht mehr lange und es ist soweit: **August 2022** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Leben füllen.
+Nicht mehr lange und es ist soweit: **Ende Juli oder August 2022** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Leben füllen.
 
 Deshalb sind ab sofort Bewerbungen für Plätze im neuen CA möglich!
 
@@ -42,7 +42,7 @@ Auswahltag verschiedene Gruppenaktivitäten und zusätzlich kurze Einzelgespräc
 bei denen wir dich kennenlernen können. Mehr Informationen findest du auf
 unserer Homepage.
 4. **Wann kann ich einziehen und was passiert bis dahin?**  
-Du kannst voraussichtlich August 2022 einziehen. Bis dahin freuen wir uns, wenn du
+Du kannst voraussichtlich Ende Juli oder August 2022 einziehen. Bis dahin freuen wir uns, wenn du
 dich aktiv in das Projekt einbringst. Außerdem hast du Zeit, deine künftigen
 Mitbewohner*innen kennenzulernen und dir zu überlegen, mit wem du in einer WG
 leben möchtest.
