@@ -3,8 +3,32 @@ heading = "AUJOURD'HUI"
 center = true
 
 [[timeline]]
+heading = "Septembre 2021"
+content = "3.000.000€ de crédits directs obtenus, dont 500.000€ pour les <a href='https://collegiumacademicum.de/fr/habiter/'>anciens bâtiments</a>"
+
+[[timeline]]
+heading = "Fin de l'été 2021"
+content = "Trois chantiers participatifs avec des membres du groupe de projet, des futur.e.s résident.e.s et des personnes extérieures"
+
+[[timeline]]
+heading = "Juin 2021"
+content = "<img src='zeitkapsel.jpg' />Pose de la première pierre dans le nouveau bâtiment, au cours de laquelle une capsule temporelle a été enterrée"
+
+[[timeline]]
+heading = "Mars 2021"
+content = "<img src='richtfest.jpg' /><a href='https://www.facebook.com/events/721508651878156/'>Célébration du bouquet final du nouveau bâtiment</a>"
+
+[[timeline]]
+heading = "2021"
+center = true
+
+[[timeline]]
 heading = "Septembre 2020"
 content = "Début de la planification de la rénovation des anciens bâtiments, en coopération avec le <a href='https://gerstner-hofmeister.de/'>bureau d'architecture Gerstner + Hofmeister</a> "
+
+[[timeline]]
+heading = "Septembre 2020"
+content = "<img src='betonnage.jpg' />Bétonnage de la dalle basse"
 
 [[timeline]]
 heading = "Août 2020"
@@ -12,7 +36,7 @@ content = "<img src='workcamp.jpg' />Chantier participatif franco-allemand"
 
 [[timeline]]
 heading = "Juillet 2020"
-content = "Début du financement participatif pour la rénovation des deux bâtiments existants"
+content = "Début du financement participatif pour la rénovation des deux <a href='https://collegiumacademicum.de/fr/habiter/'>bâtiments existants</a>"
 
 [[timeline]]
 heading = "Mai 2020"
@@ -132,11 +156,11 @@ content = "Formulation de nos principes et de nos lignes directrices."
 
 [[timeline]]
 heading = "Juin 2016"
-content = "<a href='https://www.youtube.com/watch?v=C1GqQvavvwE'>Première vidéo</a>"
+content = "<a href='https://www.youtube.com/watch?v=C1GqQvavvwE'>Première film d'entreprise</a>"
 
 [[timeline]]
 heading = "Juni 2016"
-content = "Lettre d'intention adressée à la ville de Heidelberg concernant l'achat du site de l'hôpital américain."
+content = "Lettre d'intention adressée de la ville de Heidelberg concernant l'achat du site de l'hôpital américain."
 
 [[timeline]]
 heading = "Juni 2016"
@@ -204,7 +228,7 @@ content = "<img alt='Bestandsgebäude der Patton Barracks' src='patton.jpg'>Déc
 
 [[timeline]]
 heading = "Avril 2014"
-content = "Admission du CA comme candidat à <a href='http://iba.heidelberg.de/'>l'exposition internationale de la construction de Heidelberg „<i>Wissen schafft Stadt</i>“</a>."
+content = "Admission du CA comme candidat à <a href='http://iba.heidelberg.de/'>l'exposition internationale de la construction de Heidelberg „<i>Wissen schafft Stadt</i>“</a> par le curatorium dans la première manche."
 
 [[timeline]]
 heading = "2014"

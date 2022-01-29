@@ -8,7 +8,7 @@ slug: "neubau"
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in
 Heidelberg-Rohrbach setzt sich aus zwei Bestandsgebäuden und einem innovativen
-Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen im Ende Juli oder August 2022 in den Neubau einziehen.
+Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen Ende Juli oder August 2022 in den Neubau einziehen.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" />}}
@@ -51,7 +51,7 @@ Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen im E
         </figure>
     </div>
     <div class="column">
-      Ein flexibles Zusammenspiel von Individual- und Gemeinschaftsfläche innerhalb der Wohngemeinschaften wird durch bewegliche Wandelemente ermöglicht. Bei Einzug sind alle Zimmer im ausgebauten Zustand 14 Quadratmeter groß. Durch Verkleinerung der Individualfläche ist es möglich, sich als Wohngemeinschaft für eine Gemeinschaftsfläche von bis zu 49 Quadratmetern zu entscheiden. Vielfältige Zwischenformen, wie ein privater Kernbereich mit einem vorgelagertem Wohn- und Arbeitszimmer, das durch Regalwände, Vorhänge oder Ähnliches durchlässig von der Gemeinschaftsfläche abgegrenzt ist, bieten Raum für individuelle Gestaltung.
+      Ein flexibles Zusammenspiel von Individual- und Gemeinschaftsfläche innerhalb der Wohngemeinschaften wird durch bewegliche Wandelemente ermöglicht. In der ca. 80qm großen Wohnung sind bei Einzug alle Zimmer im ausgebauten Zustand 14 Quadratmeter groß. Durch Verkleinerung der Individualfläche ist es möglich, sich als Wohngemeinschaft für eine Gemeinschaftsfläche von bis zu 49 Quadratmetern zu entscheiden. Vielfältige Zwischenformen, wie ein privater Kernbereich mit einem vorgelagertem Wohn- und Arbeitszimmer, das durch Regalwände, Vorhänge oder Ähnliches durchlässig von der Gemeinschaftsfläche abgegrenzt ist, bieten Raum für individuelle Gestaltung.
     </div>
 </div>
 
