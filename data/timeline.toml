@@ -3,6 +3,14 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "Januar 2022"
+content = "Das Fräsen der Zimmermöbel für den Neubau ist abgeschlossen."
+
+[[timeline]]
+heading = "2022"
+center = true
+
+[[timeline]]
 heading = "September 2021"
 content = "3.000.000€ an Direktkrediten eingeworben, davon 500.000€ für die <a href='https://collegiumacademicum.de/altbauten/'>Altbauten</a>"
 
@@ -196,7 +204,7 @@ content = "Beginn mit der Erstellung eines ersten Planungsentwurfs"
 
 [[timeline]]
 heading = "November 2015"
-content = "Der Gemeinderat beschließt, dass das CA im Aufstellungsbeschluss der Patton Barracks berücksichtigt werden sollte"
+content = "Der Gemeinderat beschließt, dass das CA im Aufstellungsbeschluss der alten US-Militärfläche </i>Patton Baracks</i> berücksichtigt werden sollte"
 
 [[timeline]]
 heading = "Oktober 2015"

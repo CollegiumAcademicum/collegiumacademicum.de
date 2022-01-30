@@ -3,6 +3,14 @@ heading = "AUJOURD'HUI"
 center = true
 
 [[timeline]]
+heading = "Janvier 2022"
+content = "Le fraisage des meubles de salle pour le nouveau bâtiment est terminé."
+
+[[timeline]]
+heading = "2022"
+center = true
+
+[[timeline]]
 heading = "Septembre 2021"
 content = "3.000.000€ de crédits directs obtenus, dont 500.000€ pour les <a href='https://collegiumacademicum.de/fr/habiter/'>anciens bâtiments</a>"
 
@@ -179,7 +187,7 @@ heading = "Février 2016"
 content = "Le CA sera construit sur la zone de l'ancien hôpital américain de Rohrbach."
 
 [[timeline]]
-heading = "Januar 2016"
+heading = "Janvier 2016"
 content = "<img src='planung.jpg'>Mise en place d‘ateliers en commun avec le bureau d‘architecte <a href='http://dgj.eu'>Drexler Guinand Jauslin</a> Drexler Guinand Jauslin et avec le soutien de la <a href='http://iba.heidelberg.de/'>IBA Heidelberg</a>."
 
 [[timeline]]
@@ -192,7 +200,7 @@ content = "Début de la phase de conception architecturale."
 
 [[timeline]]
 heading = "Novembre 2015"
-content = "Le conseil municipal de Heidelberg décide que le CA doit être inclut dans le réaménagement urbain de l‘ancien site militaire américain </i>US-Hospital</i>."
+content = "Le conseil municipal de Heidelberg décide que le CA doit être inclut dans le réaménagement urbain de l‘ancien site militaire américain </i>Patton Baracks</i>."
 
 [[timeline]]
 heading = "Octobre 2015"

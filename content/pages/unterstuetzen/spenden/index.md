@@ -7,8 +7,7 @@ Ganz konkret ermöglichen Sie praktische Lernräume, bei denen Studierende selbs
 an der Gestaltung und dem Bau beteiligt sind. Hierzu haben wir mit Unterstützung
 der IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir z. B. die Möbel für das
 Wohnheim selbst bauen. Die Materialien hierfür werden durch Spenden
-mitfinanziert. 2020 fanden mehrere internationale Workcamps mit jungen
-Freiwilligen statt, die der Förderverein finanziell bezuschusst hat. Im Neubau
+mitfinanziert. 2020 und 2021 fanden mehrere internationale <a href="https://collegiumacademicum.de/summerschool/">Workcamps</a> mit jungen Freiwilligen statt, die der Förderverein finanziell bezuschusst hat. Im Neubau
 werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner\*innen
 eigene Projekte realisieren können. Um Ressourcen zu schonen, nehmen wir auch
 gerne Sachspenden an. Aktuell suchen wir insbesondere gut erhaltene Möbelspenden zur Einrichtung der
@@ -63,10 +62,24 @@ Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Kont
 
 Ergänzend zu den Geldspenden bieten Sachspenden eine wertvolle Unterstützung für die gemeinschaftliche Nutzung der Räume.
 Sowohl für die aktuelle als auch für die zukünftige Nutzung freuen wir uns auf folgende Gegenstände:
-- Möbelspenden (stapelbare Stühle für die Aula, freistehende Kühl-Gefrier-Kombis, (Kleider-)Schränke/Zimmerregale bis 200cm Höhe, Schreibtischstühle, Betten (120x200 oder 90x200cm), Küchentische und Küchenstühle).
-- Fahrradbestellanlagen
-- Kühl-Gefrier-Kombis (freistehend, bis ca. 170 cm Höhe), KEINE Herde/Backöfen
-- Material für die Werkstatt (Akkuschrauber, Schutzkleidung, Leitern, Schubkarren ...)
 
-Bitte KEINE:
-- (Bett-)Sofas, Sessel, Kommoden, Schuhschränke etc.!
+Für die Zimmer:
+
+- (Kleider-)Schränke bis 200cm Höhe
+- ggf. Kommoden
+- Schreibtischstühle
+- Betten (120x200 oder 90x200cm)
+
+für die WG-Gemeinschaftsräume:
+
+- Kühl-Gefrier-Kombis (freistehend)
+- Küchentische
+- Küchenstühle (in 4er, 6er, 8er-Sets)
+
+Bitte KEINE Herde/Backöfen, (Bett-)Sofas, Sessel, Schuhschränke etc.!
+
+für die Gemeinschaftsflächen:
+- Fahrradbestellanlagen
+- Material für die Werkstatt (Akkuschrauber, Schutzkleidung, Leitern, Schubkarren ...)
+- Aulastühle (stapelbar)
+- Großküchenmaterial
