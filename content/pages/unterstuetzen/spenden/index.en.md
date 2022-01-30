@@ -2,7 +2,7 @@
 title: "Donations"
 ---
 
-By donating you directly support the new building of the CA as an educational project. You help to create a learning environment where students directly participate in shaping and building it. For example, we have got a CNC milling machine which was bought with support by the IKEA-foundation, and we will build the furniture for the dormitory ourselves. The materials for this are co-financed by donations. In 2020 we plan to carry out several international work camps with young volunteers which will be co-sponsored by our Association. In the new house, the workshop room will be set up permanently, so that future residents can realise their own projects. As we try to save resources, we are also happy to accept in-kind donations.
+By donating you directly support the new building of the CA as an educational project. You help to create a learning environment where students directly participate in shaping and building it. For example, we have got a CNC milling machine which was bought with support by the IKEA-foundation, and we will build the furniture for the dormitory ourselves. The materials for this are co-financed by donations. In 2020 and 2021, carried out several international work camps with young volunteers which will be co-sponsored by our Association. In the new house, the workshop room will be set up permanently, so that future residents can realise their own projects. As we try to save resources, we are also happy to accept in-kind donations.
 
 Currently we are particularly interested in donations of well-preserved furniture in order to furnish the rooms and common areas. If you are interested, please get in touch with us.
 

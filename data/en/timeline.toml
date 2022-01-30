@@ -3,6 +3,14 @@ heading = "TODAY"
 center = true
 
 [[timeline]]
+heading = "January 2022"
+content = "The milling of the room furniture for the new building is completed."
+
+[[timeline]]
+heading = "2022"
+center = true
+
+[[timeline]]
 heading = "September 2021"
 content = "3,000,000€ in direct loans raised, of which 500,000€ for the grand <a href='https://collegiumacademicum.de/en/housing/'>old building</a>"
 
@@ -196,7 +204,7 @@ content = "Start with the preparation of a first planning draft."
 
 [[timeline]]
 heading = "November 2015"
-content = "The municipal council decides that the CA should be considered in the Patton Barracks development decision."
+content = "The municipal council decides that the CA should be considered in the <i>Patton Barracks</i> development decision."
 
 [[timeline]]
 heading = "October 2015"
