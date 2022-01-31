@@ -176,7 +176,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   <li>Auflockerungs- und Aufwärmspiele bei längeren Plenumstreffen</li>
   <li>Gemeinsames Kochen beim Plenum (sofern es die Coronabedingungen erlauben)</li>
   <li>Überwachung von Gruppenprozessen, Schaffung neuer Bindungen z. B. bei Einziehenden</li>
-  <li>Entwicklung eines Awarness-Konzepts</li>
+  <li>Entwicklung eines Awareness-Konzepts</li>
 </ul>
   
 </div>
