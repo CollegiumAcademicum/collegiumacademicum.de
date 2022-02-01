@@ -5,7 +5,7 @@ date: 2020-07-15
 
 Liebe Interessierte,
 
-Nicht mehr lange und es ist soweit: **Ende Juli oder August 2022** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Leben füllen.
+Nicht mehr lange und es ist soweit: wohl im **Juli 2022** werden die ersten Bewohner*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Leben füllen.
 
 Deshalb sind ab sofort Bewerbungen für Plätze im neuen CA möglich! Die Hälfte der Plätze soll bereits bis Ende 2020 vergeben werden.
 
@@ -33,7 +33,7 @@ Du füllst einfach den Bewerbungsbogen von unserer Homepage aus (auf Deutsch ode
 Nach der schriftlichen Bewerbung melden wir uns bei dir, ob wir dich zu einem Auswahltag einladen können. Ein Viertel der Plätze wird dabei durch ein Losverfahren vergeben. Bei dem Auswahltag hast du die Möglichkeit unser Projekt und die vielfältigen Gestaltungsmöglichkeiten kennenzulernen. Dafür gibt es am Auswahltag verschiedene Gruppenaktivitäten und zusätzlich kurze Einzelgespräche, bei denen wir dich kennenlernen können. Mehr Informationen findest du auf unserer Homepage.
 4. **Wann kann ich einziehen und was passiert bis dahin?**
 <br>
-Du kannst voraussichtlich Ende Juli oder August 2022 einziehen. Bis dahin freuen wir uns, wenn du dich aktiv in das Projekt einbringst. Außerdem hast du Zeit, deine künftigen Mitbewohner*innen kennenzulernen und dir zu überlegen, mit wem du in einer WG leben möchtest.
+Du kannst voraussichtlich im Juli 2022 einziehen. Bis dahin freuen wir uns, wenn du dich aktiv in das Projekt einbringst. Außerdem hast du Zeit, deine künftigen Mitbewohner*innen kennenzulernen und dir zu überlegen, mit wem du in einer WG leben möchtest.
 
 Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du diese Mail an Menschen weiterleitest, die ebenfalls Interesse am Einziehen haben könnten.
 
