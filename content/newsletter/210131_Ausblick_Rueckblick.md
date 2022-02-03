@@ -27,7 +27,7 @@ Als besonderes Highlight haben wir außerdem heute ein <a href="https://vimeo.co
 
 ## Ausblick und ein herzliches DANKE!
 
-Inzwischen befinden wir uns auf der Zielgeraden, denn Ende Juli oder August 2022 wird der Neubau voraussichtlich fertiggestellt sein und die ersten Bewohner*innen einziehen. Es wartet viel Arbeit auf uns, aber auch die Gewissheit, dass all die Zeit und Mühe es wert ist. Denn hier entsteht ein ganz besonderer Ort, der diese Stadt und seine Menschen prägen wird.
+Inzwischen befinden wir uns auf der Zielgeraden, denn ca. im Juli 2022 wird der Neubau voraussichtlich fertiggestellt sein und die ersten Bewohner*innen einziehen. Es wartet viel Arbeit auf uns, aber auch die Gewissheit, dass all die Zeit und Mühe es wert ist. Denn hier entsteht ein ganz besonderer Ort, der diese Stadt und seine Menschen prägen wird.
 Vielen Dank an Sie und alle anderen, die uns seit Jahren tatkräftig unterstützen! Nur durch das vielfältige Engagement zahlreicher Menschen wird der Bau unseres Wohnheims ermöglicht. Um den Neubau und die Planungen für die Altbauten weiter voranzutreiben freuen wir uns weiterhin über Direktkredite und Spenden.
 
 ## Führungen
