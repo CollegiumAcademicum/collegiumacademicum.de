@@ -4,8 +4,7 @@ title: "Spenden"
 
 Mit einer Spende unterstützen Sie direkt den Neubau des CA als Bildungsprojekt.
 Ganz konkret ermöglichen Sie praktische Lernräume, bei denen Studierende selbst
-an der Gestaltung und dem Bau beteiligt sind. Hierzu haben wir mit Unterstützung
-der IKEA-Stiftung eine CNC-Fräse angeschafft, mit der wir z. B. die Möbel für das
+an der Gestaltung und dem Bau beteiligt sind. Hierzu haben wir eine CNC-Fräse angeschafft, mit der wir z. B. die Möbel für das
 Wohnheim selbst bauen. Die Materialien hierfür werden durch Spenden
 mitfinanziert. 2020 und 2021 fanden mehrere internationale <a href="https://collegiumacademicum.de/summerschool/">Workcamps</a> mit jungen Freiwilligen statt, die der Förderverein finanziell bezuschusst hat. Im Neubau
 werden wir die Werkstatt dauerhaft einrichten, damit zukünftige Bewohner\*innen
