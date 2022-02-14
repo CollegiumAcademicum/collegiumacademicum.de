@@ -15,7 +15,7 @@ Zu unserem Projekt gehören auch zwei Altbauten: das alte Verwaltungsgebäude de
 
 ## Der große Altbau
 
-In dem alten Verwaltungsgebäude sollen ab Frühjahr 2023 etwa 75 Personen wohnen. Von diesen werden rund 40 bis 45 Personen zwischen Schule und weiterem Lebensweg ein Orientierungsjahr absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
+In dem alten Verwaltungsgebäude sollen ab Sommer 2023 etwa 80 Personen wohnen. Von diesen werden rund 50 Personen zwischen Schule und weiterem Lebensweg ein Orientierungsjahr absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen und die eigene Persönlichkeit weiterzuentwickeln. Das Orientierungsjahr ist ein wichtiger Bestandteil unseres Bildungskonzepts und wird voraussichtlich im Herbst 2023 starten.
 
 Die weiteren Bewohnenden sollen vor allem Studierende, Promovierende und junge Berufstätige sein, um auch in diesem Gebäude eine Kontinuität der Bewohner\*innenschaft zu gewährleisten und die Verbindung zwischen Alt- und Neubau zu fördern.
 
@@ -51,7 +51,7 @@ Da die Altbauten bereits in den 1930er Jahren entstanden sind und zuletzt als Ve
     <div class="column">
       In einem noch größerem Umfang als im <a href="/neubau">Holzneubau</a> möchten wir im Altbau anfallende Arbeiten in Eigenleistung realisieren. Einen Beitrag dazu werden die verschiedenen partizipative Baustellen leisten: mehrere Wochen gemeinschaftlicher Arbeit mit lokalen und internationalen Freiwilligen sowie Wandergesell*innen treiben Rückbauarbeiten sowie auch Teile der eigentlichen Sanierung voran.
       <p> Im August 2020 haben wir großartige Unterstützung durch zwei von uns organisierte deutsch-französische Workcamps erhalten. Aus beiden Ländern kamen ca. 10-15 junge Menschen, um mit uns zu arbeiten und sich auszutauschen. Neben den ersten Rückbauarbeiten im Gebäude wurde im Außenraum gepflastert und mit unserer CNC-Fräse Möbel gebaut. Zudem gab es Workshops (u.a. zu nachhaltigem Bauen), bei denen die Teilnehmenden das CA näher kennenlernen konnten.
-      <p> 2021 finden und fanden ebenfalls wieder Workcamps statt: Vom 08.-14. August, vom 29. August bis 04. September und vom 05.-11. September 2021. Bei diesen werden sowohl im Alt- als auch im Neubau Arbeiten durchgeführt werden. Mehr Infos zu den letzten beiden findest du <a href="/summerschool">hier</a>. Bei Interesse an einer Teilnahme wende dich bitte an <a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a>.
+      <p> 2021 fanden ebenfalls wieder Workcamps statt: Vom 08.-14. August, vom 29. August bis 04. September und vom 05.-11. September 2021. Bei diesen wurden sowohl im Alt- als auch im Neubau Arbeiten durchgeführt. Mehr Infos zu den letzten beiden findest du <a href="/summerschool">hier</a>. Bei Interesse an der Teilnahme an zukünftigen Workcamps wende dich bitte an <a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a>.
     </div>
 </div>
 
