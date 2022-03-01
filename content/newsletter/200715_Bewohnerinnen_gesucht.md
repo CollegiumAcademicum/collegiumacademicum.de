@@ -16,7 +16,7 @@ Deshalb sind ab sofort Bewerbungen für Plätze im neuen CA möglich! Die Hälft
 </figcaption>
 </figure>
 
-Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du 2021 ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
+Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du 2022 ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Oder eventuell bist du begeistert von einem Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
 
 Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild](https://collegiumacademicum.de/leitbild/) und dem [Mietshäusersyndikat](https://www.syndikat.org/de/). Wenn dir gefällt, was du liest, dann freuen wir uns über deine Bewerbung!
 
