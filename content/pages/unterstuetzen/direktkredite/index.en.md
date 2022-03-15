@@ -33,9 +33,9 @@ We have managed to raise **€ 2,300,000 EUR** (September 2020) in direct loans 
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-To finance the old buildings we still need your help and are thankful if you can participate in the collective success of the project. In total, we estimate the need of an additional 1.5 MM€ in direct loans, with **450.000 € until the end of the year**.
+To finance the old buildings we still need your help and are thankful if you can participate in the collective success of the project. In total, we estimate the need of an additional 1.5 M€ in direct loans.
 
-<progress class="progress is-large is-primary" value="180" max="450"></progress>
+<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
 
 That is why we would be very glad about further support! Here you can read why we need direct loans and how they work.
 

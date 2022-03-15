@@ -30,9 +30,9 @@ Nous avons réussi à obtenir les **2 300 000 €** (Septembre 2020) de „créd
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-Vous pouvez **continuer à soutenir le CA** à travers des crédits directs. Pour l'achat et la rénovation des deux bâtiments existants, nous comptons réunir un total d'environ 1,5 million d'euros de crédits directs, dont **450 000 € cette année**. 
+Vous pouvez **continuer à soutenir le CA** à travers des crédits directs. Pour l'achat et la rénovation des deux bâtiments existants, nous comptons réunir un total d'environ 1,5 million d'euros de crédits directs. 
 
-<progress class="progress is-large is-primary" value="180" max="450"></progress>
+<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
 
 Vous trouverez ci-dessous plus d‘informations et de détails sur ce que cela signifie de nous accorder un „crédit direct“.
 

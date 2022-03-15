@@ -3,6 +3,10 @@ heading = "AUJOURD'HUI"
 center = true
 
 [[timeline]]
+heading = "Mars 2022"
+content = "On a obtenu 1.000.000€ de crédits directs pour l'ancien bâtiment."
+
+[[timeline]]
 heading = "Janvier 2022"
 content = "Le fraisage des meubles de salle pour le nouveau bâtiment est terminé."
 
@@ -12,7 +16,7 @@ center = true
 
 [[timeline]]
 heading = "Septembre 2021"
-content = "3.000.000€ de crédits directs obtenus, dont 500.000€ pour les <a href='https://collegiumacademicum.de/fr/habiter/'>anciens bâtiments</a>"
+content = "3.000.000€ de crédits directs obtenus, dont 500.000€ pour <a href='https://collegiumacademicum.de/fr/habiter/'>l'ancien bâtiment</a>"
 
 [[timeline]]
 heading = "Fin de l'été 2021"

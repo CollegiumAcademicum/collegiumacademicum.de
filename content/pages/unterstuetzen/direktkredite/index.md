@@ -38,7 +38,7 @@ Projekts gebracht haben und bringen werden.
 
 Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
 
-<progress class="progress is-large is-primary" value="701" max="1500"></progress>
+<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
 
 Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
