@@ -3,6 +3,10 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "März 2022"
+content = "1.000.000€ Direktkredite für den Altbau eingesammelt."
+
+[[timeline]]
 heading = "Januar 2022"
 content = "Das Fräsen der Zimmermöbel für den Neubau ist abgeschlossen."
 
