@@ -3,7 +3,7 @@ title: "Mit viel Rückenwind ins neue Jahr"
 date: 2022-02-26
 ---
 
-## Neubau: Bauzeitverzögerung
+#### Neubau: Bauzeitverzögerung
 
 Nachdem sich bereits im Herbst 2021 der Beginn der Arbeiten an den
 Treppenhäusern unseres Neubaus leicht verzögerte, weil durch die Werkplanung der
@@ -44,7 +44,7 @@ Zwischenwänden (Holzständerwände) konnten wir bei Probeaufbauten die Prozesse
 optimieren.
 
 
-## Eigenleistung: Silvesterworkcamp 
+#### Eigenleistung: Silvesterworkcamp 
 
 Nach den positiven Erfahrungen im Sommer haben wir um den Jahreswechsel ein
 weiteres Workcamp angeboten. Trotz schwieriger Bedingungen bzgl. des Wetters und
@@ -72,7 +72,7 @@ aber auch spannenden Impulsen zum Thema Zeitwohlstand oder Politik im
 Wohnprojekt, sowie Musik mit der Gruppe „Rhythms of Resistance“. Danke an alle,
 die uns beim Workcamp so tatkräftig unterstützt haben!
 
-## Altbau: Ausführungsplanung und Demontage
+#### Altbau: Ausführungsplanung und Demontage
 
 Der Baubeginn, den wir für Juli geplant haben, rückt näher! Damit intensivieren
 sich die Abstimmungen zwischen den Fachplanern, die Planung geht ins Detail, und
@@ -119,7 +119,7 @@ Pförtnerhaus sind (Büro-)Räume für die CA-Verwaltung, das Orientierungsjahr
 sowie eine Beratungsstelle für das
 [Mietshäusersyndikat](https://www.syndikat.org/) angedacht.
 
-## Erstbelegung: Das CA füllt sich mit Leben 
+#### Erstbelegung: Das CA füllt sich mit Leben 
 
 In den letzten Monaten haben wir weitere sechs Auswahltage veranstaltet, bei
 denen wir insgesamt 59 neue, engagierte Mitbewohner\*innen gefunden haben.
@@ -139,7 +139,7 @@ Insgesamt haben wir bis jetzt 112 Mitbewohner\*innen gefunden. Doch es sind
 immer noch Plätze frei. Wer also Lust hat, einzuziehen und mitzuwirken, kann
 sich jederzeit auf unserer Website bewerben.
 
-## Finanzierung: Ein gelungener Start in das neue Jahr
+#### Finanzierung: Ein gelungener Start in das neue Jahr
 
 Rund um den Jahreswechsel haben wir unser Projekt in den Medien und auch in
 unseren privaten Umfeldern vielen interessierten Menschen vorgestellt. Eines der
@@ -158,7 +158,7 @@ wir per Mail
 ([direktkredit@collegiumacademicum.de](mailto:direktkredit@collegiumacademicum.de))
 und Telefon +49 (0)6221-652236 gerne zur Verfügung.
 
-## Das CA in den Medien
+#### Das CA in den Medien
 
 Am 03.01.2022 berichtete die Sendung „[Terra
 Xpress](https://www.zdf.de/wissen/terra-xpress/ohne-moos-nix-los--stressfaktor-geldanlage-100.html)“,
