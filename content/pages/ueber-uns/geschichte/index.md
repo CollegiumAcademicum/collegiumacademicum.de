@@ -45,7 +45,7 @@ Die <b>studentische Vertretung</b> bestand aus einem zwölfköpfigen Gremium, da
     </div>
 </div>
 
-Die <b>offenen Abende</b> glichen den offiziellen Abendveranstaltungen, jedoch waren sie freiwillig und fanden oft in kleinerem Kreise statt. Hierbei war Eigeninitiative gefragt, da diese Abende komplett von den Kollegiaten selbst bestritten wurden. Im Rahmen des <b>politischen Wochenberichtes</b> trugen Kollegiaten in Diskussionsgruppen einen Überblick über die in der Presse diskutierten Ereignisse der Woche vor. Das Lernziel für diese Gruppen lautete: „Schärfung des Blicks für politische Zusammenhänge, Sachlichkeit und Sicherheit in der Diskussion“. Die <b>Arbeitgemeinschaften</b> beschäftigten sich sowohl mit fachspezifischen Spezialgebieten, als auch fakultätsübergreifenden Themen. Sie wurden von einem älteren Kollegiaten angeleitet.
+Die <b>offenen Abende</b> glichen den offiziellen Abendveranstaltungen, jedoch waren sie freiwillig und fanden oft in kleinerem Kreise statt. Hierbei war Eigeninitiative gefragt, da diese Abende komplett von den Kollegiaten selbst bestritten wurden. Im Rahmen des <b>politischen Wochenberichtes</b> trugen Kollegiaten in Diskussionsgruppen einen Überblick über die in der Presse diskutierten Ereignisse der Woche vor. Das Lernziel für diese Gruppen lautete: „Schärfung des Blicks für politische Zusammenhänge, Sachlichkeit und Sicherheit in der Diskussion“. Die <b>Arbeitsgemeinschaften</b> beschäftigten sich sowohl mit fachspezifischen Spezialgebieten als auch fakultätsübergreifenden Themen. Sie wurden von einem älteren Kollegiaten angeleitet.
 
 <div class="columns">
     <div class="column">
@@ -63,7 +63,7 @@ Die Kooperation zwischen Universität und Bewohner\*innen funktionierte gut, bis
         {{< img src="theater" alt="" attr="Universitätsarchiv Heidelberg" />}}
     </div>
     <div class="column is-flex-middle">
-        Seit 1956 gab es im Rahmen des Collegium Academicum auch eine eigene <b>Theatergruppe</b>. Diese erarbeitete sich bereits in frühen Jahren einen (internationalen) Ruf. es gab nicht nur Auftritte auf der CA-eigenen Bühne („Theater im Gewölbe“), sondern auch auf Gastspielreisen, die die Gruppe bis nach England brachten. „Der Tag“ (Berlin) berichtet hierüber: „Es ist das erste Mal, daß; uns ein studentisches Liebhabertheater etwas gibt, das über die Grenzen des dilettantischen hinausreicht.“
+        Seit 1956 gab es im Rahmen des Collegium Academicum auch eine eigene <b>Theatergruppe</b>. Diese erarbeitete sich bereits in frühen Jahren einen (internationalen) Ruf. Es gab nicht nur Auftritte auf der CA-eigenen Bühne („Theater im Gewölbe“), sondern auch auf Gastspielreisen, die die Gruppe bis nach England brachten. „Der Tag“ (Berlin) berichtet hierüber: „Es ist das erste Mal, daß; uns ein studentisches Liebhabertheater etwas gibt, das über die Grenzen des dilettantischen hinausreicht.“
     </div>
 </div>
 
