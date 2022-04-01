@@ -4,7 +4,7 @@ title: "Mach Mit"
 
 ### Projekttreffen
 
-Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet im Rabatz, dem Veranstaltungsraum des Wohnprojekts "Hagebutze" in der Rheinstr. 4 das große Projektplenum statt. Bei diesem werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
+Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)) das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula oder im Pförtnerhäuschen. Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 
 
 {{< carousel nSlides="8" >}}
@@ -51,7 +51,7 @@ Unsere Aufgaben sind:
   <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
 </ul>
 
-Falls du dir jetzt denks: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
+Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
 
 </div>
 
@@ -107,7 +107,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
 
 Die AG Finanzierung kümmert sich um die Erstellung von Finanzplänen und Kostenberechnungen. Sie hält den Kontakt zur Bank, kümmert sich um Sponsoringpartnerschaften und Konzepte zur Direktkredit- und Spendenwerbung. Sie ist jedoch nicht allein für die Direktkreditwerbung zuständig, diese Aufgabe bewerkstelligt die ganze Projektgruppe gemeinsam.
 
-Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen zuständig, also das strukturierte Ablegen und Einscannen von Rechnungen, der Abstimmung mit unserem Steuerberater und der Vorbereitung für Jahresabschlüsse, die wir machen müssen. Es gibt also viele Dinge zu lernen, die für die Umsetzung von sozial-ökologischen Projekten in unserer heutigen Gesellschaft essenziell sind. So könnte deine Mitarbeit bei uns aussehen:
+Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen zuständig, also das strukturierte Ablegen und Einscannen von Rechnungen, die Abstimmung mit unserem Steuerberater und die Vorbereitung für Jahresabschlüsse, die wir machen müssen. Es gibt also viele Dinge zu lernen, die für die Umsetzung von sozial-ökologischen Projekten in unserer heutigen Gesellschaft essenziell sind. So könnte deine Mitarbeit bei uns aussehen:
 
 <ul>
   <li>Konzepte zur Einwerbung von Direktkrediten und Spenden entwickeln</li>
@@ -129,7 +129,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
         </div>
     </div>
 
-Außerdem betreiben wir einen Linux Server, um unsere Zusammenarbeit zu koordinieren. Auf diesem läuft eine Nextcloud und das Open-Source Chatsystem Mattermost. Der Umgang mit dem Server ermöglicht es, Erfahrungen im administrativen Bereich zu sammeln, z. B. das Konfigurieren von SSH Zugängen, das Kennenlernen von Ubuntu Server, den Umgang mit dem Webserver nginx und vielem mehr. Auch praktische Aufgaben wie das Verlegen von Netzwerkkabelmn und Verdrahten von Netzwerkdosen fallen an.
+Außerdem betreiben wir einen Linux Server, um unsere Zusammenarbeit zu koordinieren. Auf diesem läuft eine Nextcloud und das Open-Source Chatsystem Mattermost. Der Umgang mit dem Server ermöglicht es, Erfahrungen im administrativen Bereich zu sammeln, z. B. das Konfigurieren von SSH Zugängen, das Kennenlernen von Ubuntu Server, den Umgang mit dem Webserver nginx und vielem mehr. Auch praktische Aufgaben wie das Verlegen von Netzwerkkabeln und Verdrahten von Netzwerkdosen fallen an.
 
 Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in die Open-Source Welt einzusteigen. Wir freuen uns, wenn du uns bei unseren Aufgaben unterstützt:
 
