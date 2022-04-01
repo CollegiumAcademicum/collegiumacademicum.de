@@ -62,7 +62,7 @@ Die Kooperation zwischen Universität und Bewohner\*innen funktionierte gut, bis
     <div class="column">
         {{< img src="theater" alt="" attr="Universitätsarchiv Heidelberg" />}}
     </div>
-    <div class="column is-flex-middle">
+    <div class="column">
         Seit 1956 gab es im Rahmen des Collegium Academicum auch eine eigene <b>Theatergruppe</b>. Diese erarbeitete sich bereits in frühen Jahren einen (internationalen) Ruf. Es gab nicht nur Auftritte auf der CA-eigenen Bühne („Theater im Gewölbe“), sondern auch auf Gastspielreisen, die die Gruppe bis nach England brachten. „Der Tag“ (Berlin) berichtet hierüber: „Es ist das erste Mal, daß; uns ein studentisches Liebhabertheater etwas gibt, das über die Grenzen des dilettantischen hinausreicht.“
     </div>
 </div>
