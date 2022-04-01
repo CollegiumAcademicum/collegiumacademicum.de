@@ -46,8 +46,8 @@ Wir alle können bestens nachvollziehen, dass es sehr verwirrend sein kann, nach
 <div class="color-block">Bildung wird nicht nur als Ausbildung, sondern als Bildung von <em>freien, mündigen Bürger*innen</em> verstanden:</div> 
 
 <div class="columns" style="margin-top: 2em;">
-    <div class="column is-flex-middle">
-        Über wissenschaftliche Inhalte hinaus werden daher praktische Fähigkeiten und persönliche Entwicklung gefördert. <em>Projektorientiertes Lernen</em> – das bietet das CA vor allem als großes, selbstverwaltetes Projekt, in das sich jede\*r einbringt und Verantwortung übernimmt. In Werkstätten und Gemeinschaftsräumen können kulturelle und konkret-praktische Initiativen aller Art entstehen. Es soll also auch und gerade um nicht-berufliche Lebensfragen gehen und Möglichkeiten aufgezeigt werden, alternative Lebensentwürfe umzusetzen.
+    <div class="column">
+        Über wissenschaftliche Inhalte hinaus werden daher praktische Fähigkeiten und persönliche Entwicklung gefördert. <em>Projektorientiertes Lernen</em> – das bietet das CA vor allem als großes, selbstverwaltetes Projekt, in das sich jede*r einbringt und Verantwortung übernimmt. In Werkstätten und Gemeinschaftsräumen können kulturelle und konkret-praktische Initiativen aller Art entstehen. Es soll also auch und gerade um nicht-berufliche Lebensfragen gehen und Möglichkeiten aufgezeigt werden, alternative Lebensentwürfe umzusetzen.
     </div>
     <div class="column">
         {{< img src="permakultur" alt="Permakultur-Workshop im Sommer 2021." attr="CA Projektgruppe" />}}
