@@ -25,8 +25,8 @@
 {{ with .Parent }}
 <figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
-        src="{{ $image_small.RelPermalink }}" data-src="{{ $image_medium.RelPermalink }}"
-        srcset="" data-srcset="{{ $srcset }}"
+        src="{{ $image_small.RelPermalink }}"
+        srcset="{{ $srcset }}"
         class="image {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     <figcaption>
         {{ if $desc }}
@@ -37,7 +37,7 @@
         <cite>© {{ $attr }}</cite>
     </figcaption>
 </figure>
-{{ else}}
+{{ else }}
 <figure class="modal-figure" {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
         src="{{ $image_small.RelPermalink }}"
