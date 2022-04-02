@@ -154,6 +154,25 @@
         audio
             margin: 1em 0 1.5em
 
+.dot-list
+    li
+        position: relative
+        &::before
+            content: '…' !important
+            position: absolute
+            font-size: 1.4em !important
+            top: -0.3em !important
+            left: -1.1em !important
+        ul
+        list-style: none
+        li
+            position: relative
+            &::before
+                content: '…' !important
+                position: absolute
+                font-size: 1.8em
+                top: -0.43em
+                left: -0.7em
 //Progress
 .progress-value 
     position: absolute

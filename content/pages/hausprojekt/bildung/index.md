@@ -5,21 +5,32 @@ title: "Bildung"
 __Bildung ist für uns kein Produkt, sondern ein stetig fortlaufender, selbstbestimmter, sich wandelnder und ganzheitlicher Prozess. Aufgrund dieses Bildungsverständnisses möchten wir uns Ziele setzen, an welchen wir uns perspektivisch orientieren, die aber auch fortlaufend hinterfragt und aktualisiert werden sollen.__
 
 ## Wir möchten ...
-
-* __... die Verantwortung für die Umwelt und andere Menschen fördern, indem wir ...__
-   * ... Selbstwirksamkeit und Verantwortungsübernahme ermöglichen.
-   * ... ökologische Nachhaltigkeit vermitteln.
-* __... kritisches Denken fördern, indem wir...__
-   * ... uns themen- und fächerübergreifend fortbilden.
-* __... Persönlichkeitsentfaltung ermöglichen, indem wir ...__
-   * ... Handwerkszeug für reflektierte Lebensentscheidungen vermitteln.
-* __... demokratische Werte leben und Mündigkeit vermitteln, indem wir ...__
-   * ... aktiv die Gesellschaft mitgestalten.
-   * ... durch Interaktionen und Begegnungen lernen.
-   * ... offen, fair und konstruktiv auch mit kontroversen Meinungen umgehen.
-* __... Emanzipation und Gerechtigkeit fördern, indem wir ...__
-   * ... unsere Bildungsangebote offen, gerecht und möglichst barrierefrei für viele Menschen zugänglich zu gestalten.
-   * ... auf Augenhöhe kommunizieren und hierarchiearme Strukturen praktizieren.
+<ul class="dot-list">
+  <li> <b>die Verantwortung für die Umwelt und andere Menschen fördern, indem wir ...</b>
+  <ul class="dot-list">
+    <li> Selbstwirksamkeit und Verantwortungsübernahme ermöglichen.
+    <li> ökologische Nachhaltigkeit vermitteln.
+  </ul>
+  <li> <b>kritisches Denken fördern, indem wir...</b>
+   <ul class="dot-list">
+    <li> uns themen- und fächerübergreifend fortbilden.
+  </ul>
+  <li> <b>Persönlichkeitsentfaltung ermöglichen, indem wir ...</b>
+  <ul class="dot-list">
+    <li> Handwerkszeug für reflektierte Lebensentscheidungen vermitteln.
+  </ul>
+  <li> <b>demokratische Werte leben und Mündigkeit vermitteln, indem wir ...</b>
+  <ul class="dot-list">
+    <li> aktiv die Gesellschaft mitgestalten.
+    <li> durch Interaktionen und Begegnungen lernen.
+    <li> offen, fair und konstruktiv auch mit kontroversen Meinungen umgehen.
+  </ul>
+  <li> <b>Emanzipation und Gerechtigkeit fördern, indem wir ...</b>
+    <ul>
+    <li> unsere Bildungsangebote offen, gerecht und möglichst barrierefrei für viele Menschen zugänglich zu gestalten.
+    <li> auf Augenhöhe kommunizieren und hierarchiearme Strukturen praktizieren.
+  </ul>
+</ul>  
 
 ## Wie wollen wir das erreichen?
 

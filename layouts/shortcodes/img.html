@@ -25,7 +25,7 @@
 {{ with .Parent }}
 <figure {{ with .Get "style" }}style="{{.}}"{{ end }} >
     <img alt="{{ .Get "alt" }}"
-        src="" data-src="{{ $image_medium.RelPermalink }}"
+        src="{{ $image_small.RelPermalink }}" data-src="{{ $image_medium.RelPermalink }}"
         srcset="" data-srcset="{{ $srcset }}"
         class="image {{ if eq $extension "svg" }}is-shadowless{{ end }}"/>
     <figcaption>

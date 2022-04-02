@@ -36,7 +36,7 @@ Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
 <div x-show="activeSlide === 2">
     <h3>AG Altbau</h3>
     <div class="grid-col">
-        {{< img src="ag_altbau" />}}
+        {{< img src="ag_altbau.jpg" />}}
         <div class="">
             <p>Wir koordinieren die Sanierung! Neben dem schmucken Holzbau gehören zwei tolle <a href="/altbauten">Altbauten</a> zum CA, die als Wohn- und Gemeinschaftsraum dienen werden und bei denen für die neue Nutzung Sanierungsbedarf besteht. Im Gegensatz zum Neubau ist hier noch lange nicht alles in trockenen Tüchern, wir sind mitten in der spannenden Planungsphase und du kannst noch voll mit einsteigen und gestalten!</p>
         </div>
