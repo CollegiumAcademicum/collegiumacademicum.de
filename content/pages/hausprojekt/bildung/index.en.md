@@ -4,20 +4,30 @@ title: "Education"
 
 __For us, education is not a product but a continuous, self-determined, changing and holistic process. On the basis of this understanding of education, we would like to set ourselves goals which we strive for, but which should also be continuously questioned and updated.__
 
-## We want to
+## We want to ...
 
-- __... promote taking responsibility for the environment and other people by ...__
-   - ... enabling self-efficacy and taking responsibility.
-   - ... teaching/encouraging ecological sustainability.
-- __... promote/encourage critical thinking by ...__
-   - ... educating ourselves across topics and subjects.
-- __... live democratic values and teach maturity by ...__
-   - ... actively shaping society.
-   - ... learning through interactions and encounters.
-   - ... dealing openly, fairly and constructively even with controversial opinions.
-- __... promote emancipation and justice by ...__
-   - ... making our educational offers open, fair and as accessible as possible for many people.
-   - ... communicating at eye level and practising low-hierarchy structures.
+<ul class="dot-list">
+  <li> <b>promote taking responsibility for the environment and other people by ...</b>
+  <ul class="dot-list">
+    <li> enabling self-efficacy and taking responsibility.
+    <li> teaching/encouraging ecological sustainability.
+  </ul>
+  <li> <b>promote/encourage critical thinking by ...</b>
+   <ul class="dot-list">
+    <li> educating ourselves across topics and subjects.
+  </ul>
+  <li> <b>live democratic values and teach maturity by ...</b>
+  <ul class="dot-list">
+    <li> actively shaping society.
+    <li> learning through interactions and encounters.
+    <li> dealing openly, fairly and constructively even with controversial opinions.
+  </ul>
+  <li> <b>promote emancipation and justice by ...</b>
+    <ul>
+    <li> making our educational offers open, fair and as accessible as possible for many people.
+    <li> communicating at eye level and practising low-hierarchy structures.
+  </ul>
+</ul>  
 
 ## How do we want to achieve this? 
 
