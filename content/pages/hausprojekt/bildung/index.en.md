@@ -51,15 +51,15 @@ A special feature of our educational concept is the orientation year, which is t
 
 We can all understand that it can be very overwhelming to already make a plan for your (professional) life directly after school. The world is more complex and interconnected than ever before, and this does not make the decision for the next educational step any easier. It is precisely here that the CA forms a unique opportunity to connect diverse training and life models in a common creative space, where people with different levels and paths of training with diverse backgrounds have the chance to meet and exchange ideas. In combination with self-management, this forms a foundation for sustainable, opportunity-diverse and self-determined lives. 
 
-<div class="color-block">Education is understood not only as training or university study, but as fostering _free and active citizenship_.</div>
+<div class="color-block">Education is understood not only as training or university study, but as fostering <em>free and active citizenship</em>.</div>
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column is-flex-middle">
-        Practical skills and personal development are therefore promoted beyond academic content. _Project-oriented learning_ - this is what the CA offers above all as a large, self-managed project in which everyone gets involved and takes responsibility. Our workshops and common spaces can be places where new cultural and practical hands-on initiatives arise. It should also and especially be about non-professional life issues and show possibilities for implementing alternative life plans.
+        Practical skills and personal development are therefore promoted beyond academic content. <em>Project-oriented learning</em> - this is what the CA offers above all as a large, self-managed project in which everyone gets involved and takes responsibility. Our workshops and common spaces can be places where new cultural and practical hands-on initiatives arise. It should also and especially be about non-professional life issues and show possibilities for implementing alternative life plans.
     </div>
     <div class="column">
         {{< img src="permakultur" alt="Permakultur-Workshop im Sommer 2021." attr="CA Projektgruppe" />}}
     </div>
 </div>
 
-This innovative concept fits perfectly into the motto “_Wissen schafft Stadt_” (knowledge-based urbanism) of the International Building Exhibition. For its future orientation and pilot character, the concept was selected in 2015 to be an IBA-PROJECT.
+This innovative concept fits perfectly into the motto “_Wissen schafft Stadt_” (knowledge-based urbanism) of the International Building Exhibition. For its future orientation and pilot character, the concept was selected in 2015 to be an IBA-Project.
