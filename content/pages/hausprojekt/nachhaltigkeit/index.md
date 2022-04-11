@@ -38,7 +38,7 @@ Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen
     Unser entstehender Gemeinschaftsgarten ist Teil des Netzwerks "Urbane Gemeinschaftsgärten" der <a href="https://anstiftung.de/">anstiftung</a>.
     </div>
     <div class="column">
-    <a href="">
+    <a href="https://urbane-gaerten.de/">
          <img alt="urbaneGaerten" src="urbane-gaerten-button-V01.png"
          width=50" height="50">
     </a>
