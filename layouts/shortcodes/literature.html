@@ -5,7 +5,8 @@
         <span>
         {{ if isset . "heidi" }}<a href="http://katalog.ub.uni-heidelberg.de/titel/{{ .heidi }}">{{ .title }}</a>
         {{ else if isset . "doi" }}<a href="https://doi.org/{{ .doi }}">{{ .title }}</a>
-        {{ else }}{{ .title }}{{ end }}
+        {{ else if isset . "url" }}<a href="{{ .url }}">{{ .title }}</a>
+		{{ else }}{{ .title }}{{ end }}
         </span>
         <cite>{{ .cite }}</cite>
     </li>
