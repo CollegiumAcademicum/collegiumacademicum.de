@@ -33,6 +33,19 @@ Zudem bieten wir Räume für die Zivilgesellschaft: die Aula und die Multifunkti
 
 Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen heimischer und nutzbarer Baumarten, die Regenwassernutzung zur Bewässerung mittels einer Zisterne, versickerungsoffene Flächen, sowie die Kompostanlage zeichnen die ökologische Freiraumgestaltung aus. Zudem sollen vielfältige Lebensräume für Flora und Fauna geschaffen werden: eine naturnahe Teichanlage, Trockenmauern, Magerwiesen, Nistkästen an den Außenwänden und eine offene Sandfläche für Insekten stellen diverse Lebensräume dar und fördern die Artenvielfalt.
 
+<div class="columns">
+    <div class="column">
+<br>
+    Unser entstehender Gemeinschaftsgarten ist Teil des Netzwerks "Urbane Gemeinschaftsgärten" der <a href="https://anstiftung.de/">anstiftung</a>.
+    </div>
+    <div class="column">
+    <a href="https://urbane-gaerten.de/">
+         <img alt="urbaneGaerten" src="urbane-gaerten-button-V01.png"
+         width=70" height="70">
+    </a>
+    </div>
+</div>
+
 <br>
 {{< img src="banner_ca" alt="Eine andere Perspektive auf das CA" attr="Margarete Over 2019" />}}
 </br>
