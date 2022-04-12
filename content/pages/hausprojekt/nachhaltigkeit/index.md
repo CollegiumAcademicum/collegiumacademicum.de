@@ -35,12 +35,13 @@ Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen
 
 <div class="columns">
     <div class="column">
+<br>
     Unser entstehender Gemeinschaftsgarten ist Teil des Netzwerks "Urbane Gemeinschaftsgärten" der <a href="https://anstiftung.de/">anstiftung</a>.
     </div>
     <div class="column">
     <a href="https://urbane-gaerten.de/">
          <img alt="urbaneGaerten" src="urbane-gaerten-button-V01.png"
-         width=50" height="50">
+         width=70" height="70">
     </a>
     </div>
 </div>
