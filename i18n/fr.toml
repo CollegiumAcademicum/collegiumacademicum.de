@@ -59,7 +59,7 @@ other = "Faire un don"
 other = "Excursions"
 
 [exkursionen-message]
-other = "Nos excursions se dérouleront sur place. Nous vous prions de vous inscrire à l'excursion en envoyant un e-mail à l'adresse suivante. L'excursion prendra place sous les règles 2G+ (vacciné ou guèri et testé)"
+other = "Nos excursions se dérouleront sur place. Nous vous prions de vous inscrire à l'excursion en envoyant un e-mail à l'adresse suivante. L'excursion prendra place sous les règles 2G+ (vacciné ou guèri ou testé)"
 
 [anfahrt]
 other = "Carte"
