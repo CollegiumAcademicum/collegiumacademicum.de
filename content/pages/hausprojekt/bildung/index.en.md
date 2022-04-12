@@ -54,7 +54,7 @@ We can all understand that it can be very overwhelming to already make a plan fo
 <div class="color-block">Education is understood not only as training or university study, but as fostering <em>free and active citizenship</em>.</div>
 
 <div class="columns" style="margin-top: 2em;">
-    <div class="column is-flex-middle">
+    <div class="column">
         Practical skills and personal development are therefore promoted beyond academic content. <em>Project-oriented learning</em> - this is what the CA offers above all as a large, self-managed project in which everyone gets involved and takes responsibility. Our workshops and common spaces can be places where new cultural and practical hands-on initiatives arise. It should also and especially be about non-professional life issues and show possibilities for implementing alternative life plans.
     </div>
     <div class="column">
