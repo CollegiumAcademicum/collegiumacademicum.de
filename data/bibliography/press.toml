@@ -47,7 +47,7 @@ link = "https://www.instagram.com/p/CVGGtRvvjAu/"
 title = "Beitrag zu _Unsere Wahl"
 source = "VOX Nachrichten"
 date = "23.09.2021"
-link = "/media/2021_vox_news.webm"
+video = "2021_vox_news"
 
 [[press]]
 title = "Variowohnungen: Bezahlbar – Anpassbar – Nachhaltig"
@@ -71,7 +71,8 @@ link = "https://www.badisches-tagblatt.de/Nachrichten/Bezahlbaren-und-nachhaltig
 title = "plan b: Vier Wände für alle!"
 source = "plan b, ZDF"
 date = "07.08.2021"
-link = "/media/2021_planb.mp4"
+link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
+video = "2021_planb"
 
 [[press]]
 title = "Holzverbindungen und Knotenpunkte: Wohnheim mit weltweit einzigartigem Holztragwerk"
@@ -234,7 +235,8 @@ link = "https://www.zueblin-timber.com/en/news/zueblin-timber-building-collegium
 title = "Heidelberg – Hochkultur und Subkultur"
 source = "Arte"
 date = "27.02.2020"
-link = "/media/2020_arte_subkultur.mp4"
+link = "https://www.arte.tv/de/videos/095957-000-A/heidelberg-hochkultur-und-subkultur/"
+video = "2020_arte_subkultur"
 
 [[press]]
 title = 'Studierende bauen Möbel'
@@ -388,13 +390,13 @@ link = "https://www.detail.de/artikel/mono-material-konstruktion-aus-holz-33250/
 title = "Wohnungsnot: Studenten bauen Wohnheim (gecached)"
 source = "MOMA, das Erste am Morgen"
 date = "31.10.2018"
-link = "/media/2018_moma.webm"
+video = "2018_moma"
 
 [[press]]
 title = "Studenten gründen ihr eigenes Wohnheim (gecached)"
 source = "ARD-Aktuell"
 date = "31.10.2018"
-link = "/media/2018_ard_aktuell.webm"
+video = "2018_ard_aktuell"
 
 [[press]]
 title = "Studierende in Heidelberg bauen ihr eigenes Wohnheim"
