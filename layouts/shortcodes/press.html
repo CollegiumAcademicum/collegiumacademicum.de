@@ -12,6 +12,11 @@
             <source src="/audio/{{ .audio }}">
             Your browser does not support the audio element
         </audio>
+		{{ else if isset . "video" }}
+		<video controls poster="/media/{{ .video }}.jpg" src="/media/{{ .video }}.webm">
+			<source src="/media/{{ .video }}.webm" type="video/webm">
+			<source src="/media/{{ .video }}.mp4" type="video/mp4">
+		</video>
         {{ end }}
     </li>
 {{ end }}
