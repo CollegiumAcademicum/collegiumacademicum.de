@@ -9,12 +9,14 @@ title = "Studenten bauen sich ein eigenes Wohnheim"
 source = "Kaffee oder Tee, SWR"
 date = "17.01.2022"
 link = "https://www.ardmediathek.de/video/kaffee-oder-tee/studenten-bauen-sich-ein-eigenes-wohnheim/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzE1OTg1MzQ/"
+embed_link = "https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzE1OTg1MzQ"
 
 [[press]]
 title = "Ohne Moos nix los - Stressfaktor Geldanlage (ab Minute 10:00)"
 source = "TerraXpress"
 date = "03.01.2022"
 link = "https://www.zdf.de/wissen/terra-xpress/ohne-moos-nix-los--stressfaktor-geldanlage-100.html"
+embed_link = "https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fterra-xpress%2Fohne-moos-nix-los--stressfaktor-geldanlage-100"
 
 [[press]]
 title = "Selbstgebaut und selbstverwaltet"
@@ -35,6 +37,7 @@ title = "Wohnkonzepte der Zukunft: effizient wohnen trotz Platzmangel"
 source = "Galileo, ProSieben"
 date = "11.11.2021"
 link = "https://www.youtube.com/watch?v=wvc_hJ3Owsk"
+embed_link = "https://www.youtube.com/embed/wvc_hJ3Owsk"
 
 
 [[press]]
@@ -146,6 +149,7 @@ title = 'Studentische Wohnungsnot – Zimmer dringend gesucht'
 source = 'SWR2 Wissen'
 date = '12.12.2020'
 link = "https://www.swr.de/swr2/wissen/studentische-wohnungsnot-zimmer-dringend-gesucht-swr2-wissen-2020-12-12-100.html"
+audio = "swr2wissen-20201212-studentische-wohnungsnot-zimmer-dringend-gesucht.m.mp3"
 
 [[press]]
 title = 'Štvaly je drahé nájmy, tak mladí Němci staví vlastní koleje. Podle představ studentů'
