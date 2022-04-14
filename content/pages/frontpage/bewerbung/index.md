@@ -2,7 +2,12 @@
 title: "Bewerbung"
 novoigl: yes
 ---
+Leider hatten wir eine Sicherheitslücke in unserem Bewerbungsformular. Wir
+arbeiten daran sie zu beheben. Das Formular wird bald wieder online sein.
 
+Vielen Dank für euer Verständnis. 
+
+<!--
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, ins CA einzuziehen!</p>
 
@@ -173,3 +178,4 @@ novoigl: yes
 </div>
 
 </form>
+-->
