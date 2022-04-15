@@ -9,7 +9,9 @@ require '../../php_libs/PHPMailer/src/SMTP.php';
 
 require_once '../../php_libs/formr/class.formr.php';
 
-$fields = ['full_name', 'email', 'age', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender', 'barrier_free', 'children', 'contacts'];
+$fields = ['full_name', 'email', 'age', 'leitbild', 'selbstverwaltung',
+'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender',
+'barrier_free', 'children', 'contacts', 'spam_protection'];
 $i18n = [
     "de" => [
         "full_name" => "Name",
@@ -105,30 +107,35 @@ if($form->submit()){
     if (!in_array($lang, ['de', 'en'])) {
         header('Location:./');
     }
-
-    $data = ["email" => $form->post('email','Email','valid_email')];
-    foreach ($fields as $field) {
-        $_dat = $form->post($field);
-        // just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
-        if (mb_strlen($_dat, 'utf8') > 2500) {
-            $_dat = mb_substr($_dat, 0, 2500, 'utf8');
-        }
+    // spam protection
+    $spam_protection = $form->post("spam_protection");
+    if ($spam_protection == 8) {
+        $data = ["email" => $form->post('email','Email','valid_email')];
+    	foreach ($fields as $field) {
+        	$_dat = $form->post($field);
+        	// just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
+        	if (mb_strlen($_dat, 'utf8') > 2500) {
+            	   $_dat = mb_substr($_dat, 0, 2500, 'utf8');
+        	}	   
         $data[$field] = $_dat;
+    	}
+
+    	$applicant = array($data["email"], $data['full_name']);
+
+    	// The id of the auswahl team this email goes to
+    	$rid = rand(1,$number_of_inboxes);
+    	$contact = array("bewerbung{$rid}@collegiumacademicum.de", "Collegium Academicum");
+
+    	// Send the mail to the applicant as a confirmation
+    	send_mail($contact, $applicant, $data, $lang, True);
+
+    	// Send the mail to us @ posteo
+    	send_mail($applicant, $contact, $data, $lang, False);
+
+    	header("Location:/{$i18n[$lang]["application-sent"]}");
+    } else {
+       header('Location:./');
     }
-
-    $applicant = array($data["email"], $data['full_name']);
-
-    // The id of the auswahl team this email goes to
-    $rid = rand(1,$number_of_inboxes);
-    $contact = array("bewerbung{$rid}@collegiumacademicum.de", "Collegium Academicum");
-
-    // Send the mail to the applicant as a confirmation
-    send_mail($contact, $applicant, $data, $lang, True);
-
-    // Send the mail to us @ posteo
-    send_mail($applicant, $contact, $data, $lang, False);
-
-    header("Location:/{$i18n[$lang]["application-sent"]}");
 } else {
     header("Location:./");
 }

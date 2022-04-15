@@ -143,6 +143,14 @@ novoigl: yes
     <p class="help">That could be somebody applying concurrently or already living in the house.</p>
 </div>
 
+<div class="field">
+    <label class="label" for="spam_protection">We would like to make sure that
+    your aren't a computer: How much is 5 + 3? </label>
+    <div class="spam_protection">
+        <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
+    </div>
+</div>
+
 <hr>
 
 <p>After submitting, you will receive a confirmation mail to your given address.</p>
