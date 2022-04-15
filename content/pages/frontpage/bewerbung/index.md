@@ -2,12 +2,6 @@
 title: "Bewerbung"
 novoigl: yes
 ---
-Leider hatten wir eine Sicherheitslücke in unserem Bewerbungsformular. Wir
-arbeiten daran sie zu beheben. Das Formular wird bald wieder online sein.
-
-Vielen Dank für euer Verständnis. 
-
-<!--
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, ins CA einzuziehen!</p>
 
@@ -154,6 +148,15 @@ Vielen Dank für euer Verständnis.
     <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie du bewerben.</p>
 </div>
 
+<div class="field">
+    <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
+    Computer bist, bitten wir dich folgende Frage zu beantworten: Wieviel ist
+    5 + 3? </label>
+    <div class="spam_protection">
+        <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
+    </div>
+</div>
+
 <hr>
 
 <p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
@@ -178,4 +181,4 @@ Vielen Dank für euer Verständnis.
 </div>
 
 </form>
--->
+
