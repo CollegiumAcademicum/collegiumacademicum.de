@@ -9,9 +9,11 @@ require '../../php_libs/PHPMailer/src/SMTP.php';
 
 require_once '../../php_libs/formr/class.formr.php';
 
-$fields = ['full_name', 'email', 'age', 'leitbild', 'selbstverwaltung',
+// NOTE:The field mail is a fake field for spam protection
+$fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender',
 'barrier_free', 'children', 'contacts', 'spam_protection'];
+
 $i18n = [
     "de" => [
         "full_name" => "Name",
@@ -29,6 +31,7 @@ $i18n = [
         "contacts" => "MitbewohnerInnen-Wunsch",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
+	"spam-protection" => "spamschutz",
         "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass Du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese Nachricht antworten und sie wird die Person erreichen die Deine Bewerbung bearbeitet. Bitte sieh innerhalb der nächsten zwei Wochen davon ab, uns Rückfragen zum Stand deiner Bewerbung zu schicken, weil wir die Zeit brauchen, um die Bewerbungen zu sichten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
@@ -51,6 +54,7 @@ $i18n = [
         "contacts" => "Roommate wish",
         "application" => "Application",
         "application-sent" => "en/application-sent",
+	"spam-protection" => "en/spam-protection",
         "mail-message" => "Thank you for your application to the Collegium Academicum!\nWe are happy that you are interested in moving in with us. With this message we are confirming, that we received your application. We will come back to you in the following two weeks. If you have any questions in the meantime, you can reply to this e-mail and you will reach the person that is responsible for yor application. Please avoid inquiring about the state of your application for the first two weeks, as we need some time to review the applications.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
@@ -109,7 +113,8 @@ if($form->submit()){
     }
     // spam protection
     $spam_protection = $form->post("spam_protection");
-    if ($spam_protection == 8) {
+    $fake_mail_field = $form->post("mail");
+    if ($spam_protection == 8 and $fake_mail_field == "") {
         $data = ["email" => $form->post('email','Email','valid_email')];
     	foreach ($fields as $field) {
         	$_dat = $form->post($field);
@@ -134,7 +139,7 @@ if($form->submit()){
 
     	header("Location:/{$i18n[$lang]["application-sent"]}");
     } else {
-       header('Location:./');
+       header("Location:/{$i18n[$lang]["spam-protection"]}");
     }
 } else {
     header("Location:./");

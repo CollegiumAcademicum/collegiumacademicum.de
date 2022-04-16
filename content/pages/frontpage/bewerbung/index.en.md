@@ -28,6 +28,15 @@ novoigl: yes
     </div>
 </div>
 
+<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
+<div class="field extra-field">
+    <label class="label" for="mail">Please do not enter your email address here.</label>
+    <div class="control has-icons-left">
+        <input type="email" name="mail" value="" class="input email"
+            id="mail" size="55"/>
+    </div>
+</div>
+
 <div class="field">
     <label class="label" for="age">Birthday *</label>
     <div class="control">
@@ -175,3 +184,4 @@ novoigl: yes
 </div>
 
 </form>
+
