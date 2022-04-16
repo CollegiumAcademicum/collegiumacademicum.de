@@ -27,6 +27,15 @@ novoigl: yes
         </span>
     </div>
 </div>
+<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
+<div class="field extra-field">
+    <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
+    abgefragt, trage bitte hier nichts ein.</label>
+    <div class="control has-icons-left">
+        <input type="email" name="mail" value="" class="input email"
+            id="mail" size="55"/>
+    </div>
+</div>
 
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
