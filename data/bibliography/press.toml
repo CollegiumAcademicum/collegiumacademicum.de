@@ -1,14 +1,22 @@
 [[press]]
+title = "Immer Ärger mit den Denkmälern"
+source = "Helden der Baustelle, DMAX"
+date = "06.04.2022"
+link = "https://dmax.de/sendungen/helden-der-baustelle/immer-arger-mit-den-denkmalern/"
+
+[[press]]
 title = "Studenten bauen sich ein eigenes Wohnheim"
 source = "Kaffee oder Tee, SWR"
 date = "17.01.2022"
 link = "https://www.ardmediathek.de/video/kaffee-oder-tee/studenten-bauen-sich-ein-eigenes-wohnheim/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzE1OTg1MzQ/"
+embed_link = "https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzE1OTg1MzQ"
 
 [[press]]
 title = "Ohne Moos nix los - Stressfaktor Geldanlage (ab Minute 10:00)"
 source = "TerraXpress"
 date = "03.01.2022"
 link = "https://www.zdf.de/wissen/terra-xpress/ohne-moos-nix-los--stressfaktor-geldanlage-100.html"
+embed_link = "https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fterra-xpress%2Fohne-moos-nix-los--stressfaktor-geldanlage-100"
 
 [[press]]
 title = "Selbstgebaut und selbstverwaltet"
@@ -29,6 +37,7 @@ title = "Wohnkonzepte der Zukunft: effizient wohnen trotz Platzmangel"
 source = "Galileo, ProSieben"
 date = "11.11.2021"
 link = "https://www.youtube.com/watch?v=wvc_hJ3Owsk"
+embed_link = "https://www.youtube.com/embed/wvc_hJ3Owsk"
 
 
 [[press]]
@@ -47,7 +56,7 @@ link = "https://www.instagram.com/p/CVGGtRvvjAu/"
 title = "Beitrag zu _Unsere Wahl"
 source = "VOX Nachrichten"
 date = "23.09.2021"
-link = "/media/2021_vox_news.webm"
+video = "2021_vox_news"
 
 [[press]]
 title = "Variowohnungen: Bezahlbar – Anpassbar – Nachhaltig"
@@ -71,7 +80,8 @@ link = "https://www.badisches-tagblatt.de/Nachrichten/Bezahlbaren-und-nachhaltig
 title = "plan b: Vier Wände für alle!"
 source = "plan b, ZDF"
 date = "07.08.2021"
-link = "/media/2021_planb.mp4"
+link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
+video = "2021_planb"
 
 [[press]]
 title = "Holzverbindungen und Knotenpunkte: Wohnheim mit weltweit einzigartigem Holztragwerk"
@@ -139,6 +149,7 @@ title = 'Studentische Wohnungsnot – Zimmer dringend gesucht'
 source = 'SWR2 Wissen'
 date = '12.12.2020'
 link = "https://www.swr.de/swr2/wissen/studentische-wohnungsnot-zimmer-dringend-gesucht-swr2-wissen-2020-12-12-100.html"
+audio = "swr2wissen-20201212-studentische-wohnungsnot-zimmer-dringend-gesucht.m.mp3"
 
 [[press]]
 title = 'Štvaly je drahé nájmy, tak mladí Němci staví vlastní koleje. Podle představ studentů'
@@ -234,7 +245,8 @@ link = "https://www.zueblin-timber.com/en/news/zueblin-timber-building-collegium
 title = "Heidelberg – Hochkultur und Subkultur"
 source = "Arte"
 date = "27.02.2020"
-link = "/media/2020_arte_subkultur.mp4"
+link = "https://www.arte.tv/de/videos/095957-000-A/heidelberg-hochkultur-und-subkultur/"
+video = "2020_arte_subkultur"
 
 [[press]]
 title = 'Studierende bauen Möbel'
@@ -388,13 +400,13 @@ link = "https://www.detail.de/artikel/mono-material-konstruktion-aus-holz-33250/
 title = "Wohnungsnot: Studenten bauen Wohnheim (gecached)"
 source = "MOMA, das Erste am Morgen"
 date = "31.10.2018"
-link = "/media/2018_moma.webm"
+video = "2018_moma"
 
 [[press]]
 title = "Studenten gründen ihr eigenes Wohnheim (gecached)"
 source = "ARD-Aktuell"
 date = "31.10.2018"
-link = "/media/2018_ard_aktuell.webm"
+video = "2018_ard_aktuell"
 
 [[press]]
 title = "Studierende in Heidelberg bauen ihr eigenes Wohnheim"
