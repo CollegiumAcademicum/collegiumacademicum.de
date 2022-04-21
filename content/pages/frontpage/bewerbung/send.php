@@ -9,6 +9,9 @@ require '../../php_libs/PHPMailer/src/SMTP.php';
 
 require_once '../../php_libs/formr/class.formr.php';
 
+require '../../php_libs/IPLogger/ip-logging.php';
+$log_file = 'spam-protection.log';
+
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
 'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender',
@@ -105,16 +108,34 @@ function send_mail($from, $to, $data, $lang, $with_message) {
     }
 }
 
+// check in the ip logs for computer who try to sent more than three times
+function check_for_spam($logs, $ip_address) {
+    $hashed_ip = hash('sha256', $ip_address);
+    foreach ($logs as $log) {
+        if($log['ip'] == $hashed_ip and $log['tries'] > 3) {
+            return true;
+        }
+    }
+    return false;
+}
+    
 
 if($form->submit()){
     $lang = $form->post("language");
     if (!in_array($lang, ['de', 'en'])) {
         header('Location:./');
     }
+    // log ip address
+    $ip_address = get_ip_addr();
+    $logs = read_logs($log_file);
+    $logs = update_logs($logs, $ip_address);
+    write_logs($logs, $log_file);
+
     // spam protection
+    $spam = check_for_spam($logs, $ip_address);
     $spam_protection = $form->post("spam_protection");
     $fake_mail_field = $form->post("mail");
-    if ($spam_protection == 8 and $fake_mail_field == "") {
+    if ($spam_protection == 8 and $fake_mail_field == "" and ! $spam ) {
         $data = ["email" => $form->post('email','Email','valid_email')];
     	foreach ($fields as $field) {
         	$_dat = $form->post($field);
