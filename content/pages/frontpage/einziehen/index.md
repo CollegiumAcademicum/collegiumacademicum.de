@@ -7,13 +7,13 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Nicht mehr lange und es ist soweit: wohl im **Juli 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen für die 176 Plätze!
+Nicht mehr lange und es ist so weit: wohl im **Juli 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, so schnell wie möglich tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für Plätze im neuen CA läuft! Wir haben noch Plätze frei und suchen noch neue Mitbewohner*innen für die 176 Plätze!
 
-Hier der Stand an ausgewählten Mitbewohner*innen vom 01.04.2022 - bewirb dich jetzt bei uns!
+Hier der Stand an ausgewählten Mitbewohner*innen vom 24.04.2022 - bewirb dich jetzt bei uns!
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="120" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 120;">vergeben</p>
-  <p class="progress-value " style="--progressing: 256;">frei</p>
+  <progress class="progress is-large is-primary" value="125" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 130;">vergeben</p>
+  <p class="progress-value " style="--progressing: 286;">frei</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
