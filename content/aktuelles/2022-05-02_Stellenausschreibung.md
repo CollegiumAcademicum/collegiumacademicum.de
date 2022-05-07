@@ -1,6 +1,6 @@
 ---
 title: "Job zu vergeben"
-date: 2022-04-29
+date: 2022-05-02
 ---
 
 **Wir suchen ab Juni eine Person für Projektmanagement und -umsetzung mit Schwerpunkt Suffizienzpraktiken**

@@ -3,9 +3,7 @@ title: "Auf der Zielgeraden"
 date: 2022-05-01
 ---
 
-Liebe Unterstützer\*innen,
-
-der Frühling ist angekommen und zeigt sich in seinen schönsten Farben. Die
+Der Frühling ist angekommen und zeigt sich in seinen schönsten Farben. Die
 Blumen sprießen, die Bäume werden grün – aber auch unser Projekt wächst immer
 weiter: Die ersten Einzugsveranstaltungen stehen vor der Tür, der Neubau nähert
 sich seinem Abschluss und das Orientierungsjahr nimmt Gestalt an. Deshalb gibt
@@ -18,7 +16,7 @@ es auch jetzt wieder einiges zu berichten:
 -  Finanzierung: Ein solides Fundament 
 -  Termine
 
-## Neubau: Außenarbeiten am Laubengang
+#### Neubau: Außenarbeiten am Laubengang
 
 Es bewegt sich was auf der Baustelle – die Erschließung geht voran. Der
 Laubengang, der unser Fluchtweg sein wird, ist aus nicht brennbaren
@@ -34,7 +32,9 @@ können fortan über den Laubengang mehr Geschosse erreicht werden.
 </figcaption>
 </figure>
 
-## Altbauten: Erste Treffen im Pförtnerhäuschen
+<br>
+
+#### Altbauten: Erste Treffen im Pförtnerhäuschen
 
 In eigener Arbeit haben wir das Pförtnerhäuschen aufgeräumt und hergerichtet,
 sodass die ersten dort abgehaltenen AG-Treffen nicht lange auf sich warten
@@ -43,7 +43,7 @@ das später zum selbstverwalteten Ladencafé werden soll. Es wird als kulturelle
 Treffpunkt und Veranstaltungsort sowohl für Bewohner\*innen als auch für die
 umliegende Bevölkerung, externe Initiativen und Gruppen dienen. 
 
-## Eigenleistung: Mit Tatkraft Richtung Baufertigstellung
+#### Eigenleistung: Mit Tatkraft Richtung Baufertigstellung
 
 Auf unseren beiden Baustellen gibt es noch viele größere und kleinere Aufgaben,
 die wir erledigen wollen. Deshalb hat sich im Laufe des Frühjahrs eine
@@ -77,7 +77,9 @@ Begegnung mit dem Vorschlaghammer hatten.
 </figcaption>
 </figure>
 
-## Bildung: Die Planungen zum Orientierungsjahr gehen voran: Zeitstrukturen, Format und Vernetzung
+<br>
+
+#### Bildung: Die Planungen zum Orientierungsjahr gehen voran: Zeitstrukturen, Format und Vernetzung
 
 Die AG-Bildung beschäftigt sich derzeit inhaltlich in erster Linie mit der
 Konzeption des Orientierungsjahrs. Dazu vernetzen wir uns mit verschiedenen
@@ -102,7 +104,7 @@ Planung unseres Orientierungsjahres. So haben wir bereits die Jahres- als auch
 die Wochenstruktur, inklusive der geplanten Formate, Lernziele und Methoden
 festgelegt.
 
-## Gemeinschaftsbildung, Selbstverwaltung und Wissensvermittlung: Wir starten mit den Workshopreihen zum Einzug
+#### Gemeinschaftsbildung, Selbstverwaltung und Wissensvermittlung: Wir starten mit den Workshopreihen zum Einzug
 
 Das Zusammenleben in einer so großen Gemeinschaft wie unserem Wohnheim sehen wir
 als Lernprozess, der Zeit und auch aktive Anstrengungen braucht. Deshalb wollen
@@ -124,7 +126,7 @@ einen Tagesworkshop zur praktischen Demokratiebildung geben. Für den Workshop
 werden wir finanziell von der Rosa-Luxemburg-Stiftung Baden-Württemberg
 unterstützt.
 
-## Finanzierung: Ein solides Fundament
+#### Finanzierung: Ein solides Fundament
 
 Wir freuen uns über die Umweltbank als verlässliche Partnerin, mit der wir
 erfolgreich einen neuen Kreditvertrag zur Finanzierung des Altbaus abgeschlossen
@@ -140,13 +142,7 @@ Informationen zu Direktkrediten erhalten Sie auch auf unserer Homepage. Für
 Rückfragen stehen wir per Mail (direktkredit@collegiumacademicum.de) und Telefon
 +49 (0)6221-652236 gerne zur Verfügung.
 
-## Termine
-
-Darüber hinaus möchten wir Sie zu unserer nächsten – und bis zur Fertigstellung
-des Wohnheims letzten - **öffentlichen Führung über unsere Baustelle** einladen,
-die am Sonntag, den **01.05.2022 um 13:00 Uhr** stattfindet. Wir bitten um eine
-Voranmeldung per E-Mail an exkursion@collegiumacademicum.de, damit wir
-kurzfristige Änderungen mitteilen können.
+#### Termine
 
 Am **29.04.** wird die **Abschlusspräsentation der Internationalen
 Bauausstellung (IBA) Heidelberg** eröffnet und bietet 10 Wochen lang ein
@@ -164,8 +160,3 @@ erprobt, wird sich der Vortrag von Angelika Zahrnt und die anschließende
 Gesprächsrunde der Frage widmen, wie Suffizienzpraktiken in die Gesellschaft
 diffundieren und zum Mainstream werden können. Anmeldung bitte bis 08.05. an
 maria.stetter@ifeu.de
-
-Herzliche Grüße,  
-Ihre Projektgruppe des CA
-
-P.S.: Weitere Einblicke in unsere Arbeit finden Sie auch auf [Facebook](https://www.facebook.com/CollegiumAcademicum/) und [Instagram](https://www.instagram.com/collegiumacademicum/).
