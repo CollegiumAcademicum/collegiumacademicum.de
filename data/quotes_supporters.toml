@@ -80,7 +80,7 @@ quote = "Ich unterstütze die Initiative, weil ich ein selbstverwaltetes Wohnhei
 img = "hentze.jpg"
 attr = "Prof. Dr. Matthias Hentze, Direktor <a href='https://www.embl.de/'>EMBL</a>, Molekulare Medizin Universität Heidelberg"
 attr_short = "Matthias Hentze"
-quote = "Als Student durfte ich selbst in einer selbstverantworteten studentischen Gemeinschaft wie dem CA leben. Es ist wunderbar, eine studentische Notwendigkeit und gesellschaftliche Ideale so lebensnah miteinander zu verbinden. Bitte unterstuetzen Sie das CA - ich tue es auch."
+quote = "Als Student durfte ich selbst in einer selbstverantworteten studentischen Gemeinschaft wie dem CA leben. Es ist wunderbar, eine studentische Notwendigkeit und gesellschaftliche Ideale so lebensnah miteinander zu verbinden. Bitte unterstützen Sie das CA - ich tue es auch."
 
 [[quotes_supporters]]
 img = "fliedner.jpg"
@@ -93,3 +93,9 @@ img = "pilgrim.jpg"
 attr = "Hannah Pilgrim, Koordinatorin Arbeitskreis Rohstoffe bei PowerShift e.V."
 attr_short = "Hannah Pilgrim"
 quote = "Es macht Mut und gibt Hoffnung visionäre Projekte wie das Collegium Academicum in der Welt zu wissen. Vor allem der Bausektor gehört zu den größten Verbrauchern metallisch-mineralischer Rohstoffe in Deutschland und trägt somit maßgeblich dazu bei, dass unser Leben auf Kosten anderer fortgeführt wird. Da gilt es umzudenken und die Bauwende mit der Rohstoffwende zu verzahnen- ein gutes Leben für Alle anzustreben! Das macht das CA und das ist absolut unterstützenswert, danke!"
+
+[[quotes_supporters]]
+img = ""
+attr = "Angelika Zahrnt, Ehrenvorsitzende des Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)"
+attr_short = "Angelika Zahrnt"
+quote = "Die nötige sozial-ökologische Transformation wird nicht gelingen, wenn Politik und Wissenschaft weiter vorrangig auf Technik und Effizienz und weiteres Wirtschaftswachstum setzen. Wir brauchen auch Suffizienz, einen ressourcenleichten Lebensstil und einen Wandel in der Kultur des Zusammenlebens. Dafür ist das CA ein Beispiel, dem ich Erfolg und Ausstrahlung wünsche – und den BewohnerInnen und Bewohnern ein gutes Leben und viel Freude!"
