@@ -41,7 +41,7 @@ Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen
     <div class="column">
     <a href="https://urbane-gaerten.de/">
          <img alt="urbaneGaerten" src="urbane-gaerten-button-V01.png"
-         width=70" height="70">
+         width="70" height="70">
     </a>
     </div>
 </div>
