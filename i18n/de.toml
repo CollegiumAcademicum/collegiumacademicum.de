@@ -59,7 +59,8 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein. Diese finden unter 3G Regelung statt."
+#other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein. Diese finden unter 3G Regelung statt."
+other = "Aktuell finden wegen den Abläufen auf der Baustelle leider keine Führungen statt. Wir freuen uns darauf, Sie zur Eröffnung bei uns begrüßen zu dürfen."
 
 [richtfest]
 other = "Richtfest"
