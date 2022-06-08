@@ -3,8 +3,12 @@ heading = "TODAY"
 center = true
 
 [[timeline]]
+heading = "June 2022"
+content = "The arcade of the new building is finished."
+
+[[timeline]]
 heading = "March 2022"
-content = "1.000.000€ in direct loand raised for our old building."
+content = "1.000.000€ in direct loans raised for our old building."
 
 [[timeline]]
 heading = "January 2022"
