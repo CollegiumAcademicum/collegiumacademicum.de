@@ -59,7 +59,8 @@ other = "Donations"
 other = "Excursions"
 
 [exkursionen-message]
-other = "We welcome you to make an excursion to our construction site. We ask to you send us a very short email to the email address at the bottom to announce your participation. They will take place under 3G rules (vaccinated or recovered or tested)"
+#other = "We welcome you to make an excursion to our construction site. We ask to you send us a very short email to the email address at the bottom to announce your participation. They will take place under 3G rules (vaccinated or recovered or tested)"
+other = "Unfortunately, there are no guided tours at the moment due to the processes on the construction site. We look forward to welcoming you at the opening."
 
 [richtfest]
 other = "Topping-out ceremony"
