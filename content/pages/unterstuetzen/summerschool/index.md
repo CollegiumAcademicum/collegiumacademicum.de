@@ -3,10 +3,7 @@ title: "CA-Summerschool"
 slug: "summerschool"
 ---
 
-### Workcamps im Collegium Academicum
-
-
-Unser selbstverwaltetes Wohnheimsprojekt braucht deine Hilfe und lädt dich ein zu Bauen & Bildung:
+### Workcamps 2021
 
 Wie zum ersten Mal im Sommer 2020 geschehen, haben wir auch im August und September 2021 mehrtägige Workcamps veranstaltet, um größere Arbeitsschritte im CA zu erledigen und gleichzeitig eine tolle Zeit miteinander zu verbringen. Beide Summerschool-Workcamps haben je eine Woche gedauert und fanden vom 30.08.-05.09. bzw. vom 06.09.-12.09. statt. 
 Unsere Workcamps wurden von der Sto-Stiftung begleitet und unterstützt.
