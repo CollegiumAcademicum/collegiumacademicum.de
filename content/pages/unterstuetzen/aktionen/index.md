@@ -33,7 +33,7 @@ Hier unsere Ankündigung für die ersten drei partizipativen Baustellen im Juni 
 ### Termine
 
 * 19.6. - 26.6.2022
-* 3.7. - 11.7.2022
+* 3.7. - 10.7.2022
 * 17.7. - 24.7.2022
 * 14.8. - 28.8.2022
 
