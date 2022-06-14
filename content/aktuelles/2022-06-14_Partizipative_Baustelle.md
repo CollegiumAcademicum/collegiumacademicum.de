@@ -1,5 +1,5 @@
 ---
-title: "Partizipative Baustellen 2022"
+title: "Partizipative Baustelle 2022"
 date: 2022-06-14
 ---
 
