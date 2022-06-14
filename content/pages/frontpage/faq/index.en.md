@@ -87,5 +87,5 @@ Translated with www.DeepL.com/Translator (free version)
 Yes, you can. Take note though of the formal requirement that each room has to be rented by a student or trainee. See the question above.
 {{< /accordion >}}
 {{< accordion "Do I have to help with the construction of the house?" >}}
-No! Nevertheless, we appreciate of course any help with the work necessary to finish the house. These topics include, the construction of the furniture, publicity work and the organization of the projects financials. However, support from those moving in is sensible and desirable, especially with regard to the future self-administration, and in order to be able to manage the move-in.
+No! Nevertheless, we appreciate any help with the work necessary to finish the house. These tasks include the construction of the furniture, publicity work and the organization of finances of the project. However, support from those moving in is sensible and desirable, especially with regard to the future self-administration, and in order to be able to manage the move-in.
 {{< /accordion >}}
