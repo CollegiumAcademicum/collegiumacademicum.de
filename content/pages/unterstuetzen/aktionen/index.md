@@ -26,7 +26,7 @@ Deshalb braucht es Teamarbeit und Mithilfe von allen Seiten. Melde dich für ein
 zur Baufertigstellung zu leisten und eine richtig gute Zeit mit tollen Menschen zu verbringen.
 Die Teilnahme ist kostenlos und beinhaltet Verpflegung (Frühstück, Mittagessen und Abendessen) und ein umfangreiches Rahmenprogramm.
 
-Hier unsere Ankündigung für die ersten drei partizipativen Baustellen im Juni und Juli 2022:
+Hier unsere Ankündigung für die partizipativen Baustellen im Juni, Juli und August 2022:
 
 <object data="Ankuendigung_Sommerworkcamps_2022_aufleben_small.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Ankuendigung_Sommerworkcamps_2022_aufleben.pdf">Download PDF</a></object>
 
