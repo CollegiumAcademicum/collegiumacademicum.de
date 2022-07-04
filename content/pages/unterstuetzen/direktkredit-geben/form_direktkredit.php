@@ -1,4 +1,5 @@
 <?php
+$SpamErr="";
 function redirect_fail(){
     header("Location: https://collegiumacademicum.de/");
 }
@@ -35,7 +36,12 @@ $message = "Eingegangen ist:\r\n"
          . "Eingang-Daten: " . date("Y-m-d H:i:s") . "\r\n"
          . "\r\n\r\n";
 
-if (spamp_protection==8) send_mail_without_attachments($to, $subject, $message, $sender, $sender_email);
-
-header("Location: https://collegiumacademicum.de/danke-direktkredit/"); // Browser umleiten
+if ($spam_protection==8) {
+    send_mail_without_attachments($to, $subject, $message, $sender, $sender_email);
+    header("Location: https://collegiumacademicum.de/danke-direktkredit/");
+}
+else {
+    $SpamErr="?";
+    header("Location: https://collegiumacademicum.de/direktkredit-geben/");
+     } // Browser umleiten
 ?>
