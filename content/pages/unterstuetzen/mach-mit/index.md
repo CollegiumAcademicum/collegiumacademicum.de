@@ -47,7 +47,7 @@ Unsere Aufgaben sind:
 <ul>
   <li>Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?</li>
   <li>Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.</li>
-  <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung, die Workcamps dafür organisieren wir.</li>
+  <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung. Dazu finden wöchentlich Arbeitseinsätze statt und wir organisieren einige große Altbau-Workcamps.</li>
   <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
 </ul>
 
@@ -69,6 +69,8 @@ Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wi
 Das Herzstück der Werkstatt ist unsere CNC-Holzfräse, mit der wir größtenteils Tische, Betten und Schränke für die Wohnheimzimmer herstellen. Die AG Eigenleistung kümmert sich unter anderem darum, dass die Schiebewände im späteren Wohnheim reibungslos laufen. Bis sich unsere Prototypen für die Massenproduktion qualifizieren, bedarf es viel gemeinsamem Brainstorming, Konstruieren und Tüfteln. Dabei lernen wir, indem wir an Frässchulungen teilnehmen, uns von Schreiner*innen beraten lassen und schlichtweg ausprobieren. In regelmäßigen Abständen finden zudem Eigenleistungs-Wochenenden statt, bei welchen unterschiedlichste Aufgaben anstehen und jede helfende Hand willkommen ist.
 <br>
 Außerdem veranstalten wir <a href="/summerschool">Workcamps, bei denen wir Bauen und Bildung verbinden:</a> Im Sommer 2020 fand unser erstes und deutsch-französisches Workcamp statt, und auch im August und September 2021 haben wir gleich drei Workcamps veranstaltet. 
+<br>
+Damit wir diesen Sommer einziehen können, erledigen wir bei den <a href="/aktionen">Partizipativen Baustellen</a> wichtige finale Aufgaben in Neubau und Altbau und <b>freuen uns über alle, die mithelfen</b>!
 <br>
 Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei! Wir sehen uns in der Werkstatt 😊
 
@@ -144,7 +146,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 <div x-show="activeSlide === 7">
     <h3>AG Bildung</h3>
     <div class="grid-col">
-        <!-- Hier kann noch ein Bild hin -->
+        {{< img src="ag_bildung" />}}
         <div class="">
             <p>Du möchtest das <a href="/bildung">Bildungsprogramm</a> im zukünftigen CA mitzugestalten? Als gerade neu entstehende AG suchen wir interessierte Menschen, die Lust darauf haben, kreativ zu denken und entstandene Ideen weiter auszuarbeiten.</p>
         </div>
@@ -164,7 +166,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 <div x-show="activeSlide === 8">
     <h3>AG Gemeinschaft</h3>
     <div class="grid-col">
-        <!-- Hier kann noch ein Bild hin -->
+        {{< img src="ag_gemeinschaft" />}}
         <div class="">
             <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß zu haben. Für neue Ideen freuen wir uns auf deinen Input!
             </p>
