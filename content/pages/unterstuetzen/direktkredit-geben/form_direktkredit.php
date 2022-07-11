@@ -38,10 +38,9 @@ $message = "Eingegangen ist:\r\n"
 
 if ($spam_protection==8) {
     send_mail_without_attachments($to, $subject, $message, $sender, $sender_email);
-    header("Location: https://collegiumacademicum.de/danke-direktkredit/");
-}
-else {
-    $SpamErr="?";
-    header("Location: https://collegiumacademicum.de/direktkredit-geben/");
+    header("Location: https://collegiumacademicum.de/danke-direktkredit/");}
+    else {
+        header('Location: ' . $_SERVER['HTTP_REFERER']);
+        $SpamErr="?";
      } // Browser umleiten
 ?>
