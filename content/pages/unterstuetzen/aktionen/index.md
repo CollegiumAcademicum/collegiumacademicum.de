@@ -30,6 +30,8 @@ Hier unsere Ankündigung für die partizipativen Baustellen im Juni, Juli und Au
 
 <object data="Ankuendigung_Sommerworkcamps_2022_aufleben_small.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Ankuendigung_Sommerworkcamps_2022_aufleben.pdf">Download PDF</a></object>
 
+<object data="Ankuendigung_Altbauworkcamp_2022_aufleben_small.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Ankuendigung_Sommerworkcamps_2022_aufleben.pdf">Download PDF</a></object>
+
 ### Termine
 
 * 19.6. - 26.6.2022
@@ -45,7 +47,7 @@ Wer darf mitmachen?
 - handwerklich Begabte und Unbegabte
 
 
-Bei Interesse bitten wir um eine Anmeldung unter [diesem Link](https://erhebung.de/zu/3OEdX0kAZ/Workcamps_im_Sommer_2022/).
+Bei Interesse bitten wir um eine Anmeldung unter [diesem Link](https://erhebung.de/zu/3OEdX0kAZ/Workcamps_im_Sommer_2022/) (Juli-Baustellen Neubau) und [diesem Link](https://erhebung.de/zu/Tuyy96J2Ae/Anmeldung_Workcamp_August) (August-Baustelle Altbau).
 
 Mit euren Fragen und Anliegen könnt ihr euch an <a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a> wenden.
 
