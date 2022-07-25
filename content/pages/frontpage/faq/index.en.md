@@ -40,6 +40,10 @@ The complete house is equipped with high speed WiFi access. Each flat has its ow
 {{< accordion "I am not yet a student or trainee, can I apply for a place?" >}}
 Yes! You can apply before getting your student or trainee status. It is necessary though, that at your moving in day, you are enrolled in your program. If in the meantime it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any costs.
 {{< /accordion >}}
+{{< accordion "Is there an age restriction?" >}}
+Due to legal reasons, you must be older than 18 years.
+{{< /accordion >}}
+
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
 Yes, we are still looking for many new residents for the move-in in August 2022! So get to work and send us your application! We would also be happy if you told other people about us who might also be interested in moving in.
 {{< /accordion >}}
