@@ -40,6 +40,9 @@ Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss (Glasfase
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere oder eine Ausbildung mache?" >}}
 Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung möglich und für Menschen, die auf dem Wohnungsmarkt strukturell stark benachteiligt sind und sich in einer anderen Art der Ausbildung/Studium befinden (z. B. Deutschkurs, FSJ o. ä.). Die besondere Benachteiligung sowie die aktuelle hauptsächliche Beschäftigung müssen parallel zur Bewerbung über das Onlineformular formlos per E-Mail an einziehen@collegiumacademicum.de kurz geschildert werden.
 {{< /accordion >}}
+{{< accordion "Gibt es ein Mindestalter?">}}
+Aktuell musst du aus rechtlichen Gründen mindestens 18 Jahre alt sein. Wenn sich das ändert, werden wir dies hier aktualiseren.
+{{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
 Ja, wir suchen noch viele neue Bewohner\*innen für den Einzug im August 2022! Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du weiteren Menschen, die ebenfalls Interesse am Einziehen haben könnten, von uns erzählst.
 {{< /accordion >}}
