@@ -50,7 +50,7 @@ Unsere Aufgaben sind:
   <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung. Dazu finden wöchentlich Arbeitseinsätze statt und wir organisieren einige große Altbau-Workcamps.</li>
   <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
 </ul>
-
+<br/>
 Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
 
 </div>
