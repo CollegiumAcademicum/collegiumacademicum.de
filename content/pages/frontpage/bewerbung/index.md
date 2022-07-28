@@ -102,7 +102,7 @@ novoigl: yes
             </select>
         </div>
     </div>
-    <p class="help">Bitte gib deine erwartete Tätigkeit zum Zeitpunkt des Einzugs im Juli/August 2022 an.</p>
+    <p class="help">Bitte gib deine erwartete Tätigkeit zum Zeitpunkt des Einzugs im September 2022 an.</p>
 </div>
 
 <div class="field">
