@@ -44,7 +44,7 @@ Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung 
 Aktuell musst du aus rechtlichen Gründen mindestens 18 Jahre alt sein. Wenn sich das ändert, werden wir dies hier aktualiseren.
 {{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
-Ja, wir suchen noch viele neue Bewohner\*innen für den Einzug im August 2022! Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du weiteren Menschen, die ebenfalls Interesse am Einziehen haben könnten, von uns erzählst.
+Ja, wir suchen noch viele neue Bewohner\*innen für den Einzug im September 2022! Also ran an die Tasten und die Bewerbung abschicken! Wir freuen uns auch, wenn du weiteren Menschen, die ebenfalls Interesse am Einziehen haben könnten, von uns erzählst.
 {{< /accordion >}}
 {{< accordion "Ich habe noch keine Zusage für einen Ausbildungs- oder Studienplatz, kann ich mich trotzdem schon bewerben?" >}}
 Ja, du kannst dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten.
@@ -56,7 +56,7 @@ Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du für einen Kennenle
 Ja, du kannst dich trotzdem schon bewerben. Für die Absichtserklärung und später den Mietvertrag ist dann eine Unterschrift deiner Erziehungsberechtigten notwendig.
 {{< /accordion >}}
 {{< accordion "Kann ich mich jetzt schon bewerben, wenn ich erst im Wintersemester 2022/2023 einziehen will?" >}}
-Nein, aktuell sind nur Bewerbungen für den Ersteinzug ca. im August 2022 möglich. 
+Nein, aktuell sind nur Bewerbungen für den Ersteinzug im September 2022 möglich. 
 {{< /accordion >}}
 {{< accordion "Ich/ Wir haben eine kleinen/großen Direktkredit gegeben. Hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
 Nein, dies hat keinen Einfluss auf die Bewerbungschancen ihres Kindes. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im Wohnheim leben kann.
@@ -68,7 +68,7 @@ Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszub
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im August 2022 möglich sein. 
+Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im September 2022 möglich sein. 
 {{< /accordion >}}
 {{< accordion "Kann ich mir meine Mitbewohner\*innen aussuchen?" >}}
 Ja. Sobald Du Deine Zusage für einen Platz im Wohnheim hast, kannst du andere neue Bewohner\*innen kennenlernen. Ihr könnt euch dann selbst in 4er WGs und einigen wenigen 3er WGs zusammenfinden. Wir unterstützen euch natürlich in dem Prozess.
@@ -80,7 +80,7 @@ Nein. Im Wohnheim sind grundsätzlich keine Haustiere erlaubt. Die einzige Ausna
 Nach allen Entwicklungen halten wir diese Möglichkeit für nahezu ausgeschlossen.
 {{< /accordion >}}
 {{< accordion "Kann ich meine eigenen Möbel mitbringen?" >}}
-Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bett). Es gibt für die Erstbelegung im August 2022 die Möglichkeit, auf eigenen Wunsch eigene Möbel mitzubringen. In diesem Fall wird die Grundmöblierung für die Dauer des Wohnens an das CA übergeben (in Form von Spende, Kaution oder kostenloser Miete - was genau geht, wird nochmal geklärt). Der Möblierungszuschlag von 20€ bleibt in jedem Fall in der Miete enthalten. Über die Absichten der Einziehenden, ihre Möbel temporär/langfristig zu spenden, wird Liste geführt. Eine Arbeitsgruppe muss bei Bewohner\*innenwechsel garantieren, dass bei Neueinzug Möbel vorhanden sind.
+Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bett). Es gibt für die Erstbelegung im September 2022 die Möglichkeit, auf eigenen Wunsch eigene Möbel mitzubringen. In diesem Fall wird die Grundmöblierung für die Dauer des Wohnens an das CA übergeben (in Form von Spende, Kaution oder kostenloser Miete - was genau geht, wird nochmal geklärt). Der Möblierungszuschlag von 20€ bleibt in jedem Fall in der Miete enthalten. Über die Absichten der Einziehenden, ihre Möbel temporär/langfristig zu spenden, wird Liste geführt. Eine Arbeitsgruppe muss bei Bewohner\*innenwechsel garantieren, dass bei Neueinzug Möbel vorhanden sind.
 {{< /accordion >}}
 {{< accordion "Muss ich einen Direktkredit geben oder Geld spenden, damit ich einziehen darf?" >}}
 Nein. Die finanzielle Lage einer Person soll nicht dafür ausschlaggebend sein, ob sie im Wohnheim leben kann.

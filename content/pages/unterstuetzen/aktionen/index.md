@@ -7,7 +7,7 @@ slug: "aktionen"
 
 Wir laden herzlich ein zur partizipativen Baustelle des CA.
 
-Wir sind in der letzten heißen Phase der Fertigstellung unseres vierstöckigen [Holz-Neubaus](../neubau), der im August 2022 einzugsbereit sein soll.
+Wir sind in der letzten heißen Phase der Fertigstellung unseres vierstöckigen [Holz-Neubaus](../neubau), der im September 2022 einzugsbereit sein soll.
 Neben dem nachhaltigen Baustoff Holz zeichnet sich unser Haus aus durch Passivhausstandard, hohe Rezyklierbarkeit, platzsparendes
 Wohnen und viel geteilte Gemeinschaftsfläche. 
 
