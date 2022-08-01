@@ -92,3 +92,8 @@ text = "Estlcam unterstützt uns mit Lizenzen für ihre CAD Software."
 img = "tesa.png"
 link = "https://meinbad.tesa.de/"
 text = "Tesa unterstützt uns in der Ausstattung der Badezimmer für eine gute gemeinschaftliche Nutzung."
+
+[[partners]]
+img = "stramentec.png"
+link = "https://stramentec.com/"
+text = "STRAMEN.TEC unterstützt uns mit Innenwänden und dem Dachausbau aus Stroh. Somit schaffen wir im Altbau ein klima- und umweltfreundliches Trockenbausystem."
