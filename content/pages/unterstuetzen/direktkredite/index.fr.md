@@ -9,7 +9,7 @@ novoigl: yes
     Avec votre soutien financier, vous encouragez l‘habitat écologique et autogéré, l‘éducation et l‘émancipation de jeunes personnes ainsi que des loyers décents pour tous. Pour plus de 200 jeunes, ce lieu sera plus qu'un simple logement : nous créons un lieu de rencontre, un environnement émancipateur, un espace pour réaliser ses rêves et ses projets, l‘occasion d‘apprendre au sein d‘un collectif.
   </div>
   <div class="column">
-    {{< img src="hand_stern" alt="Les membres du groupe de projet forment une étoile avec leurs mains." attr="Manuel Linnenschmidt 2016" />}}
+    {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
   </div>
 </div>
 
@@ -26,24 +26,13 @@ Votre prêt contribue à financer un projet d‘habitat écologique unique et ay
 
 ## Situation actuelle
 
-### Bâtiment ancien
-
-Actuellement, nous avons besoin de votre soutien financier pour la rénovation des anciens bâtiments et nous vous serions
-reconnaissants de participer à la mise en œuvre collective du projet par ce biais.
-Selon les estimations actuelles, nous aurons besoin d'un montant total de **jusqu'à 1,9 million d'euros** de crédits 
-directs, dont nous avons déjà obtenu plus de 1 million d'euros (juillet 2022).
-
-<progress class="progress is-large is-primary" value="1000" max="1900"></progress>
-
-### Nouveau bâtiment
-
-Nous avons réussi à obtenir les **2,3 million d'euros** (Septembre 2020) de crédits directs pour co-financer le 
-bâtiment neuf. **Un grand merci !** Merci pour chaque contribution financière qui nous rapproche un peu plus de la 
-réalisation de notre projet.
-Même pendant la phase d'achèvement de la construction, **des crédits directs supplémentaires pour la nouvelle 
-construction** sont énormément utiles pour amortir les augmentations des coûts de construction.
+Nous avons réussi à obtenir les **2 300 000 €** (Septembre 2020) de „crédits directs“ pour co-financer le bâtiment neuf. **Un grand merci !** Merci pour chaque contribution financière qui nous rapproche un peu plus de la réalisation de notre projet.
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
+
+Vous pouvez **continuer à soutenir le CA** à travers des crédits directs. Pour l'achat et la rénovation des deux bâtiments existants, nous comptons réunir un total d'environ 1,5 million d'euros de crédits directs. 
+
+<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
 
 Vous trouverez ci-dessous plus d‘informations et de détails sur ce que cela signifie de nous accorder un „crédit direct“.
 
