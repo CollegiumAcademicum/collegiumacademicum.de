@@ -5,10 +5,14 @@ novoigl: yes
 
 <div class="columns">
   <div class="column">
-    By providing financial support to Collegium Academicum, you support a self-managed housing project, creative young people and self-determined learning and living in Heidelberg. This will be more than a home for over 200 young people. We are creating a meeting space, an inspiring environment to unlock potentials, a place for chasing dreams and grow together as a community through doing concrete projects and living together.
+    With your financial support for the Collegium Academicum, you are promoting a self-managed housing project, 
+creative young people and self-determined learning and living in Heidelberg. 
+This will be more than a home for over 200 young people. 
+We are creating a place to meet, an inspiring environment to unlock potentials, a place for chasing dreams and 
+growing together as a community through concrete projects and living together.
   </div>
   <div class="column">
-    {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
+    {{< img src="hand_stern" alt="The members of the project team are forming a star with their hands." attr="Manuel Linnenschmidt 2016" />}}
   </div>
 </div>
 
@@ -21,23 +25,36 @@ novoigl: yes
     </a>
 </div>
 
-Your direct loan helps to empower young people and enables them to experience that they are able to make a difference and change their environment.
+Your direct loan helps to empower young people and enables them to experience that they are able to make a difference 
+and change their environment.
 
-You also support an innovative building project that not only sets an example in terms of sustainability through its wooden construction, but also contributes to a lively local community in the Heidelberg district Rohrbach.
+You also support an innovative building project that sets an example in terms of sustainability through its wooden construction.
+At present, we mainly need direct loans for the two old buildings, which we will renovate as ecologically and cost-effectively as possible in order to convert rooms formerly used by the military into rooms for our orientation year.
+Especially the shop-café shall enrich the life in the Heidelberg district Rohrbach.
 
 Your help is welcome! Please take a look at our webpages and do not hesitate to contact us if you have any questions.
 
 ## Current status
 
-We have managed to raise **€ 2,300,000 EUR** (September 2020) in direct loans to fund the New House! **Thank you!** We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
+### Old building
+
+Currently, we need your financial support for the renovation of the old buildings and are grateful if you participate 
+in this way in the joint implementation of the project.
+According to current estimates, we will need **up to €1.9 million** in direct loans, of which we have already raised 
+more than €1 million (as of July 2022).
+
+<progress class="progress is-large is-primary" value="1000" max="1900"></progress>
+
+### New building
+
+We have managed to raise **€ 2.3 million €** (September 2020) in direct loans to fund the New House! **Thank you!** 
+We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
+Even in the stage of construction completion, **further direct loans for the new construction** are tremendously 
+helpful in buffering increases in construction costs.
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-To finance the old buildings we still need your help and are thankful if you can participate in the collective success of the project. In total, we estimate the need of an additional 1.5 M€ in direct loans.
-
-<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
-
-That is why we would be very glad about further support! Here you can read why we need direct loans and how they work.
+We still need your support! Here you can read why we need direct loans and how they work.
 
 {{< accordion "Why do we need direct loans?" >}}
 Direct loans are a key part of the funding and the most important precondition for it to work. Why? Because direct loans form the basis for our two other financing sources, government grants and bank loans. Direct loans finance our planning, so that we can make use of the approved grants, and they form our equity substitution to enable us to get future bank loans. Direct loans are granted directly to us, without any bank participating in the process. You will conclude a contract with our Collegium Academicum GmbH, where it is stipulated when and how the money lent will be repaid. Your direct loan makes it possible to realise our project and to secure affordable rents in the long term. With a direct loan you have the chance to invest your money into a social, meaningful and ecological way.
