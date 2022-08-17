@@ -23,33 +23,24 @@ novoigl: yes
 
 Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 
-Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, das durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umzubauen.
-Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
+Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig Sanieren werden, um die  ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
 ## Aktueller Stand
 
-### Altbau
-
-Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
-wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
-Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. €** Direktkredite benötigen, von denen wir 
-(Stand Juli 2022) schon mehr als 1 Mio. € eingeworben haben.
-
-<progress class="progress is-large is-primary" value="1000" max="1900"></progress>
-
-
-### Neubau
-
-Es ist uns gelungen, **2,3 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
-Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Auch in der Phase der Baufertigstellung sind **weitere Direktkredite für den 
-Neubau** enorm hilfreich, um Baukostensteigerungen abzufedern.
+Es ist uns gelungen, **2.300.000 EUR** Direktkredite
+zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** Danke an all
+diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
+Projekts gebracht haben und bringen werden.
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
+Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
+
+<progress class="progress is-large is-primary" value="1000" max="1500"></progress>
+
+Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
 Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie wahlweise einen Vertrag mit unserer Collegium Academicum GmbH oder dem Wohnheim Collegium Academicum e.V. ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
