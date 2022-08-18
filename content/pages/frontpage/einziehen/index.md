@@ -7,13 +7,13 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Nicht mehr lange und es ist so weit: Im **September 2022** werden die ersten Bewohner\*innen in unser selbstverwaltetes Wohnheim einziehen können. Ein Wohnheim wird aber erst zu einem Wohnheim durch die vielen Menschen, die es mit Freude zu einem lebendigen Ort werden lassen. Deswegen sind wir sehr daran interessiert, tolle Menschen zu finden, die dort mit uns wohnen möchten. Die Bewerbungsphase für einen der 176 Zimmer im neuen CA läuft noch! Wir haben noch ein paar letzte Plätze frei!
+Endlich ist es so weit: Wir haben 176 tolle Menschen gefunden, die im **September/Oktober 2022** in unser 
+selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden. Damit ist die Bewerbungsphase für die Erstbelegung 
+abgeschlossen und wir haben keine Plätze mehr frei. 
 
-Hier der Stand an ausgewählten Mitbewohner*innen vom 31.07.2022 - bewirb dich jetzt bei uns!
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="164" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 164;">vergeben</p>
-  <p class="progress-value " style="--progressing: 338;">frei</p>
+  <progress class="progress is-large is-primary" value="176" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 176;">vergeben</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -51,7 +51,7 @@ Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess e
 Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:kontakt@collegiumacademicum.de">E-Mail</a>, um einen möglichen Termin abzuklären, oder melde dich über <a href="mailto:exkursion@collegiumacademicum.de">diese Adresse</a> bei einer unserer nächsten Führungen an (Termine siehe auf der rechten Seitenleiste der Homepage).  
 </p>
 
-So funktioniert die Bewerbung um einen Platz im neuen CA:
+<!-- So funktioniert die Bewerbung um einen Platz im neuen CA:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/frontpage/bewerbung" >}}" class="button is-medium is-primary">
@@ -74,4 +74,4 @@ P.S.: Die Wetteraussichten für Do-it-Yourself Menschen und Bastler*innen jeglic
 
 <p>Hier kannst du dich in den Einziehen-Newsletter eintragen:</p>
 
-{{< einziehen-signup >}}
+{{< einziehen-signup >}}-->
