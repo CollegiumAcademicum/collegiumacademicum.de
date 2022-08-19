@@ -26,8 +26,8 @@ Herbst 2023 starten.
 
 Die übrigen Wohnungen umfassen zwei frei finanzierte WGs und sechs Wohnungen, mit denen wir sozialen Mietwohnraum
 schaffen wollen. Damit soll Wohnraum für Menschen geschaffen werden, die ihren Wohnungsbedarf nicht auf dem freien Markt
-decken können. Wenn du dich für eine dieser Wohnungen interessierst, kannst du dich [hier]()
-bewerben.
+decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten 
+am Ende der Seite oder per [E-Mail](mailto:kontakt@collegiumacademicum.de) bewerben.
 
 Im Erdgeschoss werden neben Wohnflächen mehrere multifunktionale Seminar- und Gemeinschaftsräume entstehen, die
 barrierefrei zu erreichen sind. Auch in den Obergeschossen werden Gemeinschaftsflächen eingerichtet werden.
