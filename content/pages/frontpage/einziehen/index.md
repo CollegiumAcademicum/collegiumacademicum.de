@@ -32,7 +32,7 @@ Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimme
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-        Die Zimmer sind gut 14qm groß und befinden sich in 3er oder 4er Wohngemeinschaften. Die Zimmer können auf 7qm halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
+        Die Zimmer sind gut 14 m<sup>2</sup> groß und befinden sich in 3er oder 4er Wohngemeinschaften. Die Zimmer können auf 7 m<sup>2</sup> halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
