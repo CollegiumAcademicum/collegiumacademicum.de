@@ -34,6 +34,12 @@ other = "Je suis intéressé.e"
 [interesse-anmelden-message]
 other = "Tu souhaites emménager dans le nouveau CA en 2022?"
 
+[einziehen-message]
+other = "Tu emménages dans le CA et tu cherches des informations? Alors regarde ici:"
+
+[nichts-frei-message]
+other = "Malheureusement, nous n'avons plus de places disponibles pour le moment. Vous serez informés ici lorsque les candidatures seront à nouveau possibles. Laissez votre adresse e-mail et nous vous informerons directement dès que des chambres seront à nouveau disponibles."
+
 [melde-dich]
 other = "N'hésites pas à nous contacter:"
 
@@ -98,6 +104,9 @@ other = "Candidature"
 [bewerben]
 other = "Candidature"
 
+[interessierten-verteiler]
+other = "Inscris-toi dans notre liste de diffusion des personnes intéressées"
+
 [summerschool]
 other = "Chantier participatif"
 
@@ -106,3 +115,6 @@ other = "En été, le CA organise plusieurs chantiers participatifs avec un prog
 
 [informieren]
 other = "Informer"
+
+[faq]
+other = "FAQ"

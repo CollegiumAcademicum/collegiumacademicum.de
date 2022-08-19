@@ -13,29 +13,16 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
-'sonstiges', 'occupation', 'occupation_subject', 'nationality', 'gender',
-'barrier_free', 'children', 'contacts', 'spam_protection'];
+$fields = ['full_name', 'email', 'mail', 'spam_protection'];
 
 $i18n = [
     "de" => [
         "full_name" => "Name",
         "email" => "E-mail",
-        "age" => "Geburtstag",
-        "leitbild" => "Leitbild",
-        "selbstverwaltung" => "Selbstverwaltung",
-        "sonstiges" => "Über dich",
-        "occupation" => "offizielle Tätigkeit",
-        "occupation_subject" => "Fach/Beruf",
-        "nationality" => "Staatszugehörigkeit",
-        "gender" => "Geschlecht",
-        "barrier_free" => "Barrierefreiheit",
-        "children" => "Kinder",
-        "contacts" => "MitbewohnerInnen-Wunsch",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
 	"spam-protection" => "spamschutz",
-        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass Du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese Nachricht antworten und sie wird die Person erreichen die Deine Bewerbung bearbeitet. Bitte sieh innerhalb der nächsten zwei Wochen davon ab, uns Rückfragen zum Stand deiner Bewerbung zu schicken, weil wir die Zeit brauchen, um die Bewerbungen zu sichten.",
+        "mail-message" => "Vielen Dank für Dein Interesse am Collegium Academicum!\nWir freuen uns, dass Du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir Dich in unseren Interessierten-Verteiler aufnehmen. Wir werden uns bei Dir melden, wenn es wieder freie Plätze gibt.",
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
@@ -44,21 +31,10 @@ $i18n = [
     "en" => [
         "full_name" => "Name",
         "email" => "E-mail",
-        "age" => "Birthday",
-        "leitbild" => "Our Vision",
-        "selbstverwaltung" => "Self-management",
-        "sonstiges" => "About you",
-        "occupation" => "Occupation",
-        "occupation_subject" => "Subject/Job",
-        "nationality" => "Nationality",
-        "gender" => "Gender",
-        "barrier_free" => "Accessibility",
-        "children" => "Children",
-        "contacts" => "Roommate wish",
         "application" => "Application",
         "application-sent" => "en/application-sent",
 	"spam-protection" => "en/spam-protection",
-        "mail-message" => "Thank you for your application to the Collegium Academicum!\nWe are happy that you are interested in moving in with us. With this message we are confirming, that we received your application. We will come back to you in the following two weeks. If you have any questions in the meantime, you can reply to this e-mail and you will reach the person that is responsible for yor application. Please avoid inquiring about the state of your application for the first two weeks, as we need some time to review the applications.",
+        "mail-message" => "Thank you for your interest in the Collegium Academicum! We are pleased that you would like to move in with us. With this message we confirm that we will add you to our mailing list of interested candidates. We will contact you as soon as there are free rooms again.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",
