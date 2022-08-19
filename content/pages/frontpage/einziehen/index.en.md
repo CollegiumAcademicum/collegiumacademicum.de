@@ -32,7 +32,7 @@ Here a brief summary of figures for living in the CA's new building: One room in
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-        The rooms are approximately 14 square meters big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 square meters which vice versa increases the common room size of the flat. Included in the rent, are also the big common areas in the house, for example, the big assembly hall for 600 people, the multi-functional room and the big roof terrace.
+        The rooms are approximately 14 m<sup>2</sup> big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the multifunctional room as the house meeting place, the workshop and the roof terrace.
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
