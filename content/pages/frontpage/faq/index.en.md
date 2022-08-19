@@ -53,9 +53,6 @@ Unfortunately, all of our places for the first occupancy in September/October 20
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
 {{< /accordion >}}
-<!-- {{< accordion "I am under eighteen, can I apply anyway?" >}}
-Yes, this is not a problem. For the letter of intent and the rental contract you will need a parent that can co-sign both documents. -->
-{{< /accordion >}}
 {{< accordion "Can I apply now if I don't want to move in until the summer semester of 2023?" >}}
 No, applications for a later move-in date are not possible at the moment. We will inform you here when we are accepting applications again or you can [sign up for the mailing list](). 
 {{< /accordion >}}
