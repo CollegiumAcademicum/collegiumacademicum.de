@@ -42,7 +42,7 @@ Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimme
     </div>
 </div>
 
-Die Wohnungen sind auf <a href="/barrierefreiheit">Barrierefreiheit</a> ausgelegt.   
+Die Wohnungen sind auf <a href="/barrierefreiheit">Barrierefreiheit</a> ausgelegt.
 Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann bewirb dich gerne auf einen Platz bei uns und / oder trage dich am Ende der Seite im entsprechenden [Newsletter](#einziehen_form) ein.
 Eine weitere Bedingung ist, dass du studierst, eine Ausbildung machst oder promovierst.
 Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess sind, sag uns gerne Bescheid, z. B. per Mail an einziehen@collegiumacademicum.de!
@@ -51,7 +51,7 @@ Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess e
 Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:kontakt@collegiumacademicum.de">E-Mail</a>, um einen möglichen Termin abzuklären, oder melde dich über <a href="mailto:exkursion@collegiumacademicum.de">diese Adresse</a> bei einer unserer nächsten Führungen an (Termine siehe auf der rechten Seitenleiste der Homepage).  
 </p>
 
-<!-- So funktioniert die Bewerbung um einen Platz im neuen CA:
+So funktioniert die Bewerbung um einen Platz im neuen CA:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/frontpage/bewerbung" >}}" class="button is-medium is-primary">
@@ -74,4 +74,4 @@ P.S.: Die Wetteraussichten für Do-it-Yourself Menschen und Bastler*innen jeglic
 
 <p>Hier kannst du dich in den Einziehen-Newsletter eintragen:</p>
 
-{{< einziehen-signup >}}-->
+{{< einziehen-signup >}}
