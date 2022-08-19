@@ -6,14 +6,14 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-We have answers to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us under einziehen@collegiumacademicum.de.
+We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
 
-The construction of the new wooden building is almost finished and we are finally ready: In **September 2022**, the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
-Here, you can see how many of our 176 future residents we have chosen already - we are still looking for you! (last update: 2022/07/31)
+Finally, the time has come: We have found 176 great people who will move into our self-managed dormitory in **September/October 2022** and fill it with life. The application phase for the first occupancy is now closed 
+and we no longer have any places available.
+
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="164" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 164;">occupied</p>
-  <p class="progress-value" style="--progressing: 338;">free</p>
+  <progress class="progress is-large is-primary" value="176" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 176;">occupied</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -28,7 +28,7 @@ Here, you can see how many of our 176 future residents we have chosen already - 
     </div>
 </div>
 
-Here a small summary of the numbers about living in the new CA house: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
+Here a brief summary of figures for living in the CA's new building: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
