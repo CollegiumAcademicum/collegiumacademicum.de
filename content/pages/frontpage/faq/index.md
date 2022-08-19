@@ -10,7 +10,7 @@ slug: "faq"
 {{< accordion "Wie hoch ist die Miete?" >}}
 Die Warm-Miete beträgt 310,20 €/Monat, dazu kommen noch Kosten für Internet (7,50 €) und Strom (21,50 €), sodass wir 
 insgesamt bei knapp unter 340 €/Monat rauskommen. Die Stromkosten von 21,50 €/Monat werden von jeder Person
-vorgestreckt, die tatsächlichen Kosten berechnen sich aber am Ende des Jahres aus der tatsächlichen Nutzung.
+vorgestreckt, die finalen Kosten berechnen sich aber am Ende des Jahres aus der tatsächlichen Nutzung.
 {{< /accordion >}}
 {{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
 Jedes Zimmer ist 14 m<sup>2</sup> groß und kann flexibel auf 7 m<sup>2</sup> verkleinert werden.
@@ -31,7 +31,7 @@ Aus 100% erneuerbaren Energien über die <a href="https://heidelberger-energiege
 Nein, außer ihr wollt diese explizit installieren und die Kosten dafür übernehmen. Es gibt im Erdgeschoss eine Waschlounge mit Waschmaschinen für das ganze Wohnheim. Das ist ökologischer, platzsparender, effektiver und günstiger als eine eigene Waschmaschine pro WG.
 {{< /accordion >}}
 {{< accordion "Welche Grundausstattung besitzt eine WG-Küche?" >}}
-Herd, Backofen, Dunstabzugshaube, Kühlschrank, Tiefkühltruhe, Spüle, Arbeitsfläche, Tisch und Stühle.
+Herd, Backofen, Dunstabzugshaube, Kühlschrank, Tiefkühltruhe, Spüle, Arbeitsfläche, Tisch und Stühle. Alle Möbel werden selbst hergestellt oder als Spenden erworben!
 {{< /accordion >}}
 {{< accordion "Gibt es einen WLAN Anschluss?" >}}
 Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss (Glasfaser) und alle Wohnungen haben eigene WiFi Access points. Die Internetkosten (7,50 €) sind nicht in den Mietkosten beinhalten. Die Bewohner\*innen müssen sich nicht um einen eigenen Internetvertrag kümmern.
@@ -42,7 +42,7 @@ Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss (Glasfase
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere oder eine Ausbildung mache?" >}}
 Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung möglich und für Menschen, die auf dem Wohnungsmarkt strukturell stark benachteiligt sind und sich in einer anderen Art der Ausbildung/Studium befinden (z. B. Deutschkurs, FSJ o. ä.). Die besondere Benachteiligung sowie die aktuelle hauptsächliche Beschäftigung müssen parallel zur Bewerbung über das Onlineformular formlos per E-Mail an einziehen@collegiumacademicum.de kurz geschildert werden.
 {{< /accordion >}}
-{{< accordion "Gibt es ein Mindestalter?">}}
+{{< accordion "Gibt es ein Mindestalter? Kann ich mich bewerben, wenn ich noch nicht volljährig bin?">}}
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
 {{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
@@ -54,14 +54,14 @@ Ja, prinzipiell kannst du dich sehr gerne trotzdem schon bewerben. Wichtig ist, 
 {{< accordion "Kostet die Bewerbung Geld?" >}}
 Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du für einen Kennenlerntag vor Ort eingeladen wirst, dann können dir Kosten für An- und Abreise entstehen, die du selbst tragen musst. *(Anmerkung: Aufgrund der Pandemie finden aktuell alle Kennenlerntage online statt.)*
 {{< /accordion >}}
-{{< accordion "Ich bin noch nicht volljährig, kann ich mich trotzdem bewerben?" >}}
-Ja, du kannst dich trotzdem schon bewerben. Für die Absichtserklärung und später den Mietvertrag ist dann eine Unterschrift deiner Erziehungsberechtigten notwendig.
+<!-- {{< accordion "Ich bin noch nicht volljährig, kann ich mich trotzdem bewerben?" >}}
+Ja, du kannst dich trotzdem schon bewerben. Für die Absichtserklärung und später den Mietvertrag ist dann eine Unterschrift deiner Erziehungsberechtigten notwendig. -->
 {{< /accordion >}}
 {{< accordion "Kann ich mich jetzt schon bewerben, wenn ich erst im Sommersemester 2023 einziehen will?" >}}
 Nein, aktuell sind noch keine Bewerbungen für einen späteren Einzugstermin möglich. Wir informieren dich hier, wenn wir wieder Bewerbungen entgegennehmen oder zu kannst dich [in den Interessierten-Verteiler eintragen](). 
 {{< /accordion >}}
-{{< accordion "Ich/Wir haben eine kleinen/großen Direktkredit gegeben. Hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
-Nein, dies hat keinen Einfluss auf die Bewerbungschancen Ihres Kindes. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im Wohnheim leben kann.
+{{< accordion "Ich/Wir haben eine kleinen/großen Direktkredit gegeben. Habe ich / Hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
+Nein, dies hat keinen Einfluss auf die Bewerbungschancen. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im Wohnheim leben kann.
 {{< /accordion >}}
 {{< accordion "Nach welchen Kriterien werden die Bewohner\*innen ausgewählt?" >}}
 Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszubildende), suchen wir Menschen, die sich mit unserem Leitbild identifizieren, sich in der Selbstverwaltung einbringen und Verantwortung für das Wohnheim übernehmen. 
@@ -82,7 +82,7 @@ Nein. Im Wohnheim sind grundsätzlich keine Haustiere erlaubt. Die einzige Ausna
 Nach allen Entwicklungen halten wir diese Möglichkeit für nahezu ausgeschlossen.
 {{< /accordion >}}
 {{< accordion "Kann ich meine eigenen Möbel mitbringen?" >}}
-Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bett). Es gibt für die Erstbelegung im September/Oktober 2022 die Möglichkeit, auf eigenen Wunsch eigene Möbel mitzubringen. In diesem Fall wird die Grundmöblierung für die Dauer des Wohnens an das CA übergeben (in Form von Spende, Kaution oder kostenloser Miete - was genau geht, wird nochmal geklärt). Der Möblierungszuschlag von 20 € bleibt in jedem Fall in der Miete enthalten. Über die Absichten der Einziehenden, ihre Möbel temporär/langfristig zu spenden, wird Liste geführt. Eine Arbeitsgruppe muss bei Bewohner\*innenwechsel garantieren, dass bei Neueinzug Möbel vorhanden sind.
+Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bett). Es gibt für die Erstbelegung 2022 die Möglichkeit, auf eigenen Wunsch eigene Möbel mitzubringen. In diesem Fall wird die Grundmöblierung für die Dauer des Wohnens an das CA übergeben (in Form von Spende, Kaution oder kostenloser Miete - was genau geht, wird nochmal geklärt). Der Möblierungszuschlag von 20 € bleibt in jedem Fall in der Miete enthalten. Über die Absichten der Einziehenden, ihre Möbel temporär/langfristig zu spenden, wird Liste geführt. Eine Arbeitsgruppe muss bei Bewohner\*innenwechsel garantieren, dass bei Neueinzug Möbel vorhanden sind.
 {{< /accordion >}}
 {{< accordion "Muss ich einen Direktkredit geben oder Geld spenden, damit ich einziehen darf?" >}}
 Nein. Die finanzielle Lage einer Person soll nicht dafür ausschlaggebend sein, ob sie im Wohnheim leben kann.
