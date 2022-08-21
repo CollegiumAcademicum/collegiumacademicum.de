@@ -1,4 +1,10 @@
 [[press]]
+title = "Was ist uns unser Essen wert?"
+source = "Sabine Hebbelmann, RNZ"
+link = "2022_08_08_ValentinThurn_CA.pdf"
+date = "08.08.2022"
+
+[[press]]
 title = "10 moderne Wohnkonzepte zum Staunen! | Galileo 360° | ProSieben"
 source = "Galileo, ProSieben"
 date = "05.06.2022"
@@ -38,6 +44,11 @@ source = "Ruprecht"
 date = "26.12.2021"
 link = "https://www.ruprecht.de/2021/12/26/selbstgebaut-und-selbstverwaltet/"
 
+[[press]]
+title = "Nachhaltigkeit: Studenten testen Bauen und Leben der Zukunft"
+source = "Julia Giertz (Text) und Uwe Anspach (Foto), dpa"
+date = "10.12.2021"
+link = "https://www.wz.de/ratgeber/haus-und-garten/bauen-und-wohnen/nachhaltigkeit-studenten-testen-bauen-und-leben-der-zukunft_aid-64531447"
 
 [[press]]
 title = "Wohnen kann mehr"
@@ -109,16 +120,16 @@ date = "23.04.2021"
 link = "https://www.youtube.com/watch?v=l0hLplvNM6w&list=PLuRaSnb3n4kRkJU9ErzTdov4zQmNayv1B&index=11"
 
 [[press]]
-title = "Richtfest beim Collegium Academicum"
-source = "RNZ"
-date = "31.03.2021"
-link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-heidelberg-richtfest-beim-collegium-academicum-_arid,650587.html"
-
-[[press]]
 title = 'Heideberger WG-Traum nun unter dem Dach'
 source = 'Mannheimer Morgen'
 date = '01.04.2021'
 link = 'https://www.mannheimer-morgen.de/orte/heidelberg_artikel,-heidelberg-heideberger-wg-traum-nun-unter-dem-dach-_arid,1779144.html'
+[[press]]
+
+title = "Richtfest beim Collegium Academicum"
+source = "RNZ"
+date = "31.03.2021"
+link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-heidelberg-richtfest-beim-collegium-academicum-_arid,650587.html"
 
 [[press]]
 title = 'Selbstverwaltetes Projekt in Heidelberg - Ein Wohnheim bauen in Eigenregie'
@@ -678,4 +689,4 @@ link = "1998_04_Unimut.pdf"
 title = "So ist aus dem Haus ein Mythos geworden"
 source = "Ruprecht"
 link = "1996_02_Ruprecht.pdf"
-data = "1996"
+date = "1996"
