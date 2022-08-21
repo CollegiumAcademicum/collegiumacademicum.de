@@ -34,6 +34,12 @@ other = "Interesse anmelden"
 [interesse-anmelden-message]
 other = "Du hast Interesse daran, im September 2022 in das frisch gebaute CA einzuziehen und die Selbstverwaltungsstruktur mitzugestalten? Wir suchen noch weitere Mitbewohner*innen!"
 
+[einziehen-message]
+other = "Du ziehst ins CA ein und suchst nach Infos? Dann wirst du auf diesen Seiten fündig:"
+
+[nichts-frei-message]
+other = "Leider haben wir momentan keine Plätze mehr frei. Ihr erfahrt hier, wenn wieder Bewerbungen möglich sind. Lasst gerne eure Mailadresse da, dann informieren wir euch direkt, sobald wieder Zimmer frei sind."
+
 [melde-dich]
 other = "Dann melde dich bei uns:"
 
@@ -107,6 +113,9 @@ other = "Bewerbung"
 [bewerben]
 other = "Bewerben"
 
+[interessierten-verteiler]
+other = "Trage dich in unseren Interessierten-Verteiler ein"
+
 [summerschool]
 other = "Partizipative Baustelle"
 
@@ -115,3 +124,6 @@ other = "Das CA veranstaltet im Sommer mehrere partizipative Baustellen mit span
 
 [informieren]
 other = "Informieren"
+
+[faq]
+other = "FAQ"

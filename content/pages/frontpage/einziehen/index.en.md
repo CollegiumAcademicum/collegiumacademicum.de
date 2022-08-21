@@ -6,14 +6,14 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-We have answers to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us under einziehen@collegiumacademicum.de.
+We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
 
-The construction of the new wooden building is almost finished and we are finally ready: In **September 2022**, the first renters will move into our self-managed student house. But a housing project will only become a house through the many people who make it a joyful and lively place. That is why we are looking for great people who want to live there with us! Applications for spots in the new CA are open from now!
-Here, you can see how many of our 176 future residents we have chosen already - we are still looking for you! (last update: 2022/07/31)
+Finally, the time has come: We have found 176 great people who will move into our self-managed dormitory in **September/October 2022** and fill it with life. The application phase for the first occupancy is now closed 
+and we no longer have any places available.
+
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="164" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 164;">occupied</p>
-  <p class="progress-value" style="--progressing: 338;">free</p>
+  <progress class="progress is-large is-primary" value="176" max="176"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 176;">occupied</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -28,11 +28,11 @@ Here, you can see how many of our 176 future residents we have chosen already - 
     </div>
 </div>
 
-Here a small summary of the numbers about living in the new CA house: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
+Here a brief summary of figures for living in the CA's new building: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-        The rooms are approximately 14 square meters big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 square meters which vice versa increases the common room size of the flat. Included in the rent, are also the big common areas in the house, for example, the big assembly hall for 600 people, the multi-functional room and the big roof terrace.
+        The rooms are approximately 14 m<sup>2</sup> big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the multifunctional room as the house meeting place, the workshop and the roof terrace.
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
@@ -57,7 +57,7 @@ If you would like to <b>have a look</b> at your future home before or after your
 We can then decide together in what form this is possible at the time. 
 </p>
 
-Here is how the application process for a room in the new CA works:
+<!-- Here is how the application process for a room in the new CA works:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/frontpage/bewerbung" >}}" class="button is-medium is-primary">
@@ -74,11 +74,11 @@ Here is how the application process for a room in the new CA works:
 Following a positive selection, we will send you a number of possible dates for the application days. There will be an application day approximately every second weekend. Please then, register for one of the application days. Because of restricted capacity, we want to invite at maximum double the number applicants as we have free rooms.<br>
 It is the goal of the application day to give you an insight into various topics of self-managed housing. Furthermore, we can meet you more in-depth and thus make a more informed decision. There will be a group phase and in parallel 10 minutes long single conversations.<br>
 Throughout the day we will make notes. Not to assess you and put you into fixed categories but to have a clear image of your afterwards and also to mitigate our own biases.
-4. Some days after the application day, you will get a response from us. If you could make it, we will inform you about the further steps (help during the construction phase, picking the actual room etc.). Further, you and us would each sign a letter of intent. This letter is not binding you to do anything (it is not a rental contract) but it gives you the security than nobody else will be able to take your spot. Also, the letter of intent helps us, for example, to prove to our bank that we found the necessary number of renters.
+4. Some days after the application day, you will get a response from us. If you could make it, we will inform you about the further steps (help during the construction phase, picking the actual room etc.). Further, you and us would each sign a letter of intent. This letter is not binding you to do anything (it is not a rental contract) but it gives you the security than nobody else will be able to take your spot. Also, the letter of intent helps us, for example, to prove to our bank that we found the necessary number of renters.-->
 
 _P.S.:_ For all do-it-yourself enthusiasts and people who like to create things with their hands: the weather prospects seem to be positive. We are building some of the furniture and facade elements by ourselves in our in-house workshop. Therefore, we welcome anyone motivated to help us! This also applies, of course, to the many other tasks that have to be done for such a huge project as the CA. If you would like to move in and/ or already have time, please contact us:
 [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
 
-<p>You can instead / additionally sign up here for the  moving-in newsletter (German):</p>
+<p>You can sign up here for the moving-in newsletter (German):</p>
 
 {{< einziehen-signup >}}

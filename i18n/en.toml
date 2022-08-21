@@ -34,6 +34,12 @@ other = "I am interested"
 [interesse-anmelden-message]
 other = "You are interested in moving into the CA in September 2022 and to participate in the self-management?"
 
+[einziehen-message]
+other = "Are you moving into the CA and searching for information? Then you will find what you are looking for on these pages:"
+
+[nichts-frei-message]
+other = "Unfortunately, we have no more places available at the moment. We will announce it here when applications are possible again. If you leave your email address, we will inform you directly as soon as there are free rooms."
+
 [melde-dich]
 other = "Then get in touch with us:"
 
@@ -107,6 +113,9 @@ other = "Application"
 [bewerben]
 other = "Apply"
 
+[interessierten-verteiler]
+other = "Sign up for our mailing list of interested people"
+
 [summerschool]
 other = "CA-Summerschool"
 
@@ -115,3 +124,6 @@ other = "In the summer the CA organizes several summer schools with an exciting 
 
 [informieren]
 other = "Inform"
+
+[faq]
+other = "FAQ"
