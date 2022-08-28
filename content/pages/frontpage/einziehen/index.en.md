@@ -8,7 +8,7 @@ novoigl: yes
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
 
-Finally, the time has come: We have found 176 great people who will move into our self-managed dormitory in **September/October 2022** and fill it with life. The application phase for the first occupancy is now closed 
+Finally, the time has come: We have found 176 great people who will move into our self-managed dormitory in **October 2022** and fill it with life. The application phase for the first occupancy is now closed 
 and we no longer have any places available.
 
 <div class="progress-wrapperEinzug">
