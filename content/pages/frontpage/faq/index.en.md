@@ -48,13 +48,13 @@ Yes! You can apply before getting your student or trainee status. It is necessar
 For legal reasons, you must be at least 18 years old on the day you move in.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Unfortunately, all of our places for the first occupancy in September/October 2022 are taken. However, you can sign up for a mailing list [here]() and we will contact you when we are accepting applications again.
+Unfortunately, all of our places for the first occupancy in October 2022 are taken. However, you can sign up for a newsletter [here](/bewerbung/) and we will contact you when we are accepting applications again.
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
 {{< /accordion >}}
 {{< accordion "Can I apply now if I don't want to move in until the summer semester of 2023?" >}}
-No, applications for a later move-in date are not possible at the moment. We will inform you here when we are accepting applications again or you can [sign up for the mailing list](). 
+No, applications for a later move-in date are not possible at the moment. We will inform you here when we are accepting applications again or you can [sign up for the newsletter](/bewerbung/). 
 {{< /accordion >}}
 {{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
@@ -66,7 +66,7 @@ Given that the formal requirements are met (status as a student, doctoral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in September or October 2022.
+As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in October or November 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
 Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.

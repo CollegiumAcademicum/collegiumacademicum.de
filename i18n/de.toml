@@ -32,7 +32,7 @@ other = "Einziehen"
 other = "Interesse anmelden"
 
 [interesse-anmelden-message]
-other = "Du hast Interesse daran, im September 2022 in das frisch gebaute CA einzuziehen und die Selbstverwaltungsstruktur mitzugestalten? Wir suchen noch weitere Mitbewohner*innen!"
+other = "Du hast Interesse daran, im Oktober 2022 in das frisch gebaute CA einzuziehen und die Selbstverwaltungsstruktur mitzugestalten? Wir suchen noch weitere Mitbewohner*innen!"
 
 [einziehen-message]
 other = "Du ziehst ins CA ein und suchst nach Infos? Dann wirst du auf diesen Seiten fündig:"
@@ -114,7 +114,7 @@ other = "Bewerbung"
 other = "Bewerben"
 
 [interessierten-verteiler]
-other = "Trage dich in unseren Interessierten-Verteiler ein"
+other = "Abonniere unseren Interessierten-Newsletter"
 
 [summerschool]
 other = "Partizipative Baustelle"

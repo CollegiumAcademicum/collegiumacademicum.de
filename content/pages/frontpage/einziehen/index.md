@@ -7,7 +7,7 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Endlich ist es so weit: Wir haben 176 tolle Menschen gefunden, die im **September/Oktober 2022** in unser 
+Endlich ist es so weit: Wir haben 176 tolle Menschen gefunden, die im **Oktober 2022** in unser 
 selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden. Damit ist die Bewerbungsphase für die Erstbelegung 
 abgeschlossen und wir haben keine Plätze mehr frei. 
 

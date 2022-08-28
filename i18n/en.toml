@@ -32,7 +32,7 @@ other = "Moving in"
 other = "I am interested"
 
 [interesse-anmelden-message]
-other = "You are interested in moving into the CA in September 2022 and to participate in the self-management?"
+other = "You are interested in moving into the CA in October 2022 and to participate in the self-management?"
 
 [einziehen-message]
 other = "Are you moving into the CA and searching for information? Then you will find what you are looking for on these pages:"
@@ -114,7 +114,7 @@ other = "Application"
 other = "Apply"
 
 [interessierten-verteiler]
-other = "Sign up for our mailing list of interested people"
+other = "Sign up for our newsletter for people interested in moving in"
 
 [summerschool]
 other = "CA-Summerschool"
