@@ -34,7 +34,7 @@ barrierefrei zu erreichen sind. Auch in den Obergeschossen werden Gemeinschaftsf
 Zudem sind kleine Werkstätten und Lagerräume im Keller geplant, die unsere Holzwerkstatt im Neubau ergänzen.
 
 
-{{< img src="altbau_wide" attr="Christian Buck 2016" >}}
+{{< img src="altbau_wide" alt="Nordansicht des großen Altbaus" attr="Christian Buck 2016" >}}
     {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
     {{< img src="altbau_back" attr="Christian Buck 2016" />}}
 {{< /img >}}
@@ -99,19 +99,13 @@ sozial gebundenen Mietwohnraum zu schaffen.
 <p>In noch größerem Umfang als im <a href="/neubau">Holzneubau</a> möchten wir in den Altbauten 
 anfallende Arbeiten in Eigenleistung realisieren. Einen Beitrag dazu haben und werden die verschiedenen partizipativen 
 Baustellen und Workcamps leisten: mehrere Wochen gemeinschaftlicher Arbeit mit lokalen und internationalen Freiwilligen 
-sowie Wandergesell*innen treiben seit Sommer 2020 Rückbauarbeiten sowie auch Teile der eigentlichen Sanierung voran.
+treiben seit Sommer 2020 Rückbauarbeiten sowie auch Teile der eigentlichen Sanierung voran.
 Mit Stolz blicken wir schon jetzt auf viele erfolgreiche Aktionen zurück: 
 In den letzten zwei Jahren wurde der Altbau mit der Unterstützung vieler fleißiger Helfer*innen in großen Abbruch- und 
 Abrissaktionen von Wänden, Schutt, Kabeln, Rohren und vielem mehr befreit.
-Mehr Infos zu der letzten Summerschool 2021 findest du <a href="/summerschool">hier</a>.
+Mehr Infos zu der letzten Summerschool 2021 und 2022 findest du <a href="/summerschool">hier</a>.
 </p>
-<p> Auch in diesem Sommer stehen wieder abwechslungsreiche Arbeiten im Altbau an! 
-Im Zeitraum vom 14. bis 28. August findet eine weitere zweiwöchige Partizipative Baustelle statt. Abseits von 
-handwerklichen Höhenflügen sind die Wochen, wie gewohnt, gespickt mit einem vielfältigen Bildungsprogramm sowie leckeren
-gemeinsamen Mahlzeiten. Bei Interesse an der Teilnahme findest du <a href="/aktionen">hier</a> weitere Infos und einen 
-Link zur Anmeldung. Bei weiteren Fragen wende dich bitte an 
-<a href="mailto:workcamps@collegiumacademicum.de">workcamps@collegiumacademicum.de</a>. 
-</p>    
+   
 </div>
 </div>
 

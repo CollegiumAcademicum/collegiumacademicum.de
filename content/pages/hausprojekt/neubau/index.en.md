@@ -1,5 +1,6 @@
 ---
-title: "Housing"
+title: "The New Wooden Building"
+slug: new-building
 ---
 
 {{< video "2020_Bau_Entwicklung" >}}
@@ -11,8 +12,6 @@ Self-managed dormitory, education and culture centre: the new Collegium Academic
     {{< img src="drohne" alt="Übersicht des Geländes" attr="Christian Buck 2016" />}}
     {{< img src="cafe" alt="Übersicht des Geländes" attr="Christian Buck 2016" />}}
 {{< /img >}}
-
-## New House
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -51,20 +50,20 @@ Self-managed dormitory, education and culture centre: the new Collegium Academic
     </div>
 </div>
 
-The [model of such an individual room](/en/room-model) is currently on display in [several places](/en/map) in Heidelberg.
+The exhibition of such a [single room](/en/room-model) took place in the past at various places in Heidelberg, e.g. on
+the Universitätsplatz. At present, the model is on [our property](/en/map).
 
-In recognition of its innovative flexible way of living and sustainable construction concept focusing on common space, the project is supported by the Federal Ministry for Construction and obtained a grant over € 2.2 million under the “Variowohnen” future investment program.
+In recognition of its innovative flexible way of living and sustainable construction concept focusing on common space,
+the project is supported by the Federal Ministry for Construction and obtained a grant over € 2.2 million under the “Variowohnen” future investment program.
 
-## Old House
+The International Building Exhibition (IBA), an Excellence Initiative of the German government
+for urban planning, was active in Heidelberg from 2013 to 2022 to work on future-oriented solutions for urban planning
+and social challenges.
+In 2015, the Collegium Academicum’s initiative was selected by the IBA Heidelberg as an
+[IBA-PROJEKT](https://iba.heidelberg.de/de/projekte/collegium-academicum) under the motto “Wissen schafft Stadt”
+(knowledge-based urbanism). Since then, the IBA is supporting both the new building and the old buildings. 
 
-The old administrative building which lies north adjacent to the new building will be given a new life: young people will put up self-made living boxes, and the surrounding building shell will be used for common spaces to get and study together, to do creative work. On the ground floor, several seminar rooms are planned for both internal and external projects. The orientation year in the old building is an important part of our holistic education concept.
-
-{{< img src="altbau_wide" attr="Christian Buck 2016" >}}
-    {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
-    {{< img src="altbau_back" attr="Christian Buck 2016" />}}
-{{< /img >}}
-
-
-The International Building Exhibition, an Excellence Initiative of the German government for urban planning, is active in Heidelberg until 2022 to work on future-oriented solutions for urban planning and social challenges. In 2015, the Collegium Academicum’s initiative was selected by the IBA Heidelberg as an IBA-PROJECT under the motto “Wissen schafft Stadt” (knowledge-based urbanism).
-
-Assisted by the Institute for Energy and Environmental Research (_IFEU_), the project shall also serve as a real-life model for research on living conditions that save space and offer a high quality of life. The principle of sufficiency (to focus on the essential) is reflected in the experimental living, common space design and rooms for creative work.
+Assisted by the Institute for Energy and Environmental Research ([ifeu](https://www.ifeu.de/projekt/suprastadt/)),
+the project shall also serve as a real-life model for research on living conditions that save space and offer a high
+quality of life. The principle of sufficiency (to focus on the essential) is reflected in the experimental living,
+common space design and rooms for creative work.
