@@ -4,7 +4,12 @@ novoigl: yes
 ---
 
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
-<p>Awesome that you are interested in moving into the CA!</p>
+<p>Awesome that you are interested in moving into the CA!
+
+Since some of our 176 rooms have become available again due to the postponement of the move-in date, we are still looking for motivated people who would like to move into our self-managed hall of residence and fill it with life.
+The expected move-in date is currently November - so unfortunately definitely after the start of the lecture period. 
+As it is an ongoing construction site, we cannot guarantee a fixed move-in date. However, there will be weekly updates and information about the construction site in our plenary. If you want to move in, please apply here:
+</p>
 
 <h2>General</h2>
 <div class="field">
@@ -184,4 +189,3 @@ novoigl: yes
 </div>
 
 </form>
-

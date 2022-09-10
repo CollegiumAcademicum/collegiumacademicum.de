@@ -3,7 +3,14 @@ title: "Bewerbung"
 novoigl: yes
 ---
 <form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
-<p>Schön, dass du Lust hast, ins CA einzuziehen!</p>
+<p>Schön, dass du Lust hast, ins CA einzuziehen!
+
+Da einige unserer 176 Zimmer durch die Verschiebung des Einzugstermins wieder frei geworden sind, suchen wir weiterhin motivierte Menschen, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen möchten. 
+
+Der voraussichtliche Einzug ist momentan zum November - also leider definitiv nach Beginn der Vorlesungszeit. 
+Da es sich um eine laufende Baustelle handelt, können wir einen festen Einzugstermin nicht garantieren. 
+Allerdings gibt es wöchentlich Updates und Infos zu der Baustelle in unserem Plenum.
+Wenn du einziehen willst, bewirb dich hier:</p>
 
 <h2>Allgemein</h2>
 <div class="field">
