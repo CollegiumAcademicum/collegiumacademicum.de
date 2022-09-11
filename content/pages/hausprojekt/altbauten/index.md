@@ -103,7 +103,7 @@ treiben seit Sommer 2020 Rückbauarbeiten sowie auch Teile der eigentlichen Sani
 Mit Stolz blicken wir schon jetzt auf viele erfolgreiche Aktionen zurück: 
 In den letzten zwei Jahren wurde der Altbau mit der Unterstützung vieler fleißiger Helfer*innen in großen Abbruch- und 
 Abrissaktionen von Wänden, Schutt, Kabeln, Rohren und vielem mehr befreit.
-Mehr Infos zu der letzten Summerschool 2021 und 2022 findest du <a href="/summerschool">hier</a>.
+Mehr Infos zu den partizipativen Baustellen und Summerschools 2020 bis 2022 findest du <a href="/aktionen">hier</a>.
 </p>
    
 </div>

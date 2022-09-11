@@ -81,8 +81,8 @@ contribution to this:
 Since summer 2020, several weeks of joint work with local and international volunteers have been driving forward
 deconstruction work as well as parts of the actual renovation. We can already look back with pride on many successful
 actions: In the last two years, the old building was freed from walls, debris, cables, pipes and much more in demolition
-campaigns with the support of many hard-working helpers. More information about the last summer school 2021 and 2022 can
-be found <a href="/summerschool">here</a>.
+campaigns with the support of many hard-working helpers. More information about the workcamps and summer school between 
+2020 and 2022 can be found <a href="/aktionen">here</a>.
 
 The International Building Exhibition (IBA), an Excellence Initiative of the German government
 for urban planning, was active in Heidelberg from 2013 to 2022 to work on future-oriented solutions for urban planning
