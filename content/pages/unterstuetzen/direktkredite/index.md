@@ -30,24 +30,24 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-### Altbau
+### Altbauten
 
 Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
 wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
 Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. €** Direktkredite benötigen, von denen wir 
-(Stand Juli 2022) schon mehr als 1 Mio. € eingeworben haben.
+(Stand September 2022) schon etwa 1,1 Mio. € eingeworben haben.
 
-<progress class="progress is-large is-primary" value="1000" max="1900"></progress>
+<progress class="progress is-large is-primary" value="1100" max="1900"></progress>
 
 
 ### Neubau
 
-Es ist uns gelungen, **2,3 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
+Es ist uns bereits gelungen, über **2,4 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Auch in der Phase der Baufertigstellung sind **weitere Direktkredite für den 
-Neubau** enorm hilfreich, um Baukostensteigerungen abzufedern.
+Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 700.000 €**
+für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
 
-<progress class="progress is-large is-primary" value="2300" max="2300"></progress>
+<progress class="progress is-large is-primary" value="1840" max="2300"></progress>
 
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
@@ -61,7 +61,10 @@ Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden 
 {{< /accordion >}}
 
 {{< accordion "Wie sicher ist es, einen Direktkredit zu geben?" >}}
-Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden. Sollte es zum Extremfall einer Insolvenz kommen, erhalten zuerst andere Gläubiger, etwa Banken, ihr Geld zurück. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.
+Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. 
+Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden.
+Bei den Direktkrediten handelt es sich um nachrangige Darlehen. Das bedeutet, dass im Extremfall einer Insolvenz zuerst andere Gläubiger\*innen, etwa Banken, ihr Geld zurückbekommen. Im schlimmsten Fall könnte es also zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen.
+Nur durch diese Bedingungen sind einige Banken bereit, die Nachrangdarlehen als Eigenkapitalersatz zu werten und uns einen Kredit zu gewähren.
 {{< /accordion >}}
 
 {{< accordion "Was habe ich bei den Steuern zu beachten?" >}}

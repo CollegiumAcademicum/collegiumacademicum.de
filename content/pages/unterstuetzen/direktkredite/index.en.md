@@ -41,20 +41,19 @@ Your help is welcome! Please take a look at our webpages and do not hesitate to 
 Currently, we need your financial support for the renovation of the old buildings and are grateful if you participate 
 in this way in the joint implementation of the project.
 According to current estimates, we will need **up to €1.9 million** in direct loans, of which we have already raised 
-more than €1 million (as of July 2022).
+more than €1.1 million (as of September 2022).
 
-<progress class="progress is-large is-primary" value="1000" max="1900"></progress>
+<progress class="progress is-large is-primary" value="1100" max="1900"></progress>
 
 ### New building
 
-We have managed to raise **€ 2.3 million €** (September 2020) in direct loans to fund the New House! **Thank you!** 
+We have managed to raise **€ 2.4 million €** (September 2022) in direct loans to fund the New House! **Thank you!** 
 We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
-Even in the stage of construction completion, **further direct loans for the new construction** are tremendously 
-helpful in buffering increases in construction costs.
+In order to compensate for increases in construction costs, we **currently still need about € 700,000** for the new building and therefore urgently need your support!
 
-<progress class="progress is-large is-primary" value="2300" max="2300"></progress>
+<progress class="progress is-large is-primary" value="1840" max="2300"></progress>
 
-We still need your support! Here you can read why we need direct loans and how they work.
+Here you can read why we need direct loans and how they work.
 
 {{< accordion "Why do we need direct loans?" >}}
 Direct loans are a key part of the funding and the most important precondition for it to work. Why? Because direct loans form the basis for our two other financing sources, government grants and bank loans. Direct loans finance our planning, so that we can make use of the approved grants, and they form our equity substitution to enable us to get future bank loans. Direct loans are granted directly to us, without any bank participating in the process. You will conclude a contract with our Collegium Academicum GmbH, where it is stipulated when and how the money lent will be repaid. Your direct loan makes it possible to realise our project and to secure affordable rents in the long term. With a direct loan you have the chance to invest your money into a social, meaningful and ecological way.
