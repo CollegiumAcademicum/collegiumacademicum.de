@@ -1,6 +1,7 @@
 ---
 title: "Aktionen"
 slug: "aktionen"
+aliases: [/summerschool/]
 ---
 
 ## Partizipative Baustellen 2022
