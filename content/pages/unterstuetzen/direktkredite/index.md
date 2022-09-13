@@ -67,6 +67,24 @@ Bei den Direktkrediten handelt es sich um nachrangige Darlehen. Das bedeutet, da
 Nur durch diese Bedingungen sind einige Banken bereit, die Nachrangdarlehen als Eigenkapitalersatz zu werten und uns einen Kredit zu gewähren.
 {{< /accordion >}}
 
+{{< accordion "Warum lohnt es sich, in das CA zu investieren?" >}}
+Bei der Projektplanung arbeiten wir eng mit Architekten, Gutachter\*innen und Banken zusammen.
+Zudem werden wir durch die solidarischen Strukturen des Mietshäuser Syndikats gestützt und profitieren von der Vernetzung mit anderen Projekten und den regionalen Beratungsmöglichkeiten.
+Damit verringern wir finanzielle Risiken.
+Unsere Projektgruppe besteht aus vielen engagierten jungen Menschen, die sich tagtäglich für das Wohnprojekt einsetzen.
+Zusammen haben wir bereits Unfassbares geschafft uns bisher jede Hürde gemeistert.
+Ihr Kredit kommt ohne Umweg direkt dem Projekt zugute und Sie können sich selbst vor Ort ein Bild davon machen, was mit dem Geld geschieht.
+- Ihr Beitrag ermöglicht Auszubildenden, Studierenden und Promovierenden **dauerhaft bezahlbaren Wohnraum**.
+- Mit Solarenergie vom eigenen Dach, Reparaturmöglichkeiten in der eigenen Werkstatt und einem Gemeinschaftsgarten
+wollen wir vormachen, wie ein **ökologisch nachhaltiges, genügsames und gutes Leben** aussehen kann. 
+Durch gemeinsame Nutzung von Räumlichkeiten und Gegenständen kommen wir mit relativ geringer Wohnfläche aus.
+- Unsere Werkstatt, unsere Aula und unser Café sollen nicht nur Bewohner\*innen zur Verfügung stehen, sondern für vielfältige
+**Kultur- und Bildungsveranstaltungen** auch von anderen Gruppen genutzt werden.
+- Im Altbau wird im Rahmen eines **Orientierungsjahres** ein fachübergreifendes Bildungsprogramm für junge Menschen angeboten,
+bei dem neben wissenschaftlichen Inhalten auch praktische Fähigkeiten und die persönliche Entwicklung gefördert werden.
+- Zusätzlich schaffen wir im Altbau **sozial gebundenen Mietwohnraum**.
+{{< /accordion >}}
+
 {{< accordion "Was habe ich bei den Steuern zu beachten?" >}}
 Im Gegensatz zu Banken sind wir nicht berechtigt, Kapitalertragssteuer einzubehalten und abzuführen. Sie sind daher selbst dafür verantwortlich, Erträge aus Direktkrediten im Zuge der Einkommenssteuererklärung anzugeben. Dazu erhalten Sie auf Wunsch eine Bescheinigung über die Zinseinnahmen.
 {{< /accordion >}}
