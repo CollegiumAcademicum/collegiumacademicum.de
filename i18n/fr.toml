@@ -65,8 +65,8 @@ other = "Faire un don"
 other = "Excursions"
 
 [exkursionen-message]
-#other = "Nos excursions se dérouleront sur place. Nous vous prions de vous inscrire à l'excursion en envoyant un e-mail à l'adresse suivante. L'excursion prendra place sous les règles 2G+ (vacciné ou guèri ou testé)"
-other = "Actuellement, il n'y a malheureusement pas de visites guidées en raison du déroulement des travaux sur le chantier. Nous nous réjouissons de vous accueillir à l'ouverture."
+other = "Nous vous invitons chaleureusement à notre prochaine visite guidée de notre chantier et de nos bâtiments. Veuillez nous envoyer un court message à l'adresse électronique ci-dessous pour annoncer votre participation."
+# other = "Actuellement, il n'y a malheureusement pas de visites guidées en raison du déroulement des travaux sur le chantier. Nous nous réjouissons de vous accueillir à l'ouverture."
 
 [anfahrt]
 other = "Carte"
@@ -111,7 +111,7 @@ other = "Inscris-toi dans notre liste de diffusion des personnes intéressées"
 other = "Chantier participatif"
 
 [summerschool-message]
-other = "En été, le CA organise plusieurs chantiers participatifs avec un programme éducatif passionnant. Lors de ces chantiers d'été, nous voulons combiner les activités de construction avec l'éducation et la communauté!"
+other = "En été, le CA a organisé plusieurs chantiers participatifs avec un programme éducatif passionnant. Lors de ces chantiers d'été, nous voulons combiner les activités de construction avec l'éducation et la communauté!"
 
 [informieren]
 other = "Informer"
