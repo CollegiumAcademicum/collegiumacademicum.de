@@ -33,7 +33,7 @@ Nein, außer ihr wollt diese explizit installieren und die Kosten dafür überne
 {{< accordion "Welche Grundausstattung besitzt eine WG-Küche?" >}}
 Herd, Backofen, Dunstabzugshaube, Kühlschrank, Tiefkühltruhe, Spüle, Arbeitsfläche, Tisch und Stühle. Alle Möbel werden selbst hergestellt oder als Spenden erworben!
 {{< /accordion >}}
-{{< accordion "Gibt es einen WLAN Anschluss?" >}}
+{{< accordion "Gibt es einen WLAN-Anschluss?" >}}
 Ja. Das Wohnheim beinhaltet eine schnellen zentralen Internetanschluss (Glasfaser) und alle Wohnungen haben eigene WiFi Access points. Die Internetkosten (7,50 €) sind nicht in den Mietkosten beinhalten. Die Bewohner\*innen müssen sich nicht um einen eigenen Internetvertrag kümmern.
 {{< /accordion >}}
 
@@ -46,10 +46,10 @@ Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung 
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
 {{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
-Unsere Plätze für die Erstbelegung im Oktober 2022 sind leider alle belegt. Du kannst aber [hier](/bewerbung/) den Interessierten-Newsletter abonnieren, dann werden wir dich kontaktieren, wenn wir wieder Bewerbungen entgegennehmen.
+Ja, unser Bewerbungsverfahren für den Einzug im November 2022 ist noch geöffnet. Es gibt aber nur noch wenige freie Plätze. Also ran an die Tasten, [hier](/bewerbung/) geht's zum Bewerbungsformular.
 {{< /accordion >}}
 {{< accordion "Ich habe noch keine Zusage für einen Ausbildungs- oder Studienplatz, kann ich mich trotzdem schon bewerben?" >}}
-Ja, prinzipiell kannst du dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten. Aktuell haben wir allerdings keine freien Zimmer mehr.
+Ja, prinzipiell kannst du dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten.
 {{< /accordion >}}
 {{< accordion "Kostet die Bewerbung Geld?" >}}
 Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du für einen Kennenlerntag vor Ort eingeladen wirst, dann können dir Kosten für An- und Abreise entstehen, die du selbst tragen musst. *(Anmerkung: Aufgrund der Pandemie finden aktuell alle Kennenlerntage online statt.)*
@@ -58,7 +58,7 @@ Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du für einen Kennenle
 Ja, du kannst dich trotzdem schon bewerben. Für die Absichtserklärung und später den Mietvertrag ist dann eine Unterschrift deiner Erziehungsberechtigten notwendig.
 {{< /accordion >}} -->
 {{< accordion "Kann ich mich jetzt schon bewerben, wenn ich erst im Sommersemester 2023 einziehen will?" >}}
-Nein, aktuell sind noch keine Bewerbungen für einen späteren Einzugstermin möglich. Wir informieren dich hier, wenn wir wieder Bewerbungen entgegennehmen oder du kannst [hier den Interessierten-Newsletter abbonieren](/bewerbung/). 
+Nein, aktuell sind nur Bewerbungen für den Ersteinzug im November 2022 möglich. 
 {{< /accordion >}}
 {{< accordion "Ich/Wir haben eine kleinen/großen Direktkredit gegeben. Habe ich / Hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
 Nein, dies hat keinen Einfluss auf die Bewerbungschancen. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im Wohnheim leben kann.
@@ -70,7 +70,7 @@ Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszub
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im Oktober oder November 2022 möglich sein. 
+Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im November 2022 möglich sein. 
 {{< /accordion >}}
 {{< accordion "Kann ich mir meine Mitbewohner\*innen aussuchen?" >}}
 Ja. Sobald Du Deine Zusage für einen Platz im Wohnheim hast, kannst du andere neue Bewohner\*innen kennenlernen. Ihr könnt euch dann selbst in 4er WGs und einigen wenigen 3er WGs zusammenfinden. Wir unterstützen euch natürlich in dem Prozess.
