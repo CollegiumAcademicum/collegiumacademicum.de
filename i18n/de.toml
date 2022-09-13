@@ -65,8 +65,8 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-#other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein. Diese finden unter 3G Regelung statt."
-other = "Aktuell finden wegen den Abläufen auf der Baustelle leider keine Führungen statt. Wir freuen uns darauf, Sie zur Eröffnung bei uns begrüßen zu dürfen."
+other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
+# other = "Aktuell finden wegen den Abläufen auf der Baustelle leider keine Führungen statt. Wir freuen uns darauf, Sie zur Eröffnung bei uns begrüßen zu dürfen."
 
 [richtfest]
 other = "Richtfest"
@@ -120,7 +120,7 @@ other = "Abonniere unseren Interessierten-Newsletter"
 other = "Partizipative Baustelle"
 
 [summerschool-message]
-other = "Das CA veranstaltet im Sommer mehrere partizipative Baustellen mit spannendem Bildungsprogramm. In diesen Sommercamps wollen wir bauliche Aktivitäten mit Bildung und Gemeinschaft verbinden!"
+other = "Das CA hat im Sommer mehrere partizipative Baustellen mit spannendem Bildungsprogramm veranstaltet. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
 
 [informieren]
 other = "Informieren"
