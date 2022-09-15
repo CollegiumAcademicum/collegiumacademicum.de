@@ -2,7 +2,7 @@
 title: "The Old Buildings"
 slug: "old-building"
 ---
-In addition to the new wooden building, our project also includes two more existing buildings: 
+In addition to the [new wooden building](/en/new-building), our project also includes two more existing buildings: 
 the old hospital administration building and the former gatehouse on Karlsruher Straße. 
 In the development of these buildings, we set different priorities than in the newly constructed house. 
 The refurbishment of the old buildings is guided by two key objectives: We want to create educational open spaces and, at the same time, permanently affordable, communal living space.
@@ -62,6 +62,11 @@ It is intended to serve as a contact point, especially for the neighbourhood. In
 for a small food cooperative and/or a "repair café". Here, things like electronic devices can be repaired together.
 The rooms on the upper floor are intended for offices of the self-administration as well as for a counselling centre
 for the [Mietshäusersyndikat](https://www.syndikat.org/en/).
+
+{{< img src="cafe" attr="Christian Buck 2016" >}}
+    {{< img src="cafe" attr="Christian Buck 2016" />}}
+    {{< img src="cafe_b" attr="Johannes Roßnagel 2019" />}}
+{{< /img >}}
 
 ### Planning and renovation
 
