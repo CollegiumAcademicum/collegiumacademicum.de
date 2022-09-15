@@ -3,8 +3,13 @@
     url = "/habitat-autogere"
     weight = 1
 [[main]]
-    name = "Habiter"
-    url = "/habiter"
+    name = "Nouveau bâtiment"
+    url = "/nouveau-batiment"
+    weight = 1
+    parent = "Habitat autogéré"
+[[main]]
+    name = "Anciens bâtiments"
+    url = "/anciens-batiments"
     weight = 1
     parent = "Habitat autogéré"
 [[main]]

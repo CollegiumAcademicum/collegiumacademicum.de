@@ -1,5 +1,6 @@
 ---
-title: "Habiter"
+title: "Le nouveau bâtiment en bois"
+slug: "nouveau-batiment"
 ---
 
 {{< video "2020_Bau_Entwicklung" >}}
@@ -54,15 +55,6 @@ Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien
 Un  [prototype d’une telle chambre](/fr/chambre-prototype) se trouve actuellement [sur le site de l’ancien hôpital militaire.](/fr/carte)
 
 Pour son caractère innovant dans le domaine de l'habitat flexible et un concept de construction durable axé sur les espaces collectifs, le projet est soutenu avec 2,2 millions d'euros par le programme "Variowohnen", un programme d'investissement du ministère fédéral de la construction, de la recherche et de la technologie pour la construction durable.
-
-## L'ancien bâtiment
-
-L'ancien bâtiment administratif reprendra vie : aux alentours du bâtiment, des espaces communs doivent être mis à disposition pour vivre ensemble, apprendre et travailler de manière créative. Plusieurs salles de séminaires sont prévues pour les résident.e.s et des initiatives extérieures au rez-de-chaussée. L'année d’orientation prévue dans l'ancien bâtiment est un élément clé du concept éducatif du CA.
-
-{{< img src="altbau_wide" attr="Christian Buck 2016" >}}
-    {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
-    {{< img src="altbau_back" attr="Christian Buck 2016" />}}
-{{< /img >}}
 
 
 L'Exposition Internationale du Bâtiment (IBA) Heidelberg, qui travaille comme une initiative d'excellence pour la planification urbaine jusqu'en 2022 sur des solutions d'avenir face aux défis urbains et sociaux, a sélectionné le CA comme « projet IBA », sous la devise „Wissen | schafft | Stadt“ (jeu de mots entre « la ville de science » et « la science crée la ville »).

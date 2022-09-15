@@ -3,7 +3,7 @@ title: "Die Altbauten"
 slug: "altbauten"
 ---
 
-Zu unserem Projekt gehören neben dem Holzneubau auch zwei Altbauten: das alte Verwaltungsgebäude des Krankenhauses
+Zu unserem Projekt gehören neben dem [Holzneubau](/neubau/) auch zwei Altbauten: das alte Verwaltungsgebäude des Krankenhauses
 sowie das ehemalige Pförtnerhäuschen an der Karlsruher Straße. Bei der Entwicklung dieser Gebäude setzen wir andere 
 Schwerpunkte als beim Neubau. Die Sanierung der Altbauten orientiert sich an zwei wesentlichen Zielen: Wir wollen 
 Bildungsfreiräume und zugleich dauerhaft bezahlbaren, gemeinschaftlichen Wohnraum schaffen. 
