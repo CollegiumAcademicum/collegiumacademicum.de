@@ -61,7 +61,7 @@ We can then decide together in what form this is possible at the time.
 Here is how the application process for a room in the new CA works:
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/pages/frontpage/bewerbung" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
@@ -69,7 +69,7 @@ Here is how the application process for a room in the new CA works:
     </a>
 </div>
 
-1. You fill out the [application form]({{< relref "/pages/frontpage/bewerbung" >}}), either in German or English. Please take note of the maximum text lengths.
+1. You fill out the [application form]({{< relref "/pages/wohnen/bewerbung" >}}), either in German or English. Please take note of the maximum text lengths.
 2. We take a look at the incoming applications and sort out who will be invited to an application day. One-quarter of the slots for the application days will be randomly drawn. Depending on how many applications we receive, we might not be able to invite to an application day right away and only can reconsider your application on a later date.
 3. Application days:
 Following a positive selection, we will send you a number of possible dates for the application days. There will be an application day approximately every second weekend. Please then, register for one of the application days. Because of restricted capacity, we want to invite at maximum double the number applicants as we have free rooms.<br>
