@@ -44,7 +44,7 @@ Die Vorfreude auf den Einzug ist groß, ebenso sehr freuen wir uns über das gro
 zahlreichen Bewerbungen um einen Wohnheimsplatz. 
 Gegen Ende der Bewerbungsphase haben wir nun sogar eine Warteliste angelegt, auf der auch zukünftige Bewerbungen vermerkt werden.
 
-#### Gelungener Abschluss der *Partizipativen* Baustellen 
+#### Gelungener Abschluss der **Partizipativen** Baustellen 
 
 In insgesamt vier, über den Sommer verteilten, Partizipativen Baustellen gelang es mit der engagierten Hilfe von sowohl zukünftigen Bewohner\*innen, als auch weiteren freiwilligen Helfer\*innen, die Arbeiten in Neu- und Altbau weit voranzubringen. 
 Diese ein- bis zweiwöchigen Arbeitseinsätze schafften Begeisterung für das Handwerk und schweißten die vielen Helfenden eng zusammen. 
@@ -74,6 +74,7 @@ Die Arbeiten erstreckten sich zudem vom Pflastern benötigter Parkplätze, über
 Bauschutt im Altbau, bis hin zum Aufbau der ersten Schiebetüren im Neubau. 
 Wir haben gestrichen, gefräst und geflext. Viele Rohre im Altbau sind gefallen, Türen wurden aus ihren Wänden entfernt 
 und die letzten Elektroschächte im Neubau mit Holz verkleidet. 
+
 
 #### Ausblick und Rückblick auf die Einzugsveranstaltungen
 
