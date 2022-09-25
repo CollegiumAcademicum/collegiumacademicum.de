@@ -44,7 +44,7 @@ Die Vorfreude auf den Einzug ist groß, ebenso sehr freuen wir uns über das gro
 zahlreichen Bewerbungen um einen Wohnheimsplatz. 
 Gegen Ende der Bewerbungsphase haben wir nun sogar eine Warteliste angelegt, auf der auch zukünftige Bewerbungen vermerkt werden.
 
-#### Gelungener Abschluss der **Partizipativen** Baustellen 
+#### Gelungener Abschluss der Partizipativen Baustellen 
 
 In insgesamt vier, über den Sommer verteilten, Partizipativen Baustellen gelang es mit der engagierten Hilfe von sowohl zukünftigen Bewohner\*innen, als auch weiteren freiwilligen Helfer\*innen, die Arbeiten in Neu- und Altbau weit voranzubringen. 
 Diese ein- bis zweiwöchigen Arbeitseinsätze schafften Begeisterung für das Handwerk und schweißten die vielen Helfenden eng zusammen. 
@@ -61,20 +61,20 @@ Getränken und einem bunten Bildungsprogramm.
         <figure>
             <img alt="Fahrradreparatur" style="float: right;" src="/newsletter/220911/image2.jpg" width="100%" />
             <figcaption style="text-align:center">
-            <p>Die Teilnehmer\*innen der Partizipativen Baustelle lernen bei einem Workshop, ihre Fahrräder selbst zu reparieren (&#169; CA)</p>
+            <p>Die Teilnehmer*innen der Partizipativen Baustelle lernen bei einem Workshop, ihre Fahrräder selbst zu reparieren (&#169; CA)</p>
             </figcaption>
         </figure>
     </div>
 </div>
 <br>   
-Doch es blieb natürlich auch noch genug Zeit für unsere Baustellen. 
+<p>Doch es blieb natürlich auch noch genug Zeit für unsere Baustellen. 
 Der ganze Fortschritt kann hier jedoch nur ansatzweise abgebildet werden. 
 Wurden im Altbau Wände komplett eingerissen, so wurden sie im Neubau frisch gebaut. 
 Die Arbeiten erstreckten sich zudem vom Pflastern benötigter Parkplätze, über Abrissarbeiten und den Abtransport von 
 Bauschutt im Altbau, bis hin zum Aufbau der ersten Schiebetüren im Neubau. 
 Wir haben gestrichen, gefräst und geflext. Viele Rohre im Altbau sind gefallen, Türen wurden aus ihren Wänden entfernt 
 und die letzten Elektroschächte im Neubau mit Holz verkleidet. 
-
+</p>
 
 #### Ausblick und Rückblick auf die Einzugsveranstaltungen
 
