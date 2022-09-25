@@ -55,7 +55,7 @@ Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal
 So funktioniert die Bewerbung um einen Platz im neuen CA:
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/pages/frontpage/bewerbung" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
@@ -63,7 +63,7 @@ So funktioniert die Bewerbung um einen Platz im neuen CA:
     </a>
 </div>
 
-1. Du schickst uns deinen ausgefüllten [Bewerbungsbogen]({{< relref "/pages/frontpage/bewerbung" >}}) zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
+1. Du schickst uns deinen ausgefüllten [Bewerbungsbogen]({{< relref "/bewerbung" >}}) zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
 2. Wir schauen uns die eingehenden Bewerbungen an und sortieren, wen wir zu Auswahltagen einladen. Ein Viertel der Plätze bei den Auswahltagen wird gelost. Je nachdem, wie viele Bewerbungen wir erhalten, kann es auch sein, dass wir dich nicht direkt einladen können, sondern dir Bescheid geben, dass wir dich bei späteren Auswahltagen erneut berücksichtigen.
 3. Auswahltage:
 Bei einer positiven Rückmeldung auf deine Bewerbung werden wir dir ein paar Termine zur Auswahl mitschicken. Es wird ungefähr jedes zweite Wochenende einen solchen Termin geben. Bitte melde dich dann verbindlich für einen Termin an. Aus Kapazitätsgründen wollen wir maximal doppelt so viele Bewerber\*innen einladen, wie wir Plätze zu vergeben haben.<br>
