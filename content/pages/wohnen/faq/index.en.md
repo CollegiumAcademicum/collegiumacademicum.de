@@ -48,13 +48,13 @@ Yes! You can apply before getting your student or trainee status. It is necessar
 For legal reasons, you must be at least 18 years old on the day you move in.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Yes, we are still looking for a few new residents for the move-in in November 2022! So get to the keyboard and [send us your application](/en/application)!
+Unfortunately, all of our places for the first occupancy in November 2022 are taken. However, you can sign up for a newsletter [here](/bewerbung/) and we will contact you when we are accepting applications again.
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
 {{< /accordion >}}
 {{< accordion "Can I apply now if I don't want to move in until the summer semester of 2023?" >}}
-No, right now we are focussing on finding the first residents that are moving in in November 2022. If you want to move in later, you should approach us at a later time.
+No, applications for a later move-in date are not possible at the moment. We will inform you here when we are accepting applications again or you can [sign up for the newsletter](/bewerbung/). 
 {{< /accordion >}}
 {{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.

@@ -8,12 +8,15 @@ novoigl: yes
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
 
-We are almost there: Nearly all of our 176 rooms have been allocated! However, some rooms have become vacant again because the move-in date has been postponed. Therefore, we are still looking for motivated people who would like to move into our self-managed dormitory and fill it with life, probably by November. Since it is an ongoing construction site, we cannot guarantee a move-in date.
-However, there will be weekly updates and information about the construction site in our plenary.
-If you want to move in, apply [here](/en/application).
+We are almost there: Nearly all of our 176 rooms have been allocated!
+We have found great people who will move into our self-managed dormitory and fill it with life.
+The application phase for the first occupancy is now closed and we no longer have any places available.
+
+Since it is an ongoing construction site, we cannot guarantee a move-in date but anticipate mid-November 2022.
+There will be weekly updates and information about the construction progress in our plenary.
 
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="170" max="176"></progress>
+  <progress class="progress is-large is-primary" value="176" max="176"></progress>
   <p class="progress-value has-text-white" style="--progressing: 176;">occupied</p>
 </div>
 <div class="columns" style="margin-top: 2em;">
@@ -58,7 +61,7 @@ If you would like to <b>have a look</b> at your future home before or after your
 We can then decide together in what form this is possible at the time. 
 </p>
 
-Here is how the application process for a room in the new CA works:
+<!-- Here is how the application process for a room in the new CA works:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
@@ -75,7 +78,7 @@ Here is how the application process for a room in the new CA works:
 Following a positive selection, we will send you a number of possible dates for the application days. There will be an application day approximately every second weekend. Please then, register for one of the application days. Because of restricted capacity, we want to invite at maximum double the number applicants as we have free rooms.<br>
 It is the goal of the application day to give you an insight into various topics of self-managed housing. Furthermore, we can meet you more in-depth and thus make a more informed decision. There will be a group phase and in parallel 10 minutes long single conversations.<br>
 Throughout the day we will make notes. Not to assess you and put you into fixed categories but to have a clear image of your afterwards and also to mitigate our own biases.
-4. Some days after the application day, you will get a response from us. If you could make it, we will inform you about the further steps (help during the construction phase, picking the actual room etc.). Further, you and us would each sign a letter of intent. This letter is not binding you to do anything (it is not a rental contract) but it gives you the security than nobody else will be able to take your spot. Also, the letter of intent helps us, for example, to prove to our bank that we found the necessary number of renters.
+4. Some days after the application day, you will get a response from us. If you could make it, we will inform you about the further steps (help during the construction phase, picking the actual room etc.). Further, you and us would each sign a letter of intent. This letter is not binding you to do anything (it is not a rental contract) but it gives you the security than nobody else will be able to take your spot. Also, the letter of intent helps us, for example, to prove to our bank that we found the necessary number of renters. --> 
 
 _P.S.:_ For all do-it-yourself enthusiasts and people who like to create things with their hands: the weather prospects seem to be positive. We are building some of the furniture and facade elements by ourselves in our in-house workshop. Therefore, we welcome anyone motivated to help us! This also applies, of course, to the many other tasks that have to be done for such a huge project as the CA. If you would like to move in and/ or already have time, please contact us:
 [einziehen@collegiumacademicum.de](mailto:einziehen@collegiumacademicum.de)
