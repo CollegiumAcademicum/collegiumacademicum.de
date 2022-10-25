@@ -15,7 +15,7 @@ our phone number is +49 (0)6221-6734812.
 
 The dormitory is planned as a self-managed entity. 
 It is maintained by Collegium Academicum GmbH and comprises the New House and two older buildings (the Old House). 
-The total cost of the new building is around €21 million, that of the old building around €8 million: 
+The total cost of the new building is around **€21 million**, that of the old building around **€8 million**: 
 This includes costs for the building plot, infrastructural development, building construction, technical facilities, 
 outdoor areas, furnishing and ancillary building costs. Costs such as interest incurred during construction and funds
 available for research are also included in the calculations.
@@ -35,7 +35,9 @@ government grants, direct private loans and donations, sponsoring and our own wo
 we receive funding by the German Reconstruction Loan Corporation 
 ([KfW](https://de.wikipedia.org/wiki/KfW)).
 
-{{< img src="finanzierung_pie_chart" alt="The elements of our funding" style="margin: 15%" attr="Project group"/>}}
+### New building
+
+{{< img src="finanzierung_pie_chart" alt="The elements of the funding of our new building" style="margin: 12%" attr="Project group"/>}}
 
 ### Grants for the new building
 
