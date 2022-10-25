@@ -9,7 +9,7 @@ title: "ФИНАНСИРОВАНИЕ"
 
 ## СТОИМОСТЬ ПРОЕКТА
 
-Общежитие будет самоуправляемой единицей под руководством Коллегиум Академикум ГмбХ. Оно состоит из нового и двух уже имеющихся зданий. Общие затраты на строительство нового здания составляют около 17 миллионов евро. Смета постоянно уточняется в зависимости от продвижения работ и изменений в планах. Она включает расходы на земельный участок, его освоение, строительство и техническое оснащение, благоустройство территории, обстановку помещений, а также побочные строительные расходы. Дополнительную информацию вы найдете [здесь]({{< relref "/pages/hausprojekt/neubau"  >}} ). В смете также учтены проценты за время строительства и расходы на исследовательскую работу.
+Общежитие будет самоуправляемой единицей под руководством Коллегиум Академикум ГмбХ. Оно состоит из нового и двух уже имеющихся зданий. Общие затраты на строительство нового здания составляют около 21 миллионов евро. Смета постоянно уточняется в зависимости от продвижения работ и изменений в планах. Она включает расходы на земельный участок, его освоение, строительство и техническое оснащение, благоустройство территории, обстановку помещений, а также побочные строительные расходы. Дополнительную информацию вы найдете [здесь]({{< relref "/pages/hausprojekt/neubau"  >}} ). В смете также учтены проценты за время строительства и расходы на исследовательскую работу.
 
 ## ИСТОЧНИКИ ФИНАНСИРОВАНИЯ
 
@@ -46,7 +46,7 @@ Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-inn
 
 ### БАНКОВСКОЕ ФИНАНСИРОВАНИЕ
 
-За счет банковского финансирования мы планируем покрыть 12 миллионов евро. Реализацию стандартов низкого энергопотребления KfW 40 Plus поддержат банк UmweltBank и Банк развития ФРГ KfW. Здесь речь идет о льготном кредите – процентная скидка и погашение части кредита (15%).
+За счет банковского финансирования мы планируем покрыть 14,57 миллионов евро. Реализацию стандартов низкого энергопотребления KfW 40 Plus поддержат банк UmweltBank и Банк развития ФРГ KfW. Здесь речь идет о льготном кредите – процентная скидка и погашение части кредита (15%).
 
 ### ДРУГИЕ ИСТОЧНИКИ
 
@@ -69,25 +69,32 @@ Innovativ"](https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-inn
 
 {{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
 
-## The figures at a glance
+## Figures at a glance
 
-Grants | |
---- | ---:
-Funding programme "_Variowohnen_" | € 2,12 million
-Funding programme "_Holz Innovativ_" | € 0,50 million
-Funding programme "_Rationelle Energieverwendung_" | ~ € 0,19 million
-Funding programme "_Barrierefreie Lebenslaufwohnungen_" | € 0,05 million
+### New building
 
-Private support | |
+Grants | ≈ €2.9 million |
 --- | ---:
-Direct loans | ~ € 2,30 million
-Donations | € 0,16 million
+Funding programme "_Variowohnen_" | €2.193 million
+Funding programme "_Holz Innovativ_" | €0.5 million
+Funding programme "_Rationelle Energieverwendung_" | ≈ €0.19 million
+Funding programme "_Barrierefreie Lebenslaufwohnungen_" | €0.05 million
 
-Bank financing | |
+Private support | ≈ €3.2 million |
 --- | ---:
-_KfW_ (KfW 40+ subsidised loan) and loan from the _Umweltbank_ | ~ € 12,00 million
+Direct loans | ≈ €3.1 million
+Loans Förderverein | ≈ €0.1 million
 
-Other | |
+Bank financing | ≈ €14.6 million |
 --- | ---:
-Own work and sponsorship| ~ € 0,50 million
-Total investment sum | ~ € 18,00 million
+KfW (KfW 40+ subsidised loan) and loan from the Umweltbank | ≈ €13.4 million
+House bank loands | ≈ €1.2 million | 
+
+Other | ≈ €0.5 million|
+--- | ---:
+Own work and sponsorship | ≈ €0.50 million
+
+<hr style="border:1px solid"> </hr>
+
+Total investment sum | ≈ €21.2 million|
+---| ---:

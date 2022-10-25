@@ -35,19 +35,19 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
 wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
 Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. €** Direktkredite benötigen, von denen wir 
-(Stand September 2022) schon etwa 1,1 Mio. € eingeworben haben.
+(Stand Oktober 2022) schon etwa 1,2 Mio. € eingeworben haben.
 
-<progress class="progress is-large is-primary" value="1100" max="1900"></progress>
+<progress class="progress is-large is-primary" value="1200" max="1900"></progress>
 
 
 ### Neubau
 
-Es ist uns bereits gelungen, über **2,4 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
+Es ist uns bereits gelungen, über **2,5 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
 Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 700.000 €**
 für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
 
-<progress class="progress is-large is-primary" value="1840" max="2300"></progress>
+<progress class="progress is-large is-primary" value="2500" max="3200"></progress>
 
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
