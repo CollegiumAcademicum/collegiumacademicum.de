@@ -16,11 +16,11 @@ Verfügung. Kontaktieren Sie uns unter
 [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
 oder telefonisch unter 06221-6734812.
 
-### Projektkosten
+## Projektkosten
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 21 Millionen Euro, die für den Altbau bei etwa 8 Millionen Euro. 
+für den Neubau liegen bei etwa **21 Millionen Euro**, die für den Altbau bei etwa **8 Millionen Euro**. 
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Auch Kosten wie Bauzeitzinsen und Gelder für
@@ -31,7 +31,7 @@ Bauleistungen bereits Beauftragungen erteilt. Dadurch verfügen wir über eine g
 Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
 [hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
 
-### Finanzierungsbausteine
+## Finanzierungsbausteine
 
 Für die Projektfinanzierung von Alt- und Neubau sind verschiedene Bausteine vorgesehen: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten
@@ -40,7 +40,9 @@ wir eine Förderung von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wi
 Da wir im Altbau mehrere Wohneinheiten im sozialen Wohnungsbau ermöglichen wollen,
 sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Finanzierungsbaustein. 
 
-{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" attr="Projektgruppe"/>}}
+### Neubau
+
+{{< img src="finanzierung_pie_chart" alt="Die Bausteine der Finanzierung unseres Neubaus" style="margin: 12%" attr="Projektgruppe"/>}}
 
 ### Förderung des Neubaus
 
@@ -136,7 +138,7 @@ Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen.
 Stroh-Trockenbau, Möbelbau sowie Malerarbeiten.
 Auch in Zukunft bestehen weitere Chancen, durch Eigenleistung Baukosten zu reduzieren bzw. Mehrkosten zu vermeiden.
 
-### Refinanzierung der Kredite
+## Refinanzierung der Kredite
 
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
