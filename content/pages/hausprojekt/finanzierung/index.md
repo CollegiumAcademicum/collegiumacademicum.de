@@ -6,7 +6,7 @@ slug: "finanzierung"
 Da sich unser Projekt nur gemeinschaftlich finanzieren lässt, versteht
 es sich für uns von selbst, dass wir unseren Unterstützer\*innen
 Einblick in die Finanzen von Alt- und Neubau ermöglichen und unsere Finanzierungspläne so
-transparent wie möglich gestalten. Im Folgenden erhalten Sie gemäß der aktuellen Planungen einen
+transparent wie möglich gestalten. Im Folgenden erhalten Sie gemäß den aktuellen Planungen einen
 Überblick zu Kosten und zur Finanzierung der
 Realisierung beider Gebäude sowie zum aktuellen Stand der jeweils 
 eingeworbenen Direktkredite.
@@ -20,25 +20,23 @@ oder telefonisch unter 06221-6734812.
 
 Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
-für den Neubau liegen bei etwa 19,5 Millionen €, die für den Altbau bei etwa 8 Millionen €. 
-Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und Fortschritte in den Planungen.
+für den Neubau liegen bei etwa 21 Millionen Euro, die für den Altbau bei etwa 8 Millionen Euro. 
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Auch Kosten wie Bauzeitzinsen und Gelder für
-Forschung sind in der Kalkulation enthalten.
-Im Neubau haben wir für den Großteil der Bauleistungen bereits
-Beauftragungen erteilt, sodass wir über eine große Kostensicherheit
-verfügen. Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
+Forschung sind in der Schätzung enthalten. Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und 
+Fortschritte in den Planungen.
+Im Neubau befinden sich die Bauarbeiten schon auf der Zielgeraden und auch im Altbau haben wir für den Großteil der
+Bauleistungen bereits Beauftragungen erteilt. Dadurch verfügen wir über eine große Kostensicherheit.
+Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
 [hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
 
 ### Finanzierungsbausteine
 
 Für die Projektfinanzierung von Alt- und Neubau sind verschiedene Bausteine vorgesehen: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten
-Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen; zum anderen erhalten
-wir einen von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW))
-gefördertem Bankkredit, welchen wir über die Umweltbank beantragt haben, die uns
-ebenfalls einen Kredit zur Verfügung stellt.
+Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen. Zum anderen erhalten
+wir eine Förderung von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wikipedia.org/wiki/KfW)).
 Da wir im Altbau mehrere Wohneinheiten im sozialen Wohnungsbau ermöglichen wollen,
 sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Finanzierungsbaustein. 
 
@@ -61,16 +59,17 @@ Passivhausbauweise des Wohnheims (190.500 Euro).
 ### Direktkredite und Spenden
 
 Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
-umgesetzt, mit dem deutschlandweit bereits über 150 Projekte
+umgesetzt, mit dem deutschlandweit bereits über 170 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater\*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 
-Für den Neubau haben wir etwa 2,3 Millionen Euro
-an nachrangigen Darlehen und Spenden eingeworben, womit wir unser erstes Ziel schon erreicht haben.
-Für die Altbauten werden wir ca. 1,5 Millionen Euro an Direktkrediten benötigen.
+Für den Neubau haben wir etwa 2,5 Millionen Euro an nachrangigen Darlehen und Spenden eingeworben.
+Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 700.000 Euro für den Neubau und brauchen deshalb 
+dringend Ihre Unterstützung
+Für die Altbauten werden wir Direktkredite in Höhe von bis zu 1,9 Millionen Euro benötigen.
 Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 
@@ -95,16 +94,17 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 
 #### Neubau
 
-Ca. 13,57 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
+Ca. 14,57 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
-Umweltbank eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
+[Umweltbank](https://www.umweltbank.de/) eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
-von 15% des Kreditbetrags.
+von 15 % des Kreditbetrags. Die KfW-Förderung wird durch Hausbankkredite ergänzt.
 
-#### Altbauten
+#### Altbau
 
-Wie beim Neubau wird auch in den Altbauten ein Großteil der Kosten von ca. 8 Millionen Euro über einen Bankkredit sowie einen Kredit der KfW umgesetzt.
-Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, um den angestrebten KfW-70-Standard zu erreichen.
+Wie beim Neubau wird auch im Altbau ein Großteil der Kosten von ca. 8 Millionen Euro über einen Bankkredit 
+sowie einen Zuschuss der KfW umgesetzt.
+Besonders viel Geld fließt hierbei in die energetische Sanierung des Gebäudes, um den angestrebten KfW-55-Standard zu erreichen.
 
 
 ### Sonstiges
@@ -114,38 +114,41 @@ Besonders viel Geld fließt hierbei in die energetische Sanierung der Gebäude, 
 
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
 Nutzungskonzept und Modulbauweise) ist unser Vorhaben in der
-Öffentlichkeit sehr präsent. Eine Übersicht der [Pressebeiträge]({{< relref "/pages/presse-links/presse">}}) befindet sich auf unserer Presse-Seite. Deshalb rechnen wir mit Sponsoring in einem nennenswerten Umfang. Erste Sponsoringverträge konnten bereits geschlossen werden, mit weiteren potentiellen Sponsoren stehen wir mit Unterstützung der IBA in aussichtsreichem Kontakt.
+Öffentlichkeit sehr präsent. Eine Übersicht der [Pressebeiträge]({{< relref "/pages/presse-links/presse">}}) befindet 
+sich auf unserer Presse-Seite. 
+
 
 #### Eigenleistung
 
-Wir sind motiviert, Eigenleistungen zu erbringen, also Teile des Gebäudes selbst
-zu bauen und Arbeiten vorzunehmen. Die Voraussetzungen, dass dafür auch die zukünftigen Bewohner\*innen
-begeistert werden können, sind gut: Das Projekt insgesamt ist auf Eigeninitiative
-und Mitarbeit ausgelegt ist und sieht Eigenleistung explizit vor, wie wir es bspw.
-während den Workcamps im Sommer 2020 und 2021 verwirklicht haben. 
-Viele Möglichkeiten zur Eigenleistung 
-wurden von Anfang an eingeplant, einige ergeben sich aber auch erst im Laufe des Baufortschritts.
+Eigenleistung bedeutet, dass wir als Projektgruppe selbst anpacken und handwerkliche sowie bauliche Arbeiten in 
+Eigenregie durchführen. 
+Das Projekt insgesamt ist auf Eigeninitiative und Mitarbeit ausgelegt ist und sieht Eigenleistung explizit vor. 
+Seit 2020 stehen daher Workcamps und Arbeitseinsätze auf der Baustelle regelmäßig in unseren Terminkalendern. 
+Viele Möglichkeiten zur Eigenleistung wurden von Anfang an eingeplant, 
+einige ergeben sich aber auch im Laufe des Baufortschritts. 
 
-Trotz ihres Potenzials ist Eigenleistung bisher entsprechend eines
-konservativen Planungsansatzes nur im kleinen Rahmen eingerechnet.
-Im Neubau beläuft sich derzeit auf etwa 380.000 Euro. Dies beinhaltet
-vor allem Arbeiten im Außenbereich, an der Fassade, Malerarbeiten sowie die Herstellung von Möbeln
-und den Bau von Schiebe- und Trennwänden. Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen.
-Auch in Zukunft bestehen weitere Chancen, die Baukosten durch Eigenleistung zu reduzieren.
+Trotz ihres Potenzials ist Eigenleistung bisher entsprechend einem
+konservativen Planungsansatz nur im kleinen Rahmen eingerechnet.
+Im Neubau beläuft sie sich derzeit auf etwa 400.000 Euro. Dies beinhaltet
+vor allem Arbeiten im Außenbereich, Malerarbeiten, die Herstellung von Möbeln
+und den Bau von Schiebe- und Trennwänden.
+Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen. Bald folgen weitere Aufgaben wie
+Stroh-Trockenbau, Möbelbau sowie Malerarbeiten.
+Auch in Zukunft bestehen weitere Chancen, durch Eigenleistung Baukosten zu reduzieren bzw. Mehrkosten zu vermeiden.
 
 ### Refinanzierung der Kredite
 
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner\*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
-Bewohner\*innen beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
+Bewohner\*innen im Neubau beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
 auch die großen Gemeinschaftsflächen mitfinanziert.
 
 Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner\*innen zugleich Miteigentümer\*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren. Auch werden wir mit Einzug
-der ersten Bewohner beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
-mit dem neue Hausprojekten bei ihrem Start unterstützt werden.
+der ersten Bewohner\*innen beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
+mit dem neue Hausprojekte bei ihrem Start unterstützt werden.
 
 {{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
 
@@ -153,28 +156,29 @@ mit dem neue Hausprojekten bei ihrem Start unterstützt werden.
 
 ### Neubau
 
-Fördermittel | ~ 2,879 Millionen Euro |
+Fördermittel | ≈ 2,9 Mio. € |
 --- | ---:
-Förderprogramm "Variowohnen" | 2,193 Millionen Euro
-Förderprogramm "Holz Innovativ" | 0,50 Millionen Euro
-Förderprogramm "Rationelle Energieverwendung" | ~0 ,19 Millionen Euro
-Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Millionen Euro
+Förderprogramm "Variowohnen" | 2,193 Mio. €
+Förderprogramm "Holz Innovativ" | 0,50 Mio. €
+Förderprogramm "Rationelle Energieverwendung" | ≈ 0,19 Mio. €
+Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Mio. €
 
-Private Unterstützung | 2,46 Millionen Euro |
+Private Unterstützung | ≈ 3,2 Mio. € |
 --- | ---:
-Direktkredite (nachrangige Darlehen) | ~ 2,30 Millionen Euro
-Spenden | 0,16 Millionen Euro
+Direktkredite (nachrangige Darlehen) | ≈ 3,1 Mio. €
+Darlehen Förderverein | ≈ 0,1 Mio. €
 
-Bankfinanzierung | ~ 13,57 Millionen Euro |
+Bankfinanzierung | ≈ 14,6 Mio. € |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ~ 13,57 Millionen Euro
+KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ≈ 13,4 Mio. €
+Hausbankkredite | ≈ 1,2 Mio. € |
 
-Sonstiges |  ~ 0,5 Millionen Euro|
+Sonstiges |  ≈ 0,5 Mio. € |
 --- | ---:
-Eigenleistungen | ~ 0,38 Millionen Euro
-Sponsoring | ~ 0,12 Millionen Euro
+Eigenleistungen | ≈ 0,4 Mio. €
+Sponsoring | ≈ 0,1 Mio. €
 
 <hr style="border:1px solid"> </hr>
 
-Gesamtinvestitionssumme | ~ 19,50 Millionen Euro
+Gesamtinvestitionssumme | ≈ 21,2 Mio. €
 --- | ---:

@@ -11,8 +11,8 @@ ou par téléphone au 0049-6221-6734812.
 
 ## Coûts du projet
 
-La structure autogérée, qui est portée par la _Collegium Academicum GmbH_, se compose d'un bâtiment neuf et de deux bâtiments existants. Le coût total du bâtiment neuf s'élève à environ 16 millions d'euros. Les coûts exacts sont constamment revérifiés au fil des ajustements et des avancements du projet. Ils comprennent les coûts estimés pour l’achat et la viabilisation du terrain, la construction et les installations techniques, les installations extérieures, l'équipement et les coûts secondaires. Vous trouverez
-[ici]({{< relref "/pages/hausprojekt/neubau"  >}} )plus de détails sur l'architecture et la planification. Le plan financier inclut également les taux d’intérêts durant la construction et les fonds pour la recherche.
+La structure autogérée, qui est portée par la _Collegium Academicum GmbH_, se compose d'un bâtiment neuf et de deux bâtiments existants. Le coût total du bâtiment neuf s'élève à environ 21,2 millions d'euros. Les coûts exacts sont constamment revérifiés au fil des ajustements et des avancements du projet. Ils comprennent les coûts estimés pour l’achat et la viabilisation du terrain, la construction et les installations techniques, les installations extérieures, l'équipement et les coûts secondaires. Vous trouverez
+[ici]({{< relref "/pages/hausprojekt/neubau"  >}} ) plus de détails sur l'architecture et la planification. Le plan financier inclut également les taux d’intérêts durant la construction et les fonds pour la recherche.
 
 ## Éléments de financement
 
@@ -60,7 +60,7 @@ Il est prévu de couvrir environ 12 millions d'euros par un prêt bancaire. Pour
 
 #### Sponsoring
 
-En tant que projet IBA et en raison de ses nombreuses particularités (construction en bois, construction modulaire et concept d’usage), notre projet a une portée importante. Un aperçu des [articles de presse]({{< relref "/pages/presse-links/presse">}}) se trouve sur notre page presse. Nous nous attendons donc à un soutien financier sous forme de rabais sur les produits nécessaires à la construction du bâtiment. Les premiers accords de sponsoring ont déjà été conclus et nous sommes en contact prometteur avec d'autres sponsors potentiels avec le soutien de l'IBA.
+En tant que projet IBA et en raison de ses nombreuses particularités (construction en bois, construction modulaire et concept d’usage), notre projet a une portée importante. Un aperçu des [articles de presse]({{< relref "/pages/presse-links/presse">}}) se trouve sur notre page presse. 
 
 #### Contribution propre
 
@@ -68,33 +68,34 @@ Nous voulons apporter notre propre contribution à la construction du bâtiment 
 
 ## Remboursement des prêts
 
-Les emprunts bancaires et les « crédits directs » seront peu à peu remboursés dès l'emménagement des premiers occupant.es via les loyers. Le loyer chaud pour les résidents est de 300 Euro/ mois/ chambre. Notre projet n'ayant pas l’objectif de faire du profit, et les résident.es étant également propriétaires, nous pouvons garantir des loyers à bas prix sur le long terme.
+Les emprunts bancaires et les « crédits directs » seront peu à peu remboursés dès l'emménagement des premiers occupant.es via les loyers. Le loyer chaud pour les résidents est de 310 Euro/ mois/ chambre. Notre projet n'ayant pas l’objectif de faire du profit, et les résident.es étant également propriétaires, nous pouvons garantir des loyers à bas prix sur le long terme.
 
 {{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
 
 ## Les chiffres en un coup d'oeil
 
-Subventions | ~ 2,9 millions d'euros|
+Subventions | ≈ 2,9 millions d'euros|
 --- | ---:
-Programme "Variowohnen" | 2,12 millions d'euros
+Programme "Variowohnen" | 2,193 millions d'euros
 Programme "Holz Innovativ" | 0,50 millions d'euros
-Programme "Rationelle Energieverwendung" | ~0,19 millions d'euros
+Programme "Rationelle Energieverwendung" | ≈ 0,19 millions d'euros
 Programme "Barrierefreie Lebenslaufwohnungen" | 0,05 millions d'euros
 
-Soutiens externes | ~ 2,46 millions d'euros|
+Soutiens externes | ≈ 3,2 millions d'euros|
 --- | ---:
-"Crédits directs" | ~ 2,30 millions d'euros
-Dons | 0,16 millions d'euros
+"Crédits directs" | ≈ 3,1 millions d'euros
+Prêts de Förderverein | ≈ 0,1 millions d'euros
 
-Financement bancaire | ~ 13,6 millions d'euros|
+Financement bancaire | ≈ 14,6 millions d'euros|
 --- | ---:
-_KfW_ (crédit avec bonification d'intérêts et de remboursement) et crédit de la _Umweltbank_ | ~ 13,57 millions d'euros
+_KfW_ (crédit avec bonification d'intérêts et de remboursement) et crédit de la _Umweltbank_ | ~ 13,4 millions d'euros
+Prêts de la banque principale | ≈ 1,2 millions d'euros|
 
-Divers | ~ 0,5 millions d'euro|
+Divers | ≈ 0,5 millions d'euro|
 --- | ---:
-Contributions propres et sponsoring| ~ 0,5 millions d'euros
+Contributions propres et sponsoring| ≈ 0,5 millions d'euros
 
 <hr style="border:1px solid "> </hr>
 
-Somme d'investissement totale | ~ 19,5 millions d'euros|
+Somme d'investissement totale | ≈ 21,2 millions d'euros|
 --- | ---:
