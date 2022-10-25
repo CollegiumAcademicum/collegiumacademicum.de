@@ -35,7 +35,7 @@ government grants, direct private loans and donations, sponsoring and our own wo
 we receive funding by the German Reconstruction Loan Corporation 
 ([KfW](https://de.wikipedia.org/wiki/KfW)).
 
-{{< img src="finanzierung_pie_chart" alt="The elements of our funding" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="The elements of our funding" style="margin: 15%" attr="Project group"/>}}
 
 ### Grants for the new building
 
@@ -135,7 +135,7 @@ low-cost rents in the long-term.
 When the first residents move in, we will also start paying a so-called solidarity contribution within the framework of 
 the Mietshäusersyndikat, which will support new house projects as they get started.
 
-{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
+{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" attr="Project group"/>}}
 
 ## Figures at a glance
 
@@ -156,7 +156,7 @@ Loans Förderverein | ≈ €0.1 million
 Bank financing | ≈ €14.6 million |
 --- | ---:
 KfW (KfW 40+ subsidised loan) and loan from the Umweltbank | ≈ €13.4 million
-House bank loands | ≈ €1.2 million | 
+House bank loans | ≈ €1.2 million | 
 
 Other | ≈ €0.5 million|
 --- | ---:

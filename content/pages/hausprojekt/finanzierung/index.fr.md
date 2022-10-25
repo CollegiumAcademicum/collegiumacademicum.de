@@ -19,7 +19,7 @@ La structure autogérée, qui est portée par la _Collegium Academicum GmbH_, se
 Le financement du projet comprend différents éléments : le « substitut du capital propre » est composé de subventions, de «crédits directs » (_Direktkredite_, une forme de financement participatif), de dons, ainsi que de sponsoring et de contributions propres. Nous recevons également un prêt bancaire de la ([KfW](https://de.wikipedia.org/wiki/KfW))(_Kreditanstalt für Wiederaufbau_, institution de droit public allemande),
 que nous avons sollicité par l'intermédiaire de la _Umweltbank_ (banque allemande agissant selon des critères écologiques et sociaux), qui nous accorde également un prêt.
 
-{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="Éléments de financement" style="margin: 15%" attr="groupe de projet"/>}}
 
 ### Subventions
 
@@ -70,7 +70,7 @@ Nous voulons apporter notre propre contribution à la construction du bâtiment 
 
 Les emprunts bancaires et les « crédits directs » seront peu à peu remboursés dès l'emménagement des premiers occupant.es via les loyers. Le loyer chaud pour les résidents est de 310 Euro/ mois/ chambre. Notre projet n'ayant pas l’objectif de faire du profit, et les résident.es étant également propriétaires, nous pouvons garantir des loyers à bas prix sur le long terme.
 
-{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
+{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" attr="Groupe de projet"/>}}
 
 ## Les chiffres en un coup d'oeil
 
@@ -84,12 +84,12 @@ Programme "Barrierefreie Lebenslaufwohnungen" | 0,05 millions d'euros
 Soutiens externes | ≈ 3,2 millions d'euros|
 --- | ---:
 "Crédits directs" | ≈ 3,1 millions d'euros
-Prêts de Förderverein | ≈ 0,1 millions d'euros
+Prêts du Förderverein | ≈ 0,1 millions d'euros
 
 Financement bancaire | ≈ 14,6 millions d'euros|
 --- | ---:
 _KfW_ (crédit avec bonification d'intérêts et de remboursement) et crédit de la _Umweltbank_ | ~ 13,4 millions d'euros
-Prêts de la banque principale | ≈ 1,2 millions d'euros|
+Crédits de la banque principale | ≈ 1,2 millions d'euros|
 
 Divers | ≈ 0,5 millions d'euro|
 --- | ---:

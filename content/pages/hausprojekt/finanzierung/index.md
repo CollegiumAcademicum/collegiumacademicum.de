@@ -40,7 +40,7 @@ wir eine Förderung von der Kreditanstalt für Wiederaufbau ([KfW](https://de.wi
 Da wir im Altbau mehrere Wohneinheiten im sozialen Wohnungsbau ermöglichen wollen,
 sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Finanzierungsbaustein. 
 
-{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" />}}
+{{< img src="finanzierung_pie_chart" alt="Die Bausteine unserer Finanzierung" style="margin: 15%" attr="Projektgruppe"/>}}
 
 ### Förderung des Neubaus
 
@@ -150,7 +150,7 @@ sein werden, können wir langfristig kostengünstige Mieten garantieren. Auch we
 der ersten Bewohner\*innen beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
 mit dem neue Hausprojekte bei ihrem Start unterstützt werden.
 
-{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" />}}
+{{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" attr="Projektgruppe"/>}}
 
 ## Die Zahlen auf einen Blick
 
