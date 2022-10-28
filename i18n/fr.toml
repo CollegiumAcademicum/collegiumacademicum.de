@@ -118,3 +118,9 @@ other = "Informer"
 
 [faq]
 other = "FAQ"
+
+[covid-message]
+other = "Nous vous demandons de porter un masque FFP2 et de ne participer qu'après un test rapide négatif."
+
+[register-per-mail]
+other = "S'inscrire par e-mail à "
