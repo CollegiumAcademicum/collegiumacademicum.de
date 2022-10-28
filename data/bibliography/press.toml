@@ -108,6 +108,12 @@ link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.
 video = "2021_planb"
 
 [[press]]
+title = "Brot UND Salz: Im Gespräch mit Kilian Baumgaertner vom Collegium Academicum"
+source = "Brot UND Salz – Der Nachbarschaftspodcast, Karlstorbahnhof"
+date = "30.05.2021"
+link = "https://www.karlstorbahnhof.de/abindensueden/brotundsalz1/"
+
+[[press]]
 title = "Holzverbindungen und Knotenpunkte: Wohnheim mit weltweit einzigartigem Holztragwerk"
 source = "bauen mit Holz"
 date = "12.05.2021"
@@ -124,8 +130,14 @@ title = 'Heideberger WG-Traum nun unter dem Dach'
 source = 'Mannheimer Morgen'
 date = '01.04.2021'
 link = 'https://www.mannheimer-morgen.de/orte/heidelberg_artikel,-heidelberg-heideberger-wg-traum-nun-unter-dem-dach-_arid,1779144.html'
-[[press]]
 
+[[press]]
+title = "Selbstverwaltetes Wohnheim feiert Fertigstellung des Holz-Rohbaus"
+source = "Pressemitteilung des Collegium Academicum und der IBA Heidelberg"
+date = "01.04.2021"
+link = "https://iba.heidelberg.de/de/presse/pressemitteilungen/210401-selbstverwaltetes-wohnheim-feiert-fertigstellung-des-holz-rohbaus"
+
+[[press]]
 title = "Richtfest beim Collegium Academicum"
 source = "RNZ"
 date = "31.03.2021"
@@ -160,7 +172,7 @@ link = "https://www.metropoljournal.com/lokales/baden-wuerttemberg2/heidelberg/1
 title = 'Von gestern für das Morgen lernen'
 source = 'IBA Heidelberg'
 date = '17.12.2020'
-link = "https://iba.heidelberg.de/de/dokumentationen/essays/hans-drexler-dgj-holzbausystem"
+link = "https://iba.heidelberg.de/de/projekte/dokumentation/hans-drexler-dgj-holzbausystem"
 
 [[press]]
 title = 'Ein innovativer Holzbau als Grundidee!'
@@ -291,6 +303,12 @@ date = "30.10.2019"
 link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-collegium-academicum-wo-ein-wg-zimmer-300-euro-warm-kostet-_arid,476112.html"
 
 [[press]]
+title = "Das Collegium Academicum wird gesellschaftliche Relevanz entfalten"
+source = "Gemeinsame Pressemitteilung der IBA Heidelberg und des IBA-Projektes Collegium Academicum"
+date = "22.07.2019"
+link = "https://iba.heidelberg.de/de/presse/pressemitteilungen/190723-spatenstich-beim-collegium-academicum"
+
+[[press]]
 title = 'Startschuss mit Apfelbäumchen für "Collegium Academicum"'
 source = "RNZ"
 date = "22.07.2019"
@@ -393,7 +411,7 @@ link = "https://www.zdf.de/nachrichten/zdf-mittagsmagazin/studierende-werden-bau
 title = "Energie vor Ort - Lokale Klimaschutzinitiativen"
 source = "Das Magazin für Bauen, Wohnen und Energie der KliBa Heidelberg"
 date = "Winter 2018|19"
-link = "https://www.kliba-heidelberg.de/viomatrix/imgs/evo_winter_18-19_online.pdf"
+link = "http://wp.kliba-heidelberg.de/wp-content/uploads/2021/08/evo_winter_18-19_online.pdf"
 
 [[press]]
 title = "Studentisches Bauprojekt sorgt für Wohnraum"
