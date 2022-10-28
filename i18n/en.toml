@@ -127,3 +127,9 @@ other = "Get information"
 
 [faq]
 other = "FAQ"
+
+[covid-message]
+other = "We kindly request to wear a FFP2 mask and to participate only after a negative rapid test."
+
+[register-per-mail]
+other = "Register by email to "
