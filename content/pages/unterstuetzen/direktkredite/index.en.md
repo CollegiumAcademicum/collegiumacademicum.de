@@ -41,13 +41,13 @@ Your help is welcome! Please take a look at our webpages and do not hesitate to 
 Currently, we need your financial support for the renovation of the old buildings and are grateful if you participate 
 in this way in the joint implementation of the project.
 According to current estimates, we will need **up to € 1.9 million** in direct loans, of which we have already raised 
-more than €1.1 million (as of September 2022).
+more than €1.2 million (as of October 2022).
 
 <progress class="progress is-large is-primary" value="1200" max="1900"></progress>
 
 ### New building
 
-We have managed to raise **€ 2.5 million** (September 2022) in direct loans to fund the New House! **Thank you!** 
+We have managed to raise **€ 2.5 million** (October 2022) in direct loans to fund the New House! **Thank you!** 
 We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
 In order to compensate for increases in construction costs, we **currently still need about € 700,000** for the new building and therefore urgently need your support!
 
