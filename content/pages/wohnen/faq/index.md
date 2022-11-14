@@ -46,7 +46,7 @@ Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung 
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
 {{< /accordion >}}
 {{< accordion "Ich bin interessiert, weiß aber nicht, ob noch Plätze frei sind. Soll ich mich trotzdem bewerben?" >}}
-Unsere Plätze für die Erstbelegung im November 2022 sind leider alle belegt. Du kannst aber [hier](/bewerbung/) den Interessierten-Newsletter abonnieren, dann werden wir dich kontaktieren, wenn wir wieder Bewerbungen entgegennehmen.
+Unsere Plätze für die Erstbelegung im Dezember 2022 sind leider alle belegt. Du kannst aber [hier](/bewerbung/) den Interessierten-Newsletter abonnieren, dann werden wir dich kontaktieren, wenn wir wieder Bewerbungen entgegennehmen.
 {{< /accordion >}}
 {{< accordion "Ich habe noch keine Zusage für einen Ausbildungs- oder Studienplatz, kann ich mich trotzdem schon bewerben?" >}}
 Ja, prinzipiell kannst du dich sehr gerne trotzdem schon bewerben. Wichtig ist, dass du zum Zeitpunkt des Einzugs immatrikuliert bist/eine Ausbildung machst. Sollte es damit nicht klappen, dann kannst du die Absichtserklärung auflösen. Dafür entstehen dir keine Kosten. Aktuell haben wir allerdings keine freien Zimmer mehr.
@@ -70,7 +70,7 @@ Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszub
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im November 2022 möglich sein. 
+Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im Dezember 2022 möglich sein. 
 {{< /accordion >}}
 {{< accordion "Kann ich mir meine Mitbewohner\*innen aussuchen?" >}}
 Ja. Sobald Du Deine Zusage für einen Platz im Wohnheim hast, kannst du andere neue Bewohner\*innen kennenlernen. Ihr könnt euch dann selbst in 4er WGs und einigen wenigen 3er WGs zusammenfinden. Wir unterstützen euch natürlich in dem Prozess.

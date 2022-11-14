@@ -11,7 +11,7 @@ Wir haben es fast geschafft: Nahezu alle unserer 176 Zimmer sind vergeben!
 Wir haben tolle Menschen gefunden, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden.
 Die Bewerbungsphase für die Erstbelegung ist nun abgeschlossen und wir haben keine Plätze mehr frei.
 
-Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Mitte November 2022.
+Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Mitte Dezember 2022.
 In unserem Plenum gibt es wöchentliche Updates und Infos über den Baufortschritt.
 
 <div class="progress-wrapperEinzug">
