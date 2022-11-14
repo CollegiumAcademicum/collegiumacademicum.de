@@ -83,17 +83,22 @@
     url = "/living"
     weight = 5
 [[main]]
+    name = "Application"
+    url = "/application"
+    weight = 1
+    parent = "Living"
+[[main]]
     name = "Moving in"
     url = "/moving-in"
-    weight = 1
+    weight = 2
     parent = "Living"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 2
+    weight = 3
     parent = "Living"
 [[main]]
     name = "Accessibility"
     url = "/accessibility"
-    weight = 3
+    weight = 4
     parent = "Living"
