@@ -2,6 +2,17 @@
 heading = "HEUTE"
 center = true
 
+
+[[timeline]]
+heading = "September 2022"
+content = "Umzug der CNC-Fräse in die Werkstatt im Neubau."
+
+
+[[timeline]]
+heading = "Juli bis August 2022"
+content = "Vier <a href='https://collegiumacademicum.de/aktionen/'>partizipative Baustellen</a> mit viel Eigenleistung, gerahmt von vielfältigen Workshops und Gemeinschaftsaktionen."
+
+
 [[timeline]]
 heading = "Juni 2022"
 content = "Der Laubengang des Neubaus ist fertig gebaut."

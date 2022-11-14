@@ -5,7 +5,7 @@ slug: "nouveau-batiment"
 
 {{< video "2020_Bau_Entwicklung" >}}
 
-Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien hôpital américain de Heidelberg-Rohrbach, le nouveau Collegium Academicum comporte deux bâtiments existants et un bâtiment neuf : une construction moderne en bois massif. Les premiers résident.e.s emménageront en octobre 2022 dans le bâtiment principal en bois.
+Habitat autogéré, lieu éducatif et centre culturel : sur le site de l'ancien hôpital américain de Heidelberg-Rohrbach, le nouveau Collegium Academicum comporte deux bâtiments existants et un bâtiment neuf : une construction moderne en bois massif. Les premiers résident.e.s emménageront en décembre 2022 dans le bâtiment principal en bois.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" />}}
