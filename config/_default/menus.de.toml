@@ -103,13 +103,13 @@
     url = "/wohnen"
     weight = 5
 [[main]]
-    name = "Bewerbung"
-    url = "/bewerbung"
+    name = "Einziehen"
+    url = "/einziehen"
     weight = 1
     parent = "Wohnen"
 [[main]]
-    name = "Einziehen"
-    url = "/einziehen"
+    name = "Bewerbung"
+    url = "/bewerbung"
     weight = 2
     parent = "Wohnen"
 [[main]]

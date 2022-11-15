@@ -48,7 +48,7 @@ Yes! You can apply before getting your student or trainee status. It is necessar
 For legal reasons, you must be at least 18 years old on the day you move in.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Unfortunately, all of our places for the first occupancy in December 2022 are taken. However, you can sign up for a newsletter [here](/bewerbung/) and we will contact you when we are accepting applications again.
+Yes, we are still looking for a few new residents for the move-in in December 2022! So get to the keyboard and [send us your application](/en/application)!
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
@@ -69,7 +69,7 @@ Given that the formal requirements are met (status as a student, doctoral studen
 As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in December 2022.
 {{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
-Yes! As soon as you get accepted for a room in the house, you can start engaging with other people accepted for a room. In this process you can form your own shared flats of three or four persons each. We will support you in that process, of course.
+Unfortunately, this is no longer possible. We already had the dormitory fully occupied once and now only have individual rooms available in shared flats where people have cancelled again due to the postponement of the move-in date. These rooms will be allocated by lot, taking into account certain diversity criteria. If it doesn't fit at all and you are unhappy with your WG, there is still the possibility to swap.
 {{< /accordion >}}
 {{< accordion "Can I bring my pet?" >}}
 No, pets are currently not allowed in the dormitory. An exception to this are assistance pets.
