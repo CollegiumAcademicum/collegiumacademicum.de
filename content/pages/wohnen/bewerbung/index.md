@@ -8,7 +8,7 @@ novoigl: yes
 
 Da einige unserer 176 Zimmer durch die Verschiebung des Einzugstermins wieder frei geworden sind, suchen wir weiterhin motivierte Menschen, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen möchten. 
 
-Der voraussichtliche Einzug ist momentan zum Dezember. 
+Der voraussichtliche Einzugstermin ist momentan Mitte bis Ende Dezember. 
 Da es sich um eine laufende Baustelle handelt, können wir einen festen Einzugstermin nicht garantieren. 
 Allerdings gibt es wöchentlich Updates und Infos zu der Baustelle in unserem Plenum.
 Wenn du einziehen willst, bewirb dich hier:
