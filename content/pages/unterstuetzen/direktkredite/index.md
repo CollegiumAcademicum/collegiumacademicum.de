@@ -42,12 +42,12 @@ Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. €** Di
 
 ### Neubau
 
-Es ist uns bereits gelungen, über **2,5 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
+Es ist uns bereits gelungen, etwa **2,8 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 700.000 €**
+Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 300.000 €**
 für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
 
-<progress class="progress is-large is-primary" value="2500" max="3200"></progress>
+<progress class="progress is-large is-primary" value="2800" max="3100"></progress>
 
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
