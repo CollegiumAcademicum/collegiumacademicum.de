@@ -31,19 +31,19 @@ Votre prêt contribue à financer un projet d‘habitat écologique unique et ay
 Actuellement, nous avons besoin de votre soutien financier pour la rénovation des anciens bâtiments et nous vous serions
 reconnaissants de participer à la mise en œuvre collective du projet par ce biais.
 Selon les estimations actuelles, nous aurons besoin d'un montant total de **jusqu'à 1,9 million d'euros** de crédits 
-directs, dont nous avons déjà obtenu plus de 1,2 million d'euros (octobre 2022).
+directs, dont nous avons déjà obtenu plus de 1,2 million d'euros (novembre 2022).
 
 <progress class="progress is-large is-primary" value="1200" max="1900"></progress>
 
 ### Nouveau bâtiment
 
-Nous avons réussi à obtenir les **2,5 million d'euros** (octobre 2022) de crédits directs pour co-financer le 
+Nous avons réussi à obtenir les **2,8 million d'euros** (novembre 2022) de crédits directs pour co-financer le 
 bâtiment neuf. **Un grand merci !** Merci pour chaque contribution financière qui nous rapproche un peu plus de la 
 réalisation de notre projet.
 Même pendant la phase d'achèvement de la construction, **des crédits directs supplémentaires pour la nouvelle 
 construction** sont énormément utiles pour amortir les augmentations des coûts de construction.
 
-<progress class="progress is-large is-primary" value="2500" max="3200"></progress>
+<progress class="progress is-large is-primary" value="2800" max="3100"></progress>
 
 Vous trouverez ci-dessous plus d‘informations et de détails sur ce que cela signifie de nous accorder un „crédit direct“.
 

@@ -33,7 +33,8 @@ qui est financé par le Fonds européen de développement régional [FEDER](http
 
 ### "Crédits directs" et dons
 
-Le projet est réalisé selon le modèle du _Mietshäuser Syndikat_, un syndicat d’habitat autogérés avec plus de 150 projets à travers toute l'Allemagne. Des personnes ayant déjà géré un tel projet nous conseillent depuis Fribourg. Le concept du _Mietshäuser Syndikat_ prévoit qu'un pilier important du financement sont les crédits dits « directs ». Ces prêts dits secondaires sont accordés par des particuliers qui souhaitent soutenir le projet et qui en sont solidaires. Le plan actuel est de lever environ 2,15 millions d'euros en crédits directs et en dons. L'état actuel de nos efforts est régulièrement publié sur la page ["crédits directs"]({{< relref "/pages/unterstuetzen/direktkredite" >}})
+Le projet est réalisé selon le modèle du _Mietshäuser Syndikat_, un syndicat d’habitat autogérés avec plus de 150 projets à travers toute l'Allemagne. Des personnes ayant déjà géré un tel projet nous conseillent depuis Fribourg. Le concept du _Mietshäuser Syndikat_ prévoit qu'un pilier important du financement sont les crédits dits « directs ». Ces prêts dits secondaires sont accordés par des particuliers qui souhaitent soutenir le projet et qui en sont solidaires. 
+Le plan actuel est de lever environ 3,2 millions d'euros en crédits directs et en dons. L'état actuel de nos efforts est régulièrement publié sur la page ["crédits directs"]({{< relref "/pages/unterstuetzen/direktkredite" >}})
 
 Si vous souhaitez également nous soutenir, vous pouvez en savoir plus sur les pages suivantes :
 

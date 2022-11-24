@@ -68,8 +68,8 @@ Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 
-Für den Neubau haben wir etwa 2,5 Millionen Euro an nachrangigen Darlehen und Spenden eingeworben.
-Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 700.000 Euro für den Neubau und brauchen deshalb 
+Für den Neubau haben wir etwa 2,8 Millionen Euro an nachrangigen Darlehen und Spenden eingeworben.
+Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 300.000 Euro für den Neubau und brauchen deshalb 
 dringend Ihre Unterstützung
 Für die Altbauten werden wir Direktkredite in Höhe von bis zu 1,9 Millionen Euro benötigen.
 Der [aktuelle Stand]({{< relref "/pages/unterstuetzen/direktkredite" >}})

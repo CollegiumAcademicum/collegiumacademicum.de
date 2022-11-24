@@ -56,7 +56,7 @@ The project is realised according to the ["Mietshäuser Syndikat"](https://www.s
 In this matter, we work together with project advisors in Freiburg.
 In this financing model, direct loans constitute an important source of funding.
 These are subordinated loans made by individuals who would like to support the project or want to be part of it.
-In the current planning, we need to raise approx. €2 million in direct loans and donations. 
+In the current planning, we need to raise approximately €3.2 million in direct loans and donations. 
 The [current status]({{< relref "/pages/unterstuetzen/direktkredite" >}}) of our efforts is regularly published on our
 direct loans page.
 
