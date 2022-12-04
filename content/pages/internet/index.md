@@ -35,7 +35,11 @@ Zunächst benötigst du deine persönlichen Zugangsdaten. Diese kannst du bei de
     - nur für Benutzer installieren
     - Speicherort automatisch wählen
     - Fertig stellen
-3. Mit dem WLAN "CA" verbinden und auf erweiterte Optionen gehen:
+3. Klicke auf das Windows-Symbol und gebe "Einstellungen" ein
+4. Navigiere zu "Netzwerk und Internet"
+5. Klicke auf "bekannte Netzwerke verwalten"
+6. Neues Netzwerk hinzufügen
+    - Netzwerkname: CA
     - EAP-Methode: TTLS
     - Phase2-Authentifizierung: PAP
     - CA-Zertifikat: das Zertifikat aus Schritt 2 auswählen
