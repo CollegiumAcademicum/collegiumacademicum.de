@@ -68,6 +68,9 @@ other = "Excursions"
 other = "We warmly invite you to our next guided tour of our construction site and buildings. Please send us a short message to the email address below to announce your participation."
 # other = "Unfortunately, there are no guided tours at the moment due to the processes on the construction site. We look forward to welcoming you at the opening."
 
+[exkursion-cancelled-message]
+other = "Unfortunately, the announced construction site tour on Sunday has to be cancelled."
+
 [richtfest]
 other = "Topping-out ceremony"
 
