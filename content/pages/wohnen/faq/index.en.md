@@ -48,7 +48,7 @@ Yes! You can apply before getting your student or trainee status. It is necessar
 For legal reasons, you must be at least 18 years old on the day you move in.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Yes, we are still looking for a few new residents for the move-in in December 2022! So get to the keyboard and [send us your application](/en/application)!
+Unfortunately, all of our places for the first occupancy are taken. However, you can sign up for a newsletter [here](/bewerbung/) and we will contact you when we are accepting applications again.
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
@@ -66,10 +66,7 @@ Given that the formal requirements are met (status as a student, doctoral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in December 2022.
-{{< /accordion >}}
-{{< accordion "Can I choose my flatmates?" >}}
-Unfortunately, this is no longer possible. We already had the dormitory fully occupied once and now only have individual rooms available in shared flats where people have cancelled again due to the postponement of the move-in date. These rooms will be allocated by lot, taking into account certain diversity criteria. If it doesn't fit at all and you are unhappy with your WG, there is still the possibility to swap.
+As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in January 2023.
 {{< /accordion >}}
 {{< accordion "Can I bring my pet?" >}}
 No, pets are currently not allowed in the dormitory. An exception to this are assistance pets.
@@ -78,7 +75,7 @@ No, pets are currently not allowed in the dormitory. An exception to this are as
 Given our current construction and financial situation, we think this is extremely unlikely.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
-Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy in 2022, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again). The furnishing surcharge of 20 € remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
+Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again). The furnishing surcharge of 20 € remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
 {{< /accordion >}}
 {{< accordion "Do I have to give the project money or a loan to move in?" >}}
 No! Financial support does not have any influence on who can move in. 
