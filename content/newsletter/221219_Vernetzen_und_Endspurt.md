@@ -7,7 +7,7 @@ Liebe Unterstützer\*innen!
 
 Die Tage werden kürzer, die Temperaturen immer kälter und während viele beginnen, sich auf die Weihnachtsfeiertage und den Jahreswechsel zu freuen, steigt bei uns vor allem die Vorfreude auf den baldigen Einzug und bringt spürbar Schwung ins Projekt: Wöchentlich finden Arbeitseinsätze statt, bei denen wir in Eigenleistung auf der Baustelle mit anpacken, im Rahmen unseres Bildungskonzepts vernetzen wir uns mit anderen Anbietern von Orientierungszeiten und auch in Sachen Finanzierung hat sich einiges getan. Deshalb informieren wir Sie in diesem Newsletter über folgende Themen:
 
-- Informationen zum Brand in der Neuauwerkstatt
+- Informationen zum Brand in der Neubauwerkstatt
 - CA vernetzt: Treffen mit anderen Anbietern von Orientierungszeiten 
 - Arbeiten im Neubau laufen auf Hochtouren
 - Finanzierung: Über 400.000 €  an Direktkrediten seit Spätsommer eingeworben – kurzfristig noch 300.000 € für den Neubau benötigt
@@ -15,7 +15,7 @@ Die Tage werden kürzer, die Temperaturen immer kälter und während viele begin
 
 ## Informationen zum Brand in der Neubauwerkstatt
 
-Wie einigen von Ihnen wahrscheinlich bereits aus der Presse bekannt ist, hat es leider vergangenen Donnerstagabend in unserer Werkstatt im Neubau gebrannt. Glücklicherweise kamen dabei keine Personen zu Schaden.  
+Wie einigen von Ihnen wahrscheinlich bereits aus der Presse bekannt ist, hat es leider in der vorletzte Woche am Donnerstagabend in unserer Werkstatt im Neubau gebrannt. Glücklicherweise kamen dabei keine Personen zu Schaden.  
 Aufgrund früher Branderkennung durch Personen aus dem Projekt sowie eines schnellen Eingreifens der Feuerwehr und eines guten Brandschutzes in der Werkstatt begrenzte sich der Brand auf einen kleinen Teil der Werkstatt und griff auf keine weiteren Räumlichkeiten über.  
 In der Werkstatt befanden sich unsere Werkzeuge sowie Maschinen und Materialien, die wir für unseren Eigenleistungseinsätze nutzten. Derzeit kann die genaue Höhe des Sachschadens noch nicht eingeschätzt werden. Die Brandursache wird aktuell noch ermittelt.  
 Auch wenn der Brand ein Rückschlag für unser Projekt ist, sind wir vor allem froh und dankbar, dass keine Personen zu Schaden gekommen sind und dass der Brand schnell entdeckt und gelöscht werden konnte. Dennoch sind wir nun umso mehr auf [Ihre Unterstützung](https://collegiumacademicum.de/direktkredite/) angewiesen.
