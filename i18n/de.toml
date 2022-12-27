@@ -65,7 +65,11 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein. Diese findet am 15. Januar 2023 um 14:00 Uhr auf dem Gelände des Colegiuam Academicum statt. Treffpunkt ist Vor dem Bauzaun an der Karlsruher Straße., in der Nähe der der Ecke Ortenauer Straße., direkt gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter [Anfahrt](https://collegiumacademicum.de/anfahrt/). Aufgrund der aktuellen Covid-19- Situation bitten wir Sie, nur mit einem negativen Selbsttest an der Führung teilzunehmen. Außerdem bitten wir um eine vorherige Anmeldung per E-Mail an [exkursion@colegiumacademicum.de](exkursion@colegiumacademicum.de). Wir freuen uns au Sie!"
+# other = "Aktuell finden wegen den Abläufen auf der Baustelle leider keine Führungen statt. Wir freuen uns darauf, Sie zur Eröffnung bei uns begrüßen zu dürfen."
+other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
+
+[exkursionen-where]
+other = "Treffpunkt ist vor dem Bauzaun an der Karlsruher Straße, schräg gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter"
 
 [exkursion-cancelled-message]
 other = "Die angekündigte Baustellenführung am Sonntag muss leider ausfallen."
