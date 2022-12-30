@@ -15,7 +15,7 @@ Die Tage werden kürzer, die Temperaturen immer kälter und während viele begin
 
 ## Informationen zum Brand in der Neubauwerkstatt
 
-Wie einigen von Ihnen wahrscheinlich bereits aus der Presse bekannt ist, hat es leider in der vorletzte Woche am Donnerstagabend in unserer Werkstatt im Neubau gebrannt. Glücklicherweise kamen dabei keine Personen zu Schaden.  
+Wie einigen von Ihnen wahrscheinlich bereits aus der Presse bekannt ist, hat es leider in der vorletzten Woche am Donnerstagabend in unserer Werkstatt im Neubau gebrannt. Glücklicherweise kamen dabei keine Personen zu Schaden.  
 Aufgrund früher Branderkennung durch Personen aus dem Projekt sowie eines schnellen Eingreifens der Feuerwehr und eines guten Brandschutzes in der Werkstatt begrenzte sich der Brand auf einen kleinen Teil der Werkstatt und griff auf keine weiteren Räumlichkeiten über.  
 In der Werkstatt befanden sich unsere Werkzeuge sowie Maschinen und Materialien, die wir für unseren Eigenleistungseinsätze nutzten. Derzeit kann die genaue Höhe des Sachschadens noch nicht eingeschätzt werden. Die Brandursache wird aktuell noch ermittelt.  
 Auch wenn der Brand ein Rückschlag für unser Projekt ist, sind wir vor allem froh und dankbar, dass keine Personen zu Schaden gekommen sind und dass der Brand schnell entdeckt und gelöscht werden konnte. Dennoch sind wir nun umso mehr auf [Ihre Unterstützung](https://collegiumacademicum.de/direktkredite/) angewiesen.
