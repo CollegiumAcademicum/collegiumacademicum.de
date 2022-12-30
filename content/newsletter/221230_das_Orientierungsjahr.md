@@ -1,6 +1,8 @@
 
-
-Betreff: Das Orientierungsjahr entfaltet sich
+---
+title: "Das Orientierungsjahr entfaltet sich"
+date: 2022-12-30
+---﻿
 
 ## Liebe Unterstützer\*innen,
 
@@ -49,27 +51,20 @@ Neben der Ansprache von Spender\*innen, dem Erstellen des Finanzplans, sowie der
 Die Themen politische Teilhabe und Demokratie lernen sind uns ebenfalls eine Herzensangelegenheit. Im Zusammenleben werden die Teilnehmenden ganz praktische Erfahrungen damit sammeln. Außerdem wird die Landeszentrale für politische Bildung Baden-Württemberg einen festen Programmbestandteil als Kooperationspartnerin erhalten, die anhand von Planspielen und Workshops das Thema Demokratie greifbar machen wird. 
 
 
-
-
 <div style="width: 100%;">
 <div style="width: 60%; float: left;text-align:justify"> 
-Ein Orientierungsjahr ohne Kooperation mit der Universität Heidelberg können wir uns nicht vorstellen, daher haben wir uns seit Anfang des Jahres mit vielen Vetreter*innen unterschiedlicher Abteilungen getroffen und gemeinsam überlegt, wie eine gute Zusammenarbeit aussehen kann. Kurz vor Weihnachten wurden wir dafür zu einem Gespräch in der Universitätsverwaltung – im Carolinum in der Seminarstr. 2 – eingeladen, ein Gebäude, welches für alle CAler*innen eine ganz besondere Bedeutung hat.<br>
-Wir hoffen, dass Sie ebenso begeistert von der Vorstellung sind, dass 50 junge Menschen ein Jahr gemeinsam leben und lernen und danach Verantwortung für sich selbst und die Gesellschaft übernehmen, wie wir. 
-        </div>
-<div style="margin-left: 63%; width=40%"> 
+Ein Orientierungsjahr ohne Kooperation mit der Universität Heidelberg können wir uns nicht vorstellen, daher haben wir uns seit Anfang des Jahres mit vielen Vetreter*innen unterschiedlicher Abteilungen getroffen und gemeinsam überlegt, wie eine gute Zusammenarbeit aussehen kann. Kurz vor Weihnachten wurden wir dafür zu einem Gespräch in der Universitätsverwaltung – im Carolinum in der Seminarstr. 2 – eingeladen, ein Gebäude, welches für alle CAler*innen eine ganz besondere Bedeutung hat.
+</div>
+<div style="margin-left: 63%; width=27%"> 
         <figure>
             <img alt="Auf dem Weg in das Carolinum" style="float: right;" src="/newsletter/Carolinum.png" width="100%" />
             <figcaption style="text-align:center">
             <p>Auf dem Weg in das Carolinum (&#169; CA)</p>
             </figcaption>
         </figure>
-    </div>
 </div>
-<br></br>
-   
-   
+</div>
+Wir hoffen, dass Sie ebenso begeistert von der Vorstellung sind, dass 50 junge Menschen ein Jahr gemeinsam leben und lernen und danach Verantwortung für sich selbst und die Gesellschaft übernehmen, wie wir. <br></br>
+Herzliche Grüße und einen guten Rutsch in das neue Jahr wünscht die Projektgruppe des CA!<br></br>
+P.s. Die nächsten Führung über das Gelände des CA findet am 15.01. um 14 Uhr statt. Wir bitten um eine kurze Anmeldung per Mail an <a href="mailto:exkursion@collegiumacademicum.de">exkursion@collegiumacademicum.de</a> und freuen uns auf Ihren Besuch!
 
-
-Herzliche Grüße und einen guten Rutsch in das neue Jahr wünscht die Projektgruppe des CA!
-
-P.s. Die nächsten Führung über das Gelände des CA findet am 15.01. um 14 Uhr statt. Wir bitten um eine kurze Anmeldung per Mail an [exkursion@collegiumacademicum.de](mailto:exkursion@collegiumacademicum.de) und freuen uns auf Ihren Besuch!
