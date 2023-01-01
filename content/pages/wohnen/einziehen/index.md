@@ -7,7 +7,7 @@ novoigl: yes
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
-Es ist so weit: Alle unsere Zimmer sind vergeben und die Bewerbungsphase für die Erstbelegung ist nun abgeschlossen.
+Wir haben es fast geschafft: Nahezu alle unserer 176 Zimmer sind vergeben!
 Wir haben tolle Menschen gefunden, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden.
 
 Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Februar 2023.
@@ -54,7 +54,7 @@ Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess e
 Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:einziehen@collegiumacademicum.de">E-Mail</a>, um einen möglichen Termin abzuklären, oder melde dich über <a href="mailto:exkursion@collegiumacademicum.de">diese Adresse</a> bei einer unserer nächsten Führungen an (Termine siehe auf der rechten Seitenleiste der Homepage).  
 </p>
 
-<!-- So funktioniert die Bewerbung um einen Platz im neuen CA:
+So funktioniert die Bewerbung um einen Platz im neuen CA:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
@@ -71,7 +71,7 @@ Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal
 Bei einer positiven Rückmeldung auf deine Bewerbung werden wir dir ein paar Termine zur Auswahl mitschicken. Es wird ungefähr jedes zweite Wochenende einen solchen Termin geben. Bitte melde dich dann verbindlich für einen Termin an. Aus Kapazitätsgründen wollen wir maximal doppelt so viele Bewerber\*innen einladen, wie wir Plätze zu vergeben haben.<br>
 Ziel der Auswahltage ist es, euch Einblick in verschiedene, für das selbstverwaltete Wohnen maßgebliche, Tätigkeitsbereiche zu geben. Zudem können wir euch dadurch besser kennenlernen und so eine fundierte Entscheidung treffen. Es wird Gruppenphasen geben, zu denen parallel 10-minütige Einzelgespräche stattfinden.<br>
 Wir werden während des Tages Notizen machen. Nicht, um euch direkt zu bewerten und in Schubladen zu stecken, sondern um auch im Nachhinein ein Bild von euch zu haben und darüber hinaus unseren eigenen Vorurteilen entgegenzuwirken.
-4. Ein paar Tage nach dem Auswahltag werdet ihr von uns eine Rückmeldung erhalten. Falls du ausgewählt wurdest, werden wir dich dann über den weiteren Prozess (Mitarbeit in der Bauphase, WG-Findung etc.) informieren. Außerdem würden wir beide, du und wir, dann jeweils eine Absichtserklärung unterschreiben. Das ist nichts rechtlich bindendes (kein Mietvertrag), aber ihr habt schon einmal etwas in der Tasche und wir werden euch euren Platz auch nicht wieder „wegnehmen“. Für uns sind die Absichtserklärungen ebenfalls hilfreich, damit wir sie zum Beispiel unserer Bank vorzeigen können und nicht die Sorge entsteht, wir hätten große Mietausfälle zu befürchten. -->
+4. Ein paar Tage nach dem Auswahltag werdet ihr von uns eine Rückmeldung erhalten. Falls du ausgewählt wurdest, werden wir dich dann über den weiteren Prozess (Mitarbeit in der Bauphase, WG-Findung etc.) informieren. Außerdem würden wir beide, du und wir, dann jeweils eine Absichtserklärung unterschreiben. Das ist nichts rechtlich bindendes (kein Mietvertrag), aber ihr habt schon einmal etwas in der Tasche und wir werden euch euren Platz auch nicht wieder „wegnehmen“. Für uns sind die Absichtserklärungen ebenfalls hilfreich, damit wir sie zum Beispiel unserer Bank vorzeigen können und nicht die Sorge entsteht, wir hätten große Mietausfälle zu befürchten.
 
 P.S.: Die Wetteraussichten für Do-it-Yourself Menschen und Bastler*innen jeglicher Art sind sehr gut. Die Möbel und einen Teil der Innenwände für unser Wohnheim bauen wir in unserer hauseigenen Werkstatt selbst. Die Arbeiten sind in vollem Gange und wir freuen uns über jede helfende Hand! Dies gilt natürlich auch für die vielen [anderen Aufgaben](/mach-mit), die im Laufe des Baus eines so großen Wohnheims erledigt werden müssen. Wenn du einziehen möchtest und auch schon jetzt Zeit hast, melde dich sehr gerne bei uns: [einziehen@collegiumacademicum.de](mailto:einziehen@collegiumacademicum.de)
 
