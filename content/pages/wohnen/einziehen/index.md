@@ -10,7 +10,7 @@ Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. We
 Es ist so weit: Alle unsere Zimmer sind vergeben und die Bewerbungsphase für die Erstbelegung ist nun abgeschlossen.
 Wir haben tolle Menschen gefunden, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden.
 
-Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Mitte Januar 2023.
+Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Februar 2023.
 In unserem Plenum gibt es wöchentliche Updates und Infos über den Baufortschritt.
 
 <!--<div class="progress-wrapperEinzug">

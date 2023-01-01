@@ -70,7 +70,7 @@ Neben den formalen Vorgaben (Wohnheim für Studierende, Promovierende und Auszub
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im Dezember 2022 möglich sein. 
+Da das Gebäude aktuell gebaut wird, können wir noch kein festes Einzugsdatum garantieren. Nach aktuellen Prognosen wird der Einzug im Februar 2022 möglich sein. 
 {{< /accordion >}}
 {{< accordion "Kann ich mir meine Mitbewohner\*innen aussuchen?" >}}
 Aktuell ist das leider nicht mehr möglich. Wir hatten das Wohnheim schon einmal voll belegt und haben nun nur noch einzelne Zimmer in WGs frei, in denen Personen aufgrund der Verschiebung des Einzugstermins wieder abgesagt haben. Diese Zimmer teilen wir unter Berücksichtigung bestimmter Diversitäts-Kriterien per Los zu. Falls es gar nicht passen sollte und ihr unglücklich mit eurer WG seid, gibt es aber immer noch die Möglichkeit, zu tauschen.

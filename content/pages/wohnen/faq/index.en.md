@@ -66,7 +66,7 @@ Given that the formal requirements are met (status as a student, doctoral studen
 ### Questions about moving in and the living together
 
 {{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will in January 2023.
+As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will be in February 2023.
 {{< /accordion >}}
 {{< accordion "Can I bring my pet?" >}}
 No, pets are currently not allowed in the dormitory. An exception to this are assistance pets.
