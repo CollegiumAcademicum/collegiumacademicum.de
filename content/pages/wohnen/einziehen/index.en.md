@@ -11,7 +11,7 @@ We have answered to the most common questions in [our FAQ](/en/faq). If you have
 The time has  come: All our rooms have been allocated and the application phase for first occupancy is now closed.
 We have found great people who will move into our self-managed dormitory and fill it with life.
 
-Since it is an ongoing construction site, we cannot guarantee a move-in date but anticipate mid-January 2023.
+Since it is an ongoing construction site, we cannot guarantee a move-in date but anticipate February 2023.
 There will be weekly updates and information about the construction progress in our plenary.
 
 <!--<div class="progress-wrapperEinzug">
@@ -40,7 +40,7 @@ Here a brief summary of figures for living in the CA's new building: One room in
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
             {{< img src="zimmer" desc="This is our test-build of a room, how it will most likely look like. Cozy living, modern architecture and renewable ressources!" attr="Johannes Roßnagel 2019" />}}
-            {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which will serve as the connection between all flats. The red markings show, how you can flexibly change your room size togehter with your flat-mates." attr="dgj Architekten 2017" />}}
+            {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which will serve as the connection between all flats. The red markings show, how you can flexibly change your room size together with your flat-mates." attr="dgj Architekten 2017" />}}
         {{< /img >}}
     </div>
 </div>
