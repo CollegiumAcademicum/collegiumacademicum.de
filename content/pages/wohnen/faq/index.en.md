@@ -48,7 +48,7 @@ Yes! You can apply before getting your student or trainee status. It is necessar
 For legal reasons, you must be at least 18 years old on the day you move in.
 {{< /accordion >}}
 {{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Yes, we are still looking for a few new residents for the move-in in December 2022! So get to the keyboard and [send us your application](/en/application)!
+Yes, we are still looking for a few new residents for the move-in in February 2023! So get to the keyboard and [send us your application](/en/application)!
 {{< /accordion >}}
 {{< accordion "Does the application cost anything?" >}}
 No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
