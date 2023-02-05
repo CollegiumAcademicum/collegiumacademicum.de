@@ -8,7 +8,7 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Nous avons déjà commencé à construire le nouveau bâtiment, qui sera terminé en 2022/2023. Mais un projet de logement ne devient vraiment un habitat qu'à travers les nombreuses personnes qui en font un lieu plein de vie et de bonne humeur! Nous cherchons donc à trouver le plus rapidement possible des personnes formidables qui veulent vivre avec nous.
+Nous avons déjà commencé à construire le nouveau bâtiment, qui sera terminé en 2023. Mais un projet de logement ne devient vraiment un habitat qu'à travers les nombreuses personnes qui en font un lieu plein de vie et de bonne humeur! Nous cherchons donc à trouver le plus rapidement possible des personnes formidables qui veulent vivre avec nous.
 
 Si tu es intéressé.e par l'écologie, l'apprentissage et l'auto-gestion, notre adresse pourrait devenir la tienne! Peut-être commenceras-tu à étudier à Heidelberg et tu cherches déjà un appartement? Ou peut-être que tu es enthousiaste à l'idée de vivre dans une grande communauté? Ou bien tu cherches simplement à changer de décor?
 
