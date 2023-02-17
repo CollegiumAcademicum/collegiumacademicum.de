@@ -7,7 +7,11 @@ slug: "Internet"
 # Setup of the WLAN
 
 On this page we explain how to log in to the WLAN.   
-First you need your personal access data. You can get them at the AG-IT.
+First you need your personal access data. You get them at the AG-Mietverwaltung. It is recommended to change the default password. To do this:
+
+1. go to the [Intranet](https://intranet.ca-hd.de/) and log in.
+2. click on your name in the upper right corner
+3. enter your old and twice your new password and click on "change".
 
 ## Android
 

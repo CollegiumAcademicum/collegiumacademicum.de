@@ -7,7 +7,11 @@ slug: "Internet"
 # Einrichtung der WLANS
 
 Auf dieser Seite erklären wir dir, wie du dich im WLAN einloggen kannst.   
-Zunächst benötigst du deine persönlichen Zugangsdaten. Diese kannst du bei der AG-IT erhalten.
+Zunächst benötigst du deine persönlichen Zugangsdaten. Diese bekommst du bei der AG-Mietverwaltung. Es empfiehlt sich das Default-Passwort zu ändern. Dafür:
+
+1. Gehe auf das [Intranet](https://intranet.ca-hd.de/) und logge dich ein.
+2. Klicke oben rechts auf deinen Namen
+3. Gib dein altes und zweimal dein neues Passwort ein und klicke auf "change".
 
 ## Android
 
