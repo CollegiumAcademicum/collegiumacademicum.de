@@ -1,4 +1,17 @@
 [[press]]
+title = "SWR AKTUELL BW"
+source = "SWR"
+link = "https://www.swr.de/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html"
+date = "18.02.2023"
+embed_link="https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html?startTime=917.00&endTime=1067.00&mediaId=ORDERINFOID%3A1811022"
+
+[[press]]
+title = "Bewohner ziehen in das neue Collegium Academicum in Heidelberg"
+source = "Mannheimer Morgen"
+date = "17.02.2023"
+link = "https://www.mannheimer-morgen.de/orte/heidelberg_artikel,-heidelberg-bewohner-richten-sich-ein-_arid,2051852.html"
+
+[[press]]
 title = "Für das neue Collegium Academicum wird jetzt der Altbau saniert"
 source = "RNZ"
 link = "https://www.rnz.de/region/heidelberg_artikel,-_arid,1039707.html"
