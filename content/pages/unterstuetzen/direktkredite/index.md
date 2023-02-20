@@ -33,7 +33,7 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 Mit unglaublichen **4 Mio. Euro** haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
 Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung.
 
-## Altbauten
+### Altbauten
 
 Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
 wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
