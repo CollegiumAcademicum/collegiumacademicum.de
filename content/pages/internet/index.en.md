@@ -30,10 +30,10 @@ First you need your personal access data. You get them at the AG-Mietverwaltung.
 
 1. download the [profile](ca_wifi.mobileconfig).
 2. open settings
-3. click on profile downloaded
+3. click on profile downloaded (alternative: Privacy&Security -> Profiles -> + and select the file)
 4. click install
-5. enter username and password and click on finish
-6. Select and connect the Wifi CA.
+5. enter username and password and click on ready
+6. select the Wifi CA and connect.
 
 ## Windows
 
@@ -59,7 +59,7 @@ First you need your personal access data. You get them at the AG-Mietverwaltung.
 ## MacOS
 
 1. download the [profile](ca_wifi.mobileconfig)
-2. double click to install
+2. open settings: Privacy&Security -> Profiles -> + and select the file.
 3. agree to the instructions
 4. enter username and PW
 5. select CA WLAN and connect

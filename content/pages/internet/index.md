@@ -30,7 +30,7 @@ Zunächst benötigst du deine persönlichen Zugangsdaten. Diese bekommst du bei 
 
 1. Lade das [Profil](ca_wifi.mobileconfig) herunter.
 2. Einstellungen öffnen
-3. Auf Profil heruntergeladen klicken
+3. Auf Profil heruntergeladen klicken (Alternativ: Privatsphäre&Sicherheit -> Profile -> + und die Datei auswählen)
 4. Installieren klicken
 5. Benutzername und Passwort eingeben und auf fertig klicken
 6. Das Wifi CA auswählen und verbinden.
@@ -60,7 +60,7 @@ Zunächst benötigst du deine persönlichen Zugangsdaten. Diese bekommst du bei 
 ## MacOS
 
 1. Lade das [Profil](ca_wifi.mobileconfig) herunter
-2. Mit Doppelklick installieren
+2. Einstellungen öffnen: Privatsphäre&Sicherheit -> Profile -> + und die Datei auswählen
 3. Den Hinweisen zustimmen
 4. Nutzername und PW eingeben
 5. CA WLAN auswählen und verbinden
