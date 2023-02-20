@@ -30,24 +30,27 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 
 ## Aktueller Stand
 
-### Altbauten
+Mit unglaublichen **4 Mio. Euro** haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
+Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung.
+
+## Altbauten
 
 Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
 wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
-Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. €** Direktkredite benötigen, von denen wir 
-(Stand Oktober 2022) schon etwa 1,2 Mio. € eingeworben haben.
+Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. Euro** Direktkredite benötigen, von denen wir 
+(Stand Februar 2023) schon etwa 1,2 Mio. Euro eingeworben haben.
 
 <progress class="progress is-large is-primary" value="1200" max="1900"></progress>
 
 
 ### Neubau
 
-Es ist uns bereits gelungen, etwa **2,8 Mio. €** Direktkredite zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
+Es ist uns bereits gelungen, etwa **2,8 Mio. Euro** Direktkredite (Stand Februar 2023) zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 300.000 €**
-für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
+Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 500.000 
+Euro** für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
 
-<progress class="progress is-large is-primary" value="2800" max="3100"></progress>
+<progress class="progress is-large is-primary" value="2800" max="3300"></progress>
 
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
