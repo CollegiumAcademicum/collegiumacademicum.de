@@ -22,6 +22,7 @@ Zunächst benötigst du deine persönlichen Zugangsdaten. Diese bekommst du bei 
     - EAP-Methode: TTLS
     - Phase2-Authentifizierung: PAP
     - CA-Zertifikat: das Zertifikat aus Schritt 2 auswählen
+    - Domain: intranet.ca-hd.de
     - Identität: (erhälst du bei der AG IT oder mit Einzugsunterlagen)
     - Passwort: (erhälst du bei der AG IT oder mit Einzugunterlagen)
     - Verbinden klicken
