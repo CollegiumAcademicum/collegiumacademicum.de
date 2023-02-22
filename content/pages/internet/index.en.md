@@ -22,6 +22,7 @@ First you need your personal access data. You get them at the AG-Mietverwaltung.
     - EAP method: TTLS
     - Phase2 authentication: PAP
     - CA certificate: select the certificate from step 2
+    - Domain: intranet.ca-hd.de
     - Identity: (you get it from AG IT or with collection documents)
     - Password: (you can get it from AG IT or with the collection documents)
     - Click to connect
