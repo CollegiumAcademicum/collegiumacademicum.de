@@ -1,9 +1,16 @@
 [[press]]
+title = "tagesthemen"
+source = "ARD"
+link = "https://www.ardmediathek.de/video/tagesthemen/tagesthemen/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2VzdGhlbWVuLzRlMjUzOGMyLTNlZTItNGE0Ny04ZTVmLWI0OTBhMGJlNTQzMy8x"
+date = "22.02.2023"
+embed_link = "https://www.ardmediathek.de/embed/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2VzdGhlbWVuLzRlMjUzOGMyLTNlZTItNGE0Ny04ZTVmLWI0OTBhMGJlNTQzMy8x?startTime=1668.00&endTime=1950.00"
+
+[[press]]
 title = "SWR AKTUELL BW"
 source = "SWR"
 link = "https://www.swr.de/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html"
 date = "18.02.2023"
-embed_link="https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html?startTime=917.00&endTime=1067.00&mediaId=ORDERINFOID%3A1811022"
+embed_link = "https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html?startTime=917.00&endTime=1067.00&mediaId=ORDERINFOID%3A1811022"
 
 [[press]]
 title = "Bewohner ziehen in das neue Collegium Academicum in Heidelberg"
