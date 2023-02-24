@@ -1,9 +1,22 @@
 [[press]]
+title = "drehscheibe"
+source = "ZDF"
+link = "https://www.zdf.de/nachrichten/drehscheibe/studierende-bauen-wohnheim-104.html"
+date = "23.02.2023"
+embed_link = "https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fnachrichten%2Fdrehscheibe%2Fstudierende-bauen-wohnheim-104"
+
+[[press]]
 title = "tagesthemen"
 source = "ARD"
-link = "https://www.ardmediathek.de/video/tagesthemen/tagesthemen/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2VzdGhlbWVuLzRlMjUzOGMyLTNlZTItNGE0Ny04ZTVmLWI0OTBhMGJlNTQzMy8x"
+link = "https://www.youtube.com/watch?v=encnDoEY5Dg"
 date = "22.02.2023"
 embed_link = "https://www.ardmediathek.de/embed/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2VzdGhlbWVuLzRlMjUzOGMyLTNlZTItNGE0Ny04ZTVmLWI0OTBhMGJlNTQzMy8x?startTime=1668.00&endTime=1950.00"
+
+[[press]]
+title = "Selbstverwaltetes Wohnheim in Heidelberg – erste Studenten und Azubis ziehen ein"
+source = "Heidelberg24"
+date = "22.02.2023"
+link = "https://www.heidelberg24.de/heidelberg/selbstverwaltetes-wohnheim-student-azubis-einzug-bauarbeiten-collegium-academicum-92103692.html"
 
 [[press]]
 title = "SWR AKTUELL BW"
