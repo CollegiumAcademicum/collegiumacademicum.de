@@ -2,6 +2,42 @@
 heading = "AUJOURD'HUI"
 center = true
 
+
+[[timeline]]
+heading = "Février 2023"
+content = "<img src='230208_CA_bei_Nacht.jpg' />176 jeunes emménagent dans le nouveau bâtiment du CA"
+
+
+[[timeline]]
+heading = "Janvier 2023"
+content = "<img src='richtfest_altbau.jpg' />Célébration du bouquet final de l'ancien bâtiment"
+
+
+[[timeline]]
+heading = "2023"
+center = true
+
+
+[[timeline]]
+heading = "Décembre 2022"
+content = "Permis de construire (pour la rénovation du grand bâtiment ancien)"
+
+
+[[timeline]]
+heading = "Novembre 2022"
+content = "4.000.000 € de crédits directs mobilisés, dont 1.200.000 € pour les <a href='https://collegiumacademicum.de/altbauten/'>anciens bâtiments</a>."
+
+
+[[timeline]]
+heading = "Septembre 2022"
+content = "Déplacement de la fraiseuse à bois CnC vers l'atelier du nouveau bâtiment."
+
+
+[[timeline]]
+heading = "Juillet à août 2022"
+content = "Quatre <a href='https://collegiumacademicum.de/aktionen/'>chantiers participatifs</a> avec beaucoup de travaux de construction par nous-mêmes, encadrés par divers ateliers et activités communautaires."
+
+
 [[timeline]]
 heading = "Juin 2022"
 content = "La construction de l'arcade du nouveau bâtiment est terminée."
