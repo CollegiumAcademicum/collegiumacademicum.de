@@ -5,13 +5,13 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
+Im Februar 2023 sind wir endlich in das CA-Wohnheim im Neubau eingezogen. Alle unsere Zimmer sind belegt und wir haben tolle
+Menschen gefunden, die unser selbstverwaltetes Wohnheim mit Leben füllen.
 
-Es ist so weit: Alle unsere Zimmer sind vergeben und die Bewerbungsphase für die Erstbelegung ist nun abgeschlossen.
-Wir haben tolle Menschen gefunden, die in unser selbstverwaltetes Wohnheim einziehen und es mit Leben füllen werden.
-
-Da es sich um eine laufende Baustelle handelt, können wir keinen Einzugstermin garantieren, rechnen aber mit Februar 2023.
-In unserem Plenum gibt es wöchentliche Updates und Infos über den Baufortschritt.
+Derzeit sind daher keine Bewerbungen möglich. Durch die übliche Fluktuation im Wohnheim werden wir aber zu vier
+Terminen im Jahr Bewerbungen entgegennehmen und frei gewordene Plätze wieder füllen.
+Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet.
+Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
 
 <!--<div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="176" max="176"></progress>
