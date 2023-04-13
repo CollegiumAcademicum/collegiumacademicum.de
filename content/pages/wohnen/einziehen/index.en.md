@@ -6,11 +6,11 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-We finally moved into the CA dormitory in the new building in February 2023. All our rooms are occupied and we have found great
+The first residents finally moved into the new wooden building in February 2023. All our rooms are occupied and we have found great
 people to fill our self-managed dormitory with life.
 
-Therefore, no applications are possible at the moment. However, due to the usual fluctuation in the dormitory,
-we will be accepting applications at four dates per year and fill vacant places.
+No applications are possible at the moment. However, due to the usual fluctuation in the dormitory,
+we will be accepting applications at multiple dates per year and fill vacant places.
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
 
