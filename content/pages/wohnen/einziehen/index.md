@@ -5,7 +5,7 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Im Februar 2023 endlich die ersten Bewohner\*innen in das Wohnheim im CA-Neubau gezogen. Alle unsere Zimmer sind belegt und wir haben tolle
+Im Februar 2023 sind endlich die ersten Bewohner\*innen in das Wohnheim im CA-Neubau gezogen. Alle Wohnheim-Zimmer sind belegt und wir haben tolle
 Menschen gefunden, die unser selbstverwaltetes Wohnheim mit Leben füllen.
 
 Derzeit sind keine Bewerbungen möglich. Durch die übliche Fluktuation im Wohnheim werden wir aber zu mehreren Terminen im Jahr Bewerbungen entgegennehmen und frei gewordene Plätze wieder füllen.
