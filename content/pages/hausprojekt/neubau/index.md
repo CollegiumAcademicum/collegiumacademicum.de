@@ -8,7 +8,8 @@ slug: "neubau"
 Selbstverwaltetes Wohnheim, Bildungsinstitution und kulturelles Zentrum: Das
 neue Collegium Academicum, auf dem Gelände des ehemaligen US-Hospitals in
 Heidelberg-Rohrbach setzt sich aus zwei Bestandsgebäuden und einem innovativen
-Neubau in moderner Holzbauweise zusammen. Die ersten Bewohner\*innen sollen im Februar 2023 in den Neubau einziehen.
+Neubau in moderner Holzbauweise zusammen.
+Die ersten Bewohner\*innen sind im Februar 2023 in den Neubau eingezogen.
 
 {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank 2018" />}}
