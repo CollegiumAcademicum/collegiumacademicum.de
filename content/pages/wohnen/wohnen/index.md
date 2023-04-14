@@ -1,19 +1,34 @@
 ---
 title: "Wohnen"
-slug: "wohnen"
 novoigl: yes
 ---
 
 
-Du möchtest in den Neubau des CA einziehen? Dann findest du hier alle wichtigen Informationen sowie unser Bewerbungsformular.
+Du suchst nach Informationen zum Wohnen im CA oder möchtest selbst einziehen?
+Dann wirst du hier fündig:
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/einziehen" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/wohnheim" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Einziehen</span>
+        <span>Wohnheim</span>
     </a>
+    <a href="{{< relref "/sozialer-mietwohnraum" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Sozialer Mietwohnraum</span>
+    </a>
+    <a href="{{< relref "/orientierungsjahr" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Orientierungsjahr</span>
+    </a>
+</div>
+
+<div class="buttons is-centered">
     <a href="{{< relref "/faq" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>

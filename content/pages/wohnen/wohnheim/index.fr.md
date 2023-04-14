@@ -1,6 +1,6 @@
 ---
-title: "Emménager"
-slug: "emmenager"
+title: "Résidence"
+slug: "residence"
 novoigl: yes
 ---
 
