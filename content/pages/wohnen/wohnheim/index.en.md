@@ -1,6 +1,6 @@
 ---
-title: "Moving in"
-slug: "moving-in"
+title: "Dorm"
+slug: "dorm"
 novoigl: yes
 ---
 
