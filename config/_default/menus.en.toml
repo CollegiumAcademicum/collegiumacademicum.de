@@ -3,13 +3,8 @@
     url = "/housing-project"
     weight = 1
 [[main]]
-    name = "New building"
-    url = "/new-building"
-    weight = 1
-    parent = "Housing Project"
-[[main]]
-    name = "Old buildings"
-    url = "/old-building"
+    name = "Our buildings"
+    url = "/buildings"
     weight = 1
     parent = "Housing Project"
 [[main]]
@@ -92,22 +87,27 @@
     url = "/living"
     weight = 5
 [[main]]
-    name = "Moving in"
-    url = "/moving-in"
+    name = "Dorm"
+    url = "/dorm"
     weight = 1
     parent = "Living"
 [[main]]
-    name = "Application"
-    url = "/application"
+    name = "Social rental housing"
+    url = "/social-rental-housing"
     weight = 2
+    parent = "Living"
+[[main]]
+    name = "Orientation year (Falt*r)"
+    url = "/orientation-year"
+    weight = 3
     parent = "Living"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 3
+    weight = 4
     parent = "Living"
 [[main]]
     name = "Accessibility"
     url = "/accessibility"
-    weight = 4
+    weight = 5
     parent = "Living"

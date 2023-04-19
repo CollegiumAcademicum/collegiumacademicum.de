@@ -1,6 +1,7 @@
 ---
-title: "Wohnheim"
+title: "Wohnheim für junge Menschen in Ausbildung"
 novoigl: yes
+slug: "wohnheim"
 ---
 
 {{< video "2019_Zimmermodell" >}}

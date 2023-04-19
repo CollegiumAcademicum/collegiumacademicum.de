@@ -8,34 +8,29 @@
     url = "/hausprojekt"
     weight = 2
 [[main]]
-    name = "Neubau"
-    url = "/neubau"
+    name = "Unsere Gebäude"
+    url = "/gebaeude"
     weight = 1
-    parent = "Hausprojekt"
-[[main]]
-    name = "Altbauten"
-    url = "/altbauten"
-    weight = 2
     parent = "Hausprojekt"
 [[main]]
     name = "Bildung"
     url = "/bildung"
-    weight = 3
+    weight = 2
     parent = "Hausprojekt"
 [[main]]
     name = "Nachhaltigkeit"
     url = "/nachhaltigkeit"
-    weight = 4
+    weight = 3
     parent = "Hausprojekt"
 [[main]]
     name = "Selbstverwaltung"
     url = "/selbstverwaltung"
-    weight = 5
+    weight = 4
     parent = "Hausprojekt"
 [[main]]
     name = "Finanzierung"
     url = "/finanzierung"
-    weight = 6
+    weight = 5
     parent = "Hausprojekt"
 
 [[main]]
