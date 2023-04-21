@@ -50,7 +50,14 @@ Seminarräume, Werkstätten, das Pförtnerhäuschen und die Aula sollen auch Men
 
 ## Das Orientierungsjahr
 
-Eine Besonderheit stellt das Orientierungsjahr dar, welches im Oktober 2023 starten soll: Zwischen Schule und dem nächsten Ausbildungsschritt (z.B. beruflicher Ausbildung oder Studium) wird jungen Menschen, die im Altbau des CA gemeinschaftlich leben, ein einjähriges, fachübergreifendes Bildungsprogramm ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen und Themen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
+Eine Besonderheit stellt das [Orientierungsjahr Falt*r](https://faltr.de/home) dar, welches im Oktober 2023 starten soll: Zwischen Schule und dem nächsten Ausbildungsschritt (z.B. beruflicher Ausbildung oder Studium) wird jungen Menschen, die im Altbau des CA gemeinschaftlich leben, ein einjähriges, fachübergreifendes Bildungsprogramm ermöglicht. In der kritischen Auseinandersetzung mit verschiedenen Disziplinen und Themen wird die Grundlage für Perspektivwechsel und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
+
+<p class="aligncenter">
+<a href="https://faltr.de/home">
+     <img alt="Falt*r Logo" src="logo-falter.png"
+     width="100" class="center">
+</a>
+</p>
 
 Wir alle können bestens nachvollziehen, dass es sehr verwirrend sein kann, nach der Schule schon einen Plan haben zu müssen, wie es im (beruflichen) Leben weitergehen soll. Die Welt ist so komplex und vernetzt wie nie zuvor und das macht die Frage nach dem nächsten Ausbildungsschritt nicht einfacher. Gerade hier bildet das CA eine einzigartige Chance, die unterschiedlichsten Ausbildungs- und Lebensmodelle in einem gemeinsamen Gestaltungsraum zu verbinden, in dem Menschen mit unterschiedlichem Ausbildungsstand und -weg mit den verschiedensten Hintergründen die Möglichkeit haben, sich treffen und austauschen zu können. In Kombination mit der Selbstverwaltung entwickelt sich ein Fundament für nachhaltige, chancenvielfältige und selbstbestimmte Lebensläufe. 
 
@@ -66,4 +73,3 @@ Wir alle können bestens nachvollziehen, dass es sehr verwirrend sein kann, nach
 </div>
 
 Dieses innovative Konzept fügt sich perfekt in das Motto der Internationalen Bauausstellung (IBA) _„Wissen schafft Stadt“_ ein und wurde aufgrund seines zukunftsweisenden Pilotcharakters 2015 zum IBA-Projekt gekürt.
-
