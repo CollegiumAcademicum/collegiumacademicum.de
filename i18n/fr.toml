@@ -74,6 +74,15 @@ other = "Le rendez-vous est fixé devant la clôture de chantier de la Karlsruhe
 [exkursion-cancelled-message]
 other = "La visite de chantier annoncée dimanche doit malheureusement être annulée."
 
+[orientierungsjahr]
+other = "Année d’orientation"
+
+[faltr]
+other = "falt*r"
+
+[oj-message]
+other = "La première édition de notre année d'orientation falt*r débutera à l'automne 2023. Sur notre site web, nous donnons des informations sur la vision, le programme et la participation."
+
 [anfahrt]
 other = "Carte"
 

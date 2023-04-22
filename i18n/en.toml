@@ -74,6 +74,15 @@ other = "Meeting point is in front of the construction fence on Karlsruher Stra√
 [exkursion-cancelled-message]
 other = "Unfortunately, the announced construction site tour on Sunday has to be cancelled."
 
+[orientierungsjahr]
+other = "The orientation year"
+
+[faltr]
+other = "falt*r"
+
+[oj-message]
+other = "In autumn 2023, the first class of our orientation year falt*r will start. On our website we provide information about the vision, the programme and participation."
+
 [richtfest]
 other = "Topping-out ceremony"
 
