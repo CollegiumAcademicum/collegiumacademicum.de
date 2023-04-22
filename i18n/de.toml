@@ -74,6 +74,14 @@ other = "Treffpunkt ist vor dem Bauzaun an der Karlsruher Straße, schräg gegen
 [exkursion-cancelled-message]
 other = "Die angekündigte Baustellenführung am Sonntag muss leider ausfallen."
 
+[orientierungsjahr]
+other = "Das Orientierungsjahr"
+
+[faltr]
+other = "Zum falt*r"
+
+[oj-message]
+other = "Im Herbst 2023 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
 
 [richtfest]
 other = "Richtfest"
