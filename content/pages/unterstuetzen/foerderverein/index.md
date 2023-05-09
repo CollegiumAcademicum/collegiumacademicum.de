@@ -13,7 +13,7 @@ _„Förderverein Collegium Academicum Heidelberg e.V.“_!
 
 Bei Interesse wenden Sie sich bitte per E-Mail an
 [collegiumacademicum@posteo.de](mailto:collegiumacademicum@posteo.de) oder
-postalisch an _Förderverein Collegium Academicum Heidelberg e.V. – Plöck 93 –
-69117 Heidelberg_.
+postalisch an _Förderverein Collegium Academicum Heidelberg e.V. – Mendelejewplatz 1 –
+69126 Heidelberg_.
 
 Vielen Dank!
