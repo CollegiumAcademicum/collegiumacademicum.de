@@ -4,6 +4,26 @@ slug: "aktionen"
 aliases: [/summerschool/]
 ---
 
+## HammerCAmps 2023
+
+Der Einzug in den Neubau ist vollbracht, doch der nächste Meilenstein, die Fertigstellung unseres Altbaus, steht
+noch bevor, damit dort in wenigen Monaten unser Orientierungsjahr [falt*r](https://faltr.de/home) und der soziale Wohnungsbau Platz finden.
+
+Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
+* **HammerCAmp** 1: 03.07. bis 09.07.2023
+* **HammerCAmp** 2: 17.07. bis 23.07.2023
+* **HammerCAmp** 3: 31.07. bis 06.08.2023
+* **HammerCAmp** 4: 14.08. bis 20.08.2023
+* **HammerCAmp** 5: 04.09. bis 10.09.2023
+
+Schwerpunkt werden Arbeiten im Innenraum und die Ausstattung des Altbaus sein. Das Ganze wird ergänzt durch gemeinsames
+veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis). Daneben wird es auch Raum für Workshops, Exkursionen, Filmabende, die ein oder andere Party
+und generell gemeinsame Freizeit geben.
+
+Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf):
+
+<object data="Einladung_HammerCAmps.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Einladung_HammerCAmps.pdf">Download PDF</a></object>
+
 ## Partizipative Baustellen 2022
 
 Von Juni bis August 2022, in der heißen Phase der Fertigstellung unseres Holz-Neubaus und des Beginns der Altbau-Sanierung,
