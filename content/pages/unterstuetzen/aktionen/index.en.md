@@ -17,6 +17,6 @@ Therefore, this summer we invite you to five spectacular "HammerCAmps.
 
 The focus will be on work in the interior and the furnishing of the old building. The whole thing will be complemented by communal vegan breakfast, lunch and dinner (on a donation basis). There will also be space for workshops, excursions, film evenings, one or two parties and general leisure time together.
 
-Here is our [detailed invitation](Invitation_HammerCAmps.pdf):
+Here is our [detailed invitation](Invitation_HammerCAmps.pdf) and the [registration link](https://app.guestoo.de/public/event/bf84e343-94e0-4cec-a5ec-a709190dc13a):
 
 <object data="Invitation_HammerCAmps.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Invitation_HammerCAmps.pdf">Download PDF</a></object>

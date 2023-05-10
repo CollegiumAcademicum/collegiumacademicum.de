@@ -20,7 +20,7 @@ Schwerpunkt werden Arbeiten im Innenraum und die Ausstattung des Altbaus sein. D
 veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis). Daneben wird es auch Raum für Workshops, Exkursionen, Filmabende, die ein oder andere Party
 und generell gemeinsame Freizeit geben.
 
-Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf):
+Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf) und der [Link zur Anmeldung](https://app.guestoo.de/public/event/bf84e343-94e0-4cec-a5ec-a709190dc13a):
 
 <object data="Einladung_HammerCAmps.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Einladung_HammerCAmps.pdf">Download PDF</a></object>
 
