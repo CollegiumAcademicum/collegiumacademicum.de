@@ -132,10 +132,12 @@ other = "Bewerben"
 other = "Abonniere unseren Interessierten-Newsletter"
 
 [summerschool]
-other = "Partizipative Baustelle"
+# other = "Partizipative Baustelle"
+other = "HammerCAmps"
 
 [summerschool-message]
-other = "Das CA hat im Sommer mehrere partizipative Baustellen mit spannendem Bildungsprogramm veranstaltet. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
+# other = "Das CA hat im Sommer mehrere partizipative Baustellen mit spannendem Bildungsprogramm veranstaltet. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
+other = "Wie in den vergangenen Jahren organisiert das CA diesen Sommer wieder gemeinschaftliche Arbeitseinsätze auf der Baustelle. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
 
 [informieren]
 other = "Informieren"

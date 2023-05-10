@@ -52,7 +52,11 @@
     url = "/donations"
     weight = 3
     parent = "Support"
-
+[[main]]
+    name = "Activities"
+    url = "/activities"
+    weight = 4
+    parent = "Support"
 [[main]]
     name = "About us"
     url = "/about-us"

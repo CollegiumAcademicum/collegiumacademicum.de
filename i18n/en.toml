@@ -132,10 +132,12 @@ other = "Apply"
 other = "Sign up for our newsletter for people interested in moving in"
 
 [summerschool]
-other = "CA-Summerschool"
+other = "HammerCAmps"
+#other = "CA-Summerschool"
 
 [summerschool-message]
-other = "In summer, the CA organized several summer schools with an exciting educational program. In these summer camps, we aim to combine construction activities with eduction and community!"
+other = "As in previous years, the CA is organising community work camps on the construction site this summer. In these summer camps, we combine construction activities with education and community!"
+# other = "In summer, the CA organized several summer schools with an exciting educational program. In these summer camps, we aim to combine construction activities with eduction and community!"
 
 [informieren]
 other = "Get information"
