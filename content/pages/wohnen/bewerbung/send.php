@@ -64,7 +64,7 @@ $i18n = [
         "dear" => "Dear",
         "check_education_status" => "Checked for educational status for moving in",
     ]];
-$number_of_inboxes = 4;
+// $number_of_inboxes = 4;
 
 // Creates the form: command inserts the html form tag
 $form = new Formr();
@@ -149,8 +149,8 @@ if($form->submit()){
     	$applicant = array($data["email"], $data['full_name']);
 
     	// The id of the auswahl team this email goes to
-    	$rid = rand(1,$number_of_inboxes);
-    	$contact = array("bewerbung{$rid}@collegiumacademicum.de", "Collegium Academicum");
+    	// $rid = rand(1,$number_of_inboxes);
+    	$contact = array("einziehen@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation
     	send_mail($contact, $applicant, $data, $lang, True);
