@@ -4,7 +4,7 @@ slug: "living"
 novoigl: yes
 ---
 
-You are moving into the new CA building and are looking for information? Then you'll find it on the following pages:
+You are interested in moving into our dormitory? Here you can find all the important information as well as our application form.
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/einziehen" >}}" class="button is-medium is-primary">
