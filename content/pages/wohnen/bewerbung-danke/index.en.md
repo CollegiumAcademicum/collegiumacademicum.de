@@ -5,8 +5,8 @@ novoigl: yes
 
 Thank you for your application to move into the CA! 
 
-You should have received a confirmation email at the email address you entered. If you have not received the confirmation email, please contact us at [bewerbung@collegiumacademicum.de](bewerbung@collegiumacademicum.de).
+You should have received a confirmation email at the email address you entered. If you have not received the confirmation email, please contact us at einziehen@collegiumacademicum.de.
 
-Do you have questions about your application? You can answer the confirmation mail that you have received, to contact the person that is responsible for your application.
+If you have any questions about your application, you can also reply to the confirmation email.
 
-We are going to come back to you in the following two weeks about the further process!
+Please note that we will only contact you after the application deadline, because depending on the number of applications, we may have to draw lots to decide which applicants we can invite to the get-to-know day.
