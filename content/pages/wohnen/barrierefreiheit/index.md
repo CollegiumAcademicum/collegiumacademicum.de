@@ -4,9 +4,8 @@ novoigl: yes
 slug: "barrierefreiheit"
 ---
 
-Auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach entsteht ein viergeschossiger Holzneubau, der 
-Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende bietet.
-Die Zimmer sind in 3er- und 4er WGs gruppiert, und besitzen je ein eigenes Bad und Küche.
+Unser viergeschossiger Holzneubau auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach bietet Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende.
+Die Zimmer sind in 3er- und 4er-WGs gruppiert und besitzen je ein eigenes Bad und Küche.
 Bei der Architektur des Gebäudes wurde darauf Wert gelegt, möglichst barrierearm zu bauen.
 Im Folgenden haben wir die wichtigsten Informationen zur Barrierefreiheit zusammengefasst.
 
@@ -33,7 +32,7 @@ Die Bäder der Wohneinheiten sind alle als identische, barrierefreie Fertigbäde
 Grundlage dafür ist der "Ready-Standard" (www.readyhome.de/).
 Alle Bäder sind so vorbereitet, dass sie leicht mit entsprechenden Griffen und Halterungen nachgerüstet werden können.
 
-Vier der Bäder werden bereits ab Erstbezug mit Griffen und Halterungen ausgestattet, inkl. Schalteröffnung für die
+Vier der Bäder wurden bereits ab Erstbezug mit Griffen und Halterungen ausgestattet, inkl. Schalteröffnung für die
 Badtür. Allerdings sind die Toiletten nur von jeweils einer Seite anfahrbar (in zwei Wohnungen von rechts, und in zwei
 Wohnungen von links).
 
@@ -53,4 +52,4 @@ Außerdem freuen wir uns auch über Hinweise auf fehlende Informationen.
 
 Ihr erreicht uns per E-Mail und telefonisch:
 
-kontakt@collegiumacademicum.de und +49 (0)6221-652236
+einziehen@collegiumacademicum.de und +49 (0)6221-652236
