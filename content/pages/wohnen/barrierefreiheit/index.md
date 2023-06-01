@@ -6,7 +6,9 @@ slug: "barrierefreiheit"
 
 Unser viergeschossiger Holzneubau auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach bietet Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende.
 Die Zimmer sind in 3er- und 4er-WGs gruppiert und besitzen je ein eigenes Bad und eine Küche.
-Bei der Architektur des Gebäudes wurde darauf Wert gelegt, möglichst barrierearm zu bauen.
+
+Bei der Architektur des Gebäudes wurde Wert darauf gelegt, möglichst barrierearm zu bauen.
+
 Im Folgenden haben wir die wichtigsten Informationen zur Barrierefreiheit zusammengefasst.
 
 ### Zugang zum Haus und zu den Wohnungen
@@ -14,8 +16,8 @@ Im Folgenden haben wir die wichtigsten Informationen zur Barrierefreiheit zusamm
 Der gesamte Neubau inkl. Veranstaltungsräumen ist barrierefrei zugänglich.
 Die Wohneinheiten sind durch einen Laubengang und einen Fahrstuhl (Türbreite min. 90 cm, Fahrkorbbreite 110 cm und 
 -tiefe 210 cm, einseitiger Zugang) erreichbar.
-
 Der Fahrstuhl ist schwellenlos, die Drucktaster sind visuell und taktil markiert und er verfügt über eine Sprachausgabe.
+
 Der Übergang vom Laubengang zu den Wohnungen ist bodengleich.
 Die Wohnungstüren haben eine Breite von 125 cm.
 
