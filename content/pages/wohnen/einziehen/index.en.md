@@ -6,25 +6,18 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-The first residents finally moved into the new wooden building in February 2023. All our rooms are occupied and we have found great
-people to fill our self-managed dormitory with life.
+After a long planning and construction phase, the first 176 residents finally moved into our new dormitory in February 2023 and are shaping the CA into a place of collaborative, sustainable and self-managed living together.
 
-No applications are possible at the moment. However, due to the usual fluctuation in the dormitory,
-we will be accepting applications at multiple dates per year and fill vacant places.
+In our dormitory, we are regularly looking for new residents to fill vacant rooms. The next possible move-in date is August 1, 2023. After that, moving into the CA is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). For the move-in in August you can apply now via the application form here on our website.
 
-We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions you can write us at einziehen@collegiumacademicum.de.
+We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us at einziehen@collegiumacademicum.de.
 
-
-<!--<div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="176" max="176"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 176;">occupied</p>
-</div>-->
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
         {{< img src="projektgruppe" desc="This is the small porter house at the entrance to the areal. We are planning to transform this building to a self-organized cafe." attr="Johannes Roßnagel 2017" />}}
-        {{< img src="werkstatt" alt="The wood workshop is already set up in the old house. The project group and later residents will be participating at the house construction by building wooden parts and furniture on their own. Are you a do-it-yourself person or want to get better at it? Perfect!" attr="Uli Hillenbrand 2020" />}}
-        {{< img src="teamwork" alt="Self-organization means teamwork. We are building the new house as a team an always learn from each other on the was and support each other." attr="Johannes Roßnagel 2019" />}}
+        {{< img src="werkstatt" alt="In our wood workshop, we designed and built much of the furniture for the rooms on our own. Are you a do-it-yourself person or want to get better at it? Perfect!" attr="Uli Hillenbrand 2020" />}}
+        {{< img src="teamwork" alt="Self-organization means teamwork. We learn from each other and support each other." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}
     </div>
     <div class="column">
@@ -32,7 +25,7 @@ We have answered to the most common questions in [our FAQ](/en/faq). If you have
     </div>
 </div>
 
-Here a brief summary of figures for living in the CA's new building: One room in the CA will cost approximately 312 EUR per month including all utilities, except electricity. We are constantly working on reducing the rent by all means possible. If and how that succeeds, mostly depends on how the construction costs develop.
+A room in our dormitory costs a total of 345 € per month (315,20 € warm rent plus about 30 € costs for electricity and internet). As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -40,27 +33,19 @@ Here a brief summary of figures for living in the CA's new building: One room in
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
-            {{< img src="zimmer" desc="This is our test-build of a room, how it will most likely look like. Cozy living, modern architecture and renewable ressources!" attr="Johannes Roßnagel 2019" />}}
-            {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which will serve as the connection between all flats. The red markings show, how you can flexibly change your room size together with your flat-mates." attr="dgj Architekten 2017" />}}
+            {{< img src="zimmer" desc="This is what a room in our dormitory looks like. Cozy living, modern architecture and renewable ressources!" attr="Johannes Roßnagel 2019" />}}
+            {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which serves as the connection between all flats. The red markings show how you can flexibly change your room size together with your flatmates." attr="dgj Architekten 2017" />}}
         {{< /img >}}
     </div>
 </div>
 
+The flats are prepared to be barrier-free. We have summarized detailed information regarding accessibility on [this page](/en/accessibility).
 
-The <a href="/en/accessibility">flats are prepared to be barrier-free</a>.
+A condition for living in our dormitory is that you are studying, doing an apprenticeship or a doctorate. But the most important thing for us is that you want to take your life into your own hands, together with other people. Make yourself familiar with [our vision](/en/vision) and the ["Mietshäusersyndikat"](https://www.syndikat.org/en/). If this fits to you, feel free to apply for a room or sign up for our newsletter at the bottom of the page.
 
+As we expect to receive more applications than we can offer rooms, we do have to formalize the application process a bit. We have developed the application process over a longer time, and we think it is reasonably transparent, fair and inclusive. If you feel you are disadvantaged by the process or unhappy with it out of other reasons, please do not hesitate to contact us!
 
-The most important for us is that you want to take your life into your own hands, together with other people. Make yourself familiar with [our vision]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) and the ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ). If this fits to you, then <!-- please apply for a room and / or -->
-sign up for the [newsletter](#einziehen_form) at the bottom of the page. Another condition for moving in is that you are studying, doing an apprenticeship or a doctorate.
-
-As we have many rooms to fill and are accordingly expecting many applications, we do have to formalize the application process a bit. We developed the application process over a longer time, and think it is reasonably transparent, fair and inclusive. If you feel you are disadvantaged by the process or unhappy with it out of other reasons, please do not hesitate to contact us!
-
-<p style="padding: 10px; border: 2px solid #35ADA4;">
-If you would like to <b>have a look</b> at your future home before or after your application, please send us an <a href="mailto:kontakt@collegiumacademicum.de">email</a> .
-We can then decide together in what form this is possible at the time. 
-</p>
-
-<!-- Here is how the application process for a room in the new CA works:
+Here is how the application for a room in our dormitory works:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
@@ -71,17 +56,11 @@ We can then decide together in what form this is possible at the time.
     </a>
 </div>
 
-1. You fill out the [application form]({{< relref "/pages/wohnen/bewerbung" >}}), either in German or English. Please take note of the maximum text lengths.
-2. We take a look at the incoming applications and sort out who will be invited to an application day. One-quarter of the slots for the application days will be randomly drawn. Depending on how many applications we receive, we might not be able to invite to an application day right away and only can reconsider your application on a later date.
-3. Application days:
-Following a positive selection, we will send you a number of possible dates for the application days. There will be an application day approximately every second weekend. Please then, register for one of the application days. Because of restricted capacity, we want to invite at maximum double the number applicants as we have free rooms.<br>
-It is the goal of the application day to give you an insight into various topics of self-managed housing. Furthermore, we can meet you more in-depth and thus make a more informed decision. There will be a group phase and in parallel 10 minutes long single conversations.<br>
-Throughout the day we will make notes. Not to assess you and put you into fixed categories but to have a clear image of your afterwards and also to mitigate our own biases.
-4. Some days after the application day, you will get a response from us. If you could make it, we will inform you about the further steps (help during the construction phase, picking the actual room etc.). Further, you and us would each sign a letter of intent. This letter is not binding you to do anything (it is not a rental contract) but it gives you the security than nobody else will be able to take your spot. Also, the letter of intent helps us, for example, to prove to our bank that we found the necessary number of renters. -->
+1. You fill out the [application form](/en/application), either in German or in English. Please take note of the maximum text lengths.
+2. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
+3. About two weeks after the application deadline, the application day takes place. The intention of this day is to give you an insight into life in the CA and the structure of the self-government. It also allows us to get to know you better so that we can make an informed decision. We will first introduce the CA, followed by a group phase and a 15-minute individual interview. If you are invited to the application day, you are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the application day in presence, if it's possible for you, so that you can get to know our project better. Throughout the day we will make notes. Not to assess you and put you into fixed categories, but to have a clear image of your afterwards and also to mitigate our own biases. After the application day, we decide which applicants we would like to accept. If we want to accept more applicants than we have vacant rooms, we first assign acceptances on the basis of a quota to enable apprentices in particular to move into the CA. After that, we assign acceptances by drawing lots.
+4. Within one week after the application day, you will receive a feedback from us via email. If you are accepted, you have two days to decide whether you want to move in. We will then invite you to a WG finding day, where you can get to know the different WGs in which rooms become vacant. Afterwards, you can give feedback on which WGs you would or would not like to move into. Likewise, the WGs can give feedback. We try to take all wishes into account as good as possible. As soon as it has been decided which WG you will move into, the AG Mietverwaltung will set up your rental contract.
 
-_P.S.:_ For all do-it-yourself enthusiasts and people who like to create things with their hands: the weather prospects seem to be positive. We are building some of the furniture and facade elements by ourselves in our in-house workshop. Therefore, we welcome anyone motivated to help us! This also applies, of course, to the many other tasks that have to be done for such a huge project as the CA. If you would like to move in and/or already have time, please contact us:
-[einziehen@collegiumacademicum.de](mailto:einziehen@collegiumacademicum.de)
-
-<p>You can sign up here for the moving-in newsletter (German):</p>
+If you are interested in living in our dormitory, but would only like to move in at a later date, you can sign up here for our moving-in newsletter. Then we will always inform you directly as soon as a new application process has started.
 
 {{< einziehen-signup >}}
