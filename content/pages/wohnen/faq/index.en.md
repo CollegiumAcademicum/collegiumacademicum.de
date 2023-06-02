@@ -8,13 +8,10 @@ slug: "faq"
 ### Questions about the furnishing of the rooms and the dormitory
 
 {{< accordion "How high is the rent?" >}}
-The warm rent is 310.20 €/month, with additional costs for internet (7.50 €) and electricity (21.50 €), so that we end 
-up with a total of just under 340 €/month. 
-The electricity costs of 21.50 €/month are paid in advance by each person, but the final costs are calculated at the end
-of the year based on actual use.
+A room in our dormitory costs a total of 345 € per month (315,20 € warm rent plus about 30 € costs for electricity and internet). The electricity costs of 21.50 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 {{< /accordion >}}
 {{< accordion "How big are the rooms?" >}}
-Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup>.
+Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the workshop and the roof terrace.
 {{< /accordion >}}
 {{< accordion "How many rooms are in each flat?" >}}
 Each flat consists of three or four rooms and a shared kitchen and bathroom.
@@ -24,19 +21,19 @@ The fixed rent includes heating, water and sewage costs. Additionally, the rent 
 The costs for electricity (around 21.50 €) and internet (7.50 €) are not contained in the fixed rent. Electricity is billed for each shared flat based on actual usage and the internet contract is set up centrally.
 {{< /accordion >}}
 {{< accordion "Are the rooms 'barrier-free'?" >}}
-Yes! All floors are accessible elevator and the doors have flat thresholds and are wheelchair accessible. For now, only four flats on the ground floor are equipped with barrier-free bathrooms. It is possible to adapt all other flats in this way at a later time. If you need more specific information on this subject, contact us directly at einziehen@collegiumacademicum.de
+Yes! All floors are accessible via elevator and the doors have flat thresholds and are wheelchair accessible. For now, only four flats on the ground floor are equipped with barrier-free bathrooms. It is possible to adapt all other flats in this way if required. If you need more specific information on accessibility, have a look at [this page](/en/accessibility) or contact us directly at einziehen@collegiumacademicum.de.
 {{< /accordion >}}
 {{< accordion "Where do we buy our electricity?" >}}
-We obtain our externally produced electricity from 100% renewable energies via the <a href="https://heidelberger-energiegenossenschaft.de/" target="_blank" rel="noopener noreferrer">Heidelberger Energiegenossenschaft</a> (Heidelberg Energy Cooperative). The electricity demand is largely covered by the photovoltaic system on our roof, including battery storage. Electricity costs are not included in the the fixed rent!
+We obtain our externally produced electricity from 100 % renewable energies via the <a href="https://heidelberger-energiegenossenschaft.de/" target="_blank" rel="noopener noreferrer">Heidelberger Energiegenossenschaft</a> (Heidelberg Energy Cooperative). The electricity demand is largely covered by the photovoltaic system on our roof, including battery storage. Electricity costs are not included in the fixed rent.
 {{< /accordion >}}
 {{< accordion "Does each flat have its own washing machine?" >}}
-No, except the flat-mates would pay and set up one themselves. The house has a separate central washing lounge with enough washing machines for all residents. We think a shared washing lounge is a more sufficient approach and saves all residents space and costs.
+No, except the flatmates would pay and set up one themselves. The house has a separate central washing lounge with enough washing machines for all residents. We think a shared washing lounge is a more sufficient approach and saves all residents space and costs.
 {{< /accordion >}}
 {{< accordion "How are the kitchens in the flats equipped?" >}}
 Each kitchen comes equipped with a stove, oven, extractor hood, fridge, freezer and a kitchen top with a sink. Additionally, the kitchen has a table and chairs. All furniture is made in-house or acquired as donations!
 {{< /accordion >}}
 {{< accordion "What kind of internet connection do the rooms have?" >}}
-The complete house is equipped with high speed WiFi access. Each flat has its own WiFi access point. The house has a dedicated fiber line. Internet costs (7,50 €) are not included in the fixed rent. Residents do not have to get their own internet contracts.
+The complete house is equipped with high speed WiFi access. Each flat has its own WiFi access point. The house has a dedicated fiber line. Residents do not have to get their own internet contracts.
 {{< /accordion >}}
 
 ### Questions about the application
