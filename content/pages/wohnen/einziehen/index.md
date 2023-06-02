@@ -5,12 +5,11 @@ novoigl: yes
 
 {{< video "2019_Zimmermodell" >}}
 
-Im Februar 2023 sind endlich die ersten Bewohner\*innen in das Wohnheim im CA-Neubau gezogen. Alle Wohnheim-Zimmer sind belegt und wir haben tolle
-Menschen gefunden, die unser selbstverwaltetes Wohnheim mit Leben füllen.
+Nach einer langen Planungs- und Bauphase sind im Februar 2023 endlich die ersten 176 Bewohner*innen in unseren Neubau eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhaltigen und selbstverwalteten Zusammenlebens.
 
-Derzeit sind keine Bewerbungen möglich. Durch die übliche Fluktuation im Wohnheim werden wir aber zu mehreren Terminen im Jahr Bewerbungen entgegennehmen und frei gewordene Plätze wieder füllen.
-Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet.
-Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einziehen@collegiumacademicum.de.
+In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. August 2023. Danach ist ein Einzug ins CA immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Für den Einzug im August könnt ihr euch ab sofort über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+
+Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an einziehen@collegiumacademicum.de.
 
 <!--<div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="176" max="176"></progress>
@@ -20,8 +19,8 @@ Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einzieh
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
         {{< img src="projektgruppe" desc="Das ist das Pförtnerhaus an der Einfahrt auf das Gelände US Hospital. Wir planen, dieses Gebäude in ein selbstverwaltetes Café umzugestalten." attr="Johannes Roßnagel 2017" />}}
-        {{< img src="werkstatt" alt="Die Holzwerkstatt im Altbau ist einsatzbereit. Die Projektgruppe und künftige Mitbewohner*innen werden am Bau des Wohnheims beteiligt sein, durch die selbständige Konstruktion von Holzmöbeln und Bauteilen. Du bist handwerklich begabt oder willst so etwas lernen? Perfekt!" attr="Uli Hillenbrand 2020" />}}
-        {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir bauen das Wohnheim gemeinsam, auf dem Weg lernen wir voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
+        {{< img src="werkstatt" alt="In unserer Holzwerkstatt haben wir einen Großteil der Möbel für die Zimmer selbst konstruiert und gebaut. Du bist handwerklich begabt oder willst so etwas lernen? Perfekt!" attr="Uli Hillenbrand 2020" />}}
+        {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir lernen voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}
     </div>
     <div class="column">
@@ -29,31 +28,27 @@ Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an: einzieh
     </div>
 </div>
 
-Hier nochmal eine kleine Zahlen-Zusammenfassung für das Wohnen im CA: Ein Zimmer im CA wird voraussichtlich 310,20 € warm pro Monat kosten. Hinzu kommen noch Kosten für Strom und Internet. Wir bemühen uns, die Miete weiter zu senken. Ob und wie das klappt, hängt vor allem von der Entwicklung der Baukosten ab. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
+Ein Zimmer in unserem Neubau kostet insgesamt 345 € pro Monat (315,20 € Warmmiete plus ca. 30 € Kosten für Strom und Internet). Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die Mieten so gering wie möglich zu halten. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-        Die Zimmer sind gut 14 m<sup>2</sup> groß und befinden sich in 3er oder 4er Wohngemeinschaften. Die Zimmer können auf 7&#160;m<sup>2</sup> halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
+        Die Zimmer sind gut 14 m<sup>2</sup> groß und befinden sich in 3er- oder 4er-Wohngemeinschaften. Die Zimmer können auf 7 m<sup>2</sup> halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
     </div>
     <div class="column">
         {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
-            {{< img src="zimmer" desc="So ungefähr wird ein einzelnes Zimmer später aussehen. Zu sehen ist unser Zimmermodell / Demonstrator. Gemütliches Leben, moderne Architektur und nachhaltige Rohstoffe!" attr="Johannes Roßnagel 2019" />}}
-            {{< img src="wohnung" alt="Ein kleines Modell zweier zukünftigen Wohnungen. Am unteren Rand zu sehen ist der Laubengang, der alle Wohnungen verbindet. Die roten Kennzeichnung zeigen, wie du später flexibel deine Zimmergröße selbst anpassen kannst, zusammen mit deiner Wohngemeinschaft." attr="dgj Architekten 2017" />}}
+            {{< img src="zimmer" desc="So ungefähr sieht ein einzelnes Zimmer aus. Gemütliches Leben, moderne Architektur und nachhaltige Rohstoffe!" attr="Johannes Roßnagel 2019" />}}
+            {{< img src="wohnung" alt="Ein kleines Modell zweier Wohnungen. Am unteren Rand zu sehen ist der Laubengang, der alle Wohnungen verbindet. Die roten Kennzeichnung zeigen, wie du flexibel deine Zimmergröße selbst anpassen kannst, zusammen mit deiner Wohngemeinschaft." attr="dgj Architekten 2017" />}}
         {{< /img >}}
     </div>
 </div>
 
-Die Wohnungen sind auf <a href="/barrierefreiheit">Barrierefreiheit</a> ausgelegt.
-Für uns ist vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann <!--bewirb dich gerne auf einen Platz bei uns und / oder -->
-trage dich am Ende der Seite im entsprechenden [Newsletter](#einziehen_form) ein.
-Eine weitere Wohnvoraussetzung ist, dass du studierst, eine Ausbildung machst oder promovierst.
-Da wir sehr viele Plätze zu vergeben haben, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess sind, sag uns gerne Bescheid, z. B. per Mail an einziehen@collegiumacademicum.de!
+Die Wohnungen sind auf Barrierefreiheit ausgelegt. Detaillierte Informationen dazu haben wir auf [dieser Seite](/barrierefreiheit) zusammengefasst.
 
-<p style="padding: 10px; border: 2px solid #35ADA4;">
-Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal <b>anschauen</b> möchtest, dann schreibe uns eine <a href="mailto:einziehen@collegiumacademicum.de">E-Mail</a>, um einen möglichen Termin abzuklären, oder melde dich über <a href="mailto:exkursion@collegiumacademicum.de">diese Adresse</a> bei einer unserer nächsten Führungen an (Termine siehe auf der rechten Seitenleiste der Homepage).  
-</p>
+Voraussetzung für das Wohnen in unserem Neubau ist, dass du studierst, eine Ausbildung machst oder promovierst. Für uns ist aber vor allem eines wichtig: Dass du Lust hast, dein Leben mit anderen Menschen gemeinsam selbst in die Hand zu nehmen. Mach dich vertraut mit unserem [Leitbild](/leitbild) und dem [Mietshäusersyndikat](https://www.syndikat.org/). Wenn dir gefällt, was du liest, dann bewirb dich gerne auf einen Platz bei uns oder trage dich am Ende der Seite in den entsprechenden E-Mail-Verteiler ein.
 
-<!-- So funktioniert die Bewerbung um einen Platz im neuen CA:
+Da wir damit rechnen, mehr Bewerbungen zu bekommen, als wir Plätze vergeben können, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess bist, sag uns gerne Bescheid!
+
+So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
@@ -64,16 +59,11 @@ Wenn du dir dein zukünftiges Zuhause vor oder nach deiner Bewerbung erst einmal
     </a>
 </div>
 
-1. Du schickst uns deinen ausgefüllten [Bewerbungsbogen]({{< relref "/bewerbung" >}}) zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
-2. Wir schauen uns die eingehenden Bewerbungen an und sortieren, wen wir zu Auswahltagen einladen. Ein Viertel der Plätze bei den Auswahltagen wird gelost. Je nachdem, wie viele Bewerbungen wir erhalten, kann es auch sein, dass wir dich nicht direkt einladen können, sondern dir Bescheid geben, dass wir dich bei späteren Auswahltagen erneut berücksichtigen.
-3. Auswahltage:
-Bei einer positiven Rückmeldung auf deine Bewerbung werden wir dir ein paar Termine zur Auswahl mitschicken. Es wird ungefähr jedes zweite Wochenende einen solchen Termin geben. Bitte melde dich dann verbindlich für einen Termin an. Aus Kapazitätsgründen wollen wir maximal doppelt so viele Bewerber\*innen einladen, wie wir Plätze zu vergeben haben.<br>
-Ziel der Auswahltage ist es, euch Einblick in verschiedene, für das selbstverwaltete Wohnen maßgebliche, Tätigkeitsbereiche zu geben. Zudem können wir euch dadurch besser kennenlernen und so eine fundierte Entscheidung treffen. Es wird Gruppenphasen geben, zu denen parallel 10-minütige Einzelgespräche stattfinden.<br>
-Wir werden während des Tages Notizen machen. Nicht, um euch direkt zu bewerten und in Schubladen zu stecken, sondern um auch im Nachhinein ein Bild von euch zu haben und darüber hinaus unseren eigenen Vorurteilen entgegenzuwirken.
-4. Ein paar Tage nach dem Auswahltag werdet ihr von uns eine Rückmeldung erhalten. Falls du ausgewählt wurdest, werden wir dich dann über den weiteren Prozess (Mitarbeit in der Bauphase, WG-Findung etc.) informieren. Außerdem würden wir beide, du und wir, dann jeweils eine Absichtserklärung unterschreiben. Das ist nichts rechtlich bindendes (kein Mietvertrag), aber ihr habt schon einmal etwas in der Tasche und wir werden euch euren Platz auch nicht wieder „wegnehmen“. Für uns sind die Absichtserklärungen ebenfalls hilfreich, damit wir sie zum Beispiel unserer Bank vorzeigen können und nicht die Sorge entsteht, wir hätten große Mietausfälle zu befürchten. -->
+1. Du schickst uns deinen ausgefüllten [Bewerbungsbogen](/bewerbung) zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
+2. Wir lesen die eingehenden Bewerbungen. Alle Bewerber*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.
+3. Etwa zwei Wochen nach Ende der Bewerbungsfrist findet der Auswahltag statt. Ziel des Auswahltags ist es, dir einen Einblick in das Leben im CA und den Aufbau der Selbstverwaltung zu geben. Zudem können wir dich dadurch besser kennenlernen und so eine fundierte Entscheidung treffen. Wir werden zunächst das CA vorstellen, anschließend wird es eine Gruppenphase sowie ein 15-minütiges Einzelgespräch geben. Falls du zum Auswahltag eingeladen wirst, kannst du dir frei aussuchen, ob du vor Ort im CA oder online teilnehmen möchtest. Wir achten darauf, Bewerber*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen. Wir empfehlen dir jedoch, zum Auswahltag in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Wir werden während des Tages Notizen machen. Nicht, um dich direkt zu bewerten und in Schubladen zu stecken, sondern um auch im Nachhinein ein Bild von dir zu haben und darüber hinaus unseren eigenen Vorurteilen entgegenzuwirken. Wir entscheiden im Anschluss an den Auswahltag, welchen Bewerber*innen wir gerne eine Zusage geben würden. Falls wir mehr Bewerber*innen eine Zusage geben wollen, als wir freie Zimmer haben, vergeben wir Zusagen zunächst anhand einer Quote, um insbesondere Auszubildenden einen Einzug ins CA zu ermöglichen. Anschließend vergeben wir Zusagen per Losverfahren.
+4. Innerhalb einer Woche nach dem Auswahltag erhältst du von uns eine Rückmeldung per E-Mail. Falls du ausgewählt wurdest, hast du zwei Tage Zeit, um dich verbindlich zu entscheiden, ob du einziehen möchtest. Wir werden dich dann zu einem WG-Findungs-Tag einladen, bei dem du die einzelnen WGs kennenlernen kannst, in denen Zimmer frei werden. Danach kannst du eine Rückmeldung geben, welche WGs du dir vorstellen bzw. nicht vorstellen kannst. Ebenso können die WGs Rückmeldungen geben. Wir versuchen, alle Wünsche möglichst gut zu berücksichtigen und sprechen im Zweifel mit WGs und Einziehenden. Sobald feststeht, in welche WG du ziehst, erstellt dir die AG Mietverwaltung deinen Mietvertrag.
 
-P.S.: Die Wetteraussichten für Do-it-Yourself Menschen und Bastler*innen jeglicher Art sind sehr gut. Die Möbel und einen Teil der Innenwände für unser Wohnheim bauen wir in unserer hauseigenen Werkstatt selbst. Die Arbeiten sind in vollem Gange und wir freuen uns über jede helfende Hand! Dies gilt natürlich auch für die vielen [anderen Aufgaben](/mach-mit), die im Laufe des Baus eines so großen Wohnheims erledigt werden müssen. Wenn du einziehen möchtest und auch schon jetzt Zeit hast, melde dich sehr gerne bei uns: [einziehen@collegiumacademicum.de](mailto:einziehen@collegiumacademicum.de)
-
-<p>Hier kannst du dich in den Einziehen-Newsletter eintragen:</p>
+Falls du dich für das Wohnen in unserem Neubau interessierst, aber erst zu einem späteren Zeitpunkt einziehen möchtest, kannst du dich hier in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich immer direkt, sobald ein neues Bewerbungsverfahren startet.
 
 {{< einziehen-signup >}}
