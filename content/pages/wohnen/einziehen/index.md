@@ -7,7 +7,7 @@ novoigl: yes
 
 Nach einer langen Planungs- und Bauphase sind im Februar 2023 endlich die ersten 176 Bewohner*innen in unseren Neubau eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhaltigen und selbstverwalteten Zusammenlebens.
 
-In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. August 2023. Danach ist ein Einzug ins CA immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Für den Einzug im August könnt ihr euch ab sofort über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. August 2023. Danach ist ein Einzug ins CA immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Für den Einzug im August kannst du dich ab sofort bis spätestens Freitag, 23. Juni 2023 über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an einziehen@collegiumacademicum.de.
 
