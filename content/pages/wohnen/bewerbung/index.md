@@ -6,7 +6,7 @@ novoigl: yes
   
 <p>Schön, dass du Lust hast, ins CA einzuziehen!
 
-Wir haben ab dem 1. August 2023 wieder freie Zimmer in unserem Wohnheim. Falls du im August bei uns einziehen möchtest, kannst du dich ab sofort bis spätestens Freitag, 16. Juni 2023 hier dafür bewerben:
+Wir haben ab dem 1. August 2023 wieder freie Zimmer in unserem Wohnheim. Falls du im August bei uns einziehen möchtest, kannst du dich ab sofort bis spätestens Freitag, 23. Juni 2023 hier dafür bewerben:
 </p>
 
 <h2>Allgemein</h2>
