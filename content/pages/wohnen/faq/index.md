@@ -80,7 +80,7 @@ Nein, dies hat keinen Einfluss auf die Bewerbungschancen. Der finanzielle Hinter
 ### Fragen zum Einzug und Zusammenleben
 
 {{< accordion "Kann ich mir meine Mitbewohner*innen aussuchen?" >}}
-In der Zeit zwischen Auswahltag und Einzug organisieren wir einen WG-Findungs-Tag, bei dem sich die Einziehenden und die WGs, in denen Zimmer frei werden, einander kennenlernen können. Nach dem WG-Findungs-Tag können sowohl die WGs als auch die Einziehenden eine schriftliche Rückmeldung geben, welche Bewerber*innen bzw. WGs sie sich vorstellen bzw. nicht vorstellen können. Wir sortieren dann die Rückmeldungen und versuchen, alle Wünsche möglichst gut zu berücksichtigen.
+Falls du beim Auswahltag eine Zusage bekommen hast, laden wir dich zu einem WG-Findungs-Tag ein, bei dem du die einzelnen WGs kennenlernen kannst, in denen Zimmer frei werden. Danach kannst du eine Rückmeldung geben, welche WGs du dir vorstellen bzw. nicht vorstellen kannst. Ebenso können die WGs Rückmeldungen geben. Wir versuchen, alle Wünsche möglichst gut zu berücksichtigen.
 {{< /accordion >}}
 {{< accordion "Ich habe ein Haustier, darf das mit mir in das CA einziehen?" >}}
 Nein. Im Wohnheim sind grundsätzlich keine Haustiere erlaubt. Die einzige Ausnahme sind Assistenztiere. 
