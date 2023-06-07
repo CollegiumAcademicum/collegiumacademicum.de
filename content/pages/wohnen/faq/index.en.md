@@ -77,10 +77,10 @@ No! Financial support does not have any influence on who can move in. The financ
 ### Questions about moving in and living together
 
 {{< accordion "Can I choose my flatmates?" >}}
-Unfortunately, this is no longer possible. The dormitory is already fully occupied. Now, we will only have individual rooms available in shared flats when people cancel or move out.
+If you are accepted for moving in, we will invite you to a WG finding day, where you can get to know the different WGs in which rooms become vacant. Afterwards, you can give feedback on which WGs you would or would not like to move into. Likewise, the WGs can give feedback. We try to take all wishes into account as good as possible.
 {{< /accordion >}}
 {{< accordion "Can I bring my pet?" >}}
-No, pets are currently not allowed in the dormitory. An exception to this are assistance pets.
+No, pets are not allowed in the dormitory. An exception to this are assistance pets.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
 Each room is always rented furnished (desk, wardrobe, bed).
