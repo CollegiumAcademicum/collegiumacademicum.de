@@ -8,7 +8,7 @@ novoigl: yes
 
 After a long planning and construction phase, the first 176 residents finally moved into our new dormitory in February 2023 and are shaping the CA into a place of collaborative, sustainable and self-managed living together.
 
-In our dormitory, we are regularly looking for new residents to fill vacant rooms. The next possible move-in date is August 1, 2023. After that, moving into the CA is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). For the move-in in August you can apply now via the application form here on our website.
+In our dormitory, we are regularly looking for new residents to fill vacant rooms. The next possible move-in date is August 1, 2023. After that, moving into the CA is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). For the move-in in August you can apply via the application form here on our website from now until Friday, June 23, 2023 at the latest.
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us at einziehen@collegiumacademicum.de.
 
