@@ -6,7 +6,7 @@ novoigl: yes
 
 <p>Awesome that you are interested in moving into the CA!
 
-We have vacant rooms in our dormitory from August 1, 2023. If you would like to move in in August, you can apply here from now until Friday, June 16, 2023 at the latest.
+We have vacant rooms in our dormitory from August 1, 2023. If you would like to move in in August, you can apply here from now until Friday, June 23, 2023 at the latest.
 </p>
 
 <h2>General</h2>
