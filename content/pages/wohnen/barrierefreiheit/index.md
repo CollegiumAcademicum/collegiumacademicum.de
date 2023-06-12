@@ -38,7 +38,7 @@ Vier der Bäder wurden bereits ab Erstbezug mit Griffen und Halterungen ausgesta
 Badtür. Allerdings sind die Toiletten nur von jeweils einer Seite anfahrbar (in zwei Wohnungen von rechts, und in zwei
 Wohnungen von links).
 
-Es sind unterfahrbare Waschtische vorhanden. Alle Duschen werden bodengleich und damit begehbar ausgeführt. Eine Bewegungsfläche von 120cm x 120cm wird eingehalten.
+Es sind unterfahrbare Waschtische vorhanden. Alle Duschen sind bodengleich und damit begehbar ausgeführt. Eine Bewegungsfläche von 120 cm x 120 cm wird eingehalten.
 
 ### Verkehrsanbindung
 
