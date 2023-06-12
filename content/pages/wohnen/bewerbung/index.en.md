@@ -187,4 +187,3 @@ We have vacant rooms in our dormitory from August 1, 2023. If you would like to 
 </div>
 
 </form>
-{{< einziehen-signup >}}
