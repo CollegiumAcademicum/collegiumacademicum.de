@@ -6,17 +6,15 @@ slug: "accessibility"
 
 Our new four-story wooden dormitory on the area of the previous US army hospital in Heidelberg-Rohrbach provides accomodation for 176 students, apprentices, and doctoral students.
 The rooms are organized in flats of three or four rooms with a shared kitchen and bathroom.
-
 Accessibility was an explicit concern for us in the planning and the building is designed to be as barrier-free as possible.
-
 Below we have summarized the most important information on accessibility.
 
 ### Access to the house and the flats
 
 The complete house and all common areas are accessible barrier-free.
 The flats can be reached with outside balcony corridors and an elevator (door width min. 90 cm, inner width 110 cm and depth 210 cm, single-sided access).
-The elevator door has no thresholds, the pushbuttons are visually and haptically marked, and it has a voice output.
 
+The elevator door has no thresholds, the pushbuttons are visually and haptically marked, and it has a voice output.
 The entrances to the flats are flush with the floor and 125 cm wide.
 
 Steps in the building and paths through the building are marked.
@@ -41,7 +39,8 @@ The area is at least 120 cm x 120 cm.
 
 ### Public transport
 
-The dormitory is right next to the tram stop "Ortenauer Str.". Furthermore, we will provide two designated handicapped-accessible parking spots with a width of 2.75 m.
+The dormitory is right next to the tram stop "Ortenauer Str.".
+Furthermore, we will provide two designated handicapped-accessible parking spots with a width of 2.75 m.
 
 ### Further information 
 
