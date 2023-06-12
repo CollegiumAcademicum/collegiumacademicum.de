@@ -195,4 +195,3 @@ Wir haben ab dem 1. August 2023 wieder freie Zimmer in unserem Wohnheim. Falls d
 </div>
 
 </form>
-{{< einziehen-signup >}}
