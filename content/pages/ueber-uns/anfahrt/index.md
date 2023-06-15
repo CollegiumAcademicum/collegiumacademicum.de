@@ -28,7 +28,7 @@ Gelände.
 
 <div class="columns">
 	<div id="anfahrt" class="column">
-	 {{< img src="map_anfahrt_hospital" alt="Anfahrt US Hospital mit der Baustelle für das Collegium Academicum." attr="Maurice Frank" />}}
+	 {{< img src="map_anfahrt_ca_06_2023_V5" alt="Anfahrt zum Gelände des Collegium Academicum." attr="Maurice Frank, Myriam Thürigen" />}}
 	</div>
 	<div class="column">
  	<p>In der Umgebung des US Hospital ist es sehr schwierig, einen Parkplatz zu
