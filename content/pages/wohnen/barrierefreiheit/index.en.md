@@ -47,6 +47,6 @@ Furthermore, we will provide two designated handicapped-accessible parking spots
 We are happy to answer individual questions about the building, the project and the application process!
 In addition, we are also happy to receive tips on missing information. 
 
-You can contact us by e-mail and by phone:
+You can contact us by email and by phone:
 
-kontakt@collegiumacademicum.de and +49 (0)6221-652236
+einziehen@collegiumacademicum.de and +49 (0)6221-652236

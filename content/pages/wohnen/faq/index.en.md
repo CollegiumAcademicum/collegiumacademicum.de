@@ -8,87 +8,83 @@ slug: "faq"
 ### Questions about the furnishing of the rooms and the dormitory
 
 {{< accordion "How high is the rent?" >}}
-The warm rent is 310.20 €/month, with additional costs for internet (7.50 €) and electricity (21.50 €), so that we end 
-up with a total of just under 340 €/month. 
-The electricity costs of 21.50 €/month are paid in advance by each person, but the final costs are calculated at the end
-of the year based on actual use.
+A room in our dormitory costs a total of 345 € per month (315,20 € warm rent plus about 30 € costs for electricity and internet). The electricity costs of 21.50 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 {{< /accordion >}}
 {{< accordion "How big are the rooms?" >}}
-Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup>.
+Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the workshop and the roof terrace.
 {{< /accordion >}}
 {{< accordion "How many rooms are in each flat?" >}}
-Each flat consists of three or four rooms and a shared kitchen and bathroom.
+Most of the flats contain four rooms, but some contain only three, as well as a shared kitchen and bathroom.
 {{< /accordion >}}
 {{< accordion "Which ancillary costs are included in the fixed rent?" >}}
-The fixed rent includes heating, water and sewage costs. Additionally, the rent includes the maintenance costs of the building. 
-The costs for electricity (around 21.50 €) and internet (7.50 €) are not contained in the fixed rent. Electricity is billed for each shared flat based on actual usage and the internet contract is set up centrally.
+The fixed rent includes heating, water and sewage costs. Additionally, the rent includes the maintenance costs of the building. The costs for electricity (around 21.50 €) and internet (7.50 €) are not contained in the fixed rent. Electricity is billed for each shared flat based on actual usage and the internet contract is set up centrally.
 {{< /accordion >}}
 {{< accordion "Are the rooms 'barrier-free'?" >}}
-Yes! All floors are accessible elevator and the doors have flat thresholds and are wheelchair accessible. For now, only four flats on the ground floor are equipped with barrier-free bathrooms. It is possible to adapt all other flats in this way at a later time. If you need more specific information on this subject, contact us directly at einziehen@collegiumacademicum.de
+Yes! All floors are accessible via elevator and the doors have flat thresholds and are wheelchair accessible. For now, only four flats on the ground floor are equipped with barrier-free bathrooms. It is possible to adapt all other flats in this way if required. If you need more specific information on accessibility, have a look at [this page](/en/accessibility) or contact us directly at einziehen@collegiumacademicum.de.
 {{< /accordion >}}
 {{< accordion "Where do we buy our electricity?" >}}
-We obtain our externally produced electricity from 100% renewable energies via the <a href="https://heidelberger-energiegenossenschaft.de/" target="_blank" rel="noopener noreferrer">Heidelberger Energiegenossenschaft</a> (Heidelberg Energy Cooperative). The electricity demand is largely covered by the photovoltaic system on our roof, including battery storage. Electricity costs are not included in the the fixed rent!
+We obtain our externally produced electricity from 100 % renewable energies via the <a href="https://heidelberger-energiegenossenschaft.de/" target="_blank" rel="noopener noreferrer">Heidelberger Energiegenossenschaft</a> (Heidelberg Energy Cooperative). The electricity demand is largely covered by the photovoltaic system on our roof, including battery storage. Electricity costs are not included in the fixed rent.
 {{< /accordion >}}
 {{< accordion "Does each flat have its own washing machine?" >}}
-No, except the flat-mates would pay and set up one themselves. The house has a separate central washing lounge with enough washing machines for all residents. We think a shared washing lounge is a more sufficient approach and saves all residents space and costs.
+No, except the flatmates would pay and set up one themselves. The house has a separate central washing lounge with enough washing machines for all residents. We think a shared washing lounge is a more sufficient approach and saves all residents space and costs.
 {{< /accordion >}}
 {{< accordion "How are the kitchens in the flats equipped?" >}}
 Each kitchen comes equipped with a stove, oven, extractor hood, fridge, freezer and a kitchen top with a sink. Additionally, the kitchen has a table and chairs. All furniture is made in-house or acquired as donations!
 {{< /accordion >}}
-{{< accordion "What kind of internet connection do the rooms have?" >}}
-The complete house is equipped with high speed WiFi access. Each flat has its own WiFi access point. The house has a dedicated fiber line. Internet costs (7,50 €) are not included in the fixed rent. Residents do not have to get their own internet contracts.
+{{< accordion "Is there a WiFi connection?" >}}
+Yes, the dormitory has a fast central internet connection (fiber optics) and all flats have their own WiFi access points. There is also a LAN connection for each WG. Residents do not have to get their own internet contracts.
 {{< /accordion >}}
 
 ### Questions about the application
 
-{{< accordion "I am not yet a student or trainee, can I apply for a place?" >}}
-Yes! You can apply before getting your student or trainee status. It is necessary though, that at your moving in day, you are enrolled in your program. If in the meantime it turns out that you cannot start your study program / apprenticeship, you can step back from your letter of intent without any costs.
+{{< accordion "When are there vacant rooms in the dormitory?" >}}
+The next possible move-in date is August 1, 2023. After that, moving into the CA is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). The number of vacant rooms is always different.
 {{< /accordion >}}
-{{< accordion "Is there an age restriction? Can I apply if I am not yet 18 years old? " >}}
-For legal reasons, you must be at least 18 years old on the day you move in.
+{{< accordion "How does the application process work?" >}}
+If you would like to move in in August, you can apply via the application form on our website from now until Friday, June 23, 2023 at the latest. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
 {{< /accordion >}}
-{{< accordion "I'm interested, but I don't know if there are any places left. Should I still apply?" >}}
-Unfortunately, all of our places for the first occupancy are taken. However, you can sign up for a newsletter [here](/bewerbung/) and we will contact you when we are accepting applications again.{{< /accordion >}}
-{{< accordion "Does the application cost anything?" >}}
-No! The application does not cost you anything. If you are invited for a get-to-know-you day, we cannot reimburse your travel costs, unfortunately. *(Note: Because of the current situation, all get-to-knows are held online anyway!)*
+{{< accordion "What does the application day look like?" >}}
+About two weeks after the application deadline, the application day takes place. The intention of this day is to give you an insight into life in the CA and the structure of the self-government. It also allows us to get to know you better so that we can make an informed decision. We will first introduce the CA, followed by a group phase and a 15-minute individual interview.
 {{< /accordion >}}
-{{< accordion "Can I apply now if I don't want to move in until the summer semester of 2023?" >}}
-No, applications for a later move-in date are not possible at the moment. We will inform you here when we are accepting applications again or you can [sign up for the newsletter](/bewerbung/). 
-{{< /accordion >}}
-{{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
-No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
+{{< accordion "Can I participate online at the application day?" >}}
+If you are invited to the application day, you are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the application day in presence, if it's possible for you, so that you can get to know our project better.
 {{< /accordion >}}
 {{< accordion "According to which criteria will the residents be chosen?" >}}
-Given that the formal requirements are met (status as a student, doctoral student of trainee) we are searching for people that can identify with our mission statement, that want to engage in the self-organization of the dormitory and want to take up responsibility for the community.
+Given that the formal requirements are met (status as a student, doctoral student of trainee), we are searching for people that can identify with our mission statement, that want to engage in the self-organization of the dormitory and want to take up responsibility for the community. After the application day, we decide which applicants we would like to accept. If we want to accept more applicants than we have vacant rooms, we first assign acceptances on the basis of a quota to enable apprentices in particular to move into the CA. After that, we assign acceptances by drawing lots.
+{{< /accordion >}}
+{{< accordion "Who organizes the application day and decides whether I can move in?" >}}
+Responsible for the organization of the application process and for the selection of the residents is the Belegium. The Belegium is part of our self-administration. It consists of residents of the dormitory and is elected by them.
+{{< /accordion >}}
+{{< accordion "What if I didn't get a place in the dormitory at the application day?" >}}
+All selected applicants who have not received an acceptance can be added to our waiting list. We assign places via the waiting list if rooms become vacant at short notice before the next move-in date, but this will only happen in exceptional cases. So it is rather unlikely to get a place in the dormitory via the waiting list. The waiting list will be emptied after 3 months. You are allowed to reapply on every move-in date and you are always welcome to participate in our project independent of that.
+{{< /accordion >}}
+{{< accordion "Can I apply now if I want to move in only by October 2023?" >}}
+No, that is not possible at the moment. An application will probably be possible from the beginning of July. Please register in our newsletter [on this page](/en/moving-in), then we will inform you as soon as you can apply.
+{{< /accordion >}}
+{{< accordion "Can I apply even if I am not studying or doing an apprenticeship?" >}}
+This is only possible in very few exceptional cases for people who are structurally strongly disadvantaged on the housing market and are in another type of training/study (e.g. German course, FSJ or similar). The particular disadvantage as well as the current main occupation must be briefly described in addition to the application informally via email to einziehen@collegiumacademicum.de.
+{{< /accordion >}}
+{{< accordion "Is there an age restriction? Can I apply if I am not yet 18 years old? " >}}
+Currently, for legal reasons, you must be at least 18 years old when you move in, but you can already apply before your 18th birthday.
+{{< /accordion >}}
+{{< accordion "Does the application cost anything?" >}}
+No, the application does not cost you anything. If you would like to participate in an on-site application day, you may incur costs for travel to and from the event, which you will have to pay yourself.
+{{< /accordion >}}
+{{< accordion "I have supported the project by giving a direct loan before. Do I or my children/relatives have an advantage with moving in?" >}}
+No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody can be part of this community or not.
 {{< /accordion >}}
 
-### Questions about moving in and the living together
+### Questions about moving in and living together
 
-{{< accordion "When can I first move in into the building?" >}}
-As we are currently constructing the building, we can sadly not guarantee are precise fixed moving in date. According to our current plan, the moving-in day will be in February 2023.
-{{< /accordion >}}
 {{< accordion "Can I choose my flatmates?" >}}
-Unfortunately, this is no longer possible. The dormitory is already fully occupied. Now, we will only have individual rooms available in shared flats when people cancel or move out.
+If you are accepted for moving in, we will invite you to a WG finding day, where you can get to know the different WGs in which rooms become vacant. Afterwards, you can give feedback on which WGs you would or would not like to move into. Likewise, the WGs can give feedback. We try to take all wishes into account as good as possible.
 {{< /accordion >}}
 {{< accordion "Can I bring my pet?" >}}
-No, pets are currently not allowed in the dormitory. An exception to this are assistance pets.
-{{< /accordion >}}
-{{< accordion "Is it possible that the project fails before the building is finished?" >}}
-Given our current construction and financial situation, we think this is extremely unlikely.
+No, pets are not allowed in the dormitory. An exception to this are assistance pets.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
-Each room is always rented furnished (desk, wardrobe, bed). For the first occupancy, there is the possibility to bring your own furniture if you wish. In this case, the basic furniture will be handed over to the CA for the duration of the stay (in the form of a donation, deposit or free rent - what exactly is possible will be discussed again). The furnishing surcharge of 20 € remains included in the rent in any case. A list is kept of the intentions of those moving in to donate their furniture temporarily/long-term. A working group must guarantee that furniture will be available when new residents move in.
-{{< /accordion >}}
-{{< accordion "Do I have to give the project money or a loan to move in?" >}}
-No! Financial support does not have any influence on who can move in. 
-A person's financial situation should not determine whether they can be part of this community or not.
+Each room is always rented furnished (desk, wardrobe, bed).
 {{< /accordion >}}
 {{< accordion "Does the house have special family flats for families with children?" >}}
 There are no family flats in the strict sense. Nevertheless, it is possible to move into the residence with children. There are several options. A child can rent its own room in its own shared flat. It is also possible for two adults to share a room and use the room that becomes free as a children's room. Thanks to the flexible partition walls, individual room sizes are also possible. For example, one room can be divided into two smaller rooms of 7 square metres each, one of which would become a passage room.
-{{< /accordion >}}
-{{< accordion "I am a single parent. Can I move in?" >}}
-Yes, you can. Take note though of the formal requirement that each room has to be rented by a student or trainee. See the question above.
-{{< /accordion >}}
-{{< accordion "Do I have to help with the construction of the house?" >}}
-No! Nevertheless, we appreciate any help with the work necessary to finish the house. These tasks include the construction of the furniture, publicity work and the organization of finances of the project. Support from those moving in is sensible and desirable, especially with regard to the future self-administration, and in order to be able to manage the move-in.
 {{< /accordion >}}

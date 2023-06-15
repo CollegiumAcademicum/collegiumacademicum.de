@@ -31,14 +31,9 @@ other = "Moving in"
 [interesse-anmelden]
 other = "I am interested"
 
-[interesse-anmelden-message]
-other = "You are interested in moving into the CA in February 2023 and to participate in the self-management?"
-
 [einziehen-message]
-other = "Are you moving into the CA and searching for information? Then you will find what you are looking for on these pages:"
-
-[nichts-frei-message]
-other = "Unfortunately, we have no more places available at the moment. We will announce it here when applications are possible again. If you leave your email address, we will inform you directly as soon as there are free rooms."
+other = "We have vacant rooms in our dormitory from August 1, 2023. Here you can apply!"
+# other = "The next possible move-in date is October 2023. Applications for this are expected to open at the beginning of July. Please leave your email address and we will inform you directly as soon as you can apply."
 
 [melde-dich]
 other = "Then get in touch with us:"
@@ -93,7 +88,7 @@ other = "We will celebrate the topping out of the construction online. You are c
 other = "How to get there"
 
 [anfahrt-message]
-other = "The CA is located in Rohrbach on the site of the former US Hospital."
+other = "The CA is located in Heidelberg-Rohrbach on the area of the previous US army hospital."
 
 [unser-zimmermodell]
 other = "Our Room model"

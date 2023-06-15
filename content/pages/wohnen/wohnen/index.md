@@ -5,7 +5,7 @@ novoigl: yes
 ---
 
 
-Du ziehst in den Neubau des CA ein und suchst nach Informationen? Dann wirst du hier fündig:
+Du möchtest in den Neubau des CA einziehen? Dann findest du hier alle wichtigen Informationen sowie unser Bewerbungsformular.
 
 <div class="buttons is-centered">
     <a href="{{< relref "/einziehen" >}}" class="button is-medium is-primary">

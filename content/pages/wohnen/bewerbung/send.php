@@ -35,9 +35,9 @@ $i18n = [
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
 	"spam-protection" => "spamschutz",
-        "mail-message" => "Vielen Dank für Deine Bewerbung für das Collegium Academicum!\nWir freuen uns, dass Du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir Deine Bewerbung erhalten haben. Wir werden uns in den kommenden zwei Wochen bei Dir zurückmelden. Solltest Du irgendwelche Fragen zu Deiner Bewerbung haben, kannst Du auf diese Nachricht antworten und sie wird die Person erreichen die Deine Bewerbung bearbeitet. Bitte sieh innerhalb der nächsten zwei Wochen davon ab, uns Rückfragen zum Stand deiner Bewerbung zu schicken, weil wir die Zeit brauchen, um die Bewerbungen zu sichten.",
+        "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Bitte beachte, dass wir uns erst nach Ende der Bewerbungsfrist bei dir melden, weil wir je nach Anzahl der Bewerbungen ggf. auslosen müssen, welche Bewerber*innen wir zum Kennenlerntag einladen können. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
-        "privacy-notice" => "Wir behalten diese Daten nur für die Dauer Deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest Du weitere Informationen zu unserer Datenschutzerklärung.",
+        "privacy-notice" => "Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest du weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
         "check_education_status" => "Hat die Richtlinien über den Ausbildungsstatus wahrgenommen",
     ],
@@ -58,13 +58,13 @@ $i18n = [
         "application" => "Application",
         "application-sent" => "en/application-sent",
 	"spam-protection" => "en/spam-protection",
-        "mail-message" => "Thank you for your application to the Collegium Academicum!\nWe are happy that you are interested in moving in with us. With this message we are confirming, that we received your application. We will come back to you in the following two weeks. If you have any questions in the meantime, you can reply to this e-mail and you will reach the person that is responsible for yor application. Please avoid inquiring about the state of your application for the first two weeks, as we need some time to review the applications.",
+        "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our dormitory. With this message we confirm that we have received your application. Please note that we will only contact you after the application deadline, because depending on the number of applications, we may have to draw lots to decide which applicants we can invite to the get-to-know day. If you have any questions about your application, you can reply to this email.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",
         "check_education_status" => "Checked for educational status for moving in",
     ]];
-$number_of_inboxes = 4;
+// $number_of_inboxes = 4;
 
 // Creates the form: command inserts the html form tag
 $form = new Formr();
@@ -149,8 +149,8 @@ if($form->submit()){
     	$applicant = array($data["email"], $data['full_name']);
 
     	// The id of the auswahl team this email goes to
-    	$rid = rand(1,$number_of_inboxes);
-    	$contact = array("bewerbung{$rid}@collegiumacademicum.de", "Collegium Academicum");
+    	// $rid = rand(1,$number_of_inboxes);
+    	$contact = array("einziehen@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation
     	send_mail($contact, $applicant, $data, $lang, True);
