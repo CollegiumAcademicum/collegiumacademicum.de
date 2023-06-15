@@ -17,7 +17,7 @@ other = "Eintragen"
 other = "Eigene Veröffentlichungen"
 
 [mail-notwendig]
-other = "Die Mailadresse ist eine notwendige Angabe."
+other = "Die E-Mail-Adresse ist eine notwendige Angabe."
 
 [vorname]
 other = "Vorname"
@@ -31,14 +31,9 @@ other = "Einziehen"
 [interesse-anmelden]
 other = "Interesse anmelden"
 
-[interesse-anmelden-message]
-other = "Du hast Interesse daran, im Februar 2023 in das frisch gebaute CA einzuziehen und die Selbstverwaltungsstruktur mitzugestalten? Wir suchen noch weitere Mitbewohner*innen!"
-
 [einziehen-message]
-other = "Du ziehst ins CA ein und suchst nach Infos? Dann wirst du auf diesen Seiten fündig:"
-
-[nichts-frei-message]
-other = "Leider haben wir momentan keine Plätze mehr frei. Ihr erfahrt hier, wenn wieder Bewerbungen möglich sind. Lasst gerne eure Mailadresse da, dann informieren wir euch direkt, sobald wieder Zimmer frei sind."
+other = "Wir haben ab dem 1. August 2023 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
+# other = "Der nächstmögliche Einzugstermin ist der 1. Oktober 2023. Bewerbungen dafür sind voraussichtlich ab Anfang Juli möglich. Lass gerne deine E-Mail-Adresse da, dann informieren wir dich direkt, sobald du dich bewerben kannst."
 
 [melde-dich]
 other = "Dann melde dich bei uns:"
@@ -93,7 +88,7 @@ other = "Wir laden Sie herzlich zu unserem (online) Richtfest ein."
 other = "Anfahrt"
 
 [anfahrt-message]
-other = "Die Baustelle des CAs befindet sich in Rohrbach auf dem Gelände US-Hospital."
+other = "Das CA befindet sich in Heidelberg-Rohrbach auf dem Gelände des ehemaligen US-Hospitals."
 
 [unser-zimmermodell]
 other = "Unser Zimmermodell"
