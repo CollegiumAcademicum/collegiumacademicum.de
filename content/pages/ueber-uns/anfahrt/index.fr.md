@@ -11,5 +11,5 @@ directement en face de l'arrêt de tram "Ortenauer Straße".
 
 <div class="columns">
 	<div id="anfahrt" class="column">
-	{{< img src="map_anfahrt_hospital" alt="Anfahrt US Hospital mit der Baustelle für das Collegium Academicum." attr="Maurice Frank" />}}
+	{{< img src="map_anfahrt_ca_06_2023_V5" alt="Plan d'accès au Collegium Academicum." attr="Maurice Frank, Myriam Thürigen" />}}
 	</div>
