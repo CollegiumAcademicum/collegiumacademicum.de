@@ -29,7 +29,7 @@ Die Badtüren sind nach außen aufschlagbar. Innerhalb der Wohneinheiten gibt es
 ### Bäder
 
 Die Bäder der Wohneinheiten sind alle als identische, barrierefreie Fertigbäder konzipiert.
-Grundlage dafür ist der "Ready-Standard" (www.readyhome.de/).
+Grundlage dafür ist der "Ready-Standard" ([www.readyhome.de](https://www.readyhome.de/)).
 Alle Bäder sind so vorbereitet, dass sie leicht mit entsprechenden Griffen und Halterungen nachgerüstet werden können.
 
 Vier der Bäder wurden bereits ab Erstbezug mit Griffen und Halterungen ausgestattet, inkl. Schalteröffnung für die

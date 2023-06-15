@@ -27,7 +27,7 @@ The bath door opens to the outside.
 ### Bathrooms
 
 The bathrooms are designed as identical, barrier-free ready-made units.
-The basis for the concept is the "Ready-Standard" (https://readyhome.de).
+The basis for the concept is the "Ready-Standard" ([www.readyhome.de](https://www.readyhome.de/)).
 All bathrooms are prepared in such a way that they can easily be equipped with appropriate handles and brackets.
 
 Four of the bathrooms were equipped with handles and brackets already from the start, incl. switch
