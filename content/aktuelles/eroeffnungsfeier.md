@@ -14,7 +14,7 @@ Wir laden Sie mit großer Vorfreude ein, unserem Markt beizuwohnen! Hier gesamme
 |**Wann?**|Am 14.07.23 von 16-20 Uhr|
 |**Wo?**|Auf dem Mendelejewplatz in Heidelberg-Rohrbach (direkt auf unserer Fläche).|
 |**Was?** |Essen, Getränke, Musik, Infostände, Führungen, Rad-Check und mehr!|
-|**Anfahrt?**|Sie erreichen uns sehr gut mit den öffentlichen Verkehrsmitteln. Direkt vor unser Haustür befindet sich die Straßenbahnhaltestelle „Ortenauer Straße.“ Eine exakte Wegbeschreibung finden Sie außerdem unter<a href="collegiumacademicum.de/anfahrt">Anfahrt</a>.|
+|**Anfahrt?**|Sie erreichen uns sehr gut mit den öffentlichen Verkehrsmitteln. Direkt vor unser Haustür befindet sich die Straßenbahnhaltestelle „Ortenauer Straße.“ Eine exakte Wegbeschreibung finden Sie außerdem unter <a href="collegiumacademicum.de/anfahrt">Anfahrt</a>.|
 
 <div style="width: 100%;">
         <figure>
