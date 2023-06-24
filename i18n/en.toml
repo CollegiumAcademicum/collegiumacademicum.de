@@ -31,9 +31,22 @@ other = "Moving in"
 [interesse-anmelden]
 other = "I am interested"
 
-[einziehen-message]
-other = "We have vacant rooms in our dormitory from August 1, 2023. Here you can apply!"
-# other = "The next possible move-in date is October 2023. Applications for this are expected to open at the beginning of July. Please leave your email address and we will inform you directly as soon as you can apply."
+[direktkredite-message-voigl]
+other = "You share our vision of a self-managed house community and you would like to contribute to its realization?"
+
+[direktkredite-message-voigl-button]
+other = "Support us with a direct loan."
+
+[einziehen-message-aside]
+# other = "We have vacant rooms in our dormitory from October 1, 2023. Here you can apply!"
+other = "We have vacant rooms in our dormitory from October 1, 2023. Applications will be open from the beginning of July. Here you can find more information:"
+
+[einziehen-message-voigl]
+other = "You are interested in moving into our dormitory by October 2023 and in actively participating in our self-managed housing project?"
+
+[einziehen-message-voigl-button]
+# other = "Apply now for a room in our dormitory!"
+other = "Here you can find information on how to apply!"
 
 [melde-dich]
 other = "Then get in touch with us:"
@@ -43,12 +56,6 @@ other = "I am interested to move in later!"
 
 [newsletter-anmelde]
 other = "Sign me up for the newsletter"
-
-[voigl-message]
-other = "You share our vision of a self-managed house community and you would like to contribute to its realization?"
-
-[voigl-message-button]
-other = "Support us with a direct loan."
 
 [direktkredit-geben]
 other = "Direct loans"

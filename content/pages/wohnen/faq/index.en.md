@@ -38,10 +38,10 @@ Yes, the dormitory has a fast central internet connection (fiber optics) and all
 ### Questions about the application
 
 {{< accordion "When are there vacant rooms in the dormitory?" >}}
-The next possible move-in date is August 1, 2023. After that, moving into the CA is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). The number of vacant rooms is always different.
+We are regularly looking for new residents to fill vacant rooms. Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). Unfortunately, we can no longer accept applications for the move-in in July 2023. The next possible move-in date is October 1, 2023. From the beginning of July you will find the application form on our website.
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
-If you would like to move in in August, you can apply via the application form on our website from now until Friday, June 23, 2023 at the latest. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
+We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
 {{< /accordion >}}
 {{< accordion "What does the application day look like?" >}}
 About two weeks after the application deadline, the application day takes place. The intention of this day is to give you an insight into life in the CA and the structure of the self-government. It also allows us to get to know you better so that we can make an informed decision. We will first introduce the CA, followed by a group phase and a 15-minute individual interview.
@@ -58,8 +58,8 @@ Responsible for the organization of the application process and for the selectio
 {{< accordion "What if I didn't get a place in the dormitory at the application day?" >}}
 All selected applicants who have not received an acceptance can be added to our waiting list. We assign places via the waiting list if rooms become vacant at short notice before the next move-in date, but this will only happen in exceptional cases. So it is rather unlikely to get a place in the dormitory via the waiting list. The waiting list will be emptied after 3 months. You are allowed to reapply on every move-in date and you are always welcome to participate in our project independent of that.
 {{< /accordion >}}
-{{< accordion "Can I apply now if I want to move in only by October 2023?" >}}
-No, that is not possible at the moment. An application will probably be possible from the beginning of July. Please register in our newsletter [on this page](/en/moving-in), then we will inform you as soon as you can apply.
+{{< accordion "Can I apply now if I want to move in only by January 2024?" >}}
+No, that is not possible at the moment. An application will probably be possible from the beginning of October. Please register in our newsletter [on this page](/en/moving-in), then we will inform you as soon as you can apply.
 {{< /accordion >}}
 {{< accordion "Can I apply even if I am not studying or doing an apprenticeship?" >}}
 This is only possible in very few exceptional cases for people who are structurally strongly disadvantaged on the housing market and are in another type of training/study (e.g. German course, FSJ or similar). The particular disadvantage as well as the current main occupation must be briefly described in addition to the application informally via email to einziehen@collegiumacademicum.de.
