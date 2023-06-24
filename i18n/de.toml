@@ -31,9 +31,22 @@ other = "Einziehen"
 [interesse-anmelden]
 other = "Interesse anmelden"
 
-[einziehen-message]
-other = "Wir haben ab dem 1. August 2023 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
-# other = "Der nächstmögliche Einzugstermin ist der 1. Oktober 2023. Bewerbungen dafür sind voraussichtlich ab Anfang Juli möglich. Lass gerne deine E-Mail-Adresse da, dann informieren wir dich direkt, sobald du dich bewerben kannst."
+[direktkredite-message-voigl]
+other = "Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten einen Beitrag zur Verwirklichung leisten?"
+
+[direktkredite-message-voigl-button]
+other = "Unterstützen Sie uns mit einem Direktkredit."
+
+[einziehen-message-aside]
+# other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
+other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Ab Anfang Juli kannst du dich dafür bewerben. Hier findest du alle wichtigen Infos:"
+
+[einziehen-message-voigl]
+other = "Du hast Interesse daran, zum 1. Oktober 2023 in unseren Neubau einzuziehen und unser selbstverwaltetes Wohnprojekt aktiv mitzugestalten?"
+
+[einziehen-message-voigl-button]
+# other = "Bewirb dich jetzt bei uns!"
+other = "Hier findest du Infos zur Bewerbung!"
 
 [melde-dich]
 other = "Dann melde dich bei uns:"
@@ -43,12 +56,6 @@ other = "Ich habe Interesse daran, später einzuziehen!"
 
 [newsletter-anmelden]
 other = "In den Newsletter eintragen"
-
-[voigl-message]
-other = "Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten einen Beitrag zur Verwirklichung leisten?"
-
-[voigl-message-button]
-other = "Unterstützen Sie uns mit einem Direktkredit"
 
 [direktkredit-geben]
 other = "Direktkredit geben"
@@ -60,14 +67,10 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-# other = "Aktuell finden wegen den Abläufen auf der Baustelle leider keine Führungen statt. Wir freuen uns darauf, Sie zur Eröffnung bei uns begrüßen zu dürfen."
 other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
 
 [exkursionen-where]
 other = "Treffpunkt ist vor dem Bauzaun an der Karlsruher Straße, schräg gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter"
-
-[exkursion-cancelled-message]
-other = "Die angekündigte Baustellenführung am Sonntag muss leider ausfallen."
 
 [orientierungsjahr]
 other = "Das Orientierungsjahr"
