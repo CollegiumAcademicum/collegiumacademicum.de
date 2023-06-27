@@ -1,6 +1,6 @@
 ---
 title: "Unser Markt der Möglichkeiten am 14.Juli"
-date: 2023-06-15
+date: 2023-06-27
 ---
 Liebe Unterstützer:innen,   
 
@@ -17,4 +17,7 @@ Wir laden Sie mit großer Vorfreude ein, unserem Markt beizuwohnen! Hier gesamme
 Wir freuen uns auf Sie!   
 Mit herzlichen Grüßen   
 Ihre Projektgruppe und alle Bewohner:innen des CA 
-
+<figure>
+<img src="/newsletter/poster.png" alt="Poster Eröffnungsfeier" title="Poster" width="100%" />
+<figcaption>Gerne dürfen Sie dieses Poster auch an Freund:innen und Bekannte weiterleiten </figcaption>
+</figure>
