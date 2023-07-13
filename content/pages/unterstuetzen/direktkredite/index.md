@@ -47,7 +47,7 @@ Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. Euro** D
 
 Es ist uns bereits gelungen, etwa **2,8 Mio. Euro** Direktkredite (Stand Februar 2023) zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 500.000 
+Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 200.000
 Euro** für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
 
 <progress class="progress is-large is-primary" value="2800" max="3300"></progress>

@@ -44,7 +44,7 @@ Nous avons réussi à obtenir les **2,8 million d'euros** (février 2023) de cr�
 bâtiment neuf. **Un grand merci !** Merci pour chaque contribution financière qui nous rapproche un peu plus de la 
 réalisation de notre projet.
 Afin de compenser l'augmentation des coûts de construction, nous avons **actuellement encore besoin d'environ 
-500 000 d'euros** pour le nouveau bâtiment et avons donc un besoin urgent de votre soutien !
+200 000 d'euros** pour le nouveau bâtiment et avons donc un besoin urgent de votre soutien !
 
 <progress class="progress is-large is-primary" value="2800" max="3300"></progress>
 
