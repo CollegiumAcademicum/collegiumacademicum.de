@@ -52,7 +52,7 @@ more than 1.2 million euros (as of February 2023).
 
 We have managed to raise approx. **2.8 million euros** (February 2023) in direct loans to fund the New House! **Thank you!** 
 We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
-In order to compensate for increases in construction costs, we **currently still need about 500,000 euros** for the new building and therefore urgently need your support!
+In order to compensate for increases in construction costs, we **currently still need about 200,000 euros** for the new building and therefore urgently need your support!
 
 <progress class="progress is-large is-primary" value="2800" max="3300"></progress>
 
