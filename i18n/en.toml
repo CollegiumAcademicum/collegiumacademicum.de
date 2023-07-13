@@ -67,8 +67,12 @@ other = "Donations"
 other = "Excursions"
 
 [exkursionen-message]
-other = "We warmly invite you to our next guided tour of our construction site and buildings."
+# other = "We warmly invite you to our next guided tour of our construction site and buildings."
 # other = "Unfortunately, there are currently no guided tours at the construction site. We look forward to welcoming you at the opening."
+other = "The next tours will take place during our summer festival next Friday. No registration is necessary for this - just come along, we look forward to seeing you."
+
+[exkursionen-message2]
+other = "Guided tours every full hour."
 
 [exkursionen-where]
 other = "Meeting point is in front of the construction fence on Karlsruher Straße, diagonally opposite the Ortenauer Straße tram stop. You can find detailed directions at"
