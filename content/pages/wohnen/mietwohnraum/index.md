@@ -17,7 +17,7 @@ Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter 
 Du interessierst dich, in einem selbstverwalteten, gemeinschaftlichen Wohnprojekt mit einer diversen Gruppe
 inspirierender Menschen zusammenzuwohnen und dein Umfeld mitzugestalten? Dann lies weiter!
 
-## Sozialer Mietwohnraum
+### Sozialer Mietwohnraum
 
 Der größere Teil der Altbauwohnungen wird durch die "Soziale Mietwohnraumförderung des Landes Baden Württemberg" gefördert.
 Diese Förderung gewährleistet neben unseren anderen Fördergeldern auch in unserem Altbau dauerhaft bezahlbare Mieten.
@@ -36,7 +36,7 @@ Fortschritt Zimmerbelegung:
   <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
 </div>
 
-## Die zwei ungeförderten Wohnungen
+### Die zwei ungeförderten Wohnungen
 
 Eine 6-Zimmer-Wohnung (für 6-8 Personen) und eine 2-Zimmer-Wohnung (für 2 Personen) im 2. und 3. OG (siehe Pläne) sind
 nicht an die Belegungsvorgaben der sozialen Mietraumförderung gebunden.
@@ -54,4 +54,4 @@ Fortschritt Zimmerbelegung:
   <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
 </div>
 
-## Pläne und Höhe der Mieten
+### Pläne und Höhe der Mieten
