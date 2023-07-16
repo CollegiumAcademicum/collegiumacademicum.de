@@ -3,9 +3,11 @@ title: "Application"
 novoigl: yes
 ---
 
+<form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 We have vacant rooms in our dormitory from October 1, 2023. If you would like to move in in August, you can apply here from now until Friday, August 4, 2023 at the latest.
 </p>
+
 <h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
