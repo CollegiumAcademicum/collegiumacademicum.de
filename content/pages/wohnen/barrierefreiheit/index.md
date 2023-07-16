@@ -4,12 +4,17 @@ novoigl: yes
 slug: "barrierefreiheit"
 ---
 
-Unser viergeschossiger Holzneubau auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach bietet Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende.
-Die Zimmer sind in 3er- und 4er-WGs gruppiert und besitzen je ein eigenes Bad und eine Küche.
+Auf der Fläche des ehemaligen US-Hospitals in Heidelberg-Rohrbach befinden sich ein Holzneubau und ein Altbau,
+welcher im Moment saniert wird. Beide Gebäude bieten Wohnraum für unterschiedliche Zielgruppen.
+Bei Bau bzw. Umbau wurde Wert darauf gelegt, **den Wohnraum barrierearm zu gestalten**.
 
-Bei der Architektur des Gebäudes wurde Wert darauf gelegt, möglichst barrierearm zu bauen.
+Der Holzneubau bietet Wohnraum für insgesamt 176 Studierende, Auszubildende und Promovierende.
+Die Zimmer sind in 3er- und 4er WGs gruppiert, und besitzen je ein eigenes Bad und eine Küche.
 
-Im Folgenden haben wir die wichtigsten Informationen zur Barrierefreiheit zusammengefasst.
+Daneben befindet sich der Altbau, ein ehemaliges Verwaltungsgebäude des Krankenhauses, in welchem mitunter sechs
+Sozialmietwohnungen eingerichtet werden. Diese befinden sich im Erdgeschoss, welches sich barrierearm erschließen lässt.
+
+Im Folgenden haben wir die wichtigsten Informationen zur Barrierefreiheit im Neu- und Altbau zusammengefasst.
 
 ### Zugang zum Haus und zu den Wohnungen
 
