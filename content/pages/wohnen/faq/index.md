@@ -38,7 +38,7 @@ Ja, das Wohnheim besitzt einen schnellen zentralen Internetanschluss (Glasfaser)
 ### Fragen zur Bewerbung
 
 {{< accordion "Wann kann ich in das Wohnheim einziehen?" >}}
-In unserem Wohnheim werden regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Für den Einzug im Juli 2023 können wir leider keine Bewerbungen mehr annehmen. Der nächstmögliche Einzugstermin ist der 1. Oktober 2023. Dafür kannst du dich ab Anfang Juli über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+In unserem Wohnheim werden regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Das nächstmögliche Einzugsdatum und die Bewerbungsfristen findest du [auf dieser Seite](/einziehen).
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
 Alle Bewerber\*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber\*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.

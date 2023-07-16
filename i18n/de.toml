@@ -38,15 +38,15 @@ other = "Sie teilen unsere Vision eines selbstverwalteten Wohnheims und möchten
 other = "Unterstützen Sie uns mit einem Direktkredit."
 
 [einziehen-message-aside]
-# other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
-other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Ab Anfang Juli kannst du dich dafür bewerben. Hier findest du alle wichtigen Infos:"
+other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
+# other = "Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer in unserem Wohnheim. Ab Anfang Juli kannst du dich dafür bewerben. Hier findest du alle wichtigen Infos:"
 
 [einziehen-message-voigl]
 other = "Du hast Interesse daran, zum 1. Oktober 2023 in unseren Neubau einzuziehen und unser selbstverwaltetes Wohnprojekt aktiv mitzugestalten?"
 
 [einziehen-message-voigl-button]
-# other = "Bewirb dich jetzt bei uns!"
-other = "Hier findest du Infos zur Bewerbung!"
+other = "Bewirb dich jetzt bei uns!"
+# other = "Hier findest du Infos zur Bewerbung!"
 
 [melde-dich]
 other = "Dann melde dich bei uns:"
