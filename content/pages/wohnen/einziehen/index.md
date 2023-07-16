@@ -7,7 +7,7 @@ novoigl: yes
 
 Nach einer langen Planungs- und Bauphase sind im Februar 2023 endlich die ersten 176 Bewohner*innen in unseren Neubau eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhaltigen und selbstverwalteten Zusammenlebens.
 
-In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Der nächstmögliche Einzugstermin ist der 1. Oktober 2023. Dafür kannst du dich ab Anfang Juli über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Der nächstmögliche Einzugstermin ist der 1. Oktober 2023. Für den Einzug im Oktober kannst du dich ab sofort bis spätestens Freitag, 4. August 2023 über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 
 Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an einziehen@collegiumacademicum.de.
 
@@ -46,20 +46,21 @@ Da wir erfahrungsgemäß mehr Bewerbungen bekommen, als wir Plätze vergeben kö
 
 So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
-<!-- <div class="buttons is-centered">
+<div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Bewerbungsbogen</span>
     </a>
-</div> -->
-1. Du schickst uns deinen ausgefüllten Bewerbungsbogen zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
+</div>
+
+1. Du schickst uns deinen ausgefüllten [Bewerbungsbogen](/bewerbung) zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl.
 2. Wir lesen die eingehenden Bewerbungen. Alle Bewerber\*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber\*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.
-3. Etwa zwei Wochen nach Ende der Bewerbungsfrist findet der Auswahltag statt. Ziel des Auswahltags ist es, dir einen Einblick in das Leben im CA und den Aufbau der Selbstverwaltung zu geben. Zudem können wir dich dadurch besser kennenlernen und so eine fundierte Entscheidung treffen. Wir werden zunächst das CA vorstellen, anschließend wird es eine Gruppenphase sowie ein 15-minütiges Einzelgespräch geben. Falls du zum Auswahltag eingeladen wirst, kannst du dir frei aussuchen, ob du vor Ort im CA oder online teilnehmen möchtest. Wir achten darauf, Bewerber\*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen. Wir empfehlen dir jedoch, zum Auswahltag in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Wir werden während des Tages Notizen machen. Nicht, um dich direkt zu bewerten und in Schubladen zu stecken, sondern um auch im Nachhinein ein Bild von dir zu haben und darüber hinaus unseren eigenen Vorurteilen entgegenzuwirken. Wir entscheiden im Anschluss an den Auswahltag, welchen Bewerber\*innen wir gerne eine Zusage geben würden. Falls wir mehr Bewerber*innen eine Zusage geben wollen, als wir freie Zimmer haben, vergeben wir Zusagen zunächst anhand einer Quote, um insbesondere Auszubildenden einen Einzug ins CA zu ermöglichen. Anschließend vergeben wir Zusagen per Losverfahren.
+3. Etwa zwei Wochen nach Ende der Bewerbungsfrist findet der Auswahltag statt. <b>Für den Einzug im Oktober wird der Auswahltag am Sonntag, 20. August sein.</b> Ziel des Auswahltags ist es, dir einen Einblick in das Leben im CA und den Aufbau der Selbstverwaltung zu geben. Zudem können wir dich dadurch besser kennenlernen und so eine fundierte Entscheidung treffen. Wir werden zunächst das CA vorstellen, anschließend wird es eine Gruppenphase sowie ein 15-minütiges Einzelgespräch geben. Falls du zum Auswahltag eingeladen wirst, kannst du dir frei aussuchen, ob du vor Ort im CA oder online teilnehmen möchtest. Wir achten darauf, Bewerber\*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen. Wir empfehlen dir jedoch, zum Auswahltag in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Wir werden während des Tages Notizen machen. Nicht, um dich direkt zu bewerten und in Schubladen zu stecken, sondern um auch im Nachhinein ein Bild von dir zu haben und darüber hinaus unseren eigenen Vorurteilen entgegenzuwirken. Wir entscheiden im Anschluss an den Auswahltag, welchen Bewerber\*innen wir gerne eine Zusage geben würden. Falls wir mehr Bewerber*innen eine Zusage geben wollen, als wir freie Zimmer haben, vergeben wir Zusagen zunächst anhand einer Quote, um insbesondere Auszubildenden einen Einzug ins CA zu ermöglichen. Anschließend vergeben wir Zusagen per Losverfahren.
 4. Innerhalb einer Woche nach dem Auswahltag erhältst du von uns eine Rückmeldung per E-Mail. Falls du ausgewählt wurdest, hast du zwei Tage Zeit, um dich verbindlich zu entscheiden, ob du einziehen möchtest. Wir werden dich dann zu einem WG-Findungs-Tag einladen, bei dem du die einzelnen WGs kennenlernen kannst, in denen Zimmer frei werden. Danach kannst du eine Rückmeldung geben, welche WGs du dir vorstellen bzw. nicht vorstellen kannst. Ebenso können die WGs Rückmeldungen geben. Wir versuchen, alle Wünsche möglichst gut zu berücksichtigen. Sobald feststeht, in welche WG du ziehst, erstellt dir die AG Mietverwaltung deinen Mietvertrag.
 
-<!-- Falls du dich für das Wohnen in unserem Neubau interessierst, aber erst zu einem späteren Zeitpunkt einziehen möchtest, kannst du dich hier in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich immer direkt, sobald ein neues Bewerbungsverfahren startet. -->
-Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.
+Falls du dich für das Wohnen in unserem Neubau interessierst, aber erst zu einem späteren Zeitpunkt einziehen möchtest, kannst du dich hier in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich immer direkt, sobald ein neues Bewerbungsverfahren startet.
+<!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet. -->
 
 {{< einziehen-signup >}}
