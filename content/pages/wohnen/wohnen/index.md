@@ -14,7 +14,7 @@ Dann wirst du hier fündig:
         </span>
         <span>Wohnheim</span>
     </a>
-    <a href="{{< relref "/sozialer-mietwohnraum" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/mietwohnraum" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
