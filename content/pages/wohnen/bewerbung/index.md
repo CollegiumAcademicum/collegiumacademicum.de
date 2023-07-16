@@ -130,7 +130,7 @@ Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer. Falls du im Oktober bei un
     <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie du bewerben.</p>
 </div>
 <div class="field">
-    <label class="label" for="language">Nur aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?)</label>
+    <label class="label" for="language">Nur aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="language">
     </div>
