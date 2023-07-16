@@ -3,6 +3,7 @@ title: "Bewerbung"
 novoigl: yes
 ---
 
+<form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben ab dem 1. Oktober 2023 wieder freie Zimmer. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort bis spätestens Freitag, 4. August 2023 hier dafür bewerben:</p>
