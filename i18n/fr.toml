@@ -65,9 +65,8 @@ other = "Faire un don"
 other = "Excursions"
 
 [exkursionen-message]
-# other = "Nous vous invitons chaleureusement à notre prochaine visite guidée de notre chantier et de nos bâtiments."
+other = "Nous vous invitons chaleureusement à notre prochaine visite guidée de notre chantier et de nos bâtiments."
 # other = "Actuellement, il n'y a malheureusement pas de visites guidées sur le chantier. Nous nous réjouissons de vous accueillir à l'ouverture."
-other = "Les prochaines visites auront lieu pendant notre fête d'été, vendredi prochain. Pour cela, aucune inscription n'est nécessaire - venez simplement nous voir, nous nous réjouissons de vous accueillir."
 
 [exkursionen-message2]
 other = "Visites guidées à chaque heure pleine."

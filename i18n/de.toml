@@ -67,8 +67,7 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-# other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
-other = "Die nächsten Besichtigungen finden während unseres Sommerfests am kommenden Freitag statt. Hierfür ist keine Anmeldung nötig - Kommen Sie einfach vorbei, wir freuen uns auf Sie."
+other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
 
 [exkursionen-message2]
 other = "Führungen zu jeder vollen Stunde"
