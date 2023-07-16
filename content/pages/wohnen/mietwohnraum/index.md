@@ -7,7 +7,7 @@ novoigl: yes
 Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir verschiedene Lebenswelten zusammenbringen und noch
 mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen.
 
-Während der östliche Gebäudeteil hauptsächlich für Teilnehmer\*innen des [Orientierungsjahres](https://faltr.de/) vorgesehen ist,
+Während der östliche Gebäudeteil hauptsächlich für Teilnehmer\*innen des [Orientierungsjahres](/orientierungsjahr) vorgesehen ist,
 befinden sich im Erdgeschoss und im Westen unseres Altbaus Wohnungen, die als ganze Wohnung oder als WG funktionieren können.
 Außerdem können alle Bewohner\*innen unseres Projektes von großen, vielseitig nutzbaren Gemeinschaftsflächen im Innen-
 und Außenbereich unserer Gebäude profitieren.
