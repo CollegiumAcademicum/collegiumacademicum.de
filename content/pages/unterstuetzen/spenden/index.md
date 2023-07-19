@@ -12,7 +12,7 @@ eigene Projekte realisieren können. Um Ressourcen zu schonen, nehmen wir auch
 gerne Sachspenden an. Aktuell suchen wir insbesondere gut erhaltene Möbelspenden zur Einrichtung der
 Zimmer und Gemeinschaftsflächen.
 
-Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf und schreiben Sie an <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>. Weitere Informationen finden weiter unten auf dieser Seite sowie in unserem Spendenflyer, den Sie <a href="/media/2019_Spenden-Flyer.pdf">hier</a> herunterladen können.
+Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf und schreiben Sie an <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>. Weitere Informationen finden weiter unten auf dieser Seite sowie in unserem Spendenflyer, den Sie <a href="/media/2023_Spendenflyer_digital.pdf">hier</a> herunterladen können.
 
 <section class="grid-col">
   <p style="text-align:right">
