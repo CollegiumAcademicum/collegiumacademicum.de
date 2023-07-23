@@ -53,3 +53,16 @@ audio ="/:slug/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
