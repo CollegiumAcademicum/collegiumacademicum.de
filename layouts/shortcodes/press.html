@@ -1,25 +1,28 @@
 <ul class="citation-list">
-{{ range $.Site.Data.bibliography.press.press }}
-    <li>
-        <time>{{ .date }}</time>
+{{ range $index, $element := .Site.Data.bibliography.press.press }}
+    <li id="{{ $index }}">
+        <time>{{ $element.date }}</time>
         <span>
-        {{ if isset . "link" }}<a href="{{ .link }}">{{ .title }}</a>
-        {{ else }}{{ .title }}{{ end }}
+        {{ if isset $element "link" }}<a href="{{ $element.link }}">{{ $element.title }}</a>
+        {{ else }}{{ $element.title }}{{ end }}
         </span>
-        <cite>{{ .source }}</cite>
-        {{ if isset . "audio" }}
+        <cite>{{ $element.source }}</cite>
+        {{ if isset $element "audio" }}
         <audio controls>
             <source src="/audio/{{ .audio }}">
             Your browser does not support the audio element
         </audio>
-		{{ else if isset . "video" }}
-		<video controls poster="/media/{{ .video }}.jpg" src="/media/{{ .video }}.webm">
-			<source src="/media/{{ .video }}.webm" type="video/webm">
-			<source src="/media/{{ .video }}.mp4" type="video/mp4">
+		{{ else if isset $element "video" }}
+		<video controls poster="/media/{{ $element.video }}.jpg" src="/media/{{ $element.video }}.webm">
+			<source src="/media/{{ $element.video }}.webm" type="video/webm">
+			<source src="/media/{{ $element.video }}.mp4" type="video/mp4">
 		</video>
-		{{ else if isset . "embed_link" }}
-		<iframe src="{{ .embed_link }}" frameborder="0" allowfullscreen="true">
-		</iframe>
+		{{ else if isset $element "embed_link" }}
+        <script>
+            if(readCookie('cookie-notice-option')=='true'){
+                document.getElementById('{{ $index }}').innerHTML += '<iframe src="{{ $element.embed_link }}" frameborder="0" allowfullscreen="true"></iframe>';
+            }
+        </script>
         {{ end }}
     </li>
 {{ end }}
