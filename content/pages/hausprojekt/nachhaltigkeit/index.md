@@ -2,13 +2,30 @@
 title: "Nachhaltigkeit"
 ---
 
-<div class="color-block">Einen innovativen, mehrstöckigen Holzneubau, eine flächensparende Architektur, ein Raum- und Bildungskonzept mit Fokus auf Suffizienz (Genügsamkeit), ein bewusster Umgang mit Ressourcen während und nach der Bauphase: diese und viele weitere Aspekte machen das CA zu einem Leuchtturm im Bereich Ökologie und Nachhaltigkeit.</div>
+<div class="color-block">Der innovative, mehrstöckige Holzneubau, der materialsparend sanierte Altbau,
+hohe Ambition bezüglich Energieeffizienz, flächensparende Architektur,
+ein Raum- und Bildungskonzept mit Fokus auf Suffizienz (Genügsamkeit) und
+ein bewusster Umgang mit Ressourcen während und nach der Bauphase:
+diese und viele weitere Aspekte machen das CA zu einem Leuchtturmprojekt im Bereich Ökologie und Nachhaltigkeit.</div>
 </div>
 
-Bei der Konstruktion des Neubaus wird überwiegend Holz als nachwachsender Rohstoff verwendet. Holz-Holz-Verbindungen ermöglichen es, weitestgehend auf metallische Verbindungen zu verzichten. Im Gegensatz zu „konventionellen“ Baumaterialien wie Stahl, Zement und Beton verursacht die Holzproduktion nicht nur sehr wenige  CO2-Emissionen, sondern bindet sogar Kohlenstoff. Zudem wird auf eine sortenreine Trennfähigkeit der Baustoffen geachtet, um ein späteres Recycling zu ermöglichen.
+Bei der Konstruktion des Neubaus wird überwiegend Holz als nachwachsender Rohstoff verwendet.
+Holz-Holz-Verbindungen ermöglichen es, weitestgehend auf metallische Verbindungen zu verzichten.
+Im Gegensatz zu „konventionellen“ Baumaterialien wie Stahl, Zement und Beton verursacht die Holzproduktion nicht nur sehr wenige  CO2-Emissionen, sondern bindet sogar Kohlenstoff.
+Zudem wird auf eine sortenreine Trennfähigkeit der Baustoffen geachtet, um ein späteres Recycling zu ermöglichen.
+Auch bei der Sanierung unseres Altbaus versuchen wir, so viel CO<sub>2</sub> wie möglich einzusparen.
+Wir erhalten so viel Bausubstanz wie möglich und gestalten den größten Teil unseres Trockenbaus mit
+<a href="https://stramentec.com/">nachhaltigen Strohpresswänden</a> anstelle des Kohlekraftnebenproduktes Gips.
 
-<br>Durch sparsame Technik und gute Dämmung wird eine hohe Energieeffizienz erreicht. Der Neubau wird für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>. Die in der Größe maximierte Photovoltaikanlage liefert bilanziell mehr Strom, als im Gebäude verbraucht wird, der überschüssige Strom wird in das Netz eingespeist.
-Aufgrund des kreativen Wohnkonzepts mit dem Anspruch, Genügsamkeit in den Mittelpunkt zu stellen <a href="https://www.ifeu.de/service/nachrichtenarchiv/gutes-leben-fuer-alle-aber-wie/">(Suffizienz)</a>, dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Praxismodell für die <a href="https://www.ifeu.de/projekt/suprastadt/">Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität</a>.</br>
+<br>Durch sparsame Technik und gute Dämmung wird eine hohe Energieeffizienz erreicht.
+Der Neubau wird für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>.
+Die in der Größe maximierte Photovoltaikanlage liefert bilanziell mehr Strom, als im Gebäude verbraucht wird, der überschüssige Strom wird in das Netz eingespeist.
+Der Altbau wird auf den Energieeffizienzstandard 55 saniert und erhält ebenfalls eine PV-Anlage auf den Gebäudedächern.
+
+Aufgrund des kreativen Wohnkonzepts mit dem Anspruch, Genügsamkeit in den Mittelpunkt zu stellen
+<a href="https://www.ifeu.de/service/nachrichtenarchiv/gutes-leben-fuer-alle-aber-wie/">(Suffizienz)</a>,
+dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Praxismodell für die
+<a href="https://www.ifeu.de/projekt/suprastadt/">Erforschung flächensparenden Wohnens bei gleichzeitig hoher Lebensqualität</a>.</br>
 
 <div class="columns">
     <div class="column">
@@ -20,14 +37,25 @@ Aufgrund des kreativen Wohnkonzepts mit dem Anspruch, Genügsamkeit in den Mitte
     </div>
 </div>
 
-Zudem bieten wir Räume für die Zivilgesellschaft: die Aula und die Multifunktionsräume können z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen verwendet werden. Direkt am Karlsruher Platz ist ein Laden-Café geplant.
+Einen großen Beitrag zur effizienten, flächensparenden Raumnutzung leisten aber vor allem unsere zahlreichen
+Gemeinschaftsflächen in Alt- und Neubau: eine Aula mit Dachgarten für Veranstaltungen, Multifunktionsräume,
+einen stillen Arbeitsraum und ein als Gemeinschaftsgarten gestalteter Außenbereich stehen nicht nur den
+Bewohner\*innen sondern auch der restlichen Zivilgesellschaft offen.
+
+Zudem können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen
+genutzt werden. Direkt am Karlsruher Platz ist ein Laden-Café als Treffpunkt für das Quartier geplant.
 
 <div class="columns">
     <div class="column">
     {{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
     </div>
     <div class="column">
-    Für nachhaltige Mobilität wird der Radverkehr gestärkt. Dafür stehen ausreichend viele Fahrradstellplätze sowie eine Werkstatt zum reparieren kaputter Räder zur Verfügung. Für motorisierten Individualverkehr sind nur sehr  begrenzt Stellplätze vorgesehen, die zudem teilweise für Carsharing-Angebote reserviert sind. Nicht  zuletzt trägt  eine  sehr  gut  frequentierte  Straßenbahnhaltestelle sowie eine Buslinie in unmittelbarer Nähe zur nachhaltigen Mobilität bei, mit der das CA gut erreicht werden kann (<a href="/neubau">Anfahrt</a>).
+    Für nachhaltige Mobilität wird der Radverkehr gestärkt.
+    Dafür stehen ausreichend viele Fahrradstellplätze sowie eine Werkstatt zur Reparatur kaputter Räder zur Verfügung.
+    Diese offene Fahrradwerkstatt soll insbesondere auch von anderen Quartiersbewohner*\innen genutzt werden.
+    Für motorisierten Individualverkehr sind nur sehr begrenzt Stellplätze vorgesehen, die zudem teilweise für Carsharing-Angebote reserviert sind.
+    Nicht  zuletzt trägt  eine  sehr  gut  frequentierte  Straßenbahnhaltestelle sowie eine Buslinie in unmittelbarer
+    Nähe zur nachhaltigen Mobilität bei, mit der das CA gut erreicht werden kann (<a href="/neubau">Anfahrt</a>).
     </div>
 </div>
 
