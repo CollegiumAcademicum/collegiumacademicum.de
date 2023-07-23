@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "bulma": "^0.7.2",
-    "bulma-timeline": "^3.0.0",
-    "js-beautify": "^1.8.8",
-    "juice": "^5.2.0"
+    "bulma": "^0.9.4",
+    "bulma-timeline": "^3.0.5",
+    "js-beautify": "^1.14.9",
+    "juice": "^9.1.0"
   }
 }
