@@ -6,6 +6,18 @@ link = "https://open.spotify.com/episode/1SNeoIya8gDNlPZq3EwIL2?si=vkqPvaqqRKiL4
 date = "17.07.2023"
 
 [[press]]
+title = "46 WGs mit Nachhaltigkeitseffekt im Heidelberger Süden"
+source = "Mannheimer Morgen"
+link = "https://www.mannheimer-morgen.de/orte/heidelberg_artikel,-heidelberg-46-wgs-mit-nachhaltigkeitseffekt-im-heidelberger-sueden-_arid,2105376.html"
+date = "15.07.2023"
+
+[[press]]
+title = "Collegium Academicum offiziell eröffnet"
+source = "RNZ"
+link = "https://www.rnz.de/region/heidelberg_artikel,-Heidelberg-Collegium-Academicum-offiziell-eroeffnet-_arid,1151873.html"
+date = "15.07.2023"
+
+[[press]]
 title = "Heidelberger Studierende organisieren den Wohnheimbau selbst: WGs können ihre Wände verschieben"
 source = "BNN"
 link = "https://bnn.de/nachrichten/baden-wuerttemberg/hedelberger-studierende-organisierten-den-wohnheim-bau"
