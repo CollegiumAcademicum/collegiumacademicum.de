@@ -20,6 +20,8 @@ Gemeinschaftsraum
     to do: update-->
 {{< /img >}}
 
+<br>
+
 Die Errichtung des Neubaus und die Sanierung des Bestandsgebäudes wurden von der Internationale Bauausstellung (<a href='https://iba.heidelberg.de/de'>IBA</a>) Heidelberg
 begleitet, die als Exzellenzinitiative für Stadtplanung arbeitet. Die IBA förderte und begleitete bis 2022 zukunftsweisende
 Lösungen angesichts städtebaulicher und gesellschaftlicher Herausforderungen und kürte unser Vorhaben 2015 zum
