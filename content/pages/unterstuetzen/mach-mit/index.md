@@ -4,7 +4,12 @@ title: "Mach Mit"
 
 ### Projekttreffen
 
-Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)) das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula oder im Pförtnerhäuschen. Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
+Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) und Initiativen des Projekts statt, die sich meist wöchentlich treffen.
+Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([Marie-Clauss-Straße 3](https://www.openstreetmap.org/#map=17/49.37609/8.68707))
+das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula.
+Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen.
+AGs und Initiativen können berichten, sich austauschen und sich absprechen.
+Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 
 
 {{< carousel nSlides="8" >}}
@@ -164,21 +169,22 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 
 
 <div x-show="activeSlide === 8">
-    <h3>AG Gemeinschaft</h3>
+    <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
         <div class="">
-            <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß zu haben. Für neue Ideen freuen wir uns auf deinen Input!
+            <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß haben. Für neue Ideen freuen wir uns auf deinen Input!
             </p>
         </div>
     </div>
  Was tun wir, um das Gruppenleben zu gestalten?<br>
 
 <ul>
-  <li>Auflockerungs- und Aufwärmspiele bei längeren Plenumstreffen</li>
-  <li>Gemeinsames Kochen beim Plenum (sofern es die Coronabedingungen erlauben)</li>
-  <li>Überwachung von Gruppenprozessen, Schaffung neuer Bindungen z. B. bei Einziehenden</li>
-  <li>Entwicklung eines Awareness-Konzepts</li>
+  <li>Planen und Durchführen von gemeinsamen Aktivitäten (Kochen, Spiele- und Filmabende)</li>
+  <li>Organisieren von Teambuilding-Events</li>
+  <li>Vernetzung innerhalb des Wohnheims und der Projektgruppe stärken</li>
+  <li>Rahmenprogramm für Arbeitseinsätze gestalten</li>
+  <li>Gesprächsrunden</li>
 </ul>
   
 </div>
