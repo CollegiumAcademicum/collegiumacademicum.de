@@ -5,6 +5,8 @@ slug: "faq"
 ---
 
 
+{{< accordion "Zum Wohnheim" >}}
+
 ### Fragen zur Ausstattung der Zimmer und des Wohnheims
 
 {{< accordion "Wie hoch ist die Miete?" >}}
@@ -87,4 +89,122 @@ Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bet
 {{< /accordion >}}
 {{< accordion "Wir sind mehrere zusammengehörende Menschen mit Kind(ern)/Ich bin Alleinerziehend mit Kind(ern). Können wir bzw. kann ich trotzdem als Familie einziehen?" >}}
 Es gibt keine Familienwohnungen im engeren Sinne. Trotzdem ist es möglich, mit Kindern in das Wohnheim einzuziehen. Es gibt dabei mehrere Optionen. Für ein Kind kann ein eigenes Zimmer in der eigenen WG angemietet werden. Es ist außerdem möglich, dass sich zwei erwachsene Menschen ein Zimmer teilen und das dadurch frei werdende Zimmer als Kinderzimmer genutzt wird. Dank der flexiblen Trennwände ist auch eine individuelle Zimmergrößeneinteilung möglich. So kann bspw. ein Zimmer in zwei kleinere Zimmer à 7 m<sup>2</sup> aufgeteilt werden, wobei eines davon zum Durchgangszimmer werden würde.
+{{< /accordion >}}
+{{< /accordion >}}
+
+{{< accordion "Zu unseren anderen Wohnungen" >}}
+### Fragen zur Ausstattung der Zimmer und des Altbaus
+
+{{< accordion "Wo befinden sich die Wohnungen?" >}}
+Unsere 6 sozialen Mietwohnungen und die 2 ungeförderten Wohnungen befinden sich zusammen mit dem Orientierungsjahr
+in unserem schönen, energieeffizient sanierten Altbau direkt neben dem Wohnheim.
+Zusammen bilden wir eine große Gemeinschaft, die gemeinsam über ihren Wohnraum entscheidet und ihn selbst verwaltet.
+Vier soziale Mietwohnungen befinden sich im Erdgeschoss, zwei weitere im 1. OG.
+Die zwei ungeförderten Wohnungen sind im 2. und 3. OG.
+{{< /accordion >}}
+{{< accordion "Wie hoch ist die Miete?" >}}
+In den einzelnen Wohnungen des sozialen Mietwohnraums beträgt der Quadratmeterpreis …€/m2.
+In den ungeförderten Wohnungen beträgt er …€/m2.
+[Hier](/mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+{{< /accordion >}}
+{{< accordion "Wie sehen die Wohnungen aus?" >}}
+Die Wohnungen sind unterschiedlich groß und haben verschiedene Grundrisse.
+[Hier](/mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+{{< /accordion >}}
+{{< accordion "Sind die Wohnungen barrierefrei/rollstuhlgerecht?" >}}
+Die Wohnungen im Erdgeschoss sind barrierefrei ausgebaut.
+Wenn du mehr Informationen benötigst, dann melde dich gerne bei uns unter einziehen.altbau@collegiumacademicum.de.
+oder schaue [hier](/barrierefreiheit) nach.
+{{< /accordion >}}
+{{< accordion "Wie hoch sind die Nebenkosten?" >}}
+{{< /accordion >}}
+{{< accordion "Von wo wird der Strom bezogen?" >}}
+Der Altbau nutzt zu 100% Strom aus erneuerbaren Energien über die Heidelberger Energiegenossenschaft.
+Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt.
+Die Stromkosten sind nicht in der Miete enthalten.
+{{< /accordion >}}
+{{< accordion "Welche Grundausstattung besitzt eine Wohnung?" >}}
+Jede Wohnung verfügt über eine Küche und ein bis zwei Bäder (je nach Größe).
+Wie genau die Küchen aussehen werden, ist noch nicht klar.
+In manchen Wohnungen sind die Küchen sehr groß und als Wohnküche nutzbar.
+{{< /accordion >}}
+{{< accordion "Gibt es Internetanschluss?" >}}
+Ja.
+{{< /accordion >}}
+
+### Fragen zur Bewerbung
+{{< accordion "Muss ich studieren oder eine Ausbildung machen, um mich auf ein Zimmer/eine Wohnung im Altbau zu bewerben?" >}}
+Nein! Diese Regel gilt nur für das benachbarte Wohnheim.
+Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau bewerben.
+{{< /accordion >}}
+{{< accordion "Wann sind Zimmer oder Wohnungen im Altbau bezugsfertig?" >}}
+Die Wohnungen können voraussichtlich ab 01.12.2023 bezogen werden.
+Wir versuchen freiwerdenden Wohnraum immer so schnell wie möglich auszuschreiben.
+Eine Liste mit aktuellen Wohnungs- oder WG-Anzeigen aus unserem Altbau findest du [Hier](Link).
+Wir planen, immer wieder Besichtigungs- und Kennenlerntage zu veranstalten.
+{{< /accordion >}}
+{{< accordion "Wie kann ich mich auf ein Zimmer oder eine Wohnung in den sozialen Mietwohnungen bewerben?" >}}
+Du bewirbst dich auf ein Zimmer/eine Wohnung unseres Sozialwohnraumes unter diesem Bewerbungsformular [Link].
+Bitte beachte, dass in den 6 sozialen Mietwohnungen nur Menschen zur Bewerbung zugelassen werden, die einen
+Wohnberechtigungsschein für das laufende Kalenderjahr nachweisen können.
+Genaue Informationen, wie du diesen Wohnberechtigungsschein bei der Stadt beantragen kannst, findest du [hier](Link zur Stadt).
+Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
+- [Bewerbung für das Orientierungsjahr](https://faltr.de/)
+- [Bewerbung für das Wohnheim](/bewerbung)
+{{< /accordion >}}
+{{< accordion "Wie kann ich mich auf ein Zimmer in den ungeförderten Wohnungen bewerben?" >}}
+Du bewirbst dich auf ein Zimmer/eine Wohnung unseres Altbaus unter diesem Bewerbungsformular [Link].
+Beachte, dass für die sozialen Mietwohnungen ein anderes Bewerbungsformular vorhanden ist!
+Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
+- [Bewerbung für das Orientierungsjahr](https://faltr.de/)
+- [Bewerbung für das Wohnheim](/bewerbung)
+{{< /accordion >}}
+{{< accordion "Ich/Wir haben einen Direktkredit gegeben. Habe ich/haben wir dadurch einen Vorteil bei der Bewerbung?" >}}
+Nein, dies hat keinen Einfluss auf die Bewerbungschancen.
+Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person in einer Wohnung im CA leben kann.
+{{< /accordion >}}
+{{< accordion "Nach welchen Kriterien werden die Bewohner*innen ausgewählt?" >}}
+oNeben den formalen Vorgaben, suchen wir Menschen, die sich mit unserem Leitbild identifizieren,
+sich in der Selbstverwaltung einbringen und Verantwortung für das Wohnprojekt übernehmen.
+{{< /accordion >}}
+
+### Fragen zum Einzug und zum Zusammenleben
+
+{{< accordion "Wann ist der Einzug in den Altbau geplant" >}}
+Derzeit gehen wir von einer Vermietung ab Dezember 2023 aus.
+Da sich das Gebäude aber noch im Bau befindet, können wir noch kein sicheres Einzugsdatum ansetzen.
+Wenn du auf der Baustelle mithelfen willst, melde dich gerne unter collegiumacademicum@posteo.de
+{{< /accordion >}}
+{{< accordion "Bin ich Teil des Wohnprojektes, wenn ich in den Altbau ziehe?" >}}
+Natürlich. Auch du gehörst selbstverständlich zum Projekt und nimmst an der Selbstverwaltung teil.
+Du darfst auch alle verfügbaren Gemeinschaftsflächen mit den anderen Bewohner*innen teilen.
+{{< /accordion >}}
+{{< accordion "Was bedeutet eine Teilnahme an der Selbstverwaltung?" >}}
+Die Menschen, die in unseren Gebäuden wohnen, organisieren ihr Zusammenleben und Miteinander selbst.
+Das bedeutet, dass Aufgaben wie die Finanzierung/Mietverwaltung und die Instandhaltung unseres Wohnumfeldes von uns
+selbst getragen werden.
+Dafür ist es wichtig, dass alle Menschen die hier zusammen wohnen auch an der Selbstverwaltung nach ihren Möglichkeiten
+teilnehmen. Solltest du dich schon vor deinem Einzug im Projekt engagieren, hast du dadurch auch die Möglichkeit,
+deinen zukünftigen Wohnraum noch stärker mitzugestalten!
+{{< /accordion >}}
+{{< accordion "Dürfen die Bewohner*innen des Altbaus Gemeinschaftsräume im Alt- und Neubau mitnutzen?" >}}
+Ja, das gesamte Projekt wird gemeinschaftlich durch alle Bewohner*innen genutzt.
+Bereiche innerhalb der Wohnung (Wohnküche, Bad...) sind natürlich privat.
+Dazu hast du aber Zugang zu sehr vielen Gemeinschaftsräumen: von der Lounge bis zum Konferenzraum, über Gruppenräume,
+Arbeitsräume, Holz-, Metall- und Fahrradwerkstatt, Garten, und Waschraum.
+{{< /accordion >}}
+{{< accordion "Muss ich einen Direktkredit geben oder spenden, um einzuziehen?" >}}
+Nein. Die finanzielle Lage einer Person soll nicht dafür ausschlaggebend sein, ob sie in unserem Projekt leben kann.
+{{< /accordion >}}
+{{< accordion "Wir sind mehrere zusammengehörende Menschen mit/ohne Kind(ern)/Ich bin Alleinerziehend mit Kind(ern). Ich bin Senior/in. Können wir bzw. kann ich trotzdem einziehen?" >}}
+Gerade bei der Erstvermietung können wir gut ganze Wohnungen oder mehrere Zimmer in der gleichen Wohnung zusammen vermieten.
+In späteren Projektphasen kommt es darauf an, ob eine ganze Wohnung bzw. eine entsprechende Anzahl an Zimmern frei wird.
+Prinzipiell ist im Altbau das Zusammenleben in allen Lebenslagen möglich und wir freuen uns auf bunt gemischte WGs!
+{{< /accordion >}}
+{{< accordion "Muss ich selber auf der Baustelle helfen?" >}}
+Nein. Wir wünschen uns aber sehr, dass viele Bewohner*innen schon vor dem Einzug mithelfen.
+Vielleicht beim Möbelbau, bei der Mietverwaltung, in der Finanzierungsarbeit oder vielleicht doch auf unserer Baustelle?
+Unterstützung durch Bewohner*innen  ist aber vor allem im Hinblick auf die zukünftige Selbstverwaltung sinnvoll und wünschenswert,
+um das Zusammenleben stemmen zu können. Mehr Infos findest du unter [Mach mit](/mach-mit).
+{{< /accordion >}}
 {{< /accordion >}}
