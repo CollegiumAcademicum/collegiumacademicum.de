@@ -19,16 +19,26 @@ inspirierender Menschen zusammenzuwohnen und dein Umfeld mitzugestalten? Dann li
 
 ### Sozialer Mietwohnraum
 
-Der größere Teil der Altbauwohnungen wird durch die "Soziale Mietwohnraumförderung des Landes Baden Württemberg" gefördert.
+Der größere Teil der Altbauwohnungen wird durch die
+[Soziale Mietwohnraumförderung des Landes Baden Württemberg](https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/wohnungsbau/wohnraumfoerderung/mietwohnraumfoerderung/) gefördert.
 Diese Förderung gewährleistet neben unseren anderen Fördergeldern auch in unserem Altbau dauerhaft bezahlbare Mieten.
-Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hier ab Herbst 2023 vermietet.
+Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hier ab Winter 2023 vermietet.
 
 **Wichtiger Hinweis:**
 Die Wohnungen sind NICHT Teil des Wohnheims für junge Menschen und jede Person, egal welchen Alters oder welcher Lebenslage,
 kann sich auf diese Wohnungen bewerben, wenn sie einen Wohnberechtigungsschein vorlegen kann.
 Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen darf, findest du [hier](https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038).
 
-Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben? [Hier entlang!](link-folgt.de)
+Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
+
+<div class="buttons is-centered">
+    <a href="{{< relref "/bewerbung_altbau" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Hier entlang!</span>
+    </a>
+</div>
 
 Fortschritt Zimmerbelegung:
 <div class="progress-wrapperEinzug">
@@ -46,7 +56,15 @@ unsere Altbaus aktiv mitzugestalten und die Schnittstelle zwischen Orientierungs
 Altbaus zu bilden.
 
 Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
-Dann [bewirb dich jetzt!](link-folgt.de)
+
+<div class="buttons is-centered">
+    <a href="{{< relref "/bewerbung_altbau" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Dann bewirb dich jetzt!</span>
+    </a>
+</div>
 
 Fortschritt Zimmerbelegung:
 <div class="progress-wrapperEinzug">
