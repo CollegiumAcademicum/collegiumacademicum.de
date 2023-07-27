@@ -23,9 +23,8 @@ Through adjustments and progress in planning, the exact numbers in our calculati
 In the new building, the construction work is already close to the finish line and also in the old building, we have 
 already placed orders for the majority of the construction work.
 This gives us a high degree of cost certainty. 
-[Here]({{< relref "/pages/hausprojekt/neubau"  >}} ) you can find further details regarding the architecture and 
-planning status of the new building. Information on the old buildings is provided
-[here]({{< relref "/pages/hausprojekt/altbauten"  >}} )
+[Here]({{< relref "/pages/hausprojekt/gebaeude"  >}} ) you can find further details regarding the architecture and
+planning status of our buildings.
 
 
 ## Funding sources
