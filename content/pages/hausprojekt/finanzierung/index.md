@@ -28,8 +28,8 @@ Forschung sind in der Schätzung enthalten. Die genaue Kalkulation konkretisiert
 Fortschritte in den Planungen.
 Im Neubau befinden sich die Bauarbeiten schon auf der Zielgeraden und auch im Altbau haben wir für den Großteil der
 Bauleistungen bereits Beauftragungen erteilt. Dadurch verfügen wir über eine große Kostensicherheit.
-Weitere Details zur Architektur und zur Planung des Neubaus finden Sie
-[hier]({{< relref "/pages/hausprojekt/neubau"  >}} ), Informationen zu den Altbauten [hier]({{< relref "/pages/hausprojekt/altbauten"  >}} ).
+Weitere Details zur Architektur und zur Planung unserer Gebäude finden Sie
+[hier]({{< relref "/pages/hausprojekt/gebaeude"  >}} ).
 
 ## Finanzierungsbausteine
 

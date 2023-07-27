@@ -12,7 +12,7 @@ ou par téléphone au 0049-6221-6734812.
 ## Coûts du projet
 
 La structure autogérée, qui est portée par la _Collegium Academicum GmbH_, se compose d'un bâtiment neuf et de deux bâtiments existants. Le coût total du bâtiment neuf s'élève à environ **21 millions d'euros**. Les coûts exacts sont constamment revérifiés au fil des ajustements et des avancements du projet. Ils comprennent les coûts estimés pour l’achat et la viabilisation du terrain, la construction et les installations techniques, les installations extérieures, l'équipement et les coûts secondaires. Vous trouverez
-[ici]({{< relref "/pages/hausprojekt/neubau"  >}} ) plus de détails sur l'architecture et la planification. Le plan financier inclut également les taux d’intérêts durant la construction et les fonds pour la recherche.
+[ici]({{< relref "/pages/hausprojekt/gebaeude"  >}} ) plus de détails sur l'architecture et la planification. Le plan financier inclut également les taux d’intérêts durant la construction et les fonds pour la recherche.
 
 ## Éléments de financement
 
