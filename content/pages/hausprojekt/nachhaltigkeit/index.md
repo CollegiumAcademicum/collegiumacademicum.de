@@ -2,8 +2,8 @@
 title: "Nachhaltigkeit"
 ---
 
-<div class="color-block">Der innovative, mehrstöckige Holzneubau, der materialsparend sanierte Altbau,
-hohe Ambition bezüglich Energieeffizienz, flächensparende Architektur,
+<div class="color-block">Ein innovativer, mehrstöckiger Holzneubau, eine flächensparende Architektur,
+ein materialsparend sanierter Altbau mit höchster Energieeffizienz,
 ein Raum- und Bildungskonzept mit Fokus auf Suffizienz (Genügsamkeit) und
 ein bewusster Umgang mit Ressourcen während und nach der Bauphase:
 diese und viele weitere Aspekte machen das CA zu einem Leuchtturmprojekt im Bereich Ökologie und Nachhaltigkeit.</div>
@@ -41,7 +41,6 @@ Einen großen Beitrag zur effizienten, flächensparenden Raumnutzung leisten abe
 Gemeinschaftsflächen in Alt- und Neubau: eine Aula mit Dachgarten für Veranstaltungen, Multifunktionsräume,
 einen stillen Arbeitsraum und ein als Gemeinschaftsgarten gestalteter Außenbereich stehen nicht nur den
 Bewohner\*innen sondern auch der restlichen Zivilgesellschaft offen.
-
 Zudem können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen
 genutzt werden. Direkt am Karlsruher Platz ist ein Laden-Café als Treffpunkt für das Quartier geplant.
 
@@ -78,4 +77,9 @@ Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen
 {{< img src="banner_ca" alt="Eine andere Perspektive auf das CA" attr="Margarete Over 2019" />}}
 </br>
 
-Neben den baulichen Konzepten entwickeln wir ein Bildungskonzept und Organisationsstrukturen für ein nachhaltiges Zusammenleben: Suffizienz schafft Raum für kreative Ideen – Genügsamkeit wird zum Luxus. Foodsharing und gemeinschaftliches Kochen z. B. im Rahmen von [Workcamps](/summerschool) sowie Urban Gardening beleben das Gemeinschaftsgefühl und fördern zugleich einen nachhaltigen Umgang mit Lebensmitteln. Gemeinsames Reparieren in der Werkstatt spart Geld und Ressourcen – und bringt Freude durch Erfolgserlebnisse. Tauschen, leihen und gemeinsam nutzen, reparieren und selbst produzieren verringern Abhängigkeiten, stärken regionale Kreisläufe und münden in Kompetenz und Selbstbestimmung.
+Neben den baulichen Konzepten entwickeln wir ein Bildungskonzept und Organisationsstrukturen für ein nachhaltiges Zusammenleben:
+Suffizienz schafft Raum für kreative Ideen – Genügsamkeit wird zum Luxus.
+Foodsharing und gemeinschaftliches Kochen z. B. im Rahmen von [Workcamps](/aktionen) sowie Urban Gardening
+beleben das Gemeinschaftsgefühl und fördern zugleich einen nachhaltigen Umgang mit Lebensmitteln.
+Gemeinsames Reparieren in der Werkstatt spart Geld und Ressourcen – und bringt Freude durch Erfolgserlebnisse.
+Tauschen, leihen und gemeinsam nutzen, reparieren und selbst produzieren verringern Abhängigkeiten, stärken regionale Kreisläufe und münden in Kompetenz und Selbstbestimmung.
