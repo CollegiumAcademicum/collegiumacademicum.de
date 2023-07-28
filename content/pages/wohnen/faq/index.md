@@ -117,6 +117,7 @@ Wenn du mehr Informationen benötigst, dann melde dich gerne bei uns unter einzi
 oder schaue [hier](/barrierefreiheit) nach.
 {{< /accordion >}}
 {{< accordion "Wie hoch sind die Nebenkosten?" >}}
+tbd
 {{< /accordion >}}
 {{< accordion "Von wo wird der Strom bezogen?" >}}
 Der Altbau nutzt zu 100% Strom aus erneuerbaren Energien über die Heidelberger Energiegenossenschaft.
@@ -170,7 +171,7 @@ sich in der Selbstverwaltung einbringen und Verantwortung für das Wohnprojekt �
 
 ### Fragen zum Einzug und zum Zusammenleben
 
-{{< accordion "Wann ist der Einzug in den Altbau geplant" >}}
+{{< accordion "Wann ist der Einzug in den Altbau geplant?" >}}
 Derzeit gehen wir von einer Vermietung ab Dezember 2023 aus.
 Da sich das Gebäude aber noch im Bau befindet, können wir noch kein sicheres Einzugsdatum ansetzen.
 Wenn du auf der Baustelle mithelfen willst, melde dich gerne unter collegiumacademicum@posteo.de
