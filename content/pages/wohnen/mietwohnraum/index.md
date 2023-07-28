@@ -32,7 +32,7 @@ Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen dar
 Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_altbau" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
@@ -58,7 +58,7 @@ Altbaus zu bilden.
 Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_altbau" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_other" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
