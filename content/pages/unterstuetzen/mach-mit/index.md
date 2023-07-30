@@ -60,7 +60,7 @@ Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wi
 
 </div>
 
-
+<!--
 <div x-show="activeSlide === 3">
     <h3>AG Eigenleistung</h3>
     <div class="grid-col">
@@ -80,8 +80,10 @@ Damit wir diesen Sommer einziehen können, erledigen wir bei den <a href="/aktio
 Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei! Wir sehen uns in der Werkstatt 😊
 
 </div>
+-->
 
-<div x-show="activeSlide === 4">
+
+<div x-show="activeSlide === 3">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -103,7 +105,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
   
 </div>
 
-<div x-show="activeSlide === 5">
+<div x-show="activeSlide === 4">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
@@ -127,7 +129,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
   
 </div>
 
-<div x-show="activeSlide === 6">
+<div x-show="activeSlide === 5">
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -148,7 +150,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 
 </div>
 
-<div x-show="activeSlide === 7">
+<div x-show="activeSlide === 6">
     <h3>AG Bildung</h3>
     <div class="grid-col">
         {{< img src="ag_bildung" />}}
@@ -168,7 +170,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 </div>
 
 
-<div x-show="activeSlide === 8">
+<div x-show="activeSlide === 7">
     <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
@@ -187,6 +189,27 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   <li>Gesprächsrunden</li>
 </ul>
   
+</div>
+
+<div x-show="activeSlide === 8">
+    <h3>AG Mietverwaltung (wohnheimsintern)</h3>
+    <div class="grid-col">
+        {{< img src="ag_finanzierung" />}}
+        <div class="">
+            <p>Die AG Mietverwaltung kümmert sich um Belange,
+            die mit dem Mietverhältnis zusammenhängen und ist dafür Ansprechpartnerin für Fragen und Probleme. </p>
+        </div>
+    </div>
+Zu unseren Aufgaben gehören:<br>
+
+<ul>
+  <li>Die Verwaltung der Mieteinnahmen und der Kautionskonten.</li>
+  <li>Das Aufsetzen von Mietverträgen und die Zimmerübergaben bei Ein- und Auszug.</li>
+  <li>Die Abrechnung von Strom, Internet und Waschkosten.</li>
+  <li>Das Verwalten von Untermieten.</li>
+  <li>Das Finden von (individuellen) Lösungen bei Problemen, die das Mietverhältnis betreffen.</li>
+</ul>
+
 </div>
 
 {{< /carousel >}}
