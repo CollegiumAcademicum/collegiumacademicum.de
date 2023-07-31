@@ -92,10 +92,10 @@ und Verantwortung in der Gesellschaft zu übernehmen.
 Das Orientierungsjahr ist ein wichtiger Bestandteil unseres [Bildungskonzepts](/bildung/) und wird voraussichtlich im
 Herbst 2023 starten.
 
-Die übrigen Wohnungen umfassen zwei frei finanzierte WGs in Form von Maisonette-Wohnungen und sechs Wohnungen,
-mit denen wir [sozialen Mietwohnraum](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html) schaffen wollen.
-Damit soll Wohnraum für Menschen geboten werden, die ihren Wohnungsbedarf nicht auf dem freien Markt
-decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten
+Die übrigen Wohnungen umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
+sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir [sozialen Mietwohnraum](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html) schaffen wollen.
+Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden, die ihren Wohnungsbedarf nicht auf dem
+normalen Wohnungsmarkt decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten
 am Ende der Seite oder per [E-Mail](mailto:einziehen.altbau@collegiumacademicum.de) bewerben.
 
 Im Erdgeschoss werden neben Wohnflächen des sozialen Wohnungsbaus mehrere multifunktionale Seminar- und Gemeinschaftsräume
