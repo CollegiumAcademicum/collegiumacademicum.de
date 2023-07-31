@@ -192,6 +192,35 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 </div>
 
 <div x-show="activeSlide === 8">
+    <h3>Garten-Initiative</h3>
+    <div class="grid-col">
+        {{< img src="ag_gemeinschaft" />}}
+        <div class="">
+            <p>Liebe Gartenfreunde,
+            <br>die Garteninitiative widmet sich der Gestaltung und Instandhaltung des Außenraums unseres Wohnheims.
+            Wir wollen unser Zuhause mit mehr Grün und mehr Leben füllen.
+            Menschen, die auf der Wiese im Innenhof picknicken, andere die ihr AG-Treffen in den Sitzkreisen abhalten
+            oder wieder andere, die einfach nur in einer Hängematte neben dem Teich liegen, ein Buch lesen und entspannen.
+            Durch das Konzept der Selbstverwaltung kann das frei nach unseren Wünschen und Ideen geschehen.
+            </p>
+        </div>
+    </div>
+ Es sind bereits viele spannende Projekte in Arbeit und geplant, wie:<br>
+
+<ul>
+  <li>Das Anlegen von Beeten </li>
+  <li>Gestalten und Instandhaltung des Teichs</li>
+  <li>Bau einer Kräuterspirale </li>
+  <li>Gestaltung des Dachgartens</li>
+  <li>Schaffen von Sitzgelegenheiten/Sitzkreisen</li>
+</ul>
+<br>
+Falls du Interesse hast mitzumachen und bereits neue Ideen oder einfach nur Spaß an Gartenarbeit hast,
+dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 17 Uhr.
+<br>Wir freuen uns auf dich!
+</div>
+
+<div x-show="activeSlide === 9">
     <h3>AG Mietverwaltung (wohnheimsintern)</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
