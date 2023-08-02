@@ -12,7 +12,7 @@ AGs und Initiativen können berichten, sich austauschen und sich absprechen.
 Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 
 
-{{< carousel nSlides="8" >}}
+{{< carousel nSlides="10" >}}
 
 <div x-show="activeSlide === 1">
     <h3>AG Planung Neubau</h3>
@@ -194,7 +194,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 <div x-show="activeSlide === 8">
     <h3>Garten-Initiative</h3>
     <div class="grid-col">
-        {{< img src="ag_gemeinschaft" />}}
+        {{< img src="garten_initiative" />}}
         <div class="">
             <p>Liebe Gartenfreunde,
             <br>die Garteninitiative widmet sich der Gestaltung und Instandhaltung des Außenraums unseres Wohnheims.
@@ -221,6 +221,43 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
 </div>
 
 <div x-show="activeSlide === 9">
+    <h3>Werkstatt-Initiative</h3>
+    <div class="grid-col">
+        {{< img src="ag_eigenleistung" />}}
+        <div class="">
+            <p>
+            Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte
+            Ausgleich zum Arbeitsalltag am Laptop!
+            Das Beste dabei ist: Es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
+            Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir.
+            Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt.
+            Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert
+            und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt.
+            In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungswochenenden, bei denen
+            unterschiedlichste Bau- und Reparaturarbeiten anstehen.
+            </p>
+        </div>
+    </div>
+<br>
+Das Coolste ist: Man lernt immer etwas Neues!
+Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun.
+Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß.
+Und die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs
+angeboten werden, tragen zwar nicht unbedingt zur Produktivität, wohl aber zur Motivation bei.
+<br>
+<br>
+Momentan fiebern wir auf die Fertigstellung unserer neuen Werkstatt hin, die demnächst im Neubau eröffnet wird.
+Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der
+Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen.
+So wollen wir nachhaltiges Werkeln mit Holz für noch mehr Menschen zugänglich machen.
+Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „gemeinsam leben und lernen“.
+So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.
+<br>
+<br>
+Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sich über jede helfende Hand!
+</div>
+
+<div x-show="activeSlide === 10">
     <h3>AG Mietverwaltung (wohnheimsintern)</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
