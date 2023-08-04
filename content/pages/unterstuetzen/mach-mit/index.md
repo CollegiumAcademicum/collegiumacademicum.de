@@ -223,27 +223,28 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
 <div x-show="activeSlide === 9">
     <h3>Werkstatt-Initiative</h3>
     <div class="grid-col">
-        {{< img src="ag_eigenleistung" />}}
+        {{< img src="werkstatt_initiative" attr="Sabine Arndt"/>}}
         <div class="">
             <p>
-            Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte
-            Ausgleich zum Arbeitsalltag am Laptop!
-            Das Beste dabei ist: Es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
+            Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen –
+            und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop!
+            Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
             Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir.
+
             Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt.
             Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert
             und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt.
-            In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungswochenenden, bei denen
-            unterschiedlichste Bau- und Reparaturarbeiten anstehen.
+            In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungs-Wochenenden,
+            bei denen unterschiedlichste Bau- und Reparaturarbeiten anstehen.
             </p>
         </div>
     </div>
 <br>
-Das Coolste ist: Man lernt immer etwas Neues!
-Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun.
+Das Coolste ist: Man lernt immer etwas Neues! Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen,
+gibt es immer wieder was anderes zu tun.
 Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß.
-Und die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs
-angeboten werden, tragen zwar nicht unbedingt zur Produktivität, wohl aber zur Motivation bei.
+Auch die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs angeboten werden,
+tragen zwar nicht unbedingt zur Produktivität wohl aber zur Motivation bei.
 <br>
 <br>
 Momentan fiebern wir auf die Fertigstellung unserer neuen Werkstatt hin, die demnächst im Neubau eröffnet wird.
@@ -253,6 +254,14 @@ So wollen wir nachhaltiges Werkeln mit Holz für noch mehr Menschen zugänglich 
 Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „gemeinsam leben und lernen“.
 So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.
 <br>
+Unsere Aufgaben sind:<br>
+
+<ul>
+  <li>Konzeptionierung der offenen Werkstatt</li>
+  <li>Betreuung des Inventars & Werkzeugausleihe</li>
+  <li>Koordinierung von Eigenleistungseinsätzen im Neubau</li>
+  <li>Workshops zur Vermittlung handwerklicher Fertigkeiten ("Skillshares")</li>
+</ul>
 <br>
 Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sich über jede helfende Hand!
 </div>
