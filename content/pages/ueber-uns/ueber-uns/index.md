@@ -25,6 +25,8 @@ einem fächerübergreifenden, reflektierten und erfahrungsbasierten
 Bildungsprogramm einen Teil dazu beitragen und Verantwortung
 übernehmen.
 
+Die wichtigsten Informationen über unser Projekt haben wir in unserem <a href="/media/2023_Flyer_allgemein_digital.pdf">Flyer</a> zusammengefasst.
+
 Viele Menschen haben sich in der Vergangenheit für das CA eingesetzt und stehen
 weiter dem Projekt nahe. Hier einige ehemalige Aktive:
 

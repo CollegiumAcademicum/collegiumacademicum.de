@@ -4,10 +4,15 @@ title: "Mach Mit"
 
 ### Projekttreffen
 
-Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) des Projekts statt, die sich meist wöchentlich treffen. Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)) das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula oder im Pförtnerhäuschen. Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen. AGs können sich austauschen und Absprachen treffen und miteinander socialisen. Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
+Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) und Initiativen des Projekts statt, die sich meist wöchentlich treffen.
+Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([Marie-Clauss-Straße 3](https://www.openstreetmap.org/#map=17/49.37609/8.68707))
+das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula.
+Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen.
+AGs und Initiativen können berichten, sich austauschen und sich absprechen.
+Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 
 
-{{< carousel nSlides="8" >}}
+{{< carousel nSlides="10" >}}
 
 <div x-show="activeSlide === 1">
     <h3>AG Planung Neubau</h3>
@@ -55,7 +60,7 @@ Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wi
 
 </div>
 
-
+<!--
 <div x-show="activeSlide === 3">
     <h3>AG Eigenleistung</h3>
     <div class="grid-col">
@@ -75,8 +80,10 @@ Damit wir diesen Sommer einziehen können, erledigen wir bei den <a href="/aktio
 Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei! Wir sehen uns in der Werkstatt 😊
 
 </div>
+-->
 
-<div x-show="activeSlide === 4">
+
+<div x-show="activeSlide === 3">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -98,7 +105,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
   
 </div>
 
-<div x-show="activeSlide === 5">
+<div x-show="activeSlide === 4">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
@@ -122,7 +129,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
   
 </div>
 
-<div x-show="activeSlide === 6">
+<div x-show="activeSlide === 5">
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -143,7 +150,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 
 </div>
 
-<div x-show="activeSlide === 7">
+<div x-show="activeSlide === 6">
     <h3>AG Bildung</h3>
     <div class="grid-col">
         {{< img src="ag_bildung" />}}
@@ -163,24 +170,112 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 </div>
 
 
-<div x-show="activeSlide === 8">
-    <h3>AG Gemeinschaft</h3>
+<div x-show="activeSlide === 7">
+    <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
         <div class="">
-            <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß zu haben. Für neue Ideen freuen wir uns auf deinen Input!
+            <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß haben. Für neue Ideen freuen wir uns auf deinen Input!
             </p>
         </div>
     </div>
  Was tun wir, um das Gruppenleben zu gestalten?<br>
 
 <ul>
-  <li>Auflockerungs- und Aufwärmspiele bei längeren Plenumstreffen</li>
-  <li>Gemeinsames Kochen beim Plenum (sofern es die Coronabedingungen erlauben)</li>
-  <li>Überwachung von Gruppenprozessen, Schaffung neuer Bindungen z. B. bei Einziehenden</li>
-  <li>Entwicklung eines Awareness-Konzepts</li>
+  <li>Planen und Durchführen von gemeinsamen Aktivitäten (Kochen, Spiele- und Filmabende)</li>
+  <li>Organisieren von Teambuilding-Events</li>
+  <li>Vernetzung innerhalb des Wohnheims und der Projektgruppe stärken</li>
+  <li>Rahmenprogramm für Arbeitseinsätze gestalten</li>
+  <li>Gesprächsrunden</li>
 </ul>
   
+</div>
+
+<div x-show="activeSlide === 8">
+    <h3>Garten-Initiative</h3>
+    <div class="grid-col">
+        {{< img src="garten_initiative" />}}
+        <div class="">
+            <p>Liebe Gartenfreunde,
+            <br>die Garteninitiative widmet sich der Gestaltung und Instandhaltung des Außenraums unseres Wohnheims.
+            Wir wollen unser Zuhause mit mehr Grün und mehr Leben füllen.
+            Menschen, die auf der Wiese im Innenhof picknicken, andere die ihr AG-Treffen in den Sitzkreisen abhalten
+            oder wieder andere, die einfach nur in einer Hängematte neben dem Teich liegen, ein Buch lesen und entspannen.
+            Durch das Konzept der Selbstverwaltung kann das frei nach unseren Wünschen und Ideen geschehen.
+            </p>
+        </div>
+    </div>
+ Es sind bereits viele spannende Projekte in Arbeit und geplant, wie:<br>
+
+<ul>
+  <li>Das Anlegen von Beeten </li>
+  <li>Gestalten und Instandhaltung des Teichs</li>
+  <li>Bau einer Kräuterspirale </li>
+  <li>Gestaltung des Dachgartens</li>
+  <li>Schaffen von Sitzgelegenheiten/Sitzkreisen</li>
+</ul>
+<br>
+Falls du Interesse hast mitzumachen und bereits neue Ideen oder einfach nur Spaß an Gartenarbeit hast,
+dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 17 Uhr.
+<br>Wir freuen uns auf dich!
+</div>
+
+<div x-show="activeSlide === 9">
+    <h3>Werkstatt-Initiative</h3>
+    <div class="grid-col">
+        {{< img src="ag_eigenleistung" />}}
+        <div class="">
+            <p>
+            Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte
+            Ausgleich zum Arbeitsalltag am Laptop!
+            Das Beste dabei ist: Es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
+            Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir.
+            Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt.
+            Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert
+            und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt.
+            In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungswochenenden, bei denen
+            unterschiedlichste Bau- und Reparaturarbeiten anstehen.
+            </p>
+        </div>
+    </div>
+<br>
+Das Coolste ist: Man lernt immer etwas Neues!
+Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun.
+Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß.
+Und die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs
+angeboten werden, tragen zwar nicht unbedingt zur Produktivität, wohl aber zur Motivation bei.
+<br>
+<br>
+Momentan fiebern wir auf die Fertigstellung unserer neuen Werkstatt hin, die demnächst im Neubau eröffnet wird.
+Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der
+Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen.
+So wollen wir nachhaltiges Werkeln mit Holz für noch mehr Menschen zugänglich machen.
+Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „gemeinsam leben und lernen“.
+So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.
+<br>
+<br>
+Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sich über jede helfende Hand!
+</div>
+
+<div x-show="activeSlide === 10">
+    <h3>AG Mietverwaltung (wohnheimsintern)</h3>
+    <div class="grid-col">
+        {{< img src="ag_finanzierung" />}}
+        <div class="">
+            <p>Die AG Mietverwaltung kümmert sich um Belange,
+            die mit dem Mietverhältnis zusammenhängen und ist dafür Ansprechpartnerin für Fragen und Probleme. </p>
+        </div>
+    </div>
+Zu unseren Aufgaben gehören:<br>
+
+<ul>
+  <li>Die Verwaltung der Mieteinnahmen und der Kautionskonten.</li>
+  <li>Das Aufsetzen von Mietverträgen und die Zimmerübergaben bei Ein- und Auszug.</li>
+  <li>Die Abrechnung von Strom, Internet und Waschkosten.</li>
+  <li>Das Verwalten von Untermieten.</li>
+  <li>Das Finden von (individuellen) Lösungen bei Problemen, die das Mietverhältnis betreffen.</li>
+</ul>
+
 </div>
 
 {{< /carousel >}}

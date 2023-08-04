@@ -1,5 +1,11 @@
+- file: "2023_Spendenflyer_digital.pdf"
+  year: "2023"
+  name: "Spenden-Flyer"
+- file: "2023_Flyer_allgemein_digital.pdf"
+  year: "2023"
+  name: "Info-Flyer"
 - file: "2021_Flyer-DK.pdf"
-  year: 2021
+  year: "2021"
   name: "Direktkredit-Flyer"
 - file: "2020_Flyer.pdf"
   year: "2020"
