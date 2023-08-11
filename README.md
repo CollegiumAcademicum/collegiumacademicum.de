@@ -52,7 +52,6 @@ You can use the following custom shortcodes in the content markdown files to get
 | `{{< quotes source="" size="" >}}`      | Prints a grid of quotes. Source `team` or `supporters`. Data can be added/edited in `data/quotes_team.toml` and `data/quotes_supporters.toml` |
 | `{{< timeline >}}`                      | Prints the timeline. Data can be added/edited in `data/timeline.toml`                                                                         |
 | `{{< partners >}}`                      | Prints the list of partners. Data can be added/edited in `data/partners.toml`                                                                 |
-| `{{< hausprojekt-boxes >}}`             | Outputs the menu boxes for the house projekt pages                                                                                            |
 
 ## Various
 
