@@ -1,27 +1,26 @@
 .front-box
     position: relative
-    padding-top: 12em
+    padding-top: 3em
     margin-bottom: 3em
     overflow: hidden
+    flex: 1 1 0px
     > div
         position: relative
         top: 0em
         background: $white
         padding: 1em 1em 0 0
-        +desktop
-            margin-right: 9em
         h2
             font-size: 3rem
             font-weight: 400
-            margin: 0 0 0 -0.2em
-            text-indent: 0.2em
+            margin: 0 0 0 0em
+            text-indent: 0em
             a
                 text-decoration: none
                 color: $black
         p
-            text-align: justify
+            text-align: left
     img
-        position: absolute
+        position: relative
         transition: 4 * $speed
         top: 2em
         right: 0
@@ -29,6 +28,12 @@
     &:hover
         img
             top: 1.3em
+
+.flex-container
+    display: flex
+    align-content: center
+    justify-content: center
+
 
 // Modal
 .modal
