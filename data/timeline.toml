@@ -2,6 +2,19 @@
 heading = "HEUTE"
 center = true
 
+[[timeline]]
+heading = "Juli bis September 2023"
+content = "<a href='https://collegiumacademicum.de/aktionen/'>HammerCAmps</a>: Werkeln im Altbau mit vielfältigem Rahmenprogramm"
+
+
+[[timeline]]
+heading = "Juli 2023"
+content = "<img src='eroeffnungsfeier.jpg' />Offizielle Eröffnungsfeier und Markt der Möglichkeiten"
+
+[[timeline]]
+heading = "März 2023"
+content = "<img src='erste_mv.jpg' />Erste Mitgliederversammlung des Wohnheimsvereins"
+
 
 [[timeline]]
 heading = "Februar 2023"
