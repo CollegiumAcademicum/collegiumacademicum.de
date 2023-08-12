@@ -34,8 +34,23 @@ other = "Je suis intéressé.e"
 [interesse-anmelden-message]
 other = "Tu souhaites emménager dans le nouveau CA en 2023?"
 
+[direktkredite-message-voigl]
+other = "Vous partagez notre vision d'une communauté de maison autogérée et vous souhaitez contribuer à sa réalisation ?"
+
+[direktkredite-message-voigl-button]
+other = "Soutenez-nous avec un prêt direct."
+
+[einziehen-message-aside]
+other = "Tu veux emménager dans un de nos bâtiments ? Ici, tu trouveras des informations actuelles sur les chambres et les appartements libres :"
+
 [einziehen-message]
 other = "Tu emménages dans le CA et tu cherches des informations? Alors regarde ici:"
+
+[einziehen-message-voigl]
+other = "Vous souhaitez emménager dans le dortoir du nouveau bâtiment ou dans l'un de nos appartements sociaux subventionnés dans l'ancien bâtiment ?"
+
+[einziehen-message-voigl-button]
+other = "Découvrez comment postuler !"
 
 [nichts-frei-message]
 other = "Malheureusement, nous n'avons plus de places disponibles pour le moment. Vous serez informés ici lorsque les candidatures seront à nouveau possibles. Laissez votre adresse e-mail et nous vous informerons directement dès que des chambres seront à nouveau disponibles."
@@ -84,7 +99,7 @@ other = "Année d’orientation"
 other = "falt*r"
 
 [oj-message]
-other = "La première édition de notre année d'orientation falt*r débutera à l'automne 2023. Sur notre site web, nous donnons des informations sur la vision, le programme et la participation."
+other = "La première édition de notre année d'orientation falt*r débutera en hiver 2023/2024. Sur notre site web, nous donnons des informations sur la vision, le programme et la participation."
 
 [anfahrt]
 other = "Carte"

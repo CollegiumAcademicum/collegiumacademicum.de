@@ -39,10 +39,12 @@ other = "Support us with a direct loan."
 
 [einziehen-message-aside]
 # other = "We have vacant rooms in our dormitory from January 1, 2024. Here you can apply!"
-other = "We have vacant rooms in our dormitory from January 1, 2024. Applications will be open from the beginning of October. Here you can find more information:"
+# other = "We have vacant rooms in our dormitory from January 1, 2024. Applications will be open from the beginning of October. Here you can find more information:"
+other = "You want to move into one of our buildings? Here you can find the latest information on available rooms and flats:"
 
 [einziehen-message-voigl]
-other = "You are interested in moving into our dormitory by January 2024 and in actively participating in our self-managed housing project?"
+# other = "You are interested in moving into our dormitory by January 2024 and in actively participating in our self-managed housing project?"
+other = "You are interested in moving into the dormitory in the new building or into one of our subsidised social rented flats in the old building?"
 
 [einziehen-message-voigl-button]
 # other = "Apply now for a room in our dormitory!"
@@ -86,7 +88,7 @@ other = "The orientation year"
 other = "falt*r"
 
 [oj-message]
-other = "In autumn 2023, the first class of our orientation year falt*r will start. On our website we provide information about the vision, the programme and participation."
+other = "In winter 2023/2024, the first class of our orientation year falt*r will start. On our website we provide information about the vision, the programme and participation."
 
 [richtfest]
 other = "Topping-out ceremony"
