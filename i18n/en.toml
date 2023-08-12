@@ -155,3 +155,24 @@ other = "We kindly request to wear a FFP2 mask and to participate only after a n
 
 [register-per-mail]
 other = "Register by email to "
+
+[mehr]
+other = "More"
+
+[header-wohnheim]
+other = "Dorm for young people"
+
+[pitch-wohnheim]
+other = "Innovative wooden building: Affordable housing for 176 young people and room for creative ideas and vivid exchange."
+
+[header-sowobau]
+other = "Social rental housing"
+
+[pitch-sowobau]
+other = "Housing is a basic right: We provide social rental housing in our old building."
+
+[header-oj]
+other = "falt*r - The orientation year"
+
+[pitch-oj]
+other = "Socio-ecological transformation, democracy, community, study and training orientation: these are the core themes of the 10-month orientation year in the old building, which will soon start with the first cohort."
