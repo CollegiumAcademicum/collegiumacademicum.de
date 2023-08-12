@@ -1,10 +1,10 @@
 <div class="flex-container">
 <div class="front-box">
-    <a href="/wohnheim" ><img src="neubau.png"></a>
+    <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" ><img src="neubau.png"></a>
     <div>
-        <div><h2><a href="/wohnheim" >Wohnheim für junge Menschen</a></h2></div>
+        <div><h2><a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" >{{ i18n "header-wohnheim" }}</a></h2></div>
         <p>
-            Innovativer Holzbau: Bezahlbarer Wohnraum für 176 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/wohnheim" >Mehr...</a>
+            {{ i18n "pitch-wohnheim" }} <a class="mehr" href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
         </p>
     </div>
 </div>
@@ -12,9 +12,9 @@
 <div class="front-box">
     <a href="/mietwohnraum" ><img src="altbau.png"></a>
     <div>
-        <div><h2><a href="/mietwohnraum" >Sozialer Mietwohnraum</a></h2></div>
+        <div><h2><a href="{{ with .Site.GetPage "/mietwohnraum" }}{{ .Permalink }}{{end}}" >{{ i18n "header-sowobau" }}</a></h2></div>
         <p>
-            Wohnen ist Grundrecht: Wir schaffen im Altbau sozialen Mietwohnraum. <a class="mehr" href="/mietwohnraum" >Mehr...</a>
+             {{ i18n "pitch-sowobau" }} <a class="mehr" href="{{ with .Site.GetPage "/mietwohnraum" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
             <br>
         </p>
     </div>
@@ -23,10 +23,9 @@
 <div class="front-box">
     <a href="/orientierungsjahr" ><img src="faltr.png"></a>
     <div>
-        <div><h2><a href="/orientierungsjahr" >falt*r - Das Orientierungsjahr</a></h2></div>
+        <div><h2><a href="{{ with .Site.GetPage "/orientierungsjahr" }}{{ .Permalink }}{{end}}" >{{ i18n "header-oj" }}</a></h2></div>
         <p>
-            Sozialökologische Transformation, Demokratie, Gemeinschaft, Studien- und Ausbildungsorientierung:
-            Das sind die Kernthemen des 10-monatigen Orientierungsjahres im Altbau, das bald mit dem ersten Jahrgang startet. <a class="mehr" href="/orientierungsjahr" >Mehr...</a>
+             {{ i18n "pitch-oj" }} <a class="mehr" href="{{ with .Site.GetPage "/orientierungsjahr" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
         </p>
     </div>
 </div>

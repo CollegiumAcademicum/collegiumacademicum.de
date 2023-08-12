@@ -151,3 +151,24 @@ other = "Wir bitten darum, eine FFP2-Maske zu tragen und nur nach einem negative
 
 [register-per-mail]
 other = "Anmelden per Mail an "
+
+[mehr]
+other = "Mehr"
+
+[header-wohnheim]
+other = "Wohnheim für junge Menschen"
+
+[pitch-wohnheim]
+other = "Innovativer Holzbau: Bezahlbarer Wohnraum für 176 junge Menschen und Räume für kreative Ideen und lebhaften Austausch."
+
+[header-sowobau]
+other = "Sozialer Mietwohnraum"
+
+[pitch-sowobau]
+other = "Wohnen ist Grundrecht: Wir schaffen im Altbau sozialen Mietwohnraum."
+
+[header-oj]
+other = "falt*r - Das Orientierungsjahr"
+
+[pitch-oj]
+other = "Sozialökologische Transformation, Demokratie, Gemeinschaft, Studien- und Ausbildungsorientierung: Das sind die Kernthemen des 10-monatigen Orientierungsjahres im Altbau, das bald mit dem ersten Jahrgang startet."
