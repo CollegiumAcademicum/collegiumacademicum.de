@@ -3,7 +3,7 @@ title: "Datenschutz"
 ---
 
 <pre>
-Förderverein Collegium Academicum Heidelberg e.V.
+Collegium Academicum GmbH
 Mendelejewplatz 1
 69126 Heidelberg
 
