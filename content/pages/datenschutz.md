@@ -7,7 +7,7 @@ Collegium Academicum GmbH
 Mendelejewplatz 1
 69126 Heidelberg
 
-Tel.: <a href:"tel:+4906221652236">+49 (0)6221-652236</a>
+Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
 E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>
 </pre>
 
