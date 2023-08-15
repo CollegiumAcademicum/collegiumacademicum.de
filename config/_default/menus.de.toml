@@ -103,7 +103,7 @@
     weight = 1
     parent = "Wohnen"
 [[main]]
-    name = "Mietwohnraum"
+    name = "Sozialer Mietwohnraum"
     url = "/mietwohnraum"
     weight = 2
     parent = "Wohnen"
