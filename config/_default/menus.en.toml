@@ -92,7 +92,7 @@
     weight = 1
     parent = "Living"
 [[main]]
-    name = "rental housing"
+    name = "Social rental housing"
     url = "/rental-housing"
     weight = 2
     parent = "Living"
