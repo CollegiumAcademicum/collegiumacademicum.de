@@ -50,6 +50,11 @@ sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Fin
 
 {{< img src="finanzierung_pie_chart" alt="Die Bausteine der Finanzierung unseres Neubaus" style="margin: 12%" attr="Projektgruppe"/>}}
 
+### Altbau
+
+{{< img src="finanzierung_altbau_pie_chart" alt="Die Bausteine der Finanzierung unseres Altbaus" style="margin: 12%" attr="Projektgruppe"/>}}
+
+
 ### Förderung des Neubaus
 
 <p style="text-align: justify">
@@ -63,6 +68,15 @@ genehmigt, welches sich aus dem <a href="https://ec.europa.eu/regional_policy/de
 und Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
 von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
 Passivhausbauweise des Wohnheims (190.500 Euro).
+</p>
+
+### Förderung des Altbaus
+
+<p style="text-align: justify">
+FÜr die Wohnungen mit Sozialbindung im Altbau werden wir vom Land mit etwa 1,1 Mio Euro im Rahmen des Förderprogramms
+Wohnungsbau BW 2022 gefördert. Zudem erhalten wir einen KfW-Zuschuss in Höhe von etwa 0.93 Mio. Euro aus der
+Bundesförderung für effiziente Gebäude für die Erfüllung der Effizienzstufe KfW55. Wir auch beim Neubau unterstützt die
+Stadt auch beim Altbau die barrierearme Planung (ca. 22.000 Euro).
 </p>
 
 ### Direktkredite und Spenden
@@ -177,31 +191,132 @@ mit dem neue Hausprojekte bei ihrem Start unterstützt werden.
 
 ## Die Zahlen auf einen Blick
 
-### Neubau
+<div class="columns">
+<div class="column" style="text-align: center">
 
-Fördermittel | ≈ 2,9 Mio. € |
+<h3 style="color:#b61c20"> Neubau </h3>
+
+<div class="colored-table-red">
+
+Fördermittel | ≈2,90 Mio. € |
 --- | ---:
-Förderprogramm "Variowohnen" | 2,193 Mio. €
-Förderprogramm "Holz Innovativ" | 0,50 Mio. €
-Förderprogramm "Rationelle Energieverwendung" | ≈ 0,19 Mio. €
-Förderprogramm "Barrierefreie Lebenslaufwohnungen" | 0,05 Mio. €
+Förderprogramm <br>"Variowohnen" | 2,193 Mio. € |
+Förderprogramm <br>"Holz Innovativ" | 0,50 Mio. € |
+Förderprogramm <br>"Rationelle Energieverwendung" | ≈ 0,19 Mio. € |
+Förderprogramm <br>"Barrierefreie Lebenslaufwohnungen" | 0,05 Mio. € |
+
+</div>
+
+</div>
+<div class="column" style="text-align: center">
+
+<h3 style="color:#32aca3"> Altbau </h3>
+<!--<h3 style="background-color:rgba(182,28,32,0.5);"> Neubau </h3>-->
+
+<div class="colored-table-blue">
+
+Fördermittel | ≈2,05 Mio. € |
+--- | ---:
+KfW-Zuschuss | ≈ 0,93 Mio. € |
+Sozialer Wohnungsbau | ≈ 1,1 Mio. € |
+Förderprogramm <br>"Barrierefreie Lebenslaufwohnungen" | ≈ 0,02 Mio. €|
+
+</div>
+</div>
+</div>
+
+<div class="columns">
+<div class="column" style="text-align: center">
+
+<div class="colored-table-red">
 
 Private Unterstützung | ≈ 3,2 Mio. € |
 --- | ---:
 Direktkredite (nachrangige Darlehen) | ≈ 3,1 Mio. €
 Darlehen Förderverein | ≈ 0,1 Mio. €
 
+</div>
+</div>
+<div class="column" style="text-align: center">
+
+<div class="colored-table-blue">
+
+Private Unterstützung |  |
+--- | ---:
+Direktkredite (nachrangige Darlehen) | ≈ 1,3 Mio. € |
+
+</div>
+</div>
+</div>
+
+<div class="columns">
+<div class="column" style="text-align: center">
+
+<div class="colored-table-red">
+
 Bankfinanzierung | ≈ 14,6 Mio. € |
 --- | ---:
-KfW (Zinsvergünstigtes Darlehen KfW 40+) und Kredit der Umweltbank | ≈ 13,4 Mio. €
+KfW<br>(Zinsvergünstigtes Darlehen KfW 40+)<br>und Kredit der Umweltbank | ≈ 13,4 Mio. €
 Hausbankkredite | ≈ 1,2 Mio. € |
+
+</div>
+</div>
+<div class="column" style="text-align: center">
+
+<div class="colored-table-blue">
+
+Bankfinanzierung |  |
+--- | ---:
+Umweltbank | 4,909 Mio. € |
+
+</div>
+</div>
+</div>
+
+<div class="columns">
+<div class="column" style="text-align: center">
+
+<div class="colored-table-red">
 
 Sonstiges |  ≈ 0,5 Mio. € |
 --- | ---:
-Eigenleistungen | ≈ 0,4 Mio. €
-Sponsoring | ≈ 0,1 Mio. €
+Eigenleistungen | ≈ 0,4 Mio. € |
+Sponsoring | ≈ 0,1 Mio. € |
+</div>
+</div>
+
+<div class="column" style="text-align: center">
+
+<div class="colored-table-blue">
+
+Sonstiges |  |
+--- | ---:
+Eigenleistungen | ≈ 0,37 Mio. € |
+
+</div>
+</div>
+</div>
+
+<div class="columns">
+<div class="column" style="text-align: center">
+<hr style="border:1px solid"> </hr>
+<div class="colored-table-red">
+
+Gesamtinvestitionssumme | ≈ 21,2 Mio. € |
+--- | ---:
+
+</div>
+</div>
+
+<div class="column" style="text-align: center">
 
 <hr style="border:1px solid"> </hr>
 
-Gesamtinvestitionssumme | ≈ 21,2 Mio. €
+<div class="colored-table-blue">
+
+Gesamtinvestitionssumme | ≈ 8,13 Mio. € |
 --- | ---:
+
+</div>
+</div>
+</div>
