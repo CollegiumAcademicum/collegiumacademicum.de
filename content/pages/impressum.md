@@ -2,8 +2,8 @@
 title: "Impressum"
 ---
 
-Collegium Academicum GmbH
-Mendelejewplatz 1
+Collegium Academicum GmbH \
+Mendelejewplatz 1 \
 69126 Heidelberg
 
 ### Kontakt
