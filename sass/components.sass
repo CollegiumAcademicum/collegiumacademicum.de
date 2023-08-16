@@ -3,7 +3,10 @@
     padding-top: 3em
     margin-bottom: 3em
     overflow: hidden
-    flex: 1 1 0px
+    +desktop
+        flex: 1 1 0px
+    +tablet
+        flex: 1 1 0px
     > div
         position: relative
         top: 0em
@@ -33,7 +36,8 @@
     display: flex
     align-content: center
     justify-content: center
-
+    +mobile
+        flex-direction: column
 
 // Modal
 .modal
