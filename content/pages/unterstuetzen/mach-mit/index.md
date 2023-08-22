@@ -4,13 +4,14 @@ title: "Mach Mit"
 
 ### Projekttreffen
 
+<p style="text-align: justify">
 Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) und Initiativen des Projekts statt, die sich meist wöchentlich treffen.
-Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände ([Marie-Clauss-Straße 3](https://www.openstreetmap.org/#map=17/49.37609/8.68707))
+Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>
 das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula.
 Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen.
 AGs und Initiativen können berichten, sich austauschen und sich absprechen.
 Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
-
+</p>
 
 {{< carousel nSlides="10" >}}
 
@@ -18,13 +19,14 @@ Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest od
     <h3>AG Planung Neubau</h3>
     <div class="grid-col">
         {{< img src="ag_neubau" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Zwischen Schreibtisch und Baustelle passiert bei uns alles. Wir haben den Planungsprozess der Architektur zusammen mit der Fachplanung begleitet und im Sinne der offenen Partizipation die Vorstellungen der Projektgruppe vertreten. Genauso nehmen wir als Vertreter*innen der Bauherrschaft an den Bausitzungen teil, treffen Absprachen mit den Baufirmen und sehen unseren schönen Neubau wachsen.</p>
         </div>
     </div>
 
+<p style="text-align: justify">
 Die AG Planung kümmert sich um alles, was die Ausführung und die Baustelle betrifft – egal ob es um die Ausschreibungen der Bauleistungen geht oder die Leitungswege für Strom und Wasser der Stadtwerke, die Absprachen mit der Städtischen Wohnungsbaugesellschaft GGH, welche die umliegende Fläche entwickelt oder die Kommunikation mit den Firmen, die auf der Fläche US Hospital arbeiten. Wir stehen dabei in enger Abstimmung mit unserem Bauleiter und weiteren Berater*innen.
-
+<p>
 
 Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
     
@@ -42,7 +44,7 @@ Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
     <h3>AG Altbau</h3>
     <div class="grid-col">
         {{< img src="ag_altbau.jpg" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Wir koordinieren die Sanierung! Neben dem schmucken Holzbau gehören zwei tolle <a href="/altbauten">Altbauten</a> zum CA, die als Wohn- und Gemeinschaftsraum dienen werden und bei denen für die neue Nutzung Sanierungsbedarf besteht. Im Gegensatz zum Neubau ist hier noch lange nicht alles in trockenen Tüchern, wir sind mitten in der spannenden Planungsphase und du kannst noch voll mit einsteigen und gestalten!</p>
         </div>
     </div>
@@ -55,9 +57,10 @@ Unsere Aufgaben sind:
   <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung. Dazu finden wöchentlich Arbeitseinsätze statt und wir organisieren einige große Altbau-Workcamps.</li>
   <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
 </ul>
-<br/>
+<br>
+<p style="text-align: justify">
 Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
-
+</p>
 </div>
 
 <!--
@@ -87,7 +90,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Egal ob du gerne kreativ Flyer, Sticker, Poster und vieles mehr designst, Texte schreibst, den Kontakt mit Pressevertreter*innen managst oder gerne mal ein großes Event organisieren wolltest – in unserer Öffentlichkeits-AG kannst du dich einbringen. Hier gibt es vielfältige Aufgaben, aber auch einiges zu koordinieren und organisieren:</p>
         </div>
     </div>
@@ -109,15 +112,19 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Ohne Moos nix los - Willkommen in der Finanz-AG des CA! Da sich unser Projekt nicht ohne größere Summen an Geld realisieren lässt, ist die Finanzierungsarbeit das Rückgrat unseres Projektes. Deshalb werben wir auf verschiedenste Weisen Geld ein und organisieren dieses so, dass unser Projekt sich wirtschaftlich trägt.</p>
         </div>
     </div>
 
+<p style="text-align: justify">
 Die AG Finanzierung kümmert sich um die Erstellung von Finanzplänen und Kostenberechnungen. Sie hält den Kontakt zur Bank, kümmert sich um Sponsoringpartnerschaften und Konzepte zur Direktkredit- und Spendenwerbung. Sie ist jedoch nicht allein für die Direktkreditwerbung zuständig, diese Aufgabe bewerkstelligt die ganze Projektgruppe gemeinsam.
-
-Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen zuständig, also das strukturierte Ablegen und Einscannen von Rechnungen, die Abstimmung mit unserem Steuerberater und die Vorbereitung für Jahresabschlüsse, die wir machen müssen. Es gibt also viele Dinge zu lernen, die für die Umsetzung von sozial-ökologischen Projekten in unserer heutigen Gesellschaft essenziell sind. So könnte deine Mitarbeit bei uns aussehen:
-
+<br>
+<br>
+Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen zuständig, also das strukturierte Ablegen und Einscannen von Rechnungen, die Abstimmung mit unserem Steuerberater und die Vorbereitung für Jahresabschlüsse, die wir machen müssen. Es gibt also viele Dinge zu lernen, die für die Umsetzung von sozial-ökologischen Projekten in unserer heutigen Gesellschaft essenziell sind.
+<br>
+<br>So könnte deine Mitarbeit bei uns aussehen:
+</p>
 <ul>
   <li>Konzepte zur Einwerbung von Direktkrediten und Spenden entwickeln</li>
   <li>Kreditanträge schreiben</li>
@@ -133,14 +140,16 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Das IT-Team des CA sucht Menschen, die sich fürs Internet begeistern und Lust haben ihre Begeisterung mit anderen zu teilen. Unser Wohnprojekt bietet im Rahmen seiner Internetpräsenz die Möglichkeit, gute Kenntnisse in den Markup Sprachen HTML und Markdown zu erwerben. Außerdem erfordert unsere Zusammenarbeit Grundkenntnisse im Umgang mit git und der im Webbereich üblichen Software wie FTP Programmen, Texteditoren usw.</p>
         </div>
     </div>
 
+<p style="text-align: justify">
 Außerdem betreiben wir einen Linux Server, um unsere Zusammenarbeit zu koordinieren. Auf diesem läuft eine Nextcloud und das Open-Source Chatsystem Mattermost. Der Umgang mit dem Server ermöglicht es, Erfahrungen im administrativen Bereich zu sammeln, z. B. das Konfigurieren von SSH Zugängen, das Kennenlernen von Ubuntu Server, den Umgang mit dem Webserver nginx und vielem mehr. Auch praktische Aufgaben wie das Verlegen von Netzwerkkabeln und Verdrahten von Netzwerkdosen fallen an.
-
+<br><br>
 Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in die Open-Source Welt einzusteigen. Wir freuen uns, wenn du uns bei unseren Aufgaben unterstützt:
+</p>
 
 <ul>
   <li>Websitenverwaltung und -umstrukturierung</li>
@@ -154,7 +163,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
     <h3>AG Bildung</h3>
     <div class="grid-col">
         {{< img src="ag_bildung" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Du möchtest das <a href="/bildung">Bildungsprogramm</a> im zukünftigen CA mitzugestalten? Als gerade neu entstehende AG suchen wir interessierte Menschen, die Lust darauf haben, kreativ zu denken und entstandene Ideen weiter auszuarbeiten.</p>
         </div>
     </div>
@@ -174,7 +183,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
     <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Bei so viel Arbeit wollen wir den Gruppenzusammenhalt nicht zu kurz kommen lassen! Wir wollen uns um kleine und große gemeinschaftsstiftende Elemente und Veranstaltungen bemühen. Dabei treffen wir uns, um gemeinsam kreativ zu sein und Ideen zu verwirklichen. Wir halten die Motivation der Projektgruppe hoch und wollen gemeinsam Spaß haben. Für neue Ideen freuen wir uns auf deinen Input!
             </p>
         </div>
@@ -195,7 +204,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
     <h3>Garten-Initiative</h3>
     <div class="grid-col">
         {{< img src="garten_initiative" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Liebe Gartenfreunde,
             <br>die Garteninitiative widmet sich der Gestaltung und Instandhaltung des Außenraums unseres Wohnheims.
             Wir wollen unser Zuhause mit mehr Grün und mehr Leben füllen.
@@ -215,8 +224,10 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   <li>Schaffen von Sitzgelegenheiten/Sitzkreisen</li>
 </ul>
 <br>
+<p style="text-align: justify">
 Falls du Interesse hast mitzumachen und bereits neue Ideen oder einfach nur Spaß an Gartenarbeit hast,
 dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 17 Uhr.
+</p>
 <br>Wir freuen uns auf dich!
 </div>
 
@@ -224,8 +235,7 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
     <h3>Werkstatt-Initiative</h3>
     <div class="grid-col">
         {{< img src="werkstatt_initiative" attr="Sabine Arndt"/>}}
-        <div class="">
-            <p>
+        <div class="" style="text-align: justify">
             Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen –
             und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop!
             Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
@@ -236,10 +246,10 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
             und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt.
             In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungs-Wochenenden,
             bei denen unterschiedlichste Bau- und Reparaturarbeiten anstehen.
-            </p>
         </div>
     </div>
 <br>
+<p style="text-align: justify">
 Das Coolste ist: Man lernt immer etwas Neues! Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen,
 gibt es immer wieder was anderes zu tun.
 Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß.
@@ -253,7 +263,7 @@ Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetze
 So wollen wir nachhaltiges Werkeln mit Holz für noch mehr Menschen zugänglich machen.
 Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „gemeinsam leben und lernen“.
 So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.
-<br>
+</p>
 Unsere Aufgaben sind:<br>
 
 <ul>
@@ -270,7 +280,7 @@ Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sic
     <h3>AG Mietverwaltung (wohnheimsintern)</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
-        <div class="">
+        <div class="" style="text-align: justify">
             <p>Die AG Mietverwaltung kümmert sich um Belange,
             die mit dem Mietverhältnis zusammenhängen und ist dafür Ansprechpartnerin für Fragen und Probleme. </p>
         </div>
