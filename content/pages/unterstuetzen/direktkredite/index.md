@@ -4,7 +4,7 @@ novoigl: yes
 ---
 
 <div class="columns">
-  <div class="column">
+  <div class="column" style="text-align: justify">
   Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen entsteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
   </div>
   <div class="column">
@@ -21,38 +21,52 @@ novoigl: yes
     </a>
 </div>
 
+<p style="text-align: justify">
 Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
-
-Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, das durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umzubauen.
-Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
-
+<br>
+<br>
+Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, das durch seine
+Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite
+für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärische
+Nutzung in Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
+<br>
+<br>
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
+</p>
 
 ## Aktueller Stand
 
-Mit unglaublichen **4 Mio. Euro** haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
+<p style="text-align: justify">
+Mit unglaublichen <b>4 Mio. Euro</b> haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
 Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung.
+</p>
 
 ### Altbauten
 
+<p style="text-align: justify">
 Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
 wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
-Insgesamt werden wir derzeitigen Schätzungen zufolge **bis zu 1,9 Mio. Euro** Direktkredite benötigen, von denen wir 
+Insgesamt werden wir derzeitigen Schätzungen zufolge <b>bis zu 1,9 Mio. Euro</b> Direktkredite benötigen, von denen wir
 (Stand Februar 2023) schon etwa 1,2 Mio. Euro eingeworben haben.
+</p>
 
 <progress class="progress is-large is-primary" value="1200" max="1900"></progress>
 
 
 ### Neubau
 
-Es ist uns bereits gelungen, etwa **2,8 Mio. Euro** Direktkredite (Stand Februar 2023) zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!** 
+<p style="text-align: justify">
+Es ist uns bereits gelungen, etwa <b>2,8 Mio. Euro</b> Direktkredite (Stand Februar 2023) zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!**
 Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir **akut noch ca. 200.000
-Euro** für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
+Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir <b>akut noch ca. 200.000
+Euro</b> für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
+</p>
 
 <progress class="progress is-large is-primary" value="2800" max="3300"></progress>
 
+<p style="text-align: justify">
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
+<p>
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
 Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie wahlweise einen Vertrag mit unserer Collegium Academicum GmbH oder dem Wohnheim Collegium Academicum e.V. ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
@@ -64,7 +78,7 @@ Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden 
 {{< /accordion >}}
 
 {{< accordion "Wie sicher ist es, einen Direktkredit zu geben?" >}}
-Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. 
+Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren.
 Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden.
 Bei den Direktkrediten handelt es sich um nachrangige Darlehen. Das bedeutet, dass im Extremfall einer Insolvenz zuerst andere Gläubiger\*innen, etwa Banken, ihr Geld zurückbekommen. Im schlimmsten Fall könnte es also zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen.
 Nur durch diese Bedingungen sind einige Banken bereit, die Nachrangdarlehen als Eigenkapitalersatz zu werten und uns einen Kredit zu gewähren.
