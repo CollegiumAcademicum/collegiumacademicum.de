@@ -31,7 +31,7 @@ Dann wirst du hier fündig:
         </span>
         <span>Sozialer Mietwohnraum</span>
     </a>
-    <a href="{{< relref "/orientierungsjahr" >}}" class="button is-medium is-primary">
+    <a href="https://faltr.de/" target="_blank" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
