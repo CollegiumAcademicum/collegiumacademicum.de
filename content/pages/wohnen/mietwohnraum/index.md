@@ -51,7 +51,7 @@ Fortschritt Zimmerbelegung:
 Eine 6-Zimmer-Wohnung (für 6-8 Personen) und eine 2-Zimmer-Wohnung (für 2 Personen) im 2. und 3. OG (siehe Pläne) sind
 nicht an die Belegungsvorgaben der sozialen Mietraumförderung gebunden.
 
-Die große Wohnung ist fpr eine WG gedacht: Hier sollen Menschen zusammenleben, die Lust haben, die Verwaltung
+Die große Wohnung ist für eine WG gedacht: Hier sollen Menschen zusammenleben, die Lust haben, die Verwaltung
 unsere Altbaus aktiv mitzugestalten und die Schnittstelle zwischen Orientierungsjahr und den restlichen Wohnungen des
 Altbaus zu bilden.
 

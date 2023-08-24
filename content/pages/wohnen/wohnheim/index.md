@@ -6,11 +6,20 @@ slug: "wohnheim"
 
 {{< video "2019_Zimmermodell" >}}
 
-Nach einer langen Planungs- und Bauphase sind im Februar 2023 endlich die ersten 176 Bewohner*innen in unseren Neubau eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhaltigen und selbstverwalteten Zusammenlebens.
-
-In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen. Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli). Die Bewerbungsfrist für den Einzug im Oktober 2023 ist leider schon vorbei. Der nächstmögliche Einzugstermin ist der 1. Januar 2024. Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben.
-
-Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an einziehen@collegiumacademicum.de.
+<p style="text-align:justify">
+Nach einer langen Planungs- und Bauphase sind im Februar 2023 endlich die ersten 176 Bewohner*innen in unseren Neubau
+eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhaltigen und selbstverwalteten Zusammenlebens.
+<br><br>
+In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
+Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
+Die Bewerbungsfrist für den Einzug im Oktober 2023 ist leider schon vorbei.
+Der nächstmögliche Einzugstermin ist der 1. Januar 2024.
+Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+<br><br>
+Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
+Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
+<a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>.
+</p>
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -20,15 +29,20 @@ Die häufigsten Fragen zur Bewerbung sind in [unseren FAQ](/faq) beantwortet. We
         {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir lernen voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}
     </div>
-    <div class="column">
+    <div class="column" style="text-align:justify">
         Wenn du dich für Nachhaltigkeit, Bildung und Selbstverwaltung interessierst, könnte unsere Adresse deine Adresse werden. Vielleicht beginnst du ein Studium oder eine Ausbildung in Heidelberg und suchst eine Wohnung? Dich begeistert die Idee vom Leben in einer großen Gemeinschaft? Oder es steht eben einfach mal wieder ein Tapetenwechsel an?
     </div>
 </div>
 
-Ein Zimmer in unserem Neubau kostet insgesamt 345 € pro Monat (315,20 € Warmmiete plus ca. 30 € Kosten für Strom und Internet). Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die Mieten so gering wie möglich zu halten. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
+<p style="text-align:justify">
+Ein Zimmer in unserem Neubau kostet insgesamt 345 € pro Monat (315,20 € Warmmiete plus ca. 30 € Kosten für Strom und Internet).
+Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die
+Mieten so gering wie möglich zu halten.
+Einen Einblick in die Finanzierung des Projekts erhältst du <a href="/finanzierung">hier</a>.
+</p>
 
 <div class="columns" style="margin-top: 2em;">
-    <div class="column">
+    <div class="column" style="text-align:justify">
         Die Zimmer sind gut 14 m<sup>2</sup> groß und befinden sich in 3er- oder 4er-Wohngemeinschaften. Die Zimmer können auf 7 m<sup>2</sup> halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
     </div>
     <div class="column">
@@ -39,11 +53,21 @@ Ein Zimmer in unserem Neubau kostet insgesamt 345 € pro Monat (315,20 € Warm
     </div>
 </div>
 
-Die Wohnungen sind auf Barrierefreiheit ausgelegt. Detaillierte Informationen dazu haben wir auf [dieser Seite](/barrierefreiheit) zusammengefasst.
-
-Voraussetzung für das Wohnen in unserem Neubau ist, dass du studierst, eine Ausbildung machst oder promovierst. Wichtig ist uns aber vor allem, dass du Lust hast, dich aktiv an unserem Projekt und der Selbstverwaltung zu beteiligen. Wir wünschen uns, dass du offen für die Werte und Ziele bist, die wir in unserem [Leitbild](/leitbild) festgehalten haben, und dass du dem Grundgedanken des [Mietshäuser Syndikats](https://www.syndikat.org/) positiv gegenüberstehst.
-
-Da wir erfahrungsgemäß mehr Bewerbungen bekommen, als wir Plätze vergeben können, müssen wir den Bewerbungsprozess etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent, fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem Prozess bist, sag uns gerne Bescheid!
+<p style="text-align:justify">
+Die Wohnungen sind auf Barrierefreiheit ausgelegt.
+Detaillierte Informationen dazu haben wir auf <a href="/barrierefreiheit">dieser Seite</a> zusammengefasst.
+<br><br>
+Voraussetzung für das Wohnen in unserem Neubau ist, dass du studierst, eine Ausbildung machst oder promovierst.
+Wichtig ist uns aber vor allem, dass du Lust hast, dich aktiv an unserem Projekt und der Selbstverwaltung zu beteiligen.
+Wir wünschen uns, dass du offen für die Werte und Ziele bist, die wir in unserem <a href="/leitbild">Leitbild</a>
+festgehalten haben, und dass du dem Grundgedanken des <a href="https://www.syndikat.org/">Mietshäuser Syndikats</a>
+positiv gegenüberstehst.
+<br><br>
+Da wir erfahrungsgemäß mehr Bewerbungen bekommen, als wir Plätze vergeben können, müssen wir den Bewerbungsprozess
+etwas formalisieren. Wir haben über längere Zeit einen Bewerbungsprozess erarbeitet, der aus unserer Sicht transparent,
+fair und wenig exklusiv ist. Wenn du dich dadurch dennoch benachteiligt fühlst oder anderweitig unzufrieden mit dem
+Prozess bist, sag uns gerne Bescheid!
+</p>
 
 So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
