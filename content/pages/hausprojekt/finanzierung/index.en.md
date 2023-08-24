@@ -82,7 +82,7 @@ If you would also like to support us, you can find out more on the following pag
 
 Approximately €14.57 million of our project is covered by bank financing.
 For the planned low-energy standard KfW 40 Plus, a KfW-subsidy is implemented together with the [UmweltBank](https://www.umweltbank.de/).
-This subsidy is provided in the form of an interest subsidy and an annuity-reducing repayment bonus amounting to 15% of the loan amount.
+This subsidy is provided in the form of an interest subsidy and an annuity-reducing repayment bonus amounting to 25% of the loan amount.
 KfW funding is supplemented by house bank loans.
 
 #### Large old building

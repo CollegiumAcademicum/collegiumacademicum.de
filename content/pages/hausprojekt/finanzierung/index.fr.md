@@ -55,7 +55,7 @@ Si vous souhaitez également nous soutenir, vous pouvez en savoir plus sur les p
 
 ### Financement bancaire
 
-Il est prévu de couvrir environ 12 millions d'euros par un prêt bancaire. Pour la norme basse-énergie KfW 40+, une subvention de la KfW (_Kreditanstalt für Wiederaufbau_, institution de droit public allemande) sera attribuée, via le soutien de la _Umweltbank_ (banque allemande agissant selon des critères écologiques et sociaux). Cette subvention consiste en une bonification d'intérêts ainsi qu'une bonification de remboursement réduisant la rente de 15 % du montant du prêt.
+Il est prévu de couvrir environ 12 millions d'euros par un prêt bancaire. Pour la norme basse-énergie KfW 40+, une subvention de la KfW (_Kreditanstalt für Wiederaufbau_, institution de droit public allemande) sera attribuée, via le soutien de la _Umweltbank_ (banque allemande agissant selon des critères écologiques et sociaux). Cette subvention consiste en une bonification d'intérêts ainsi qu'une bonification de remboursement réduisant la rente de 25 % du montant du prêt.
 
 ### Divers
 

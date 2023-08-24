@@ -41,7 +41,7 @@ Weitere Details zur Architektur und zur Planung unserer Gebäude finden Sie
 Für die Projektfinanzierung von Alt- und Neubau sind verschiedene Bausteine vorgesehen: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten
 Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen. Zum anderen erhalten
-wir eine Förderung von der Kreditanstalt für Wiederaufbau (<a href="https://de.wikipedia.org/wiki/KfW">KfW</a>).
+wir eine Förderung von der Kreditanstalt für Wiederaufbau (<a href="https://de.wikipedia.org/wiki/KfW"  target="_blank">KfW</a>).
 Da wir im Altbau mehrere Wohneinheiten im sozialen Wohnungsbau ermöglichen wollen,
 sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Finanzierungsbaustein. 
 </p>
@@ -59,12 +59,12 @@ sind bei diesem die entsprechenden Fördergelder ein wichtiger zusätzlicher Fin
 
 <p style="text-align: justify">
 Im Rahmen des Zukunftsinvestitionsprogramms
-<a href="https://www.zukunftbau.de/programm/variowohnungen">"Modellvorhaben Variowohnen"</a>
+<a href="https://www.zukunftbau.de/programm/variowohnungen" target="_blank">"Modellvorhaben Variowohnen"</a>
 des Bundesbauministeriums wurde unser Projekt als herausragendes Vorhaben
 eingestuft. Die Förderung beläuft sich auf rund 2,193 Millionen Euro. Zusätzlich
 wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm
-<a href="https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/">"Holz Innovativ"</a>
-genehmigt, welches sich aus dem <a href="https://ec.europa.eu/regional_policy/de/funding/erdf/">Europäischen Fonds für regionale Entwicklung</a> (EFRE)
+<a href="https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/" target="_blank">"Holz Innovativ"</a>
+genehmigt, welches sich aus dem <a href="https://ec.europa.eu/regional_policy/de/funding/erdf/" target="_blank">Europäischen Fonds für regionale Entwicklung</a> (EFRE)
 und Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
 von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
 Passivhausbauweise des Wohnheims (190.500 Euro).
@@ -123,9 +123,9 @@ Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten meh
 <p style="text-align: justify">
 Ca. 14,57 Millionen Euro unseres Projekts werden über eine Bankfinanzierung abgedeckt. Für
 den geplanten Niedrigenergiestandard KfW 40 Plus wird gemeinsam mit der
-<a href="https://www.umweltbank.de/">Umweltbank</a> eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
+<a href="https://www.umweltbank.de/" target="_blank">Umweltbank</a> eine KfW-Förderung umgesetzt. Diese Förderung besteht aus einer
 Zinsvergünstigung sowie einem annuitätsreduzierenden Tilgungszuschuss in Höhe
-von 15 % des Kreditbetrags. Die KfW-Förderung wird durch Hausbankkredite ergänzt.
+von 25 % des Kreditbetrags. Die KfW-Förderung wird durch Hausbankkredite ergänzt.
 </p>
 
 #### Altbau
