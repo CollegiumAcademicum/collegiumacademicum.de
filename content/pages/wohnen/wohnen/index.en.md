@@ -19,13 +19,13 @@ Then these pages will be interesting for you.
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Sozialer Mietwohnraum</span>
+        <span>Social rental housing</span>
     </a>
-    <a href="{{< relref "/orientierungsjahr" >}}" class="button is-medium is-primary">
+    <a href="https://faltr.de/" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Orientierungsjahr</span>
+        <span>Orientation year</span>
     </a>
     <a href="{{< relref "/pages/wohnen/faq" >}}" class="button is-medium is-primary">
         <span class="icon">
