@@ -55,6 +55,15 @@ Gemeinschaftsflächen und Räumen für Kreativnutzung aus.
 <div class="columns">
     <div class="column" style="text-align: justify">
       Der innovative Holzbau bietet Platz für Individualität und Gemeinschaft: 46 Wohngemeinschaften für drei oder vier Personen sind auf die vier Etagen des Neubaus verteilt. Ein Dachgarten als Begegnungsstätte verbindet die oberen Wohnungen auf dem Dach der Aula. Alle Wohnungen und Wege sind auf Standards barrierearmen Wohnens ausgelegt, insbesondere im Erdgeschoss. Dort befinden sich auch die Gemeinschaftsflächen: eine Werkstatt, die Aula und ein Multifunktionsraum mit Küche.
+        <br><br>
+        <div class="buttons is-centered">
+            <a href="{{< relref "/wohnheim" >}}" class="button is-medium is-primary">
+                <span class="icon">
+                    <i class="icon-home"></i>
+                </span>
+                <span>Wohnheim</span>
+            </a>
+</div>
     </div>
     <div class="column">
         {{< img src="grundrissb" alt="Grundriss des Gebäudes" attr="DGJ Architektur 2019" />}}
@@ -102,7 +111,15 @@ sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir <a href="https://www.bmwsb.
 Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden, die ihren Wohnungsbedarf nicht auf dem
 normalen Wohnungsmarkt decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten
 am Ende der Seite oder per <a href="mailto:einziehen.altbau@collegiumacademicum.de">E-Mail</a> bewerben.
-<br><br>
+<div class="buttons is-centered">
+<a href="{{< relref "/mietwohnraum" >}}" class="button is-medium is-primary">
+                <span class="icon">
+                    <i class="icon-home"></i>
+                </span>
+                <span>Sozialer Mietwohnraum</span>
+            </a>
+</div>
+
 Im Erdgeschoss werden neben Wohnflächen des sozialen Wohnungsbaus mehrere multifunktionale Seminar- und Gemeinschaftsräume
 entstehen, die <a href="/barrierefreiheit">barrierefrei</a> zu erreichen sind.
 Auch in den Obergeschossen werden Gemeinschaftsflächen eingerichtet.
