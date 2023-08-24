@@ -6,7 +6,7 @@ aliases: [/summerschool/]
 
 ## HammerCAmps 2023
 
-<p style="text-align: justify">
+<p style="text-align:justify">
 Der Einzug in den Neubau ist vollbracht, doch der nächste Meilenstein, die Fertigstellung unseres Altbaus, steht
 noch bevor, damit dort in wenigen Monaten unser Orientierungsjahr <a href="https://faltr.de/home">falt*r</a> und der soziale Wohnungsbau Platz finden.
 </p>
@@ -18,7 +18,7 @@ Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
 * **HammerCAmp** 4: 14.08. bis 20.08.2023
 * **HammerCAmp** 5: 04.09. bis 10.09.2023
 
-<p style="text-align: justify">
+<p style="text-align:justify">
 Schwerpunkt werden Arbeiten im Innenraum und die Ausstattung des Altbaus sein. Das Ganze wird ergänzt durch gemeinsames
 veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis). Daneben wird es auch Raum für Workshops, Exkursionen, Filmabende, die ein oder andere Party
 und generell gemeinsame Freizeit geben.
