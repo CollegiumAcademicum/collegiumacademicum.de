@@ -1,102 +1,42 @@
 [[main]]
+    name = "Über uns"
+    url = "/ueber-uns"
+    weight = 1
+[[main]]
     name = "Aktuelles"
     url = "/aktuelles"
     weight = 1
-
+    parent = "Über uns"
 [[main]]
-    name = "Hausprojekt"
-    url = "/hausprojekt"
+    name = "Projektvorstellung und Timeline"
+    url = "/projektvorstellung"
     weight = 2
-[[main]]
-    name = "Unsere Gebäude"
-    url = "/gebaeude"
-    weight = 1
-    parent = "Hausprojekt"
-[[main]]
-    name = "Bildung"
-    url = "/bildung"
-    weight = 2
-    parent = "Hausprojekt"
-[[main]]
-    name = "Nachhaltigkeit"
-    url = "/nachhaltigkeit"
-    weight = 3
-    parent = "Hausprojekt"
-[[main]]
-    name = "Selbstverwaltung"
-    url = "/selbstverwaltung"
-    weight = 4
-    parent = "Hausprojekt"
-[[main]]
-    name = "Finanzierung"
-    url = "/finanzierung"
-    weight = 5
-    parent = "Hausprojekt"
-
-[[main]]
-    name = "Unterstützen"
-    url = "/unterstuetzen"
-    weight = 3
-[[main]]
-    name = "Direktkredite"
-    url = "/direktkredite"
-    weight = 1
-    parent = "Unterstützen"
-[[main]]
-    name = "Spenden"
-    url = "/spenden"
-    weight = 2
-    parent = "Unterstützen"
-[[main]]
-    name = "Mach mit"
-    url = "/mach-mit"
-    weight = 3
-    parent = "Unterstützen"
-[[main]]
-    name = "Aktionen"
-    url = "/aktionen"
-    weight = 4
-    parent = "Unterstützen"
-[[main]]
-    name = "Förderverein"
-    url = "/foerderverein"
-    weight = 5
-    parent = "Unterstützen"
-
-[[main]]
-    name = "Über uns"
-    url = "/ueber-uns"
-    weight = 4
+    parent = "Über uns"
 [[main]]
     name = "Unser Leitbild"
     url = "/leitbild"
-    weight = 1
+    weight = 3
     parent = "Über uns"
 [[main]]
     name = "Geschichte des alten CA"
     url = "/geschichte"
-    weight = 2
-    parent = "Über uns"
-[[main]]
-    name = "Timeline"
-    url = "/timeline"
-    weight = 3
-    parent = "Über uns"
-[[main]]
-    name = "Partner*innen"
-    url = "/partnerinnen"
     weight = 4
     parent = "Über uns"
 [[main]]
-    name = "Anfahrt"
-    url = "/anfahrt"
+    name = "In der Presse"
+    url = "/presse"
     weight = 5
+    parent = "Über uns"
+[[main]]
+    name = "Literatur und eigene Veröffentlichungen"
+    url = "/literatur"
+    weight = 6
     parent = "Über uns"
 
 [[main]]
     name = "Wohnen"
     url = "/wohnen"
-    weight = 5
+    weight = 3
 [[main]]
     name = "Wohnheim"
     url = "/wohnheim"
@@ -108,37 +48,77 @@
     weight = 2
     parent = "Wohnen"
 [[main]]
-    name = "Orientierungsjahr"
-    url = "/orientierungsjahr"
+    name = "Selbstverwaltung"
+    url = "/selbstverwaltung"
     weight = 3
-    parent = "Wohnen"
-[[main]]
-    name = "FAQ"
-    url = "/faq"
-    weight = 4
     parent = "Wohnen"
 [[main]]
     name = "Barrierefreiheit"
     url = "/barrierefreiheit"
+    weight = 4
+    parent = "Wohnen"
+[[main]]
+    name = "FAQ"
+    url = "/faq"
     weight = 5
     parent = "Wohnen"
 
 [[main]]
-    name = "Presse & Links"
-    url = "/presse-links"
+    name = "Orientierungsjahr"
+    url = "/orientierungsjahr"
+    weight = 4
+
+[[main]]
+    name = "Veranstaltungen"
+    url = "/veranstaltungen"
+    weight = 5
+[[main]]
+    name = "Aktionen"
+    url = "/aktionen"
+    weight = 1
+    parent = "Veranstaltungen"
+[[main]]
+    name = "Veranstaltungekalender"
+    url = "/kalender"
+    weight = 2
+    parent = "Veranstaltungen"
+[[main]]
+    name = "Räume nutzen und mieten"
+    url = "/raum"
+    weight = 3
+    parent = "Veranstaltungen"
+[[main]]
+    name = "Anfahrt"
+    url = "/anfahrt"
+    weight = 3
+    parent = "Veranstaltungen"
+[[main]]
+    name = "Café"
+    url = "/cafe"
+    weight = 3
+    parent = "Veranstaltungen"
+
+[[main]]
+    name = "Unterstützen"
+    url = "/unterstuetzen"
     weight = 6
 [[main]]
-    name = "Eigene Veröffentlichungen"
-    url = "/eigene-veroeffentlichungen"
+    name = "Finanzierung"
+    url = "/finanzierung"
     weight = 1
-    parent = "Presse & Links"
+    parent = "Unterstützen"
 [[main]]
-    name = "In der Presse"
-    url = "/presse"
+    name = "Direktkredite"
+    url = "/direktkredite"
     weight = 2
-    parent = "Presse & Links"
+    parent = "Unterstützen"
 [[main]]
-    name = "Literatur"
-    url = "/literatur"
+    name = "Spenden"
+    url = "/spenden"
     weight = 3
-    parent = "Presse & Links"
+    parent = "Unterstützen"
+[[main]]
+    name = "Förderverein"
+    url = "/foerderverein"
+    weight = 4
+    parent = "Unterstützen"
