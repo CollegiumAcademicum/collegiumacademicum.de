@@ -97,17 +97,22 @@
     weight = 2
     parent = "Living"
 [[main]]
+    name = "Freely financed apartments"
+    url = "/freely_financed_apartments"
+    weight = 3
+    parent = "Living"
+[[main]]
     name = "Orientation year (Falt*r)"
     url = "/orientation-year"
-    weight = 3
+    weight = 4
     parent = "Living"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 4
+    weight = 5
     parent = "Living"
 [[main]]
     name = "Accessibility"
     url = "/accessibility"
-    weight = 5
+    weight = 6
     parent = "Living"

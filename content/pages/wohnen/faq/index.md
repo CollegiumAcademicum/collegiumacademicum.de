@@ -105,11 +105,11 @@ Die zwei ungeförderten Wohnungen sind im 2. und 3. OG.
 {{< accordion "Wie hoch ist die Miete?" >}}
 In den einzelnen Wohnungen des sozialen Mietwohnraums beträgt der Quadratmeterpreis …€/m2.
 In den ungeförderten Wohnungen beträgt er …€/m2.
-[Hier](/mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+[Hier](/sozialer_mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
 {{< /accordion >}}
 {{< accordion "Wie sehen die Wohnungen aus?" >}}
 Die Wohnungen sind unterschiedlich groß und haben verschiedene Grundrisse.
-[Hier](/mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+Unter [sozialer Mietwohnraum](/sozialer_mietwohnraum) und [freifinanzierte Wohnungen](/freifinanzierte_wohnungen) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
 {{< /accordion >}}
 {{< accordion "Sind die Wohnungen barrierefrei/rollstuhlgerecht?" >}}
 Die Wohnungen im Erdgeschoss sind barrierefrei ausgebaut.

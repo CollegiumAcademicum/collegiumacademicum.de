@@ -5,7 +5,7 @@ novoigl: yes
 
 <p style="text-align:justify">
 Wir bieten, gestalten und verwalten Wohnraum für ganz unterschiedliche Menschen.
-Das Wohnen im <a href="/wohnheim">Wohnheim</a> im <a href="/neubau">Neubau</a> ist an die berufliche oder akademische Ausbildung geknüpft, richtet
+Das Wohnen im <a href="/wohnheim">Wohnheim</a> im Neubau ist an die berufliche oder akademische Ausbildung geknüpft, richtet
 sich also an Auszubildende, Studierende und Promovierende.
 Im Altbau spielt sich unser <a href="/orientierungsjahr">Orientierungsjahr falt*r</a>. Hier geht es für die
 Teilnehmenden neben Berufsorientierung und Persönlichkeitsentwicklung auch darum, ihre Rolle in der Gesellschaft zu
@@ -25,12 +25,21 @@ Dann wirst du hier fündig:
         </span>
         <span>Wohnheim</span>
     </a>
-    <a href="{{< relref "/mietwohnraum" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Sozialer Mietwohnraum</span>
     </a>
+    <a href="{{< relref "/freifinanzierte_wohnungen" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Freifinanzierte Wohnungen</span>
+    </a>
+</div>
+
+<div class="buttons is-centered">
     <a href="https://faltr.de/" target="_blank" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>

@@ -109,15 +109,20 @@ Winter 2023/2024 starten.
 Die übrigen Wohnungen umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
 sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir <a href="https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html">sozialen Mietwohnraum</a> schaffen wollen.
 Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden, die ihren Wohnungsbedarf nicht auf dem
-normalen Wohnungsmarkt decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten
-am Ende der Seite oder per <a href="mailto:einziehen.altbau@collegiumacademicum.de">E-Mail</a> bewerben.
+normalen Wohnungsmarkt decken können.
 <div class="buttons is-centered">
-<a href="{{< relref "/mietwohnraum" >}}" class="button is-medium is-primary">
+<a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
                 <span class="icon">
                     <i class="icon-home"></i>
                 </span>
                 <span>Sozialer Mietwohnraum</span>
             </a>
+<a href="{{< relref "/freifinanzierte_wohnungen" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Freifinanzierte Wohnungen</span>
+    </a>
 </div>
 
 Im Erdgeschoss werden neben Wohnflächen des sozialen Wohnungsbaus mehrere multifunktionale Seminar- und Gemeinschaftsräume

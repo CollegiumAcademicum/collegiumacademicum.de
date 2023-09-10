@@ -1,13 +1,13 @@
 ---
 title: "Bewerbung freifinanzierte Wohnungen (Altbau)"
-slug: "bewerbung_other"
+slug: "bewerbung_ffw"
 novoigl: yes
 ---
 
 <form action="/website/bewerbung_other/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen!
 
-Wir hoffen, dass die Wohnungen ab 01.12.2023 bezugsfertig sind.
+Wir hoffen, dass die Wohnungen ab dem 01.01.2024 bezugsfertig sind.
 Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 
 <h2>Allgemein</h2>

@@ -104,23 +104,28 @@
     parent = "Wohnen"
 [[main]]
     name = "Sozialer Mietwohnraum"
-    url = "/mietwohnraum"
+    url = "/sozialer_mietwohnraum"
     weight = 2
+    parent = "Wohnen"
+[[main]]
+    name = "Ungeförderte Wohnungen"
+    url = "/freifinanzierte_wohnungen"
+    weight = 3
     parent = "Wohnen"
 [[main]]
     name = "Orientierungsjahr"
     url = "/orientierungsjahr"
-    weight = 3
+    weight = 4
     parent = "Wohnen"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 4
+    weight = 5
     parent = "Wohnen"
 [[main]]
     name = "Barrierefreiheit"
     url = "/barrierefreiheit"
-    weight = 5
+    weight = 6
     parent = "Wohnen"
 
 [[main]]
