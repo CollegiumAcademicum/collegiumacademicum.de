@@ -4,15 +4,17 @@ slug: "orientierungsjahr"
 novoigl: yes
 ---
 
-<p style="text-aign:justify">
+<p style="text-align:justify">
 Mit dem Orientierungsjahr falt*r möchten wir jungen Menschen ermöglichen, sich zwischen Schule und weiterem Lebensweg
 frei zu entfalten und ihnen Raum und Zeit für persönliches Wachstum und interdisziplinäre Weiterbildung schaffen.
+</p>
 
 <center>
 <img class="image" src="/img/logo-faltr.png" alt="falt*r logo" width="180"/>
 </center>
 <br>
 
+<p style="text-align:justify">
 Besonderes Augenmerk der inhaltlichen Gestaltung liegt auf den Themen Demokratieförderung, gesellschaftliche
 Gestaltungsmöglichkeiten und soziale-ökologische Nachhaltigkeit.
 Die sowohl theoretische als auch praktische Erarbeitung dieser Themenkomplexe soll zu einer intensiven
