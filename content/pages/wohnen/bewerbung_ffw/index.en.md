@@ -1,5 +1,5 @@
 ---
 title: "Application flats (old building)"
-slug: "application_other"
+slug: "application_ffw"
 novoigl: yes
 ---

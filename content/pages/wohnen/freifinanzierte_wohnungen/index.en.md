@@ -37,7 +37,7 @@ You want to be part of our project and can imagine living in one of the two unsu
 </p>
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_other" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_ffw" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>

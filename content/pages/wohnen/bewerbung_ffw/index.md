@@ -4,7 +4,7 @@ slug: "bewerbung_ffw"
 novoigl: yes
 ---
 
-<form action="/website/bewerbung_other/send.php" method="post" accept-charset="utf-8">
+<form action="/website/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen!
 
 Wir hoffen, dass die Wohnungen ab dem 01.01.2024 bezugsfertig sind.
@@ -70,18 +70,18 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
             id="mail" size="55"/>
     </div>
 </div>
-<!--<div class="field">
+<div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
-</div>-->
-<div class="field">
+</div>
+<!--<div class="field">
     <label class="label" for="age">Alter *</label>
     <div class="control">
         <input class="input required" type="number" id="age" name="age" min="18" max="100" required />
     </div>
-</div>
+</div>-->
 <div class="field">
     <label class="label" for="occupation">Was ist deine hauptsächliche offizielle Tätigkeit? *</label>
     <div class="control">
@@ -92,7 +92,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 
 <h3>Textfragen</h3>
 <p>Um dich und deine Einstellung zum CA kennenzulernen, haben wir hier
-    drei ausführlichere Fragen. Bitte beantworte sie in je höchstens 1.000
+    vier ausführlichere Fragen. Bitte beantworte sie in je höchstens 1.000
     Zeichen.</p>
 <div class="field">
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind dir besonders
@@ -131,12 +131,6 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="children">Hast du Kinder, die mit dir einziehen würden?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="children">
-    </div>
-</div>
-<div class="field">
     <label class="label" for="contacts">Bist du schon in Kontakt mit möglichen Mitbewohner*innen?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="200" name="wohnvorstellung">
@@ -151,6 +145,13 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <div class="field">
+    <label class="label" for="contact_options">Wir vermieten Wohnungen als gesamtes und nicht an Einzelpersonen. Um deine Mitbewohnis zu finden, vernetzen wir euch über die Weitergabe deiner Handynummer/Email-Adresse. Wie können deine eventuellen zukünftigen Mitbewohnis dich erreichen? Gib hier bitte eine Handynummer und/oder eine Mailadresse von dir an.</label>
+    <div class="control">
+        <textarea name="contact_options" class="textarea" placeholder=""
+            maxlength="200"></textarea>
+    </div>
+</div>
+<div class="field">
     <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
     Computer bist, bitten wir dich folgende Frage zu beantworten: Wie viel ist
     5 + 3? </label>
@@ -160,7 +161,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 </div>
 <hr>
 <p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
-<p>Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
+<p>Mit dem Abschicken der Bewerbung stimmst du der Weitergabe dieser Kontaktdaten an andere Bewerbende zu. Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
@@ -195,7 +196,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="email">E-Mail *</label>
+    <label class="label" for="email">E-Mail (einer Person eurer Gruppe)*</label>
     <div class="control has-icons-left">
         <input type="email" name="email" value="" class="input required email"
             id="email" size="55" required/>
@@ -214,28 +215,34 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <!--<div class="field">
-    <label class="label" for="age">Geburtstag *</label>
-    <div class="control">
-        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
-    </div>
-</div>-->
-<div class="field">
     <label class="label" for="age">Alter *</label>
     <div class="control">
         <input class="input required" type="number" id="age" name="age" min="18" max="100" required />
     </div>
+</div>-->
+<div class="field">
+    <label class="label" for="age">Geburtstag *</label>
+    <div class="control">
+        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+    </div>
 </div>
 <div class="field">
-    <label class="label" for="occupation">Tätigkeit? *</label>
+    <label class="label" for="occupation">Tätigkeiten? *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="occupation" required>
+        <input class="input" type="text" placeholder="" maxlength="800" name="occupation" required>
     </div>
 </div>
 
 <h3>Textfragen</h3>
 <p>Um euch und eure Einstellung zum CA kennenzulernen, haben wir hier
-    drei ausführlichere Fragen. Bitte beantwortet sie in je höchstens 1.000
+    fünf ausführlichere Fragen. Bitte beantwortet sie in je höchstens 1.000
     Zeichen.</p>
+<div class="field">
+    <label class="label" for="characterise">Was macht euch als Gruppe aus?</label>
+    <div class="control">
+        <textarea name="characterise" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+    </div>
+</div>
 <div class="field">
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind euch besonders
         wichtig, welchen Punkten steht ihr kritisch gegenüber?</label>
@@ -285,16 +292,26 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
-    Computer bist, bitten wir dich folgende Frage zu beantworten: Wie viel ist
+    <label class="label" for="contact_options">Wir vermieten Wohnungen als gesamtes und nicht an Einzelpersonen.
+    Falls ihr noch keine vollständige Gruppe seid und noch Mibewohnis sucht:
+    Wie können euch andere Bewerber*innen erreichen? Gebt hier bitte von euch mindestens eine Handynummer und/oder eine Mailadresse an.</label>
+    <div class="control">
+        <textarea name="contact_options" class="textarea" placeholder=""
+            maxlength="200"></textarea>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="spam_protection">Um sicherzustellen, dass ihr kein
+    Computer seid, bitten wir dich folgende Frage zu beantworten: Wie viel ist
     5 + 3? </label>
     <div class="spam_protection">
         <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
     </div>
 </div>
 <hr>
-<p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
-<p>Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
+<p>Nach dem Absenden bekommt ihr eine Bestätigungsmail an die angegebene E-Mail-Adresse.</p>
+<p>Mit dem Abschicken der Bewerbung stimmt ihr der Weitergabe dieser Kontaktdaten an andere Bewerbende zu.
+Wir behalten diese Daten nur für die Dauer eurer Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findet ihr weitere Informationen.</p>
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>

@@ -58,7 +58,7 @@ Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der 
 </p>
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_other" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_ffw" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
