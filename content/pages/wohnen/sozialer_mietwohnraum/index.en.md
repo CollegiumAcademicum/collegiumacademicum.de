@@ -17,9 +17,7 @@ All flats have the following address:
 
 Ossip-Mandelstam-Straße 1 \
 69126 Heidelberg-Rohrbach
-<br><br>
-Are you interested in living together with a diverse group of inspiring people in a self-managed, communal housing project and helping to shape your environment?
-Then read on!</p>
+</p>
 
 ## Social rental housing
 
@@ -33,18 +31,6 @@ You can find an overview with floor plans, room sizes and rent levels further do
 <b>Important note:</b>
 The flats are NOT part of the dormitory for young people and any person, regardless of age or situation in life, can apply for these flats if they can present a housing entitlement certificate.
 For more information on who is eligible to live in socially subsidised rental housing, see <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">here</a>.
-<br><br>
-You want to apply with us with a housing entitlement certificate?
-</p>
-
-<div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>This way!</span>
-    </a>
-</div>
 
 Progress room occupancy:
 <div class="progress-wrapperEinzug">
@@ -67,37 +53,26 @@ In addition, you can help with tasks in the garden, in our workshops, in adminis
 <br><br>
 You should have a desire for a colourful house community and expect that with the orientation year located in the old building, there will be an annual change of young residents.
 Due to our location on the conversion site of the US Hospital, there will soon be frequent construction sites around us, with the accompanying noise.
-In addition, there is a large assembly hall in our new building next door, which is regularly used for events (parties and other evening events as well).<br><br>
-Are you interested? Then apply on our <a href="/bewerbung_sowobau/">application page</a>.
+In addition, there is a large assembly hall in our new building next door, which is regularly used for events (parties and other evening events as well).
 <br><br>
 Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
 </p>
 
-## The two unsubsidised flats
-
-<p style="text-align:justify">
-A 6-room flat and a 2-room flat on the 2nd and 3rd floors (see plans) are not bound by the occupancy requirements of the social rental space subsidy.
-<br><br>
-The large flat is intended for a shared flat: people who want to actively participate in the management of our old building and fill the CA with life should live together here.
-<br><br>
-You want to be part of our project and can imagine living in one of the two unsubsidised flats in our old building?</p>
+You want to apply with us with a housing entitlement certificate?
+</p>
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_other" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Apply now!</span>
+        <span>This way!</span>
     </a>
 </div>
-After applying, you will be invited to a guided tour of the building and our grounds, which will take place in October.
-<br><br>
 
-Progress room occupancy:
-<div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="10"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
-</div>
+After applying, you will be invited to a guided tour of the building and our grounds, which will take place in October.
+
+You're interested in the free-funded flats instead?? Then inform yourself <a href="{{< relref "/freifinanzierte_wohnungen" >}}">here</a>.
 
 ## Floor plans and amount of rent
 

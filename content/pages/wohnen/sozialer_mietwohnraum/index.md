@@ -1,6 +1,6 @@
 ---
-title: "Sozialer Mietwohnraum & ungeförderte Zimmer"
-slug: "mietwohnraum"
+title: "Sozialer Mietwohnraum"
+slug: "sozialer_mietwohnraum"
 novoigl: yes
 ---
 
@@ -19,9 +19,6 @@ Alle Wohnungen haben die folgende Adresse:
 
 Ossip-Mandelstam-Straße 1 \
 69126 Heidelberg-Rohrbach
-<br><br>
-Du interessierst dich, in einem selbstverwalteten, gemeinschaftlichen Wohnprojekt mit einer diversen Gruppe
-inspirierender Menschen zusammenzuwohnen und dein Umfeld mitzugestalten? Dann lies weiter!
 </p>
 
 ## Sozialer Mietwohnraum
@@ -38,21 +35,9 @@ Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten fi
 Die Wohnungen sind NICHT Teil des Wohnheims für junge Menschen und jede Person, egal welchen Alters oder welcher Lebenslage,
 kann sich auf diese Wohnungen bewerben, wenn sie einen Wohnberechtigungsschein vorlegen kann.
 Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen darf, findest du <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">hier</a>.
-<br><br>
-Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
 </p>
 
-<div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Hier entlang!</span>
-    </a>
-</div>
-Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
-
-Fortschritt Zimmerbelegung:
+Fortschritt Wohnungsbelegung:
 <div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="0" max="20"></progress>
   <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
@@ -78,37 +63,23 @@ Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital wird in den nächs
 sein, mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unserem Neubau nebenan eine große Aula,
 die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
 <br><br>
-Ihr habt Interesse? Dann bewerbt euch auf unserer <a href="/bewerbung_sowobau/">Bewerbungsseite</a>.
-<br><br>
 Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
-
-## Die zwei ungeförderten Wohnungen
-
-<p style="text-align:justify">
-Eine 6-Zimmer-Wohnung und eine 2-Zimmer-Wohnung im 2. und 3. OG (siehe Pläne) sind
-nicht an die Belegungsvorgaben der sozialen Mietraumförderung gebunden.
 <br><br>
-Die große Wohnung ist für eine WG gedacht: Hier sollen Menschen zusammenleben, die Lust haben, die Verwaltung
-unseres Altbaus aktiv mitzugestalten und das CA mit Leben zu füllen.
-<br><br>
-Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
+Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
 </p>
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_other" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Dann bewirb dich jetzt!</span>
+        <span>Hier entlang!</span>
     </a>
 </div>
+
 Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
 
-Fortschritt Zimmerbelegung:
-<div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="10"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
-</div>
+Du bist stattdessen an den freifinanzierten Wohnungen interessiert? Dann informiere dich <a href="{{< relref "/freifinanzierte_wohnungen" >}}">hier</a>.
 
 ## Pläne und Höhe der Mieten
 
