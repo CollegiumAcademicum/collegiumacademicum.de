@@ -4,6 +4,7 @@ novoigl: yes
 slug: "faq"
 ---
 
+{{< accordion "To our dorm" >}}
 
 ### Questions about the furnishing of the rooms and the dormitory
 
@@ -87,4 +88,118 @@ Each room is always rented furnished (desk, wardrobe, bed).
 {{< /accordion >}}
 {{< accordion "Does the house have special family flats for families with children?" >}}
 There are no family flats in the strict sense. Nevertheless, it is possible to move into the residence with children. There are several options. A child can rent its own room in its own shared flat. It is also possible for two adults to share a room and use the room that becomes free as a children's room. Thanks to the flexible partition walls, individual room sizes are also possible. For example, one room can be divided into two smaller rooms of 7 square metres each, one of which would become a passage room.
+{{< /accordion >}}
+{{< /accordion >}}
+
+{{< accordion "To our other flats" >}}
+### Questions about the furnishings of the rooms and the old building
+
+{{< accordion "Where are the flats located?" >}}
+Our 6 social rented flats and the 2 unsubsidised flats are located together with the orientation year
+in our beautiful, energy-efficiently renovated old building right next to the dormitory.
+Together we form a large community that decides on its living space together and manages it itself.
+Four social rented flats are on the ground floor, two more on the 1st floor.
+The two unsubsidised flats are on the 2nd and 3rd floors.
+{{< /accordion >}}
+{{< accordion "How much is the rent?" >}}
+For an overview of all the key data of the flats in the old building, including the amount of the rents, see [social rental housing](/en/rental-housing/) and [freely financed apartments](/en/freely_financed_apartments/).
+{{< /accordion >}}
+{{< accordion "What do the flats look like?" >}}
+The flats vary in size and have different floor plans.
+Under [social rental housing](/en/rental-housing/) and [freely financed apartments](/en/freely_financed_apartments/) you will find an overview of all the key data of the flats in the old building.
+{{< /accordion >}}
+{{< accordion "Are the flats barrier-free/wheelchair accessible?" >}}
+The flats on the ground floor are barrier-free.
+If you need more information, please contact us at einziehen.altbau@collegiumacademicum.de.
+{{< /accordion >}}
+{{< accordion "How much are the service charges?" >}}
+The expected service charges differ between apartments. Under [social rental housing](/en/rental-housing/) and [freely financed apartments](/en/freely_financed_apartments/) you will find an overview of all the key data for the flats in the old building.
+{{< /accordion >}}
+{{< accordion "Where is the electricity drawn from?" >}}
+The old building uses 100% electricity from renewable sources via the Heidelberger Energiegenossenschaft.
+To a large extent, the electricity demand is covered by the photovoltaic system on our roof, including battery storage.
+{{< /accordion >}}
+{{< accordion "What basic amenities does a flat have?" >}}
+Each flat has a (living) kitchen and one to two bathrooms (depending on size).
+The washing machines and dryers are centrally located in the washing lounge of the neighbouring new building. This is more ecological,
+space-saving, more effective and cheaper than having your own washing machine per flat.
+{{< /accordion >}}
+{{< accordion "Is there internet access?" >}}
+Yes, each flat has its own wifi and the common rooms in the old and new buildings have public wifi.
+In addition, the CA has its own IT working group that provides various IT services for the entire CA.
+{{< /accordion >}}
+
+### Questions about the application
+{{< accordion "Do I have to study or do an apprenticeship to apply for a room/flat in the old building?" >}}
+No! This rule only applies to the neighbouring dormitory in the new building.
+All people can apply for an apartment in the old building.
+{{< /accordion >}}
+{{< accordion "When are rooms or flats in the old building ready for occupancy?" >}}
+The flats are expected to be ready for occupation from 01.01.2024.
+We always try to advertise vacant accommodation as soon as possible.
+A list of current advertisements for flats or flat-shares in our old building can be found [here](link).
+We plan to organise viewing and get-to-know-you days every now and then.
+{{< /accordion >}}
+{{< accordion "How can I apply for one of the social rented flats?" >}}
+You apply for one of our social rented flats at [this application form](/application_sowobau/).
+Please note that in the 6 social rented flats only people are admitted to apply who have a
+housing entitlement certificate for the current calendar year.
+You can find detailed information on how to apply for this housing entitlement certificate from the city [here](https://www.heidelberg.de/hd,Lde/-/Verfahrensbeschreibung/;vbid1038/;vbmid1).
+If you want to apply for a place in the orientation year or in the hall of residence, select the appropriate link:
+- [Orientation Year Application](https://faltr.de/)
+- [Application for the hall of residence](/application)
+{{< /accordion >}}
+{{< accordion "How do I apply for one of the unsubsidised residences?" >}}
+You apply for a flat in our old building at [this application form](/application_ffw/).
+Note that there is a [different application form](/application_sowobau/) for the social rented flats.
+If you want to apply for a place in the orientation year or in the dormitory, select the appropriate link:
+- [application for the orientation year](https://faltr.de/)
+- [Application for the hall of residence](/application)
+{{< /accordion >}}
+{{< accordion "I/We have given a direct loan. Does this give me/us an advantage when applying?" >}}
+No, this does not affect the chances of applying.
+Financial background should not be a factor in whether a person can live in a flat in CA.
+{{< /accordion >}}
+{{< accordion "What criteria are used to select residents?" >}}
+In addition to the formal requirements, we are looking for people who identify with our mission statement,
+to take part in the self-administration and take responsibility for the housing project.
+{{< /accordion >}}
+
+### Questions about moving in and living together
+
+{{< accordion "When is it possible to move into the old building?" >}}
+We are currently assuming that we will be renting from January 2024.
+However, as the building is still under construction, we can't put a definite move-in date yet.
+If you would like to help out on the construction site, please feel free to contact us at collegiumacademicum@posteo.de.
+{{< /accordion >}}
+{{< accordion "Will I be part of the housing project if I move into the old building?" >}}
+Of course, you will be part of the project and take part in the self-management.
+You are also allowed to share all available common areas with the other residents.
+{{< /accordion >}}
+{{< accordion "What does it mean to participate in self-management?" >}}
+The people who live in our buildings organise their living together and community.
+This means that tasks such as financing/tenancy management and the maintenance of our living environment are borne by ourselves.
+It is therefore important that all the people who live here together also participate in the self-administration according to their possibilities.
+If you get involved in the project before you move in, you will also have the opportunity to play an even greater role in shaping your future living space!
+{{< /accordion >}}
+{{< accordion "Are the residents of the old building allowed to share common rooms in the old and new buildings?" >}}
+Yes, the entire project is shared by all residents.
+Areas within the flat (kitchen, bathroom...) are of course private.
+But you have access to many common rooms: from the lounge to the conference room, to group rooms,
+workrooms, wood-, metal- and bicycle workshop, garden, and laundry room.
+{{< /accordion >}}
+{{< accordion "Do I need to give a direct loan or donate to move in?" >}}
+No. A person's financial situation should not determine whether they can live in our project.
+{{< /accordion >}}
+{{< accordion "We are several related people with/without child(ren)/I am a single parent with child(ren). I am a senior citizen. Can we or can I still move in?" >}}
+When you first rent out your flat, we will only rent it out as a whole and not give out individual rooms.
+In later phases of the project, it depends on whether a whole flat or a corresponding number of rooms becomes available.
+In principle, living together in the old building is possible in all situations and we are looking forward to mixed flat-sharing communities!
+{{< /accordion >}}
+{{< accordion "Do I have to help on the construction site myself?" >}}
+No. But we would very much like many residents to help even before they move in.
+Maybe with the furniture, with the rent administration, with the financial work or maybe on our building site?
+Support from residents is especially useful and desirable with regard to future self-administration,
+in order to be able to live together. You can find more information under [Join us!](/mach-mit).
+{{< /accordion >}}
 {{< /accordion >}}

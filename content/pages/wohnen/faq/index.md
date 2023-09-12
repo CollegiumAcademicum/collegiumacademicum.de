@@ -103,34 +103,31 @@ Vier soziale Mietwohnungen befinden sich im Erdgeschoss, zwei weitere im 1. OG.
 Die zwei ungeförderten Wohnungen sind im 2. und 3. OG.
 {{< /accordion >}}
 {{< accordion "Wie hoch ist die Miete?" >}}
-In den einzelnen Wohnungen des sozialen Mietwohnraums beträgt der Quadratmeterpreis …€/m2.
-In den ungeförderten Wohnungen beträgt er …€/m2.
-[Hier](/sozialer_mietwohnraum) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+Eine Übersicht über alle Eckdaten der Wohnungen im Altbau, inklusive der Höhe der Mieten, findest du unter [sozialer Mietwohnraum](/sozialer_mietwohnraum) und [ungeförderte Wohnungen](/freifinanzierte_wohnungen/).
 {{< /accordion >}}
 {{< accordion "Wie sehen die Wohnungen aus?" >}}
 Die Wohnungen sind unterschiedlich groß und haben verschiedene Grundrisse.
-Unter [sozialer Mietwohnraum](/sozialer_mietwohnraum) und [freifinanzierte Wohnungen](/freifinanzierte_wohnungen) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
+Unter [sozialer Mietwohnraum](/sozialer_mietwohnraum) und [ungeförderte Wohnungen](/freifinanzierte_wohnungen) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
 {{< /accordion >}}
 {{< accordion "Sind die Wohnungen barrierefrei/rollstuhlgerecht?" >}}
 Die Wohnungen im Erdgeschoss sind barrierefrei ausgebaut.
 Wenn du mehr Informationen benötigst, dann melde dich gerne bei uns unter einziehen.altbau@collegiumacademicum.de.
-oder schaue [hier](/barrierefreiheit) nach.
 {{< /accordion >}}
 {{< accordion "Wie hoch sind die Nebenkosten?" >}}
-tbd
+Die voraussichtlichen Nebenkosten unterscheiden sich je nach Wohnungen. Unter [sozialer Mietwohnraum](/sozialer_mietwohnraum) und [ungeförderte Wohnungen](/freifinanzierte_wohnungen) findest du eine Übersicht über alle Eckdaten der Wohnungen im Altbau.
 {{< /accordion >}}
 {{< accordion "Von wo wird der Strom bezogen?" >}}
 Der Altbau nutzt zu 100% Strom aus erneuerbaren Energien über die Heidelberger Energiegenossenschaft.
 Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt.
-Die Stromkosten sind nicht in der Miete enthalten.
 {{< /accordion >}}
 {{< accordion "Welche Grundausstattung besitzt eine Wohnung?" >}}
-Jede Wohnung verfügt über eine Küche und ein bis zwei Bäder (je nach Größe).
-Wie genau die Küchen aussehen werden, ist noch nicht klar.
-In manchen Wohnungen sind die Küchen sehr groß und als Wohnküche nutzbar.
+Jede Wohnung verfügt über eine (Wohn-)Küche und ein bis zwei Bäder (je nach Größe).
+Die Waschmaschinen und Trockner befinden sich zentral in der Waschlounge des benachbarten Neubaus. Das ist ökologischer,
+platzsparender, effektiver und günstiger als eine eigene Waschmaschine pro Wohnung.
 {{< /accordion >}}
 {{< accordion "Gibt es Internetanschluss?" >}}
-Ja.
+Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des Alt- und Neubaus verfügen über öffentliches WLAN.
+Darüber hinaus gibt es im CA eine eigene IT-Arbeitsgruppe, die verschiedene IT-Dienste für das gesamte CA zur Verfügung stellt.
 {{< /accordion >}}
 
 ### Fragen zur Bewerbung
@@ -139,23 +136,23 @@ Nein! Diese Regel gilt nur für das benachbarte Wohnheim.
 Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau bewerben.
 {{< /accordion >}}
 {{< accordion "Wann sind Zimmer oder Wohnungen im Altbau bezugsfertig?" >}}
-Die Wohnungen können voraussichtlich ab 01.12.2023 bezogen werden.
+Die Wohnungen können voraussichtlich ab 01.01.2024 bezogen werden.
 Wir versuchen freiwerdenden Wohnraum immer so schnell wie möglich auszuschreiben.
 Eine Liste mit aktuellen Wohnungs- oder WG-Anzeigen aus unserem Altbau findest du [Hier](Link).
 Wir planen, immer wieder Besichtigungs- und Kennenlerntage zu veranstalten.
 {{< /accordion >}}
-{{< accordion "Wie kann ich mich auf ein Zimmer oder eine Wohnung in den sozialen Mietwohnungen bewerben?" >}}
-Du bewirbst dich auf ein Zimmer/eine Wohnung unseres Sozialwohnraumes unter diesem Bewerbungsformular [Link].
+{{< accordion "Wie kann ich mich auf eine der sozialen Mietwohnungen bewerben?" >}}
+Du bewirbst dich auf eine Wohnung unseres Sozialwohnraumes unter [diesem Bewerbungsformular](/bewerbung_sowobau/).
 Bitte beachte, dass in den 6 sozialen Mietwohnungen nur Menschen zur Bewerbung zugelassen werden, die einen
 Wohnberechtigungsschein für das laufende Kalenderjahr nachweisen können.
-Genaue Informationen, wie du diesen Wohnberechtigungsschein bei der Stadt beantragen kannst, findest du [hier](Link zur Stadt).
+Genaue Informationen, wie du diesen Wohnberechtigungsschein bei der Stadt beantragen kannst, findest du [hier](https://www.heidelberg.de/hd,Lde/-/Verfahrensbeschreibung/;vbid1038/;vbmid1).
 Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
 - [Bewerbung für das Orientierungsjahr](https://faltr.de/)
 - [Bewerbung für das Wohnheim](/bewerbung)
 {{< /accordion >}}
-{{< accordion "Wie kann ich mich auf ein Zimmer in den ungeförderten Wohnungen bewerben?" >}}
-Du bewirbst dich auf ein Zimmer/eine Wohnung unseres Altbaus unter diesem Bewerbungsformular [Link].
-Beachte, dass für die sozialen Mietwohnungen ein anderes Bewerbungsformular vorhanden ist!
+{{< accordion "Wie kann ich mich auf eine der ungeförderten Wohnungen bewerben?" >}}
+Du bewirbst dich auf eine Wohnung unseres Altbaus unter [diesem Bewerbungsformular](/bewerbung_ffw/).
+Beachte, dass für die sozialen Mietwohnungen ein [anderes Bewerbungsformular](/bewerbung_sowobau/) vorhanden ist.
 Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
 - [Bewerbung für das Orientierungsjahr](https://faltr.de/)
 - [Bewerbung für das Wohnheim](/bewerbung)
@@ -165,14 +162,14 @@ Nein, dies hat keinen Einfluss auf die Bewerbungschancen.
 Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person in einer Wohnung im CA leben kann.
 {{< /accordion >}}
 {{< accordion "Nach welchen Kriterien werden die Bewohner*innen ausgewählt?" >}}
-oNeben den formalen Vorgaben, suchen wir Menschen, die sich mit unserem Leitbild identifizieren,
+Neben den formalen Vorgaben suchen wir Menschen, die sich mit unserem Leitbild identifizieren,
 sich in der Selbstverwaltung einbringen und Verantwortung für das Wohnprojekt übernehmen.
 {{< /accordion >}}
 
 ### Fragen zum Einzug und zum Zusammenleben
 
 {{< accordion "Wann ist der Einzug in den Altbau geplant?" >}}
-Derzeit gehen wir von einer Vermietung ab Dezember 2023 aus.
+Derzeit gehen wir von einer Vermietung ab Januar 2024 aus.
 Da sich das Gebäude aber noch im Bau befindet, können wir noch kein sicheres Einzugsdatum ansetzen.
 Wenn du auf der Baustelle mithelfen willst, melde dich gerne unter collegiumacademicum@posteo.de
 {{< /accordion >}}
@@ -198,7 +195,7 @@ Arbeitsräume, Holz-, Metall- und Fahrradwerkstatt, Garten, und Waschraum.
 Nein. Die finanzielle Lage einer Person soll nicht dafür ausschlaggebend sein, ob sie in unserem Projekt leben kann.
 {{< /accordion >}}
 {{< accordion "Wir sind mehrere zusammengehörende Menschen mit/ohne Kind(ern)/Ich bin Alleinerziehend mit Kind(ern). Ich bin Senior/in. Können wir bzw. kann ich trotzdem einziehen?" >}}
-Gerade bei der Erstvermietung können wir gut ganze Wohnungen oder mehrere Zimmer in der gleichen Wohnung zusammen vermieten.
+Bei der Erstvermietung werden wir dir Wohnungen lediglich als ganzes vermieten und nicht einzelne Zimmer vergeben..
 In späteren Projektphasen kommt es darauf an, ob eine ganze Wohnung bzw. eine entsprechende Anzahl an Zimmern frei wird.
 Prinzipiell ist im Altbau das Zusammenleben in allen Lebenslagen möglich und wir freuen uns auf bunt gemischte WGs!
 {{< /accordion >}}
