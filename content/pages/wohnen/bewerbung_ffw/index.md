@@ -190,8 +190,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="contact_options">Wir vermieten Wohnungen als gesamtes und nicht an Einzelpersonen. Um deine Mitbewohnis zu finden, vernetzen wir euch über die Weitergabe deiner Handynummer/Email-Adresse. Wie können deine eventuellen zukünftigen Mitbewohnis dich erreichen? Gib hier bitte eine Handynummer und/oder eine Mailadresse von dir an.</label>
     <div class="control">
-        <textarea name="contact_options" class="textarea" placeholder=""
-            maxlength="200"></textarea>
+        <input name="contact_options" class="text" placeholder="" maxlength="200">
     </div>
 </div>
 <div class="field einzel">
@@ -339,8 +338,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     Falls ihr noch keine vollständige Gruppe seid und noch Mibewohnis sucht:
     Wie können euch andere Bewerber*innen erreichen? Gebt hier bitte von euch mindestens eine Handynummer und/oder eine Mailadresse an.</label>
     <div class="control">
-        <textarea name="contact_options" class="textarea" placeholder=""
-            maxlength="200"></textarea>
+        <input name="contact_options" class="input" type="text" placeholder="" maxlength="200">
     </div>
 </div>
 <div class="field gruppe">
