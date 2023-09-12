@@ -137,7 +137,6 @@ All people can apply for an apartment in the old building.
 {{< accordion "When are rooms or flats in the old building ready for occupancy?" >}}
 The flats are expected to be ready for occupation from 01.01.2024.
 We always try to advertise vacant accommodation as soon as possible.
-A list of current advertisements for flats or flat-shares in our old building can be found [here](link).
 We plan to organise viewing and get-to-know-you days every now and then.
 {{< /accordion >}}
 {{< accordion "How can I apply for one of the social rented flats?" >}}
