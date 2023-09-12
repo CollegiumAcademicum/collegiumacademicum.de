@@ -99,7 +99,7 @@ Zweites Obergeschoss
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|780 €|
-|**Nebenkosten**|Voraussichtlich 350 €|
+|**Nebenkosten**|Voraussichtlich 235 €|
 
 
 ### Wohnung 2 (6 Zimmer)
@@ -133,7 +133,7 @@ Maisonette-Wohnung, Zweites Obergeschoss bis Dachgeschoss
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|1910 €|
-|**Nebenkosten**|Voraussichtlich 790 €|
+|**Nebenkosten**|Voraussichtlich 510 €|
 
 Die Wohnung eignet sich gut für eine größere Wohngemeinschaft. Dabei ist uns prinzipiell egal, wie ihr die Zimmer aufteilt.
 Wir wünschen uns, dass mindestens fünf Personen in die Wohnung einziehen, da Wohnraum in Heidelberg knapp ist und wir

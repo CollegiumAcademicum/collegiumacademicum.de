@@ -76,7 +76,7 @@ Second floor
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|780 €|
-|**Incidental costs**|Expected 350 €|
+|**Incidental costs**|Expected 235 €|
 
 
 ### Apartment 2 (6 rooms)
@@ -110,7 +110,7 @@ Maisonette apartment, Second floor to attic floor
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Montly cold rent**|1910 €|
-|**Incidental costs**|Expected 790 €|
+|**Incidental costs**|Expected 510 €|
 
 The apartment is well suited for a bigger group living in a shared apartment.
 We would like at least five people to move into the flat, as accommodation are rare in Heidelberg and we would like to offer as many people as possible the opportunity to live in our project.
