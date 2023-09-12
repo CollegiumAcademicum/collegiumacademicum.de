@@ -104,7 +104,7 @@ Von diesen werden rund 50 Personen zwischen Schule und weiterem Lebensweg ein <a
 absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen, die eigene Persönlichkeit weiterzuentwickeln
 und Verantwortung in der Gesellschaft zu übernehmen.
 Das Orientierungsjahr ist ein wichtiger Bestandteil unseres <a href="/bildung/">Bildungskonzepts</a> und wird voraussichtlich im
-Winter 2023/2024 starten.
+Januar 2024 starten.
 <br><br>
 Die übrigen Wohnungen umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
 sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir <a href="https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html">sozialen Mietwohnraum</a> schaffen wollen.
