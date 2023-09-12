@@ -101,7 +101,7 @@ Ergeschoss, Nordwesten
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|570 €|
-|**Nebenkosten**|Voraussichtlich 370 €|
+|**Nebenkosten**|Voraussichtlich 260 €|
 
 
 ### Wohnung 2, EG SW (3 Zimmer)
@@ -127,7 +127,7 @@ Erdgeschoss, Südwesten
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|525 €|
-|**Nebenkosten**|Voraussichtlich 345 €|
+|**Nebenkosten**|Voraussichtlich 250 €|
 
 
 ### Wohnung 3, EG NO (4 Zimmer)
@@ -154,7 +154,7 @@ Erdgeschoss, Nordosten
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|890 €|
-|**Nebenkosten**|Voraussichtlich 540 €|
+|**Nebenkosten**|Voraussichtlich 375 €|
 
 ### Wohnung 4, EG SO (3 Zimmer)
 Erdgeschoss, Südosten
@@ -179,7 +179,7 @@ Erdgeschoss, Südosten
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|690 €|
-|**Nebenkosten**|Voraussichtlich 420 €|
+|**Nebenkosten**|Voraussichtlich 290 €|
 
 ### Wohnung 5, 1. OG NW (3 Zimmer)
 Erstes Obergeschoss, Nordwesten
@@ -206,7 +206,7 @@ Diese Wohnung ist nicht barrierefrei.
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monatliche Kaltmiete**|570 €|
-|**Nebenkosten**|Voraussichtlich 365 €|
+|**Nebenkosten**|Voraussichtlich 260 €|
 
 
 ### Wohnung 6, 1. OG SW (3 Zimmer)
@@ -233,5 +233,5 @@ Diese Wohnung ist nicht barrierefrei.
 
 |||
 |--------------------------|------------------------------------------------------------------------|
-|**Monatliche Kaltmiete**|570 €|
-|**Nebenkosten**|Voraussichtlich 365 €|
+|**Monatliche Kaltmiete**|505 €|
+|**Nebenkosten**|Voraussichtlich 250 €|

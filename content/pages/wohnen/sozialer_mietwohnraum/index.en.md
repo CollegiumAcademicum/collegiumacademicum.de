@@ -95,7 +95,7 @@ Ground floor, northwest
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|570 €|
-|**Incidental costs**|expected 370 €|
+|**Incidental costs**|expected 260 €|
 
 
 ### Apartment 2, G SW (3 Rooms)
@@ -121,7 +121,7 @@ Ground floor, southwest
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|525 €|
-|**Incidental costs**|expected 345 €|
+|**Incidental costs**|expected 250 €|
 
 
 ### Apartment 3, G NE (4 Rooms)
@@ -148,7 +148,7 @@ Ground floor, northeast
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|890 €|
-|**Incidental costs**|expected 540 €|
+|**Incidental costs**|expected 375 €|
 
 ### Apartment 4, G SE (3 Rooms)
 Ground floor, southeast
@@ -173,7 +173,7 @@ Ground floor, southeast
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|690 €|
-|**Incidental costs**|expected 420 €|
+|**Incidental costs**|expected 290 €|
 
 ### Apartment 5, 1 NW (3 Rooms)
 First floor, northwest
@@ -200,7 +200,7 @@ This apartment is not wheelchair accessible.
 |||
 |--------------------------|------------------------------------------------------------------------|
 |**Monthly cold rent**|570 €|
-|**Incidental costs**|expected 365 €|
+|**Incidental costs**|expected 260 €|
 
 
 ### Apartment 6, 1 SW (3 Rooms)
@@ -227,5 +227,5 @@ This apartment is not wheelchair accessible.
 
 |||
 |--------------------------|------------------------------------------------------------------------|
-|**Monthly cold rent**|570 €|
-|**Incidental costs**|expected 365 €|
+|**Monthly cold rent**|505 €|
+|**Incidental costs**|expected 250 €|
