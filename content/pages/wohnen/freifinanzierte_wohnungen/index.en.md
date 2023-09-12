@@ -5,13 +5,19 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
+You want to live self managed?
+You are interested in sustainable and ecological living in a community?
+Then we, the CA (Collegium Academicum), are the right place for you.
+We are an ecological and self-managed housing project and are looking for residents for our newly renovated building.
+<br><br>
 Our old building combines a variety of living concepts. In this way, we want to bring together different lifestyles and enable even more people to participate in communal, self-managed living.
+The old building will soon be filled with life through an <a href="/orientierungsjahr">orientation year</a> (50 young people),
+<a href="/sozialer_mietwohnraum">social housing</a> (6 apartments) and the two apartments described here.
+Unlike the adjacent new-build residential home, people of all ages and in all circumstances can move in here.
 <br><br>
 While the eastern part of the building is mainly intended for participants of the <a href="/orientation-year">Orientation Year</a>,
 the ground floor and the west of our old building contain flats that can function as a whole rented flat or as a shared flat.
 In addition, all residents of our project can benefit from large, versatile communal areas inside and outside our buildings.
-<br><br>
-Unlike the adjacent new-build residential home, people of all ages and in all circumstances can move in here.
 <br><br>
 All flats have the following address:
 
@@ -19,16 +25,8 @@ Ossip-Mandelstam-Straße 1 \
 69126 Heidelberg-Rohrbach
 </p>
 
-## The two unsubsidised apartments
-
 <p style="text-align:justify">
-You want to live self managed?
-You are interested in sustainable and ecological living in a community?
-Then we, the CA (Collegium Academicum), are the right place for you.
-We are an ecological and self-managed housing project and are looking for residents for our newly renovated building.
-It will be filled with life through an <a href="/orientierungsjahr">orientation year</a> (50 young people),
-<a href="/sozialer_mietwohnraum">social housing</a> (6 apartments) and the two apartments described here.
-<br><br>
+
 One 6-room flat and one 2-room flat on the 2nd and 3rd floor (see plans below) are not bound by the occupancy requirements of the social rental space subsidy.
 <br><br>
 The large flat (apartment 2) is intended for a shared flat: people who want to actively participate in the management of our old building and fill the CA with life should live together here.

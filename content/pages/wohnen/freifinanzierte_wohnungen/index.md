@@ -5,15 +5,20 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
+Du hast Lust auf Selbstverwaltung? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
+Dann bist du bei uns, dem CA (Collegium Academicum), genau richtig.
+Wir sind ein ökologisches und selbstverwaltetes Wohnprojekt und suchen Bewohner*innen für unseren frisch renovierten Altbau.
 Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir verschiedene Lebenswelten zusammenbringen und noch
 mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen.
+Durch ein <a href="/orientierungsjahr">Orientierungsjahr</a> (50 junge Menschen),
+<a href="/sozialer_mietwohnraum">sozialen Wohnungsbau</a> (sechs Wohnungen) und die zwei hier beschriebenen Wohnungen
+wird der Altbau bald mit Leben gefüllt.
+Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen.
 <br><br>
 Während der östliche Gebäudeteil hauptsächlich für Teilnehmer*innen des <a href="/orientierungsjahr">Orientierungsjahres</a> vorgesehen ist,
 befinden sich im Erdgeschoss und im Westen unseres Altbaus Wohnungen, die als ganze Mietwohnung oder als WG funktionieren können.
-Außerdem können alle Bewohner*innen unseres Projektes von großen, vielseitig nutzbaren Gemeinschaftsflächen im Innen-
-und Außenbereich unserer Gebäude profitieren.
-<br><br>
-Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen.
+<!--Außerdem können alle Bewohner*innen unseres Projektes von großen, vielseitig nutzbaren Gemeinschaftsflächen im Innen-
+und Außenbereich unserer Gebäude profitieren.-->
 <br><br>
 Alle Wohnungen haben die folgende Adresse:
 
@@ -24,12 +29,6 @@ Ossip-Mandelstam-Straße 1 \
 ## Die zwei ungeförderten Wohnungen
 
 <p style="text-align:justify">
-Du hast Lust auf Selbstverwaltung? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
-Dann bist du bei uns, dem CA (Collegium Academicum), genau richtig.
-Wir sind ein ökologisches und selbstverwaltetes Wohnprojekt und suchen Bewohner*innen für unseren frisch renovierten Altbau.
-Dieser wird durch ein <a href="/orientierungsjahr">Orientierungsjahr</a> (50 junge Menschen),
-<a href="/sozialer_mietwohnraum">sozialen Wohnungsbau</a> (sechs Wohnungen) und die zwei hier beschriebenen Wohnungen mit Leben gefüllt.
-
 Eine 6-Zimmer-Wohnung und eine 2-Zimmer-Wohnung im 2. und 3. OG (siehe Pläne) sind
 nicht an die Belegungsvorgaben der sozialen Mietraumförderung gebunden.
 <br><br>
@@ -69,7 +68,7 @@ Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der 
 Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
 
 
-Fortschritt Zimmerbelegung:
+Fortschritt Wohnungsbelegung:
 <div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="0" max="10"></progress>
   <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
