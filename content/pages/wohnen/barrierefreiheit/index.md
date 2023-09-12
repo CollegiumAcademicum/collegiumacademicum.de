@@ -30,7 +30,6 @@ Der Übergang vom Laubengang zu den Wohnungen ist bodengleich.
 Die Wohnungstüren haben eine Breite von 125 cm. Stufen im Gebäude werden kontrastreich gestaltet und Wege werden markiert.
 <br><br>
 Für den Zugang zum Altbau wurde an der Südseite des Gebäudes eine Rampe errichtet.
-<br><br>
 <!-- Barrierefreie Wohneinheiten im Altbau befinden sich sowohl im Erd- als auch im ersten Obergeschoss. -->
 Vier Wohneinheiten befinden sich im Erdgeschoss, diese sind über die Gemeinschaftsflächen erreichbar.
 Zwei weitere Wohneinheiten befinden sich im ersten Obergeschoss und sind über einen Treppenlift zugänglich.
