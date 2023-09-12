@@ -10,18 +10,14 @@ mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglic
 <br><br>
 Während der östliche Gebäudeteil hauptsächlich für Teilnehmer*innen des <a href="/orientierungsjahr">Orientierungsjahres</a> vorgesehen ist,
 befinden sich im Erdgeschoss und im Westen unseres Altbaus Wohnungen, die als ganze Mietwohnung oder als WG funktionieren können.
-Außerdem können alle Bewohner*innen unseres Projektes von großen, vielseitig nutzbaren Gemeinschaftsflächen im Innen-
-und Außenbereich unserer Gebäude profitieren.
-<br><br>
-Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen.
+<!--Außerdem können alle Bewohner*innen unseres Projektes von großen, vielseitig nutzbaren Gemeinschaftsflächen im Innen-
+und Außenbereich unserer Gebäude profitieren.-->
 <br><br>
 Alle Wohnungen haben die folgende Adresse:
 
 Ossip-Mandelstam-Straße 1 \
 69126 Heidelberg-Rohrbach
 </p>
-
-## Sozialer Mietwohnraum
 
 <p style="text-align:justify">
 Der größere Teil der Altbauwohnungen wird durch die
@@ -32,8 +28,7 @@ Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hi
 Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten findest du weiter unten auf dieser Seite.
 <br><br>
 <b>Wichtiger Hinweis:</b>
-Die Wohnungen sind NICHT Teil des Wohnheims für junge Menschen und jede Person, egal welchen Alters oder welcher Lebenslage,
-kann sich auf diese Wohnungen bewerben, wenn sie einen Wohnberechtigungsschein vorlegen kann.
+Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen, wenn sie einen Wohnberechtigungsschein vorlegen kann.
 Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen darf, findest du <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">hier</a>.
 </p>
 

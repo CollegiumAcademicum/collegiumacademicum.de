@@ -1,5 +1,5 @@
 ---
-title: "Social rental housing and further rooms"
+title: "Social rental housing"
 novoigl: yes
 slug: "rental-housing"
 ---
@@ -9,17 +9,13 @@ Our old building combines a variety of living concepts. In this way, we want to 
 <br><br>
 While the eastern part of the building is mainly intended for participants of the <a href="/orientation-year">Orientation Year</a>,
 the ground floor and the west of our old building contain flats that can function as a whole rented flat or as a shared flat.
-In addition, all residents of our project can benefit from large, versatile communal areas inside and outside our buildings.
-<br><br>
-Unlike the adjacent new-build residential home, people of all ages and in all circumstances can move in here.
+<!--In addition, all residents of our project can benefit from large, versatile communal areas inside and outside our buildings.-->
 <br><br>
 All flats have the following address:
 
 Ossip-Mandelstam-Straße 1 \
 69126 Heidelberg-Rohrbach
 </p>
-
-## Social rental housing
 
 <p style="text-align:justify">
 The majority of our flats in old buildings are subsidised by the <a href="https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/wohnungsbau/wohnraumfoerderung/mietwohnraumfoerderung/">Social Rental Housing Subsidy of the State of Baden Württemberg</a>.
@@ -29,10 +25,10 @@ Six flats, four of them on the ground floor and two on the first floor, are expe
 You can find an overview with floor plans, room sizes and rent levels further down on this page.
 <br><br>
 <b>Important note:</b>
-The flats are NOT part of the dormitory for young people and any person, regardless of age or situation in life, can apply for these flats if they can present a housing entitlement certificate.
+Unlike the adjacent new-build residential home, people of all ages and in all circumstances can move in here if they can present a housing entitlement certificate.
 For more information on who is eligible to live in socially subsidised rental housing, see <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">here</a>.
 
-Progress room occupancy:
+Progress occupancy:
 <div class="progress-wrapperEinzug">
   <progress class="progress is-large is-primary" value="0" max="20"></progress>
   <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
