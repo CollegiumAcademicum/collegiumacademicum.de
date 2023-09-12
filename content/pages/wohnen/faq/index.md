@@ -138,7 +138,6 @@ Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau be
 {{< accordion "Wann sind Zimmer oder Wohnungen im Altbau bezugsfertig?" >}}
 Die Wohnungen können voraussichtlich ab 01.01.2024 bezogen werden.
 Wir versuchen freiwerdenden Wohnraum immer so schnell wie möglich auszuschreiben.
-Eine Liste mit aktuellen Wohnungs- oder WG-Anzeigen aus unserem Altbau findest du [Hier](Link).
 Wir planen, immer wieder Besichtigungs- und Kennenlerntage zu veranstalten.
 {{< /accordion >}}
 {{< accordion "Wie kann ich mich auf eine der sozialen Mietwohnungen bewerben?" >}}
