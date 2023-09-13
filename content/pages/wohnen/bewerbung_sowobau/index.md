@@ -4,7 +4,7 @@ slug: "bewerbung_sowobau"
 novoigl: yes
 ---
 
-<form action="/website/bewerbung_sowobau/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung_sowobau/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass ihr Lust habt, in unser Wohnprojekt einzuziehen!
 
 Wir hoffen, dass die Wohnungen ab Januar 2024 bezugsfertig sind.
@@ -81,7 +81,7 @@ Falls ihr einziehen wollt, könnt ihr euch hier dafür bewerben:</p>
 <div class="field">
     <label class="label" for="wer">Erzählt uns mehr über euch! Wer und wie viele seid ihr?
     <div class="control">
-        <textarea name="wer" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="wer" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field">
@@ -99,7 +99,7 @@ Falls ihr einziehen wollt, könnt ihr euch hier dafür bewerben:</p>
 <div class="field">
     <label class="label" for="wohnvorstellung">Wie stellt ihr euch das Wohnen im CA vor?</label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -114,7 +114,7 @@ Falls ihr einziehen wollt, könnt ihr euch hier dafür bewerben:</p>
     <label class="label" for="info">Worüber habt ihr uns gefunden?</label>
     <div class="control">
         <textarea name="info" class="textarea" placeholder=""
-            maxlength="1000"></textarea>
+            maxlength="300"></textarea>
     </div>
 </div>
 <div class="field">

@@ -35,7 +35,7 @@ nicht an die Belegungsvorgaben der sozialen Mietraumförderung gebunden.
 Die große Wohnung (Wohnung 2) ist für eine WG gedacht: Hier sollen Menschen zusammenleben, die Lust haben, die Verwaltung
 unseres Altbaus aktiv mitzugestalten und das CA mit Leben zu füllen.
 <br><br>
-Zu den Räumen in der Wohnung kommen die vielen Gemeinschaftsräume hinzu, zu denen Du und deine Mitbewohner\*innen auch Zugang haben:
+Zu den Räumen in der Wohnung kommen die vielen Gemeinschaftsräume hinzu, zu denen Du und deine Mitbewohner*innen auch Zugang haben:
 Werkstätten, Aula, Multifunktionsraum, Seminarräume und Arbeitsräume.
 Außerdem gibt es zentrales Internet und genug (Garten-)Fläche zum Flanieren im Außenraum.
 Das Gebäude bedient sich einer ökologischen Bauweise: Dazu gehört ein Dämmstandard von KfW 55, Innenwände aus Stroh,
@@ -44,7 +44,7 @@ eine passive Lüftung, dreifach verglaste Fenster und Ökostrom vom eigenen Dach
 Es besteht keine Möglichkeit, die Wohnungen als Einzelperson zu mieten, da Wohnraum in Heidelberg knapp ist und wir
 möglichst vielen Menschen das Leben in unserem Projekt ermöglichen möchten.
 <br><br>
-Wir suchen Bewerber\*innen, die Lust auf Selbstverwaltung haben.
+Wir suchen Bewerber*innen, die Lust auf Selbstverwaltung haben.
 Das kann unter anderem eine Mitarbeit in Arbeitsgruppen mit Bezug auf Finanzierung, Öffentlichkeitsarbeit oder
 Mietverwaltung bedeuten, oder bei der Wartung und der Instandhaltung der Gebäude mitzuhelfen.
 Ihr solltet Lust auf eine bunte Hausgemeinschaft haben und damit rechnen, dass es mit dem im Altbau angesiedelten
