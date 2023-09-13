@@ -4,7 +4,7 @@ slug: "application_swb"
 novoigl: yes
 ---
 
-<form action="/website/bewerbung_sowobau/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung_sowobau/send.php" method="post" accept-charset="utf-8">
 <p>We're glad you're interested in moving into our housing project!
 
 We hope that the flats will be ready for occupancy from January 2024.
@@ -80,7 +80,7 @@ If you want to move in, you can apply here:</p>
 <div class="field">
     <label class="label" for="wer">Tell us about yourselves! Who and how many are you?
     <div class="control">
-        <textarea name="wer" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="wer" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field">
@@ -98,7 +98,7 @@ If you want to move in, you can apply here:</p>
 <div class="field">
     <label class="label" for="wohnvorstellung">How do you imagine living in CA? </label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -113,7 +113,7 @@ If you want to move in, you can apply here:</p>
     <label class="label" for="info">How did you find this apartment?</label>
     <div class="control">
         <textarea name="info" class="textarea" placeholder=""
-            maxlength="1000"></textarea>
+            maxlength="300"></textarea>
     </div>
 </div>
 <div class="field">

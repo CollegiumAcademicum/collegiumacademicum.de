@@ -14,8 +14,8 @@ $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['apartment', 'group', 'full_name', 'pronouns', 'email', 'age', 'mail', 'occupation',
-'leitbild', 'selbstverwaltung_experience', 'selbstverwaltung-tasks', 'wohnvorstellung',
-'contacts', 'sonstiges', 'barrier_free', 'children', 'language', 'spam_protection'];
+'characterise', 'leitbild', 'selbstverwaltung_experience', 'selbstverwaltung-tasks', 'wohnvorstellung',
+'long-term', 'contacts', 'sonstiges', 'barrier_free', 'children', 'language', 'spam_protection', 'contact_options'];
 
 $i18n = [
     "de" => [
@@ -25,24 +25,26 @@ $i18n = [
         "email" => "E-mail",
         "age" => "Geburtstag",
         "pronouns" => "Pronomen",
+        "characterise" => "Was macht euch aus?",
         "leitbild" => "Leitbild",
         "selbstverwaltung_experience" => "Vorerfahrung Selbstverwaltung",
         "selbstverwaltung_tasks" => "Aufgaben Selbstverwaltung",
         "wohnvorstellung" => "Wohnvorstellung",
+        "long-term" => "Langfristig?",
         "sonstiges" => "Über dich",
         "occupation" => "offizielle Tätigkeit",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "contacts" => "MitbewohnerInnen-Wunsch",
-        "contact_options" => "Kontaktoptionen,"
+        "contact_options" => "Kontaktoptionen",
         "language" => "Sprache",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
-	"spam-protection" => "spamschutz",
-        "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Bitte beachte, dass wir uns erst nach Ende der Bewerbungsfrist bei dir melden, weil wir je nach Anzahl der Bewerbungen ggf. auslosen müssen, welche Bewerber*innen wir zum Kennenlerntag einladen können. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
+        "spam-protection" => "spamschutz",
+        "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ findest du weitere Informationen zu unserer Datenschutzerklärung.",
-        "dear" => "Liebe*r",
+        "dear" => "Liebe*r"
     ],
     "en" => [
         "apartment" => "Apartment",
@@ -51,10 +53,12 @@ $i18n = [
         "email" => "E-mail",
         "birthday" => "Birthday",
         "pronouns" => "Pronouns",
+        "characterise" => "What characterises you?",
         "leitbild" => "Our Vision",
         "selbstverwaltung_experience" => "Experience Self-management",
         "selbstverwaltung_tasks" => "Tasks Self-management",
-        "wohnvorstellung" => "Living Idea"
+        "wohnvorstellung" => "Living Idea",
+        "long-term" => "Long-term?",
         "sonstiges" => "About you",
         "occupation" => "Occupation",
         "barrier_free" => "Accessibility",
@@ -64,8 +68,8 @@ $i18n = [
         "language" => "Language",
         "application" => "Application",
         "application-sent" => "en/application-sent",
-	"spam-protection" => "en/spam_protection",
-        "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our dormitory. With this message we confirm that we have received your application. Please note that we will only contact you after the application deadline, because depending on the number of applications, we may have to draw lots to decide which applicants we can invite to the get-to-know day. If you have any questions about your application, you can reply to this email.",
+        "spam-protection" => "en/spam_protection",
+        "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our dormitory. With this message we confirm that we have received your application. If you have any questions about your application, you can reply to this email.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We are keeping this data only for the duration of your application, after which it will be deleted. Please see https://collegiumacademicum.de/datenschutz/ for further information about our privacy policy.",
         "dear" => "Dear",

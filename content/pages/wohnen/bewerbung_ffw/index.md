@@ -47,7 +47,7 @@ novoigl: yes
         });
     });
 </script>
-<form action="/website/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen!
 
 Wir hoffen, dass die Wohnungen ab dem 01.01.2024 bezugsfertig sind.
@@ -141,26 +141,26 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind dir besonders
         wichtig, welchen Punkten stehst du kritisch gegenüber?</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
     <p class="help is-success">Schau dir <a href="/leitbild">Unser Leitbild</a> an.</p>
 </div>
 <div class="field einzel">
     <label class="label" for="selbstverwaltung_experience">Hast du bereits Vorerfahrung mit Selbstverwaltung? Wenn ja, welche?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field einzel">
     <label class="label" for="selbstverwaltung_tasks">Welche Aufgaben kannst du dir in der Selbstverwaltung vorstellen?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="100" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field einzel">
     <label class="label" for="wohnvorstellung">Wie stellst du dir das Wohnen im CA vor? (Nimm dir gerne etwas Zeit für die Antwort)</label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -176,7 +176,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="contacts">Bist du schon in Kontakt mit möglichen Mitbewohner*innen?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="wohnvorstellung">
+        <input class="input" type="text" placeholder="" maxlength="200" name="contacts" >
     </div>
     <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie du bewerben.</p>
 </div>
@@ -282,34 +282,33 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field gruppe">
     <label class="label" for="characterise">Was macht euch als Gruppe aus?</label>
     <div class="control">
-        <textarea name="characterise" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="characterise" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="leitbild">Welche Punkte an unserem Leitbild sind euch besonders
         wichtig, welchen Punkten steht ihr kritisch gegenüber?</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
     <p class="help is-success">Schau dir <a href="/leitbild">Unser Leitbild</a> an.</p>
 </div>
 <div class="field gruppe">
     <label class="label" for="selbstverwaltung_experience">Habt ihr bereits Vorerfahrung mit Selbstverwaltung? Wenn ja, welche?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="selbstverwaltung_tasks">Welche Aufgaben könnt ihr euch vorstellen, in der Selbstverwaltung des CA zu übernehmen?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="100" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="wohnvorstellung">Wie stellt ihr euch das Wohnen im CA vor? (Nehmt euch gerne etwas Zeit für die Antwort)</label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
-            maxlength="1000"></textarea>
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 
@@ -321,9 +320,9 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>
 <div class="field gruppe">
-    <label class="label" for="contacts">Habt ihr vor längerfristig hier zu wohnen?</label>
+    <label class="label" for="long-term">Habt ihr vor längerfristig hier zu wohnen?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="wohnvorstellung">
+        <input class="input" type="text" placeholder="" maxlength="200" name="long-term">
     </div>
 </div>
 <div class="field gruppe">

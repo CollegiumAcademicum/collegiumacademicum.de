@@ -47,7 +47,7 @@ novoigl: yes
         });
     });
 </script>
-<form action="/website/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
 <p>
 We're glad you're interested in moving into our housing project!
 
@@ -138,27 +138,26 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="leitbild">Which points in our guiding principle are particularly important to you, and which points are you critical of? </label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
     <p class="help is-success">Have a look at our <a href="/en/vision">vision</a></p>
 </div>
 <div class="field einzel">
     <label class="label" for="selbstverwaltung_experience">Do you have any previous experience with self-governance? If so, what is it? </label>
     <div class="control">
-        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field einzel">
     <label class="label" for="selbstverwaltung_tasks">Which tasks could you imagine to be responsible for in the self-administration? </label>
     <div class="control">
-        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="100" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field einzel">
     <label class="label" for="wohnvorstellung">How do you imagine living in CA? (take your time to answer) </label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
-            maxlength="1000"></textarea>
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 
@@ -172,7 +171,7 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="contacts">Are you already in contact with possible flatmates? If so, who are they?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="wohnvorstellung">
+        <input class="input" type="text" placeholder="" maxlength="200" name="contacts">
     </div>
 </div>
 <div class="field einzel">
@@ -273,32 +272,32 @@ If you want to move in, you can apply here:</p>
 <div class="field gruppe">
     <label class="label" for="characterise">What characterizes you as a group?</label>
     <div class="control">
-        <textarea name="characterise" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="characterise" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="leitbild">Which points in our guiding principle are particularly important to you, and which points are you critical of?</label>
     <div class="control">
-        <textarea name="leitbild" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="leitbild" class="textarea" placeholder="" minlength="200" maxlength="1000"></textarea>
     </div>
-    <p class="help is-success">Schau dir <a href="/leitbild">Unser Leitbild</a> an.</p>
-</div>
+     <p class="help is-success">Have a look at our <a href="/en/vision">vision</a></p>
+    </div>
 <div class="field gruppe">
     <label class="label" for="selbstverwaltung_experience">Do you have previous experience with self-governance? If yes, which one?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_experience" class="textarea" placeholder="" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="selbstverwaltung_tasks">Which tasks could you imagine to be responsible for in the self-administration?</label>
     <div class="control">
-        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="300" maxlength="1000"></textarea>
+        <textarea name="selbstverwaltung_tasks" class="textarea" placeholder="" minlength="100" maxlength="1000"></textarea>
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="wohnvorstellung">How do you imagine living in CA? (take your time to answer) </label>
     <div class="control">
-        <textarea name="wohnvorstellung" class="textarea" placeholder=""
+        <textarea name="wohnvorstellung" class="textarea" placeholder="" minlength="200"
             maxlength="1000"></textarea>
     </div>
 </div>
@@ -311,9 +310,9 @@ If you want to move in, you can apply here:</p>
     </div>
 </div>
 <div class="field gruppe">
-    <label class="label" for="contacts">Do you plan to live here for a longer period of time?</label>
+    <label class="label" for="long-term">Do you plan to live here for a longer period of time?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="wohnvorstellung">
+        <input class="input" type="text" placeholder="" maxlength="200" name="long-term">
     </div>
 </div>
 <div class="field gruppe">
