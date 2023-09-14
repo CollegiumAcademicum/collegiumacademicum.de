@@ -33,10 +33,16 @@ Falls ihr einziehen wollt, könnt ihr euch hier dafür bewerben:</p>
         <input class="input" type="text" placeholder="" maxlength="60" name="pronouns">
     </div>
 </div>
-<div class="field">
+<!--<div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+    </div>
+</div>-->
+<div class="field gruppe">
+    <label class="label" for="age">Alter *</label>
+    <div class="control">
+        <input class="input required" type="text" id="age" name="age" placeholder="" required maxlength="200" />
     </div>
 </div>
 <div class="field">
