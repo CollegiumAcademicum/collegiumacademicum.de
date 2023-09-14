@@ -190,7 +190,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="contact_options">Wir vermieten Wohnungen als gesamtes und nicht an Einzelpersonen. Um deine Mitbewohnis zu finden, vernetzen wir euch über die Weitergabe deiner Handynummer/Email-Adresse. Wie können deine eventuellen zukünftigen Mitbewohnis dich erreichen? Gib hier bitte eine Handynummer und/oder eine Mailadresse von dir an.</label>
     <div class="control">
-        <input name="contact_options" class="text" placeholder="" maxlength="200">
+        <input name="contact_options" class="input" type="text" placeholder="" maxlength="200">
     </div>
 </div>
 <div class="field einzel">
@@ -263,9 +263,9 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
     </div>
 </div>-->
 <div class="field gruppe">
-    <label class="label" for="age">Geburtstag *</label>
+    <label class="label" for="age">Alter *</label>
     <div class="control">
-        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+        <input class="input required" type="text" id="age" name="age" placeholder="" required maxlength="200" />
     </div>
 </div>
 <div class="field gruppe">
