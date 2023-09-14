@@ -14,13 +14,13 @@ $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['apartment', 'group_size', 'full_name', 'pronouns', 'email', 'age', 'mail', 'wer', 'wohnvorstellung',
-'sonstiges', 'barrier_free', 'children', 'spam_protection'];
+'sonstiges', 'barrier_free', 'info', 'spam_protection'];
 
 $i18n = [
     "de" => [
         "apartment" => "Wohnung",
         "group_size" => "Gruppengröße",
-        "full_name" => "Name",
+        "full_name" => "Namen",
         "email" => "E-mail",
         "age" => "Alter",
         "pronouns" => "Pronomen",
@@ -28,11 +28,11 @@ $i18n = [
         "wer" => "Wer seid ihr?",
         "wohnvorstellung" => "Wohnvorstellung",
         "sonstiges" => "Sonstiges",
-        "info" => "Wie haben Sie uns gefunden",
+        "info" => "Wie habt ihr uns gefunden?",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "application" => "Bewerbung",
-        "application-sent" => "bewerbung-verschickt",
+        "application-sent" => "bewerbung-verschickt-altbau",
 	    "spam-protection" => "spamschutz",
         "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
@@ -42,7 +42,7 @@ $i18n = [
     "en" => [
         "apartment" => "Apartment",
         "group_size" => "Group size",
-        "full_name" => "Name",
+        "full_name" => "Names",
         "email" => "E-mail",
         "age" => "Age",
         "pronouns" => "Pronouns",
@@ -53,7 +53,7 @@ $i18n = [
         "barrier_free" => "Accessibility",
         "children" => "Children",
         "application" => "Application",
-        "application-sent" => "en/application-sent",
+        "application-sent" => "en/application-sent-old-building",
 	    "spam-protection" => "en/spam_protection",
         "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our dormitory. With this message we confirm that we have received your application. If you have any questions about your application, you can reply to this email.",
         "with-data" => "We received the following data:",

@@ -15,13 +15,13 @@ $log_file = 'spam-protection.log';
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['apartment', 'group', 'full_name', 'pronouns', 'email', 'age', 'mail', 'occupation',
 'characterise', 'leitbild', 'selbstverwaltung_experience', 'selbstverwaltung-tasks', 'wohnvorstellung',
-'long-term', 'contacts', 'sonstiges', 'barrier_free', 'children', 'language', 'spam_protection', 'contact_options'];
+'long-term', 'contacts', 'sonstiges', 'barrier_free', 'contact_options', 'spam_protection'];
 
 $i18n = [
     "de" => [
         "apartment" => "Wohnung",
-        "group" => "als Gruppe",
-        "full_name" => "Name",
+        "group" => "Alleine oder als Gruppe?",
+        "full_name" => "Namen",
         "email" => "E-mail",
         "age" => "Alter",
         "pronouns" => "Pronomen",
@@ -32,14 +32,14 @@ $i18n = [
         "wohnvorstellung" => "Wohnvorstellung",
         "long-term" => "Langfristig?",
         "sonstiges" => "Über dich",
-        "occupation" => "offizielle Tätigkeit",
+        "occupation" => "Offizielle Tätigkeit",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "contacts" => "MitbewohnerInnen-Wunsch",
         "contact_options" => "Kontaktoptionen",
         "language" => "Sprache",
         "application" => "Bewerbung",
-        "application-sent" => "bewerbung-verschickt",
+        "application-sent" => "bewerbung-verschickt-altbau",
         "spam-protection" => "spamschutz",
         "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
@@ -48,8 +48,8 @@ $i18n = [
     ],
     "en" => [
         "apartment" => "Apartment",
-        "group" => "as a group",
-        "full_name" => "Name",
+        "group" => "Alone or as a group",
+        "full_name" => "Names",
         "email" => "E-mail",
         "age" => "Alter",
         "pronouns" => "Pronouns",
@@ -64,10 +64,10 @@ $i18n = [
         "barrier_free" => "Accessibility",
         "children" => "Children",
         "contacts" => "Roommate wish",
-        "contact_options" => "contact options",
+        "contact_options" => "Contact options",
         "language" => "Language",
         "application" => "Application",
-        "application-sent" => "en/application-sent",
+        "application-sent" => "en/application-sent-old-building",
         "spam-protection" => "en/spam_protection",
         "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our dormitory. With this message we confirm that we have received your application. If you have any questions about your application, you can reply to this email.",
         "with-data" => "We received the following data:",
