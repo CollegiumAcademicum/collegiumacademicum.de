@@ -21,19 +21,17 @@ novoigl: yes
         const groupReq = document.getElementsByClassName("groupreq");
         const alleinReq= document.getElementsByClassName("einzrequ");
         function turnControllOn(element){
-            var controlDivs=element.querySelectorAll(".controlOff");
-            controlDivs.forEach(function(controlDiv) {
+            var controlDivs=element.getElementsByTagName("input");
+            Array.from(controlDivs).forEach(function(controlDiv) {
                     // Remove the old class "control"
-                controlDiv.classList.remove("controlOff");
-                controlDiv.classList.add("control");
+                controlDiv.disabled=false;
                 });
         };
         function turnControllOff(element){
-            var controlDivs=element.querySelectorAll(".control");
-            controlDivs.forEach(function(controlDiv) {
+            var controlDivs=element.getElementsByTagName("input");
+            Array.from(controlDivs).forEach(function(controlDiv) {
                     // Remove the old class "control"
-                controlDiv.classList.remove("control");
-                controlDiv.classList.add("controlOff");
+                controlDiv.disabled=true;
                 });
         };
         groupSelect.addEventListener("change", function () {
