@@ -18,6 +18,8 @@ novoigl: yes
         groupSelect.selectedIndex=-1;
         const alleinDiv = document.getElementsByClassName("einzel");
         const groupDiv = document.getElementsByClassName("gruppe");
+        const groupReq = document.getElementsByClassName("groupreq");
+        const alleinReq= document.getElementsByClassName("einzrequ");
 
         groupSelect.addEventListener("change", function () {
             if (groupSelect.value === "1") {
@@ -25,16 +27,28 @@ novoigl: yes
                 Array.from(alleinDiv).forEach(function(element) {
                 element.style.display = "block";
                 });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=true;
+                });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
                 });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=false;
+                })
             } else if (groupSelect.value === "2") {
                 console.log(2)
                 Array.from(alleinDiv).forEach(function(element) {
                 element.style.display = "none";
                 });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=false;
+                });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "block";
+                });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=true;
                 });
             } else {
                 Array.from(alleinDiv).forEach(function(element) {
@@ -43,6 +57,12 @@ novoigl: yes
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
                 });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=true;
+                });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=true;
+                });
             }
         });
     });
@@ -50,7 +70,7 @@ novoigl: yes
 <form action="/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen!
 
-Wir hoffen, dass die Wohnungen ab dem 01.01.2024 bezugsfertig sind.
+Wir hoffen, dass die Wohnungen ab dem 01.02.2024 bezugsfertig sind.
 Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 
 <h2>Allgemein</h2>
@@ -82,7 +102,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
-        <input type="text" name="full_name" value="" class="input required" maxlength="100" required/>
+        <input type="text" name="full_name" value="" class="input required einzrequ" maxlength="100" required/>
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -97,7 +117,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="email">E-Mail *</label>
     <div class="control has-icons-left">
-        <input type="email" name="email" value="" class="input required email"
+        <input type="email" name="email" value="" class="input required einzrequ email"
             id="email" size="55" required/>
         <span class="icon is-small is-left">
             <i class="icon-mail-alt"></i>
@@ -116,7 +136,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
-        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+        <input class="input required einzrequ" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
 </div>
 <!--<div class="field">
@@ -128,7 +148,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field einzel">
     <label class="label" for="occupation">Was ist deine hauptsächliche offizielle Tätigkeit? *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="occupation" required>
+        <input class="input required einzrequ" type="text" placeholder="" maxlength="200" name="occupation" required>
     </div>
     <p class="help">Bitte gib deine voraussichtliche Tätigkeit zum Zeitpunkt deines Einzugs an.</p>
 </div>
@@ -218,14 +238,14 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field gruppe">
     <label class="label" for="group_size">Wie viele seid ihr? *</label>
 	<div class="control">
-        <input type="number" name="group_size" value="" class="input required" required/>
+        <input type="number" name="group_size" value="" class="input required groupreq" required/>
     </div>
 </div>
 <!-- open as many name, pronoun, age and occupation fields as there are group members -->
 <div class="field gruppe">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
-        <input type="text" name="full_name" value="" class="input required" maxlength="100" required/>
+        <input type="text" name="full_name" value="" class="input required groupreq" maxlength="100" required/>
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -240,7 +260,7 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field gruppe">
     <label class="label" for="email">E-Mail (einer Person eurer Gruppe)*</label>
     <div class="control has-icons-left">
-        <input type="email" name="email" value="" class="input required email"
+        <input type="email" name="email" value="" class="input required groupreq email"
             id="email" size="55" required/>
         <span class="icon is-small is-left">
             <i class="icon-mail-alt"></i>
@@ -265,13 +285,13 @@ Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 <div class="field gruppe">
     <label class="label" for="age">Alter *</label>
     <div class="control">
-        <input class="input required" type="text" id="age" name="age" placeholder="" required maxlength="200" />
+        <input class="input groupreq required" type="text" id="age" name="age" placeholder="" required maxlength="200" />
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="occupation">Tätigkeiten? *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="800" name="occupation" required>
+        <input class="input groupreq" type="text" placeholder="" maxlength="800" name="occupation" required>
     </div>
 </div>
 
