@@ -18,6 +18,8 @@ novoigl: yes
         groupSelect.selectedIndex=-1;
         const alleinDiv = document.getElementsByClassName("einzel");
         const groupDiv = document.getElementsByClassName("gruppe");
+        const groupReq = document.getElementsByClassName("groupreq");
+        const alleinReq= document.getElementsByClassName("einzrequ");
 
         groupSelect.addEventListener("change", function () {
             if (groupSelect.value === "1") {
@@ -25,16 +27,28 @@ novoigl: yes
                 Array.from(alleinDiv).forEach(function(element) {
                 element.style.display = "block";
                 });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=true;
+                });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
                 });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=false;
+                })
             } else if (groupSelect.value === "2") {
                 console.log(2)
                 Array.from(alleinDiv).forEach(function(element) {
                 element.style.display = "none";
                 });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=false;
+                });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "block";
+                });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=true;
                 });
             } else {
                 Array.from(alleinDiv).forEach(function(element) {
@@ -42,6 +56,12 @@ novoigl: yes
                 });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
+                });
+                Array.from(alleinReq).forEach(function(element){
+                    element.required=true;
+                });
+                Array.from(groupReq).forEach(function(element){
+                    element.required=true;
                 });
             }
         });
@@ -83,7 +103,7 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
-        <input type="text" name="full_name" value="" class="input required" maxlength="100" required/>
+        <input type="text" name="full_name" value="" class="input required einzrequ" maxlength="100" required/>
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -98,7 +118,7 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="email">email *</label>
     <div class="control has-icons-left">
-        <input type="email" name="email" value="" class="input required email"
+        <input type="email" name="email" value="" class="input required einzrequ email"
             id="email" size="55" required/>
         <span class="icon is-small is-left">
             <i class="icon-mail-alt"></i>
@@ -116,7 +136,7 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="age">Birthday *</label>
     <div class="control">
-        <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+        <input class="input required einzrequ" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
 </div>
 <!--<div class="field">
@@ -128,7 +148,7 @@ If you want to move in, you can apply here:</p>
 <div class="field einzel">
     <label class="label" for="occupation">Occupation/Activity *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="200" name="occupation" required>
+        <input class="input einzrequ" type="text" placeholder="" maxlength="200" name="occupation" required>
     </div>
     <p class="help">Please indicate your expected activity at the time of your move-in.</p>
 </div>
@@ -218,7 +238,7 @@ If you want to move in, you can apply here:</p>
 <div class="field gruppe">
     <label class="label" for="full_name">Names *</label>
 	<div class="control has-icons-left">
-        <input type="text" name="full_name" value="" class="input required" maxlength="100" required/>
+        <input type="text" name="full_name" value="" class="input groupreq required" maxlength="100" required/>
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -233,7 +253,7 @@ If you want to move in, you can apply here:</p>
 <div class="field gruppe">
     <label class="label" for="email">Email (of one person of your goup) *</label>
     <div class="control has-icons-left">
-        <input type="email" name="email" value="" class="input required email"
+        <input type="email" name="email" value="" class="input groupreq required email"
             id="email" size="55" required/>
         <span class="icon is-small is-left">
             <i class="icon-mail-alt"></i>
@@ -257,13 +277,13 @@ If you want to move in, you can apply here:</p>
 <div class="field gruppe">
     <label class="label" for="age">Birthdays *</label>
     <div class="control">
-        <input class="input required" type="text" placeholder="" maxlength="200" name="age" required />
+        <input class="input required groupreq" type="text" placeholder="" maxlength="200" name="age" required />
     </div>
 </div>
 <div class="field gruppe">
     <label class="label" for="occupation">Occupations/Activities *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="800" name="occupation" required>
+        <input class="input groupreq" type="text" placeholder="" maxlength="800" name="occupation" required>
     </div>
 </div>
 
