@@ -20,42 +20,61 @@ novoigl: yes
         const groupDiv = document.getElementsByClassName("gruppe");
         const groupReq = document.getElementsByClassName("groupreq");
         const alleinReq= document.getElementsByClassName("einzrequ");
-
+        function turnControllOn(element){
+            var controlDivs=element.querySelectorAll(".controlOff");
+            controlDivs.forEach(function(controlDiv) {
+                    // Remove the old class "control"
+                controlDiv.classList.remove("controlOff");
+                controlDiv.classList.add("control");
+                });
+        };
+        function turnControllOff(element){
+            var controlDivs=element.querySelectorAll(".control");
+            controlDivs.forEach(function(controlDiv) {
+                    // Remove the old class "control"
+                controlDiv.classList.remove("control");
+                controlDiv.classList.add("controlOff");
+                });
+        };
         groupSelect.addEventListener("change", function () {
             if (groupSelect.value === "1") {
-                console.log(1)
                 Array.from(alleinDiv).forEach(function(element) {
-                element.style.display = "block";
+                    element.style.display = "block";
+                    turnControllOn(element);
                 });
                 Array.from(alleinReq).forEach(function(element){
                     element.required=true;
                 });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
+                    turnControllOff(element);
                 });
                 Array.from(groupReq).forEach(function(element){
                     element.required=false;
                 })
             } else if (groupSelect.value === "2") {
-                console.log(2)
                 Array.from(alleinDiv).forEach(function(element) {
-                element.style.display = "none";
+                    element.style.display = "none";
+                    turnControllOff(element);
                 });
                 Array.from(alleinReq).forEach(function(element){
                     element.required=false;
                 });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "block";
+                    turnControllOn(element);
                 });
                 Array.from(groupReq).forEach(function(element){
                     element.required=true;
                 });
             } else {
                 Array.from(alleinDiv).forEach(function(element) {
-                element.style.display = "none";
+                    element.style.display = "none";
+                    turnControllOff(element);
                 });
                 Array.from(groupDiv).forEach(function(element){
                     element.style.display = "none";
+                    turnControllOff(element);
                 });
                 Array.from(alleinReq).forEach(function(element){
                     element.required=true;
