@@ -14,7 +14,7 @@ $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['apartment', 'group', 'full_name', 'pronouns', 'email', 'age', 'mail', 'occupation',
-'characterise', 'leitbild', 'selbstverwaltung_experience', 'selbstverwaltung-tasks', 'wohnvorstellung',
+'characterise', 'leitbild', 'selbstverwaltung_experience', 'selbstverwaltung_tasks', 'wohnvorstellung',
 'long-term', 'sonstiges', 'barrier_free', 'contact_options', 'spam_protection'];
 
 $i18n = [
