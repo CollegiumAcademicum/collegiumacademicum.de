@@ -28,7 +28,7 @@ Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hi
 Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten findest du weiter unten auf dieser Seite.
 <br><br>
 <b>Wichtiger Hinweis:</b>
-Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen, wenn sie einen Wohnberechtigungsschein vorlegen kann.
+Anders als im angrenzenden Neubau-Wohnheim können hier Menschen in jedem Alter und in jeder Lebenslage einziehen, wenn sie einen Wohnberechtigungsschein vorlegen können.
 Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen darf, findest du <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">hier</a>.
 </p>
 
