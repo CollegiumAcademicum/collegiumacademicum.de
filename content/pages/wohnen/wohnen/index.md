@@ -7,7 +7,7 @@ novoigl: yes
 Wir bieten, gestalten und verwalten Wohnraum für ganz unterschiedliche Menschen.
 Das Wohnen im <a href="/wohnheim">Wohnheim</a> im Neubau ist an die berufliche oder akademische Ausbildung geknüpft, richtet
 sich also an Auszubildende, Studierende und Promovierende.
-Im Altbau spielt sich unser <a href="/orientierungsjahr">Orientierungsjahr falt*r</a>. Hier geht es für die
+Im Altbau spielt sich unser <a href="/orientierungsjahr">Orientierungsjahr falt*r</a> ab. Hier geht es für die
 Teilnehmenden neben Berufsorientierung und Persönlichkeitsentwicklung auch darum, ihre Rolle in der Gesellschaft zu
 finden und die soziale Transformation mitzutragen.
 Daneben gibt es im Altbau sechs sozial gebundene Mietwohnungen, die für Menschen mit Wohnberechtigungsschein vorgesehen sind.
