@@ -39,10 +39,12 @@ other = "Unterstützen Sie uns mit einem Direktkredit."
 
 [einziehen-message-aside]
 # other = "Wir haben ab dem 1. Januar 2024 wieder freie Zimmer in unserem Wohnheim. Hier kannst du dich dafür bewerben!"
-other = "Wir haben ab dem 1. Januar 2024 wieder freie Zimmer in unserem Wohnheim. Ab Anfang Oktober kannst du dich dafür bewerben. Hier findest du alle wichtigen Infos:"
+# other = "Wir haben ab dem 1. Januar 2024 wieder freie Zimmer in unserem Wohnheim. Ab Anfang Oktober kannst du dich dafür bewerben. Hier findest du alle wichtigen Infos:"
+other = "Du willst in eins unserer Gebäude einziehen? Hier findest du aktuelle Infos zu freien Zimmern und Wohnungen:"
 
 [einziehen-message-voigl]
-other = "Du hast Interesse daran, zum 1. Januar 2024 in unseren Neubau einzuziehen und unser selbstverwaltetes Wohnprojekt aktiv mitzugestalten?"
+# other = "Du hast Interesse daran, zum 1. Januar 2024 in unseren Neubau einzuziehen und unser selbstverwaltetes Wohnprojekt aktiv mitzugestalten?"
+other = "Du hast Interesse daran, in das Wohnheim im Neubau oder in eine unserer geförderten sozialen Mietwohnungen im Altbau zu ziehen?"
 
 [einziehen-message-voigl-button]
 # other = "Bewirb dich jetzt bei uns!"
@@ -82,7 +84,7 @@ other = "Das Orientierungsjahr"
 other = "Zum falt*r"
 
 [oj-message]
-other = "Im Herbst 2023 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
+other = "Im Winter 2023/2024 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
 
 [richtfest]
 other = "Richtfest"
@@ -151,3 +153,24 @@ other = "Wir bitten darum, eine FFP2-Maske zu tragen und nur nach einem negative
 
 [register-per-mail]
 other = "Anmelden per Mail an "
+
+[mehr]
+other = "Mehr"
+
+[header-wohnheim]
+other = "Wohnheim für junge Menschen"
+
+[pitch-wohnheim]
+other = "Innovativer Holzbau: Bezahlbarer Wohnraum für 176 junge Menschen und Räume für kreative Ideen und lebhaften Austausch."
+
+[header-sowobau]
+other = "Sozialer Mietwohnraum"
+
+[pitch-sowobau]
+other = "Wohnen ist Grundrecht: Wir schaffen im Altbau sozialen Mietwohnraum."
+
+[header-oj]
+other = "falt*r - Das Orientierungsjahr"
+
+[pitch-oj]
+other = "Sozialökologische Transformation, Demokratie, Gemeinschaft, Studien- und Ausbildungsorientierung: Das sind die Kernthemen des 10-monatigen Orientierungsjahres im Altbau, das bald mit dem ersten Jahrgang startet."

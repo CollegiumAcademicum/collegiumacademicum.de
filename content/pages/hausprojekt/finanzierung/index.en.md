@@ -23,9 +23,8 @@ Through adjustments and progress in planning, the exact numbers in our calculati
 In the new building, the construction work is already close to the finish line and also in the old building, we have 
 already placed orders for the majority of the construction work.
 This gives us a high degree of cost certainty. 
-[Here]({{< relref "/pages/hausprojekt/neubau"  >}} ) you can find further details regarding the architecture and 
-planning status of the new building. Information on the old buildings is provided
-[here]({{< relref "/pages/hausprojekt/altbauten"  >}} )
+[Here]({{< relref "/pages/hausprojekt/gebaeude"  >}} ) you can find further details regarding the architecture and
+planning status of our buildings.
 
 
 ## Funding sources
@@ -83,7 +82,7 @@ If you would also like to support us, you can find out more on the following pag
 
 Approximately €14.57 million of our project is covered by bank financing.
 For the planned low-energy standard KfW 40 Plus, a KfW-subsidy is implemented together with the [UmweltBank](https://www.umweltbank.de/).
-This subsidy is provided in the form of an interest subsidy and an annuity-reducing repayment bonus amounting to 15% of the loan amount.
+This subsidy is provided in the form of an interest subsidy and an annuity-reducing repayment bonus amounting to 25% of the loan amount.
 KfW funding is supplemented by house bank loans.
 
 #### Large old building

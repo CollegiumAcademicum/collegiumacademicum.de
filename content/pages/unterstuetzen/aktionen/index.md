@@ -6,8 +6,10 @@ aliases: [/summerschool/]
 
 ## HammerCAmps 2023
 
+<p style="text-align:justify">
 Der Einzug in den Neubau ist vollbracht, doch der nächste Meilenstein, die Fertigstellung unseres Altbaus, steht
-noch bevor, damit dort in wenigen Monaten unser Orientierungsjahr [falt*r](https://faltr.de/home) und der soziale Wohnungsbau Platz finden.
+noch bevor, damit dort in wenigen Monaten unser Orientierungsjahr <a href="https://faltr.de/home">falt*r</a> und der soziale Wohnungsbau Platz finden.
+</p>
 
 Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
 * **HammerCAmp** 1: 03.07. bis 09.07.2023
@@ -16,9 +18,11 @@ Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
 * **HammerCAmp** 4: 14.08. bis 20.08.2023
 * **HammerCAmp** 5: 04.09. bis 10.09.2023
 
+<p style="text-align:justify">
 Schwerpunkt werden Arbeiten im Innenraum und die Ausstattung des Altbaus sein. Das Ganze wird ergänzt durch gemeinsames
 veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis). Daneben wird es auch Raum für Workshops, Exkursionen, Filmabende, die ein oder andere Party
 und generell gemeinsame Freizeit geben.
+<p>
 
 Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf) und der [Link zur Anmeldung](https://app.guestoo.de/public/event/bf84e343-94e0-4cec-a5ec-a709190dc13a):
 
@@ -26,25 +30,27 @@ Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf) und der [Link z
 
 ## Partizipative Baustellen 2022
 
+<p style="text-align: justify">
 Von Juni bis August 2022, in der heißen Phase der Fertigstellung unseres Holz-Neubaus und des Beginns der Altbau-Sanierung,
 fanden unsere partizipativen Baustellen statt.
-
-Unser vierstöckiger [Neubau](/neubau) zeichnet sich neben dem nachhaltigen Baustoff Holz durch den Passivhausstandard, die hohe 
+<br><br>
+Unser vierstöckiger <a href="/neubau">Neubau</a> zeichnet sich neben dem nachhaltigen Baustoff Holz durch den Passivhausstandard, die hohe
 Rezyklierbarkeit, platzsparendes Wohnen und viel geteilte Gemeinschaftsfläche aus.
-
-In unserem großen [Altbau](/altbau/) soll ab Herbst 2023 ein Orientierungsjahr für junge Menschen zwischen Schule und weiterem 
-Ausbildungsschritt stattfinden ([Bildung](/bildung)).
-
+<br><br>
+In unserem großen <a href="/altbau/">Altbau</a> soll ab Herbst 2023 ein Orientierungsjahr für junge Menschen zwischen Schule und weiterem
+Ausbildungsschritt stattfinden <a href="/bildung">Bildung</a>.
+<br><br>
 Im Sinne der Selbstverwaltung und um die Baukosten niedrig zu halten, machen wir einen Teil der Arbeit in Eigenleistung.
 Konkret bauen wir zwei Drittel der Möbel selbst. Dazu haben wir eine CNC-Fräse angeschafft, mit der Bauteile vorgefertigt werden können.
-
+<br><br>
 Bei den partizipativen Baustellen haben wir im Neubau z.B. Schiebewände und Zwischenwände aufgebaut, Wände gestrichen 
 und Möbel transportiert. Im Altbau haben wir wiederum Wände eingerissen, Kabel abgebaut, Schutt abtransportiert und vieles mehr.
 Außerdem haben wir den Platz vor unserem Altbau neu gepflastert.
-
+<br><br>
 Der geschätzte Gesamtaufwand für die Eigenleistung liegt bei 15.000 Arbeitsstunden.
 Deshalb sind wir dankbar für die Teamarbeit und Mithilfe von allen Seiten, auch von Menschen außerhalb des CA.
 Die Teilnahme an unseren Aktionen beinhaltet Verpflegung (Frühstück, Mittagessen und Abendessen) sowie ein umfangreiches Rahmenprogramm und ist natürlich komplett kostenlos.
+</p>
 
 ### Rahmenprogramm
 - Mehrere Fahrrad-Reparatur-Workshops (Valentin Hanft, [URRmEL](http://www.urrmel.uni-hd.de/))
@@ -59,9 +65,10 @@ Die Teilnahme an unseren Aktionen beinhaltet Verpflegung (Frühstück, Mittagess
 
 ### Förderung
 
-Wir nahmen mit unseren vier partizipativen Baustellen an dem Programm [AUF!leben](https://www.auf-leben.org/) teil.
+<p style="text-align: justify">
+Wir nahmen mit unseren vier partizipativen Baustellen an dem Programm <a href="https://www.auf-leben.org/">AUF!leben</a> teil.
 AUF!leben – Zukunft ist jetzt. ist ein Programm der Deutschen Kinder- und Jugendstiftung, gefördert vom Bundesministerium für Familie, Senioren, Frauen und Jugend. Das Programm ist Teil des Aktionsprogramms Aufholen nach Corona der Bundesregierung.
-
+</p>
 <br>
 
 <a href="https://www.auf-leben.org/">
@@ -81,11 +88,14 @@ Hier unsere Ankündigung für die partizipativen Baustellen im Juni, Juli und Au
 
 ## Neujahrs-Workcamp 2021/2022
 
+<p style="text-align: justify">
 Unser härtestes Workcamp fand wohl um den Jahreswechsel 2021/2022 statt.
 Vom 29. Dezember 2021 bis zum 5. Januar 2022 trotzten wir Kälte und Regen und bauten fleißig Betten, führten 
 Streicharbeiten durch und nahmen die riesige Lieferung an Bodenbelägen entgegen.
 Dutzende 40-Kilo schwere Rollen mussten in Teamarbeit in den Neubau gewuchtet werden.
-Bei diesem Workcamp hatten wir auch ein [Filmteam von DMAX zu Gast](https://dmax.de/sendungen/helden-der-baustelle/immer-arger-mit-den-denkmalern/).
+Bei diesem Workcamp hatten wir auch ein
+<a href="https://dmax.de/sendungen/helden-der-baustelle/immer-arger-mit-den-denkmalern/">Filmteam von DMAX zu Gast</a>.
+</p>
 
 Das Highlight war natürlich die Silvester-Party!
 
@@ -95,10 +105,12 @@ Das Highlight war natürlich die Silvester-Party!
 
 ## Sommer-Workcamps 2021
 
+<p style="text-align: justify">
 Auch im Juni, August und September 2021 haben wir mehrtägige Workcamps veranstaltet, um größere Arbeitsschritte im CA zu erledigen und gleichzeitig eine tolle Zeit miteinander zu verbringen.
 Insgesamt vier Wochen verbrachten wir im Sommer auf der Baustelle.
-
+<br><br>
 Und hier unser Poster der beiden Summerschools Anfang September 2021: {{< pdf src="aktionen/Poster_Workcamps_2021_dt_en_small.pdf" >}}
+</p>
 
 ### Rahmenprogramm
 

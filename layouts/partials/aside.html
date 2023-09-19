@@ -4,8 +4,38 @@
       <a href="{{ with .Site.GetPage "/direktkredite" }}{{ .Permalink }}{{ end }}" class="button is-hidden-mobile is-fullwidth is-link">{{ i18n "direktkredit-geben" }}</a>
       <br>
       <a href="{{ with .Site.GetPage "/spenden" }}{{ .Permalink }}{{end}}" class="button is-hidden-mobile is-fullwidth is-link">{{ i18n "spenden" }}</a>
-	    
-   <div class="card">
+
+    <div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/oj_kloetzchen.png" | relURL }});"></div>
+        <div class="card-content">
+          <p class="title is-3 is-marginless">{{ i18n "orientierungsjahr" }}</p>
+          {{ i18n "oj-message"}}
+          <br>
+            <a href="https://faltr.de/home" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faltr" }}</a>
+        </div>
+      </div>
+
+    <div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
+        <div class="card-content">
+          <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
+          {{ i18n "einziehen-message-aside"}}
+            <a href="{{ with .Site.GetPage "/sozialer_mietwohnraum" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-sowobau" }}</a>
+            <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-wohnheim" }}</a>
+            <a href="{{ with .Site.GetPage "/faq" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faq" }}</a>
+        </div>
+      </div>
+
+    <div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/workcamps_v2.jpg" | relURL }});"></div>
+        <div class="card-content">
+          <p class="title is-3 is-marginless">{{ i18n "summerschool" }}</p>
+          {{ i18n "summerschool-message"}}
+          <a href="{{ with .Site.GetPage "/aktionen" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "informieren" }}</a>
+        </div>
+      </div>
+
+    <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/baustelle.jpg" | relURL }});"></div>
         <div class="card-content">
             <p class="title is-3 is-marginless">{{ i18n "exkursionen" }}</p>
@@ -21,37 +51,8 @@
             {{ i18n "register-per-mail"}} <a href="mailto:exkursion@collegiumacademicum.de">exkursion@collegiumacademicum.de</a>.
             <br>
             <br>
-            {{ i18n "exkursionen-where"}} <a href="https://collegiumacademicum.de/anfahrt/">Anfahrt</a>. 
+            {{ i18n "exkursionen-where"}} <a href="https://collegiumacademicum.de/anfahrt/">Anfahrt</a>.
             <br>
-        </div>
-      </div>
-
-    <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/oj_kloetzchen.png" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "orientierungsjahr" }}</p>
-          {{ i18n "oj-message"}}
-          <br>
-            <a href="https://faltr.de/home" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faltr" }}</a>
-        </div>
-      </div>
-
-    <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/workcamps_v2.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "summerschool" }}</p>
-          {{ i18n "summerschool-message"}}
-          <a href="{{ with .Site.GetPage "/aktionen" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "informieren" }}</a>
-        </div>
-      </div>
-
-    <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
-          {{ i18n "einziehen-message-aside"}}
-          <a href="{{ with .Site.GetPage "/einziehen" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "einziehen" }}</a>
-          <a href="{{ with .Site.GetPage "/faq" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faq" }}</a>
         </div>
       </div>
 
