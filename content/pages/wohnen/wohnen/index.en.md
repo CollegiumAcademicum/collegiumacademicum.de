@@ -4,15 +4,52 @@ slug: "living"
 novoigl: yes
 ---
 
-You are interested in moving into our dormitory? Here you can find all the important information as well as our application form.
+<p style="text-align:justify">
+We provide, design and manage housing for very different people.
+Living in the <a href="/dorm">dorm</a> in the new building is linked to vocational or academic training,
+so it is aimed at trainees, students and doctoral students.
+Our <a href="/orientation_year">orientation year falt*r</a> takes place in the old building.
+In addition to career orientation and personal development, the participants are also encouraged to find their role in
+society and to contribute to the social transformation.
+In addition, there are six socially committed rental flats in the old building, which are intended for people with a certificate of eligibility for housing.
+Last but not least, there is one large and one small unsubsidised flat in the old building. The only rental condition here
+is to actively participate in the self-management of the old building.
+</p>
+
+Are you looking for more information on living in the CA or would you like to move in yourself?
+Then you will find what you are looking for below:
 
 <div class="buttons is-centered">
-    <a href="{{< relref "/pages/wohnen/einziehen" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/wohnheim" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Moving in</span>
+        <span>Dorm</span>
     </a>
+    <a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Social rental housing</span>
+    </a>
+    <a href="{{< relref "/freifinanzierte_wohnungen" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Freely financed apartments</span>
+    </a>
+</div>
+
+<div class="buttons is-centered">
+    <a href="https://faltr.de/" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Orientation year</span>
+    </a>
+</div>
+
+<div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/faq" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>

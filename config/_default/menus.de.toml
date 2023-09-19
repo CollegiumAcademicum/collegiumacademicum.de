@@ -8,34 +8,29 @@
     url = "/hausprojekt"
     weight = 2
 [[main]]
-    name = "Neubau"
-    url = "/neubau"
+    name = "Unsere Gebäude"
+    url = "/gebaeude"
     weight = 1
-    parent = "Hausprojekt"
-[[main]]
-    name = "Altbauten"
-    url = "/altbauten"
-    weight = 2
     parent = "Hausprojekt"
 [[main]]
     name = "Bildung"
     url = "/bildung"
-    weight = 3
+    weight = 2
     parent = "Hausprojekt"
 [[main]]
     name = "Nachhaltigkeit"
     url = "/nachhaltigkeit"
-    weight = 4
+    weight = 3
     parent = "Hausprojekt"
 [[main]]
     name = "Selbstverwaltung"
     url = "/selbstverwaltung"
-    weight = 5
+    weight = 4
     parent = "Hausprojekt"
 [[main]]
     name = "Finanzierung"
     url = "/finanzierung"
-    weight = 6
+    weight = 5
     parent = "Hausprojekt"
 
 [[main]]
@@ -103,24 +98,34 @@
     url = "/wohnen"
     weight = 5
 [[main]]
-    name = "Einziehen"
-    url = "/einziehen"
+    name = "Wohnheim"
+    url = "/wohnheim"
     weight = 1
     parent = "Wohnen"
 [[main]]
-    name = "Bewerbung"
-    url = "/bewerbung"
+    name = "Sozialer Mietwohnraum"
+    url = "/sozialer_mietwohnraum"
     weight = 2
+    parent = "Wohnen"
+[[main]]
+    name = "Ungeförderte Wohnungen"
+    url = "/freifinanzierte_wohnungen"
+    weight = 3
+    parent = "Wohnen"
+[[main]]
+    name = "Orientierungsjahr"
+    url = "/orientierungsjahr"
+    weight = 4
     parent = "Wohnen"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 3
+    weight = 5
     parent = "Wohnen"
 [[main]]
     name = "Barrierefreiheit"
     url = "/barrierefreiheit"
-    weight = 4
+    weight = 6
     parent = "Wohnen"
 
 [[main]]

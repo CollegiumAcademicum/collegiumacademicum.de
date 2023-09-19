@@ -1,27 +1,29 @@
 .front-box
     position: relative
-    padding-top: 12em
+    padding-top: 3em
     margin-bottom: 3em
     overflow: hidden
+    +desktop
+        flex: 1 1 0px
+    +tablet
+        flex: 1 1 0px
     > div
         position: relative
         top: 0em
         background: $white
         padding: 1em 1em 0 0
-        +desktop
-            margin-right: 9em
         h2
             font-size: 3rem
             font-weight: 400
-            margin: 0 0 0 -0.2em
-            text-indent: 0.2em
+            margin: 0 0 0 0em
+            text-indent: 0em
             a
                 text-decoration: none
                 color: $black
         p
-            text-align: justify
+            text-align: left
     img
-        position: absolute
+        position: relative
         transition: 4 * $speed
         top: 2em
         right: 0
@@ -29,6 +31,13 @@
     &:hover
         img
             top: 1.3em
+
+.flex-container
+    display: flex
+    align-content: center
+    justify-content: center
+    +mobile
+        flex-direction: column
 
 // Modal
 .modal
@@ -231,6 +240,7 @@
 @font-face
     font-family: 'fontello'
     src: url('/fontello.woff2') format('woff2')
+    src: url('/fontello.woff') format('woff')
 
 [class^="icon-"]:before, [class*=" icon-"]:before
     font-family: "fontello"
@@ -269,7 +279,34 @@
     content: '\f16d'
 .icon-facebook-official:before
     content: '\f230'
-
+.icon-help:before
+    content: '\f128'
+.icon-wheelchair:before
+    content: '\f193'
+.icon-quote-left:before
+    content: '\f10d'
+.icon-share:before
+    content: '\f1e0'
+.icon-ok:before
+    content: '\e806'
+.icon-bicycle:before
+    content: '\f206'
+.icon-train:before
+    content: '\f238'
+.icon-subway:before
+    content: '\f239'
+.icon-youtube:before
+    content: '\f167'
+.icon-megaphone:before
+    content: '\f807'
+.icon-right-big:before
+    content: '\e808'
+.icon-link:before
+    content: '\e809'
+.icon-download:before
+    content: '\e80a'
+.icon-globe:before
+    content: '\e80b'
 .card
     box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,0.1),0 0px 0 1px rgba(10,10,10,0.02)
 

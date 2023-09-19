@@ -1,5 +1,6 @@
 ---
-title: "Bewerbung"
+title: "Bewerbung Wohnheim (Neubau)"
+slug: "bewerbung"
 novoigl: yes
 ---
 

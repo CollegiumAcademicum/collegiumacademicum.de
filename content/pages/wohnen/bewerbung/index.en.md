@@ -1,5 +1,6 @@
 ---
-title: "Application"
+title: "Application dormitory (new building)"
+slug: "application"
 novoigl: yes
 ---
 

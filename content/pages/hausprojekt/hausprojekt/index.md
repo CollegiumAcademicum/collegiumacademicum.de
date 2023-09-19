@@ -3,21 +3,11 @@ title: "Hausprojekt"
 ---
 
 <div class="front-box">
-    <a href="/neubau" ><img src="/hausprojekt/neubau.png"></a>
+    <a href="/gebaeude" ><img src="/gebaeude/uebersicht_2023.png"></a>
     <div>
-        <div><h2><a href="/neubau" >Neubau</a></h2></div>
+        <div><h2><a href="/gebaeude" >Gebäude</a></h2></div>
         <p>
-            Innovativer Holzbau: Bezahlbarer Wohnraum für 176 junge Menschen und Räume für kreative Ideen und lebhaften Austausch. <a class="mehr" href="/neubau" >Mehr...</a>
-        </p>
-    </div>
-</div>
-
-<div class="front-box">
-    <a href="/altbauten" ><img src="/hausprojekt/altbau.png"></a>
-    <div>
-        <div><h2><a href="/altbauten" >Altbau</a></h2></div>
-        <p>
-            Kreative Umnutzung: Zwei ehemals militärisch genutzten Gebäude werden saniert und werden ein innovatives Orientierungsjahr sowie ein Wohnheim für 75 junge Leute behausen. <a class="mehr" href="/altbauten" >Mehr...</a>
+            Ein innovativer Holz-Neubau und zwei ökologisch sanierte Altbauten gehören zu unserem Gebäudebestand. <a class="mehr" href="/neubau" >Mehr...</a>
         </p>
     </div>
 </div>

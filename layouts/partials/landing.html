@@ -1,0 +1,32 @@
+<div class="flex-container">
+<div class="front-box">
+    <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" ><img src="neubau.png"></a>
+    <div>
+        <div><h2><a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" >{{ i18n "header-wohnheim" }}</a></h2></div>
+        <p>
+            {{ i18n "pitch-wohnheim" }} <a class="mehr" href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
+        </p>
+    </div>
+</div>
+
+<div class="front-box">
+    <a href="/sozialer_mietwohnraum" ><img src="altbau.png"></a>
+    <div>
+        <div><h2><a href="{{ with .Site.GetPage "/sozialer_mietwohnraum" }}{{ .Permalink }}{{end}}" >{{ i18n "header-sowobau" }}</a></h2></div>
+        <p>
+             {{ i18n "pitch-sowobau" }} <a class="mehr" href="{{ with .Site.GetPage "/sozialer_mietwohnraum" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
+            <br>
+        </p>
+    </div>
+</div>
+
+<div class="front-box">
+    <a href="/orientierungsjahr" ><img src="faltr.png"></a>
+    <div>
+        <div><h2><a href="{{ with .Site.GetPage "/orientierungsjahr" }}{{ .Permalink }}{{end}}" >{{ i18n "header-oj" }}</a></h2></div>
+        <p>
+             {{ i18n "pitch-oj" }} <a class="mehr" href="{{ with .Site.GetPage "/orientierungsjahr" }}{{ .Permalink }}{{end}}" >{{ i18n "mehr" }}...</a>
+        </p>
+    </div>
+</div>
+</div>
