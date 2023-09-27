@@ -3,13 +3,13 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-require '../../php_libs/PHPMailer/src/Exception.php';
-require '../../php_libs/PHPMailer/src/PHPMailer.php';
-require '../../php_libs/PHPMailer/src/SMTP.php';
+require '../php_libs/PHPMailer/src/Exception.php';
+require '../php_libs/PHPMailer/src/PHPMailer.php';
+require '../php_libs/PHPMailer/src/SMTP.php';
 
-require_once '../../php_libs/formr/class.formr.php';
+require_once '../php_libs/formr/class.formr.php';
 
-require '../../php_libs/IPLogger/ip-logging.php';
+require '../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection

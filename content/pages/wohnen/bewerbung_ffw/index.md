@@ -26,9 +26,19 @@ novoigl: yes
                     // Remove the old class "control"
                 controlDiv.disabled=false;
                 });
+            var controlDivs=element.getElementsByTagName("textarea");
+            Array.from(controlDivs).forEach(function(controlDiv) {
+                    // Remove the old class "control"
+                controlDiv.disabled=false;
+                });
         };
         function turnControllOff(element){
             var controlDivs=element.getElementsByTagName("input");
+            Array.from(controlDivs).forEach(function(controlDiv) {
+                    // Remove the old class "control"
+                controlDiv.disabled=true;
+                });
+            var controlDivs=element.getElementsByTagName("textarea");
             Array.from(controlDivs).forEach(function(controlDiv) {
                     // Remove the old class "control"
                 controlDiv.disabled=true;
