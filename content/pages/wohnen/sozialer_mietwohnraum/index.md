@@ -61,6 +61,8 @@ die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltung
 Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
 <br><br>
 Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
+</br>
+Bitte geht, bevor ihr euch für eine Wohnung bewerbt, sicher, dass die Personenzahl und die Quadratmeterzahl auf eurem Wohnberechtigungsschein mit unseren Wohnungen übereinstimmt.
 </p>
 
 <div class="buttons is-centered">

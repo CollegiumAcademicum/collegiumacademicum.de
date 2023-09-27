@@ -55,6 +55,8 @@ Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacadem
 </p>
 
 You want to apply with us with a housing entitlement certificate?
+<br/>
+Before applying for an apartment, please make sure that the number of people and square footage on your housing entitlement certificate matches our apartments.
 </p>
 
 <div class="buttons is-centered">
