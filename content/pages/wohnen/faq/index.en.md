@@ -39,7 +39,7 @@ Yes, the dormitory has a fast central internet connection (fiber optics) and all
 ### Questions about the application
 
 {{< accordion "When are there vacant rooms in the dormitory?" >}}
-We are regularly looking for new residents to fill vacant rooms. Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). You can find the next move-in date [on this page](/en/moving-in).
+We are regularly looking for new residents to fill vacant rooms. Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). You can find the next move-in date [on this page](/en/dorm).
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
 We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
@@ -58,9 +58,6 @@ Responsible for the organization of the application process and for the selectio
 {{< /accordion >}}
 {{< accordion "What if I didn't get a place in the dormitory at the application day?" >}}
 All selected applicants who have not received an acceptance can be added to our waiting list. We assign places via the waiting list if rooms become vacant at short notice before the next move-in date, but this will only happen in exceptional cases. So it is rather unlikely to get a place in the dormitory via the waiting list. The waiting list will be emptied after 3 months. You are allowed to reapply on every move-in date and you are always welcome to participate in our project independent of that.
-{{< /accordion >}}
-{{< accordion "Can I apply now if I want to move in only by January 2024?" >}}
-No, that is not possible at the moment. An application will probably be possible from the beginning of October. Please register in our newsletter [on this page](/en/moving-in), then we will inform you as soon as you can apply.
 {{< /accordion >}}
 {{< accordion "Can I apply even if I am not studying or doing an apprenticeship?" >}}
 This is only possible in very few exceptional cases for people who are structurally strongly disadvantaged on the housing market and are in another type of training/study (e.g. German course, FSJ or similar). The particular disadvantage as well as the current main occupation must be briefly described in addition to the application informally via email to einziehen@collegiumacademicum.de.

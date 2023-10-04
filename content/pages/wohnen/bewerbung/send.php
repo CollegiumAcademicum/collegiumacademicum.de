@@ -14,8 +14,8 @@ $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
-'sonstiges', 'occupation', 'occupation_subject', 'gender',
-'barrier_free', 'children', 'contacts', 'language', 'spam_protection'];
+'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'gender',
+'barrier_free', 'children', 'contacts', 'language_application_day', 'spam_protection'];
 
 $i18n = [
     "de" => [
@@ -25,13 +25,14 @@ $i18n = [
         "leitbild" => "Leitbild",
         "selbstverwaltung" => "Selbstverwaltung",
         "sonstiges" => "Über dich",
+        "activity_in_ca" => "Aktivität im CA",
         "occupation" => "offizielle Tätigkeit",
         "occupation_subject" => "Fach/Beruf",
         "gender" => "Geschlecht",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "contacts" => "MitbewohnerInnen-Wunsch",
-        "language" => "Sprache",
+        "language_application_day" => "Sprache",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
 	"spam-protection" => "spamschutz",
@@ -48,13 +49,14 @@ $i18n = [
         "leitbild" => "Our Vision",
         "selbstverwaltung" => "Self-management",
         "sonstiges" => "About you",
+        "activity_in_ca" => "Activity in CA",
         "occupation" => "Occupation",
         "occupation_subject" => "Subject/Job",
         "gender" => "Gender",
         "barrier_free" => "Accessibility",
         "children" => "Children",
         "contacts" => "Roommate wish",
-        "language" => "Language",
+        "language_application_day" => "Language",
         "application" => "Application",
         "application-sent" => "en/application-sent",
 	"spam-protection" => "en/spam-protection",
