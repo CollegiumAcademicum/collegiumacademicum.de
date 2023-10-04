@@ -58,7 +58,7 @@ Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital wird in den nächs
 sein, mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unserem Neubau nebenan eine große Aula,
 die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
 <br><br>
-Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
+Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> oder ruft uns an unter <a href="tel:062214312480">06221 4312480</a>.
 <br><br>
 Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
 </br>

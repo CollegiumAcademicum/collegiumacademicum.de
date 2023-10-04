@@ -51,7 +51,7 @@ You should have a desire for a colourful house community and expect that with th
 Due to our location on the conversion site of the US Hospital, there will soon be frequent construction sites around us, with the accompanying noise.
 In addition, there is a large assembly hall in our new building next door, which is regularly used for events (parties and other evening events as well).
 <br><br>
-Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
+Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> or call us <a href="tel:062214312480">06221 4312480</a>.
 </p>
 
 You want to apply with us with a housing entitlement certificate?

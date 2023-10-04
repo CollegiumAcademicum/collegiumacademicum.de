@@ -53,6 +53,8 @@ Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital wird in den nächs
 Baustelle sein, mit den damit einhergehenden Geräuschen.
 Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen (auch abends) genutzt wird.
 <br><br>
+Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> oder ruft uns an unter <a href="tel:062214312480">06221 4312480</a>.
+<br>
 Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
 </p>
 
