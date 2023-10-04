@@ -31,6 +31,8 @@ One 6-room flat and one 2-room flat on the 2nd and 3rd floor (see plans below) a
 <br><br>
 The large flat (apartment 2) is intended for a shared flat: people who want to actively participate in the management of our old building and fill the CA with life should live together here.
 <br><br>
+Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> or call us <a href="tel:062214312480">06221 4312480</a>.   
+<br>
 You want to be part of our project and can imagine living in one of the two unsubsidised flats in an old building?
 </p>
 
