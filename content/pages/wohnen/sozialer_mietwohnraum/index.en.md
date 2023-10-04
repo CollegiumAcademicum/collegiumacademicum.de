@@ -3,6 +3,7 @@ title: "Social rental housing"
 novoigl: yes
 slug: "rental-housing"
 ---
+**We are currently not accepting any further applications.**
 
 <p style="text-align:justify">
 Our old building combines a variety of living concepts. In this way, we want to bring together different lifestyles and enable even more people to participate in communal, self-managed living.
@@ -57,16 +58,6 @@ Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacadem
 You want to apply with us with a housing entitlement certificate?
 <br/>
 Before applying for an apartment, please make sure that the number of people and square footage on your housing entitlement certificate matches our apartments.
-</p>
-
-<div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>This way!</span>
-    </a>
-</div>
 
 After applying, you will be invited to a guided tour of the building and our grounds, which will take place in October.
 

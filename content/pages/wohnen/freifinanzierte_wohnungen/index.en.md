@@ -45,7 +45,7 @@ You want to be part of our project and can imagine living in one of the two unsu
     </a>
 </div>
 
-After applying, you will be invited to a guided tour of the building and our grounds, which will take place in October.
+After applying, you will be invited to a guided tour of the building and our grounds, which will take place in November.
 
 Progress occupancy:
 <div class="progress-wrapperEinzug">
