@@ -3,6 +3,7 @@ title: "Sozialer Mietwohnraum"
 slug: "sozialer_mietwohnraum"
 novoigl: yes
 ---
+**Aktuell nehmen wir keine weiteren Bewerbungen entgegen.**
 
 <p style="text-align:justify">
 Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir verschiedene Lebenswelten zusammenbringen und noch
@@ -63,16 +64,6 @@ Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegi
 Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
 </br>
 Bitte geht, bevor ihr euch für eine Wohnung bewerbt, sicher, dass die Personenzahl und die Quadratmeterzahl auf eurem Wohnberechtigungsschein mit unseren Wohnungen übereinstimmt.
-</p>
-
-<div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_sowobau" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Hier entlang!</span>
-    </a>
-</div>
 
 Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
 

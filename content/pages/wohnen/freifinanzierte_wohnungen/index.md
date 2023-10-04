@@ -67,7 +67,7 @@ Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der 
     </a>
 </div>
 
-Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
+Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im November stattfindet.
 
 
 Fortschritt Wohnungsbelegung:
