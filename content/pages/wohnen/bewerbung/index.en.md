@@ -4,7 +4,7 @@ slug: "application"
 novoigl: yes
 ---
 
-<form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). The next possible move-in date is January 1, 2024. If you would like to move in in January, you can apply here until Friday, November 3, 2023 at the latest.</p>
