@@ -9,7 +9,7 @@ aliases: [/summerschool/]
 <div style="width: 100%; margin: 1em 0.5em; overflow:auto">
 <div style="width: 33%; float: left;text-align:justify; overflow:auto">
         <figure>
-    <img alt="Holzplatten tragen beim HammerCAmp" style="float: right;" src="/aktuelles/IMG20230816145459_enhance.jpg" width="90%" />
+    <img alt="Holzplatten tragen beim HammerCAmp" style="float: right;" src="/aktuelles/hammercamp_holzplatten.jpg" width="90%" />
     <figcaption style="text-align:center">
      <p>Holzplatten tragen beim HammerCAmp (&#169; CA)</p>
     </figcaption>
