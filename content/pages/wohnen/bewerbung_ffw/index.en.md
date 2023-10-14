@@ -98,7 +98,7 @@ novoigl: yes
 <p>
 We're glad you're interested in moving into our housing project!
 
-We hope that the flats will be ready for occupancy from February 2024.
+We hope that the flats will be ready for occupancy from March 2024.
 If you want to move in, you can apply here:</p>
 
 <h2>Allgemein</h2>

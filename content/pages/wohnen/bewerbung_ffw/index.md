@@ -97,7 +97,7 @@ novoigl: yes
 <form action="/bewerbung_ffw/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen!
 
-Wir hoffen, dass die Wohnungen ab dem 01.02.2024 bezugsfertig sind.
+Wir hoffen, dass die Wohnungen ab dem 01.03.2024 bezugsfertig sind.
 Falls du einziehen willst, kannst du dich hier dafür bewerben:</p>
 
 <h2>Allgemein</h2>
