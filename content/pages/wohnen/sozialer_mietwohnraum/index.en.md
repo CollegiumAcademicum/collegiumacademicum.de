@@ -21,7 +21,7 @@ Ossip-Mandelstam-Straße 1 \
 <p style="text-align:justify">
 The majority of our flats in old buildings are subsidised by the <a href="https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/wohnungsbau/wohnraumfoerderung/mietwohnraumfoerderung/">Social Rental Housing Subsidy of the State of Baden Württemberg</a>.
 In addition to our other subsidies, this funding also ensures permanently affordable rents in our old building.
-Six flats, four of them on the ground floor and two on the first floor, are expected to be let here from 01.01.2024.
+Six flats, four of them on the ground floor and two on the first floor, are expected to be let here from 01.02.2024.
 <br><br>
 You can find an overview with floor plans, room sizes and rent levels further down on this page.
 <br><br>

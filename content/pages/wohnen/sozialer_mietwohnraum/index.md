@@ -24,7 +24,7 @@ Ossip-Mandelstam-Straße 1 \
 Der größere Teil der Altbauwohnungen wird durch die
 <a href="https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/wohnungsbau/wohnraumfoerderung/mietwohnraumfoerderung/">Soziale Mietwohnraumförderung des Landes Baden Württemberg</a> gefördert.
 Diese Förderung gewährleistet neben unseren anderen Fördergeldern auch in unserem Altbau dauerhaft bezahlbare Mieten.
-Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hier voraussichtlich ab 01.01.2024 vermietet.
+Sechs Wohnungen, davon vier im Erdgeschoss und zwei im 1. Obergeschoss werden hier voraussichtlich ab 01.02.2024 vermietet.
 <br><br>
 Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten findest du weiter unten auf dieser Seite.
 <br><br>

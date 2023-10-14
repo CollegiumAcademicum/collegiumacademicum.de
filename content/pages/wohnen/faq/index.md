@@ -133,7 +133,7 @@ Nein! Diese Regel gilt nur für das benachbarte Wohnheim.
 Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau bewerben.
 {{< /accordion >}}
 {{< accordion "Wann sind Zimmer oder Wohnungen im Altbau bezugsfertig?" >}}
-Die Wohnungen können voraussichtlich ab 01.01.2024 bezogen werden.
+Die Wohnungen können voraussichtlich ab 01.02.2024 bezogen werden.
 Wir versuchen freiwerdenden Wohnraum immer so schnell wie möglich auszuschreiben.
 Wir planen, immer wieder Besichtigungs- und Kennenlerntage zu veranstalten.
 {{< /accordion >}}
