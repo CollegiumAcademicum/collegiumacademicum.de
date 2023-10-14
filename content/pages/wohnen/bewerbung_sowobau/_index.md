@@ -7,7 +7,7 @@ novoigl: yes
 <form action="/bewerbung_sowobau/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass ihr Lust habt, in unser Wohnprojekt einzuziehen!
 
-Wir hoffen, dass die Wohnungen ab Januar 2024 bezugsfertig sind.
+Wir hoffen, dass die Wohnungen ab Februar 2024 bezugsfertig sind.
 Falls ihr einziehen wollt, könnt ihr euch hier dafür bewerben:</p>
 
 <h3>Wer seid ihr?</h3>
