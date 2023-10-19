@@ -7,8 +7,20 @@ Mendelejewplatz 1 \
 69126 Heidelberg
 
 ### Kontakt
-Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a> \
-E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>
+E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a> <br>
+Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
+<div class="columns" style="width:60%; margin-left:5.5%; margin-bottom:0px; margin-top:0px">
+  <div class="column" style="text-align:left; padding-top:0px; padding-bottom:0px">
+  <b>Telefonische Erreichbarkeit</b> <br>
+  Montag bis Donnerstag <br>
+  Freitag
+  </div>
+  <div class="column" style="text-align:left; padding-top:0px; margin-bottom:0; margin-top: 0">
+  <br>
+  10 − 16 Uhr <br>
+  12 − 16 Uhr
+  </div>
+</div>
 
 ### Vertretungsberechtigte Personen (Geschäftsführung)
 Leander von Detten, Nicolai Ferchl, Félix Girault, Lea Homann, Franziska Meier
