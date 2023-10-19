@@ -1,6 +1,6 @@
 ---
 title: "Das Herbstprogramm des falt*r"
-date: 2023-10-18
+date: 2023-10-19
 ---
 
 Unser <a href="https://faltr.de/home">falt\*r</a> gibt mit einem spannenden Herbstprogramm einen Vorgeschmack auf die Inhalte des Orientierungsjahres.
