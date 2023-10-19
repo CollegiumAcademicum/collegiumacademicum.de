@@ -7,7 +7,7 @@ Unser <a href="https://faltr.de/home">falt\*r</a> gibt mit einem spannenden Herb
 In sechs Seminaren geht es um nachhaltiges Leben, gesellschaftliche Veränderung und Berufsorientierung.
 
 Ihr seid in den letzten Jahren eurer Schulzeit, schon in einer Ausbildung oder an der Uni?
-Meldet Euch an und schnuppert rein in unsere Themen!
+Meldet euch an und schnuppert rein in unsere Themen!
 
 Unsere Seminare:
 * 05.11.&emsp;Nachhaltige Stadt im Modellbau 🏙️
@@ -17,7 +17,7 @@ Unsere Seminare:
 * 08.12.--10.12.&emsp;&ensp;Berufsorientierung - Ziele und Stärken entdecken 🧭
 * 16.12.&emsp;Gesundheitsberufe erfahren 🩺
 
-Die Seminare werden von Bewohnenden des CA-Wohnheims sowie mit dem <a href="https://www.ifeu.de/">ifeu Heidelberg</a>
+Die Seminare werden von Bewohnenden des CA-Wohnheims sowie in Zusammenarbeit mit dem <a href="https://www.ifeu.de/">ifeu Heidelberg</a>
 und mit <a href="https://urbanegaerten.org/">Urbane Gärten Karlsruhe</a> angeboten.
 Ihr dürft natürlich an mehreren Seminaren teilnehmen. Meldet euch per Mail an team@faltr.de an!
 
@@ -30,4 +30,4 @@ Ihr dürft natürlich an mehreren Seminaren teilnehmen. Meldet euch per Mail an 
     </div>
 </div>
 
-<a href="https://www.instagram.com/faltr_orientierungsjahr_im_ca/"><span class="icon"><i class="icon-instagram"></i></span></a> Folgt dem falt\*r auf instagram um nichts mehr zu verpassen!
+<a href="https://www.instagram.com/faltr_orientierungsjahr_im_ca/"><span class="icon"><i class="icon-instagram"></i></span></a> Folgt dem falt\*r auf instagram, um nichts mehr zu verpassen!
