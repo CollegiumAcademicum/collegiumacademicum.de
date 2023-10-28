@@ -37,32 +37,32 @@ Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht u
 ## Aktueller Stand
 
 <p style="text-align: justify">
-Mit unglaublichen <b>4 Mio. Euro</b> haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
+Mit unglaublichen <b>4,45 Mio. Euro</b> haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
 Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung.
 </p>
-
-### Altbauten
-
-<p style="text-align: justify">
-Aktuell benötigen wir für die Sanierung der Altbauten Ihre finanzielle Unterstützung und sind dankbar,
-wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben.
-Insgesamt werden wir derzeitigen Schätzungen zufolge <b>bis zu 1,9 Mio. Euro</b> Direktkredite benötigen, von denen wir
-(Stand Februar 2023) schon etwa 1,2 Mio. Euro eingeworben haben.
-</p>
-
-<progress class="progress is-large is-primary" value="1200" max="1900"></progress>
-
 
 ### Neubau
 
 <p style="text-align: justify">
-Es ist uns bereits gelungen, etwa <b>2,8 Mio. Euro</b> Direktkredite (Stand Februar 2023) zur Finanzierung des Neubaus einzuwerben. **Wir sagen Danke!**
-Danke an all diejenigen, die uns mit jedem finanziellen Beitrag näher an die Realisierung des
-Projekts gebracht haben und bringen werden. Um Baukostensteigerungen abzufedern, benötigen wir <b>akut noch ca. 200.000
-Euro</b> für den Neubau und brauchen deshalb dringend Ihre Unterstützung!
+Es ist uns bereits gelungen, etwa <b>2,9 Mio. Euro</b> Direktkredite (Stand Oktober 2023) zur Finanzierung des Neubaus einzuwerben.
+Danke an all diejenigen, die uns mit jedem finanziellen Beitrag beim Erfolg des Projekts unterstützen.
+Um Baukostensteigerungen abzufedern, benötigen wir <b>akut noch ca. 400.000 Euro</b> für den Neubau und
+brauchen deshalb dringend Ihre Unterstützung!
 </p>
 
-<progress class="progress is-large is-primary" value="2800" max="3300"></progress>
+<progress class="progress is-large is-primary" value="2900" max="3300"></progress>
+
+### Altbauten
+
+<p style="text-align: justify">
+Für die Altbauten haben wir erfolgreich <b>1,55 Mio. Euro</b> Direktkredite gesammelt (Stand Oktober 2023) und
+unser Finanzierungsziel so erfüllt. <b>Wir sagen Danke!</b>
+Da wir immer wieder ältere Direktkredite zurückzahlen, werden immer wieder auch Direktkredite in die Finanzierung der
+Altbauten fließen.
+</p>
+
+<progress class="progress is-large is-primary" value="1550" max="1550"></progress>
+
 
 <p style="text-align: justify">
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
