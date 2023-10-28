@@ -39,22 +39,22 @@ Your help is welcome! Please take a look at our webpages and do not hesitate to 
 With an incredible **4 million euros**, hundreds of people have contributed to the success of our project with direct loans.
 We are proud of our funding campaign so far and grateful for the enormous support.
 
-### Old building
-
-Currently, we need your financial support for the renovation of the old buildings and are grateful if you participate 
-in this way in the joint implementation of the project.
-According to current estimates, we will need **up to 1.9 million euros** in direct loans, of which we have already raised 
-more than 1.2 million euros (as of February 2023).
-
-<progress class="progress is-large is-primary" value="1200" max="1900"></progress>
-
 ### New building
 
-We have managed to raise approx. **2.8 million euros** (February 2023) in direct loans to fund the New House! **Thank you!** 
-We are grateful to everyone whose financial contribution has helped us and is still helping to realize this project.
-In order to compensate for increases in construction costs, we **currently still need about 200,000 euros** for the new building and therefore urgently need your support!
+We have already successfully raised about **2.9 million euros** in direct loans (as of October 2023) to finance the new building.
+Thank you to all those who are supporting us financially to ensure the success of the project.
+In order to cope with increases in construction costs, we still urgently need about
+400,000 euros for the new building and therefore continue to need your support!
 
-<progress class="progress is-large is-primary" value="2800" max="3300"></progress>
+<progress class="progress is-large is-primary" value="2900" max="3300"></progress>
+
+### Old building
+
+We have successfully collected **1.55 million euros** in direct loans for the old buildings (as of October 2023) and
+have thus met our funding target. We say thank you!
+As we keep repaying older direct loans, direct loans will also keep flowing into the financing of the old buildings.
+
+<progress class="progress is-large is-primary" value="1550" max="1550"></progress>
 
 Here you can read why we need direct loans and how they work.
 
@@ -63,7 +63,7 @@ Direct loans are a key part of the funding and the most important precondition f
 {{< /accordion >}}
 
 {{< accordion "What are the conditions for loans?" >}}
-We are glad to obtain loans starting at €1,000 Euro (for students starting at €500). An interest rate between 0% and 1.55 % will be agreed in the credit contract. The minimum term of the loan is two years, and after this period the loan contract can be terminated with six months' notice.
+We are glad to obtain loans starting at 1,000 euro (for students starting at 500 euro). An interest rate between 0 % and 1.55 % will be agreed in the credit contract. The minimum term of the loan is two years, and after this period the loan contract can be terminated with six months' notice.
 {{< /accordion >}}
 
 {{< accordion "How safe is a direct loan?" >}}
