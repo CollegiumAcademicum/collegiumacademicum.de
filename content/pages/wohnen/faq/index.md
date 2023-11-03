@@ -4,13 +4,12 @@ novoigl: yes
 slug: "faq"
 ---
 
-
 {{< accordion "Zum Wohnheim" >}}
 
 ### Fragen zur Ausstattung der Zimmer und des Wohnheims
 
 {{< accordion "Wie hoch ist die Miete?" >}}
-Ein Zimmer in unserem Neubau kostet insgesamt 345 € pro Monat (315,20 € Warmmiete plus ca. 30 € Kosten für Strom und Internet). Die Stromkosten in Höhe von 21,50 € pro Monat werden von jeder Person vorgestreckt, die finalen Kosten berechnen sich aber am Ende des Jahres aus der tatsächlichen Nutzung. Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die Mieten so gering wie möglich zu halten. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
+Ein Zimmer in unserem Neubau kostet insgesamt 375 € pro Monat (350,20 € Warmmiete plus ca. 25 € Kosten für Strom und Internet). Die Stromkosten in Höhe von 17,90 € pro Monat werden von jeder Person vorgestreckt, die finalen Kosten berechnen sich aber am Ende des Jahres aus der tatsächlichen Nutzung. Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die Mieten so gering wie möglich zu halten. Einen Einblick in die Finanzierung des Projekts erhältst du [hier](/finanzierung).
 {{< /accordion >}}
 {{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
 Jedes Zimmer ist 14 m<sup>2</sup> groß und kann flexibel auf 7 m<sup>2</sup> verkleinert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, die Werkstatt und der Dachgarten.
@@ -90,6 +89,7 @@ Es gibt keine Familienwohnungen im engeren Sinne. Trotzdem ist es möglich, mit 
 {{< /accordion >}}
 
 {{< accordion "Zu unseren anderen Wohnungen" >}}
+
 ### Fragen zur Ausstattung der Zimmer und des Altbaus
 
 {{< accordion "Wo befinden sich die Wohnungen?" >}}
@@ -128,6 +128,7 @@ Darüber hinaus gibt es im CA eine eigene IT-Arbeitsgruppe, die verschiedene IT-
 {{< /accordion >}}
 
 ### Fragen zur Bewerbung
+
 {{< accordion "Muss ich studieren oder eine Ausbildung machen, um mich auf ein Zimmer/eine Wohnung im Altbau zu bewerben?" >}}
 Nein! Diese Regel gilt nur für das benachbarte Wohnheim.
 Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau bewerben.
