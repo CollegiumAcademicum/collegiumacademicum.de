@@ -1,0 +1,9 @@
+[[main]]
+    name = "Über uns"
+    url = "/ueber-uns"
+    weight = 4
+[[main]]
+    name = "Unser Leitbild"
+    url = "/leitbild"
+    weight = 1
+    parent = "Über uns"
