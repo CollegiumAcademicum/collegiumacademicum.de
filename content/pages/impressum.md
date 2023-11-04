@@ -23,7 +23,7 @@ Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
 </div>
 
 ### Vertretungsberechtigte Personen (Geschäftsführung)
-Leander von Detten, Nicolai Ferchl, Félix Girault, Lea Homann, Franziska Meier
+Leander von Detten, Nicolai Ferchl, Félix Girault, Lea Homann, Franziska Meier, Carolina Seixedo Magalhães
 
 ### Redaktionell verantwortlich
 Louise Gross \
