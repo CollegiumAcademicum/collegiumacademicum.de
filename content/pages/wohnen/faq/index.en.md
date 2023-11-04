@@ -9,7 +9,7 @@ slug: "faq"
 ### Questions about the furnishing of the rooms and the dormitory
 
 {{< accordion "How high is the rent?" >}}
-A room in our dormitory costs a total of 345 € per month (315,20 € warm rent plus about 30 € costs for electricity and internet). The electricity costs of 21.50 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
+A room in our dormitory costs a total of 375 € per month (350.20 € warm rent plus about 25 € costs for electricity and internet). The electricity costs of 17.90 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 {{< /accordion >}}
 {{< accordion "How big are the rooms?" >}}
 Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the workshop and the roof terrace.
@@ -89,6 +89,7 @@ There are no family flats in the strict sense. Nevertheless, it is possible to m
 {{< /accordion >}}
 
 {{< accordion "To our other flats" >}}
+
 ### Questions about the furnishings of the rooms and the old building
 
 {{< accordion "Where are the flats located?" >}}
@@ -127,6 +128,7 @@ In addition, the CA has its own IT working group that provides various IT servic
 {{< /accordion >}}
 
 ### Questions about the application
+
 {{< accordion "Do I have to study or do an apprenticeship to apply for a room/flat in the old building?" >}}
 No! This rule only applies to the neighbouring dormitory in the new building.
 All people can apply for an apartment in the old building.
