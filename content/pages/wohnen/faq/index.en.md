@@ -9,7 +9,7 @@ slug: "faq"
 ### Questions about the furnishing of the rooms and the dormitory
 
 {{< accordion "How high is the rent?" >}}
-A room in our dormitory costs a total of 375 € per month (350,20 € warm rent plus about 25 € costs for electricity and internet). The electricity costs of 17.90 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
+A room in our dormitory costs a total of 375 € per month (350.20 € warm rent plus about 25 € costs for electricity and internet). The electricity costs of 17.90 € per month are paid in advance by each person, but the final costs are calculated at the end of the year based on actual use. As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 {{< /accordion >}}
 {{< accordion "How big are the rooms?" >}}
 Each room is 14 m<sup>2</sup> and can be flexibly reduced to 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the workshop and the roof terrace.
