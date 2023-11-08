@@ -9,17 +9,23 @@ Mendelejewplatz 1 \
 ### Kontakt
 E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a> <br>
 Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
-<div class="columns" style="width:60%; margin-left:5.5%; margin-bottom:0px; margin-top:0px">
-  <div class="column" style="text-align:left; padding-top:0px; padding-bottom:0px">
-  <b>Telefonische Erreichbarkeit</b> <br>
-  Montag bis Donnerstag <br>
-  Freitag
-  </div>
-  <div class="column" style="text-align:left; padding-top:0px; margin-bottom:0; margin-top: 0">
-  <br>
-  10 − 16 Uhr <br>
-  12 − 16 Uhr
-  </div>
+<div style="width:60%; margin-left:5.5%; margin-bottom:0px; margin-top:0px">
+  <!--<div class="column" style="text-align:left; padding-top:0px; padding-bottom:0px">-->
+
+  <table>
+  <tr>
+    <td><b>Telefonische Erreichbarkeit</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Montag bis Donnerstag</td>
+    <td>10 - 16 Uhr</td>
+  </tr>
+  <tr>
+    <td>Freitag</td>
+    <td>12 − 16 Uhr</td>
+  </tr>
+  </table>
 </div>
 
 ### Vertretungsberechtigte Personen (Geschäftsführung)
