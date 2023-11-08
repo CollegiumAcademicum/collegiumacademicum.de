@@ -61,6 +61,12 @@ link = "https://www.rnz.de/region/heidelberg_artikel,-Collegium-Academicum-Heide
 date = "14.06.2023"
 
 [[press]]
+title = "Zukunft der Vergangenheit – Die Produktive Stadt"
+source = "Hans Drexler, db deutsche bauzeitung"
+link = "https://www.db-bauzeitung.de/diskurs/zukunft-der-vergangenheit-die-produktive-stadt/#slider-intro-5"
+date = "14.06.2023"
+
+[[press]]
 title = "RON TV | LIVE-Sendung vom 03.05.2023"
 source = "RON TV"
 link = "https://youtu.be/G-WS5SkG1b0?t=340"
@@ -184,6 +190,12 @@ source = "Galileo, ProSieben"
 date = "05.06.2022"
 link = "https://www.youtube.com/watch?v=VxXAViqSn0M&t=1484s"
 embed_link = "https://www.youtube-nocookie.com/embed/VxXAViqSn0M?start=1429"
+
+[[press]]
+title = "Karlsruher Architekturvorträge starten wieder"
+source = "db deutsche bauzeitung"
+date = "30.05.2022"
+link = "https://www.db-bauzeitung.de/news/karlsruher-architekturvortraege-starten-wieder/"
 
 [[press]]
 title = "Re-Live von der Abschlussveranstaltung SuPraStadt am 18.05.2022"
