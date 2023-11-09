@@ -34,9 +34,11 @@ Genauere Informationen dazu, wer in sozial geförderten Mietwohnungen wohnen dar
 </p>
 
 Fortschritt Wohnungsbelegung:
+<div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="20"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
+  <progress class="progress is-large is-primary" value="6" max="6"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">6 von 6</p>
+</div>
 </div>
 
 <p style="text-align:justify">
