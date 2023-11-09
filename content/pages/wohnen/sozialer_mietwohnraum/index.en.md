@@ -29,10 +29,12 @@ You can find an overview with floor plans, room sizes and rent levels further do
 Unlike the adjacent new-build residential home, people of all ages and in all circumstances can move in here if they can present a housing entitlement certificate.
 For more information on who is eligible to live in socially subsidised rental housing, see <a href="https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038">here</a>.
 
-Progress occupancy:
+Progress of apartment occupancy:
+<div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="20"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
+  <progress class="progress is-large is-primary" value="6" max="6"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 6/6 </p>
+</div>
 </div>
 
 <p style="text-align:justify">
