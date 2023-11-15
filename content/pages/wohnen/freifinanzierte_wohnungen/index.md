@@ -4,6 +4,8 @@ slug: "freifinanzierte_wohnungen"
 novoigl: yes
 ---
 
+**Aktuell nehmen wir keine weiteren Bewerbungen entgegen.**
+
 <p style="text-align:justify">
 Du hast Lust auf Selbstverwaltung? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
 Dann bist du bei uns, dem CA (Collegium Academicum), genau richtig.
@@ -55,8 +57,10 @@ Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmä
 <br><br>
 Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> oder ruft uns an unter <a href="tel:062214312480">06221 4312480</a>.
 <br>
-Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
 </p>
+
+<!--Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
+
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_ffw" >}}" class="button is-medium is-primary">
@@ -67,13 +71,14 @@ Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der 
     </a>
 </div>
 
-Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im November stattfindet.
-
+Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im November stattfindet.-->
 
 Fortschritt Wohnungsbelegung:
+<div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="10"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 5;">0</p>
+  <progress class="progress is-large is-primary" value="2" max="2"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">2 von 2</p>
+</div>
 </div>
 
 ## Pläne und Höhe der Mieten

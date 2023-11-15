@@ -1,6 +1,6 @@
 ---
-title: "Application flats (old building)"
-slug: "application_ffw"
+title: "Application Social Rental Housing (Old Building)"
+slug: "application_swb"
 novoigl: yes
 ---
 

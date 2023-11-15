@@ -1,6 +1,6 @@
 ---
-title: "Bewerbung freifinanzierte Wohnungen (Altbau)"
-slug: "bewerbung_ffw"
+title: "Bewerbung soziale Mietwohnungen (Altbau)"
+slug: "bewerbung_sowobau"
 novoigl: yes
 ---
 
