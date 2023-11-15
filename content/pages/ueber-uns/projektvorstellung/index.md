@@ -119,7 +119,7 @@ Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden
 normalen Wohnungsmarkt decken können. Wenn Sie sich für eine dieser Wohnungen interessieren, können Sie sich postalisch über die Kontaktdaten
 am Ende der Seite oder per <a href="mailto:einziehen.altbau@collegiumacademicum.de">E-Mail</a> bewerben.
 <div class="buttons is-centered">
-<a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
+<a href="{{< relref "/mietwohnraum" >}}" class="button is-medium is-primary">
                 <span class="icon">
                     <i class="icon-home"></i>
                 </span>
