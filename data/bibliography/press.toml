@@ -1,4 +1,16 @@
 [[press]]
+title = "Ehrenamt statt Wohnungsnot"
+source = "VDI nachrichten, Nr. 25"
+link = "https://www.vdi-nachrichten.com/"
+date = "15.12.2023"
+
+[[press]]
+title = "Nach dem Schulabschluss erstmal Hochschulluft schnuppern"
+source = "Rhein-Neckar-Zeitung"
+link = "https://www.rnz.de/region/heidelberg_artikel,-Heidelberg-Nach-dem-Schulabschluss-erstmal-Hochschulluft-schnuppern-_arid,1241828.html"
+date = "10.12.2023"
+
+[[press]]
 title = "Suffizienzpraktiken in Stadtquartieren: BMBF-Zukunftsstadt*Tour erreicht mit Heidelberg ihre letzte Station (Presseinformation)"
 source = "Synthese- und Vernetzungsprojekt Zukunftsstadt (SynVer*Z)"
 link = "https://www.nachhaltige-zukunftsstadt.de/downloads/PM_BMBF_Zukunftsstadt_Tour__Heidelberg.pdf"
@@ -26,7 +38,6 @@ date = "12.09.2023"
 title = "Mieten, weinen, wohnen"
 source = "heute-show spezial, ZDF"
 link = "https://www.youtube.com/watch?v=U8cr5jo4mg4&t=423s"
-embed_link = "https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fcomedy%2Fheute-show%2Fheute-show-spezial-vom-1-september-2023-100"
 date = "01.09.2023"
 
 [[press]]
@@ -577,7 +588,6 @@ link = "https://www.esss.de/news/CNC-workshop-mit-der-projektgruppe-des-collegiu
 title = "Die Studierenden aus Heidelberg bauen ihr eigenes Wohnheim"
 source = "SWR Landesschau"
 date = "01.03.2019"
-link = "https://www.swr.de/landesschau-bw/studiogaeste/hannah-hoffmann-und-margarete-over-die-studierenden-aus-heidelberg-bauen-ihr-eigenes-wohnheim/-/id=2248750/did=23280934/nid=2248750/eudlg1/index.html"
 
 [[press]]
 title = "Junge Heidelberger realisieren eigenes Wohnprojekt"
@@ -594,15 +604,14 @@ audio = "190215_Radio_Dreyeckland_Infomagazin.mp3"
 
 [[press]]
 title = "In Heidelberg steigen die Mieten rasant – also bauen Studierende ein eigenes Wohnheim"
-source = "bento"
+source = "Spiegel Panorama"
 date = "12.02.2019"
-link = "https://www.bento.de/politik/mietenwahnsinn-in-heidelberg-studierende-bauen-ein-eigenes-wohnheim-a-e2086829-bca6-4591-b5cc-2533bdb59045"
+link = "https://www.spiegel.de/panorama/mietenwahnsinn-in-heidelberg-studierende-bauen-ein-eigenes-wohnheim-a-e2086829-bca6-4591-b5cc-2533bdb59045?sara_ref=re-xx-cp-sh"
 
 [[press]]
 title = "Studierende werden Bauherren"
 source = "ZDF-Mittagsmagazin"
 date = "08.02.2019"
-link = "https://www.zdf.de/nachrichten/zdf-mittagsmagazin/studierende-werden-bauherren-in-heidelberg-100.html"
 
 [[press]]
 title = "Energie vor Ort - Lokale Klimaschutzinitiativen"
@@ -620,13 +629,12 @@ link = "https://hitech-campus.de/studentisches-bauprojekt-sorgt-fuer-wohnraum/"
 title = "Wie man bezahlbaren Wohnraum schafft"
 source = "Main Post, Regional, Main-Tauber"
 date = "26.11.2018"
-link = "https://www.mainpost.de/regional/main-tauber/Wie-man-bezahlbaren-Wohnraum-schafft;art775,10117559"
+link = "https://www.mainpost.de/regional/main-tauber/wie-man-bezahlbaren-wohnraum-schafft-art-10117559"
 
 [[press]]
 title = "Mieten? Kaufen! - Heidelberger Studenten bauen sich einfach ihr eigenes Wohnheim"
 source = "Bayrischer Rundfunk, Das Campusmagazin"
 date = "04.11.2018"
-link = "https://www.br.de/mediathek/podcast/das-campusmagazin/mieten-kaufen-heidelberger-studenten-bauen-sich-einfach-ihr-eigenes-wohnheim/1285328"
 audio = "181104_BR_Das_Campusmagazin.mp3"
 
 [[press]]
@@ -664,7 +672,6 @@ link = "https://www.faz.net/aktuell/wirtschaft/wohnen/bauen/heidelbergs-hohe-mie
 title = "Wie Studenten ihr eigenes Wohnheim bauen"
 source = "Bayerischer Rundfunk"
 date = "18.10.2018"
-link = "https://www.br.de/mediathek/podcast/tagesticket-der-frueh-podcast/in-der-falle-das-schwierige-leben-als-working-mom/1252014"
 
 [[press]]
 title = "Collegium Academicum erhält Fördermittelzusage"
@@ -676,7 +683,6 @@ link = "http://www.die-stadtredaktion.de/2018/10/rubriken/stadt/architektur/coll
 title = "Mieten für Studierende immer teurer"
 source = "Südwestrundfunk"
 date = "08.10.2018"
-link = "https://swrmediathek.de/player.htm?show=ce1134b0-cb26-11e8-9a07-005056a12b4c"
 
 [[press]]
 title = "Neue Ideen, neue Gemeinschaften"
@@ -718,7 +724,6 @@ audio = "180515_SWR4_Radio_Mannheim.mp3"
 title = "Collegium Academicum So baut man sich ein selbstverwaltetes Bildungs- und Wohnprojekt"
 source = "Good Impact"
 date = "22.05.2018"
-link = "https://goodimpact.org/magazin/so-baut-man-sich-ein-selbstverwaltetes-bildungs-und-wohnprojekt"
 
 [[press]]
 title = "Studierende bauen sich ihr eigenes Traum-Wohnheim"
@@ -749,7 +754,6 @@ link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-iba-heidelberg-angene
 title = "38. Feierabend – Collegium Academicum"
 source = "formAD"
 date = "19.04.2018"
-link = "https://formad.de/38-feierabend-collegium-academicum"
 
 [[press]]
 title = "Ministerin Hendricks überreicht Förderurkunde: 2,19 Millionen Euro für das Collegium Academicum"
@@ -859,7 +863,6 @@ link = "http://www.ruprecht.de/?p=8021"
 title = "Selbstverwaltetes Wohnen Teil 1 – Collegicum Academicum"
 source = "RadioAktiv"
 date = "2015"
-link = "https://www.radioaktiv.org/2015/11/26/selbstverwaltetes-wohnen-collegicum-academicum/"
 
 [[press]]
 title = "Vom Collegium Academicum zum »Carolinum« "
