@@ -4,6 +4,23 @@ slug: "activities"
 aliases: [/summerschool/]
 ---
 
+## Welcome 2024 - DIY construction work at the start of the year
+
+We want to make full use of the Christmas vacations and start the new year 2024 with a good portion of DIY work in our old building. ✨
+<br><br>
+In the first week of January, joint work activities will take place at the following times
+- Tuesday, &emsp;&emsp;&nbsp;&nbsp; 2.1.2024 ☀️ 11 am - 7 pm️
+- Wednesday, &emsp; 3.1.2024 ☀️ 11 am - 7 pm️
+- Thursday, &emsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.1.2024 🌙 2 pm - 2 pm
+- Friday, &emsp;&emsp;&emsp;&nbsp; 5.1.2024 🌙 2 pm - 2 pm
+- Saturday, &emsp;&emsp; 6.1.2024 ☀️ 11 am - 7 pm and 🌑 7 pm - 2 am
+
+As usual with delicious food, music and good humor 🍕 🎵 🥳
+
+Meeting point is Mendelejewplatz 1 (between the new and old buildings), 69126 Heidelberg-Rohrbach
+
+To register, simply send us an informal email to kontakt@collegiumacademicum.de or give us a call on +49 (0)6221 652236.
+
 ## HammerCAmps 2023
 
 The move into the new building is complete, but the next milestone, the completion of our old building, is still to come, so that in a few months our orientation year [falt*r](https://faltr.de/home) and social housing will find a place there.
