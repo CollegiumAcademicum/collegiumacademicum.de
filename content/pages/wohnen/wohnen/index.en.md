@@ -48,6 +48,14 @@ Then you will find what you are looking for below:
         <span>Orientation year</span>
     </a>
 </div>
+<div class="buttons is-centered">
+    <a href={{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Rooms for interim rent</span>
+    </a>
+</div>
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/faq" >}}" class="button is-medium is-primary">
