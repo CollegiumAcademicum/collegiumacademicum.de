@@ -47,6 +47,14 @@ Dann wirst du hier fündig:
         <span>Orientierungsjahr</span>
     </a>
 </div>
+<div class="buttons is-centered">
+    <a href={{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Zimmer zur Zwischenmiete</span>
+    </a>
+</div>
 
 <div class="buttons is-centered">
     <a href="{{< relref "/faq" >}}" class="button is-medium is-primary">
