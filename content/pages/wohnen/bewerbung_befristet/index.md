@@ -81,8 +81,8 @@ zwei offene Textfragen. Bitte beantworte sie in 200 bis 1.000 Zeichen.</p>
 </div>
 
 <div class="field">
-    <label class="label" for="spam_protection">Um sicherzustellen, dass ihr kein
-    Computer seid, bitten wir euch folgende Frage zu beantworten: Wie viel ist
+    <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
+    Computer bist, bitten wir dich folgende Frage zu beantworten: Wie viel ist
     5 + 3? </label>
     <div class="spam_protection">
         <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
