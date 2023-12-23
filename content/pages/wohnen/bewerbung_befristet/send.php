@@ -25,7 +25,7 @@ $i18n = [
         "occupation" => "Tätigkeit",
         "wer" => "Wer bist du?",
         "application" => "Bewerbung",
-        "application-sent" => "bewerbung-verschickt-altbau",
+        "application-sent" => "bewerbung-verschickt-zwischenmiete",
 	    "spam-protection" => "spamschutz",
         "mail-message" => "Vielen Dank für deine Bewerbung beim CA!\nWir freuen uns, dass du bei uns einziehen möchtest. Mit dieser Nachricht bestätigen wir, dass wir deine Bewerbung erhalten haben. Falls du Fragen zu deiner Bewerbung hast, kannst du einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
@@ -41,7 +41,7 @@ $i18n = [
         "leitbild" => "Our Vision",
         "occupation" => "Occupation",
         "application" => "Application",
-        "application-sent" => "en/application-sent-old-building",
+        "application-sent" => "en/application-sent-interim-rent",
 	    "spam-protection" => "en/spam_protection",
         "mail-message" => "Thank you for your application to the CA!\nWe are happy that you are interested in moving into our housing project. With this message we confirm that we have received your application. If you have any questions about your application, you can reply to this email.",
         "with-data" => "We received the following data:",
@@ -132,8 +132,6 @@ if($form->submit()){
 
     	$applicant = array($data["email"], $data['full_name']);
 
-    	// The id of the auswahl team this email goes to
-    	// $rid = rand(1,$number_of_inboxes);
     	$contact = array("zwischenmiete.altbau@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation

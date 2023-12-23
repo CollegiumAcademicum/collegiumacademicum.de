@@ -88,8 +88,8 @@ your aren't a computer: How much is 5 + 3?</label>
 <br><div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
-          <input type="hidden" name="language" value="de">
-        <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
+          <input type="hidden" name="language" value="en">
+        <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
 </div>
 
