@@ -20,7 +20,8 @@
         <div class="card-content">
           <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
           {{ i18n "einziehen-message-aside"}}
-            <a href="{{ with .Site.GetPage "/sozialer_mietwohnraum" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-sowobau" }}</a>
+            <a href="{{ with .Site.GetPage "/freifinanzierte_wohnungen" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-wohnungen" }}</a>
+            <a href="{{ with .Site.GetPage "/befristete_zimmer" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-zwischenmiete" }}</a>
             <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-wohnheim" }}</a>
             <a href="{{ with .Site.GetPage "/faq" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faq" }}</a>
         </div>

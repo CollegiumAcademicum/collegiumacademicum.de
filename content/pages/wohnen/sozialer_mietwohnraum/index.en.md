@@ -57,12 +57,6 @@ In addition, there is a large assembly hall in our new building next door, which
 Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> or call us <a href="tel:062214312480">06221 4312480</a>.
 </p>
 
-You want to apply with us with a housing entitlement certificate?
-<br/>
-Before applying for an apartment, please make sure that the number of people and square footage on your housing entitlement certificate matches our apartments.
-
-After applying, you will be invited to a guided tour of the building and our grounds, which will take place in October.
-
 You're interested in the free-funded flats instead?? Then inform yourself <a href="{{< relref "/freifinanzierte_wohnungen" >}}">here</a>.
 
 ## Floor plans and amount of rent

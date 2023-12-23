@@ -70,6 +70,8 @@ Progress occupancy:
 
 Incidental costs: 80 € (the same for everyone)
 
+The room sizes are listed below. Of course, the rent also includes the use of the communal kitchen and bathroom, as well as the communal areas of the housing project (workshops, assembly hall, multi-purpose room, seminar rooms and study rooms).
+
 <!--### 1. OG
 
 {{< img src="1_og" alt="Übersicht 1. OG" attr="CA" />}}

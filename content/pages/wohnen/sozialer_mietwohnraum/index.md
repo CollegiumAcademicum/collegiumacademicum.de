@@ -62,12 +62,6 @@ sein, mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unser
 die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
 <br><br>
 Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a> oder ruft uns an unter <a href="tel:062214312480">06221 4312480</a>.
-<br><br>
-Du willst dich mit einem Wohnberechtigungsschein bei uns bewerben?
-</br>
-Bitte geht, bevor ihr euch für eine Wohnung bewerbt, sicher, dass die Personenzahl und die Quadratmeterzahl auf eurem Wohnberechtigungsschein mit unseren Wohnungen übereinstimmt.
-
-Nach der Bewerbung werdet ihr zu einer Führung durch das Gebäude und über unser Gelände eingeladen, die im Oktober stattfindet.
 
 Du bist stattdessen an den freifinanzierten Wohnungen interessiert? Dann informiere dich <a href="{{< relref "/freifinanzierte_wohnungen" >}}">hier</a>.
 

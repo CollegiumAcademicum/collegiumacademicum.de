@@ -74,6 +74,9 @@ Fortschritt Zimmerbelegung:
 
 Nebenkosten: 80 € (für jede Person gleich)
 
+Unten sind jeweils die Zimmergrößen gelistet, zur Miete gehören aber natürlich auch Gemeinschaftsküche und -bad
+sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunktionsraum, Seminarräume und Arbeitsräume).
+
 <!--### 1. OG
 
 {{< img src="1_og" alt="Übersicht 1. OG" attr="CA" />}}
