@@ -84,7 +84,7 @@ other = "Das Orientierungsjahr"
 other = "Zum falt*r"
 
 [oj-message]
-other = "Im Winter 2023/2024 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
+other = "Anfang 2024 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
 
 [richtfest]
 other = "Richtfest"
@@ -170,6 +170,12 @@ other = "Sozialer Mietwohnraum"
 
 [pitch-sowobau]
 other = "Wohnen ist Grundrecht: Wir schaffen im Altbau sozialen Mietwohnraum."
+
+[header-wohnungen]
+other = "Wohnungen"
+
+[header-zwischenmiete]
+other = "Zimmer zur Zwischenmiete"
 
 [header-oj]
 other = "falt*r - Das Orientierungsjahr"
