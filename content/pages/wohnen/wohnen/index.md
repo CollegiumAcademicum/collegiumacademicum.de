@@ -48,7 +48,7 @@ Dann wirst du hier fündig:
     </a>
 </div>
 <div class="buttons is-centered">
-    <a href={{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
+    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
