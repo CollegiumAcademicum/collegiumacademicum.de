@@ -61,8 +61,8 @@ The next step in the application process is a 15-minute online interview. Once y
 Progress occupancy:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;"> 0/18 </p>
+  <progress class="progress is-large is-primary" value="0" max="20"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 0/20 </p>
 </div>
 </div>
 
@@ -72,10 +72,13 @@ Incidental costs: 80 € (the same for everyone)
 
 The room sizes are listed below. Of course, the rent also includes the use of the communal kitchen and bathroom, as well as the communal areas of the housing project (workshops, assembly hall, multi-purpose room, seminar rooms and study rooms).
 
-<!--### 1. OG
 
 {{< img src="1_og" alt="Übersicht 1. OG" attr="CA" />}}
--->
+
+| Room | Size | Basic rent | Warm rent |
+|--------------------------|----------------|------------------|--------------------------------------|
+|1.3.09|20.50 m<sup>2</sup>|397 €|477 €|
+|1.3.12|16.82 m<sup>2</sup>|339 €|419 €|
 
 ### Second floor
 
@@ -83,16 +86,16 @@ The room sizes are listed below. Of course, the rent also includes the use of th
 
 | Room | Size | Basic rent | Warm rent |
 |--------------------------|----------------|------------------|--------------------------------------|
-|2.3.02|20,53 m<sup>2</sup>|427,60 €|507,60 €|
-|2.3.03|21,87 m<sup>2</sup>|449,00 €|529,00 €|
-|2.3.04|23,82 m<sup>2</sup>|480,14 €|560,14 €|
-|2.3.07|19,90 m<sup>2</sup>|417,54 €|597,54 €|
-|2.3.08|19,07 m<sup>2</sup>|404,28 €|484,28 €|
-|2.4.04|20,17 m<sup>2</sup>|457,67 €|537,67 €|
-|2.4.05|26,74 m<sup>2</sup>|562,59 €|642,59 €|
-|2.4.06|20,41 m<sup>2</sup>|461,50 €|541,50 €|
-|2.5.04|20,96 m<sup>2</sup>|458,82 €|538,82 €|
-|2.5.05|21,39 m<sup>2</sup>|465,69 €|545,69 €|
+|2.3.02|20.53 m<sup>2</sup>|424 €|504 €|
+|2.3.03|21.87 m<sup>2</sup>|445 €|525 €|
+|2.3.04|23.82 m<sup>2</sup>|476 €|556 €|
+|2.3.07|19.90 m<sup>2</sup>|414 €|494 €|
+|2.3.08|19.07 m<sup>2</sup>|401 €|481 €|
+|2.4.04|20.17 m<sup>2</sup>|454 €|534 €|
+|2.4.05|26.74 m<sup>2</sup>|558 €|638 €|
+|2.4.06|20.41 m<sup>2</sup>|458 €|538 €|
+|2.5.04|20.96 m<sup>2</sup>|455 €|535 €|
+|2.5.05|21.39 m<sup>2</sup>|462 €|542 €|
 
 ### Third floor
 
@@ -100,11 +103,11 @@ The room sizes are listed below. Of course, the rent also includes the use of th
 
 | Room | Size | Basic rent | Warm rent |
 |--------------------------|----------------|------------------|--------------------------------------|
-|3.3.13|18,71 m<sup>2</sup>|398,53 €|478,53 €|
-|3.3.16|20,13 m<sup>2</sup>|421,21 €|501,21 €|
-|3.3.20|19,96 m<sup>2</sup>|418,49 €|498,49 €|
-|3.4.08|19,47 m<sup>2</sup>|446,49 €|526,49 €|
-|3.4.12|18,97 m<sup>2</sup>|438,50 €|518,50 €|
-|3.5.08|9,99 m<sup>2</sup>|283,63 €|363,63 €|
-|3.5.09|14,33 m<sup>2</sup>|352,94 €|432,94 €|
-|3.5.11|14,63 m<sup>2</sup>|357,73 €|437,73 €|
+|3.3.13|18.71 m<sup>2</sup>|395 €|475 €|
+|3.3.16|20.13 m<sup>2</sup>|418 €|498 €|
+|3.3.20|19.96 m<sup>2</sup>|415 €|495 €|
+|3.4.08|19.47 m<sup>2</sup>|443 €|523 €|
+|3.4.12|18.97 m<sup>2</sup>|435 €|515 €|
+|3.5.08| 9.99 m<sup>2</sup>|281 €|361 €|
+|3.5.09|14.33 m<sup>2</sup>|350 €|430 €|
+|3.5.11|14.63 m<sup>2</sup>|355 €|435 €|
