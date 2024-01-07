@@ -82,7 +82,7 @@ Stadt auch beim Altbau die barrierearme Planung (ca. 22.000 Euro).
 ### Direktkredite
 
 <p style="text-align: justify">
-Das Projekt wird entsprechend des Modells des <a href="https://www.syndikat.org/">Mietshäuser Syndikat"</a>
+Das Projekt wird entsprechend des Modells des <a href="https://www.syndikat.org/">Mietshäuser Syndikat</a>
 umgesetzt, mit dem deutschlandweit bereits über 170 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser

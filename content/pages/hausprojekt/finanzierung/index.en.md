@@ -78,7 +78,7 @@ the old building (approx. 22,000 euros).
 ### Direct loans
 
 <p style="text-align: justify">
-The project is realised according to the <a href="https://www.syndikat.org/en/">Mietshäuser Syndikat"</a> model (apartment house syndicate), which has supported over 190 projects in Germany.
+The project is realised according to the <a href="https://www.syndikat.org/en/">Mietshäuser Syndikat</a> model (apartment house syndicate), which has supported over 190 projects in Germany.
 In this matter, we work together with project advisors in Freiburg.
 In this financing model, direct loans constitute an important source of funding.
 These are subordinated loans made by individuals who would like to support the project or want to be part of it.
