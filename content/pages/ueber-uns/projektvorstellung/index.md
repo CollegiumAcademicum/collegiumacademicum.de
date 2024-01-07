@@ -4,10 +4,12 @@ novoigl: yes
 slug: "projektvorstellung"
 ---
 
-<h2>Das CA<h2>
+<h2>Das CA</h2>
 
-Allgemeines über das CA
-(wichtigste Punkte, Verweis auf Geschichte des alten CA und Leitbild)
+Allgemeines über das CA: wichtigste Punkte,
+Am Anfang Verweis auf zwei Unterseiten:
+1. das erste CA (1945-1978)
+2. das neue CA (seit 2013)
 
 <h2>Unsere Gebäude</h2>
 
