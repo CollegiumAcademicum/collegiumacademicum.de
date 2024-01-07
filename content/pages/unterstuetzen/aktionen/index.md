@@ -4,14 +4,84 @@ slug: "aktionen"
 aliases: [/summerschool/]
 ---
 
+## Willkommen 2024 - Eigenleistung zum Jahresstart
+
+Wir wollen die Weihnachtsferien voll ausnutzen und starten gleich mit einer guten Portion Eigenleistung in das neue Jahr 2024. ✨
+<br><br>
+In der ersten Januarwoche findet zu folgenden Zeiten Eigenleistung statt:
+- Dienstag, &emsp;&emsp;&nbsp; 2.1.2024 ☀️ 11-19 Uhr️
+- Mittwoch, &emsp;&emsp; 3.1.2024 ☀️ 11-19 Uhr️
+- Donnerstag, &emsp; 4.1.2024 🌙 14-21 Uhr
+- Freitag, &emsp;&emsp;&emsp; 5.1.2024 🌙 14-21 Uhr
+- Samstag, &emsp;&emsp;&nbsp; 6.1.2024 ☀️ 11-19 Uhr und 🌑 19-2 Uhr
+
+Wie gewohnt mit leckerem Essen, Musik und guter Laune 🍕 🎵 🥳
+
+Treffpunkt ist <b>Mendelejewplatz 1</b> (zwischen Neu- und Altbau), 69126 Heidelberg-Rohrbach
+
+Um dich anzumelden, schicke uns einfach eine formlose Mail an kontakt@collegiumacademicum.de oder ruf kurz an unter +49 (0)6221 652236.
+
+## Wochenendeinsätze 2023 - Gemeinsam für günstigen Wohnraum!
+
+<div style="width: 100%; margin: 1em 0.5em; overflow:auto">
+<div style="width: 33%; float: left;text-align:justify; overflow:auto">
+        <figure>
+    <img alt="Holzplatten tragen beim HammerCAmp" style="float: right;" src="hammercamp_holzplatten.jpg" width="90%" />
+    <figcaption style="text-align:center">
+     <p>Holzplatten tragen beim HammerCAmp (&#169; CA)</p>
+    </figcaption>
+        </figure>
+
+</div>
+<div style="margin-left: 36%; width=64%; overflow:auto">
+  Der nächste Meilenstein unsere Projekts, die Fertigstellung unseres Altbaus, steht bevor und wie gewohnt packen wir dabei selbst mit an.
+  <br><br>
+  Wir laden herzlich ein, an unseren Wochenendeinsätzen im Collegium Academicum teilzunehmen und gemeinsam unseren Altbau in ein lebendiges Wohnprojekt für sozialen Wohnungsbau, freie Wohnungen und das Orientierungsjahr <a href="https://faltr.de/home">falt*r</a> zu verwandeln?
+  <br><br>
+  Es ist keine besondere Erfahrung erforderlich! Jeder ist willkommen, unabhängig von Alter oder Fähigkeiten.
+  Komm einfach vorbei, wir stellen alle Materialien und Werkzeuge bereit.
+  <br><br>
+  <b>Wann?</b> Jeden Samstag und Sonntag von 9:30 Uhr bis 18:00 Uhr. <br>
+  <b>Wo?</b> Mendelejewplatz 1 (zwischen Neu- und Altbau), 69126 Heidelberg
+
+  </div>
+</div>
+
+<div class="columns">
+  <div class="column" style="text-align:justify">
+<h3>Was erwartet dich?</h3>
+
+- Streichen des Altbaus
+- Fußboden entfernen
+- Baureinigung (Aufräumen und Putzen)
+- sowie kleinere bzw. spontanere Aufgaben
+- Gemeinsames Mittag- und Abendessen
+
+</div>
+  <div class="column">
+<h3>Was solltest du mitbringen?</h3>
+
+- Bequeme Arbeitskleidung und Schuhe, die schmutzig werden können.
+- Spaß und Motivation
+- und natürlich gegenseitigen Respekt
+  </div>
+</div>
+
+### Warum solltest du mitmachen?
+
+- **Gemeinschaft erleben**: Lerne Menschen mit ähnlichen Interessen kennen und baue dauerhafte Freundschaften auf.
+- **Sinnvolle Arbeit**: Dein Einsatz trägt dazu bei, bezahlbaren Wohnraum zu schaffen und Menschen in Not zu unterstützen.
+- **Spaß und Belohnung**: Eine entspannte Atmosphäre, leckeres Essen und coole Gemeinschaftsaktionen nach der Arbeit!
+
+### Anmeldung
+
+Kontaktiere uns per Mail oder Telefon, um dich anzumelden oder weitere Informationen zu erhalten.
+- +49 (0)6221 652236
+- kontakt@collegiumacademicum.de
+
 ## HammerCAmps 2023
 
-<p style="text-align:justify">
-Der Einzug in den Neubau ist vollbracht, doch der nächste Meilenstein, die Fertigstellung unseres Altbaus, steht
-noch bevor, damit dort in wenigen Monaten unser Orientierungsjahr <a href="https://faltr.de/home">falt*r</a> und der soziale Wohnungsbau Platz finden.
-</p>
-
-Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
+Im Sommer haben wir bereits zu fünf spektakulären "HammerCAmps" eingeladen:
 * **HammerCAmp** 1: 03.07. bis 09.07.2023
 * **HammerCAmp** 2: 17.07. bis 23.07.2023
 * **HammerCAmp** 3: 31.07. bis 06.08.2023
@@ -19,14 +89,20 @@ Daher laden wir diesen Sommer zu fünf spektakulären "HammerCAmps ein:
 * **HammerCAmp** 5: 04.09. bis 10.09.2023
 
 <p style="text-align:justify">
-Schwerpunkt werden Arbeiten im Innenraum und die Ausstattung des Altbaus sein. Das Ganze wird ergänzt durch gemeinsames
-veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis). Daneben wird es auch Raum für Workshops, Exkursionen, Filmabende, die ein oder andere Party
-und generell gemeinsame Freizeit geben.
+Schwerpunkt waren Arbeiten im Innenraum und die Ausstattung des Altbaus. Das Ganze wurde ergänzt durch gemeinsames
+veganes Frühstück, Mittagessen und Abendessen (auf Spendenbasis).
+Daneben gab es auch Raum und Zeit für Workshops, Exkursionen, Filmabende, die ein oder andere Party
+und generell gemeinsame Freizeit.
 <p>
 
-Hier unsere [ausführliche Einladung](Einladung_HammerCAmps.pdf) und der [Link zur Anmeldung](https://app.guestoo.de/public/event/bf84e343-94e0-4cec-a5ec-a709190dc13a):
-
-<object data="Einladung_HammerCAmps.pdf" type="application/pdf" width="100%" height="100%"> This browser does not support PDFs. Please download the PDF to view it: <a href="Einladung_HammerCAmps.pdf">Download PDF</a></object>
+<div class="columns">
+  <div class="column">
+    {{< img src="son4" attr="CA" alt="Sharepic für die HammerCAmps - Vorderseite" />}}
+  </div>
+  <div class="column">
+    {{< img src="arka3" attr="CA" alt="Sharepic für die HammerCAmps - Rückseite" />}}
+  </div>
+</div>
 
 ## Partizipative Baustellen 2022
 
