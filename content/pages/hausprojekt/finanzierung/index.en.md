@@ -9,7 +9,7 @@ into the finances of the old and new buildings and make our financing plans as t
 In the following you will get an overview of the costs and financing (according to the current planning) for the realization
 of both buildings, as well as the current status of the direct loans raised.
 <br><br>
-If you have any questions regarding the funding, please do contact us! Our email address is [kontakt@collegiumacademicum.de](mailto:kontakt@collegiumacademicum.de)
+If you have any questions regarding the funding, please do contact us! Our email address is <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a> and
 our phone number is +49 (0)6221-6734812.
 <p>
 
@@ -22,11 +22,11 @@ The total costs are around <b>21 million euros</b> for the new building and arou
 They include the costs for the building plot, infrastructural development, building construction,
 technical facilities, outdoor facilities, furnishing and ancillary building costs.
 Costs such as interest incurred during construction and funds available for research are also included in the calculations.
-Through adjustments and progress in planning, the exact numbers in our calculations are constantly being concretised.
+Through adjustments and progress in planning, the exact numbers in our calculations are constantly being refined.
 In the new building, the construction work is already close to the finish line and also in the old building, we have 
 already placed orders for the majority of the construction work.
 This gives us a high degree of cost certainty. 
-[Here]({{< relref "/pages/hausprojekt/gebaeude"  >}} ) you can find further details regarding the architecture and
+<a href="{{< relref "/pages/hausprojekt/gebaeude"  >}}">Here</a> you can find further details regarding the architecture and
 planning status of our buildings.
 </p>
 
@@ -56,7 +56,7 @@ Our project was recognised to be 'outstanding' under the
 future investment program by the Federal Ministry for Construction and we obtained a government grant of ca. 2.12 million euros.
 An additional grant over 500,000 euros was approved in the context of the program
 <a href="https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/" target="_blank">"Holz
-Innovativ"]</a>(innovation in wood) that is
+Innovativ"</a>(innovation in wood) that is
 financed by the European Regional Development Fund
 <a href="https://ec.europa.eu/regional_policy/de/funding/erdf/" target="_blank">EFRE</a> and
 the German State of Baden-Württemberg.
@@ -82,7 +82,6 @@ The project is realised according to the <a href="https://www.syndikat.org/en/">
 In this matter, we work together with project advisors in Freiburg.
 In this financing model, direct loans constitute an important source of funding.
 These are subordinated loans made by individuals who would like to support the project or want to be part of it.
-In the current planning, we need to raise approximately €3.2 million in direct loans and donations.
 <br><br>
 We have raised around 2.9 million euros in subordinated loans for the new building.
 In order to cushion increases in construction costs, we still urgently need around 400,000 euros for the new building and therefore really need your support.
@@ -123,7 +122,7 @@ KfW funding is supplemented by house bank loans.
 #### Large old building
 
 <p style="text-align: justify">
-As with the new building, a large part of the costs of around €8 million for the old building will be implemented via a
+As with the new building, a large part of the costs of around 8 million euros for the old building will be implemented via a
 bank loan and a grant from KfW.
 A particularly large amount of money is being invested in the energy-efficient refurbishment of the building in order to
 achieve the targeted KfW 55 standard.
@@ -131,17 +130,17 @@ achieve the targeted KfW 55 standard.
 
 ### Other sources
 
-
-
 #### Sponsorship
 
+<p style="text-align: justify">
 Our project is very present in the public eye, both as an IBA-project and because of the many special features such as 
 timber construction, use concept and modular space.
-You can find a [publication]({{< relref "/pages/presse-links/presse">}}) overview on our press page.
-
+You can find a <a href="{{< relref "/pages/presse-links/presse">}}">publication</a> overview on our press page.
+</p>
 
 #### Our own work ("Eigenleistung")
 
+<p style="text-align: justify">
 "Eigenleistung" means that we, as a project group, tackle the work ourselves and carry out craft work and construction
 work on our own.
 The entire project is based on taking initiative and working in a team and contributing in construction work is an
@@ -149,29 +148,32 @@ integral part of the project.
 Since 2020, therefore, work camps and volunteer activities on the construction site have been regularly on our schedules.
 Many opportunities for personal contribution of project group members were planned from the outset, but some also arise
 in the course of construction progress.
-
+<br><br>
 Despite its potential, the planning foresees only a very modest amount of own work, in line with a conservative planning
 approach.
-In the new building, it currently amounts to about €400,000.
+In the new building, it currently amounts to about 400,000 euros.
 This mainly comprises work in the outdoor areas, paintwork, assembling the furniture and constructing sliding walls and 
 partitions.
 In the old building, we have so far mainly carried out demolition work ourselves.
 Soon other tasks will follow, such as straw dry construction, furniture manufacturing and paintwork.
-
+<br><br>
 In the future, there will continue to be opportunities to reduce construction costs or avoid additional costs through
 our own contributions.
+</p>
 
 ## Refunding of loans
 
+<p style="text-align: justify">
 Bank loans and direct loans will be paid off from the moment the first tenants move in,
 through the income generated by the rents minus running costs for operations and maintenance.
 The rent including heating costs in the new building is around 375 euros per month and person.
 This rental income will be also used for our large common areas.
-
+<br><br>
 Since our project is not profit-oriented and the tenants will be co-owners at the same time, we can guarantee 
 low-cost rents in the long-term. 
 When the first residents move in, we will also start paying a so-called solidarity contribution within the framework of 
 the Mietshäuser Syndikat, which will support new house projects as they get started.
+</p>
 
 {{< img src="refinanzierung" alt="Refinanzierung" style="margin: 10%" attr="Project group"/>}}
 
