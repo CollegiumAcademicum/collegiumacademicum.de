@@ -21,7 +21,7 @@ oder telefonisch unter 06221-6734812.
 ## Projektkosten
 
 <p style="text-align: justify">
-Das selbstverwaltete Wohnheim in Trägerschaft der Collegium Academicum GmbH
+Das selbstverwaltete Wohnprojekt in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
 für den Neubau liegen bei etwa <b>21 Millionen Euro</b>, die für den Altbau bei etwa <b>8 Millionen Euro</b>.
 Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
@@ -73,16 +73,16 @@ Passivhausbauweise des Wohnheims (190.500 Euro).
 ### Förderung des Altbaus
 
 <p style="text-align: justify">
-FÜr die Wohnungen mit Sozialbindung im Altbau werden wir vom Land mit etwa 1,1 Mio Euro im Rahmen des Förderprogramms
+Für die Wohnungen mit Sozialbindung im Altbau werden wir vom Land mit etwa 1,1 Mio Euro im Rahmen des Förderprogramms
 Wohnungsbau BW 2022 gefördert. Zudem erhalten wir einen KfW-Zuschuss in Höhe von etwa 0.93 Mio. Euro aus der
 Bundesförderung für effiziente Gebäude für die Erfüllung der Effizienzstufe KfW55. Wir auch beim Neubau unterstützt die
 Stadt auch beim Altbau die barrierearme Planung (ca. 22.000 Euro).
 </p>
 
-### Direktkredite und Spenden
+### Direktkredite
 
 <p style="text-align: justify">
-Das Projekt wird entsprechend des Modells des Mietshäuser Syndikats
+Das Projekt wird entsprechend des Modells des <a href="https://www.syndikat.org/">Mietshäuser Syndikat"</a>
 umgesetzt, mit dem deutschlandweit bereits über 170 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
@@ -90,14 +90,15 @@ Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 <br><br>
-Für den Neubau haben wir etwa 2,8 Millionen Euro an nachrangigen Darlehen und Spenden eingeworben.
-Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 300.000 Euro für den Neubau und brauchen deshalb 
+Für den Neubau haben wir etwa 2,9 Millionen Euro an nachrangigen Darlehen eingeworben.
+Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 400.000 Euro für den Neubau und brauchen deshalb
 dringend Ihre Unterstützung.
 <br><br>
-Für die Altbauten werden wir Direktkredite in Höhe von bis zu 1,9 Millionen Euro benötigen.
+Für die Altbauten haben wir erfolgreich 1,55 Millionen Euro Direktkredite gesammelt.
+<br><br>
 Der <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}">aktuelle Stand</a>
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
-
+Daneben sammeln wir auch Spenden für die Bildungsarbeit des CA.
 Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
 </p>
 
@@ -177,13 +178,13 @@ Auch in Zukunft bestehen weitere Chancen, durch Eigenleistung Baukosten zu reduz
 Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
 Bewohner*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
-Bewohner*innen im Neubau beläuft sich auf rund 310 Euro/Monat/Person. Über diese Mieten werden
+Bewohner*innen im Neubau beläuft sich auf rund 375 Euro/Monat/Person. Über diese Mieten werden
 auch die großen Gemeinschaftsflächen mitfinanziert.
 <br><br>
 Da unser Projekt nicht
 gewinnorientiert ist und die Bewohner*innen zugleich Miteigentümer*innen
 sein werden, können wir langfristig kostengünstige Mieten garantieren. Auch werden wir mit Einzug
-der ersten Bewohner*innen beginnen, im Rahmen des Mietshäuser-Syndikats einen sogenannten Solidarbeitrag zu zahlen,
+der ersten Bewohner*innen beginnen, im Rahmen des Mietshäuser Syndikats einen sogenannten Solidarbeitrag zu zahlen,
 mit dem neue Hausprojekte bei ihrem Start unterstützt werden.
 </p>
 
@@ -194,9 +195,9 @@ mit dem neue Hausprojekte bei ihrem Start unterstützt werden.
 <div class="columns">
 <div class="column" style="text-align: center">
 
-<h3 style="color:#b61c20"> Neubau </h3>
+<h3 style="color:#32aca3"> Neubau </h3>
 
-<div class="colored-table-red">
+<div class="colored-table-blue">
 
 Fördermittel | ≈2,90 Mio. € |
 --- | ---:
@@ -210,10 +211,10 @@ Förderprogramm <br>"Barrierefreie Lebenslaufwohnungen" | 0,05 Mio. € |
 </div>
 <div class="column" style="text-align: center">
 
-<h3 style="color:#32aca3"> Altbau </h3>
+<h3 style="color:#b61c20"> Altbau </h3>
 <!--<h3 style="background-color:rgba(182,28,32,0.5);"> Neubau </h3>-->
 
-<div class="colored-table-blue">
+<div class="colored-table-red">
 
 Fördermittel | ≈2,05 Mio. € |
 --- | ---:
@@ -228,18 +229,18 @@ Förderprogramm <br>"Barrierefreie Lebenslaufwohnungen" | ≈ 0,02 Mio. €|
 <div class="columns">
 <div class="column" style="text-align: center">
 
-<div class="colored-table-red">
+<div class="colored-table-blue">
 
 Private Unterstützung | ≈ 3,2 Mio. € |
 --- | ---:
 Direktkredite (nachrangige Darlehen) | ≈ 3,1 Mio. €
-Darlehen Förderverein | ≈ 0,1 Mio. €
+Darlehen Förderverein | ≈ 0,1 Mio. € |
 
 </div>
 </div>
 <div class="column" style="text-align: center">
 
-<div class="colored-table-blue">
+<div class="colored-table-red">
 
 Private Unterstützung |  |
 --- | ---:
@@ -252,18 +253,18 @@ Direktkredite (nachrangige Darlehen) | ≈ 1,3 Mio. € |
 <div class="columns">
 <div class="column" style="text-align: center">
 
-<div class="colored-table-red">
+<div class="colored-table-blue">
 
 Bankfinanzierung | ≈ 14,6 Mio. € |
 --- | ---:
-KfW<br>(Zinsvergünstigtes Darlehen KfW 40+)<br>und Kredit der Umweltbank | ≈ 13,4 Mio. €
+KfW<br>(Zinsvergünstigtes Darlehen KfW 40+)<br>und Kredit der Umweltbank | ≈ 13,4 Mio. € |
 Hausbankkredite | ≈ 1,2 Mio. € |
 
 </div>
 </div>
 <div class="column" style="text-align: center">
 
-<div class="colored-table-blue">
+<div class="colored-table-red">
 
 Bankfinanzierung |  |
 --- | ---:
@@ -276,18 +277,18 @@ Umweltbank | 4,909 Mio. € |
 <div class="columns">
 <div class="column" style="text-align: center">
 
-<div class="colored-table-red">
+<div class="colored-table-blue">
 
 Sonstiges |  ≈ 0,5 Mio. € |
 --- | ---:
-Eigenleistungen | ≈ 0,4 Mio. € |
+Eigenleistung | ≈ 0,4 Mio. € |
 Sponsoring | ≈ 0,1 Mio. € |
 </div>
 </div>
 
 <div class="column" style="text-align: center">
 
-<div class="colored-table-blue">
+<div class="colored-table-red">
 
 Sonstiges |  |
 --- | ---:
@@ -300,7 +301,7 @@ Eigenleistungen | ≈ 0,37 Mio. € |
 <div class="columns">
 <div class="column" style="text-align: center">
 <hr style="border:1px solid"> </hr>
-<div class="colored-table-red">
+<div class="colored-table-blue">
 
 Gesamtinvestitionssumme | ≈ 21,2 Mio. € |
 --- | ---:
@@ -312,7 +313,7 @@ Gesamtinvestitionssumme | ≈ 21,2 Mio. € |
 
 <hr style="border:1px solid"> </hr>
 
-<div class="colored-table-blue">
+<div class="colored-table-red">
 
 Gesamtinvestitionssumme | ≈ 8,13 Mio. € |
 --- | ---:
