@@ -10,6 +10,6 @@
             </div>
         </div>
     {{ else }}
-        <a href="{{ .URL | absLangURL }}" class="navbar-item">{{ .Name }}</a>
+        <a href="{{ .URL | absLangURL }}" class="navbar-item">{{ .Pre }} {{ .Name }}</a>
     {{ end }}
 {{ end }}

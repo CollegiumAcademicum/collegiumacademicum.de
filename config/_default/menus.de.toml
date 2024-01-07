@@ -1,36 +1,31 @@
 [[main]]
+    pre = '<i class="icon-home"></i>'
+    url = "/"
+    weight = 1
+
+[[main]]
     name = "Über uns"
     url = "/ueber-uns"
-    weight = 1
-[[main]]
-    name = "Aktuelles"
-    url = "/aktuelles"
-    weight = 1
-    parent = "Über uns"
-[[main]]
-    name = "Projektvorstellung und Timeline"
-    url = "/projektvorstellung"
     weight = 2
+[[main]]
+    name = "Projektvorstellung"
+    url = "/projektvorstellung"
+    weight = 1
     parent = "Über uns"
 [[main]]
     name = "Unser Leitbild"
     url = "/leitbild"
-    weight = 3
-    parent = "Über uns"
-[[main]]
-    name = "Geschichte des alten CA"
-    url = "/geschichte"
-    weight = 4
+    weight = 2
     parent = "Über uns"
 [[main]]
     name = "In der Presse"
     url = "/presse"
-    weight = 5
+    weight = 4
     parent = "Über uns"
 [[main]]
     name = "Literatur und eigene Veröffentlichungen"
     url = "/literatur"
-    weight = 6
+    weight = 5
     parent = "Über uns"
 
 [[main]]
@@ -88,14 +83,9 @@
     weight = 3
     parent = "Veranstaltungen"
 [[main]]
-    name = "Anfahrt"
-    url = "/anfahrt"
-    weight = 3
-    parent = "Veranstaltungen"
-[[main]]
     name = "Café"
     url = "/cafe"
-    weight = 3
+    weight = 4
     parent = "Veranstaltungen"
 
 [[main]]
@@ -122,3 +112,7 @@
     url = "/foerderverein"
     weight = 4
     parent = "Unterstützen"
+[[main]]
+    name = "Kontakt"
+    url = "/anfahrt"
+    weight = 7
