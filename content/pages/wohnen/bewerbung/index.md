@@ -4,7 +4,7 @@ slug: "bewerbung"
 novoigl: yes
 ---
 
-<form action="/website/bewerbung/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. April 2024. Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort bis spätestens Freitag, 2. Februar hier dafür bewerben:</p>
