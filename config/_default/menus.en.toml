@@ -107,7 +107,7 @@
     weight = 4
     parent = "Living"
 [[main]]
-    name = "Temporary_rooms"
+    name = "Temporary rooms"
     url = "/temporary_rooms"
     weight = 5
     parent = "Living"
