@@ -67,8 +67,3 @@
     url = "/presse-liens"
     weight = 3
     parent = "Qui sommes-nous?"
-[[main]]
-    name = "Partenaires"
-    url = "/partenaires"
-    weight = 4
-    parent = "Qui sommes-nous?"

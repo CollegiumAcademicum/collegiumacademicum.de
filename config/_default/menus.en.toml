@@ -72,14 +72,9 @@
     weight = 3
     parent = "About us"
 [[main]]
-    name = "Partners"
-    url = "/partners"
-    weight = 4
-    parent = "About us"
-[[main]]
     name = "How to get to us"
     url = "/map"
-    weight = 5
+    weight = 4
     parent = "About us"
 
 [[main]]
