@@ -13,6 +13,7 @@
 
 .accordion
     margin-bottom: 1rem
+    cursor: pointer
     h5
         border: 1px solid $grey
         padding: 1rem
@@ -22,6 +23,20 @@
         padding: 1rem
         border-width: 0 1px 1px 1px
         margin: 0
+
+.accordion h5::after
+    border: 3px solid rgba(0, 0, 0, 0)
+    border-radius: 2px
+    border-right: 0
+    border-top: 0
+    content: " "
+    height: 1em
+    margin-top: -0.3em
+    transform: rotate(-45deg)
+    transform-origin: center
+    width: 1em
+    border-color: #35ADA4
+    float: right
 
 .grid-col
     display: grid
