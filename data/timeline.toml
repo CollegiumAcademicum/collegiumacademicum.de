@@ -3,6 +3,11 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "September 2023"
+content = "Mitgliederversammlung des <a href='https://www.syndikat.org/'>Mietshäuser Syndikats</a>. Wohnprojekte aus ganz Deutschland sind bei uns zu Gast."
+
+
+[[timeline]]
 heading = "Juli bis September 2023"
 content = "<a href='https://collegiumacademicum.de/aktionen/'>HammerCAmps</a>: Werkeln im Altbau mit vielfältigem Rahmenprogramm"
 
