@@ -60,7 +60,7 @@ Responsible for the organization of the application process and for the selectio
 All selected applicants who have not received an acceptance can be added to our waiting list. We assign places via the waiting list if rooms become vacant at short notice before the next move-in date, but this will only happen in exceptional cases. So it is rather unlikely to get a place in the dormitory via the waiting list. The waiting list will be emptied after 3 months. You are allowed to reapply on every move-in date and you are always welcome to participate in our project independent of that.
 {{< /accordion >}}
 {{< accordion "Can I apply even if I am not studying or doing an apprenticeship?" >}}
-This is only possible in very few exceptional cases for people who are structurally strongly disadvantaged on the housing market and are in another type of training/study (e.g. German course, FSJ or similar). The particular disadvantage as well as the current main occupation must be briefly described in addition to the application informally via email to einziehen@collegiumacademicum.de.
+Unfortunately, this is currently not possible.
 {{< /accordion >}}
 {{< accordion "Is there an age restriction? Can I apply if I am not yet 18 years old? " >}}
 Currently, for legal reasons, you must be at least 18 years old when you move in, but you can already apply before your 18th birthday.
