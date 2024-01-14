@@ -60,7 +60,7 @@ Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden 
 Alle ausgewählten Bewerber*innen, die keine Zusage bekommen haben, können auf unsere Warteliste aufgenommen werden. Wir vergeben Plätze über die Warteliste, falls Zimmer vor dem nächsten Einzugsdatum kurzfristig frei werden, was aber nur in Ausnahmefällen vorkommen wird. Es ist also eher unwahrscheinlich, über die Warteliste einen Platz im Wohnheim zu bekommen. Die Warteliste wird nach 3 Monaten geleert. Du darfst dich zu jedem Einzugstermin neu bewerben und selbstverständlich auch unabhängig davon an unserem Projekt mitarbeiten.
 {{< /accordion >}}
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere oder eine Ausbildung mache?" >}}
-Dies ist nur in sehr wenigen Ausnahmefällen im Rahmen einer Härtefallregelung möglich und für Menschen, die auf dem Wohnungsmarkt strukturell stark benachteiligt sind und sich in einer anderen Art der Ausbildung/Studium befinden (z. B. Deutschkurs, FSJ o. ä.). Die besondere Benachteiligung sowie die aktuelle hauptsächliche Beschäftigung müssen parallel zur Bewerbung über das Onlineformular formlos per E-Mail an einziehen@collegiumacademicum.de kurz geschildert werden.
+Dies ist derzeit leider nicht möglich.
 {{< /accordion >}}
 {{< accordion "Gibt es ein Mindestalter? Kann ich mich bewerben, wenn ich noch nicht volljährig bin?">}}
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
