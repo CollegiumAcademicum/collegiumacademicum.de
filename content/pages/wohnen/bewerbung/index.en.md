@@ -151,7 +151,7 @@ Moving-in is always possible at the beginning of a quarter (October 1, January 1
   <div class="control">
     <label class="checkbox" for="check_education_status">
       <input type="checkbox" required name="check_education_status">
-        I am aware that I can only move into the CA with a proven educational status or by previously sending a separate hardship application via mail.
+        I am aware that only apprentices, university students and doctoral candidates are allowed to live in the dormitory.
     </label>
   </div>
 </div>
