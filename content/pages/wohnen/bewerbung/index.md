@@ -157,7 +157,7 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
   <div class="control">
     <label class="checkbox" for="check_education_status">
       <input type="checkbox" required name="check_education_status">
-        Mir ist bewusst, dass ich nur mit Ausbildungsstatus oder einem per Mail gestellten formlosen Härtefallantrag in das CA einziehen kann.
+        Mir ist bewusst, dass nur Auszubildende, Studierende und Promovierende im Wohnheim wohnen dürfen.
     </label>
   </div>
 </div>
