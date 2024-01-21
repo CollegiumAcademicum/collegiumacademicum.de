@@ -6,21 +6,11 @@
       <a href="{{ with .Site.GetPage "/spenden" }}{{ .Permalink }}{{end}}" class="button is-hidden-mobile is-fullwidth is-link">{{ i18n "spenden" }}</a>
 
     <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/oj_kloetzchen.png" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "orientierungsjahr" }}</p>
-          {{ i18n "oj-message"}}
-          <br>
-            <a href="https://faltr.de/home" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faltr" }}</a>
-        </div>
-      </div>
-
-    <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
         <div class="card-content">
           <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
           {{ i18n "einziehen-message-aside"}}
-            <a href="{{ with .Site.GetPage "/befristete_zimmer" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-zwischenmiete" }}</a>
+            <a href="{{ with .Site.GetPage "/mietwohnraum" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-sowobau" }}</a>
             <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-wohnheim" }}</a>
             <a href="{{ with .Site.GetPage "/faq" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faq" }}</a>
         </div>
@@ -35,8 +25,7 @@
         </div>
       </div>
 
-    
-	<div class="card">
+    <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/baustelle.jpg" | relURL }});"></div>
         <div class="card-content">
             <p class="title is-3 is-marginless">{{ i18n "exkursionen" }}</p>
@@ -45,7 +34,7 @@
             </p>
             <br>
               <table>
-                  <tr><td>21.01.2024</td> <td>14:00 Uhr</td></tr>
+                  <tr><td>27.08.2023</td> <td>14:00 Uhr</td></tr>
 	          </table>
             <br>
 
@@ -55,8 +44,7 @@
             {{ i18n "exkursionen-where"}} <a href="https://collegiumacademicum.de/anfahrt/">Anfahrt</a>.
             <br>
         </div>
-      </div> 
-
+      </div>
 
       <div class="card">
         <a href="{{ with .Site.GetPage "/anfahrt" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/anfahrt.jpg" | relURL }});"></a>
@@ -72,13 +60,6 @@
           <p class="title is-3 is-marginless">{{ i18n "newsletter" }}</p>
           {{ i18n "newsletter-message" }}
           {{ partial "newsletter-signup.html" }} <br />
-        </div>
-      </div>
-
-      <div class="card is-hidden-mobile">
-        <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></a>
-        <div class="card-content">
-          <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
         </div>
       </div>
 
