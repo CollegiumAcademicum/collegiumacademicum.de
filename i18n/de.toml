@@ -84,7 +84,7 @@ other = "Das Orientierungsjahr"
 other = "Zum falt*r"
 
 [oj-message]
-other = "Im Winter 2023/2024 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
+other = "Anfang 2024 startet der erste Jahrgang unseres Orientierungsjahres falt*r. Auf unserer Website informieren wir über die Vision, das Programm und die Teilnahme."
 
 [richtfest]
 other = "Richtfest"
@@ -136,11 +136,13 @@ other = "Abonniere unseren Interessierten-Newsletter"
 
 [summerschool]
 # other = "Partizipative Baustelle"
-other = "HammerCAmps"
+# other = "HammerCAmps"
+other = "Eigenleistung"
 
 [summerschool-message]
 # other = "Das CA hat im Sommer mehrere partizipative Baustellen mit spannendem Bildungsprogramm veranstaltet. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
-other = "Wie in den vergangenen Jahren organisiert das CA diesen Sommer wieder gemeinschaftliche Arbeitseinsätze auf der Baustelle. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
+# other = "Wie in den vergangenen Jahren organisiert das CA diesen Sommer wieder gemeinschaftliche Arbeitseinsätze auf der Baustelle. In diesen Sommercamps verbinden wir bauliche Aktivitäten mit Bildung und Gemeinschaft!"
+other = "Nach den großartigen HammerCAmps im Sommer ging es im Herbst mit Wochenendeinsätzen im Altbau weiter. Die nächste Aktion findet direkt am Jahresanfang vom 2. bis 6. Januar 2024 statt!"
 
 [informieren]
 other = "Informieren"
@@ -168,6 +170,12 @@ other = "Sozialer Mietwohnraum"
 
 [pitch-sowobau]
 other = "Wohnen ist Grundrecht: Wir schaffen im Altbau sozialen Mietwohnraum."
+
+[header-wohnungen]
+other = "Wohnungen"
+
+[header-zwischenmiete]
+other = "Zimmer zur Zwischenmiete"
 
 [header-oj]
 other = "falt*r - Das Orientierungsjahr"

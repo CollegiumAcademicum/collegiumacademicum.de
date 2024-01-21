@@ -6,16 +6,6 @@
       <a href="{{ with .Site.GetPage "/spenden" }}{{ .Permalink }}{{end}}" class="button is-hidden-mobile is-fullwidth is-link">{{ i18n "spenden" }}</a>
 
     <div class="card">
-        <div class="card-image" style="background-image: url({{ "img/layout/oj_kloetzchen.png" | relURL }});"></div>
-        <div class="card-content">
-          <p class="title is-3 is-marginless">{{ i18n "orientierungsjahr" }}</p>
-          {{ i18n "oj-message"}}
-          <br>
-            <a href="https://faltr.de/home" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faltr" }}</a>
-        </div>
-      </div>
-
-    <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
         <div class="card-content">
           <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
@@ -70,13 +60,6 @@
           <p class="title is-3 is-marginless">{{ i18n "newsletter" }}</p>
           {{ i18n "newsletter-message" }}
           {{ partial "newsletter-signup.html" }} <br />
-        </div>
-      </div>
-
-      <div class="card is-hidden-mobile">
-        <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="card-image" style="background-image: url({{ "img/layout/brochure.jpg" | relURL }});"></a>
-        <div class="card-content">
-          <a href="{{ with .Site.GetPage "/brochure" }}{{ .Permalink }}{{end}}" class="button is-radiusless is-fullwidth is-link">{{ i18n "broschure-ansehen" }}</a>
         </div>
       </div>
 
