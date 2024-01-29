@@ -42,7 +42,7 @@ Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmä
 (auch Partys und andere Abendveranstaltungen) genutzt wird.
 </p>
 
-Noch Fragen? Dann schreibt uns gerne an zwischenmiete.altbau@collegiumacademicum.de oder ruft uns an unter <a href="tel:062214312480">06221 4312480</a>.
+Noch Fragen? Dann schreibt uns gerne an zwischenmiete.altbau@collegiumacademicum.de.
 
 Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jahr hier zu wohnen?
 
