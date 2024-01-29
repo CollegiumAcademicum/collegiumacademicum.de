@@ -40,8 +40,10 @@ The building uses an ecological construction method: This includes an insulation
 walls made of straw, passive ventilation, triple-glazed windows and green electricity from its own roof.
 <br><br>
 ou should be in the mood for a colorful house community. Due to our location on the US hospital conversion site, there is currently often a building site around us with the associated noise. There is also a large assembly hall in our new building next door, which is regularly used for events (including parties and other evening events).
-Do you have any questions? Then please write to us at zwischenmiete.altbau@collegiumacademicum.de or call us on <a href="tel:062214312480">06221 4312480</a>.
 </p>
+
+Do you have any questions? Then please write to us at zwischenmiete.altbau@collegiumacademicum.de.
+
 
 Would you like to be part of our project and can you imagine living here for six months?
 
