@@ -39,7 +39,7 @@ There is also central internet access and plenty of (garden) space for strolling
 The building uses an ecological construction method: This includes an insulation standard of KfW 55, interior
 walls made of straw, passive ventilation, triple-glazed windows and green electricity from its own roof.
 <br><br>
-ou should be in the mood for a colorful house community. Due to our location on the US hospital conversion site, there is currently often a building site around us with the associated noise. There is also a large assembly hall in our new building next door, which is regularly used for events (including parties and other evening events).
+You should be in the mood for a colorful house community. Due to our location on the US hospital conversion site, there is currently often a building site around us with the associated noise. There is also a large assembly hall in our new building next door, which is regularly used for events (including parties and other evening events).
 </p>
 
 Do you have any questions? Then please write to us at zwischenmiete.altbau@collegiumacademicum.de.
