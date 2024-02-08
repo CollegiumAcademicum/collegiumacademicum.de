@@ -3,7 +3,6 @@ title: "Freely financed apartments"
 slug: "freely_financed_apartments"
 novoigl: yes
 ---
-**We are currently not accepting any further applications.**
 
 <p style="text-align:justify">
 You want to live self managed?
@@ -36,7 +35,7 @@ Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacadem
 <br>
 </p>
 
-<!-- You want to be part of our project and can imagine living in one of the two unsubsidised flats in an old building?
+You want to be part of our project and can imagine living in the two-room flat?
 </p>
 
 <div class="buttons is-centered">
@@ -48,18 +47,17 @@ Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacadem
     </a>
 </div>
 
-After applying, you will be invited to a guided tour of the building and our grounds, which will take place in January.-->
+After applying, you will be invited to a guided tour of the building and our grounds.
 
 
 Progress occupancy:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="2" max="2"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;"> 2/2 </p>
+  <progress class="progress is-large is-primary" value="1" max="2"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 1/2 </p>
 </div>
 </div>
 
-We are delighted that we have found great people who will soon be moving into the two unsubsidised flats in the old building.
 
 ## Floor plans and amount of rent
 
@@ -89,7 +87,7 @@ Second floor
 |**Incidental costs**|Expected 235 €|
 
 
-### Apartment 2 (6 rooms)
+### Apartment 2 (6 rooms) - no longer available
 Maisonette apartment, Second floor to attic floor
 <p style="text-align:justify">
 

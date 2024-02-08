@@ -3,7 +3,6 @@ title: "Ungeförderte Wohnungen"
 slug: "freifinanzierte_wohnungen"
 novoigl: yes
 ---
-**Aktuell nehmen wir keine weiteren Bewerbungen entgegen.**
 
 <p style="text-align:justify">
 Du hast Lust auf Selbstverwaltung? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
@@ -58,7 +57,7 @@ Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegi
 <br>
 </p>
 
-<!-- Du willst Teil unseres Projektes werden und kannst dir vorstellen, in einer der beiden ungeförderten Altbauwohnungen zu wohnen?
+Du willst Teil unseres Projektes werden und kannst dir vorstellen, in der 2-Zimmer-Wohnung zu wohnen?
 
 
 <div class="buttons is-centered">
@@ -68,17 +67,18 @@ Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegi
         </span>
         <span>Dann bewirb dich jetzt!</span>
     </a>
-</div> -->
+</div>
+
+Nach der Bewerbung wirst du zu einer Führung durch das Gebäude und über unser Gelände eingeladen.
 
 Fortschritt Wohnungsbelegung:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="2" max="2"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;">2 von 2</p>
+  <progress class="progress is-large is-primary" value="1" max="2"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">1 von 2</p>
 </div>
 </div>
 
-Wir freuen uns, dass wir tolle Menschen gefunden haben, die bald die zwei ungeförderten Wohnungen im CA-Altbau beziehen werden.
 
 ## Pläne und Höhe der Mieten
 
@@ -108,7 +108,7 @@ Zweites Obergeschoss
 |**Nebenkosten**|Voraussichtlich 235 €|
 
 
-### Wohnung 2 (6 Zimmer)
+### Wohnung 2 (6 Zimmer) - nicht mehr verfügbar
 Maisonette-Wohnung, Zweites Obergeschoss bis Dachgeschoss
 <p style="text-align:justify">
 
