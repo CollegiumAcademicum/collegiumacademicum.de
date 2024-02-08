@@ -1,7 +1,12 @@
 [[main]]
+    pre = '<i class="icon-home"></i>'
+    url = "/"
+    weight = 1
+
+[[main]]
     name = "Housing Project"
     url = "/housing-project"
-    weight = 1
+    weight = 2
 [[main]]
     name = "Our buildings"
     url = "/buildings"
@@ -31,7 +36,7 @@
 [[main]]
     name = "Support"
     url = "/support"
-    weight = 2
+    weight = 3
 [[main]]
     name = "Join us!"
     url = "/join-us"
@@ -52,10 +57,11 @@
     url = "/activities"
     weight = 4
     parent = "Support"
+
 [[main]]
     name = "About us"
     url = "/about-us"
-    weight = 3
+    weight = 4
 [[main]]
     name = "Our vision"
     url = "/vision"
