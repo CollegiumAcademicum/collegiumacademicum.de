@@ -1,7 +1,12 @@
 [[main]]
+    pre = '<i class="icon-home"></i>'
+    url = "/"
+    weight = 1
+
+[[main]]
     name = "Habitat autogéré"
     url = "/habitat-autogere"
-    weight = 1
+    weight = 2
 [[main]]
     name = "Nos bâtiments"
     url = "/batiments"
@@ -31,7 +36,7 @@
 [[main]]
     name = "Soutien"
     url = "/soutien"
-    weight = 2
+    weight = 3
 [[main]]
     name = "Participer"
     url = "/participer"
@@ -51,7 +56,7 @@
 [[main]]
     name = "Qui sommes-nous?"
     url = "/qui-sommes-nous"
-    weight = 3
+    weight = 4
 [[main]]
     name = "Nos Principes"
     url = "/principes"
