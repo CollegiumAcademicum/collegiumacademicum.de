@@ -110,6 +110,9 @@ other = "Newsletter"
 [newsletter-message]
 other = "Wir halten dich mit unserem ca. alle 2-3 Monate erscheinenden Newsletter über alle Neuigkeiten des CA auf dem Laufenden."
 
+[newsletter-message2]
+other = "Oder lies den Newsletter online:"
+
 [termine]
 other = "Termine"
 
