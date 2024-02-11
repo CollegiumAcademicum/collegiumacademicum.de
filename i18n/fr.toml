@@ -61,7 +61,7 @@ other = "N'hésites pas à nous contacter:"
 [ich-will-spaeter-einziehen]
 other = "Je désire emménager!"
 
-[newsletter-anmelde]
+[newsletter-anmelden]
 other = "S'abonner au bulletin d'infos"
 
 [voigl-message]
@@ -118,6 +118,9 @@ other = "Bulletin d'information"
 
 [newsletter-message]
 other = "Nous vous tiendrons au courant de toute l'actualité du CA grâce à notre bulletin d'information (en allemand)."
+
+[newsletter-message2]
+other = "Ou lis le bulletin d'information en ligne:"
 
 [termine]
 other = "Rendez-vous"

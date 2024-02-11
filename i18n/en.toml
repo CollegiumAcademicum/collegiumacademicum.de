@@ -56,7 +56,7 @@ other = "Then get in touch with us:"
 [ich-will-spaeter-einziehen]
 other = "I am interested to move in later!"
 
-[newsletter-anmelde]
+[newsletter-anmelden]
 other = "Sign me up for the newsletter"
 
 [direktkredit-geben]
@@ -113,6 +113,9 @@ other = "Newsletter"
 
 [newsletter-message]
 other = "Sign up for our newsletter to stay up-to-date on all CA news (in German)."
+
+[newsletter-message2]
+other = "Or read the newsletter online:"
 
 [termine]
 other = "Dates"
