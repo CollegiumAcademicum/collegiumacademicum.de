@@ -14,7 +14,7 @@ In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
 Die Bewerbungsfrist für den Einzug im April 2024 ist leider schon vorbei.
 Der nächstmögliche Einzugstermin ist der 1. Juli 2024.
-Dafür kannst du dich ab Anfang Januar über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+Dafür kannst du dich ab Anfang April über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 <br><br>
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
