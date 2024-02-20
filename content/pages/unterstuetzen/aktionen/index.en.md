@@ -4,6 +4,74 @@ slug: "activities"
 aliases: [/summerschool/]
 ---
 
+## Workcamps for the old building in February and March 🛠️
+
+The first great people were able to move into our renovated old building at the end of January.
+In order for the next residents to move in soon, we have to lend a hand once again and complete the last important work.
+
+There will be two work camp weeks again in February and March.
+
+<div class="columns">
+<div class="column" style="text-align: left">
+The first work camp will take place from 24 February to 1 March 2024, daily from 10 am to 6 pm.
+
+- Sat, &emsp;&nbsp;&nbsp; 24.02. &emsp; 10am-6pm
+- Sun, &emsp;&nbsp; 25.02. &emsp; 10am-6pm
+- Mon, &emsp; 26.02. &emsp; 10am-6pm
+- Tue, &emsp;&nbsp;&nbsp; 27.02. &emsp; 10am-6pm
+- Wed, &emsp; 28.02. &emsp; 10am-6pm
+- Thu, &emsp;&nbsp; 29.02. &emsp; 10am-6pm
+- Fri, &emsp;&nbsp;&nbsp;&nbsp;&nbsp; 01.03. &emsp; 10am-6pm
+
+</div>
+
+<div class="column" style="text-align: left">
+
+After a good week's break, it will continue on 11 March:
+
+- Mon, &emsp; 11.03. &emsp; 10am-6pm
+- Tue, &emsp;&nbsp;&nbsp; 12.03. &emsp; 10am-6pm️
+- Wed, &emsp; 13.03. &emsp; 10am-6pm️
+- Thu, &emsp;&nbsp; 14.03. &emsp; 10am-6pm
+- Fri, &emsp;&nbsp;&nbsp;&nbsp;&nbsp; 15.03. &emsp; 10am-6pm
+- Sat, &emsp;&nbsp;&nbsp; 16.03. &emsp; 10am-6pm
+- Sun, &emsp;&nbsp; 17.03. &emsp; 10am-6pm
+
+</div>
+</div>
+
+<div class="columns">
+
+<div class="column" style="text-align: left;">
+
+<figure>
+<img alt="Full commitment to painting (&#169; CA)" src="/newsletter/Jahresrueckblick23/img13.jpg" width=100%" />
+<figcaption style="text-align:centre;">
+<p> Full commitment to painting (&#169; CA)
+</p>
+</figcaption>
+</figure>
+
+
+</div>
+<div class="column" style="text-align: justify">
+
+Look forward to good conversations, lots of fun and a bit of nonsense  😇 🎵 🥳
+
+Helpers are of course invited to lunch (on a voluntary donation basis), which is freshly prepared by us every day.
+
+We will mainly be painting walls and, if our capacities are sufficient, milling wood and building furniture from it.
+There is also always some minor building cleaning work to be done.
+
+The meeting point is Mendelejewplatz 1 (between the new and old buildings), 69126 Heidelberg-Rohrbach
+
+To register, simply send us an informal email to kontakt@collegiumacademicum.de or give us a call on +49 (0)6221 652236.
+
+You can help out for a few hours, for individual days or for a whole week.
+
+</div>
+</div>
+
 ## Welcome 2024 - DIY construction work at the start of the year
 
 We want to make full use of the Christmas vacations and start the new year 2024 with a good portion of DIY work in our old building. ✨
