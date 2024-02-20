@@ -51,7 +51,7 @@ Nach einer guten Woche Pause geht es dann am 11.03. weiter:
 </div>
 <div class="column" style="text-align: justify">
 
-Freut euch auf gute Gespräche, viel Spaß und etwas Blödsinn 😇 🎵 🥳
+Freu dich auf gute Gespräche, viel Spaß und etwas Blödsinn 😇 🎵 🥳
 
 Helfende sind natürlich zum Mittagessen eingeladen (auf freiwilliger Spendenbasis), das von uns täglich frisch zubereitet wird.
 
