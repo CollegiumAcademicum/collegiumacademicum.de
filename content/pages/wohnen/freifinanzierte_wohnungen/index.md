@@ -4,6 +4,8 @@ slug: "freifinanzierte_wohnungen"
 novoigl: yes
 ---
 
+**Aktuell nehmen wir keine weiteren Bewerbungen entgegen.**
+
 <p style="text-align:justify">
 Du hast Lust auf Selbstverwaltung? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
 Dann bist du bei uns, dem CA (Collegium Academicum), genau richtig.
@@ -57,25 +59,12 @@ Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegi
 <br>
 </p>
 
-Du willst Teil unseres Projektes werden und kannst dir vorstellen, in der 2-Zimmer-Wohnung zu wohnen?
-
-
-<div class="buttons is-centered">
-    <a href="{{< relref "/bewerbung_ffw" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Dann bewirb dich jetzt!</span>
-    </a>
-</div>
-
-Nach der Bewerbung wirst du zu einer Führung durch das Gebäude und über unser Gelände eingeladen.
 
 Fortschritt Wohnungsbelegung:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="1" max="2"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;">1 von 2</p>
+  <progress class="progress is-large is-primary" value="2" max="2"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">2 von 2</p>
 </div>
 </div>
 
