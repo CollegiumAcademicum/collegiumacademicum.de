@@ -2,6 +2,12 @@
 heading = "HEUTE"
 center = true
 
+
+[[timeline]]
+heading = "Januar 2024"
+content = "<img src='altbau_saniert.png' />Einzug der Teilnehmendes des <a href='https://faltr.de/'>falt*r-Orientierungsjahres</a> in den frisch sanierten Altbau. Beginn des ersten Jahrgangs."
+
+
 [[timeline]]
 heading = "September 2023"
 content = "Mitgliederversammlung des <a href='https://www.syndikat.org/'>Mietshäuser Syndikats</a>. Wohnprojekte aus ganz Deutschland sind bei uns zu Gast."
