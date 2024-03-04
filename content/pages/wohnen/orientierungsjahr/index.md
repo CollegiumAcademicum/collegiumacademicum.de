@@ -25,13 +25,27 @@ Der sanierte und modernisierte Altbau direkt neben unserem Wohnheim beherbergt E
 50 Teilnehmende, drei große Seminarräume sowie eine Fahrrad- und eine Metallwerkstatt.
 <br><br>
 Auf der falt*r-Webseite bekommt ihr weitere Infos, unter anderem zum Bewerbungsverfahren, zum Programm
-und zum Team:
+und zum Team.
 
-<br><br>
-   <a href="https://faltr.de/" class="field button is-radiusless is-fullwidth is-link">
+
+<p style="text-align:center">
+<a href="https://faltr.de/">
         <span class="icon">
-            <i class="icon-right-big"></i>
+            <i class="icon-globe"></i>
         </span>
-        <span>Zum falt*r</span>
+        <span>Website</span>
+
+<a href="https://www.instagram.com/faltr_orientierungsjahr_im_ca/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
    </a>
-</p>
+
+<a href="mailto:team@faltr.de">
+        <span class="icon">
+            <i class="icon-mail-alt"></i>
+        </span>
+        <span>Mail</span>
+   </a>
+   </p>
