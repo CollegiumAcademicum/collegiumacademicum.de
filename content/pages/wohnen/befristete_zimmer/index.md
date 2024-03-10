@@ -4,6 +4,8 @@ slug: "befristete_zimmer"
 novoigl: yes
 ---
 
+**Derzeit sind keine Bewerbungen mehr möglich**
+
 <p style="text-align:justify">
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
 Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
@@ -44,7 +46,7 @@ Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmä
 
 Noch Fragen? Dann schreibt uns gerne an zwischenmiete.altbau@collegiumacademicum.de.
 
-Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jahr hier zu wohnen?
+<!-- Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jahr hier zu wohnen?
 
 </p>
 
@@ -60,13 +62,13 @@ Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jah
 <p style="text-align:justify">
 Der nächste Bewerbungsschritt ist ein 15 minütiges Online-Gespräch.
 Nach der Zusage von unserer Seite aus könnt ihr zu einer Besichtigung mit anschließender Zimmerwahl vorbeikommen.
-</p>
+</p>-->
 
 Fortschritt Zimmerbelegung:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;">0 von 18</p>
+  <progress class="progress is-large is-primary" value="18" max="18"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">18 von 18</p>
 </div>
 </div>
 

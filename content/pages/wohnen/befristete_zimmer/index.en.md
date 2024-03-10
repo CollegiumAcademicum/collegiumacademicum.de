@@ -4,6 +4,8 @@ slug: "temporary_rooms"
 novoigl: yes
 ---
 
+**Applications for the rooms are currently no longer possible.**
+
 <p style="text-align:justify">
 Would you like to get a taste of self-administration? Then you've come to the right place here at the ecological and
 self-managed CA (Collegium Academicum) housing project. Our old building combines a variety of living concepts.
@@ -45,7 +47,7 @@ You should be in the mood for a colorful house community. Due to our location on
 Do you have any questions? Then please write to us at zwischenmiete.altbau@collegiumacademicum.de.
 
 
-Would you like to be part of our project and can you imagine living here for six months?
+<!-- Would you like to be part of our project and can you imagine living here for six months?
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_befristet" >}}" class="button is-medium is-primary">
@@ -58,13 +60,13 @@ Would you like to be part of our project and can you imagine living here for six
 
 <p style="text-align:justify">
 The next step in the application process is a 15-minute online interview. Once you have been accepted by us, you can come by for a viewing and then choose a room.
-</p>
+</p>-->
 
 Progress occupancy:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="0" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;"> 0/18 </p>
+  <progress class="progress is-large is-primary" value="18" max="18"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 18/18 </p>
 </div>
 </div>
 
