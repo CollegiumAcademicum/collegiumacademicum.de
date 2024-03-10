@@ -4,7 +4,7 @@ slug: "befristete_zimmer"
 novoigl: yes
 ---
 
-**Derzeit sind keine Bewerbungen mehr möglich**
+**Derzeit sind keine Bewerbungen mehr möglich.**
 
 <p style="text-align:justify">
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
