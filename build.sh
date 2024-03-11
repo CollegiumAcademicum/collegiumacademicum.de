@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 PWD=$(pwd)
+echo "Building site in ${PWD}"
+
 hugo -d "${PWD}/upload"
 
 # Inline the Newsletters
