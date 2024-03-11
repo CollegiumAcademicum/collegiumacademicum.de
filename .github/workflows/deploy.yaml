@@ -35,4 +35,4 @@ jobs:
         run: bash build.sh
       - name: Upload to FTP
         # run: ncftpput -R -v -u ${{ secrets.FTP_USER }} -p ${{ secrets.FTP_PASSWORD }} -P ${{ secrets.FTP_PORT }} ${{ secrets.FTP_HOST }} /web/website_github_test/ /upload
-        run: lftp -e "mirror -R /upload /web/website_github_test/; quit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }}
+        run: lftp -e "mirror -R upload /web/website_github_test/; quit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }}
