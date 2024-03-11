@@ -31,11 +31,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Install Node.js dependencies
         run: "npm ci"
-      - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo -d upload \
-          --minify
+      - name: Build with Hugo and Juice
+        # env:
+        #   # For maximum backward compatibility with Hugo modules
+        #   HUGO_ENVIRONMENT: production
+        #   HUGO_ENV: production
+        # run: |
+        #   hugo -d upload \
+        #   --minify
+        # Execute build.sh instead of the above command
+        run: bash build.sh
