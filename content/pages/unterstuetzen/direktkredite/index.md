@@ -5,7 +5,7 @@ novoigl: yes
 
 <div class="columns">
   <div class="column" style="text-align: justify">
-  Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen entsteht ein Ort, der mehr als ein Zuhause sein wird: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+  Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen entsteht ein Ort, der mehr als ein Zuhause ist: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
   </div>
   <div class="column">
     {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}
@@ -25,46 +25,15 @@ novoigl: yes
 Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 <br>
 <br>
-Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, das durch seine
-Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite
-für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärische
-Nutzung in Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
-<br>
-<br>
-Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
+Mit Ihrer Unterstützung haben wir mit unserem Neubau ein architektonisch innovatives Gebäude realisiert, das durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens ist. In unserem Altbau konnten wir mit innovativen Baumaterialien wie Strohplatten möglichst ökologisch sanieren, und die ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umbauen.
 </p>
 
 ## Aktueller Stand
 
 <p style="text-align: justify">
-Mit unglaublichen <b>4,45 Mio. Euro</b> haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen.
-Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung.
-</p>
-
-### Neubau
-
-<p style="text-align: justify">
-Es ist uns bereits gelungen, etwa <b>2,9 Mio. Euro</b> Direktkredite (Stand Oktober 2023) zur Finanzierung des Neubaus einzuwerben.
-Danke an all diejenigen, die uns mit jedem finanziellen Beitrag beim Erfolg des Projekts unterstützen.
-Um Baukostensteigerungen abzufedern, benötigen wir <b>akut noch ca. 400.000 Euro</b> für den Neubau und
-brauchen deshalb dringend Ihre Unterstützung!
-</p>
-
-<progress class="progress is-large is-primary" value="2900" max="3300"></progress>
-
-### Altbauten
-
-<p style="text-align: justify">
-Für die Altbauten haben wir erfolgreich <b>1,55 Mio. Euro</b> Direktkredite gesammelt (Stand Oktober 2023) und
-unser Finanzierungsziel so erfüllt. <b>Wir sagen Danke!</b>
-Da wir immer wieder ältere Direktkredite zurückzahlen, werden immer wieder auch Direktkredite in die Finanzierung der
-Altbauten fließen.
-</p>
-
-<progress class="progress is-large is-primary" value="1550" max="1550"></progress>
-
-
-<p style="text-align: justify">
+Mit unglaublichen <strong>4,6 Mio. Euro</strong> haben hunderte Menschen mit Direktkrediten zum Erfolg unseres Projekts beigetragen. Wir sind stolz auf unsere bisherige Finanzierungskampagne und dankbar für die große Unterstützung. Da wir immer wieder ältere Direkkredite zurückzahlen, benötigen wir auch weiterhin Ihre Unterstützung!
+<br>
+<br>
 Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 <p>
 
@@ -74,7 +43,7 @@ So haben Sie die Möglichkeit einer sozialen, sinnvollen und ökologisch nachhal
 {{< /accordion >}}
 
 {{< accordion "Welche Konditionen gibt es?" >}}
-Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,55 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
+Wir freuen uns über Kredite ab 1.000 Euro (von Auszubildenden und Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,65 % vereinbart. Die Zinsen können Sie sich entweder jährlich auszahlen lassen oder wieder anlegen (thesaurierend). Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
 {{< /accordion >}}
 
 {{< accordion "Wie sicher ist es, einen Direktkredit zu geben?" >}}
@@ -117,8 +86,8 @@ Die Annahme von Direktkrediten (Nachrangdarlehen) unterliegt den Regelungen des 
   </li>
   <li>Auf dem Postweg
     <pre>Collegium Academicum GmbH
-Plöck 93
-69117 Heidelberg</pre>
+Mendelejewplatz 1
+69126 Heidelberg</pre>
   </li>
   <li>Einfach anrufen
     <pre>06221-652236</pre>
