@@ -4,6 +4,41 @@ slug: "activities"
 aliases: [/summerschool/]
 ---
 
+## Last work activities before Easter 🐣
+
+<div style="text-align: justify">
+Final spurt before Easter and before the next move-in! 
+Here you can find the next dates for our own work in our old building:
+
+- Tue, &emsp; 19.03. &emsp; 18 Uhr️ - open end
+- Thu, &emsp; 21.03. &emsp; 9-14 Uhr und 16 Uhr - open end
+- Fri, &emsp;&nbsp;&nbsp; 22.03. &emsp; 10-15 Uhr und 16 Uhr - open end
+
+We will then have another <strong>work camp week</strong> from <strong>Sat, 23 March to Fri, 29 March 2024</strong>. We will be working every day from <strong>10 a.m. to 6 p.m.</strong> and, as always, there will be a delicious lunch together.
+</div>
+
+<div class="columns">
+
+<div class="column" style="text-align: justify">
+The focus is on the final painting work and the final cleaning of the finished flats. 
+<br><br>
+We meet at Mendelejewplatz 1 (between the new and old buildings), 69126 Heidelberg-Rohrbach. To register, simply send us an informal email to <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a> or give us a call on +49 (0)6221 652236.<br><br>
+You can help out for a few hours, on individual days or for a whole week. We can also organise places to sleep.
+</div>
+
+<div class="column" style="text-align: left;">
+
+<figure>
+<img alt="Grundieren und Streichen im Altbau (&#169; CA)" src="grundieren.jpg" width=80%" />
+<figcaption style="text-align:left;">
+<p> Grundieren und Streichen im Altbau (&#169; CA)
+</p>
+</figcaption>
+</figure>
+
+</div>
+</div>
+
 ## Workcamps for the old building in February and March 🛠️
 
 The first great people were able to move into our renovated old building at the end of January.
