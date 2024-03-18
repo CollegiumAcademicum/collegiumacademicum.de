@@ -28,7 +28,7 @@ Du kannst mal für ein paar Stunden, an einzelnen Tage oder für ganze Woche lan
 <div class="column" style="text-align: left;">
 
 <figure>
-<img alt="Grundieren und Streichen im Altbau (&#169; CA)" src="/pages/unterstuetzen/aktionen/grundieren.jpg" width=80%" />
+<img alt="Grundieren und Streichen im Altbau (&#169; CA)" src="grundieren.jpg" width=80%" />
 <figcaption style="text-align:left;">
 <p> Grundieren und Streichen im Altbau (&#169; CA)
 </p>
