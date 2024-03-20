@@ -21,13 +21,26 @@ The theoretical as well as practical elaboration of these complexes of topics is
 For us, living in a community is also part of our own further development.
 The renovated and modernised old building right next to our dormitory houses single and double rooms for a total of 50 participants, three large seminar rooms and a bicycle and metal workshop.
 <br><br>
-On the falt*r website you can find more information, including the application procedure, the programme and the team:
+On the falt*r website and on our Instagram page you can find more information, including the application procedure, the programme and the team.
 
-<br><br>
-   <a href="https://faltr.de/" class="field button is-radiusless is-fullwidth is-link">
+<p style="text-align:center">
+<a href="https://faltr.de/">
         <span class="icon">
-            <i class="icon-right-big"></i>
+            <i class="icon-globe"></i>
         </span>
-        <span>falt*r</span>
+        <span>Website</span>
+
+<a href="https://www.instagram.com/faltr_orientierungsjahr">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
    </a>
-</p>
+
+<a href="mailto:team@faltr.de">
+        <span class="icon">
+            <i class="icon-mail-alt"></i>
+        </span>
+        <span>Mail</span>
+   </a>
+   </p>

@@ -24,8 +24,7 @@ Zur eigenen Weiterentwicklung gehört für uns auch das Leben in einer Gemeinsch
 Der sanierte und modernisierte Altbau direkt neben unserem Wohnheim beherbergt Einzel- und Doppelzimmer für insgesamt
 50 Teilnehmende, drei große Seminarräume sowie eine Fahrrad- und eine Metallwerkstatt.
 <br><br>
-Auf der falt*r-Webseite bekommt ihr weitere Infos, unter anderem zum Bewerbungsverfahren, zum Programm
-und zum Team.
+Auf der falt*r-Website und auf unserem Instagram-Account bekommt ihr weitere Infos, unter anderem zum Bewerbungsverfahren, zum Programm und zum Team.
 
 
 <p style="text-align:center">
@@ -35,7 +34,7 @@ und zum Team.
         </span>
         <span>Website</span>
 
-<a href="https://www.instagram.com/faltr_orientierungsjahr_im_ca/">
+<a href="https://www.instagram.com/faltr_orientierungsjahr">
         <span class="icon">
             <i class="icon-instagram"></i>
         </span>
