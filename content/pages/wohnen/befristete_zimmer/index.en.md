@@ -65,8 +65,8 @@ The next step in the application process is a 15-minute online interview. Once y
 Progress occupancy:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="18" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;"> 18/18 </p>
+  <progress class="progress is-large is-primary" value="16" max="18"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 16/18 </p>
 </div>
 </div>
 
