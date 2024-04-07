@@ -54,7 +54,8 @@ yarn install
 
 | Command      | Function                                                             |
 | ------------ | -------------------------------------------------------------------- |
-| `./build.sh` | Build for online deployment (into ./upload/) and upload using `lftp` |
+| `./build_prod.sh` | Build for online deployment (into ./upload/) and upload using `lftp`, used by [.github/workflows/deploy_master.yaml](https://github.com/CollegiumAcademicum/collegiumacademicum.de/blob/master/.github/workflows/deploy_master.yaml) |
+| `./build_test.sh` | Build for online deployment on test website (into ./upload/) and upload using `lftp`, used by [.github/workflows/deploy_test.yaml](https://github.com/CollegiumAcademicum/collegiumacademicum.de/blob/master/.github/workflows/deploy_test.yaml) |
 
 ### Audio files
 
@@ -80,16 +81,18 @@ You can use the following custom shortcodes in the content markdown files to get
 Encode videos two times as [recommended by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs):
 
 - One with MP4 and libx264 Video + AAC audio
-  ```bash
+  
+```bash
 ffmpeg -i input.mp4 -c:a aac -crf 20 -preset slow -vf scale=-1:1080 output.mp4
-  ```
+```
+
 - One with WEBM and VP8 video + Opus audio
-  ```bash
+```bash
 ffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus -vf scale=-1:1080 output.webm
-  ```
+```
 
 ### Icons
 
 Get from http://fontello.com/.
 
-Icons needed: heart, euro, user, mail-alt, exclamation, wrench, phone, info, user-secret, github-circled, home, language
+Icons needed: heart, euro, user, mail-alt, exclamation, wrench, phone, info, user-secret, github-circled, home, language, wheelchair, instagram, facebook, help, quote-left, globe
