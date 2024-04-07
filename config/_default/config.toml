@@ -34,7 +34,13 @@ big_imgsize = "1800"
 
   [languages.fr]
   languageName = 'Français'
+  disabled = true
   weight = 3
+
+  [languages.ru]
+  languageName = 'Русский'
+  disabled = true
+  weight = 4
 
 [imaging]
 quality = 60
