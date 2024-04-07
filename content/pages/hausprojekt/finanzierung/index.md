@@ -147,7 +147,7 @@ Besonders viel Geld fließt hierbei in die energetische Sanierung des Gebäudes,
 <p style="text-align: justify">
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
 Nutzungskonzept und Modulbauweise) ist unser Vorhaben in der
-Öffentlichkeit sehr präsent. Eine Übersicht der <a href="{{< relref "/pages/presse-links/presse">}}">Pressebeiträge</a> befindet
+Öffentlichkeit sehr präsent. Eine Übersicht der <a href="{{< relref "/pages/ueber-uns/presse">}}">Pressebeiträge</a> befindet
 sich auf unserer Presse-Seite. 
 </p>
 
