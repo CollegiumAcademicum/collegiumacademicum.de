@@ -135,7 +135,7 @@ achieve the targeted KfW 55 standard.
 <p style="text-align: justify">
 Our project is very present in the public eye, both as an IBA-project and because of the many special features such as 
 timber construction, use concept and modular space.
-You can find a <a href="{{< relref "/pages/presse-links/presse">}}">publication</a> overview on our press page.
+You can find a <a href="{{< relref "/pages/ueber-uns/presse">}}">publication</a> overview on our press page.
 </p>
 
 #### Our own work ("Eigenleistung")
