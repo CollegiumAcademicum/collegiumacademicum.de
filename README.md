@@ -6,6 +6,26 @@
 
 This repo contains the code and content of collegiumacademicum.de.
 
+## Commiting workflow
+
+You want to edit the website? _Great_!
+
+- The [master branch](https://github.com/CollegiumAcademicum/collegiumacademicum.de/tree/master) is configured so that any changes in there will go **live** on the website (http://collegiumacademicum.de).
+- The [test branch](https://github.com/CollegiumAcademicum/collegiumacademicum.de/tree/master) is configured that any changes in there will go live on the **test website** (https://test.collegiumacademicum.de).
+- Any other branch does not have a live building attached to it.
+
+To avoid any accidental changes going live, **it is not possible to edit the _master branch_**.
+
+The workflow is as follows:
+
+1. Make your changes on the [test branch](https://github.com/CollegiumAcademicum/collegiumacademicum.de/tree/master)
+   - If you are working on another branch (good idea!), first merge that one into the [test branch](https://github.com/CollegiumAcademicum/collegiumacademicum.de/tree/master)
+2. Wait for the building and copying to finish. You can see the current state in the [Actions tab](https://github.com/CollegiumAcademicum/collegiumacademicum.de/actions/workflows/deploy_test.yaml). (Takes ~20min).
+3. Check https://test.collegiumacademicum.de if your changes look correct
+4. Create a *Pull request* (PR) to merge your new version into the _master branch_. If you worked on the test branch then you can do this [here](https://github.com/CollegiumAcademicum/collegiumacademicum.de/compare/master...test).
+5. If you're confident that everything is fine you can merge that new *Pull request*. But if there are bigger changes you can tag other developers on the PR to review your changes.
+6. When the PR is merged the script will re-build the site and update the live website.
+
 ## Requirements
 
 - Hugo: **>=0.49**
