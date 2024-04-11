@@ -6,7 +6,7 @@ title: "Anfahrt"
 
 <p style="text-align:justify">
 Die Gebäude Collegium Academicums befinden sich auf dem <a href="https://tools.wmflabs.org/geohack/geohack.php?pagename=Collegium+Academicum&params=49_22_34_N_8_41_10_E">Gelände US-Hospital in Rohrbach im Süden von Heidelberg</a>.
-Die Adresse des Wohnheims im Neubau ist Marie-Clauss-Str. 3. Die Anschrift des Fördervereins ist Mendelejewplatz 1, hier befindet sich das ehemalige Pförtnerhaus und zukünftige Café.
+Die Adresse des Wohnheims im Neubau ist Marie-Clauss-Str. 3. Die Anschrift des Fördervereins ist Mendelejewplatz 1, hier befindet sich das ehemalige Pförtnerhaus und unsere Büroräume.
 Der Eingang zum Gelände befindet sich an der Karlsruher Str., in der Nähe der der Ecke Ortenauer Str., direkt gegenüber der Tram-Haltestelle Ortenauer Straße.
 </p>
 

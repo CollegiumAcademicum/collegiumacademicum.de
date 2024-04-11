@@ -21,4 +21,4 @@ Les résident.e.s du CA organisent leur propre vie commune, indépendamment des 
     </div>
 </div>
 
-Le café autogéré de la Karlsruher Straße sera un lieu de rencontre idéal pour le quartier et ouvert à tou.te.s. En outre, des ateliers et des salles de réunion seront mis à la disposition d’artistes  en tant que lieux d’expérimentations.
+La conciergerie rénovée de la Karlsruher Strasse sera un lieu de rencontre idéal pour le voisinage, ouvert à tous. En outre, des ateliers et des salles de réunion seront mis à la disposition d’artistes  en tant que lieux d’expérimentations.

@@ -18,7 +18,7 @@ We have answered to the most common questions in [our FAQ](/en/faq). If you have
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
-        {{< img src="projektgruppe" desc="This is the small porter house at the entrance to the areal. We are planning to transform this building to a self-organized cafe." attr="Johannes Roßnagel 2017" />}}
+        {{< img src="projektgruppe" desc="This is the small porter house at the entrance to the areal. We are planning to transform this building to serve as an open meeting place for the neighbourhood." attr="Johannes Roßnagel 2017" />}}
         {{< img src="werkstatt" alt="In our wood workshop, we designed and built much of the furniture for the rooms on our own. Are you a do-it-yourself person or want to get better at it? Perfect!" attr="Uli Hillenbrand 2020" />}}
         {{< img src="teamwork" alt="Self-organization means teamwork. We learn from each other and support each other." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}
