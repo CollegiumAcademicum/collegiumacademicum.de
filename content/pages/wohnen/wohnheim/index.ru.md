@@ -12,7 +12,7 @@ novoigl: yes
 
 Если экологичность, образование, самоуправление для тебя не пустые слова, наш  адрес может стать и твоим. В 2021 году ты начинаешь учиться в Гейдельберге и ищешь жилье? Ты хочешь жить в большом коллективе? Или тебе просто нужно сменить обстановку?
 
-{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
+{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im ehemaligen Pförtnerhaus." attr="Johannes Roßnagel 2017" />}}
 
 Самое главное для нас – это твое желание взять жизнь в свои руки, вместе с другими. Познакомься с нашей [философией]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) и моделью ["Mietshäusersyndikat"](https://www.syndikat.org/en/ ) (синдикат арендуемого жилья). Если тебе понравится, ты можешь зарегистрироваться внизу страницы.
 

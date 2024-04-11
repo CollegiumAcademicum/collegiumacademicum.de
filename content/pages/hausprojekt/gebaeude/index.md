@@ -12,7 +12,7 @@ Heidelberg-Rohrbach, setzt sich aus folgenden Gebäuden zusammen:
 - Der innovative Holz-Neubau, mit 46 Wohneinheiten des Wohnheims, einer Aula mit Dachterrasse und einem
 Gemeinschaftsraum
 - Der große Altbau mit dem Orientierungsjahr und Mietwohnungen
-- Das Pförtnerhaus für das zukünftige Café und Büroräume
+- Das Pförtnerhaus als offener Treffpunkt, ergänzt durch Büroräume
 
 {{< img src="uebersicht_2023" alt="Übersicht des Geländes" attr="Maurice Frank & Hannah Weiser 2023" >}}
     {{< img src="uebersicht" alt="Übersicht des Geländes" attr="Maurice Frank & Hannah Weiser 2023" />}}
@@ -171,18 +171,15 @@ Maßnahmen sowie eine Landesförderung für den sozialen Wohnungsbau. Mit dieser
 gebundenen Mietwohnraum zu schaffen.
 </p>
 
-## Café und Büroräume im Pförtnerhaus
+## Offener Treffpunkt und Büroräume im Pförtnerhaus
 
 <p style="text-align: justify">
-In dem ehemaligen Pförtnerhäuschen soll im Erdgeschoss ein selbstverwaltetes Café Möglichkeit für Begegnung und
-Austausch bieten- vor allem als Anlaufpunkt für die Nachbarschaft.
-Außerdem entsteht hier Raum für weitere Ideen: Zum Beispiel für ein "Repair-Café", bei dem Elektronikgeräte gemeinsam
-repariert werden können. Die Räume im oberen Geschoss sind für Büros der Selbstverwaltung
-sowie für eine Beratungsstelle für das <a href="https://www.syndikat.org/de/unternehmensverbund/">Mietshäuser-Syndikat</a>
-vorgesehen.
+Das ehemalige Pförtnerhäuschen soll im Erdgeschoss Möglichkeit für Begegnung und
+Austausch bieten - vor allem als Anlaufpunkt für die Nachbarschaft.
+Außerdem entsteht hier Raum für weitere Ideen: Zum Beispiel für ein "Repair-Café", bei dem Elektronikgeräte gemeinsam repariert werden können. Die Räume im oberen Geschoss sind für Büros der Selbstverwaltung
+sowie für eine Beratungsstelle für das <a href="https://www.syndikat.org/de/unternehmensverbund/">Mietshäuser-Syndikat</a> vorgesehen.
 <br><br>
-Auch wenn wir das genaue Konzept noch erarbeiten, freut es uns, dass wir schon jetzt mit anderen Initiativen aus
-Heidelberg eine gemeinsame Nutzung betreiben, zum Beispiel mit der solidarischen Landwirtschaft
+Auch wenn wir das genaue Konzept noch erarbeiten, freut es uns, dass wir schon jetzt mit anderen Initiativen aus Heidelberg eine gemeinsame Nutzung betreiben, zum Beispiel mit der solidarischen Landwirtschaft
 <a href="https://gemuesekultur-heidelberg.de/">Gemüsekultur Heidelberg</a>.
 </p>
 

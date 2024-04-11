@@ -28,6 +28,6 @@ Die Grundlage hierfür bilden basisdemokratische Strukturen: flache Hierarchien,
 </div>
 
 <p style="text-align: justify">
-Insbesondere das selbstverwaltete Café an der Karlsruher Straße wird ein idealer sozialer und kultureller Treffpunkt in der Nachbarschaft sein.
+Insbesondere das umgebaute Pförtnerhaus an der Karlsruher Straße wird ein idealer sozialer und kultureller Treffpunkt in der Nachbarschaft sein.
 Zudem stehen Werkstätten, Ateliers und Veranstaltungsräume Kulturschaffenden als experimentelle Werkstätten zur Verfügung.
 </p>

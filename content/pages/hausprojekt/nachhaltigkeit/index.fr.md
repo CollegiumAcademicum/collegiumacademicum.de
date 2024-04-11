@@ -24,7 +24,7 @@ Dans la construction du bâtiment neuf, la matière principale est le bois (majo
 
 
 
-Nous voulons également mettre des espaces à disposition de la société civile : la grande salle et les pièces multifonctionnelles peuvent être utilisées par des initiatives environnementales et sociales, par exemple pour des réunions ou des événements plus importants. Un café-coopérative est prévu dans le bâtiment donnant sur la Karlsruher Straße.
+Nous voulons également mettre des espaces à disposition de la société civile : la grande salle et les pièces multifonctionnelles peuvent être utilisées par des initiatives environnementales et sociales, par exemple pour des réunions ou des événements plus importants. Un lieu de rencontre ouvert pour le quartier est prévu dans le bâtiment donnant sur la Karlsruher Straße, dans l'ancienne maison du concierge.
 
 <div class="columns">
     <div class="column">
