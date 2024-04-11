@@ -45,8 +45,8 @@ Einen großen Beitrag zur effizienten, flächensparenden Raumnutzung leisten abe
 Gemeinschaftsflächen in Alt- und Neubau: eine Aula mit Dachgarten für Veranstaltungen, Multifunktionsräume,
 einen stillen Arbeitsraum und ein als Gemeinschaftsgarten gestalteter Außenbereich stehen nicht nur den
 Bewohner*innen sondern auch der restlichen Zivilgesellschaft offen.
-Zudem können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen
-genutzt werden. Direkt am Karlsruher Platz ist ein Laden-Café als Treffpunkt für das Quartier geplant.
+Zudem können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen genutzt werden. 
+Direkt am Karlsruher Platz ist im ehemaligen Pförtnerhaus ein offener Treffpunkt für das Quartier geplant.
 </p>
 
 <div class="columns">

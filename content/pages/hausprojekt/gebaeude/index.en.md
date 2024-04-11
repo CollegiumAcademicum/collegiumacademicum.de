@@ -10,7 +10,7 @@ Self-governing dormitory, educational institution and cultural centre: the new C
 
 - The innovative new wooden building, with 46 residential units, an assembly hall with roof terrace and a common room.
 - The large old building with the orientation year and rented flats
-- The gatehouse for the future café and offices
+- The gatehouse as an open meeting place, supplemented by office space
 
 {{< img src="uebersicht_2023" alt="Overview of the site" attr="Maurice Frank & Hannah Weiser 2023" >}}
     {{< img src="uebersicht" alt="Overview of the site" attr="Maurice Frank & Hannah Weiser 2023" />}}
@@ -147,10 +147,10 @@ Together with the <a href="/en/direct-loans/">direct loans from our supporters</
 In committing ourselves to creating affordable housing, another financing component will be the financial support for subsidized rented housing.
 </p>
 
-## Café and offices in the gatehouse
+## Open meeting place and offices in the gatehouse
 
 <p style="text-align: justify">
-On the ground floor of the former gatekeeper's house, a self-managed café will offer opportunities for meeting and exchange - above all as a contact point for the neighbourhood.
+The ground floor of the former gatekeeper's house will offer opportunities for meeting and exchange - above all as a contact point for the neighbourhood.
 There will also be space for other ideas: For example, a "repair café" where electronic devices can be repaired together.
 The rooms on the upper floor are intended for self-administration offices and a counselling centre for the <a href="https://www.syndikat.org/en/">Mietshäusersyndikat</a>
 are planned.

@@ -12,7 +12,7 @@ Nous avons déjà commencé à construire le nouveau bâtiment, qui sera termin�
 
 Si tu es intéressé.e par l'écologie, l'apprentissage et l'auto-gestion, notre adresse pourrait devenir la tienne! Peut-être commenceras-tu à étudier à Heidelberg et tu cherches déjà un appartement? Ou peut-être que tu es enthousiaste à l'idée de vivre dans une grande communauté? Ou bien tu cherches simplement à changer de décor?
 
-{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im zukünftigen Cafegebäude." attr="Johannes Roßnagel 2017" />}}
+{{< img src="projektgruppe" alt="Ein Photo der Projektgruppe im ehemaligen Pförtnerhaus." attr="Johannes Roßnagel 2017" />}}
 
 Pour nous, le plus important est que tu souhaites prendre en main ta vie, ensemble avec d'autres personnes. Familiarises-toi avec nos [principes]({{< relref "/pages/ueber-uns/unser-leitbild" >}}) et le ["Mietshäusersyndikat"](https://www.syndikat.org/fr/ ). Si ce que tu lis te plaît, il te suffit de t'inscrire en bas de cette page.
 

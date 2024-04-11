@@ -64,7 +64,7 @@ Ihr Kredit kommt ohne Umweg direkt dem Projekt zugute und Sie können sich selbs
 - Mit Solarenergie vom eigenen Dach, Reparaturmöglichkeiten in der eigenen Werkstatt und einem Gemeinschaftsgarten
 wollen wir vormachen, wie ein **ökologisch nachhaltiges, genügsames und gutes Leben** aussehen kann. 
 Durch gemeinsame Nutzung von Räumlichkeiten und Gegenständen kommen wir mit relativ geringer Wohnfläche aus.
-- Unsere Werkstatt, unsere Aula und unser Café sollen nicht nur Bewohner\*innen zur Verfügung stehen, sondern für vielfältige
+- Unsere Werkstatt, unsere Aula und unser sozialer Treffpunkt im Pförtnerhaus sollen nicht nur Bewohner\*innen zur Verfügung stehen, sondern für vielfältige
 **Kultur- und Bildungsveranstaltungen** auch von anderen Gruppen genutzt werden.
 - Im Altbau wird im Rahmen eines **Orientierungsjahres** ein fachübergreifendes Bildungsprogramm für junge Menschen angeboten,
 bei dem neben wissenschaftlichen Inhalten auch praktische Fähigkeiten und die persönliche Entwicklung gefördert werden.

@@ -23,7 +23,7 @@ Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
     {{< img src="projektgruppe" attr="Johannes Roßnagel 2017" >}}
-        {{< img src="projektgruppe" desc="Das ist das Pförtnerhaus an der Einfahrt auf das Gelände US Hospital. Wir planen, dieses Gebäude in ein selbstverwaltetes Café umzugestalten." attr="Johannes Roßnagel 2017" />}}
+        {{< img src="projektgruppe" desc="Das ist das Pförtnerhaus an der Einfahrt auf das Gelände US Hospital. Wir planen, dieses Gebäude in einen offenen Treffpunkt umzugestalten." attr="Johannes Roßnagel 2017" />}}
         {{< img src="werkstatt" alt="In unserer Holzwerkstatt haben wir einen Großteil der Möbel für die Zimmer selbst konstruiert und gebaut. Du bist handwerklich begabt oder willst so etwas lernen? Perfekt!" attr="Uli Hillenbrand 2020" />}}
         {{< img src="teamwork" alt="Selbstverwaltung bedeutet Teamarbeit. Wir lernen voneinander und unterstützen uns gegenseitig." attr="Johannes Roßnagel 2019" />}}
     {{< /img >}}

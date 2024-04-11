@@ -22,4 +22,4 @@ In the CA, we want to shape our community life ourselves, independently of outsi
     </div>
 </div>
 
-In support of this, we will open a self-managed café (at Karlsruher Straße) and, of course, workshops, studios and event rooms will be available for creative talents who can carry out experimental work there.
+In support of this, we will open a social meeting place (at Karlsruher Straße) and, of course, workshops, studios and event rooms will be available for creative talents who can carry out experimental work there.
