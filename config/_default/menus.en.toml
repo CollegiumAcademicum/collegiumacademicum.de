@@ -27,16 +27,41 @@
     url = "/self-management"
     weight = 4
     parent = "Housing Project"
+
 [[main]]
-    name = "Funding"
-    url = "/funding"
-    weight = 5
-    parent = "Housing Project"
+    name = "About us"
+    url = "/about-us"
+    weight = 4
+[[main]]
+    name = "Our vision"
+    url = "/vision"
+    weight = 1
+    parent = "About us"
+[[main]]
+    name = "Timeline"
+    url = "/timeline"
+    weight = 3
+    parent = "About us"
+[[main]]
+    name = "Press"
+    url = "/press"
+    weight = 4
+    parent = "About us"
+
+[[main]]
+    name = "Orientation year faltr"
+    url = "/orientation-year"
+    weight = 3
 
 [[main]]
     name = "Support"
     url = "/support"
     weight = 3
+[[main]]
+    name = "Funding"
+    url = "/funding"
+    weight = 1
+    parent = "Support"
 [[main]]
     name = "Join us!"
     url = "/join-us"
@@ -57,31 +82,6 @@
     url = "/activities"
     weight = 4
     parent = "Support"
-
-[[main]]
-    name = "About us"
-    url = "/about-us"
-    weight = 4
-[[main]]
-    name = "Our vision"
-    url = "/vision"
-    weight = 1
-    parent = "About us"
-[[main]]
-    name = "Links & Press"
-    url = "/press-links"
-    weight = 2
-    parent = "About us"
-[[main]]
-    name = "Timeline"
-    url = "/timeline"
-    weight = 3
-    parent = "About us"
-[[main]]
-    name = "How to get to us"
-    url = "/map"
-    weight = 4
-    parent = "About us"
 
 [[main]]
     name = "Living"
@@ -122,3 +122,8 @@
     url = "/accessibility"
     weight = 7
     parent = "Living"
+
+[[main]]
+    name = "Contact"
+    url = "/map"
+    weight = 6

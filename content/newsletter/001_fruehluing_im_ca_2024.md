@@ -1,7 +1,7 @@
 ---
 title: "Frühling im CA"
 date: 2024-04-17
----﻿
+---
 
 ## Liebe Unterstützer:innen,
 
@@ -113,3 +113,4 @@ Schon in diesem Frühling stehen spannende Veranstaltungen für das CA an. Hier 
 <br>
 
 Wir würden uns freuen, euch dabei zu sehen! Wie immer seid ihr auch bei unseren regelmäßigen Führungen herzlich willkommen — da gibt es alles zum Anfassen. Die nächsten Termine sind am 14. April und am 12. Mai um 14 Uhr. Wir bitten um Anmeldung per Mail an exkursion@collegiumacademicum.de.
+

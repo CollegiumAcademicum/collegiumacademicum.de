@@ -63,7 +63,7 @@ Il est prévu de couvrir environ 12 millions d'euros par un prêt bancaire. Pour
 
 #### Sponsoring
 
-En tant que projet IBA et en raison de ses nombreuses particularités (construction en bois, construction modulaire et concept d’usage), notre projet a une portée importante. Un aperçu des [articles de presse]({{< relref "/pages/presse-links/presse">}}) se trouve sur notre page presse. 
+En tant que projet IBA et en raison de ses nombreuses particularités (construction en bois, construction modulaire et concept d’usage), notre projet a une portée importante. Un aperçu des [articles de presse]({{< relref "/pages/ueber-uns/presse">}}) se trouve sur notre page presse. 
 
 #### Contribution propre
 

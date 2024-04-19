@@ -32,46 +32,11 @@
     url = "/selbstverwaltung"
     weight = 4
     parent = "Hausprojekt"
-[[main]]
-    name = "Finanzierung"
-    url = "/finanzierung"
-    weight = 5
-    parent = "Hausprojekt"
-
-[[main]]
-    name = "Unterstützen"
-    url = "/unterstuetzen"
-    weight = 4
-[[main]]
-    name = "Direktkredite"
-    url = "/direktkredite"
-    weight = 1
-    parent = "Unterstützen"
-[[main]]
-    name = "Spenden"
-    url = "/spenden"
-    weight = 2
-    parent = "Unterstützen"
-[[main]]
-    name = "Mach mit"
-    url = "/mach-mit"
-    weight = 3
-    parent = "Unterstützen"
-[[main]]
-    name = "Aktionen"
-    url = "/aktionen"
-    weight = 4
-    parent = "Unterstützen"
-[[main]]
-    name = "Förderverein"
-    url = "/foerderverein"
-    weight = 5
-    parent = "Unterstützen"
 
 [[main]]
     name = "Über uns"
     url = "/ueber-uns"
-    weight = 5
+    weight = 4
 [[main]]
     name = "Unser Leitbild"
     url = "/leitbild"
@@ -88,20 +53,60 @@
     weight = 3
     parent = "Über uns"
 [[main]]
-    name = "Partner*innen"
-    url = "/partnerinnen"
+    name = "In der Presse"
+    url = "/presse"
     weight = 4
     parent = "Über uns"
 [[main]]
-    name = "Anfahrt"
-    url = "/anfahrt"
+    name = "Literatur und eigene Veröffentlichungen"
+    url = "/literatur"
     weight = 5
     parent = "Über uns"
 
 [[main]]
+    name = "Orientierungsjahr faltr"
+    url = "/orientierungsjahr"
+    weight = 5
+
+[[main]]
+    name = "Unterstützen"
+    url = "/unterstuetzen"
+    weight = 6
+[[main]]
+    name = "Finanzierung"
+    url = "/finanzierung"
+    weight = 1
+    parent = "Unterstützen"
+[[main]]
+    name = "Direktkredite"
+    url = "/direktkredite"
+    weight = 2
+    parent = "Unterstützen"
+[[main]]
+    name = "Spenden"
+    url = "/spenden"
+    weight = 3
+    parent = "Unterstützen"
+[[main]]
+    name = "Mach mit"
+    url = "/mach-mit"
+    weight = 4
+    parent = "Unterstützen"
+[[main]]
+    name = "Aktionen"
+    url = "/aktionen"
+    weight = 4
+    parent = "Unterstützen"
+[[main]]
+    name = "Förderverein"
+    url = "/foerderverein"
+    weight = 5
+    parent = "Unterstützen"
+
+[[main]]
     name = "Wohnen"
     url = "/wohnen"
-    weight = 6
+    weight = 7
 [[main]]
     name = "Wohnheim"
     url = "/wohnheim"
@@ -123,11 +128,6 @@
     weight = 4
     parent = "Wohnen"
 [[main]]
-    name = "Orientierungsjahr faltr"
-    url = "/orientierungsjahr"
-    weight = 5
-    parent = "Wohnen"
-[[main]]
     name = "FAQ"
     url = "/faq"
     weight = 6
@@ -139,21 +139,6 @@
     parent = "Wohnen"
 
 [[main]]
-    name = "Presse & Links"
-    url = "/presse-links"
-    weight = 7
-[[main]]
-    name = "Eigene Veröffentlichungen"
-    url = "/eigene-veroeffentlichungen"
-    weight = 1
-    parent = "Presse & Links"
-[[main]]
-    name = "In der Presse"
-    url = "/presse"
-    weight = 2
-    parent = "Presse & Links"
-[[main]]
-    name = "Literatur"
-    url = "/literatur"
-    weight = 3
-    parent = "Presse & Links"
+    name = "Kontakt"
+    url = "/anfahrt"
+    weight = 8
