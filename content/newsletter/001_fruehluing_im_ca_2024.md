@@ -103,7 +103,7 @@ Mit unserem Einzug in das „Baumhaus“ ist noch weit nicht alles getan: Wir se
 Schon in diesem Frühling stehen spannende Veranstaltungen für das CA an. Hier eine Übersicht für euch:
 
 <ul>
-<li>**21.04. von 14.30 Uhr bis 16.30 Uhr - Veranstaltung „Frühlingserwachen“ im CA** An diesem Tag dreht sich bei uns alles um das Thema Nachhaltigkeit. Wir bieten ein buntes Mitmachprogramm mit einem Klimaparcours, Bastelaktionen, Radcheck, Kinderschminken, Haus- und Gartenführungen, Infoständen, Kuchen, Getränken und Live-Musik. Ab 16.30 Uhr zeigen wir einen Film zum solidarischen Landwirtschaften in der Aula. Die Veranstaltung wird in Zusammenarbeit mit dem Quartiersmanagement Hasenleiser, Mehrgenerationenhaus, Kliba, Omas for Future uvm. durchgeführt. Wir freuen uns auf euer Kommen!</li>
+<li>21.04. von 14.30 Uhr bis 16.30 Uhr - Veranstaltung „Frühlingserwachen“ im CA An diesem Tag dreht sich bei uns alles um das Thema Nachhaltigkeit. Wir bieten ein buntes Mitmachprogramm mit einem Klimaparcours, Bastelaktionen, Radcheck, Kinderschminken, Haus- und Gartenführungen, Infoständen, Kuchen, Getränken und Live-Musik. Ab 16.30 Uhr zeigen wir einen Film zum solidarischen Landwirtschaften in der Aula. Die Veranstaltung wird in Zusammenarbeit mit dem Quartiersmanagement Hasenleiser, Mehrgenerationenhaus, Kliba, Omas for Future uvm. durchgeführt. Wir freuen uns auf euer Kommen!</li>
 <br>
 <li> 04.05. — Als weitere Kooperation mit dem Quartiersmanagement Hasenleiser findet von 11.00 bis 17.00 Uhr der Tag der Städtebauförderung auf dem ganzen Hospital-Gelände statt. Das CA ist mit einem vielfältigen Mitmach- und Informationsangebot dabei - kommt gerne vorbei zum Radcheck, Kinderschminken, Social-Ping-Pong-Club, Basteln und Werken, Hausführungen uvm.
  </li>
