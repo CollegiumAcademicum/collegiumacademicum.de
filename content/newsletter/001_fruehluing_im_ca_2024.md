@@ -27,7 +27,7 @@ Im März sind die Bewohner\*innen der sechs Wohneinheiten des sozialen Wohnungsb
 
 
 <figure>
-<img alt="Bild: Der Altbau ist ! (&#169; CA)" src="" width="100%" />
+<img alt="Bild: Der Altbau ist ! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_001.png" width="100%" />
 <figcaption style="text-align:center;">
 <p> Bild: Der Altbau ist nun bezogen! (&#169; CA)
 </p>
@@ -47,7 +47,7 @@ Die Auswahlrunden für den zweiten Jahrgang von falt\*r laufen schon. Hierfür g
 Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird! 
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_002.png" width="100%" />
 <figcaption style="text-align:center;">
 <p> Bild: Unser Orientierungsjahr falt*r! (&#169; CA)
 </p>
@@ -73,14 +73,14 @@ Für Kultur wurde auch gesorgt: Unter dem Motto „PerspektivWechselPoetry“ fa
 Auch war am 9. März wieder Zeit für unsere Mitgliederversammlung. Für das CA bedeutet das nicht nur eine vereinsrechtliche Formalität; vor allem ist es Zeit, um als ganzes Wohnheim zusammenzukommen und so die Gemeinschaft zu erleben.
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_003.png" width="100%" />
 <figcaption style="text-align:center;">
 </p>
 </figcaption>
 </figure>
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_004.png" width="100%" />
 <figcaption style="text-align:center;">
 <p> Bild: Die Mitgliederversammluing unseres Wohnheimsverteins in unserer Aula  (&#169; CA)
 </p>
