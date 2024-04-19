@@ -59,7 +59,11 @@ Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird!
 Frühlingszeit ist Gartenzeit. Auch im CA. Endlich können wir den Garten im Osten weiter gestalten! Und es hat sich schon so viel getan: Viele fleißige Hände haben in den letzten Wochen bei mehreren Arbeitseinsätzen geholfen. Wir haben mit einer Motorhacke viel Humus in den verdichteten Boden eingearbeitet, erste Wege angelegt und Beete sind auch schon entstanden und, wo nötig, gemulcht. Vor allem sind auch naturnahe Einfassungen für Wege und Beete gelungen und eine bunte Wiese wurde gesät. Jetzt geht es weiter mit der Gestaltung des ersten Sitzkreises und der weiteren Bepflanzung. Dafür haben wir einen Einsatz mit professioneller Unterstützung geplant. Das ist genau die richtige Ergänzung zur Planungsarbeit der letzten Monate, die sich vor allem mit der Raumgestaltung und der Bepflanzung beschäftigt hatte. Auf dass es im Garten im Osten weiter ergrüne!
 
 <figure>
+<<<<<<< HEAD
 <img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_003.png" width="70%" />
+=======
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_003.png" width="100%" />
+>>>>>>> a52a5d1 (Update 001_fruehluing_im_ca_2024.md)
 <figcaption style="text-align:center;">
 <p> Bild: Der Garten im Osten wird von unserer Garteninitiative gestaltet (&#169; CA)
 </p>
@@ -73,14 +77,22 @@ Für Kultur wurde auch gesorgt: Unter dem Motto „PerspektivWechselPoetry“ fa
 Auch war am 9. März wieder Zeit für unsere Mitgliederversammlung. Für das CA bedeutet das nicht nur eine vereinsrechtliche Formalität; vor allem ist es Zeit, um als ganzes Wohnheim zusammenzukommen und so die Gemeinschaft zu erleben.
 
 <figure>
+<<<<<<< HEAD
 <img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_004.png" width="70%" />
+=======
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_004.png" width="100%" />
+>>>>>>> a52a5d1 (Update 001_fruehluing_im_ca_2024.md)
 <figcaption style="text-align:center;">
 </p>
 </figcaption>
 </figure>
 
 <figure>
+<<<<<<< HEAD
 <img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_005.png" width="70%" />
+=======
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_005.png" width="100%" />
+>>>>>>> a52a5d1 (Update 001_fruehluing_im_ca_2024.md)
 <figcaption style="text-align:center;">
 <p> Bild: Die Mitgliederversammluing unseres Wohnheimsverteins in unserer Aula  (&#169; CA)
 </p>
