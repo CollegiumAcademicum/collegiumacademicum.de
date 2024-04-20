@@ -1,11 +1,11 @@
 ---
 title: "Frühling im CA"
-date: 2024-04-17
+date: 2024-04-20
 ---
 
 ## Liebe Unterstützer:innen,
 
-Auf unserem CA-Gelände ist immer etwas los. Vor über einem Jahr haben wir im CA unser Ziel umgesetzt, ein selbstverwaltetes Wohnheim für 176 junge Menschen zu eröffnen. Seitdem konnten viel mehr Menschen sehen, wie unser Projekt funktioniert: Ob das Wohnen im bezahlbaren und nachhaltigen Raum oder durch Teilnahme an Veranstaltungen auf unserem Gelände. Das ist aber nur der Anfang: Wir haben neben dem Holz-Neubau ein weiteres Gebäude bezogen und entwickeln die grünen Anlagen im CA. Darum geht es in diesem Newsletter...
+Auf unserem CA-Gelände ist immer etwas los. Vor über einem Jahr haben wir im CA unser Ziel umgesetzt, ein selbstverwaltetes Wohnheim für 176 junge Menschen zu eröffnen. Seitdem konnten viel mehr Menschen sehen, wie unser Projekt funktioniert: Ob das Wohnen im bezahlbaren und nachhaltigen Raum oder durch Teilnahme an Veranstaltungen auf unserem Gelände. Das ist aber nur der Anfang: Wir haben neben dem Holz-Neubau ein weiteres Gebäude bezogen und entwickeln die Grünanlagen im CA. Darum geht es in diesem Newsletter...
 
 
 <ul>
@@ -23,7 +23,7 @@ Auf unserem CA-Gelände ist immer etwas los. Vor über einem Jahr haben wir im C
 
 Das ganze Jahr haben wir zusammen unsere selbstverwalteten Strukturen im Neubau weiterentwickelt: Durch regelmäßige Treffen der AGs und Initiativen, zahlreiche Diskussionen in Strukturtreffen und natürlich das wöchentliche Plenum. Ab diesem Frühling heißen wir weitere 40 Menschen willkommen, die fortan zusammen mit uns das CA gestalten.
 Am ersten Februar sind 11 junge Menschen in den Altbau eingezogen, die vor einer Entscheidung stehen, welchen Ausbildungs- oder Studiengang sie begehen wollen. Bei der Berufs- und Lebensorientierung unterstützt sie unser Orientierungsprogramm namens falt\*r. 
-Im März sind die Bewohner\*innen der sechs Wohneinheiten des sozialen Wohnungsbaus  dazugekommen, und am 1. April belebten wir auch die zwei freifinanzierten WGs. Außerdem sind auch die restlichen Zimmer von falt\*r fertig und stehen zur Zwischenvermietung, bis der zweite Jahrgang ins Laufen kommt. Dadurch haben wir unseren Altbau belegt! Wie immer danken wir all unseren zahlreichen Unterstützer\*innen und ganz besonders all jenen, die mit ihren eienen Händen bei unseren Eigenleistungseinsätzen tatkräftig mit angepackt haben.  Den Altbau zu beleben ist ein Meilenstein für das CA: Wir haben für 40 weitere Menschen einen bezahlbaren und suffizienten Wohnraum geschaffen; mit dem Start des zweiten, vollständigen Jahrgangs von falt*r im Oktober  werden es 80! Umso  bunter ist unsere Hausgemeinschaft: Ab jetzt sind nicht nur Studis und Azubis im CA zuhause, sondern Menschen mit unterschiedlichsten  Hintergründen.
+Im März sind die Bewohner\*innen der sechs Wohneinheiten des sozialen Wohnungsbaus  dazugekommen, und am 1. April belebten wir auch die zwei freifinanzierten WGs. Außerdem sind auch die restlichen Zimmer von falt\*r fertig und stehen zur Zwischenvermietung bereit, bis der zweite Jahrgang ins Laufen kommt. Dadurch haben wir unseren Altbau belegt! Wie immer danken wir all unseren zahlreichen Unterstützer\*innen und ganz besonders all jenen, die mit ihren eienen Händen bei unseren Eigenleistungseinsätzen tatkräftig mit angepackt haben.  Den Altbau zu beleben ist ein Meilenstein für das CA: Wir haben für 40 weitere Menschen einen bezahlbaren und suffizienten Wohnraum geschaffen; mit dem Start des zweiten, vollständigen Jahrgangs von falt*r im Oktober  werden es 80! Umso  bunter ist unsere Hausgemeinschaft: Ab jetzt sind nicht nur Studis und Azubis im CA zuhause, sondern Menschen mit unterschiedlichsten  Hintergründen.
 
 
 <figure>
@@ -47,7 +47,7 @@ Die Auswahlrunden für den zweiten Jahrgang von falt\*r laufen schon. Hierfür g
 Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird! 
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_002.png" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_002.png" width="70%" />
 <figcaption style="text-align:center;">
 <p> Bild: Unser Orientierungsjahr falt*r! (&#169; CA)
 </p>
@@ -59,7 +59,7 @@ Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird!
 Frühlingszeit ist Gartenzeit. Auch im CA. Endlich können wir den Garten im Osten weiter gestalten! Und es hat sich schon so viel getan: Viele fleißige Hände haben in den letzten Wochen bei mehreren Arbeitseinsätzen geholfen. Wir haben mit einer Motorhacke viel Humus in den verdichteten Boden eingearbeitet, erste Wege angelegt und Beete sind auch schon entstanden und, wo nötig, gemulcht. Vor allem sind auch naturnahe Einfassungen für Wege und Beete gelungen und eine bunte Wiese wurde gesät. Jetzt geht es weiter mit der Gestaltung des ersten Sitzkreises und der weiteren Bepflanzung. Dafür haben wir einen Einsatz mit professioneller Unterstützung geplant. Das ist genau die richtige Ergänzung zur Planungsarbeit der letzten Monate, die sich vor allem mit der Raumgestaltung und der Bepflanzung beschäftigt hatte. Auf dass es im Garten im Osten weiter ergrüne!
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_003.png" width="70%" />
 <figcaption style="text-align:center;">
 <p> Bild: Der Garten im Osten wird von unserer Garteninitiative gestaltet (&#169; CA)
 </p>
@@ -73,14 +73,14 @@ Für Kultur wurde auch gesorgt: Unter dem Motto „PerspektivWechselPoetry“ fa
 Auch war am 9. März wieder Zeit für unsere Mitgliederversammlung. Für das CA bedeutet das nicht nur eine vereinsrechtliche Formalität; vor allem ist es Zeit, um als ganzes Wohnheim zusammenzukommen und so die Gemeinschaft zu erleben.
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_003.png" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_004.png" width="70%" />
 <figcaption style="text-align:center;">
 </p>
 </figcaption>
 </figure>
 
 <figure>
-<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_004.png" width="100%" />
+<img alt="Bild: Das Einzugs-Orga-Team ist bereit für die Umzugswoche! (&#169; CA)" src="/newsletter/fruehling2024/fruehling_im_ca_bild_005.png" width="70%" />
 <figcaption style="text-align:center;">
 <p> Bild: Die Mitgliederversammluing unseres Wohnheimsverteins in unserer Aula  (&#169; CA)
 </p>
