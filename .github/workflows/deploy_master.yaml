@@ -36,4 +36,4 @@ jobs:
       - name: Build with Hugo and Juice
         run: bash build_prod.sh
       - name: Upload to FTP
-        run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -R upload/ /web/website ; quit"
+        run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -Rn upload/ /web/website ; quit"
