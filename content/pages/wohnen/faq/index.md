@@ -133,26 +133,8 @@ Darüber hinaus gibt es im CA eine eigene IT-Arbeitsgruppe, die verschiedene IT-
 Nein! Diese Regel gilt nur für das benachbarte Wohnheim.
 Alle Menschen können sich auf ein freies Zimmer/eine freie Wohnung im Altbau bewerben.
 {{< /accordion >}}
-{{< accordion "Wann sind Zimmer oder Wohnungen im Altbau bezugsfertig?" >}}
-Die Wohnungen können voraussichtlich ab 01.02.2024 bezogen werden.
-Wir versuchen freiwerdenden Wohnraum immer so schnell wie möglich auszuschreiben.
-Wir planen, immer wieder Besichtigungs- und Kennenlerntage zu veranstalten.
-{{< /accordion >}}
-{{< accordion "Wie kann ich mich auf eine der sozialen Mietwohnungen bewerben?" >}}
-Du bewirbst dich auf eine Wohnung unseres Sozialwohnraumes unter [diesem Bewerbungsformular](/bewerbung_sowobau/).
-Bitte beachte, dass in den 6 sozialen Mietwohnungen nur Menschen zur Bewerbung zugelassen werden, die einen
-Wohnberechtigungsschein für das laufende Kalenderjahr nachweisen können.
-Genaue Informationen, wie du diesen Wohnberechtigungsschein bei der Stadt beantragen kannst, findest du [hier](https://www.heidelberg.de/hd,Lde/-/Verfahrensbeschreibung/;vbid1038/;vbmid1).
-Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
-- [Bewerbung für das Orientierungsjahr](https://faltr.de/)
-- [Bewerbung für das Wohnheim](/bewerbung)
-{{< /accordion >}}
-{{< accordion "Wie kann ich mich auf eine der ungeförderten Wohnungen bewerben?" >}}
-Du bewirbst dich auf eine Wohnung unseres Altbaus unter [diesem Bewerbungsformular](/bewerbung_ffw/).
-Beachte, dass für die sozialen Mietwohnungen ein [anderes Bewerbungsformular](/bewerbung_sowobau/) vorhanden ist.
-Wenn du dich auf einen Platz im Orientierungsjahr oder im Wohnheim bewerben willst, dann wähle den entsprechenden Link aus:
-- [Bewerbung für das Orientierungsjahr](https://faltr.de/)
-- [Bewerbung für das Wohnheim](/bewerbung)
+{{< accordion "Wie kann ich mich auf eine der Mietwohnungen oder Zimmer bewerben?" >}}
+Wenn freie Wohnungen oder Zimmer verfügbar sind, dann findest du die Informationen zur Bewerbung auf den entsprechenden Seiten unter [Wohnen](/wohnen).
 {{< /accordion >}}
 {{< accordion "Ich/Wir haben einen Direktkredit gegeben. Habe ich/haben wir dadurch einen Vorteil bei der Bewerbung?" >}}
 Nein, dies hat keinen Einfluss auf die Bewerbungschancen.
@@ -165,11 +147,6 @@ sich in der Selbstverwaltung einbringen und Verantwortung für das Wohnprojekt �
 
 ### Fragen zum Einzug und zum Zusammenleben
 
-{{< accordion "Wann ist der Einzug in den Altbau geplant?" >}}
-Derzeit gehen wir von einer Vermietung ab Januar 2024 aus.
-Da sich das Gebäude aber noch im Bau befindet, können wir noch kein sicheres Einzugsdatum ansetzen.
-Wenn du auf der Baustelle mithelfen willst, melde dich gerne unter collegiumacademicum@posteo.de
-{{< /accordion >}}
 {{< accordion "Bin ich Teil des Wohnprojektes, wenn ich in den Altbau ziehe?" >}}
 Natürlich. Auch du gehörst selbstverständlich zum Projekt und nimmst an der Selbstverwaltung teil.
 Du darfst auch alle verfügbaren Gemeinschaftsflächen mit den anderen Bewohner*innen teilen.
@@ -192,12 +169,12 @@ Arbeitsräume, Holz-, Metall- und Fahrradwerkstatt, Garten, und Waschraum.
 Nein. Die finanzielle Lage einer Person soll nicht dafür ausschlaggebend sein, ob sie in unserem Projekt leben kann.
 {{< /accordion >}}
 {{< accordion "Wir sind mehrere zusammengehörende Menschen mit/ohne Kind(ern)/Ich bin Alleinerziehend mit Kind(ern). Ich bin Senior/in. Können wir bzw. kann ich trotzdem einziehen?" >}}
-Bei der Erstvermietung werden wir dir Wohnungen lediglich als ganzes vermieten und nicht einzelne Zimmer vergeben..
+Bei der Erstvermietung werden wir dir Wohnungen lediglich als ganzes vermieten und nicht einzelne Zimmer vergeben.
 In späteren Projektphasen kommt es darauf an, ob eine ganze Wohnung bzw. eine entsprechende Anzahl an Zimmern frei wird.
 Prinzipiell ist im Altbau das Zusammenleben in allen Lebenslagen möglich und wir freuen uns auf bunt gemischte WGs!
 {{< /accordion >}}
 {{< accordion "Muss ich selber auf der Baustelle helfen?" >}}
-Nein. Wir wünschen uns aber sehr, dass viele Bewohner*innen schon vor dem Einzug mithelfen.
+Nein. Wir wünschen uns aber sehr, dass viele Bewohner\*innen schon vor dem Einzug mithelfen.
 Vielleicht beim Möbelbau, bei der Mietverwaltung, in der Finanzierungsarbeit oder vielleicht doch auf unserer Baustelle?
 Unterstützung durch Bewohner*innen  ist aber vor allem im Hinblick auf die zukünftige Selbstverwaltung sinnvoll und wünschenswert,
 um das Zusammenleben stemmen zu können. Mehr Infos findest du unter [Mach mit](/mach-mit).

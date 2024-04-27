@@ -133,26 +133,8 @@ In addition, the CA has its own IT working group that provides various IT servic
 No! This rule only applies to the neighbouring dormitory in the new building.
 All people can apply for an apartment in the old building.
 {{< /accordion >}}
-{{< accordion "When are rooms or flats in the old building ready for occupancy?" >}}
-The flats are expected to be ready for occupation from 01.02.2024.
-We always try to advertise vacant accommodation as soon as possible.
-We plan to organise viewing and get-to-know-you days every now and then.
-{{< /accordion >}}
-{{< accordion "How can I apply for one of the social rented flats?" >}}
-You apply for one of our social rented flats at [this application form](/application_sowobau/).
-Please note that in the 6 social rented flats only people are admitted to apply who have a
-housing entitlement certificate for the current calendar year.
-You can find detailed information on how to apply for this housing entitlement certificate from the city [here](https://www.heidelberg.de/hd,Lde/-/Verfahrensbeschreibung/;vbid1038/;vbmid1).
-If you want to apply for a place in the orientation year or in the hall of residence, select the appropriate link:
-- [Orientation Year Application](https://faltr.de/)
-- [Application for the hall of residence](/application)
-{{< /accordion >}}
-{{< accordion "How do I apply for one of the unsubsidised residences?" >}}
-You apply for a flat in our old building at [this application form](/application_ffw/).
-Note that there is a [different application form](/application_sowobau/) for the social rented flats.
-If you want to apply for a place in the orientation year or in the dormitory, select the appropriate link:
-- [application for the orientation year](https://faltr.de/)
-- [Application for the hall of residence](/application)
+{{< accordion "How can I apply for one of flats or rooms in the old building?" >}}
+If apartments or rooms are available, you will find information on how to apply on the relevant pages under [Living](en/living).
 {{< /accordion >}}
 {{< accordion "I/We have given a direct loan. Does this give me/us an advantage when applying?" >}}
 No, this does not affect the chances of applying.
@@ -165,11 +147,6 @@ to take part in the self-administration and take responsibility for the housing 
 
 ### Questions about moving in and living together
 
-{{< accordion "When is it possible to move into the old building?" >}}
-We are currently assuming that we will be renting from January 2024.
-However, as the building is still under construction, we can't put a definite move-in date yet.
-If you would like to help out on the construction site, please feel free to contact us at collegiumacademicum@posteo.de.
-{{< /accordion >}}
 {{< accordion "Will I be part of the housing project if I move into the old building?" >}}
 Of course, you will be part of the project and take part in the self-management.
 You are also allowed to share all available common areas with the other residents.
