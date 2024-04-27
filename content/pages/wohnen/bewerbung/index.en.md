@@ -7,9 +7,9 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
-Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). The next possible move-in date is July 1, 2024. If you would like to move in in July, you can apply here <b>until Friday, April 26, 2024</b> at the latest.</p>
+Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1). Unfortunately, we can no longer accept applications for the move-in in July 2024. <b>The next possible move-in date is October 1, 2024.</b> From the beginning of July you will find our application form on this site.
 
-<h2>General</h2>
+<!-- <h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -28,9 +28,9 @@ Moving-in is always possible at the beginning of a quarter (October 1, January 1
             <i class="icon-mail-alt"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -161,6 +161,8 @@ Moving-in is always possible at the beginning of a quarter (October 1, January 1
           <input type="hidden" name="language" value="en">
         <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
-</div>
+</div> -->
+
+{{< einziehen-signup >}}
 
 </form>
