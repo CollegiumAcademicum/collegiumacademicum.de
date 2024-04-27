@@ -7,9 +7,11 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
-Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. Juli 2024. Falls du im Juli bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 26. April</b> hier dafür bewerben:</p>
+Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. Für den Einzug im Juli 2024 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Oktober 2024.</b> Ab Anfang Juli wirst du hier an dieser Stelle unser Bewerbungsformular finden.
 
-<h2>Allgemein</h2>
+Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p>
+
+<!-- <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -28,9 +30,9 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
             <i class="icon-mail-alt"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -167,6 +169,8 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
-</div>
+</div> -->
+
+{{< einziehen-signup >}}
 
 </form>
