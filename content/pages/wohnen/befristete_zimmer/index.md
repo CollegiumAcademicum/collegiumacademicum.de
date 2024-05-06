@@ -44,7 +44,6 @@ Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmä
 (auch Partys und andere Abendveranstaltungen) genutzt wird.
 </p>
 
-Noch Fragen? Dann schreibt uns gerne an zwischenmiete.altbau@collegiumacademicum.de.
 
 <!-- Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jahr hier zu wohnen?
 
@@ -67,8 +66,8 @@ Nach der Zusage von unserer Seite aus könnt ihr zu einer Besichtigung mit ansch
 Fortschritt Zimmerbelegung:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="16" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;">16 von 18</p>
+  <progress class="progress is-large is-primary" value="18" max="18"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;">18 von 18</p>
 </div>
 </div>
 
