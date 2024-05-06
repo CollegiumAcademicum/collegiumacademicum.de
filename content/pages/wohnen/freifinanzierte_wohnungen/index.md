@@ -54,9 +54,7 @@ Orientierungsjahr zu einem jährlichen Wechsel der jungen Bewohner*innenschaft k
 Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital wird in den nächsten Jahren um uns herum häufig
 Baustelle sein, mit den damit einhergehenden Geräuschen.
 Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen (auch abends) genutzt wird.
-<br><br>
-Noch Fragen? Dann schreibt uns gerne an <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
-<br>
+
 </p>
 
 
