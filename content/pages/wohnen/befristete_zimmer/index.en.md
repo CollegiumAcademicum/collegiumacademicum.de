@@ -44,7 +44,6 @@ walls made of straw, passive ventilation, triple-glazed windows and green electr
 You should be in the mood for a colorful house community. Due to our location on the US hospital conversion site, there is currently often a building site around us with the associated noise. There is also a large assembly hall in our new building next door, which is regularly used for events (including parties and other evening events).
 </p>
 
-Do you have any questions? Then please write to us at zwischenmiete.altbau@collegiumacademicum.de.
 
 
 <!-- Would you like to be part of our project and can you imagine living here for six months?
@@ -65,8 +64,8 @@ The next step in the application process is a 15-minute online interview. Once y
 Progress occupancy:
 <div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
 <div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="16" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;"> 16/18 </p>
+  <progress class="progress is-large is-primary" value="18" max="18"></progress>
+  <p class="progress-value has-text-white" style="--progressing: 180;"> 18/18 </p>
 </div>
 </div>
 

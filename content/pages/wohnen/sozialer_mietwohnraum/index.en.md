@@ -53,11 +53,7 @@ In addition, you can help with tasks in the garden, in our workshops, in adminis
 You should have a desire for a colourful house community and expect that with the orientation year located in the old building, there will be an annual change of young residents.
 Due to our location on the conversion site of the US Hospital, there will soon be frequent construction sites around us, with the accompanying noise.
 In addition, there is a large assembly hall in our new building next door, which is regularly used for events (parties and other evening events as well).
-<br><br>
-Any questions? Then write us at <a href="mailto:einziehen.altbau@collegiumacademicum.de">einziehen.altbau@collegiumacademicum.de</a>.
 </p>
-
-You're interested in the free-funded flats instead? Then inform yourself <a href="{{< relref "/freifinanzierte_wohnungen" >}}">here</a>.
 
 ## Floor plans and amount of rent
 
