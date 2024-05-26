@@ -48,9 +48,9 @@ soit ajouter votre adresse comme motif de paiement.
 
 
 ### Association de soutien
-Il existe également la possibilité d'une adhésion permanente au "_Förderverein Collegium Academicum Heidelberg e.V._". La charte de l'association peut être consultée [ici](/docs/satzung_foerderverein.pdf). Si vous êtes intéressé.e, veuillez nous contacter par e-mail à
-[collegiumacademicum@posteo.de](mailto:collegiumacademicum@posteo.de) ou par courrier à l'adresse suivante: Förderverein Collegium Academicum Heidelberg e.V. – Plöck 93 –
-69117 Heidelberg
+Il existe également la possibilité d'une adhésion permanente au "_Förderverein Collegium Academicum Heidelberg e.V._". La charte de l'association peut être consultée [ici](/docs/230707_Satzung_Foerderverein.pdf). Si vous êtes intéressé.e, veuillez nous contacter par e-mail à
+[collegiumacademicum@posteo.de](mailto:collegiumacademicum@posteo.de) ou par courrier à l'adresse suivante: Förderverein Collegium Academicum Heidelberg e.V. – Mendelejewplatz 1 –
+69126 Heidelberg
 Allemagne
 
 Merci beaucoup!
