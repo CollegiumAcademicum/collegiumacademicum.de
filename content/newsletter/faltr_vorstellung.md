@@ -50,4 +50,4 @@ Oder vielleicht fragt ihr euch: Wie bewerbe ich mich? Wenn ihr Lust habt dabei z
 ·	Warum möchtest du am Orientierungsjahr falt*r teilnehmen?
 ·	Wie hast du vom falt\*r gehört?
 
-Weitere Informationen findet ihr [faltr.de](faltr.de). [Hier](newsletter/faltr_vorstellung/oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start von falt*r!
+Weitere Informationen findet ihr [faltr.de](faltr.de). [Hier](oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start von falt*r!
