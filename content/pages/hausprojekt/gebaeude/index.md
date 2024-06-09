@@ -99,14 +99,13 @@ Wir finden: Wo immer sinnvoll, sollte energetische Sanierung Vorrang gegenüber 
 Die Sanierung des alten Verwaltungsgebäude des Krankenhauses orientiert sich an zwei wesentlichen
 Zielen: Wir wollen Bildungsfreiräume und zugleich Wohnraum schaffen - beides dauerhaft bezahlbaren und gemeinschaftlich.
 <br><br>
-Im Altbau sollen ab Herbst 2023 etwa 80 Personen wohnen.
-Von diesen werden rund 50 Personen zwischen Schule und weiterem Lebensweg ein <a href="https://faltr.de/">Orientierungsjahr</a>
-absolvieren, mit dem Ziel, verschiedene Studien- und Ausbildungsgänge kennenzulernen, die eigene Persönlichkeit weiterzuentwickeln
-und Verantwortung in der Gesellschaft zu übernehmen.
-Das Orientierungsjahr ist ein wichtiger Bestandteil unseres <a href="/bildung/">Bildungskonzepts</a> und wird voraussichtlich im
-Januar 2024 starten.
+Im Altbau ist Platz für ca. 80 Menschen, die sich auf unser Orientierungsjahr sowie auf Mietwohnungen verteilen.
+Rund 50 Personen erhalten zwischen Schule und weiterem Lebensweg jedes Jahr die Möglichkeit, im CA ein <a href="https://faltr.de/">Orientierungsjahr</a> zu
+absolvieren. Dieses ermöglich ihnen, verschiedene Studien- und Ausbildungsgänge kennenzulernen und bestärkt sie dabei, die eigene Persönlichkeit weiterzuentwickeln und Verantwortung in der Gesellschaft zu übernehmen.
+Das Orientierungsjahr ist ein wichtiger Bestandteil unseres <a href="/bildung/">Bildungskonzepts</a>.
+Der erste Jahrgang, noch mit reduzierter Teilnehmendenzahl, hat im Januar 2024 begonnen.
 <br><br>
-Die übrigen Wohnungen umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
+Die übrigen Wohnungen im Altbau umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
 sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir <a href="https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html">sozialen Mietwohnraum</a> schaffen wollen.
 Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden, die ihren Wohnungsbedarf nicht auf dem
 normalen Wohnungsmarkt decken können.
@@ -138,10 +137,10 @@ Zudem sind eine Fahrrad- und eine Metallwerkstatt sowie Lagerräume im Keller ge
 
 <br>
 <p style="text-align: justify">
-Bei der Sanierung geht es im Wesentlichen um drei Aspekte: eine Umnutzung von Büroräumen in Wohnräume, eine
+Bei der Sanierung ging es im Wesentlichen um drei Aspekte: eine Umnutzung von Büroräumen in Wohnräume, eine
 energetisch anspruchsvolle Sanierung sowie die Schaffung zusätzlicher Wohnfläche aus der bestehenden Gebäudesubstanz.
-Daher werden Grundrisse geändert und das Gebäude statisch sowie schall- und brandschutztechnisch ertüchtigt.
-Derzeit findet eine Außenwand-, Kellerdecken- und Dachdämmung statt. Die Fenster wurden bereits ausgetauscht, um den
+Daher wurden Grundrisse geändert und das Gebäude statisch sowie schall- und brandschutztechnisch ertüchtigt.
+Es fand eine Außenwand-, Kellerdecken- und Dachdämmung statt und die Fenster wurden bereits ausgetauscht, um den
 bestmöglichen energetischen Standard im Bestand zu erreichen (KfW55).
 Das ausgebaute Dach, eingebaute Schleppgauben und der Holzerker bieten zusätzliche Wohnfläche mit hohem Lichteintrag,
 der für weiteren Komfort in den Wohnungen und Gemeinschaftsflächen sorgt.
@@ -152,23 +151,17 @@ der für weiteren Komfort in den Wohnungen und Gemeinschaftsflächen sorgt.
 <p><center>Planungsdokument, das die Nord-Ansicht der Fassade des großen Altbaus zeigt</center></p>
 
 <p style="text-align: justify">
-Dabei achten wir bei jedem Schritt darauf, Bauteile und Baustoffe wieder- und weiterzuverwenden sowie möglichst
-ökologische Baustoffe zu nutzen. Beispielsweise werden Zelluloseflocken als Dämmstoff im Dach genutzt werden und
-<a href="https://stramentec.com/">gepresstes Stroh</a> für unseren Trockenwandbau. Auch sollen Türen, Bodenbeläge,
-Treppenhausgeländer, Schieferplatten und vieles mehr weiter und wieder genutzt werden.
-Zudem retten wir einige Materialien für eine spätere Kreativnutzung. Auf den neuen Gauben sollen
-Photovoltaik-Module die Anlage auf dem Neubau ergänzen, während die hohe Belegungsdichte den Heizwärmebedarf
-reduziert. Einen ausführlicheren Einblick in unser Nachhaltigkeitskonzept finden Sie <a href="/nachhaltigkeit">hier</a>.
+Bei jedem Schritt der Sanierung haben wir darauf geachtet, Bauteile und Baustoffe wieder- und weiterzuverwenden sowie möglichst
+ökologische Baustoffe zu nutzen. Beispielsweise wurden Zelluloseflocken als Dämmstoff im Dach genutzt und <a href="https://stramentec.com/">gepresstes Stroh</a> für unseren Trockenwandbau. Auch wurden Türen, Bodenbeläge, Treppenhausgeländer, Schieferplatten und vieles mehr weiter und wieder genutzt.
+Einige Materialien haben wir für eine spätere Kreativnutzung gerettet. Auf den neuen Gauben wurden, wie auch auf dem Neubau-Dach, Photovoltaik-Module installiert, gleichzeitig reduziert die hohe Belegungsdichte den Heizwärmebedarf.
+Einen ausführlicheren Einblick in unser Nachhaltigkeitskonzept finden Sie <a href="/nachhaltigkeit">hier</a>.
 <br><br>
-Zusammen mit dem Heidelberger Architekturbüro <a href="https://gerstner-hofmeister.de/">Gerstner + Hofmeister</a> sind wir derzeit
-dabei, die Sanierung des Altbaus zu planen und durchzuführen. Da der Altbau bereits in den 1930er Jahren entstanden
-sind und zuletzt als Verwaltungsgebäude genutzt wurde, sind einige bauliche Veränderungen notwendig.
-Um bezahlbares Wohnen möglich zu machen, ist es unser Ziel, die Renovierungs- und Umbauarbeiten möglichst gering zu
-halten und somit die vorhandene Bausubstanz zu erhalten.
-Eine bezahlbare Sanierung ermöglichen wir zusammen mit den vielen <a href="https://collegiumacademicum.de/direktkredite/">Direktkrediten von unseren Unterstützer*innen</a>
+Zusammen mit dem Heidelberger Architekturbüro <a href="https://gerstner-hofmeister.de/">Gerstner + Hofmeister</a> haben wir die Sanierung des Altbaus geplant und durchgeführt. Da der Altbau bereits in den 1930er Jahren entstanden
+sind und zuletzt als Verwaltungsgebäude genutzt wurde, waren einige bauliche Veränderungen notwendig.
+Um bezahlbares Wohnen möglich zu machen, war es wichtig, die Renovierungs- und Umbauarbeiten möglichst gering zu halten und die vorhandene Bausubstanz zu erhalten.
+Eine bezahlbare Sanierung ermöglichten wir zusammen mit den vielen <a href="https://collegiumacademicum.de/direktkredite/">Direktkrediten von unseren Unterstützer*innen</a>
 und unserer <a href="https://collegiumacademicum.de/aktionen/">Eigenleistung</a>, aber auch durch KfW-Zuschüsse für energetische
-Maßnahmen sowie eine Landesförderung für den sozialen Wohnungsbau. Mit dieser Förderung verpflichten wir uns, sozial
-gebundenen Mietwohnraum zu schaffen.
+Maßnahmen sowie eine Landesförderung für den sozialen Wohnungsbau. Mit dieser Förderung haben wir uns verpflichtet wir uns, sozial gebundenen Mietwohnraum zu schaffen.
 </p>
 
 ## Offener Treffpunkt und Büroräume im Pförtnerhaus
