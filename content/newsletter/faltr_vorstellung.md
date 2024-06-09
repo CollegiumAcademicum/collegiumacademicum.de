@@ -5,7 +5,7 @@ date: 2024-06-09
 
 ## Liebe Unterstützer:innen,
 
-die Zeit nach der Schule, verbunden mit der Frage „Na, weißt du schon, was du nach der Schule machen willst?“ ist für viele junge Menschen mit einem großen Fragezeichen oder auch innerem Stress verbunden. Viele wünschen sich mehr Zeit zur Orientierung, Austauschmöglichkeiten oder ein Gap-Year, bevor die nächste Entscheidung getroffen wird. Auch angesichts globaler Krisen steigt die Unsicherheit und manchmal fehlt der Mut für den nächsten Schritt.
+die Zeit nach der Schule ist für viele junge Menschen mit einem großen Fragezeichen oder auch innerem Stress verbunden. Etwas wie „Na, weißt du schon, was du nach der Schule machen willst?“ hört man dann besonders oft. Viele wünschen sich mehr Zeit zur Orientierung, Austauschmöglichkeiten oder ein Gap-Year, bevor die nächste Entscheidung getroffen wird. Auch angesichts globaler Krisen steigt die Unsicherheit und manchmal fehlt der Mut für den nächsten Schritt.
 Hier knüpfen wir an: Unser Orientierungsjahr falt*r bietet jedes Jahr aufs Neue über einen Zeitraum von 10 Monaten Unterstützung bei der persönlichen und beruflichen Orientierung. Dabei liegt ein Schwerpunkt auf der sozial-ökologischer Transformation, demokratischer Bildung und gesellschaftlichem Engagement. Gleichzeitig ergeben sich durch die Nähe zu unserem Neubau sehr viele Möglichkeiten zum Austausch mit bereits Auszubildenden oder Studierenden oder zur Mitarbeit in AGs und anderen Projekten des CA.
 
 
@@ -21,7 +21,7 @@ Hier knüpfen wir an: Unser Orientierungsjahr falt*r bietet jedes Jahr aufs Neue
 
 ### UNBEDINGT WEITERSAGEN: Wir haben noch Plätze frei!
 
-Für unseren 2. Jahrgang ab 1. Oktober  2024 haben wir noch Plätze frei! Unsere kommenden Online- Infoabende am 12.06, 26.06, 10.07 und 24.07, jeweils um 19 Uhr, geben einen Einblick in das Programm und die Möglichkeit, Fragen zu stellen. Leiten Sie die Info zum falt*r gerne an alle jungen Menschen in Ihrem Umfeld (Kerngruppe: 17-23 Jahre) weiter, denn viel zu wenige kennen bisher die Möglichkeit einer Orientierungszeit! Interessierte können uns auch vor Ort kennenlernen, weitere Infos dazu gibt es auf unserer [Homepage](https://faltr.de/). Wichtig ist uns auch: Es gibt immer die Möglichkeiten für Menschen mit weniger finanziellen Mitteln dabei zu sein - hier wir finden Lösungen.
+Für unseren 2. Jahrgang ab 1. Oktober  2024 haben wir noch Plätze frei! Unsere kommenden Online- Infoabende am 12.06, 26.06, 10.07 und 24.07, jeweils um 19 Uhr, geben einen Einblick in das Programm und die Möglichkeit, Fragen zu stellen. Leiten Sie die Info zum falt*r gerne an alle jungen Menschen in ihrem Umfeld (Kerngruppe: 17-23 Jahre) weiter, denn viel zu wenige kennen bisher die Möglichkeit einer Orientierungszeit! Interessierte können uns auch vor Ort kennenlernen, weitere Infos dazu gibt es auf unserer [Homepage](https://faltr.de/). Wichtig ist uns auch: Es gibt immer die Möglichkeiten für Menschen mit weniger finanziellen Mitteln dabei zu sein - hier wir finden Lösungen.
 
 <figure>
 <img alt="Bild: Workshop „Selbstführung- und Selbstmanagement“ und der Lebenswege-Abend im CA-Garten
@@ -42,7 +42,7 @@ Der falt*r macht Mut, die eigenen Kompetenzen in Gemeinschaft zu entdecken: Ob i
 
 ### Weiterleiten und sich bewerben
 
-Wir freuen uns, wenn der falt\*r auch durch Euch bekannter gemacht wird. Also „spread the word & let the falt\*r fly“ :-)
+Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird. Also „spread the word & let the falt\*r fly“ :-)
 Wir haben auch eine Messenger-Nachricht vorbereitet, die super einfach per WhatsApp, Signal & co. weitergeleitet werden kann. Wenn ihr die Vorlage gerne hättet, schreibt uns an unsere Handynummer (+4917615741898) mit dem Stichwort „Let the falt*r fly“ und wir schicken sie euch zu!
 
 Oder vielleicht fragt ihr euch: Wie bewerbe ich mich? Wenn ihr Lust habt dabei zu sein, schreibt uns eine Mail an  bewerbung@faltr.de oder schreibe uns per Whatsapp und beantwortet die folgenden drei Fragen auf ca. 1/2 bis einer Seite. Teilt uns bitte auch mit, wie ihr heißt und in welcher Stadt ihr gerade lebt.
