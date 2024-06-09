@@ -11,18 +11,18 @@ diese und viele weitere Aspekte machen das CA zu einem Leuchtturmprojekt im Bere
 </div>
 
 <p style="text-align: justify">
-Bei der Konstruktion des Neubaus wird überwiegend Holz als nachwachsender Rohstoff verwendet.
+Bei der Konstruktion des Neubaus wurde überwiegend Holz als nachwachsender Rohstoff verwendet.
 Holz-Holz-Verbindungen ermöglichen es, weitestgehend auf metallische Verbindungen zu verzichten.
 Im Gegensatz zu „konventionellen“ Baumaterialien wie Stahl, Zement und Beton verursacht die Holzproduktion nicht nur sehr wenige  CO2-Emissionen, sondern bindet sogar Kohlenstoff.
-Zudem wird auf eine sortenreine Trennfähigkeit der Baustoffen geachtet, um ein späteres Recycling zu ermöglichen.
-Auch bei der Sanierung unseres Altbaus versuchen wir, so viel CO<sub>2</sub> wie möglich einzusparen.
-Wir erhalten so viel Bausubstanz wie möglich und gestalten den größten Teil unseres Trockenbaus mit
-<a href="https://stramentec.com/">nachhaltigen Strohpresswänden</a> anstelle des Kohlekraftnebenproduktes Gips.
+Zudem wird auf eine sortenreine Trennfähigkeit der Baustoffe geachtet, um ein späteres Recycling zu ermöglichen.
+Auch bei der Sanierung unseres Altbaus haben so viel CO<sub>2</sub> wie möglich eingespart.
+Wir haben so viel Bausubstanz wie möglich erhalten und den größten Teil unseres Trockenbaus mit
+<a href="https://stramentec.com/">nachhaltigen Strohpresswänden</a> gestaltet anstelle des Kohlekraftnebenproduktes Gips.
 <br>
-<br>Durch sparsame Technik und gute Dämmung wird eine hohe Energieeffizienz erreicht.
-Der Neubau wird für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>.
+<br>Durch sparsame Technik und gute Dämmung wurde eine hohe Energieeffizienz erreicht.
+Der Neubau wurde für seine <a href="https://www.heidelberg.de/hd,Lde/HD/Leben/Foerderprogramm+Rationelle+Energieverwendung.htmlPassivhausbauweise">Passivhausbauweise von der Stadt Heidelberg gefördert</a> und erreicht den <a href="https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/Das-KfW-Effizienzhaus/">KfW 40+ Standard</a>.
 Die in der Größe maximierte Photovoltaikanlage liefert bilanziell mehr Strom, als im Gebäude verbraucht wird, der überschüssige Strom wird in das Netz eingespeist.
-Der Altbau wird auf den Energieeffizienzstandard 55 saniert und erhält ebenfalls eine PV-Anlage auf den Gebäudedächern.
+Der Altbau wurde auf den Energieeffizienzstandard 55 saniert und hat ebenfalls eine PV-Anlage auf den Gebäudedächern. Insbesondere die Dämmung vermeidet deutlich mehr Energie und Treibhausgase, als sie durch ihre Herstellung erfordert
 <br><br>
 Aufgrund des kreativen Wohnkonzepts mit dem Anspruch, Genügsamkeit in den Mittelpunkt zu stellen
 <a href="https://www.ifeu.de/service/nachrichtenarchiv/gutes-leben-fuer-alle-aber-wie/">(Suffizienz)</a>,
@@ -32,7 +32,7 @@ dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Prax
 
 <div class="columns">
     <div class="column" style="text-align: justify">
-    Die beweglichen Wandelemente lassen Individualität zu und bieten zugleich eine Anpassungsfähigkeit an sich ändernde Nutzungsanforderungen. Multifunktionale Räume erhöhen die Auslastung der Flächen.
+    Die beweglichen Wandelemente im Neubau lassen Individualität zu und bieten zugleich eine Anpassungsfähigkeit an sich ändernde Nutzungsanforderungen. Multifunktionale Räume erhöhen die Auslastung der Flächen.
     So können Räumen vielfältige Bedürfnisse direkt im Haus erfüllen und gleichzeitig den Flächenverbrauch reduzieren.
     </div>
     <div class="column">
@@ -42,10 +42,9 @@ dient das Projekt dem IFEU (Institut für Energie- und Umweltforschung) als Prax
 
 <p style="text-align: justify">
 Einen großen Beitrag zur effizienten, flächensparenden Raumnutzung leisten aber vor allem unsere zahlreichen
-Gemeinschaftsflächen in Alt- und Neubau: eine Aula mit Dachgarten für Veranstaltungen, Multifunktionsräume,
-einen stillen Arbeitsraum und ein als Gemeinschaftsgarten gestalteter Außenbereich stehen nicht nur den
+Gemeinschaftsflächen in Alt- und Neubau: eine Aula mit Dachgarten für Veranstaltungen, Multifunktions- und Seminarrräume, Werkstätten und ein als Gemeinschaftsgarten gestalteter Außenbereich stehen nicht nur den
 Bewohner*innen sondern auch der restlichen Zivilgesellschaft offen.
-Zudem können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen genutzt werden. 
+Insbesondere können diese Räume z. B. von Umwelt- und sozialen Initiativen für größere Veranstaltungen und Netzwerktreffen genutzt werden. 
 Direkt am Karlsruher Platz ist im ehemaligen Pförtnerhaus ein offener Treffpunkt für das Quartier geplant.
 </p>
 
@@ -54,17 +53,17 @@ Direkt am Karlsruher Platz ist im ehemaligen Pförtnerhaus ein offener Treffpunk
     {{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
     </div>
     <div class="column" style="text-align: justify">
-    Für nachhaltige Mobilität wird der Radverkehr gestärkt.
+    Für nachhaltige Mobilität wird in unserem Wohnprojekt der Radverkehr gestärkt.
     Dafür stehen ausreichend viele Fahrradstellplätze sowie eine Werkstatt zur Reparatur kaputter Räder zur Verfügung.
     Diese offene Fahrradwerkstatt soll insbesondere auch von anderen Quartiers-bewohner*innen genutzt werden.
-    Für motorisierten Individualverkehr sind nur sehr begrenzt Stellplätze vorgesehen, die zudem teilweise für Carsharing-Angebote reserviert sind.
+    Für motorisierten Individualverkehr sind nur sehr begrenzt Stellplätze vorgesehen, die teilweise für Carsharing-Angebote reserviert sind.
     Nicht  zuletzt trägt  eine  sehr  gut  frequentierte  Straßenbahnhaltestelle sowie eine Buslinie in unmittelbarer
     Nähe zur nachhaltigen Mobilität bei, mit der das CA gut erreicht werden kann (<a href="/neubau">Anfahrt</a>).
     </div>
 </div>
 
 <p style="text-align: justify">
-Auch der Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen heimischer und nutzbarer Baumarten, die Regenwassernutzung zur Bewässerung mittels einer Zisterne, versickerungsoffene Flächen, sowie die Kompostanlage zeichnen die ökologische Freiraumgestaltung aus. Zudem sollen vielfältige Lebensräume für Flora und Fauna geschaffen werden: eine naturnahe Teichanlage, Trockenmauern, Magerwiesen, Nistkästen an den Außenwänden und eine offene Sandfläche für Insekten stellen diverse Lebensräume dar und fördern die Artenvielfalt.
+Unser Außenbereich erfüllt hohe ökologische Ansprüche. Die Neupflanzungen heimischer und nutzbarer Baumarten, die Regenwassernutzung zur Bewässerung mittels einer Zisterne, versickerungsoffene Flächen, sowie die Kompostanlage zeichnen die ökologische Freiraumgestaltung aus. Zudem bieten wir vielfältige Lebensräume für Flora und Fauna: eine naturnahe Teichanlage, Trockenmauern, Magerwiesen, Nistkästen an den Außenwänden und eine offene Sandfläche für Insekten stellen diverse Lebensräume dar und fördern die Artenvielfalt.
 </p>
 
 <div class="columns">
