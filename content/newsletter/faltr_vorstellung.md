@@ -43,11 +43,11 @@ Der falt*r macht Mut, die eigenen Kompetenzen in Gemeinschaft zu entdecken: Ob i
 ### Weiterleiten und sich bewerben
 
 Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird. Also „spread the word & let the falt\*r fly“ :-)
-Wir haben auch eine Messenger-Nachricht vorbereitet, die super einfach per WhatsApp, Signal & co. weitergeleitet werden kann. Wenn ihr die Vorlage gerne hättet, schreibt uns an unsere Handynummer (+4917615741898) mit dem Stichwort „Let the falt*r fly“ und wir schicken sie euch zu!
+Wir haben auch eine Messenger-Nachricht vorbereitet, die super einfach per WhatsApp, Signal & co. weitergeleitet werden kann. Wenn ihr die Vorlage gerne hättet, schreibt uns an unsere Handynummer (<a href="tel:+4917615741898">+49176 15741898</a>) mit dem Stichwort „Let the falt*r fly“ und wir schicken sie euch zu!
 
 Oder vielleicht fragt ihr euch: Wie bewerbe ich mich? Wenn ihr Lust habt dabei zu sein, schreibt uns eine Mail an  bewerbung@faltr.de oder schreibe uns per Whatsapp und beantwortet die folgenden drei Fragen auf ca. 1/2 bis einer Seite. Teilt uns bitte auch mit, wie ihr heißt und in welcher Stadt ihr gerade lebt.
-·	An welcher Stelle in deinem Leben stehst du gerade?
-·	Warum möchtest du am Orientierungsjahr falt*r teilnehmen?
-·	Wie hast du vom falt\*r gehört?
+- An welcher Stelle in deinem Leben stehst du gerade?
+- Warum möchtest du am Orientierungsjahr falt*r teilnehmen?
+- Wie hast du vom falt\*r gehört?
 
-Weitere Informationen findet ihr [faltr.de](faltr.de). [Hier](oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start von falt*r!
+Weitere Informationen findet ihr [faltr.de](faltr.de). [Hier](/newsletter/faltr_vorstellung/oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start vom falt*r!
