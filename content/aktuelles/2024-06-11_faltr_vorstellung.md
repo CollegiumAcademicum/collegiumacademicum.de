@@ -1,18 +1,16 @@
 ---
-title: "falt*r stellt sich vor"
-date: 2024-06-09
+title: "Der falt*r stellt sich vor"
+date: 2024-06-11
 ---
 
-## Liebe Unterstützer:innen,
-
-die Zeit nach der Schule ist für viele junge Menschen mit einem großen Fragezeichen oder auch innerem Stress verbunden. Etwas wie „Na, weißt du schon, was du nach der Schule machen willst?“ hört man dann besonders oft. Viele wünschen sich mehr Zeit zur Orientierung, Austauschmöglichkeiten oder ein Gap-Year, bevor die nächste Entscheidung getroffen wird. Auch angesichts globaler Krisen steigt die Unsicherheit und manchmal fehlt der Mut für den nächsten Schritt.
+Die Zeit nach der Schule ist für viele junge Menschen mit einem großen Fragezeichen oder auch innerem Stress verbunden. Etwas wie „Na, weißt du schon, was du nach der Schule machen willst?“ hört man dann besonders oft. Viele wünschen sich mehr Zeit zur Orientierung, Austauschmöglichkeiten oder ein Gap-Year, bevor die nächste Entscheidung getroffen wird. Auch angesichts globaler Krisen steigt die Unsicherheit und manchmal fehlt der Mut für den nächsten Schritt.
 Hier knüpfen wir an: Unser Orientierungsjahr falt*r bietet jedes Jahr aufs Neue über einen Zeitraum von 10 Monaten Unterstützung bei der persönlichen und beruflichen Orientierung. Dabei liegt ein Schwerpunkt auf der sozial-ökologischer Transformation, demokratischer Bildung und gesellschaftlichem Engagement. Gleichzeitig ergeben sich durch die Nähe zu unserem Neubau sehr viele Möglichkeiten zum Austausch mit bereits Auszubildenden oder Studierenden oder zur Mitarbeit in AGs und anderen Projekten des CA.
 
 
 <figure>
 <img alt="Bild: Was will ich morgen verändern? (&#169; CA)" src="/newsletter/faltr_vorstellung/faltr_vorstellung_1.png" width="100%" />
 <figcaption style="text-align:center;">
-<p> Bild: Was will ich morgen verändern? (&#169; CA)
+<p> &#169; CA
 </p>
 </figcaption>
 </figure>
@@ -27,10 +25,11 @@ Für unseren 2. Jahrgang ab 1. Oktober  2024 haben wir noch Plätze frei! Unsere
 <img alt="Bild: Workshop „Selbstführung- und Selbstmanagement“ und der Lebenswege-Abend im CA-Garten
  (&#169; CA)" src="/newsletter/faltr_vorstellung/faltr_vorstellung_2.png" width="100%" />
 <figcaption style="text-align:center;">
-<p> Bild: Workshop „Selbstführung- und Selbstmanagement“ und der Lebenswege-Abend im CA-Garten (&#169; CA)
+<p> Workshop „Selbstführung- und Selbstmanagement“ und der Lebenswege-Abend im CA-Garten (&#169; CA)
 </p>
 </figcaption>
 </figure>
+<br>
 
 „Beim falt\*r lerne ich gerade mich zu organisieren. Das ist nicht immer leicht, aber die Workshops haben mir sehr geholfen, meine Zeit besser einzuteilen und all die Wünsche und Ziele, die ich in meinem Kopf habe, zu priorisieren. Früher war das durch die Schule vorgegeben, aber jetzt muss ich es ja selber hinbekommen“ so Jan, ein Teilnehmer des aktuellen falt*r-Jahrgangs. „Es tut so gut, schon mal in die Hochschule gehen zu können und mitzubekommen, wie das so ist. Ich freue mich jedes Mal auf die Vorlesung und weiß jetzt auch, welche Richtung ich ab Herbst einschlagen werde.“ erzählt die Teilnehmerin Jule begeistert.
 
@@ -42,12 +41,12 @@ Der falt*r macht Mut, die eigenen Kompetenzen in Gemeinschaft zu entdecken: Ob i
 
 ### Weiterleiten und sich bewerben
 
-Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird. Also „spread the word & let the falt\*r fly“ :-)
+Wir freuen uns, wenn der falt\*r auch durch euch bekannter gemacht wird. Also „spread the word & let the falt\*r fly“! 😊
 Wir haben auch eine Messenger-Nachricht vorbereitet, die super einfach per WhatsApp, Signal & co. weitergeleitet werden kann. Wenn ihr die Vorlage gerne hättet, schreibt uns an unsere Handynummer (<a href="tel:+4917615741898">+49176 15741898</a>) mit dem Stichwort „Let the falt*r fly“ und wir schicken sie euch zu!
 
-Oder vielleicht fragt ihr euch: Wie bewerbe ich mich? Wenn ihr Lust habt dabei zu sein, schreibt uns eine Mail an  bewerbung@faltr.de oder schreibe uns per Whatsapp und beantwortet die folgenden drei Fragen auf ca. 1/2 bis einer Seite. Teilt uns bitte auch mit, wie ihr heißt und in welcher Stadt ihr gerade lebt.
+Oder vielleicht fragt ihr euch: Wie bewerbe ich mich? Wenn ihr Lust habt dabei zu sein, schreibt uns eine Mail an bewerbung@faltr.de oder eine Nachricht per Whatsapp (<a href="tel:+4917615741898">+49176 15741898</a>) und beantwortet die folgenden drei Fragen auf ca. einer halben bis einer Seite. Teilt uns bitte auch mit, wie ihr heißt und in welcher Stadt ihr gerade lebt.
 - An welcher Stelle in deinem Leben stehst du gerade?
-- Warum möchtest du am Orientierungsjahr falt*r teilnehmen?
+- Warum möchtest du am Orientierungsjahr falt\*r teilnehmen?
 - Wie hast du vom falt\*r gehört?
 
-Weitere Informationen findet ihr [faltr.de](faltr.de). [Hier](/newsletter/faltr_vorstellung/oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start vom falt*r!
+Weitere Informationen findet ihr unter [faltr.de](faltr.de). [Hier](/newsletter/faltr_vorstellung/oj_info_flyer_02_ich_will_bewegen.pdf) haben wir auch unsere frischen Flyer für euch vorbereitet. Wir freuen uns sehr über eure aktive Teilnahme am Start vom falt*r!
