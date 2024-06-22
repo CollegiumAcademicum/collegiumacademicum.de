@@ -6,11 +6,11 @@ novoigl: yes
 
 <p style="text-align:justify">
 Mit dem Orientierungsjahr falt*r möchten wir jungen Menschen ermöglichen, sich zwischen Schule und weiterem Lebensweg
-frei zu entfalten und ihnen Raum und Zeit für persönliches Wachstum und interdisziplinäre Weiterbildung schaffen.
+frei zu entfalten und ihnen Raum und Zeit für persönliches Wachstum und interdisziplinäre Weiterbildung geben.
 </p>
 
 <center>
-<img class="image" src="/img/logo-faltr.png" alt="falt*r logo" width="180"/>
+<a href="https://faltr.de/"><img class="image" src="/img/logo-faltr.png" alt="falt*r logo" width="180"/></a>
 </center>
 <br>
 
