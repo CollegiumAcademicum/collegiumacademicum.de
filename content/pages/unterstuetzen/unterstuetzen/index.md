@@ -5,7 +5,7 @@ slug: "unterstuetzen"
 <p style="text-align:justify">
 Das Collegium Academicum ist kein kommerzielles Projekt und hat deswegen auch keine Großinvestoren.
 Wir wollen mit möglichst vielen Menschen gemeinsam etwas schaffen, auf das wir alle stolz sein können.
-Deswegen kann dieses Projekt nur funktionieren, wenn sich die Arbeit und Finanzierung auf viele Schultern verteilt.
+Deswegen kann dieses Projekt nur funktionieren, wenn sich die Arbeit und die Finanzierung auf viele Schultern verteilen.
 </p>
 
 ## Finanzierung
@@ -38,7 +38,7 @@ Bildungsarbeit macht und das <a href="/orientierungsjahr">Orientierungsjahr</a> 
 ## Teil des Teams werden
 
 <p style="text-align: justify">
-Wir sind eine offene Projektgruppe und suchen immer neue Mitglieder, die von der Idee, selbstverwaltet zu wohnen und zu lernen, genauso begeistert sind wie wir. Unsere Teammitglieder kommen aus vielen verschiedenen Richtungen und jede*r findet eine Möglichkeit, sich und ihre/seine Ideen einzubringen.
+Wir sind eine offene Projektgruppe und suchen immer neue Mitglieder, die von der Idee, selbstverwaltet zu wohnen und zu lernen, genauso begeistert sind wie wir. Unsere Teammitglieder kommen aus vielen verschiedenen Richtungen und jede*r findet eine Möglichkeit, sich und ihre*seine Ideen einzubringen.
 </p>
 
 <div class="buttons is-centered">
