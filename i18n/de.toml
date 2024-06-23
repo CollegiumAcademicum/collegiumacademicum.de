@@ -69,13 +69,13 @@ other = "Spenden"
 other = "Exkursionen"
 
 [exkursionen-message]
-other = "Wir laden Sie herzlich zu unserer nächsten Baustellenführung vor Ort ein."
+other = "Wir laden Sie herzlich zu unserer nächsten Führung vor Ort ein."
 
 [exkursionen-message2]
 other = "Führungen zu jeder vollen Stunde"
 
 [exkursionen-where]
-other = "Treffpunkt ist vor dem Bauzaun an der Karlsruher Straße, schräg gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter"
+other = "Treffpunkt ist am Eingang an der Karlsruher Straße, schräg gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter"
 
 [orientierungsjahr]
 other = "Das Orientierungsjahr"
