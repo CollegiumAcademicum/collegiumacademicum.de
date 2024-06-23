@@ -93,11 +93,6 @@
     weight = 4
     parent = "Unterstützen"
 [[main]]
-    name = "Aktionen"
-    url = "/aktionen"
-    weight = 4
-    parent = "Unterstützen"
-[[main]]
     name = "Förderverein"
     url = "/foerderverein"
     weight = 5
