@@ -5,14 +5,10 @@ on:
 
   workflow_dispatch:
     inputs:
-      BRANCH:
-        description: 'Branch to use'
-        required: true
-        default: 'test'
-        type: choice
-        options:
-        - master
-        - test
+      REUPLOAD_ALL:
+        description: 'Re-upload all files'
+        type: boolean
+        default: false
 
 concurrency:
   group: "ftp"
@@ -30,7 +26,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.96.0
-      BRANCH: ${{ inputs.BRANCH }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -44,5 +39,9 @@ jobs:
         run: "npm ci"
       - name: Build with Hugo and Juice
         run: bash build_test.sh
-      - name: Upload to FTP
+      - name: Upload to FTP (only changed files)
         run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -Rn --ignore-time -P 12 upload/ /web/website_tmp ; quit"
+        if: ${{ inputs.REUPLOAD_ALL == 'false'}}
+      - name: Upload to FTP (all files)
+        run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -P 12 upload/ /web/website_tmp ; quit"
+        if: ${{ inputs.REUPLOAD_ALL == 'true'}}
