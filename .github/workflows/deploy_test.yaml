@@ -4,6 +4,15 @@ on:
     branches: ["test"]
 
   workflow_dispatch:
+    inputs:
+      BRANCH:
+        description: 'Branch to use'
+        required: true
+        default: 'test'
+        type: choice
+        options:
+        - master
+        - test
 
 concurrency:
   group: "ftp"
@@ -21,6 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.96.0
+      BRANCH: ${{ inputs.BRANCH }}
     steps:
       - name: Install Hugo CLI
         run: |
