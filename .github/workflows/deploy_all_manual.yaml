@@ -1,18 +1,7 @@
-name: Build test branch and push to test server (test.collegiumacademicum.de)
-on:
-  push:
-    branches: ["test"]
+name: Build and push to production via manual trigger
 
+on:
   workflow_dispatch:
-    inputs:
-      BRANCH:
-        description: 'Branch to use'
-        required: true
-        default: 'test'
-        type: choice
-        options:
-        - master
-        - test
 
 concurrency:
   group: "ftp"
@@ -30,7 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.96.0
-      BRANCH: ${{ inputs.BRANCH }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -43,6 +31,6 @@ jobs:
       - name: Install Node.js dependencies
         run: "npm ci"
       - name: Build with Hugo and Juice
-        run: bash build_test.sh
+        run: bash build_prod.sh
       - name: Upload to FTP
-        run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -Rn --ignore-time -P 12 upload/ /web/website_tmp ; quit"
+        run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -P 12 upload/ /web/website ; quit"
