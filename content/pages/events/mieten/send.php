@@ -26,8 +26,10 @@ $i18n = [
         "request-sent" => "raumanfrage-verschickt",
         "freetext" => "Freies Kontaktfeld",
         "dear" => "Liebe*r",
+        "request" => "Anfrage",
         "mail-message" => "Vielen Dank für deine Raumanfrage!\nMit dieser Nachricht bestätigen wir, dass wir deine Anfrage erhalten haben. Wir werden uns in Kürze bei dir melden.",
         "with-data" => "Wir haben folgende Daten empfangen:",
+        "spam-protection" => "spamschutz",
     ]];
 
 // Creates the form: command inserts the html form tag
@@ -44,7 +46,7 @@ function send_mail($from, $to, $data, $lang, $with_message) {
         call_user_func_array(array($mail, "addAddress"), $to);
         call_user_func_array(array($mail, "addReplyTo"), $from);
 
-        $mail->Subject = "{$i18n[$lang]['Request']} {$data['full_name']} Veranstaltung";
+        $mail->Subject = "{$i18n[$lang]['request']} Veranstaltung CA // {$data['full_name']}";
         $body = "";
 
         if ($with_message) {
