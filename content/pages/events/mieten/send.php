@@ -23,6 +23,7 @@ $i18n = [
         "event" => "Veranstaltung",
         "date" => "Datum der Veranstaltung",
         "number_guests" => "Ungefähre Personenanzahl",
+        "request-sent" => "raumanfrage-verschickt",
         "freetext" => "Freies Kontaktfeld",
         "dear" => "Liebe*r",
         "mail-message" => "Vielen Dank für deine Raumanfrage!\nMit dieser Nachricht bestätigen wir, dass wir deine Anfrage erhalten haben. Wir werden uns in Kürze bei dir melden.",
@@ -118,7 +119,7 @@ if($form->submit()){
     	// Send the mail to us @ posteo
     	send_mail($applicant, $contact, $data, $lang, False);
 
-    	header("Location:/{$i18n[$lang]["application-sent"]}");
+    	header("Location:/{$i18n[$lang]["request-sent"]}");
     } else {
        header("Location:/{$i18n[$lang]["spam-protection"]}");
     }
