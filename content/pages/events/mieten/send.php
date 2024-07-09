@@ -94,6 +94,19 @@ if($form->submit()){
     $logs = update_logs($logs, $ip_address);
     write_logs($logs, $log_file);
 
+    // spam protection
+    $spam = check_for_spam($logs, $ip_address);
+
+    if (! $spam ) {
+        $data = ["email" => $form->post('email','Email','valid_email')];
+    	foreach ($fields as $field) {
+        	$_dat = $form->post($field);
+        	// just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
+        	if (mb_strlen($_dat, 'utf8') > 2500) {
+            	   $_dat = mb_substr($_dat, 0, 2500, 'utf8');
+        	}	   
+        $data[$field] = $_dat;
+    	}
 
     	$applicant = array($data["email"], $data['full_name']);
 
