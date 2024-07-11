@@ -6,7 +6,9 @@ slug: "mieten"
 
 <h2>Aula</h2>
 
-Einleitender Text zur Aula (inkl. Lage)
+<p style="text-align: justify">
+Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:innen des selbstverwalteten Wohnheims Collegium Academicum. Der 330qm große Raum gliedert sich in das große Gebäude des innovativen Holz-Neubaus ein und wird von der Projektgruppe für verschiedene Arbeitstreffen, das wöchentliche Plenum, sowie weitere gemeinsame interne Veranstaltungen genutzt. Mit ihren 330 Sitzplätzen und 660 Stehplätzen steht die Aula aber auch externen Personen, Gruppen und Vereinen für regelmäßige Treffen oder öffentliche Veranstaltungen zur Verfügung. Die Aula bietet zahlreiche Nutzungsmöglichkeiten und ist individuell, je nach Veranstaltungsart adaptierbar. Sie kann nach Rücksprache mit der AG Raum (der zuständigen Arbeitsgemeinschaft für die Verwaltung der Aula) gebucht und angemietet werden. 
+</p>
 
 <div class="columns">
     <div class="column" style="text-align:justify">
@@ -56,7 +58,62 @@ Einleitender Text zum Seminarraum (Lage, für welche Art Veranstaltungen, etc.)
 <h2>Kontakt</h2>
 
 Ihr wollt einen unserer Räume mieten? 
-Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacademicum.de</a> oder nutzt das untenstehende Kontakformular.
+Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacademicum.de</a> oder nutzt das untenstehende Kontakformular. Ihr findet uns außerdem auf <a href="https://www.instagram.com/collegiumacademicum/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+   </a>.
+
+<!--
+<p style="text-align:left">
+<a href="https://www.instagram.com/collegiumacademicum/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+   </a>
+
+<a href="mailto:aula@collegiumacademicum.de">
+        <span class="icon">
+            <i class="icon-mail-alt"></i>
+        </span>
+        <span>Mail</span>
+   </a>
+   </p>
+</p>
+
+<p style="text-align:center">
+<a href="https://www.instagram.com/collegiumacademicum/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+   </a>
+
+<a href="mailto:aula@collegiumacademicum.de">
+        <span class="icon">
+            <i class="icon-mail-alt"></i>
+        </span>
+        <span>Mail</span>
+   </a>
+   </p>
+</p>
+-->
+<div class="buttons is-centered">
+    <a href="mailto:aula@collegiumacademicum.de" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-mail-alt"></i>
+        </span>
+        <span>Mail</span>
+    </a>
+    <a href="https://www.instagram.com/collegiumacademicum/" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+    </a>
+</div>
 
 <!-- Kontaktformular -->
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
