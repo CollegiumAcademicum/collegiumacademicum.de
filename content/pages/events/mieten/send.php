@@ -12,9 +12,10 @@ require_once '../../php_libs/formr/class.formr.php';
 require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
-// Check if the logfile exists, if not create it
+// Check if the logfile exists, if not create it with the correct format
 if (!file_exists($log_file)) {
-    file_put_contents($log_file, '');
+    $initial_content = "ip,tries,last_attempt\n";
+    file_put_contents($log_file, $initial_content);
 }
 
 $fields = ['full_name', 'email', 'phone', 'event', 'date',
