@@ -116,7 +116,7 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
 </div>
 
 <!-- Kontaktformular -->
-<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
+<form action="/mieten/send.php" method="post" accept-charset="utf-8">
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
