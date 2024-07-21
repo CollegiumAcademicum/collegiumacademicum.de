@@ -52,7 +52,7 @@ Your donations are welcome - please use one of the bank account details below. I
   Account holder: Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE65 4306 0967 6036 6733 01<br>
   GLS Gemeinschaftsbank eG<br>
-  <b>Reason for transfer:</b> Donation CA, your name, your e-mail / address
+  <b>Reason for transfer:</b> Donation orientation year, your name, your e-mail / address
 </div>
 
 

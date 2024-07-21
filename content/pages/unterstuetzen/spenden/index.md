@@ -55,6 +55,6 @@ Wir freuen uns über Ihre Spende per Banküberweisung auf eines der untenstehend
   Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE65 4306 0967 6036 6733 01<br>
   GLS Gemeinschaftsbank eG<br>
-  <b>Verwendungszweck:</b> Spende CA, Ihr Name, Ihre Email / Ihre Anschrift
+  <b>Verwendungszweck:</b> Spende Orientierungsjahr, Ihr Name, Ihre Email / Ihre Anschrift
 </div>
 
