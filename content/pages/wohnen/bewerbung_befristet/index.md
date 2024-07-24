@@ -9,7 +9,7 @@ novoigl: yes
 
 Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeinsam eine Bewerbung aus.</p>
 
-<h3>Allgemein</h3>
+<h2>Allgemein</h3>
 <div class="field">
     <label class="label" for="full_name">Rufname</label>
   	<div class="control has-icons-left">
@@ -48,13 +48,12 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
     </div>
 </div>
 <div class="field">
-    <label class="label" for="age">Geburtstag *</label>
+    <label class="label" for="age">Geburtstag</label>
     <div class="control">
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required/>
     </div>
 </div>
-
-<h3>Kennenlernen</h3>
+<h2>Kennenlernen</h3>
 <p>Wir würden dich gerne schon etwas kennenlernen. Bitte beantworte die Fragen in je höchstens 1.000 Zeichen.</p>
 <br>
 <div class="field">
@@ -69,8 +68,7 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
         <textarea name="why_ca" class="textarea" placeholder="" minlength="200" maxlength="1000" required></textarea>
     </div>
 </div>
-
-<h3>Diversität</h3>
+<h2>Diversität</h3>
 <p>Um die Vielfalt in den WGs zu sichern, haben wir uns verschiedene Quoten gesetzt. Bitte hilf uns, diese nicht aus dem Auge zu verlieren, indem du folgende Fragen beantwortest. Wenn du die Fragen nicht beantworten möchtest, ist das auch kein Problem und wird sich nicht auf deine Bewerbung auswirken.</p>
 <br>
 <div class="field">
@@ -92,6 +90,7 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
     </div>
     <p class="help">Wir möchten ein inklusives Projekt sein und im Auswahlprozess auch berücksichtigen, dass nicht alle Menschen die gleichen Chancen auf dem Wohnungsmarkt haben.</p>
 </div>
+<hr>
 <div class="field">
     <label class="label" for="children">Hast du Kinder, die mit dir einziehen würden?</label>
     <div class="control">
@@ -149,6 +148,7 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
         <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
     </div>
 </div>
+<hr>
 <p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
 <p>Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
 <br>
