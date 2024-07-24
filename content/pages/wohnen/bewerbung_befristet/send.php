@@ -13,17 +13,26 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'pronouns', 'email', 'age', 'mail', 'wer', 'leitbild', 'spam_protection'];
+$fields = ['full_name', 'email', 'phone', 'age', 'about_you', 'why_ca', 'occupation', 'pronouns', 'diversity', 'children', 'contacts', 'roomsize', 'move-in', 'how_long', 'language_application_day', 'anything_else', 'mail', 'spam_protection'];
 
 $i18n = [
     "de" => [
-        "full_name" => "Name",
-        "email" => "E-mail",
-        "age" => "Alter",
-        "pronouns" => "Pronomen",
-        "leitbild" => "Leitbild",
-        "occupation" => "Tätigkeit",
-        "wer" => "Wer bist du?",
+        "full_name" => "Rufname",
+        "email" => "E-Mail",
+	"phone" => "Telefonnummer",
+        "age" => "Geburtsdatum",
+	"about_you" => "Möchtest du uns etwas über dich erzählen?",
+	"why_ca" => "Warum möchtest du einziehen (und Teil des Projekts werden)?",
+        "occupation" => "Was ist deine hauptsächliche offizielle Tätigkeit?",
+        "pronouns" => "Mit welchen Pronomen möchtest du angesprochen werden?",
+        "diversity" => "Gibt es Diversitäts- oder Marginalisierungsmerkmale, die du mit uns teilen möchtest?",
+        "children" => "Hast du Kinder, die mit dir einziehen würden?",
+	"contacts" => "Kennst du bereits andere Leute, mit denen du zusammenziehen möchtest?",
+	"roomsize" => "Hast du bereits Wünsche für eine Zimmergröße? Könntest du dir vorstellen, mit einer anderen Person in ein Doppelzimmer zu ziehen?",
+	"move-in" => "Wann möchtest du einziehen?",
+	"how_long" => "Wie lange würdest du voraussichtlich gerne im CA wohnen?",
+	"language_application_day" => "Könntest du auch auf Englisch gut am Auswahltag teilnehmen?",
+	"anything_else" => "Möchtest du uns noch etwas mitteilen?",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt-zwischenmiete",
 	    "spam-protection" => "spamschutz",
@@ -34,12 +43,21 @@ $i18n = [
     ],
     "en" => [
         "full_name" => "Name",
-        "email" => "E-mail",
-        "age" => "Age",
-        "pronouns" => "Pronouns",
-        "who" => "Who are you?",
-        "leitbild" => "Our Vision",
-        "occupation" => "Occupation",
+        "email" => "E-mail address",
+	"phone" => "Phone number",
+        "age" => "Date of birth",
+	"about_you" => "Would you like to tell us something about yourself?",
+	"why_ca" => "Why do you want to move in (and why do you want to be a part of this project)?",
+        "occupation" => "What is your official main activity?",
+        "pronouns" => "Which pronouns would you like to be addressed with?",
+        "diversity" => "Are there any diversity or marginalization characteristics you would like to share?",
+        "children" => "Do you have children moving in with you?",
+	"contacts" => "Do you already know people you would like to move in with?",
+	"roomsize" => "Do you have a preferred room size? Do you want to move into a double room with another person?",
+	"move-in" => "When do you want to move in?",
+	"how_long" => "How long do you want to live in the CA?",
+	"language_application_day" => "Would you prefer having the get-to-know-you day in German or English?",
+	"anything_else" => "Is there anything else you would like to tell us?",
         "application" => "Application",
         "application-sent" => "en/application-sent-interim-rent",
 	    "spam-protection" => "en/spam_protection",
@@ -132,7 +150,7 @@ if($form->submit()){
 
     	$applicant = array($data["email"], $data['full_name']);
 
-    	$contact = array("zwischenmiete.altbau@collegiumacademicum.de", "Collegium Academicum");
+    	$contact = array("einziehen.altbau@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation
     	send_mail($contact, $applicant, $data, $lang, True);
