@@ -4,49 +4,30 @@ slug: "befristete_zimmer"
 novoigl: yes
 ---
 
-**Derzeit sind keine Bewerbungen mehr möglich.**
-
 <p style="text-align:justify">
-Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft?
-Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
-<br><br>
-Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und
-noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen.
-</p>
+Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
+    
+Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben zwei freifinanzierten Wohnungen finden sich hier auch sechs soziale Mietwohnungen und Wohnraum für das Orientierungsjahr falt*r, das ab Oktober in den zweiten Jahrgang startet. Da dieses nicht voll besetzt sein wird, suchen wir nach Menschen, die eine Zwischenmiete für ein Jahr suchen und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten, nur eine begrenzte Zeit in Heidelberg sind oder dringend ein Zimmer brauchen und in unser Altbau-Wohnheim ziehen möchten.
 
-<div class="color-block">
-<p style="text-align:justify">
-Die hier ausgeschriebenen Zimmer befinden sich im 1., 2. und 3. Stock unseres Altbaus und sind in Flurgemeinschaften organisiert.
-Wir vermieten die Zimmer <b>für 6 Monate</b>, bevor sie ab Herbst 2024 für unser
-<a href="/orientierungsjahr">Orientierungsjahr</a> falt*r genutzt werden.
-Dafür sind wir auf der Suche nach Studierenden, Azubis oder FSJler*innen, die eine <b>Zwischenmiete</b> für 6 Monate suchen
-und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten, nur ein halbes Jahr in Heidelberg sind oder
-dringend ein Zimmer brauchen.
-</p>
-</div>
+Während ein Teil der Zimmer schon ab September frei sein wird, kann der Großteil ab Oktober bezogen werden. Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den nächsten Jahren haben wird, sind die Zimmer erst einmal auf ein Jahr befristet, es ist aber möglich, dass die Zimmer auch über diesen Zeitraum heraus gemietet werden können.
 
-Alle Zimmer haben die folgende Adresse:
+Die hier ausgeschriebenen Zimmer befinden sich im 2. und 3. Stock unseres Altbaus und sind in Flurgemeinschaften organisiert. Alle Zimmer können möbliert gemietet werden.
 
-Ossip-Mandelstam-Straße 1 \
+Alle Zimmer haben die folgende Adresse: <br>
+Ossip-Mandelstam-Straße 1 <br>
 69126 Heidelberg-Rohrbach
 
-<p style="text-align:justify">
 Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten findest du weiter unten auf dieser Seite.
-Ergänzt wird der private Wohnraum durch diverse Räume, die das gesamte Projekt gemeinsam nutzt:
-Werkstätten, Aula, Multifunktionsraum, Seminarräume und Arbeitsräume.
-Außerdem gibt es zentrales Internet und genug (Garten-)Fläche zum Flanieren im Außenraum.
-Das Gebäude bedient sich einer ökologischen Bauweise: Dazu gehört ein Dämmstandard von KfW 55, Innenwände aus Stroh,
-eine passive Lüftung, dreifach verglaste Fenster und Ökostrom vom eigenen Dach.
-<br><br>
-Ihr solltet Lust auf eine bunte Hausgemeinschaft haben. Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist
-aktuell um uns herum häufig Baustelle mit den damit einhergehenden Geräuschen.
-Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen
-(auch Partys und andere Abendveranstaltungen) genutzt wird.
-</p>
 
+Ergänzt wird der private Wohnraum durch diverse Räume, die das gesamte Projekt gemeinsam nutzt: Werkstätten, die Aula, ein Multifunktionsraum, Seminarräume und Arbeitsräume. Außerdem gibt es zentrales Internet und schöne (Garten-) Fläche im Außenraum. Das Gebäude bedient sich einer ökologischen Bauweise: Dazu gehört ein Dämmstandard von KfW 55, Innenwände aus Stroh, eine passive Lüftung, dreifach verglaste Fenster und Ökostrom vom eigenen Dach.
 
-<!-- Du willst Teil unseres Projekts werden und kannst dir vorstellen, ein halbes Jahr hier zu wohnen?
+Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist aktuell um uns herum häufig Baustelle mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
 
+Für den Einzug im Oktober wird am 17.08. ein Kennenlerntag stattfinden. Die Teilnahme wird sowohl online als auch in Präsenz möglich sein. Wir achten darauf, Bewerber*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen, empfehlen dir jedoch, zum Kennenlernen in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Hier wird es auch eine Führung geben. Solltest du an diesem Tag keine Zeit haben, kannst du dich trotzdem bewerben – wir versuchen dann eine individuelle Lösung zu finden.
+
+Noch Fragen? Schau doch in unserem FAQ vorbei oder schreib uns gerne an altbau.wohnheim@collegiumacademicum.de
+
+Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
 </p>
 
 <div class="buttons is-centered">
@@ -58,18 +39,92 @@ Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmä
     </a>
 </div>
 
-<p style="text-align:justify">
-Der nächste Bewerbungsschritt ist ein 15 minütiges Online-Gespräch.
-Nach der Zusage von unserer Seite aus könnt ihr zu einer Besichtigung mit anschließender Zimmerwahl vorbeikommen.
-</p>-->
+## FAQ
 
-Fortschritt Zimmerbelegung:
-<div style="width:86%; margin-left:7%; margin-bottom:0px; margin-top:0px">
-<div class="progress-wrapperEinzug">
-  <progress class="progress is-large is-primary" value="18" max="18"></progress>
-  <p class="progress-value has-text-white" style="--progressing: 180;">18 von 18</p>
-</div>
-</div>
+{{< accordion "Fragen zu den Altbau-WGs" >}}
+
+{{< accordion "Wo befinden sich die WGs?" >}}
+Die Zimmer befinden sich in Maisonette-Wohnungen im 2. und 3. OG unseres schönen, energieeffizient sanierten Altbaus direkt neben dem Wohnheim. Der Altbau beheimatet zudem unsere sechs sozialen Mietwohnungen und zwei ungeförderte Wohnungen sowie unser wachsendes Orientierungsjahr. Zusammen bilden wir eine große Gemeinschaft, die gemeinsam über ihren Wohnraum entscheidet und ihn selbst verwaltet. Vier soziale Mietwohnungen befinden sich im Erdgeschoss, zwei weitere im 1. OG. Die zwei ungeförderten Wohnungen sind im 2. und 3. OG.
+{{< /accordion >}}
+{{< accordion "Wie hoch ist die Miete?" >}}
+Eine Übersicht aller Eckdaten der Wohnungen im Altbau, inklusive der Höhe der Mieten für die einzelnen Zimmer, findest du weiter unten auf dieser Seite.
+{{< /accordion >}}
+{{< accordion "Wie groß sind die einzelnen Zimmer?" >}}
+Die Zimmer sind unterschiedlich groß und haben verschiedene Grundrisse. Weiter unten auf dieser Seite findest du eine Übersicht über alle Eckdaten zu den WGs im Altbau.
+{{< /accordion >}}
+{{< accordion "Wie viele Zimmer sind in einer WG?" >}}
+Die WGs sind unterschiedlich groß und haben verschiedene Grundrisse. Weiter unten auf dieser Seite findest du eine Übersicht über alle Eckdaten zu den WGs im Altbau.
+{{< /accordion >}}
+{{< accordion "Welche Nebenkosten sind in der Miete enthalten?" >}}
+{{< /accordion >}}
+{{< accordion "Sind die Wohnungen „barrierearm“/„rollstuhlgerecht“?" >}}
+Die Wohnungen sind leider nur über Treppen erreichbar. Wenn das für dich geht und du Informationen zu anderen Punkten benötigst, dann melde dich gerne bei uns unter altbau.wohnheim@collegiumacademicum.de. Wenn du auf ein stufenlos erreichbares Zimmer angewiesen bist, schau dir gerne den Neubau an.
+{{< /accordion >}}
+{{< accordion "Von wo wird der Strom bezogen?" >}}
+Der Altbau nutzt zu 100 % Strom aus erneuerbaren Energien über die Heidelberger Energiegenossenschaft. Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt.
+{{< /accordion >}}
+{{< accordion "Welche Grundausstattung haben die WGs?" >}}
+Jede Wohnung verfügt über eine (Wohn-) Küche und ein bis zwei Bäder (je nach Größe). Die Waschmaschinen und Trockner befinden sich zentral in der Waschlounge des benachbarten Neubaus. Das ist ökologischer, platzsparender, effektiver und günstiger als eine eigene Waschmaschine pro Wohnung.
+{{< /accordion >}}
+{{< accordion "Gibt es einen WLAN-Anschluss?" >}}
+Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des Alt- und Neubaus verfügen über öffentliches WLAN. Darüber hinaus gibt es im CA eine eigene IT-Arbeitsgruppe, die verschiedene IT-Dienste für das gesamte CA zur Verfügung stellt.
+{{< /accordion >}}
+{{< /accordion >}}
+
+{{< accordion "Fragen zur Bewerbung" >}}
+
+{{< accordion "Wann kann ich einziehen?" >}}
+Du kannst zum 1. September oder 1. Oktober 2024 einziehen.
+{{< /accordion >}}
+{{< accordion "Wie läuft die Bewerbung ab?" >}}
+Wir haben ein Bewerbungsformular. Nachdem du deine Bewerbung abgeschickt hast, melden wir uns bei dir mit weiteren Infos und ggf. einer Einladung zum persönlichen Kennenlernen/Besichtigung. Gerne kannst du schon auf der Webseite stöbern und dich mit dem Projekt vertraut machen.
+{{< /accordion >}}
+{{< accordion "Kann ich mich bewerben, wenn ich erst zum Einzug vor Ort sein kann?" >}}
+Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Präsenz wie auch online machen. Wenn es dir möglich ist, empfehlen wir dir, in Präsenz zu kommen um unser Projekt besser kennenlernen zu können. Wir achten darauf, dass es keinen Nachteil für dich hat, online teilzunehmen.
+{{< /accordion >}}
+{{< accordion "Wie werden die Bewohner*innen ausgewählt?" >}}
+Uns ist Diversität unter den Mitbewohner*innen wichtig. Wir suchen vor allem nach Studierenden und Menschen in ähnlichen Lebenssituationen, die sich mit unserem Leitbild identifizieren und sich im Projekt einbringen möchten. Da ihr mit vielen Menschen zusammenlebt, ist uns wichtig, dass ihr gut in der Gruppe zusammenleben könnt.
+{{< /accordion >}}
+{{< accordion "Wer gestaltet den Bewerbungsprozess und entscheidet, ob ich einziehen darf?" >}}
+Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Zwischenvermietungsteam zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
+{{< /accordion >}}
+{{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere?" >}}
+{{< /accordion >}}
+{{< accordion "Gibt es ein Mindestalter? Kann ich mich bewerben, wenn ich noch nicht volljährig bin?" >}}
+Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
+{{< /accordion >}}
+{{< accordion "Kostet die Bewerbung Geld?" >}}
+Nein, für die Bewerbung entstehen dir keine Kosten. Wenn du an einem Auswahltag vor Ort teilnehmen möchtest, dann können dir Kosten für An- und Abreise entstehen, die du selbst tragen musst. Vor Ort kannst du das Projekt und die Zimmer besser kennenlernen, daher empfehlen wir dir, wenn möglich, die Teilnahme in Präsenz; für den Bewerbungsprozess unsererseits spielt es jedoch keine Rolle, ob du in Präsenz oder online teilnimmst.
+{{< /accordion >}}
+{{< accordion "Ich/Wir haben einen kleinen/großen Direktkredit gegeben. Habe ich bzw. hat mein Kind dadurch einen Vorteil bei der Bewerbung?" >}}
+Nein, dies hat keinen Einfluss auf die Bewerbungschancen. Der finanzielle Hintergrund soll nicht dafür ausschlaggebend sein, ob eine Person im CA leben kann.
+{{< /accordion >}}
+{{< /accordion >}}
+
+{{< accordion "Fragen zum Einzug und Zusammenleben" >}}
+
+{{< accordion "Kann ich mir meine Mitbewohner*innen aussuchen?" >}}
+Ja, wir versuchen gemeinsam mit den zukünftigen Bewohner*innen passende WG-Konstellationen zu finden. Wenn du eine Person bereits kennst und mit ihr zusammenziehen möchtest, kannst du das in deiner Bewerbung gerne angeben.
+{{< /accordion >}}
+{{< accordion "Ich habe ein Haustier. Darf das mit mir ins CA einziehen?" >}}
+Nein, es sind grundsätzlich keine Haustiere erlaubt. Die einzige Ausnahme sind Assistenztiere – komme gerne auf uns zu.
+{{< /accordion >}}
+{{< accordion "Kann ich meine eigenen Möbel mitbringen?" >}}
+Jedes Zimmer wird grundsätzlich möbliert vermietet (Schreibtisch, Schrank, Bett). Es ist aber nach Absprache ggf. auch möglich, eigene Möbel mitzubringen.
+{{< /accordion >}}
+{{< accordion "Wir sind mehrere zusammengehörende Menschen mit Kind(ern)/Ich bin alleinerziehend mit Kind(ern). Können wir bzw. kann ich trotzdem als Familie einziehen?" >}}
+Es gibt keine Familienwohnungen im engeren Sinne. Trotzdem ist es möglich, mit Kindern in eine WG einzuziehen. Es gibt dabei mehrere Optionen. Für ein Kind kann ein eigenes Zimmer in der eigenen WG angemietet werden. Es ist außerdem möglich, dass sich zwei erwachsene Menschen ein Zimmer teilen und das dadurch frei werdende Zimmer als Kinderzimmer genutzt wird.
+{{< /accordion >}}
+{{< accordion "Bin ich Teil des Wohnprojekts, wenn ich in den Altbau ziehe?" >}}
+Natürlich. Auch du gehörst selbstverständlich zum Projekt und kannst dich gerne in der Selbstverwaltung einbringen. Du darfst auch alle verfügbaren Gemeinschaftsflächen mit den anderen Bewohner*innen teilen.
+{{< /accordion >}}
+{{< accordion "Was bedeutet Teilnahme an der Selbstverwaltung?" >}}
+Die Menschen, die in unseren Gebäuden wohnen, organisieren ihr Zusammenleben und Miteinander selbst. Das bedeutet, dass Aufgaben wie die Finanzierung/Mietverwaltung und die Instandhaltung unseres Wohnumfeldes von uns selbst getragen werden. Auch wird das gemeinschaftliche Zusammenleben gestaltet und gemeinsam an Projekten wie dem Garten gearbeitet.
+{{< /accordion >}}
+{{< accordion "Dürfen die Bewohner*innen des Altbaus Gemeinschaftsräume im Alt- und Neubau mitnutzen?" >}}
+Ja, das gesamte Projekt wird gemeinschaftlich durch alle Bewohner*innen genutzt. Bereiche innerhalb der Wohnung (Wohnküche, Bad) sind natürlich privat. Dazu hast du aber Zugang zu sehr vielen Gemeinschaftsräumen: von der Lounge bis zum Konferenzraum, über Gruppenräume, Arbeitsräume, Holz-, Metall- und Fahrradwerkstatt, Garten und Waschraum.
+{{< /accordion >}}
+{{< /accordion >}}
 
 ## Pläne und Höhe der Mieten
 
