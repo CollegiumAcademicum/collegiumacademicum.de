@@ -25,7 +25,7 @@ Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist aktuell um uns
 
 Für den Einzug im Oktober wird am 17.08. ein Kennenlerntag stattfinden. Die Teilnahme wird sowohl online als auch in Präsenz möglich sein. Wir achten darauf, Bewerber*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen, empfehlen dir jedoch, zum Kennenlernen in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Hier wird es auch eine Führung geben. Solltest du an diesem Tag keine Zeit haben, kannst du dich trotzdem bewerben – wir versuchen dann eine individuelle Lösung zu finden.
 
-Noch Fragen? Schau doch in unserem FAQ vorbei oder schreib uns gerne an altbau.wohnheim@collegiumacademicum.de
+Noch Fragen? Schau doch in unserem FAQ vorbei oder schreib uns gerne an zwischenmiete.altbau@collegiumacademicum.de
 
 Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
 </p>
@@ -58,7 +58,7 @@ Die WGs sind unterschiedlich groß und haben verschiedene Grundrisse. Weiter unt
 {{< accordion "Welche Nebenkosten sind in der Miete enthalten?" >}}
 {{< /accordion >}}
 {{< accordion "Sind die Wohnungen „barrierearm“/„rollstuhlgerecht“?" >}}
-Die Wohnungen sind leider nur über Treppen erreichbar. Wenn das für dich geht und du Informationen zu anderen Punkten benötigst, dann melde dich gerne bei uns unter altbau.wohnheim@collegiumacademicum.de. Wenn du auf ein stufenlos erreichbares Zimmer angewiesen bist, schau dir gerne den Neubau an.
+Die Wohnungen sind leider nur über Treppen erreichbar. Wenn das für dich geht und du Informationen zu anderen Punkten benötigst, dann melde dich gerne bei uns unter zwischenmiete.altbau@collegiumacademicum.de. Wenn du auf ein stufenlos erreichbares Zimmer angewiesen bist, schau dir gerne den Neubau an.
 {{< /accordion >}}
 {{< accordion "Von wo wird der Strom bezogen?" >}}
 Der Altbau nutzt zu 100 % Strom aus erneuerbaren Energien über die Heidelberger Energiegenossenschaft. Zu großen Teilen wird der Strombedarf über die Photovoltaikanlage auf unserem Dach inklusive Batteriespeicher abgedeckt.
@@ -139,16 +139,14 @@ sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunkt
 
 | Zimmer | Größe | Kaltmiete | Warmmiete |
 |--------------------------|----------------|------------------|--------------------------------------|
-|2.3.02|20,53 m<sup>2</sup>|420 €|500 €|
-|2.3.03|21,87 m<sup>2</sup>|470 €|550 €|
-|2.3.04|23,82 m<sup>2</sup>|470 €|550 €|
-|2.3.07|19,90 m<sup>2</sup>|420 €|500 €|
-|2.3.08|19,07 m<sup>2</sup>|420 €|500 €|
-|2.4.04|20,17 m<sup>2</sup>|470 €|550 €|
-|2.4.05|26,74 m<sup>2</sup>|470 €|650 €|
-|2.4.06|20,41 m<sup>2</sup>|470 €|550 €|
-|2.5.04|20,96 m<sup>2</sup>|470 €|550 €|
-|2.5.05|21,39 m<sup>2</sup>|470 €|550 €|
+|2.3.02|20,53 m<sup>2</sup>|465 €|545 €|
+|2.3.03|21,87 m<sup>2</sup>|520 €|600 €|
+|2.3.04|23,82 m<sup>2</sup>|520 €|600 €|
+|2.3.07|19,90 m<sup>2</sup>|465 €|545 €|
+|2.3.08|19,07 m<sup>2</sup>|465 €|545 €|
+|2.4.04|20,17 m<sup>2</sup>|465 €|545 €|
+|2.4.05|26,74 m<sup>2</sup>|620 €|700 €|
+|2.4.06|20,41 m<sup>2</sup>|520 €|600 €|
 
 ### 3. OG
 
@@ -156,11 +154,11 @@ sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunkt
 
 | Zimmer | Größe | Kaltmiete | Warmmiete |
 |--------------------------|----------------|------------------|--------------------------------------|
-|3.3.13|18,71 m<sup>2</sup>|420 €|500 €|
-|3.3.16|20,13 m<sup>2</sup>|420 €|500 €|
-|3.3.20|19,96 m<sup>2</sup>|420 €|500 €|
-|3.4.08|19,47 m<sup>2</sup>|420 €|500 €|
-|3.4.12|18,97 m<sup>2</sup>|420 €|500 €|
-|3.5.08| 9,99 m<sup>2</sup>|290 €|370 €|
-|3.5.09|14,33 m<sup>2</sup>|390 €|470 €|
-|3.5.11|14,63 m<sup>2</sup>|390 €|470 €|
+|3.3.13|18,71 m<sup>2</sup>|520 €|600 €|
+|3.3.16|20,13 m<sup>2</sup>|520 €|600 €|
+|3.3.20|19,96 m<sup>2</sup>|520 €|600 €|
+|3.4.08|19,47 m<sup>2</sup>|465 €|545 €|
+|3.4.12|18,97 m<sup>2</sup>|465 €|545 €|
+|3.5.08| 9,99 m<sup>2</sup>|310 €|390 €|
+|3.5.09|14,33 m<sup>2</sup>|420 €|500 €|
+|3.5.11|14,63 m<sup>2</sup>|420 €|500 €|
