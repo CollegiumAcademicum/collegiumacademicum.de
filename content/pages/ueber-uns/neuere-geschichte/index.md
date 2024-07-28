@@ -68,6 +68,11 @@ Wir fanden die Idee bestechend, ohne unmittelbare Zeitnot und persönliche Agend
 Hieraus entstand unser Format der Strukturtreffen: Vorbereitete Fragen inklusive aufbereiteten Argumenten, auf deren Basis in gemeinsam geführten Diskussionen zu wegweisenden theoretischen Fragen Antworten gefunden und Entscheidungen herbeigeführt wurden.
 <br><br>
 So lief es auch mit unserem Leitbild: 2016 stellten wir fest, dass wir gemeinsame Werte fixieren sollten, um uns im Zweifelsfall darauf berufen zu können. Mitte des Jahres trafen wir uns daher zu einem moderierten Workshop in einem Schrebergarten nahe der Speyerer Straße und diskutierten darüber, was unsere Visionen des Zusammenlebens und unseres Miteinanders sind. Auch die Begriffe „Leitbild“, „Leitlinien“, „Werte“, usw. standen auf dem Prüfstand. Auch heute noch muss sich jede Person, die sich um ein Zimmer bewirbt, mit dem Leitbild auseinandersetzen.
-
-{{< img src="2016_Leitbildworkshop" alt="Leitbildworkshop im Jahr 2016" />}}
+<figure>
+<img alt="Leitbildworkshop 2016 (&#169; Margarete Over)" src="2016_Leitbildworkshop.JPG" width="100%" />
+<figcaption style="text-align:center;">
+<p> Leitbildworkshop 2016 (&#169; Margarete Over)
+</p>
+</figcaption>
+</figure>
 </p>
