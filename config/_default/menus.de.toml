@@ -69,26 +69,6 @@
     weight = 5
 
 [[main]]
-    name = "Events"
-    url = "/veranstaltungen"
-    weight = 6
-[[main]]
-    name = "Veranstaltungen"
-    url = "/veranstaltungen"
-    weight = 1
-    parent = "Events"
-[[main]]
-    name = "Räume mieten"
-    url = "/mieten"
-    weight = 2
-    parent = "Events"
-[[main]]
-    name = "Impressionen"
-    url = "/impressionen"
-    weight = 3
-    parent = "Events"
-
-[[main]]
     name = "Unterstützen"
     url = "/unterstuetzen"
     weight = 6
