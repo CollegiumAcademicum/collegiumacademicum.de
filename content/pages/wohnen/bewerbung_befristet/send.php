@@ -150,7 +150,7 @@ if($form->submit()){
 
     	$applicant = array($data["email"], $data['full_name']);
 
-    	$contact = array("einziehen.altbau@collegiumacademicum.de", "Collegium Academicum");
+    	$contact = array("zwischenmiete.altbau@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation
     	send_mail($contact, $applicant, $data, $lang, True);
