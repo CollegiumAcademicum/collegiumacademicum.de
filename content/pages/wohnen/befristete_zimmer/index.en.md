@@ -25,7 +25,7 @@ You should be in the mood for a colorful house community. Due to our location on
 
 There will be a get-to-know-you day on the 17. August for the rooms that are available from the beginning of October. This is so we can get to know you and you can get to know us and the space where you would be living. You are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the get-to-know-you day in presence, if it’s possible for you, so that you can get to know our project better. Should you already know that you will not be able to participate on the 17th, you can apply anyway and we will try to find an individual solution.
 
-Still have questions? Have a look at our FAQ or write to us at altbau.wohnheim@collegiumacademicum.de.
+Still have questions? Have a look at our FAQ or write to us at zwischenmiete.altbau@collegiumacademicum.de.
 
 You would like to be part of our project and can imagine living here?
 </p>
@@ -53,7 +53,7 @@ The rooms come in different sizes and layouts. Below you can find an overview of
 The shared apartments also have different sizes and layouts. Below you will find an overview of all key data concerning the shared apartments in the old building.
 {{< /accordion >}}
 {{< accordion "Are the flats barrier-free/wheelchair accessible?" >}}
-Unfortunately, the flats are only accessible via stairs. If this works for you and you want further information, please contact us at altbau.wohnheim@collegiumacademicum.de. In case you need a room, which is accessible without using stairs, please take a look at the new building.
+Unfortunately, the flats are only accessible via stairs. If this works for you and you want further information, please contact us at zwischenmiete.altbau@collegiumacademicum.de. In case you need a room, which is accessible without using stairs, please take a look at the new building.
 {{< /accordion >}}
 {{< accordion "Where is the electricity drawn from?" >}}
 The old building uses 100 % electricity from renewable sources via the Heidelberger Energiegenossenschaft. The electricity demand is primarily covered by the photovoltaic system on our roof, including battery storage.
@@ -133,16 +133,14 @@ The room sizes are listed below. Of course, the rent also includes the use of th
 
 | Room | Size | Basic rent | Warm rent |
 |--------------------------|----------------|------------------|--------------------------------------|
-|2.3.02|20.53 m<sup>2</sup>|€420|€500|
-|2.3.03|21.87 m<sup>2</sup>|€479|€550|
-|2.3.04|23.82 m<sup>2</sup>|€479|€550|
-|2.3.07|19.90 m<sup>2</sup>|€420|€500|
-|2.3.08|19.07 m<sup>2</sup>|€420|€500|
-|2.4.04|20.17 m<sup>2</sup>|€470|€550|
-|2.4.05|26.74 m<sup>2</sup>|€470|€550|
-|2.4.06|20.41 m<sup>2</sup>|€470|€550|
-|2.5.04|20.96 m<sup>2</sup>|€470|€550|
-|2.5.05|21.39 m<sup>2</sup>|€470|€550|
+|2.3.02|20.53 m<sup>2</sup>|€465|€545|
+|2.3.03|21.87 m<sup>2</sup>|€520|€600|
+|2.3.04|23.82 m<sup>2</sup>|€520|€600|
+|2.3.07|19.90 m<sup>2</sup>|€465|€545|
+|2.3.08|19.07 m<sup>2</sup>|€465|€545|
+|2.4.04|20.17 m<sup>2</sup>|€465|€545|
+|2.4.05|26.74 m<sup>2</sup>|€620|€700|
+|2.4.06|20.41 m<sup>2</sup>|€520|€600|
 
 ### Third floor
 
@@ -150,11 +148,11 @@ The room sizes are listed below. Of course, the rent also includes the use of th
 
 | Room | Size | Basic rent | Warm rent |
 |--------------------------|----------------|------------------|--------------------------------------|
-|3.3.13|18.71 m<sup>2</sup>|€420|€500|
-|3.3.16|20.13 m<sup>2</sup>|€420|€500|
-|3.3.20|19.96 m<sup>2</sup>|€420|€500|
-|3.4.08|19.47 m<sup>2</sup>|€420|€500|
-|3.4.12|18.97 m<sup>2</sup>|€420|€500|
-|3.5.08| 9.99 m<sup>2</sup>|€290|€370|
-|3.5.09|14.33 m<sup>2</sup>|€390|€470|
-|3.5.11|14.63 m<sup>2</sup>|€390|€470|
+|3.3.13|18.71 m<sup>2</sup>|€520|€600|
+|3.3.16|20.13 m<sup>2</sup>|€520|€600|
+|3.3.20|19.96 m<sup>2</sup>|€520|€600|
+|3.4.08|19.47 m<sup>2</sup>|€465|€545|
+|3.4.12|18.97 m<sup>2</sup>|€465|€545|
+|3.5.08| 9.99 m<sup>2</sup>|€310|€390|
+|3.5.09|14.33 m<sup>2</sup>|€420|€500|
+|3.5.11|14.63 m<sup>2</sup>|€420|€500|
