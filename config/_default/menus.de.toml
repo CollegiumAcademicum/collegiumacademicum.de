@@ -82,11 +82,6 @@
     url = "/mieten"
     weight = 2
     parent = "Events"
-[[main]]
-    name = "Impressionen"
-    url = "/impressionen"
-    weight = 3
-    parent = "Events"
 
 [[main]]
     name = "Unterstützen"
