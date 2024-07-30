@@ -24,8 +24,7 @@ Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:i
                     Kapazität: 660 Personen
                 </li>
                 <li>
-                    Ausstattung: Bühne, Licht- und Tontechnik, Bar, etc.?
-                    noch was zum Multifunktionsraum/zur Trennwand
+                    Ausstattung: Bühne, Stühle, Licht- und Tontechnik, Bar, Küche
                 </li>
             </ul>
     </div>
