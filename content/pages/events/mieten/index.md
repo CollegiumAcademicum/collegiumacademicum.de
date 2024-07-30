@@ -12,7 +12,7 @@ Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:i
 
 <div class="columns">
     <div class="column" style="text-align:justify">
-        {{< img src="Platzhalter_16-9.png" alt="Platzhalter" attr="CA" />}}
+        {{< img src="230714_Eröffnungsfeier_462.jpg" alt="Unsere Eröffnungsfeier 2023 in der Aula" attr="CA" />}}
     </div>
     <div class="column" style="text-align:left">
         <h3>Eckdaten</h3>
@@ -32,13 +32,13 @@ Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:i
     </div>
 
 
-<h2>Seminarraum</h2>
+<!-- <h2>Seminarraum</h2>
 
 Einleitender Text zum Seminarraum (Lage, für welche Art Veranstaltungen, etc.)
 
 <div class="columns">
     <div class="column" style="text-align:justify">
-        {{< img src="Platzhalter_16-9.png" alt="Platzhalter" attr="CA" />}}
+        Image here
     </div>
     <div class="column">
         <h3>Eckdaten</h3>
@@ -51,8 +51,7 @@ Einleitender Text zum Seminarraum (Lage, für welche Art Veranstaltungen, etc.)
                 </li>
             </ul>
         </div>
-    </div>
-
+    </div> -->
 
 
 <h2>Kontakt</h2>
@@ -166,7 +165,7 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
 <div class="field">
     <label class="label" for="number_guests">Ungefähre Personenanzahl</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="25" min="5" max="660" />
+        <input class="label" type="number" id="number_guests" name="number_guests" value="50" min="5" max="660" />
     </div>
 </div>
 
