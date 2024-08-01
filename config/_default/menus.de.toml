@@ -64,7 +64,7 @@
     parent = "Über uns"
 
 [[main]]
-    name = "Orientierungsjahr faltr"
+    name = "falt*r"
     url = "/orientierungsjahr"
     weight = 5
 
