@@ -18,6 +18,6 @@ slug: "leitbild"
 * __kritisch denken__: Grenzen zu überdenken und Konventionen zu hinterfragen, gehört ebenso dazu wie die Reflexion unserer eigenen Fachdisziplin sowie unserer gesellschaftlichen Rolle.
 * __kreativ denken__: Wir sind neugierig, interessieren uns über (Fächer-)Grenzen hinweg und entwickeln eigene Ideen.
 * __neue Wege gehen__: Wir werden aktiv und setzen gemeinsam Projekte um – probieren aber auch aus und sind mutig.
-* __eigene Fähigkeiten weiterentwickeln__: Durch Freiräume ermöglichen wir Selbstentfaltung und fördern das Vertrauen in die eigenen Fähigkeiten. Der Rückhalt und die Unterstützung der Gemeinschaft gewähren einen Raum zum Ausprobieren und um über sich hinauszuwachsen..
+* __eigene Fähigkeiten weiterentwickeln__: Durch Freiräume ermöglichen wir Selbstentfaltung und fördern das Vertrauen in die eigenen Fähigkeiten. Der Rückhalt und die Unterstützung der Gemeinschaft gewähren einen Raum zum Ausprobieren und um über sich hinauszuwachsen.
 * __gesellschaftliche, soziale und ökologische Verantwortung übernehmen__: Wir fördern politische Teilhabe und erfüllen eine undogmatische, meinungsbildende Funktion. Wir ermöglichen einen gleichberechtigten Wissenszugang und fördern ein tolerantes Miteinander. Nachhaltigkeit denken wir auf allen Ebenen mit.
 * __wertschätzend kommunizieren__: In unserer Zusammenarbeit achten wir auf respektvolle, transparente, aufgeschlossene und konstruktive Kommunikation. Wir geben Raum für Diskussionen und wägen Entscheidungen gemeinsam ab.
