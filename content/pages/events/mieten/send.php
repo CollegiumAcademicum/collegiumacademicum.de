@@ -18,8 +18,9 @@ if (!file_exists($log_file)) {
     file_put_contents($log_file, $initial_content);
 }
 
+// NOTE:The field mail is a fake field for spam protection
 $fields = ['full_name', 'email', 'phone', 'event', 'date',
-'number_guests', 'freetext'];
+'number_guests', 'freetext', 'mail', 'spam_protection'];
 
 $i18n = [
     "de" => [
@@ -105,8 +106,9 @@ if($form->submit()){
 
     // spam protection
     $spam = check_for_spam($logs, $ip_address);
-
-    if (! $spam ) {
+    $spam_protection = $form->post("spam_protection");
+    $fake_mail_field = $form->post("mail");
+    if ($spam_protection == 6 and $fake_mail_field == "" and ! $spam ) {
         $data = ["email" => $form->post('email','Email','valid_email')];
     	foreach ($fields as $field) {
         	$_dat = $form->post($field);
