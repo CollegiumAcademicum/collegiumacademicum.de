@@ -175,6 +175,14 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
     </div>
 </div>
 <div class="field">
+    <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
+    Computer bist, bitten wir dich folgende Frage zu beantworten: Wie viel ist
+    9 - 3? </label>
+    <div class="spam_protection">
+        <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
+    </div>
+</div>
+<div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
           <input type="hidden" name="language" value="de">
