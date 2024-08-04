@@ -42,7 +42,7 @@ jobs:
         run: bash build_prod.sh
       - name: Upload to FTP
         run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -Rn --ignore-time -P 12 upload/ /web/website ; quit"
-        if: ${{ github.event.inputs.REUPLOAD_ALL == 'false'}}
+        # if: ${{ github.event_name == 'push' || github.event.inputs.REUPLOAD_ALL == 'false'}}
       - name: Upload to FTP (all files)
         run: lftp -c "set sftp:auto-confirm yes ; open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} -p ${{ secrets.FTP_PORT }} sftp://${{ secrets.FTP_HOST }} ; mirror -R -P 12 upload/ /web/website ; quit"
         if: ${{ github.event.inputs.REUPLOAD_ALL == 'true'}}
