@@ -155,5 +155,5 @@
 
 [[main]]
     name = "Kontakt"
-    url = "/anfahrt"
+    url = "/kontakt"
     weight = 8
