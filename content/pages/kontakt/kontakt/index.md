@@ -3,13 +3,21 @@ title: "Kontakt"
 novoigl: yes
 ---
 
-### Gemeinsam leben und lernen
 
+<div style="text-align:left; height: 1px">
+    <h3>Gemeinsam leben und lernen</h3>
+</div>
 <div class="columns">
-	<div id="kontakt" class="column" style="text-align:left;">
- 	<h2>
-        <img src = "phone.svg" alt="Phone icon" width="50"/>
-    </h2>
+	<div class="column" style="text-align:left; height: 109px">
+        <br>
+        <img src="phone.svg" alt="Phone icon"  height="80" width="80"/>
+    </div>
+    <div class="column" style="text-align:left; height: 109px">
+        <img src="directions.svg" alt="Directions icon" height="109" width="109"/>
+    </div>
+</div>
+<div class="columns">
+	<div id="kontakt" class="column" style="text-align:left"> 
     <p style="text-align:left">
     Telefonisch erreichbar unter<br>
     <a href="tel:+4906221652236">+49 (0)6221-652236</a>
@@ -24,16 +32,13 @@ novoigl: yes
     </p>
     </div>
 	<div  id="anfahrt" class="column" style="text-align:left;">
-    <h2>
-        <img src = "directions.svg" alt="Directions icon" width="50"/>
-    </h2>
     <p style="text-align:left">
     Unsere Adressen in 69126 Heidelberg: 
     <br><br>
     Förderverein, Pförtnerhäusschen:<br>
     &emsp;Mendelejewplatz 1
     <br><br>
-    Wohnheim, Neubau<br>
+    Wohnheim, Neubau:<br>
     &emsp;Marie-Clauss-Straße 3
     <br><br>
     Sozialer Wohnungsbau, befristete Zimmer, Falt*r, Altbau:<br>
@@ -45,6 +50,9 @@ novoigl: yes
 </div>
 
 <!-- Kontaktformular -->
+<h2>
+    Schreib uns!
+</h2>
 <form action="/kontakt/send.php" method="post" accept-charset="utf-8">
 <div class="field">
     <label class="label" for="full_name">Name *</label>
