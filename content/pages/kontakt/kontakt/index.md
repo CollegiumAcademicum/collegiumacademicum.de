@@ -93,7 +93,7 @@ novoigl: yes
 <div class="field">
     <label class="label" for="freetext">Deine Nachricht an uns *</label>
     <div class="control">
-        <textarea class="input required" type="textarea" maxlength="1000" name="freetext"></textarea>
+        <textarea class="textarea" minlength="100" maxlength="3000" rows="8" name="freetext" required></textarea>
     </div>
 </div>
 <div class="field">
