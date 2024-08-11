@@ -1,0 +1,136 @@
+<?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+require '../../php_libs/PHPMailer/src/Exception.php';
+require '../../php_libs/PHPMailer/src/PHPMailer.php';
+require '../../php_libs/PHPMailer/src/SMTP.php';
+
+require_once '../../php_libs/formr/class.formr.php';
+
+require '../../php_libs/IPLogger/ip-logging.php';
+$log_file = 'spam-protection.log';
+
+// Check if the logfile exists, if not create it with the correct format
+if (!file_exists($log_file)) {
+    $initial_content = "ip,tries,last_attempt\n";
+    file_put_contents($log_file, $initial_content);
+}
+
+// NOTE:The field mail is a fake field for spam protection
+$fields = ['full_name', 'email', 'phone', 'subject', 'freetext', 'mail', 'spam_protection'];
+
+$i18n = [
+    "de" => [
+        "full_name" => "Name",
+        "email" => "E-mail",
+        "phone" => "Telefonnummer",
+        "subject" => "Betreff",
+        "message-sent" => "nachricht-verschickt",
+        "freetext" => "Freies Kontaktfeld",
+        "dear" => "Liebe*r",
+        "request" => "Anfrage",
+        "mail-message" => "Vielen Dank für deine Nachricht!\nHiermit bestätigen wir, dass wir deine Nachricht erhalten haben. Wir werden uns in Kürze bei dir melden.",
+        "with-data" => "Wir haben folgende Daten empfangen:",
+        "spam-protection" => "spamschutz",
+    ]];
+
+// Creates the form: command inserts the html form tag
+$form = new Formr();
+
+function send_mail($from, $to, $data, $lang, $with_message) {
+    global $i18n;
+    $mail = new PHPMailer(true);
+    $mail->CharSet = 'UTF-8';
+    $hr = "\n\n" . str_repeat("-", 45) . "\n\n";
+
+    try {
+        call_user_func_array(array($mail, "setFrom"), $from);
+        call_user_func_array(array($mail, "addAddress"), $to);
+        call_user_func_array(array($mail, "addReplyTo"), $from);
+
+        $mail->Subject = "{$data['subject']} // {$data['full_name']}";
+        $body = "";
+
+        if ($with_message) {
+            $body .= "{$i18n[$lang]['dear']} {$data['full_name']},";
+            $body .= "\n\n{$i18n[$lang]['mail-message']}";
+        }
+
+        $body .= $hr;
+        $body .= "{$i18n[$lang]['with-data']}\n\n";
+        foreach ($data as $key => $value) {
+            $_val = wordwrap(str_replace("\n", "\n\t", $value), 60, "\n\t");
+            $body .= "{$i18n[$lang][$key]}:\n";
+            $body .= "\t{$_val}\n";
+        }
+        $body .= $hr;
+
+        # if ($with_message) {
+        #     $body .= $i18n[$lang]["privacy-notice"];
+        # }
+
+        $mail->Body = $body;
+        $mail->send();
+    } catch (Exception $e) {
+        echo "Message from {$from[0]} to {$to[0]} could not be sent.\nMailer Error: {$mail->ErrorInfo}.\nPlease, contact m_frank@collegiumacademicum.de";
+    }
+}
+
+// check in the ip logs for computer who try to sent more than three times
+function check_for_spam($logs, $ip_address) {
+    $hashed_ip = hash('sha256', $ip_address);
+    foreach ($logs as $log) {
+        if($log['ip'] == $hashed_ip and $log['tries'] > 3) {
+            return true;
+        }
+    }
+    return false;
+}
+    
+
+if($form->submit()){
+    $lang = $form->post("language");
+    if (!in_array($lang, ['de'])) {
+        header('Location:./');
+    }
+    // log ip address
+    $ip_address = get_ip_addr();
+    $logs = read_logs($log_file);
+    $logs = update_logs($logs, $ip_address);
+    write_logs($logs, $log_file);
+
+    // spam protection
+    $spam = check_for_spam($logs, $ip_address);
+    $spam_protection = $form->post("spam_protection");
+    $fake_mail_field = $form->post("mail");
+    if ($spam_protection == 6 and $fake_mail_field == "" and ! $spam ) {
+        $data = ["email" => $form->post('email','Email','valid_email')];
+    	foreach ($fields as $field) {
+        	$_dat = $form->post($field);
+        	// just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
+        	if (mb_strlen($_dat, 'utf8') > 2500) {
+            	   $_dat = mb_substr($_dat, 0, 2500, 'utf8');
+        	}	   
+        $data[$field] = $_dat;
+    	}
+
+    	$applicant = array($data["email"], $data['full_name']);
+
+    	$contact = array("kontakt@collegiumacademicum.de", "Collegium Academicum");
+
+    	// Send the mail to the applicant as a confirmation
+    	send_mail($contact, $applicant, $data, $lang, True);
+
+    	// Send the mail to us @ posteo
+    	send_mail($applicant, $contact, $data, $lang, False);
+
+    	header("Location:/{$i18n[$lang]["message-sent"]}");
+    } else {
+       header("Location:/{$i18n[$lang]["spam-protection"]}");
+    }
+} else {
+    header("Location:./");
+}
+?>

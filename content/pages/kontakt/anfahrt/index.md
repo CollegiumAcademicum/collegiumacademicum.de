@@ -1,5 +1,6 @@
 ---
 title: "Anfahrt"
+slug: "anfahrt"
 ---
 
 {{< map long=8.6862 lat=49.3759 zoom=15 >}}
