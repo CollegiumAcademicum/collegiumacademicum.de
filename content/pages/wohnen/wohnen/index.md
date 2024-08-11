@@ -10,10 +10,9 @@ sich also an Auszubildende, Studierende und Promovierende.
 Im Altbau spielt sich unser <a href="/orientierungsjahr">Orientierungsjahr falt*r</a> ab. Hier geht es für die
 Teilnehmenden neben Berufsorientierung und Persönlichkeitsentwicklung auch darum, ihre Rolle in der Gesellschaft zu
 finden und die soziale Transformation mitzutragen.
-Daneben gibt es im Altbau sechs sozial gebundene Mietwohnungen, die für Menschen mit Wohnberechtigungsschein vorgesehen sind.
-Zu guter Letzt gibt es im Altbau noch eine große und eine kleine ungeförderte Wohnung und übergangsweise einige
-befristete Zimmer, die sich zur Zwischenmiete eignen. Die einzigen Mietbedingung hier
+Daneben gibt es im Altbau sechs sozial gebundene Mietwohnungen, die für Menschen mit Wohnberechtigungsschein vorgesehen sind, und eine große und eine kleine ungeförderte Wohnung. Die einzigen Mietbedingung hier
 ist, sich aktiv in die Selbstverwaltung des Altbaus einzubringen.
+Zu guter Letzt gibt es im Altbau noch übergangsweise einige befristete Zimmer, die sich zur Zwischenmiete eignen, z.B. für Studierende und Auszubildende, die nur eine begrenzte Zeit in Heidelberg sind oder dringend eine Wohnung brauchen.
 </p>
 
 Du suchst nach weiteren Informationen zum Wohnen im CA oder möchtest selbst einziehen?
