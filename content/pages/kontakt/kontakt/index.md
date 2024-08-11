@@ -8,16 +8,10 @@ novoigl: yes
     <h3>Gemeinsam leben und lernen</h3>
 </div>
 <div class="columns">
-	<div class="column" style="text-align:left; height: 109px">
-        <br>
-        <img src="phone.svg" alt="Phone icon"  height="80" width="80"/>
-    </div>
-    <div class="column" style="text-align:left; height: 109px">
-        <img src="directions.svg" alt="Directions icon" height="109" width="109"/>
-    </div>
-</div>
-<div class="columns">
 	<div id="kontakt" class="column" style="text-align:left"> 
+    <div style="text-align:left; height: 109px; display: flex; align-items: center;">
+    <img src="phone.svg" alt="Phone icon"  height="80" width="80"/>
+    </div>
     <p style="text-align:left">
     Telefonisch erreichbar unter<br>
     <a href="tel:+4906221652236">+49 (0)6221-652236</a>
@@ -32,6 +26,9 @@ novoigl: yes
     </p>
     </div>
 	<div  id="anfahrt" class="column" style="text-align:left;">
+    <div style="text-align:left; height: 109px; display: flex; align-items: center;">
+    <img src="directions.svg" alt="Directions icon" height="109" width="109"/>
+    </div>
     <p style="text-align:left">
     Unsere Adressen in 69126 Heidelberg: 
     <br><br>
