@@ -44,7 +44,7 @@ other = "You want to move into one of our buildings? Here you can find the lates
 
 [einziehen-message-voigl]
 # other = "You are interested in moving into our dormitory by January 2024 and in actively participating in our self-managed housing project?"
-other = "You are interested in moving into the dormitory in the new building or into one of our subsidised social rented flats in the old building?"
+other = "You are interested in moving into the dormitory in the new building or into one of the temporary rooms in the old building?"
 
 [einziehen-message-voigl-button]
 # other = "Apply now for a room in our dormitory!"
