@@ -126,7 +126,7 @@ if($form->submit()){
     	// Send the mail to us @ posteo
     	send_mail($applicant, $contact, $data, $lang, False);
 
-    	header("Location:/{$i18n[$lang]["request-sent"]}");
+    	header("Location:/{$i18n[$lang]["message-sent"]}");
     } else {
        header("Location:/{$i18n[$lang]["spam-protection"]}");
     }
