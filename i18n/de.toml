@@ -44,7 +44,7 @@ other = "Du willst in eins unserer Gebäude einziehen? Hier findest du aktuelle 
 
 [einziehen-message-voigl]
 # other = "Du hast Interesse daran, zum 1. Januar 2024 in unseren Neubau einzuziehen und unser selbstverwaltetes Wohnprojekt aktiv mitzugestalten?"
-other = "Du hast Interesse daran, in das Wohnheim im Neubau oder in eine unserer geförderten sozialen Mietwohnungen im Altbau zu ziehen?"
+other = "Du hast Interesse daran, in das Wohnheim im Neubau oder übergangsweise in ein Zimmer im Altbau zu ziehen?"
 
 [einziehen-message-voigl-button]
 # other = "Bewirb dich jetzt bei uns!"

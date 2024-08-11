@@ -11,12 +11,32 @@ Im Altbau spielt sich unser <a href="/orientierungsjahr">Orientierungsjahr falt*
 Teilnehmenden neben Berufsorientierung und Persönlichkeitsentwicklung auch darum, ihre Rolle in der Gesellschaft zu
 finden und die soziale Transformation mitzutragen.
 Daneben gibt es im Altbau sechs sozial gebundene Mietwohnungen, die für Menschen mit Wohnberechtigungsschein vorgesehen sind.
-Zu guter Letzt gibt es im Altbau noch eine große und eine kleine ungeförderte Wohnung. Die einzigen Mietbedingung hier
+Zu guter Letzt gibt es im Altbau noch eine große und eine kleine ungeförderte Wohnung und übergangsweise einige
+befristete Zimmer, die sich zur Zwischenmiete eignen. Die einzigen Mietbedingung hier
 ist, sich aktiv in die Selbstverwaltung des Altbaus einzubringen.
 </p>
 
 Du suchst nach weiteren Informationen zum Wohnen im CA oder möchtest selbst einziehen?
-Dann wirst du hier fündig:
+
+
+Hier sind aktuell Bewerbungen möglich:
+
+<div class="buttons is-centered">
+    <a href="https://faltr.de/" target="_blank" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Orientierungsjahr</span>
+    </a>
+    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Zimmer zur Zwischenmiete</span>
+    </a>
+</div>
+
+Das sind unsere weiteren Wohnungen:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/wohnheim" >}}" class="button is-medium is-primary">
@@ -39,22 +59,7 @@ Dann wirst du hier fündig:
     </a>
 </div>
 
-<div class="buttons is-centered">
-    <a href="https://faltr.de/" target="_blank" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Orientierungsjahr</span>
-    </a>
-</div>
-<div class="buttons is-centered">
-    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Zimmer zur Zwischenmiete</span>
-    </a>
-</div>
+Hier gibt es noch mehr Infos: 
 
 <div class="buttons is-centered">
     <a href="{{< relref "/faq" >}}" class="button is-medium is-primary">
