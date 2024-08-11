@@ -148,30 +148,30 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
 </div>
 
 <div class="field">
-    <label class="label" for="event">Titel der Veranstaltung</label>
+    <label class="label" for="event">Titel der Veranstaltung *</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="event">
+        <input class="input" type="text" placeholder="" maxlength="60" name="event" required>
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="age">Veranstaltungsdatum</label>
+    <label class="label" for="age">Veranstaltungsdatum *</label>
     <div class="control">
-        <input class="label" type="date" id="date" name="date" value="2024-10-01" min="2024-06-01" max="2026-12-31" />
+        <input class="label" type="date" id="date" name="date" value="2024-10-01" min="2024-06-01" max="2026-12-31" required/>
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="number_guests">Ungefähre Personenanzahl</label>
+    <label class="label" for="number_guests">Ungefähre Personenanzahl *</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="50" min="5" max="660" />
+        <input class="label" type="number" id="number_guests" name="number_guests" value="50" min="5" max="660" required/>
     </div>
 </div>
 
 <div class="field">
     <label class="label" for="freetext">Deine Nachricht an uns</label>
     <div class="control">
-        <textarea class="input" type="textarea" placeholder="Optional" maxlength="1000" name="freetext"></textarea>
+        <textarea class="textarea" maxlength="3000" rows="8" name="freetext" optional placeholder="Optional"></textarea>
     </div>
 </div>
 <div class="field">
