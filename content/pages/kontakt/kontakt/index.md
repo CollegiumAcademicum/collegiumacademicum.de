@@ -9,7 +9,7 @@ novoigl: yes
 </div>
 <div class="columns">
 	<div id="kontakt" class="column" style="text-align:left"> 
-    <div style="text-align:left; height: 109px; display: flex; align-items: center;">
+    <div style="text-align:left; height: 120px; display: flex; align-items: center;">
     <img src="phone.svg" alt="Phone icon"  height="80" width="80"/>
     </div>
     <p style="text-align:left">
@@ -26,7 +26,7 @@ novoigl: yes
     </p>
     </div>
 	<div  id="anfahrt" class="column" style="text-align:left;">
-    <div style="text-align:left; height: 109px; display: flex; align-items: center;">
+    <div style="text-align:left; height: 120px; display: flex; align-items: center;">
     <img src="directions.svg" alt="Directions icon" height="109" width="109"/>
     </div>
     <p style="text-align:left">
