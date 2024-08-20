@@ -1,0 +1,17 @@
+<ul class="citation-list">
+    {{ range $.Site.Data.prizes.prizes }}
+        <li>
+            <time>{{ .date }}</time>
+            <span>
+            {{ if isset . "link" }}<a href="{{ .link }}">{{ .title }}</a>
+            {{ else }}{{ .title }}{{ end }}
+            </span>
+            <cite>{{ .institution }}</cite>
+            {{ if isset . "img" }}
+                <figure>
+                    <a href="{{ .link }}"><img class="image" src="/img/prizes/{{ .img }}" height="100px" width="230px"/></a>
+                </figure>
+            {{ end }}
+        </li>
+    {{ end }}
+    </ul>
