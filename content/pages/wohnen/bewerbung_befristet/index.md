@@ -160,6 +160,6 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
-</div>
+</div> -->
 
-</form> -->
+</form>
