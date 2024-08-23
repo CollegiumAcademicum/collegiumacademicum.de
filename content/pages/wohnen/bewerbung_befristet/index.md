@@ -7,9 +7,11 @@ novoigl: yes
 <form action="/bewerbung_befristet/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen! Hier kannst du dich dafür bewerben.
 
-Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeinsam eine Bewerbung aus.</p>
+Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeinsam eine Bewerbung aus.
 
-<h2>Allgemein</h3>
+<b>Aktuell nehmen wir keine weiteren Bewerbungen entgegen.</b></p>
+
+<!-- <h2>Allgemein</h3>
 <div class="field">
     <label class="label" for="full_name">Rufname</label>
   	<div class="control has-icons-left">
@@ -160,4 +162,4 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
     </div>
 </div>
 
-</form>
+</form> -->
