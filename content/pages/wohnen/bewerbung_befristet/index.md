@@ -4,7 +4,7 @@ slug: "bewerbung_befristet"
 novoigl: yes
 ---
 
-<form action="/bewerbung_befristet/send.php" method="post" accept-charset="utf-8">
+<!-- <form action="/bewerbung_befristet/send.php" method="post" accept-charset="utf-8"> -->
 <p>Schön, dass du Lust hast, in unser Wohnprojekt einzuziehen! Hier kannst du dich dafür bewerben.
 
 Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeinsam eine Bewerbung aus.
@@ -160,6 +160,6 @@ Wenn ihr zu zweit in ein Doppelzimmer ziehen möchtet, dann füllt gerne gemeins
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
-</div> -->
+</div>
 
-</form>
+</form> -->
