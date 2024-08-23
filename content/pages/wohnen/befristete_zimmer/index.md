@@ -5,11 +5,13 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
+<b>Aktuell nehmen wir keine weiteren Bewerbungen entgegen.</b>
+
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
     
-Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben zwei freifinanzierten Wohnungen finden sich hier auch sechs soziale Mietwohnungen und Wohnraum für das Orientierungsjahr falt*r, das ab Oktober in den zweiten Jahrgang startet. Da dieses nicht voll besetzt sein wird, suchen wir nach Menschen, die eine Zwischenmiete für ein Jahr suchen und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten, nur eine begrenzte Zeit in Heidelberg sind oder dringend ein Zimmer brauchen und in unser Altbau-Wohnheim ziehen möchten.
+Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben sechs sozialen Mietwohnungen und zwei freifinanzierten Wohnungen bietet der Altbau vor allem Wohnraum für die bis zu 50 Teilnehmenden des Orientierungsjahrs falt*r. Da dieses aktuell nicht voll besetzt ist, vermieten wir die übrigen Zimmer an Menschen, die eine Zwischenmiete suchen, nur für begrenzte Zeit in Heidelberg sind und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten.
 
-Während ein Teil der Zimmer schon ab September frei sein wird, kann der Großteil ab Oktober bezogen werden. Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den nächsten Jahren haben wird, sind die Zimmer erst einmal auf ein Jahr befristet, es ist aber möglich, dass die Zimmer auch über diesen Zeitraum heraus gemietet werden können.
+Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den nächsten Jahren haben wird, sind diese Zimmer zeitlich befristet und können von unserer Seite mit einer Frist von 6 Wochen jeweils zum 30.09. eines Jahres gekündigt werden, falls sie für die Teilnehmenden des Orientierungsjahrs falt*r benötigt werden.
 
 Die hier ausgeschriebenen Zimmer befinden sich im 2. und 3. Stock unseres Altbaus und sind in Flurgemeinschaften organisiert. Alle Zimmer können möbliert gemietet werden.
 
@@ -22,13 +24,9 @@ Eine Übersicht mit Grundrissplänen, Zimmergrößen und der Höhe der Mieten fi
 Ergänzt wird der private Wohnraum durch diverse Räume, die das gesamte Projekt gemeinsam nutzt: Werkstätten, die Aula, ein Multifunktionsraum, Seminarräume und Arbeitsräume. Außerdem gibt es zentrales Internet und schöne (Garten-) Fläche im Außenraum. Das Gebäude bedient sich einer ökologischen Bauweise: Dazu gehört ein Dämmstandard von KfW 55, Innenwände aus Stroh, eine passive Lüftung, dreifach verglaste Fenster und Ökostrom vom eigenen Dach.
 
 Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist aktuell um uns herum häufig Baustelle mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
-
-Für den Einzug im Oktober wird am 17.08. ein Kennenlerntag stattfinden. Die Teilnahme wird sowohl online als auch in Präsenz möglich sein. Wir achten darauf, Bewerber*innen nicht wegen ihrer Teilnahme in Präsenz oder online zu bevorzugen oder zu benachteiligen, empfehlen dir jedoch, zum Kennenlernen in Präsenz zu kommen, falls es dir möglich ist, um unser Projekt besser kennenlernen zu können. Hier wird es auch eine Führung geben. Solltest du an diesem Tag keine Zeit haben, kannst du dich trotzdem bewerben – wir versuchen dann eine individuelle Lösung zu finden.
-
-Noch Fragen? Schau doch in unserem FAQ vorbei oder schreib uns gerne an zwischenmiete.altbau@collegiumacademicum.de
-
-Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
 </p>
+
+<!--Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_befristet" >}}" class="button is-medium is-primary">
@@ -37,7 +35,7 @@ Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen
         </span>
         <span>Dann bewirb dich jetzt!</span>
     </a>
-</div>
+</div> -->
 
 ## FAQ
 
@@ -74,7 +72,7 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< accordion "Fragen zur Bewerbung" >}}
 
 {{< accordion "Wann kann ich einziehen?" >}}
-Du kannst zum 1. September oder 1. Oktober 2024 einziehen.
+Aktuell nehmen wir keine weiteren Bewerbungen entgegen.
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
 Wir haben ein Bewerbungsformular. Nachdem du deine Bewerbung abgeschickt hast, melden wir uns bei dir mit weiteren Infos und ggf. einer Einladung zum persönlichen Kennenlernen/Besichtigung. Gerne kannst du schon auf der Webseite stöbern und dich mit dem Projekt vertraut machen.

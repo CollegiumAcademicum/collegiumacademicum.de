@@ -7,9 +7,11 @@ novoigl: yes
 <form action="/bewerbung_befristet/send.php" method="post" accept-charset="utf-8">
 <p>Thank you for your interest in our interim tenant rooms. Here you can apply for it.
 
-If you would like to share one double room as a couple, please fill out the application form together.</p>
+If you would like to share one double room as a couple, please fill out the application form together.
 
-<h2>General questions</h3>
+<b>We are currently not accepting any further applications.</b></p>
+
+<!-- <h2>General questions</h3>
 <div class="field">
     <label class="label" for="full_name">Name</label>
   	<div class="control has-icons-left">
@@ -158,4 +160,4 @@ If you would like to share one double room as a couple, please fill out the appl
     </div>
 </div>
 
-</form>
+</form> -->
