@@ -27,12 +27,6 @@ Hier sind aktuell Bewerbungen möglich:
         </span>
         <span>Orientierungsjahr</span>
     </a>
-    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Zimmer zur Zwischenmiete</span>
-    </a>
 </div>
 
 Das sind unsere weiteren Wohnungen:
@@ -43,6 +37,12 @@ Das sind unsere weiteren Wohnungen:
             <i class="icon-home"></i>
         </span>
         <span>Wohnheim</span>
+    </a>
+    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Zimmer zur Zwischenmiete</span>
     </a>
     <a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
         <span class="icon">
