@@ -158,6 +158,6 @@ If you would like to share one double room as a couple, please fill out the appl
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
-</div>
+</div> -->
 
-</form> -->
+</form>
