@@ -32,7 +32,7 @@ If you would like to share one double room as a couple, please fill out the appl
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
