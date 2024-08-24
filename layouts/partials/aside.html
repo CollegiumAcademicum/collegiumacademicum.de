@@ -5,13 +5,16 @@
       <br>
       <a href="{{ with .Site.GetPage "/spenden" }}{{ .Permalink }}{{end}}" class="button is-hidden-mobile is-fullwidth is-link">{{ i18n "spenden" }}</a>
 
-<!--<div class="card">
-    <div class="card-content">
-          <p class="title is-3 is-marginless">Freie Zimmer / Wohnungen</p>
-            Du möchtest einziehen? Aktuell vermieten wir: <br> <br>
-            <a href="{{< relref "/wohnheim">}}" class="field button is-fullwidth is-link">Wohnheimszimmer (Studis/Azubis/Promovierende)</a>
-    </div>
-</div>-->
+      <!--<div class="card">
+        <div class="card-image" style="background-image: url({{ "img/layout/einziehen.jpg" | relURL }});"></div>
+        <div class="card-content">
+          <p class="title is-3 is-marginless">{{ i18n "einziehen" }}</p>
+          {{ i18n "einziehen-message-aside"}}
+            <a href="{{ with .Site.GetPage "/wohnheim" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-wohnheim" }}</a>
+            <a href="{{ with .Site.GetPage "/befristete_zimmer" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "header-zwischenmiete" }}</a>
+            <a href="{{ with .Site.GetPage "/faq" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "faq" }}</a>
+        </div>
+      </div>-->
 
     <!--<div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/workcamps_v2.jpg" | relURL }});"></div>
@@ -56,7 +59,7 @@
         <div class="card-content">
           <p class="title is-3 is-marginless">{{ i18n "newsletter" }}</p>
           {{ i18n "newsletter-message" }}
-          {{ partial "newsletter-signup.html" }} <br />
+          {{ partial "newsletter-signup.html" }} <br>
             {{ i18n "newsletter-message2" }}
             <a href="https://collegiumacademicum.de/newsletter/" class="field button is-radiusless is-fullwidth is-link">{{ i18n "newsletter" }}</a>
         </div>
