@@ -5,11 +5,13 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
+<b>We are currently not accepting any further applications.</b>
+
 Would you like to get a taste of self-administration and live in a sustainable community? Then you've come to the right place here at the ecological and self-managed CA (Collegium Academicum) housing project.
     
-Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. The old building contains freely financed apartments, social rental housing and living space for young people that participate in our orientation year falt\*r, which will begin in October for the second time. This year we have less falt*r participants than possible, which is why we are looking for people who are looking for an interim rent for a year and/or would like to get to know our housing project without the obligation or are only in Heidelberg for a limited amount of time or urgently need a room and who would like to move into our old building dormitories.
+Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. In addition to six social housing apartments and two independently financed apartments, the old building mainly provides living space for up to 50 participants in the falt*r orientation year. As this is currently not fully occupied, we rent out the remaining rooms to people who are looking for an interim rental, are only in Heidelberg for a limited time and/or would like to get a taste of our housing project without obligation.
 
-Some of the rooms can be rented starting in September, while most of them are available from 1st of October. All of the rooms are limited to one year, since we can not yet know how many people will participate in the orientation year in the following years. However, it is quite possible that the rooms can also be rented beyond this period.
+Since we can not yet know how many participants the orientation year will have in the coming years, these rooms are temporary and can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r.
 
 The rooms advertised here are located on the 2nd and 3rd floors of our old building and are organized in corridor communities. All rooms can be rented with furniture.
 
@@ -22,13 +24,9 @@ An overview with floor plans, room sizes and rent levels can be found further do
 The private living space is complemented by various rooms that are shared by the entire project: Workshops, assembly hall, multifunctional room, seminar rooms and workrooms. There is also central internet access and plenty of (garden) space for strolling around outside. The building uses an ecological construction method: This includes an insulation standard of KfW 55, interior walls made of straw, passive ventilation, triple-glazed windows and green electricity from its own roof.
 
 You should be in the mood for a colorful house community. Due to our location on the US hospital conversion site, there is currently often a building site around us with the associated noise. There is also a large assembly hall in our new building next door, which is regularly used for events (including parties and other evening events).
-
-There will be a get-to-know-you day on the 17. August for the rooms that are available from the beginning of October. This is so we can get to know you and you can get to know us and the space where you would be living. You are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the get-to-know-you day in presence, if it’s possible for you, so that you can get to know our project better. Should you already know that you will not be able to participate on the 17th, you can apply anyway and we will try to find an individual solution.
-
-Still have questions? Have a look at our FAQ or write to us at zwischenmiete.altbau@collegiumacademicum.de.
-
-You would like to be part of our project and can imagine living here?
 </p>
+
+<!--You would like to be part of our project and can imagine living here?
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_befristet" >}}" class="button is-medium is-primary">
@@ -37,7 +35,7 @@ You would like to be part of our project and can imagine living here?
         </span>
         <span>Then apply now!</span>
     </a>
-</div>
+</div> -->
 
 ## FAQ
 
@@ -69,7 +67,7 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
-You can move in on 1st September or 1st October 2024.
+We are currently not accepting any further applications.
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
 There is an application form. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Please feel free to browse our website and get familiar with our project.
