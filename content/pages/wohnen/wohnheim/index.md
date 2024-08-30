@@ -48,8 +48,9 @@ Einen Einblick in die Finanzierung des Projekts erhältst du <a href="/finanzier
         Die Zimmer sind gut 14 m<sup>2</sup> groß und befinden sich in 3er- oder 4er-Wohngemeinschaften. Die Zimmer können auf 7 m<sup>2</sup> halbiert werden, um so mehr Gemeinschaftsfläche in der WG zu haben. In der Miete mit enthalten sind auch die großen Gemeinschaftsflächen in den WGs und im gesamten Haus wie zum Beispiel die große Aula für mehr als 600 Menschen, der Multifunktionsraum als Haustreffpunkt, die Werkstatt und der Dachgarten.
     </div>
     <div class="column">
-        {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
-            {{< img src="zimmer" desc="So ungefähr sieht ein einzelnes Zimmer aus. Gemütliches Leben, moderne Architektur und nachhaltige Rohstoffe!" attr="Johannes Roßnagel 2019" />}}
+        {{< img src="WG_Neubau_1_Myriam_Thuerigen" attr="Myriam Thürigen 2023" >}}
+            {{< img src="WG_Neubau_1_Myriam_Thuerigen" desc="Küche und Essbereich in einer der Wohnungen." attr="Myriam Thürigen 2023" />}}
+            {{< img src="WG_Neubau_2_Myriam_Thuerigen" desc="Bei überwiegend kleinen Zimmern (7 Quadratmeter) bleibt im Gemeinschaftsbereich viel Platz, z.B. zum Musizieren und zum Entspannen." attr="Myriam Thürigen 2023" />}}
             {{< img src="wohnung" alt="Ein kleines Modell zweier Wohnungen. Am unteren Rand zu sehen ist der Laubengang, der alle Wohnungen verbindet. Die roten Kennzeichnung zeigen, wie du flexibel deine Zimmergröße selbst anpassen kannst, zusammen mit deiner Wohngemeinschaft." attr="dgj Architekten 2017" />}}
         {{< /img >}}
     </div>
