@@ -39,8 +39,9 @@ As a self-managed housing project, we don't want to make a profit with the incom
         The rooms are approximately 14 m<sup>2</sup> big and are contained in shared flats of 3 or 4 rooms each. The private rooms can be halved into 7 m<sup>2</sup> to have more common space in the shared flat. The rent also includes the large common areas in the entire house, such as the large auditorium for more than 600 people, the multifunctional room as the house meeting place, the workshop and the roof terrace.
     </div>
     <div class="column">
-        {{< img src="zimmer" attr="Johannes Roßnagel 2019" >}}
-            {{< img src="zimmer" desc="This is what a room in our dormitory looks like. Cozy living, modern architecture and renewable ressources!" attr="Johannes Roßnagel 2019" />}}
+        {{< img src="WG_Neubau_1_Myriam_Thuerigen" attr="Myriam Thürigen 2023" >}}
+            {{< img src="WG_Neubau_1_Myriam_Thuerigen" desc="Kitchen and eating area in one of the flats." attr="Myriam Thürigen 2023" />}}
+            {{< img src="WG_Neubau_2_Myriam_Thuerigen" desc="With predominantly small rooms (7 square metres), there is plenty of space in the communal area, e.g. for making music and relaxing." attr="Myriam Thürigen 2023" />}}
             {{< img src="wohnung" alt="A small model of two shared flats. At the lower end you can see the arcade which serves as the connection between all flats. The red markings show how you can flexibly change your room size together with your flatmates." attr="dgj Architekten 2017" />}}
         {{< /img >}}
     </div>
