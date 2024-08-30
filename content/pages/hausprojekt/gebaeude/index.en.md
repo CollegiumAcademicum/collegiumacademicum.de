@@ -115,10 +115,8 @@ Communal areas will also be set up on the upper floors.
 In addition, a bicycle workshop, a metal workshop and storage rooms in the basement are planned to complement our wood workshop in the new building.
 </p>
 
-{{< img src="altbau_wide" alt="North view of the large old building" attr="Christian Buck 2016" >}}
-    {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
-    {{< img src="altbau_back" attr="Christian Buck 2016" />}}
-{{< /img >}}
+{{< img src="altbau_2024" alt="North view of the large old building after the renovation (2024)" attr="CA 2024" />}}
+
 
 <br>
 <p style="text-align: justify">
@@ -127,10 +125,9 @@ Therefore, the floor plans will be edited, and the building will be upgraded str
 Currently, the exterior walls, basement ceiling and roof are being insulated. The windows have already been replaced to achieve the best possible energy standard in the existing building (KfW55).
 The extended roof, built-in dormers and the wooden bay window offer additional living space with high light penetration, which provides further comfort in the flats and common areas.
 </p>
-<object data="altbau_fassade_nord.pdf" type="application/pdf" width="100%" height="100%">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="altbau_fassade_nord.pdf">Download PDF</a>
-</object>
-<p><center>Planning document showing the façade of the large old house from north-view.</center></p>
+
+{{< img src="altbau_2024_2" alt="View of the large old building from the south-east" attr="CA 2024" />}}
+
 
 <p style="text-align: justify">
 In every step of the process, we take care to reuse and recycle building components and materials, as well as to use ecological building materials wherever possible.
