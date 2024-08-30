@@ -130,10 +130,7 @@ Auch in den Obergeschossen werden Gemeinschaftsflächen eingerichtet.
 Zudem sind eine Fahrrad- und eine Metallwerkstatt sowie Lagerräume im Keller geplant, die unsere Holzwerkstatt im Neubau ergänzen.
 </p>
 
-{{< img src="altbau_wide" alt="Nordansicht des großen Altbaus" attr="Christian Buck 2016" >}}
-    {{< img src="altbau_wide" attr="Christian Buck 2016" />}}
-    {{< img src="altbau_back" attr="Christian Buck 2016" />}}
-{{< /img >}}
+{{< img src="altbau_2024" alt="Nordansicht des großen Altbaus nach der Sanierung (2024)" attr="CA 2024" />}}
 
 <br>
 <p style="text-align: justify">
@@ -145,10 +142,9 @@ bestmöglichen energetischen Standard im Bestand zu erreichen (KfW55).
 Das ausgebaute Dach, eingebaute Schleppgauben und der Holzerker bieten zusätzliche Wohnfläche mit hohem Lichteintrag,
 der für weiteren Komfort in den Wohnungen und Gemeinschaftsflächen sorgt.
 </p>
-<object data="altbau_fassade_nord.pdf" type="application/pdf" width="100%" height="100%">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="altbau_fassade_nord.pdf">Download PDF</a>
-</object>
-<p><center>Planungsdokument, das die Nord-Ansicht der Fassade des großen Altbaus zeigt</center></p>
+
+{{< img src="altbau_2024_2" alt="Blick auf den großen Altbau aus dem Südosten" attr="CA 2024" />}}
+
 
 <p style="text-align: justify">
 Bei jedem Schritt der Sanierung haben wir darauf geachtet, Bauteile und Baustoffe wieder- und weiterzuverwenden sowie möglichst
