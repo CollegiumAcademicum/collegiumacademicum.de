@@ -38,11 +38,9 @@ Gemeinschaftsflächen und Räumen für Kreativnutzung aus.
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
-    {{< img src="model" attr="DGJ Architektur 2016" >}}
-        {{< img src="model_nw" attr="DGJ Architektur 2016" />}}
-        {{< img src="model_w" attr="DGJ Architektur 2016" />}}
-        {{< img src="model_s" attr="DGJ Architektur 2016" />}}
-        {{< img src="model_sw" attr="DGJ Architektur 2016" />}}
+    {{< img src="neubau_PG_2023" attr="Philipp Garschke 2023" >}}
+        {{< img src="neubau_PG_2023" attr="Philipp Garschke 2023" />}}
+        {{< img src="CollegiumAcademicum_PG_2023" attr="Philipp Garschke 2023" />}}
     {{< /img >}}
     </div>
     <div class="column" style="text-align: justify">
@@ -130,7 +128,7 @@ Auch in den Obergeschossen werden Gemeinschaftsflächen eingerichtet.
 Zudem sind eine Fahrrad- und eine Metallwerkstatt sowie Lagerräume im Keller geplant, die unsere Holzwerkstatt im Neubau ergänzen.
 </p>
 
-{{< img src="altbau_2024" alt="Nordansicht des großen Altbaus nach der Sanierung (2024)" attr="CA 2024" />}}
+{{< img src="altbau_2024" alt="Nordansicht des großen Altbaus nach der Sanierung (2024)" attr="Hannah Weiser 2024" />}}
 
 <br>
 <p style="text-align: justify">
@@ -143,7 +141,7 @@ Das ausgebaute Dach, eingebaute Schleppgauben und der Holzerker bieten zusätzli
 der für weiteren Komfort in den Wohnungen und Gemeinschaftsflächen sorgt.
 </p>
 
-{{< img src="altbau_2024_2" alt="Blick auf den großen Altbau aus dem Südosten" attr="CA 2024" />}}
+{{< img src="altbau_2024_2" alt="Blick auf den großen Altbau aus dem Südosten" attr="Hannah Weiser 2024" />}}
 
 
 <p style="text-align: justify">
@@ -172,7 +170,8 @@ Auch wenn wir das genaue Konzept noch erarbeiten, freut es uns, dass wir schon j
 <a href="https://gemuesekultur-heidelberg.de/">Gemüsekultur Heidelberg</a>.
 </p>
 
-{{< img src="cafe" attr="Christian Buck 2016" >}}
-    {{< img src="cafe" attr="Christian Buck 2016" />}}
-    {{< img src="cafe_b" attr="Johannes Roßnagel 2019" />}}
+{{< img src="pfoertnerhaus_radcheck_2023" attr="Myriam Thürigen 2023" >}}
+    {{< img src="pfoertnerhaus_radcheck_2023" attr="Myriam Thürigen 2023" />}}
+    {{< img src="pfoertnerhaus_2024" attr="Hannah Weiser 2024" />}}
+    {{< img src="pfoertnerhaus_2024_b" attr="Hannah Weiser 2024" />}}
 {{< /img >}}
