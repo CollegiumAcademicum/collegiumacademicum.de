@@ -9,7 +9,7 @@ In the CA, we want to shape our community life ourselves, independently of outsi
     The chief organ is the plenary meeting. Everyone takes responsibility through participating in committees or taking own initiative. This makes political action a natural part of daily life: young people actively shape the society they want to live in.
     </div>
     <div class="column">
-        {{< img src="gruppenarbeit" alt="" attr="" />}}
+        {{< img src="mv_2023" alt="" attr="CA" />}}
     </div>
 </div>
 
