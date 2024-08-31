@@ -5,7 +5,7 @@ novoigl: yes
 
 <div class="columns">
   <div class="column" style="text-align: justify">
-  Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen entsteht ein Ort, der mehr als ein Zuhause ist: Wir schaffen einen Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
+  Mit Ihrer finanziellen Unterstützung fördern Sie selbstverwaltetes Wohnen, die kreative Entfaltung junger Menschen sowie selbstbestimmtes Lernen und Leben in Heidelberg. Für ca. 250 junge Menschen haben wir einen Ort geschaffen, der mehr als ein Zuhause ist: Ein Treffpunkt, eine inspirierende Umgebung, um eigene Potenziale zu entdecken, einen Raum, um Träume auszuprobieren und um in einer Gemeinschaft an konkreten Projekten sowie dem Zusammenleben zu wachsen.
   </div>
   <div class="column">
     {{< img src="hand_stern" alt="Die Mitglieder der Projektgruppe bilden mit ihren Händen einen Stern." attr="Manuel Linnenschmidt 2016" />}}

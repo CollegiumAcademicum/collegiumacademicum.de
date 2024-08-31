@@ -7,7 +7,7 @@ novoigl: yes
   <div class="column" style="text-align: justify">
     With your financial support for the Collegium Academicum, you are promoting a self-managed housing project, creative young people and self-determined learning and living in Heidelberg. 
 This is more than a home for around 250 young people. 
-We are creating a place to meet, an inspiring environment to unlock potentials, a place for chasing dreams and growing together as a community through concrete projects and living together.
+We have created a place to meet, an inspiring environment to unlock potentials, a place for chasing dreams and growing together as a community through concrete projects and living together.
   </div>
   <div class="column">
     {{< img src="hand_stern" alt="The members of the project team are forming a star with their hands." attr="Manuel Linnenschmidt 2016" />}}
