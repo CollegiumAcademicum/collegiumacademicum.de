@@ -12,7 +12,7 @@ Die Grundlage hierfür bilden basisdemokratische Strukturen: flache Hierarchien,
     Das höchste Organ ist die Vollversammlung. Über Gremien und Eigeninitiative übernimmt jede*r Verantwortung und bringt sich in die Gemeinschaft ein, politisches Engagement wird selbstverständlicher Teil des Alltags. Jungen Menschen wird die aktive Gestaltung der Gesellschaft, in der sie leben wollen, ermöglicht.
     </div>
     <div class="column">
-        {{< img src="gruppenarbeit" alt="" attr="" />}}
+        {{< img src="mv_2023" alt="" attr="CA" />}}
     </div>
 </div>
 
