@@ -24,12 +24,13 @@ Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:i
                     Kapazität: 660 Personen
                 </li>
                 <li>
-                    Ausstattung: Bühne, Stühle, Licht- und Tontechnik, Bar, Küche
+                    Ausstattung: Tische, Stühle, Garderobe, Licht- und Tontechnik, Bar, Küche
                 </li>
             </ul>
+        <div style="text-align: right">Folgt uns auf <br><a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/"><img src="logo_rausgegangen_freigeist.svg" width="80"/></a>
+        </div>
     </div>
     </div>
-
 
 <!-- <h2>Seminarraum</h2>
 
