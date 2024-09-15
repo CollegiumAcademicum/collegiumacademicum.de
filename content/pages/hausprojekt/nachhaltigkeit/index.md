@@ -50,7 +50,7 @@ Direkt am Karlsruher Platz ist im ehemaligen Pförtnerhaus ein offener Treffpunk
 
 <div class="columns">
     <div class="column">
-    {{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
+    {{< img src="230610_RadCheck_7_Myriam" alt="Franzi aus der Projektgruppe repariert ein Fahrrad." attr="Myriam Thürigen 2023" />}}
     </div>
     <div class="column" style="text-align: justify">
     Für nachhaltige Mobilität wird in unserem Wohnprojekt der Radverkehr gestärkt.
