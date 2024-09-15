@@ -1,6 +1,6 @@
 ---
 title: "Sommerfest zur Einweihung unseres Altbaus"
-date: 2024-09-15
+date: 2024-09-14
 ---
 
 Anlässlich der Eröffnung unseres Altbaus wollen wir gemeinsam mit euch, dem Stadtteil und allen Interessierten am 
