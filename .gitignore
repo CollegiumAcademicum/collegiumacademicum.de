@@ -1,3 +1,6 @@
+# since we have different baseURLs betweeen test and master
+config/_default/config.toml
+
 Makefile
 beautify.bat
 .sass-cache

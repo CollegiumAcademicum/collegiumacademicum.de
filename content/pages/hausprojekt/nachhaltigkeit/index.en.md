@@ -4,7 +4,7 @@ title: "Sustainability"
 
 The New House is innovatively designed and is being built almost entirely out of wood which is used as a renewable resource. For the building operations, we will use renewable energy as much as possible. With energy-saving amenities and insulation, the energy efficiency can be increased even further. This is how the architectural design supports the city masterplan "100% climate action".
 
-{{< img src="fahrrad_reparatur" alt="Zwei Mitglieder der Projektgruppe reparieren ein Fahrrad." attr="Margarete Over 2016" />}}
+{{< img src="230610_RadCheck_7_Myriam" alt="Members of the CA project group inspect a bicycle." attr="Myriam Thürigen 2023" />}}
 
 Because of our creative housing concept with the ambition to focus on the essential (sufficiency principle) our project will serve as a real-life model for research. The German Institute for Energy and Environmental Research (_IFEU_) will use it for a study on living conditions that save space and offer a high quality of life.
 
