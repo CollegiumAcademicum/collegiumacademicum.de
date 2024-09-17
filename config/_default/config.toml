@@ -3,7 +3,6 @@ title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
 assetDir = '.'
-relativeURLs = true
 
 
 [params]
