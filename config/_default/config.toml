@@ -3,7 +3,7 @@ title = "Collegium Academicum"
 DefaultContentLanguage = "de"
 Paginate = 5
 assetDir = '.'
-
+timeout = 600000
 
 [params]
 sml_imgsize = "600"
