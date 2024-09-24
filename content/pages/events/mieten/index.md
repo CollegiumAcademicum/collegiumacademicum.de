@@ -27,7 +27,7 @@ Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:i
                     Ausstattung: Tische, Stühle, Garderobe, Licht- und Tontechnik, Bar, Küche
                 </li>
             </ul>
-        <div style="text-align: left">Folgt uns auf <br><a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/"><img src="logo_rausgegangen_freigeist.svg" width="80"/></a>
+        <div style="text-align: center">Folgt uns auf <br><a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/"><img src="logo_rausgegangen_freigeist.svg" width="80"/></a>
         </div>
     </div>
     </div>
@@ -62,7 +62,7 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
             <i class="icon-instagram"></i>
         </span>
         <span>Instagram</span>
-   </a>.
+   </a> und <a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/">Rausgegangen</a>.
 
 <!--
 <p style="text-align:left">
