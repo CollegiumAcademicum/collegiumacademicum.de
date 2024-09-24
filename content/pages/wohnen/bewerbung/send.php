@@ -14,7 +14,7 @@ $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
-'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'gender',
+'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'pronouns',
 'barrier_free', 'children', 'contacts', 'language_application_day', 'spam_protection'];
 
 $i18n = [
@@ -28,7 +28,7 @@ $i18n = [
         "activity_in_ca" => "Aktivität im CA",
         "occupation" => "offizielle Tätigkeit",
         "occupation_subject" => "Fach/Beruf",
-        "gender" => "Geschlecht",
+        "pronouns" => "Pronomen",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "contacts" => "MitbewohnerInnen-Wunsch",
@@ -52,7 +52,7 @@ $i18n = [
         "activity_in_ca" => "Activity in CA",
         "occupation" => "Occupation",
         "occupation_subject" => "Subject/Job",
-        "gender" => "Gender",
+        "pronouns" => "Pronouns",
         "barrier_free" => "Accessibility",
         "children" => "Children",
         "contacts" => "Roommate wish",
