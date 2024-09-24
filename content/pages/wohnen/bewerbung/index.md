@@ -7,12 +7,12 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
-<!-- Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. Januar 2025. Falls du im Januar bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 2. August </b> hier dafür bewerben:</p> --> 
-Für den Einzug im Oktober 2024 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2025.</b> Ab Anfang Oktober wirst du hier an dieser Stelle unser Bewerbungsformular finden.
+Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. Der nächstmögliche Einzugstermin ist der 1. Januar 2025. Falls du im Januar bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 18. Oktober </b> hier dafür bewerben:</p> 
+<!-- Für den Einzug im Oktober 2024 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2025.</b> Ab Anfang Oktober wirst du hier an dieser Stelle unser Bewerbungsformular finden.
 
-Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p>
+Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-<!-- <h2>Allgemein</h2>
+<h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,7 +42,7 @@ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir 
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -114,10 +114,9 @@ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir 
 </div>
 <hr>
 <div class="field">
-    <label class="label" for="gender">Wie würdest du deine geschlechtliche Zugehörigkeit
-        bezeichnen? (Wie möchtest du angesprochen werden?)</label>
+    <label class="label" for="pronouns">Mit welchen Pronomen möchtest du angesprochen werden? (z.B. sie/ihr, er/ihm, dey/deren)</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="gender">
+        <input class="input" type="text" placeholder="" maxlength="60" name="pronouns">
     </div>
 </div>
 <hr>
@@ -181,6 +180,6 @@ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir 
     </div>
 </div> --> 
 
-{{< einziehen-signup >}} 
+<!-- {{< einziehen-signup >}} -->
 
 </form>
