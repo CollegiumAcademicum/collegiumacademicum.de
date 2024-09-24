@@ -178,7 +178,7 @@ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir 
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
-</div> --> 
+</div>
 
 <!-- {{< einziehen-signup >}} -->
 

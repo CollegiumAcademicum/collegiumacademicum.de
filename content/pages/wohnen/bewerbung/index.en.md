@@ -40,7 +40,7 @@ Here you can sign up for our moving-in newsletter. Then we will inform you direc
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> -->
+</div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
 <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
