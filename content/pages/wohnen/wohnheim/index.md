@@ -13,7 +13,7 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 In unserem Wohnheim werden ab sofort regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
 Der nächstmögliche Einzugstermin ist der 1. Januar 2024.
-Dafür kannst du dich <b>bis spätestens Freitag, 25. Oktober </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+Dafür kannst du dich <b>bis spätestens Freitag, 18. Oktober </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 <!-- Die Bewerbungsfrist für den Einzug im Januar 2024 ist leider schon vorbei.
 Der nächstmögliche Einzugstermin ist der 1. April 2025.
 Dafür kannst du dich ab Ende Dezember über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
