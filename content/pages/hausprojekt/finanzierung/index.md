@@ -7,13 +7,13 @@ slug: "finanzierung"
 Da sich unser Projekt nur gemeinschaftlich finanzieren lässt, versteht
 es sich für uns von selbst, dass wir unseren Unterstützer*innen
 Einblick in die Finanzen von Alt- und Neubau ermöglichen und unsere Finanzierungspläne so
-transparent wie möglich gestalten. Im Folgenden erhalten Sie gemäß den aktuellen Planungen einen
+transparent wie möglich gestalten. Im Folgenden erhaltet ihr einen
 Überblick zu Kosten und zur Finanzierung der
 Realisierung beider Gebäude sowie zum aktuellen Stand der jeweils 
 eingeworbenen Direktkredite.
 <br><br>
 Wir stehen gerne persönlich für Rückfragen zur Finanzierung zur
-Verfügung. Kontaktieren Sie uns unter
+Verfügung. Kontaktiert uns unter
 <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>
 oder telefonisch unter 06221-6734812.
 </p>
@@ -24,21 +24,18 @@ oder telefonisch unter 06221-6734812.
 Das selbstverwaltete Wohnprojekt in Trägerschaft der Collegium Academicum GmbH
 setzt sich aus einem Neubau sowie zwei Bestandsbauten zusammen. Die Gesamtkosten
 für den Neubau liegen bei etwa <b>21 Millionen Euro</b>, die für den Altbau bei etwa <b>8 Millionen Euro</b>.
-Sie umfassen die geschätzten Kosten für das Baugrundstück, die Erschließung, die
+Sie umfassen die Kosten für das Baugrundstück, die Erschließung, die
 Baukonstruktion und technische Anlagen, die Außenanlagen, die Ausstattung sowie
 die Baunebenkosten. Auch Kosten wie Bauzeitzinsen und Gelder für
-Forschung sind in der Schätzung enthalten. Die genaue Kalkulation konkretisiert sich ständig durch Anpassungen und 
-Fortschritte in den Planungen.
-Im Neubau befinden sich die Bauarbeiten schon auf der Zielgeraden und auch im Altbau haben wir für den Großteil der
-Bauleistungen bereits Beauftragungen erteilt. Dadurch verfügen wir über eine große Kostensicherheit.
-Weitere Details zur Architektur und zur Planung unserer Gebäude finden Sie
+Forschung sind enthalten.
+Weitere Details zu unseren Gebäuden findet ihr
 <a href="{{< relref "/pages/hausprojekt/gebaeude"  >}}">hier</a>.
 </p>
 
 ## Finanzierungsbausteine
 
 <p style="text-align: justify">
-Für die Projektfinanzierung von Alt- und Neubau sind verschiedene Bausteine vorgesehen: Die
+Für die Projektfinanzierung von Alt- und Neubau gibt es verschiedene Bausteine: Die
 Finanzierung setzt sich zum einen aus Fördermitteln, privaten
 Direktkrediten und Spenden, sowie Sponsoring und Eigenleistungen zusammen. Zum anderen erhalten
 wir eine Förderung von der Kreditanstalt für Wiederaufbau (<a href="https://de.wikipedia.org/wiki/KfW"  target="_blank">KfW</a>).
@@ -66,15 +63,15 @@ wurde eine Förderung in Höhe von 500.000 Euro aus dem Programm
 <a href="https://efre-bw.de/foerderaufruf/aufruf-zum-foerderprogramm-holz-innovativ/" target="_blank">"Holz Innovativ"</a>
 genehmigt, welches sich aus dem <a href="https://ec.europa.eu/regional_policy/de/funding/erdf/" target="_blank">Europäischen Fonds für regionale Entwicklung</a> (EFRE)
 und Landesmitteln finanziert. Des Weiteren würdigen städtische Förderungen in Höhe
-von 240.000 Euro die barrierearme Planung (50.000 Euro) und die
+von 240.500 Euro die barrierearme Planung (50.000 Euro) und die
 Passivhausbauweise des Wohnheims (190.500 Euro).
 </p>
 
 ### Förderung des Altbaus
 
 <p style="text-align: justify">
-Für die Wohnungen mit Sozialbindung im Altbau werden wir vom Land mit etwa 1,1 Mio Euro im Rahmen des Förderprogramms
-Wohnungsbau BW 2022 gefördert. Zudem erhalten wir einen KfW-Zuschuss in Höhe von etwa 0.93 Mio. Euro aus der
+Für die Wohnungen mit Sozialbindung im Altbau werden wir vom Land mit etwa 1,1 Millionen Euro im Rahmen des Förderprogramms
+Wohnungsbau BW 2022 gefördert. Zudem erhalten wir einen KfW-Zuschuss in Höhe von etwa 0,93 Millionen Euro aus der
 Bundesförderung für effiziente Gebäude für die Erfüllung der Effizienzstufe KfW55. Wir auch beim Neubau unterstützt die
 Stadt auch beim Altbau die barrierearme Planung (ca. 22.000 Euro).
 </p>
@@ -83,23 +80,22 @@ Stadt auch beim Altbau die barrierearme Planung (ca. 22.000 Euro).
 
 <p style="text-align: justify">
 Das Projekt wird entsprechend des Modells des <a href="https://www.syndikat.org/">Mietshäuser Syndikat</a>
-umgesetzt, mit dem deutschlandweit bereits über 170 Projekte
+umgesetzt, mit dem deutschlandweit bereits über 190 Projekte
 realisiert wurden. Dazu steht die Projektgruppe im Austausch mit
 Projektberater*innen aus Freiburg. Das Konzept des Mietshäuser
 Syndikats sieht vor, dass eine wichtige Säule der Finanzierung auf
 sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 <br><br>
-Für den Neubau haben wir etwa 2,9 Millionen Euro an nachrangigen Darlehen eingeworben.
-Um Baukostensteigerungen abzufedern, benötigen wir akut noch ca. 400.000 Euro für den Neubau und brauchen deshalb
-dringend Ihre Unterstützung.
-<br><br>
-Für die Altbauten haben wir erfolgreich 1,55 Millionen Euro Direktkredite gesammelt.
+Für unser Projekt haben wir insgesamt etwa 4,6 Millionen Euro an nachrangigen Darlehen eingeworben.
+**Wir sagen Danke!** 
+Jeder finanzielle Beitrag hat uns näher an die Realisierung des
+Projekts gebracht haben und ermöglicht es uns weiterhin, unsere Visionen umzusetzen.
 <br><br>
 Der <a href="{{< relref "/pages/unterstuetzen/direktkredite" >}}">aktuelle Stand</a>
 unserer Bemühungen wird regelmäßig auf unserer Direktkredit-Seite veröffentlicht.
 Daneben sammeln wir auch Spenden für die Bildungsarbeit des CA.
-Falls auch Sie uns unterstützen möchten, erfahren Sie auf folgenden Seiten mehr:
+Falls auch du uns unterstützen möchtest, erfährst du auf folgenden Seiten mehr:
 </p>
 
 <div class="buttons is-centered">
@@ -147,8 +143,8 @@ Besonders viel Geld fließt hierbei in die energetische Sanierung des Gebäudes,
 <p style="text-align: justify">
 Als IBA-Projekt und aufgrund der vielfältigen Besonderheiten (Holzbau,
 Nutzungskonzept und Modulbauweise) ist unser Vorhaben in der
-Öffentlichkeit sehr präsent. Eine Übersicht der <a href="{{< relref "/pages/ueber-uns/presse">}}">Pressebeiträge</a> befindet
-sich auf unserer Presse-Seite. 
+Öffentlichkeit sehr präsent. Eine Übersicht der Pressebeiträge befindet
+sich auf unserer <a href="{{< relref "/pages/ueber-uns/presse">}}">Presse-Seite</a>. 
 </p>
 
 #### Eigenleistung
@@ -160,22 +156,20 @@ Eigenregie durchführen.
 Das Projekt insgesamt ist auf Eigeninitiative und Mitarbeit ausgelegt ist und sieht Eigenleistung explizit vor. 
 Seit 2020 stehen daher Workcamps und Arbeitseinsätze auf der Baustelle regelmäßig in unseren Terminkalendern. 
 Viele Möglichkeiten zur Eigenleistung wurden von Anfang an eingeplant, 
-einige ergeben sich aber auch im Laufe des Baufortschritts. 
+einige ergaben sich aber auch im Laufe des Baufortschritts. 
 <br><br>
-Trotz ihres Potenzials ist Eigenleistung bisher entsprechend einem
-konservativen Planungsansatz nur im kleinen Rahmen eingerechnet.
-Im Neubau beläuft sie sich derzeit auf etwa 400.000 Euro. Dies beinhaltet
+Im Neubau beläuft sich die Finanzierung durch Eigenleistung auf etwa 400.000 Euro. Dies beinhaltet
 vor allem Arbeiten im Außenbereich, Malerarbeiten, die Herstellung von Möbeln
 und den Bau von Schiebe- und Trennwänden.
-Im Altbau sind es bislang vor allem Abrissarbeiten, die wir selbst durchführen. Bald folgen weitere Aufgaben wie
+Im Altbau waren es vor allem Abrissarbeiten, die wir selbst durchgeführt haben. Hinzu kamen
 Stroh-Trockenbau, Möbelbau sowie Malerarbeiten.
-Auch in Zukunft bestehen weitere Chancen, durch Eigenleistung Baukosten zu reduzieren bzw. Mehrkosten zu vermeiden.
+Auch in Zukunft bestehen weitere Chancen, durch Eigenleistung Baukosten zu reduzieren bzw. Mehrkosten zu vermeiden, wenn wir mit der Sanierung des Pförtnerhäuschens beginnen.
 </p>
 
 ## Refinanzierung der Kredite
 
 <p style="text-align: justify">
-Die Bankkredite und Direktkredite werden ab dem Einzug der ersten
+Die Bankkredite und Direktkredite werden seit dem Einzug der ersten
 Bewohner*innen über die Mieteinnahmen abzüglich der laufenden
 Betriebs- und Instandhaltungskosten getilgt. Die Warmmiete für die
 Bewohner*innen im Neubau beläuft sich auf rund 375 Euro/Monat/Person. Über diese Mieten werden
