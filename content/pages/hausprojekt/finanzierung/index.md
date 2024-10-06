@@ -88,7 +88,7 @@ sogenannten Direktkrediten basiert. Diese nachrangigen Darlehen werden
 von Privatpersonen vergeben, die das Projekt unterstützen möchten.
 <br><br>
 Für unser Projekt haben wir insgesamt etwa 4,6 Millionen Euro an nachrangigen Darlehen eingeworben.
-**Wir sagen Danke!** 
+<b>Wir sagen Danke!</b> 
 Jeder finanzielle Beitrag hat uns näher an die Realisierung des
 Projekts gebracht haben und ermöglicht es uns weiterhin, unsere Visionen umzusetzen.
 <br><br>
