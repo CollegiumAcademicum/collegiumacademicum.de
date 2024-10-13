@@ -158,7 +158,21 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
 <div class="field">
     <label class="label" for="age">Veranstaltungsdatum *</label>
     <div class="control">
-        <input class="label" type="date" id="date" name="date" value="2024-10-01" min="2024-06-01" max="2026-12-31" required/>
+        <input class="label" type="date" id="date" name="date" value="2024-10-01" min="2024-10-13" max="2026-12-31" required/>
+    </div>
+</div>
+
+<div class="field">
+    <label class="label" for="age">Beginn (inkl. Aufbau) *</label>
+    <div class="control">
+        <input class="label" type="time" id="time_start" name="time_start" value="15:00" min="00:00" max="23:59" required/>
+    </div>
+</div>
+
+<div class="field">
+    <label class="label" for="age">Ende (inkl. Abbau) *</label>
+    <div class="control">
+        <input class="label" type="time" id="time_end" name="time_end" value="19:00" min="00:00" max="23:59" required/>
     </div>
 </div>
 
