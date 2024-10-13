@@ -19,7 +19,7 @@ if (!file_exists($log_file)) {
 }
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'phone', 'event', 'date',
+$fields = ['full_name', 'email', 'phone', 'event', 'date', 'time_start', 'time_end',
 'number_guests', 'freetext', 'mail', 'spam_protection'];
 
 $i18n = [
@@ -29,6 +29,8 @@ $i18n = [
         "phone" => "Telefonnummer",
         "event" => "Veranstaltung",
         "date" => "Datum der Veranstaltung",
+        "time_start" => "Uhrzeit Beginn",
+        "time_end" => "Uhrzeit Ende",
         "number_guests" => "Ungefähre Personenanzahl",
         "request-sent" => "raumanfrage-verschickt",
         "freetext" => "Freies Kontaktfeld",
