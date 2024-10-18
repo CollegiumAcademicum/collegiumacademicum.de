@@ -7,10 +7,10 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
-Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is January 1, 2025. If you would like to move in in January, you can apply here <b>until Friday, October 18, 2024</b> at the latest.</p>  
-<!-- Unfortunately, we can no longer accept applications for the move-in in October 2024. <b>The next possible move-in date is April 1, 2025.</b> From the end of December you will find our application form on this site. 
+Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is April 1, 2025. <!-- If you would like to move in in April, you can apply here <b>until Friday, October 18, 2024</b> at the latest.</p> --> 
+Unfortunately, we can no longer accept applications for the move-in in January 2025. <b>The next possible move-in date is April 1, 2025.</b> From the end of December you will find our application form on this site. 
 
-Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
+<!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p>
 
 <h2>General</h2>
 <div class="field">
@@ -42,7 +42,7 @@ Here you can sign up for our moving-in newsletter. Then we will inform you direc
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
