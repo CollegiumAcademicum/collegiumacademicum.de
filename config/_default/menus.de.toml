@@ -53,8 +53,8 @@
     weight = 3
     parent = "Über uns"
 [[main]]
-    name = "In der Presse"
-    url = "/presse"
+    name = "Erfolge"
+    url = "/erfolge"
     weight = 4
     parent = "Über uns"
 [[main]]
