@@ -12,6 +12,12 @@ link = "https://www.baunetz.de/meldungen/Meldungen-Wohnheim_in_Heidelberg_von_DG
 date = "17.07.2024"
 
 [[press]]
+title = "Abschlusskonferenz „SuPraStadt II“ – Suffizienz verstehen, erleben und selber machen"
+source = "ifeu Nachrichtenarchiv"
+link = "https://www.ifeu.de/nachrichtenarchiv/abschlusskonferenz-suprastadt-ii"
+date = "28.05.2024"
+
+[[press]]
 title = "Das ist ein deutsches Demokratiedefizit (Veranstaltungsbericht)"
 source = "Rhein-Neckar-Zeitung"
 link = "2024_02_21_CA-Veranstaltung_Repression_Kurden_heb.pdf"
@@ -176,12 +182,6 @@ title = "Selbstverwaltetes Wohnheim in Heidelberg – erste Studenten und Azubis
 source = "Heidelberg24"
 date = "22.02.2023"
 link = "https://www.heidelberg24.de/heidelberg/selbstverwaltetes-wohnheim-student-azubis-einzug-bauarbeiten-collegium-academicum-92103692.html"
-
-[[press]]
-title = "Aus Idealismus und Holz gebaut"
-source = "Frankfurter Allgemeine Sonntagszeitung"
-date = "19.02.2023"
-
 
 [[press]]
 title = "SWR Aktuell BW"
@@ -384,7 +384,8 @@ link = "https://www.rnz.de/nachrichten/heidelberg_artikel,-heidelberg-richtfest-
 
 [[press]]
 title = 'Selbstverwaltetes Projekt in Heidelberg - Ein Wohnheim bauen in Eigenregie'
-source = 'ARD Audiothek'
+source = 'Deutschlandfunk Kultur (ARD Audiothek)'
+
 date = '10.01.2021'
 link = "https://beta.ardaudiothek.de/fazit-kultur-vom-tage/selber-bauen-studentinnen-bauen-ihr-eigenes-wohnheim-in-heidelberg/85057964"
 audio = '210110_ARD_Fazit_Selber_bauen.mp3'
