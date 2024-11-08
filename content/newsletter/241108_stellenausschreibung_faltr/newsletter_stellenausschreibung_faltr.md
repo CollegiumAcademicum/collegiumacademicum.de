@@ -19,8 +19,8 @@ Damit es genauso gut weitergeht, wie es begonnen hat, suchen wir ** ab 01.01.202
 <figure>
   <img alt="Gemeinsam aktiv im Orientierungsjahr falt*r (&#169; CA)" src="content/newsletter/241108_stellenausschreibung_faltr/gruppenbild_faltr_stellenanzeige.jpg" width="100%">
   <figcaption style="text-align:center;">
-  <p> Gemeinsam aktiv im Orientierungsjahr falt*r (&#169; CA)</p>
-</figcaption>
+    <p> Gemeinsam aktiv im Orientierungsjahr falt*r (&#169; CA)</p>
+  </figcaption>
 </figure>
 
 <br>
