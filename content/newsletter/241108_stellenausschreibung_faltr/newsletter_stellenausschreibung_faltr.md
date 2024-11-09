@@ -4,7 +4,7 @@ date: 2024-11-09
 ---
 
 ## Liebe Unterstützer*innen,
-<br><br>
+<br>
 außer der Reihe wenden wir uns heute mit einer Stellenausschreibung an Sie.
 <br>
 <br>
