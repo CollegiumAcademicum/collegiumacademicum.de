@@ -19,7 +19,7 @@ Netzwerken weiterleiten würdden.
 <br>
 
 <figure>
-  <img src="collegiumacademicum.de/content/newsletter/241108_stellenausschreibung_faltr/gruppenbild_faltr_stellenanzeige.jpg" alt="Gemeinsam   aktiv im Orientierungsjahr falt*r (&#169; CA)" width="100%">
+  <img src="collegiumacademicum.de/content/newsletter/241108_stellenausschreibung_faltr/gruppenbild_faltr_stellenanzeige.jpg"; alt="Gemeinsam aktiv im Orientierungsjahr falt*r (&#169; CA)"; width="100%";>
   <figcaption><p>Gemeinsam   aktiv im Orientierungsjahr falt*r (&#169; CA)</p></figcaption>
 </figure>
 <br>
