@@ -27,4 +27,4 @@ Netzwerken weiterleiten würdden.
 Herzlichen Dank und viele Grüße<br>
 Ihre Projektgruppe
 
-PS: [Hier](faltr_Stellenausschreibung_Elternzeitvertretung.pdf) finden sie die Ausschreibung.
+PS: [Hier](https://collegiumacademicum.de/newsletter/241108_stellenausschreibung_faltr/faltr_Stellenausschreibung_Elternzeitvertretung.pdf) finden Sie die Ausschreibung.
