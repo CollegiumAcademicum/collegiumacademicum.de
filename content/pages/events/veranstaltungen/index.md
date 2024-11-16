@@ -22,8 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Mo, 21.10., 19:30 |  Verkehrswendestadt (<a href="https://film.verkehrswendestadt.de/">film.verkehrswendestadt.de</a>), Film + Gespräch mit Tobi Rosswog
-Do, 24.10., 18:30  |  Planspiel How To Bauwende (<a href="https://end-cement.earth/">end-cement.earth</a>)
-Sa, 02.11., 22:00  |  Indoor-Rave: <a href="https://rausgegangen.de/events/noch-geheim-event-0211-0/">ImTunnel - EinfahrtEins</a>
-Do, 07.11., 20:00  |  Perspektivwechselpetry (<a href="https://www.instagram.com/perspektivwechselpoetry?igsh=ZmN4bGZvemI3dXo2">@perspektivwechselpoetry</a>)
+Mi, 20.11., 19:30  |  <a href="https://dpg-netz.de/wp-content/uploads/Veranstaltungen/IP-Vortrag-Lueders-20.11.24.pdf">Lesung "Krieg ohne Ende"</a> mit Michael Lüders (Veranstalter: Heidelberger Bündnis für Frieden im Nahen Osten, Palmyra Verlag, Friedensbündnis Heidelberg, Heidelberger Forum gegen Militarismus und Krieg)
 Sa, 23.11., 14:00  |  <a href="https://www.geld-kompass.org/?p=2074">Bildungsmarktplatz nachhaltige Geldanlagen</a> (Netzwerk Geldkompass)
+Do, 28.11., 19:00  |  Podiumsdiskussion: Die zukunft von selbstverwalteten Hausprojekten in HD (ParaSol)
