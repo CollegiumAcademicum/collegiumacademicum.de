@@ -119,3 +119,7 @@ Für eine bessere Planung sind wir auf Ihre Anmeldung angewiesen. Bitte melden S
 <p style="text-align: justify">
 Die Tagung findet in den Räumlichkeiten des selbstverwalteten Wohnheims Collegium Academicum (CA), Marie-Clauss Straße 3, 69126 Heidelberg statt (<a href="https://collegiumacademicum.de/anfahrt/">Anfahrt</a>). Das CA befindet sich in einem autofreien Quartier. Wir können vor Ort somit keine Parkplätze bereitstellen und empfehlen daher eine Anfahrt mit den öffentlichen Verkehrsmitteln. Neben unserer Fläche hält auch die Straßenbahn der Linie 24, die direkt mit dem Heidelberger Hauptbahnhof verbunden ist.
 </p>
+
+<h3>Veranstalter und Förderung</h3>
+
+"Perspektive Rojava" ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V.
