@@ -87,6 +87,11 @@
     url = "/impressionen"
     weight = 3
     parent = "Events"
+[[main]]
+    name = "Tagung Rojava"
+    url = "/rojava"
+    weight = 4
+    parent = "Events"
 
 [[main]]
     name = "Unterstützen"
