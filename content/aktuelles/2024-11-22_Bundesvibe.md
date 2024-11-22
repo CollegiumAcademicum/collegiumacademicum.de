@@ -3,7 +3,7 @@ title: "Bundesvibe-Folge zur Wohnkrise: Das CA zeigt, wie es anders geht"
 date: 2024-11-22
 ---
 
-Die neueste Folge der Reportagesendung "Bundesvibe" beschäftigt sich mit der Wohnkrise in Deutschland.
+Die neueste Folge der Reportagesendung "Bundesvibe" (ARD) beschäftigt sich mit der Wohnkrise in Deutschland.
 Sie begleitet Menschen, die eine Wohnung suchen, die selbst eine Wohnung anzubieten haben und solche, die sich selbst ein Zuhause bauen. Neben Berlin, Tangerhütte und Saarlouis, zog es die Reporter deshalb auch nach Heidelberg zu uns ins CA.
 Unter den Schlagworten "Ein Platz zum Leben" und "Gemeinsam in die Zukunft" berichten sie über unser einzigartiges Wohnprojekt.
 Bewohner\*innen des Azubi- und Studiwohnheim und der Sozialwohnungen erklären, was das CA so besonders macht, warum sie so gerne hier wohnen und welche Wirkung es als nicht nur als bezahlbarer Wohnraum, sondern auch als Ort der Gemeinschaft, Selbstverwaltung und Kultur hat.
