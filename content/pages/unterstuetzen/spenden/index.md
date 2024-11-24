@@ -37,6 +37,18 @@ Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend
 machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 </p>
 
+<!-- twingle -->
+<script type="text/javascript">
+	(function() {
+		var u="https://spenden.twingle.de/embed/forderverein-collegium-academicum-heidelberg/einmalspender/tw6675843037101/widget";
+		var id = '_' + Math.random().toString(36).substr(2, 9);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		document.write('<div id="twingle-public-embed-' + id + '"></div>');
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'/'+id; s.parentNode.insertBefore(g,s);
+	})();
+</script>
+<!-- twingle -->
+
 ### Geldspende per Banküberweisung
 <p style="text-align: justify">
 Wir freuen uns über Ihre Spende per Banküberweisung auf eines der untenstehenden Konten. Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung. Normalerweise versenden wir diese, falls keine anderweitige Absprache besteht, zum Jahreswechsel. Setzen Sie sich diesbezüglich per Mail an die oben genannte E-Mail-Adresse mit uns in Verbindung oder fügen Sie dem Verwendungszweck zusätzlich Ihre Adresse bei.
