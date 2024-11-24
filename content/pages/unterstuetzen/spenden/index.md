@@ -54,7 +54,7 @@ machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 Wir freuen uns über Ihre Spende per Banküberweisung auf eines der untenstehenden Konten. Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung. Normalerweise versenden wir diese, falls keine anderweitige Absprache besteht, zum Jahreswechsel. Setzen Sie sich diesbezüglich per Mail an die oben genannte E-Mail-Adresse mit uns in Verbindung oder fügen Sie dem Verwendungszweck zusätzlich Ihre Adresse bei.
 </p>
 
-<div class="notification is-primary">
+<div class="notification">
   <b>Allgemeine Spende</b><br><br>
   Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE92 4306 0967 6036 6733 00<br>
@@ -62,7 +62,7 @@ Wir freuen uns über Ihre Spende per Banküberweisung auf eines der untenstehend
   <b>Verwendungszweck:</b> Spende CA, Ihr Name, Ihre Email / Ihre Anschrift
 </div>
 
-<div class="notification is-secondary">
+<div class="notification">
   <b>Spende für das Orientierungsjahr</b><br><br>
   Förderverein Collegium Academicum Heidelberg e.V.<br>
   <b>IBAN:</b> DE65 4306 0967 6036 6733 01<br>
