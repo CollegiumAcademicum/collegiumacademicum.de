@@ -114,8 +114,17 @@ Sonntag, 26.01.2025
 
 <h3>Unsere Gäst*innen</h3>
 
-{{< accordion "Alexander Glasner-Hummel" >}}
-Alexander Glasner-Hummel ist Soziologe und promoviert an der LMU München zu den Wirkungen von Repression auf Öffentlichkeit. Er ist Co-Autor des Buches Geflohen. Verboten. Ausgeschlossen. Wie die kurdische Diaspora in Deutschland mundtot gemacht wird.
+
+{{< accordion "Gökay Akbulut" >}}
+Gökay Akbulut ist eine deutsche Politikerin und Sozialwissenschaftlerin. Sie studierte an der Universität Heidelberg und ist seit 2017 Mitglied des Deutschen Bundestages für die Partei Die Linke für den Wahlkreis Mannheim. Gökay Akbulut wurde zudem als Bundestagsabgeordnete 2023 in der Türkei aufgrund ihres politischen Engagements für kurzer Zeit festgehalten. Sie bringt ein langjähriges Engagement in kurdischen Vereinen und in der Bildungsarbeit mit.
+{{< /accordion >}}
+
+{{< accordion "Ercan Ayboga" >}}
+Ercan Ayboga ist langjähriger Aktivist der Ökologiebewegung Kurdistans. Er arbeitete mehrere Jahre in Nord-Kurdistan (Südosttürkei) und baute die Initiative zur Rettung der historischen Stadt Hasankeyf mit auf, die gegen den Ilisu Staudamm kämpfte. Ercan Ayboga ist Umweltingenieur und Co-Autor des Buches <i>Revolution in Rojava</i>, das 2015 im Rahmen der Kampagne <i>Tatort Kurdistan</i> erschien.
+{{< /accordion >}}
+
+{{< accordion "Leonie Baumgarten Egemole" >}}
+Leonie Baumgarten Egemole ist Aktivistin im Bereich Antirassismus und Klimagerechtigkeit. Sie ist Mitorganisatorin bei Black Lives Matter in Heidelberg sowie beim afro-Festival Heidelberg, hat bei dem Podcast <i>heidelberg kolonial</i> mitgewirkt und organisiert Stadtrundgänge zu kolonialen Kontinuitäten. Leonie Baumgarten Egemole studiert Jura und engagiert sich in zahlreichen Vereinen und Initiativen.
 {{< /accordion >}}
 
 {{< accordion "Ali Çiçek" >}}
@@ -123,31 +132,23 @@ Ali Çiçek ist Journalist und Mitarbeiter bei der Akademie der Demokratischen M
 {{< /accordion >}}
 
 {{< accordion "Anja Flach" >}}
-Anja Flach ist Ethnologin, Buchautorin und Mitarbeiterin im Rojbin Frauenrat. Sie war von 1995 bis 1997 als Internationalistin in den Bergen Kurdistans und teilte dort das Leben von Guerilla-Einheiten der kurdischen Befreiungsbewegung. Sie ist u.a. Co-Autorin des Buches Revolution in Rojava und Mitarbeiterin in der Informationsstelle Kurdistan (ISKU).
+Anja Flach ist Ethnologin, Buchautorin und Mitarbeiterin im Rojbin Frauenrat. Sie war von 1995 bis 1997 als Internationalistin in den Bergen Kurdistans und teilte dort das Leben von Guerilla-Einheiten der kurdischen Befreiungsbewegung. Sie ist u.a. Co-Autorin des Buches <i>Revolution in Rojava</i> und Mitarbeiterin in der Informationsstelle Kurdistan (ISKU).
 {{< /accordion >}}
 
-{{< accordion "Ayten Kaplan" >}}
-Ayten Kaplan ist Sprecherin des bundesweiten Verbandes der Frauen aus Kurdistan in Deutschland (YJK-E), Berufspädagogin und war 2021 in Gelsenkirchen Bundestagskandidatin für die Partei Die Linke.
+{{< accordion "Alexander Glasner-Hummel" >}}
+Alexander Glasner-Hummel ist Soziologe und promoviert an der LMU München zu den Wirkungen von Repression auf Öffentlichkeit. Er ist Co-Autor des Buches <i>Geflohen. Verboten. Ausgeschlossen. Wie die kurdische Diaspora in Deutschland mundtot gemacht wird</i>.
 {{< /accordion >}}
 
-{{< accordion "Ercan Ayboga" >}}
-Ercan Ayboga ist langjähriger Aktivist der Ökologiebewegung Kurdistans. Er arbeitete mehrere Jahre in Nord-Kurdistan (Südosttürkei) und baute die Initiative zur Rettung der historischen Stadt Hasankeyf mit auf, die gegen den Ilisu Staudamm kämpfte. Ercan Ayboga ist Umweltingenieur und Co-Autor des Buches Revolution in Rojava, das 2015 im Rahmen der Kampagne Tatort Kurdistan erschien.
-{{< /accordion >}}
-
-{{< accordion "Gökay Akbulut" >}}
-Gökay Akbulut ist eine deutsche Politikerin und Sozialwissenschaftlerin. Sie studierte an der Universität Heidelberg und ist seit 2017 Mitglied des Deutschen Bundestages für die Partei Die Linke für den Wahlkreis Mannheim. Gökay Akbulut wurde zudem als Bundestagsabgeordnete 2023 in der Türkei aufgrund ihres politischen Engagements für kurzer Zeit festgehalten. Sie bringt ein langjähriges Engagement in kurdischen Vereinen und in der Bildungsarbeit mit.
-{{< /accordion >}}
-
-{{< accordion "Kerem Schamberger" >}}
-Kerem Schamberger ist Kommunikationswissenschaftler und in der Öffentlichkeitsarbeit von medico international für den Bereich Flucht und Migration zuständig. Er ist Co-Autor des Buches Die Kurden – Ein Volk zwischen Unterdrückung und Rebellion  sowie des Buches  Geflohen. Verboten. Ausgeschlossen. Wie die kurdische Diaspora in Deutschland mundtot gemacht wird.
-{{< /accordion >}}
-
-{{< accordion "Leonie Baumgarten Egemole" >}}
-Leonie Baumgarten Egemole ist Aktivistin im Bereich Antirassismus und Klimagerechtigkeit. Sie ist Mitorganisatorin bei Black Lives Matter in Heidelberg sowie beim afro-Festival Heidelberg, hat bei dem Podcast heidelberg kolonial mitgewirkt und organisiert Stadtrundgänge zu kolonialen Kontinuitäten. Leonie Baumgarten Egemole studiert Jura und engagiert sich in zahlreichen Vereinen und Initiativen.
+{{< accordion "Prof. Dr. Michael Haus" >}}
+Prof. Dr. Michael Haus ist Politikwissenschaftler und Professor für Moderne Politische Theorie an der Universität Heidelberg. Zu seinen Forschungsschwerpunkte gehören u.a. Theorien der Demokratie und der Gerechtigkeit, Kommunitarismus, kritische Filmanalyse und Stadtpolitik. Im Rahmen des Forschungsprojekts <i>Polizei, Politik, Polis - Zum Umgang mit Geflüchteten in der Stadt</i> setzte er sich auch intensiv mit Polizeikritik auseinander. Michael Haus ist Autor des Buches <i>Grundlagen der Politischen Theorie - Ein Überblick</i>.
 {{< /accordion >}}
 
 {{< accordion "Leyla Îmret" >}}
 Leyla Îmret ist ehemalige Bürgermeisterin der Stadt Cizre in der Türkei, an der Grenze zu Syrien und zum Irak. Leyla Îmret ist ausgebildete Kinderpflegerin und Friseurin, größtenteils in Deutschland aufgewachsen und wurde zu einer der jüngsten Bürgermeister*innen der Türkei. Seit 2017 lebt sie im politischen Asyl in Deutschland und ist eine von zwei Deutschland-Vorsitzenden der türkischen DEM-Partei (Partei für Gleichheit und Demokratie des Volkes).
+{{< /accordion >}}
+
+{{< accordion "Ayten Kaplan" >}}
+Ayten Kaplan ist Sprecherin des bundesweiten Verbandes der Frauen aus Kurdistan in Deutschland (YJK-E), Berufspädagogin und war 2021 in Gelsenkirchen Bundestagskandidatin für die Partei Die Linke.
 {{< /accordion >}}
 
 {{< accordion "Max Lucks" >}}
@@ -155,16 +156,17 @@ Max Lucks ist ein deutscher Politiker, ehemals Sprecher der Grünen Jugend und s
 {{< /accordion >}}
 
 {{< accordion "Müslüm Örtülü" >}}
-Müslüm Örtülü ist Politikwissenschaftler. Seine Forschungs- und Arbeitsschwerpunkte sind der Nahe und Mittlere Osten, die Türkei sowie Kolonialismus, Dekolonisierung und koloniale Kontinuitäten. Er ist Autor des Buches Der demokratische Konföderalismus – Eine politische Alternative für den Mittleren Osten?
+Müslüm Örtülü ist Politikwissenschaftler. Seine Forschungs- und Arbeitsschwerpunkte sind der Nahe und Mittlere Osten, die Türkei sowie Kolonialismus, Dekolonisierung und koloniale Kontinuitäten. Er ist Autor des Buches <i>Der demokratische Konföderalismus – Eine politische Alternative für den Mittleren Osten?</i>
 {{< /accordion >}}
 
-{{< accordion "Prof. Dr. Michael Haus" >}}
-Prof. Dr. Michael Haus ist Politikwissenschaftler und Professor für Moderne Politische Theorie an der Universität Heidelberg. Zu seinen Forschungsschwerpunkte gehören u.a. Theorien der Demokratie und der Gerechtigkeit, Kommunitarismus, kritische Filmanalyse und Stadtpolitik. Im Rahmen des Forschungsprojekts Polizei, Politik, Polis - Zum Umgang mit Geflüchteten in der Stadt setzte er sich auch intensiv mit Polizeikritik auseinander. Michael Haus ist Autor des Buches Grundlagen der Politischen Theorie - Ein Überblick.
+{{< accordion "Kerem Schamberger" >}}
+Kerem Schamberger ist Kommunikationswissenschaftler und in der Öffentlichkeitsarbeit von medico international für den Bereich Flucht und Migration zuständig. Er ist Co-Autor des Buches <i>Die Kurden – Ein Volk zwischen Unterdrückung und Rebellion</i>  sowie des Buches <i>Geflohen. Verboten. Ausgeschlossen. Wie die kurdische Diaspora in Deutschland mundtot gemacht wird</i>.
 {{< /accordion >}}
 
 {{< accordion "Sara Stachelhaus" >}}
 Sara Stachelhaus ist Programmkoordinatorin für Syrien bei der Heinrich-Böll Stiftung in Beirut und arbeitet u.a. zu den Themen Flucht und Aufnahme von Geflüchteten, zum Assad-Regime und zum Syrienkrieg. Sie studierte an der Universität Tübingen und engagierte sich beim Verband der Jungen Europäischen Föderalisten.
 {{< /accordion >}}
+
 
 <h3>Anmeldung</h3>
 <p style="text-align: justify">
