@@ -12,6 +12,12 @@ link = "https://www.ardmediathek.de/video/bundesvibe/wohnung-dringend-gesucht-le
 date = "21.11.2024"
 
 [[press]]
+title = "Soziales Experiment: Collegium Academicum in Heidelberg"
+source = "deutsche bauzeitung"
+link = "https://www.db-bauzeitung.de/architektur/wohnungsbau/collegium-academicum-in-heidelberg/"
+date = "29.10.2024"
+
+[[press]]
 title = "Erstsemester in Wohnungsnot - Obdachlos ins Studium  (ab Minute 4:33)"
 source = "ZDF Länderspiegel"
 link = "https://www.zdf.de/politik/laenderspiegel/laenderspiegel-vom-5-oktober-2024-100.html"
@@ -308,6 +314,11 @@ source = "FuturZwei"
 date = "09.12.2021"
 link = "https://futurzwei.org/article/collegium-academicum"
 
+[[press]]
+title = "Collegium Academicum – La madera está en el futuro de los jóvenes"
+source = "Madera Estructural"
+date = "14.11.2021"
+link = "https://maderaestructural.wordpress.com/2021/11/14/collegium-academicum-la-madera-esta-en-el-futuro-de-los-jovenes/"
 
 [[press]]
 title = "Wohnkonzepte der Zukunft: effizient wohnen trotz Platzmangel"
