@@ -22,7 +22,9 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Mi, 20.11., 19:30  |  <a href="https://dpg-netz.de/wp-content/uploads/Veranstaltungen/IP-Vortrag-Lueders-20.11.24.pdf">Lesung "Krieg ohne Ende"</a> mit Michael Lüders (Veranstalter: Heidelberger Bündnis für Frieden im Nahen Osten, Palmyra Verlag, Friedensbündnis Heidelberg, Heidelberger Forum gegen Militarismus und Krieg)
-Sa, 23.11., 14:00  |  <a href="https://www.geld-kompass.org/?p=2074">Bildungsmarktplatz nachhaltige Geldanlagen</a> (Netzwerk Geldkompass)
-Do, 28.11., 19:00  |  Podiumsdiskussion: Die zukunft von selbstverwalteten Hausprojekten in HD (ParaSol)
+Fr, 06.12. 19 Uhr | Forró-Tanzabend
+Sa, 07.12. 22-5 Uhr | Trashy TRANCE Techno-Rave (Tickets auf <a href="https://rausgegangen.de/events/trashy-trance-0/">rausgegangen.de</a>)
+Sa, 14.12. 14-18 Uhr | Palette und Prosecco - öffentliches Mal-Event
+So, 15.12. ab 17 Uhr | CAntine (Solidarische Küche für alle)
+So, 05.01. 9 Uhr | Aktionstreffen Studis gegen Rechts
 Sa, 25.01. und So, 26.01.2025  |  <a href="https://collegiumacademicum.de/rojava/">Tagung: Perspektive Rojava</a>
