@@ -10,6 +10,10 @@ novoigl: yes
 
 <h2>Demokratische Vision aus Nord- und Ostsyrien</h2>
 <br>
+    <div class="notification is-secondary">
+Aktuell sieht sich die Selbstverwaltung Nord- und Ost-Syrien mit dem stärksten Angriff seit 2019 konfrontiert. Dschihadistische Truppen sind auf dem Vormarsch, viele Menschen müssen aus den Regionen Tel Rifat und Aleppo fliehen und sind auf humanitäre Hilfe angewiesen. Wir bitten um Unterstützung für die humanitäre Arbeit vor Ort. Wir empfehlen dabei die <a href="https://www.medico.de/nothilfe-fuer-die-vertriebenen-19871">Hilfsorganisation Medico International</a>, die mit dem Kurdischen Roten Halbmond eng zusammenarbeitet.
+    </div>
+
 <p style="text-align: justify">
 In einer Zeit, in der Populismus und Rechtsextremismus weltweit auf dem Vormarsch sind, unsere Demokratie an ihre Grenzen stößt, die Kriege in der Welt und auch in der Region Rojavas immer weiter eskalieren und die Zeit zur Bekämpfung des Klimawandels drängt, braucht es mehr denn je neue Ideen, Impulse und Visionen.<br>
 
