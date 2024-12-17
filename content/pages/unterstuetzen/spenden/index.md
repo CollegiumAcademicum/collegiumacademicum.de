@@ -51,7 +51,7 @@ machen. Der Verein arbeitet ausschließlich ehrenamtlich.
 
 ### Geldspende per Banküberweisung
 <p style="text-align: justify">
-Wir freuen uns über Ihre Spende per Banküberweisung auf eines der untenstehenden Konten. Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung. Normalerweise versenden wir diese, falls keine anderweitige Absprache besteht, zum Jahreswechsel. Setzen Sie sich diesbezüglich per Mail an die oben genannte E-Mail-Adresse mit uns in Verbindung oder fügen Sie dem Verwendungszweck zusätzlich Ihre Adresse bei.
+Spenden sind natürlich auch per Banküberweisung auf eines der untenstehenden Konten möglich. Nach einer Spende erhalten Sie – sofern gewünscht – eine Spendenbescheinigung. Normalerweise versenden wir diese, falls keine anderweitige Absprache besteht, zum Jahreswechsel. Setzen Sie sich diesbezüglich per Mail an die oben genannte E-Mail-Adresse mit uns in Verbindung oder fügen Sie dem Verwendungszweck zusätzlich Ihre Adresse bei.
 </p>
 
 <div class="notification">
