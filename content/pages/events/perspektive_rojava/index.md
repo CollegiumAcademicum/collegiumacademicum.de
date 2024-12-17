@@ -187,7 +187,7 @@ Die Tagung findet in den Räumlichkeiten des selbstverwalteten Wohnheims Collegi
 <h3>Veranstalter und Förderung</h3>
 
 <p style="text-align: justify">
-"Perspektive Rojava" ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. Die Veranstaltung wird ermöglicht durch Förderungen der Stadt Heidelberg und der Rosa Luxemburg Stiftung Baden-Württemberg.
+"Perspektive Rojava" ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wird von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wird ermöglicht durch Förderungen der Stadt Heidelberg und der Rosa Luxemburg Stiftung Baden-Württemberg.
 </p>
 
 <figure>
