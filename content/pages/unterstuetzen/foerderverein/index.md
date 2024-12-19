@@ -5,7 +5,7 @@ slug: "foerderverein"
 
 <p style="text-align:justify">
 Über 100 Menschen unterstützen uns regelmäßig als Mitglieder. Diese Unterstützung ist zentral für das Orientierungsjahr <a href="https://faltr.de/">falt*r</a>, das selbstorganisierte, fächerübergreifende Bildungsprogramm aus Workshops, Tutorien und Vorträgen sowie die praxisnahen Bildungsräume wie die öffenen Werkstätten oder den Gemeinschaftsgarten.
-Der Förderverein möchte die Erinnerung an <a href="{{< relref "/pages/ueber-uns/geschichte">das frühere Collegium Academicum in der Seminarstraße 2</a> pflegen, das als Vorbild studentischen Lebens in Selbstverwaltung diente.
+Der Förderverein möchte die Erinnerung an <a href="{{< relref "/pages/ueber-uns/geschichte">}}">das frühere Collegium Academicum in der Seminarstraße 2</a> pflegen, das als Vorbild studentischen Lebens in Selbstverwaltung diente.
 Er fördert somit auch den Austausch zwischen ehemaligen und aktuellen Bewohner*innen und baut eine Gemeinschaft von Förder*innen auf, die hinter dem Gesamtprojekt stehen und zu dessen Erfolg beitragen. 
 <br><br>
 Reguläre Mitglieder des Fördervereins sind vor allem ehemalige und aktuelle Bewohner*innen des Collegium Academicum und weitere Personen, die dem Projekt nahe stehen und es als stimmberechtigtes Mitglied mitgestalten wollen. Der Jahresbeitrag für eine Mitgliedschaft beträgt regulär 60 Euro, daneben ist auch ein ermäßigter Beitrag möglich.
