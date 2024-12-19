@@ -138,7 +138,7 @@ Ali Çiçek ist Journalist und Mitarbeiter bei der Akademie der Demokratischen M
 {{< /accordion >}}
 
 {{< accordion "Anja Flach" >}}
-Anja Flach ist Ethnologin, Buchautorin und Mitarbeiterin im Rojbin Frauenrat. Sie war von 1995 bis 1997 als Internationalistin in den Bergen Kurdistans und teilte dort das Leben von Guerilla-Einheiten der kurdischen Befreiungsbewegung. Sie ist u.a. Co-Autorin des Buches <i>Revolution in Rojava</i> und Mitarbeiterin in der Informationsstelle Kurdistan (ISKU).
+Anja Flach ist Ethnologin, Aktivistin der feministischen Organisierung "Gemeinsam Kämpfen" und Mitarbeiterin im Rojbin Frauenrat. Sie war von 1995 bis 1997 als Internationalistin in den Bergen Kurdistans und teilte dort das Leben von Guerilla-Einheiten der kurdischen Befreiungsbewegung. Als Autorin hat sie u.a. an dem Buch <i>Revolution in Rojava</i> mitgeschrieben.
 {{< /accordion >}}
 
 {{< accordion "Alexander Glasner-Hummel" >}}
