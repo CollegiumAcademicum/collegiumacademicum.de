@@ -8,6 +8,14 @@ novoigl: yes
 <img alt="" src="0_Tagung_Logo_3.png" width="100%" />
 </figure>
 
+
+<a href="https://www.instagram.com/tagungrojava/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+   </a>
+
 <h2>Demokratische Vision aus Nord- und Ostsyrien</h2>
 <br>
     <div class="notification is-secondary">
@@ -41,7 +49,12 @@ Es wird <b>Vorträge, Workshops & Diskussionen</b> geben. Außerdem wird es am S
 </div> 
 </div>
 
-Wenn du Probleme mit der Anmeldung hast, melde dich auch gerne einfach per E-Mail an bildung@collegiumacademicum.de.
+Wenn du Probleme mit der Anmeldung hast, melde dich auch gerne einfach per E-Mail an bildung@collegiumacademicum.de. Folg uns außerdem auf <a href="https://www.instagram.com/tagungrojava/">
+        <span class="icon">
+            <i class="icon-instagram"></i>
+        </span>
+        <span>Instagram</span>
+   </a>, um auf dem Laufenden zu bleiben.
 
 <h2>Das Programm</h2>
 
@@ -176,7 +189,7 @@ Sara Stachelhaus ist Programmkoordinatorin für Syrien bei der Heinrich-Böll St
 
 <h3>Anmeldung</h3>
 <p style="text-align: justify">
-Für eine bessere Planung sind wir auf Ihre Anmeldung angewiesen. Bitte melden Sie sich <a href="https://cloud.collegiumacademicum.de/apps/forms/s/BDm8f99ebi8yLKFptBsqXNzy">unter diesem Link</a> an. Die Teilnahme ist kostenlos.
+Für eine bessere Planung sind wir auf Ihre Anmeldung angewiesen. Bitte melde dich <a href="https://cloud.collegiumacademicum.de/apps/forms/s/BDm8f99ebi8yLKFptBsqXNzy">unter diesem Link</a> an. Die Teilnahme ist kostenlos.
 </p>
 
 <h3>Anfahrt</h3>
