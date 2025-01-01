@@ -10,7 +10,7 @@ novoigl: yes
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is April 1, 2025. <!-- If you would like to move in in April, you can apply here <b>until Friday, October 18, 2024</b> at the latest.</p> --> 
 Unfortunately, we can no longer accept applications for the move-in in January 2025. <b>The next possible move-in date is April 1, 2025.</b> From the end of December you will find our application form on this site. 
 
-<!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p>
+<!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
 <h2>General</h2>
 <div class="field">
