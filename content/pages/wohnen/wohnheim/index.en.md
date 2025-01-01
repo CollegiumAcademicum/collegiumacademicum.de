@@ -12,7 +12,8 @@ In our dormitory, we are regularly looking for new residents to fill vacant room
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
 Unfortunately, applications for January 2025 move-in are already closed. 
 The next possible move-in date is April 1, 2025.
-You can apply for this starting from the end of December via the application form here on our website.
+<!-- You can apply for this starting from the end of December via the application form here on our website. -->
+You can apply for this <b>until Sunday, January 26 at the latest</b> via the application form here on our website.
 <!-- The next possible move-in date is January 1, 2025.
 You can apply for this <b>until Friday, October 18 at the latest</b> via the application form here on our website. -->
 
@@ -55,14 +56,14 @@ As we usually receive more applications than we can offer rooms, we do have to f
 
 Here is how the application for a room in our dormitory works:
 
-<!-- <div class="buttons is-centered">
+<div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Application form</span>
     </a>
-</div> -->
+</div>
 
 1. You fill out the application form<!--<a href="/en/application">application form</a>-->, either in German or in English. Please take note of the maximum text lengths. 
 2. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
