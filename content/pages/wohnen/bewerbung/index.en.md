@@ -42,7 +42,7 @@ Unfortunately, we can no longer accept applications for the move-in in January 2
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -181,6 +181,6 @@ Unfortunately, we can no longer accept applications for the move-in in January 2
     </div>
 </div> 
 
-<!-- {{< einziehen-signup >}} -->
+<!-- {{< einziehen-signup >}}
 
 </form>
