@@ -150,6 +150,12 @@ Unfortunately, we can no longer accept applications for the move-in in January 2
     </div>
 </div>
 <div class="field">
+    <label class="label" for="rooms_in_altbau">It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms are temporarily available. You can find further information on our website under Temporary Rooms. If your application for the new building is not successful, would you be interested in these rooms as well?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
+    </div>
+</div>
+<div class="field">
     <label class="label" for="spam_protection">We would like to make sure that
     your aren't a computer: How much is 5 + 3? </label>
     <div class="spam_protection">
