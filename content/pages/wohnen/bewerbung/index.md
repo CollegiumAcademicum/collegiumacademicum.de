@@ -9,7 +9,8 @@ novoigl: yes
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
 <!-- Der nächstmögliche Einzugstermin ist der 1. April 2025. Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 18. Oktober </b> hier dafür bewerben:</p> -->
-Für den Einzug im Januar 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. April 2025.</b> Ab Ende Dezember wirst du hier an dieser Stelle unser Bewerbungsformular finden.
+Für den Einzug im Januar 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. April 2025.</b> <!-- Ab Ende Dezember wirst du hier an dieser Stelle unser Bewerbungsformular finden. -->
+Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p>
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p>
 
@@ -152,6 +153,11 @@ Für den Einzug im Januar 2025 können wir leider keine Bewerbungen mehr annehme
     <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
+    </div>
+<div class="field">
+    <label class="label" for="rooms_in_altbau">In unserem Altbau werden voraussichtlich auch Zimmer frei werden. Diese sind je nach Größe bepreist und werden befristet vermietet. Weitere Informationen dazu findest du auch auf unserer Website unter Befristete Zimmer. Hast du, sollte es mit der Bewerbung für den Neubau nicht klappen, auch Interesse an diesen Zimmern?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
 </div>
 <div class="field">
