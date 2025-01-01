@@ -16,7 +16,8 @@ Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Janu
 Dafür kannst du dich <b>bis spätestens Freitag, 18. Oktober </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
 Die Bewerbungsfrist für den Einzug im Januar 2024 ist leider schon vorbei.
 Der nächstmögliche Einzugstermin ist der 1. April 2025.
-Dafür kannst du dich ab Ende Dezember über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+<!-- Dafür kannst du dich ab Ende Dezember über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
+Dafür kannst du dich <b>bis spätestens Sonntag, 26. Januar </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. 
 <br><br>
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
@@ -74,14 +75,14 @@ Prozess bist, sag uns gerne Bescheid!
 
 So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
-<!-- <div class="buttons is-centered">
+<div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Bewerbungsbogen</span>
     </a>
-</div> -->
+</div>
 
 1. Du schickst uns deinen ausgefüllten Bewerbungsbogen zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. <!-- Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. -->
 2. Wir lesen die eingehenden Bewerbungen. Alle Bewerber\*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber\*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.
