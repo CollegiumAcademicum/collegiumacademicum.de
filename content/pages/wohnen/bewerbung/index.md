@@ -12,7 +12,7 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
 Für den Einzug im Januar 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. April 2025.</b> <!-- Ab Ende Dezember wirst du hier an dieser Stelle unser Bewerbungsformular finden. -->
 Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p>
 
-<!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p>
+<!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
 <h2>Allgemein</h2>
 <div class="field">
