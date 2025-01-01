@@ -154,6 +154,7 @@ Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis s
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
     </div>
+</div>
 <div class="field">
     <label class="label" for="rooms_in_altbau">In unserem Altbau werden voraussichtlich auch Zimmer frei werden. Diese sind je nach Größe bepreist und werden befristet vermietet. Weitere Informationen dazu findest du auch auf unserer Website unter Befristete Zimmer. Hast du, sollte es mit der Bewerbung für den Neubau nicht klappen, auch Interesse an diesen Zimmern?</label>
     <div class="control">
