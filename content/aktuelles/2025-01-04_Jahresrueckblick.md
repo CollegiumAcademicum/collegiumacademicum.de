@@ -35,7 +35,7 @@ Im Oktober startete dann bereits der zweite Jahrgang, den wir sogar auf 22 Teiln
 * 15.05.2025, 19:00 Uhr
 * 12.06.2025, 19:00 Uhr
 
-Die Anmeldung geht ganz einfach per E-Mail an team@faltr.de. Und wer schon jetzt noch mehr Einblicke in das Orientierungsjahr falt\*r erhalten möchte, kann gerne dem Instagramkanal <a href="https://www.instagram.com/faltr_orientierungsjahr?igsh=c3c0dWVlZDk4Z3Uw"> @faltr_orientierungsjahr <a> folgen oder auf unserer Website <a href="faltr.de">www.faltr.de</a> vorbeischauen.</p> 
+Die Anmeldung geht ganz einfach per E-Mail an team@faltr.de. Und wer schon jetzt noch mehr Einblicke in das Orientierungsjahr falt\*r erhalten möchte, kann gerne dem Instagramkanal <a href="https://www.instagram.com/faltr_orientierungsjahr?igsh=c3c0dWVlZDk4Z3Uw">@faltr_orientierungsjahr</a> folgen oder auf unserer Website <a href="faltr.de">www.faltr.de</a> vorbeischauen.</p> 
 
 <h3>Der Förderverein sucht Unterstützung </h3>
 
