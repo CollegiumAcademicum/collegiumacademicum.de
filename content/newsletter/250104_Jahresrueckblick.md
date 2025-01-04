@@ -99,7 +99,7 @@ Noch ein wichtiger  Hinweis zum Schluss: Diese Tagung haben wir vor dem Sturz de
 <h1>Termine</h1>
 <br>
 
-* **10.01.2024, 22:00 bis 05:00 Uhr**: "Im Tunnel Party Vol. 2" in unserer Aula. Mit dabei sind DJ faey, DJ Schleusenputzer und DJ Mantarochen. Tickets gibt es bei <a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/">rausgegangen.de</a>.
+* **18.01.2024, 22:00 bis 05:00 Uhr**: "Im Tunnel Party Vol. 2" in unserer Aula. Mit dabei sind DJ faey, DJ Schleusenputzer und DJ Mantarochen. Tickets gibt es bei <a href="https://rausgegangen.de/locations/aula-des-collegium-academicum/">rausgegangen.de</a>.
 
 * **19.01.2025, 14:00 Uhr**: Öffentliche Führung durch unser Wohnheim. 
 Besichtigt werden sowohl der Neubau mit seiner Holzbauweise inklusive einer der WGs als auch die Gemeinschaftsräume des ökologisch sanierten Altbaus. Wir bitten um vorherige Anmeldung per Mail en <a href="mailto:exkursion@collegiumacademidum.de">exkursion@collegiumacademicum.de</a>.
