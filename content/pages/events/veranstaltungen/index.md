@@ -24,5 +24,5 @@ Datum | Veranstaltung
 -------- | -------- 
 So, 05.01. 9 Uhr | Aktionstreffen Studis gegen Rechts
 Sa, 18.01. 22 - 05 Uhr | Im Tunnel Party Vol. 2. Mit DJ faey, DJ Schleusenputzer und DJ Mantarochen. Tickets unter [rausgegangen.de](https://rausgegangen.de/organizations/collegium-academicum/).
-30.01., 19 Uhr | Nächster Online-Infoabend für das falt*r-Orientierungsjahr. Anmeldung per Mail an team@faltr.de.
+Do, 30.01., 19 Uhr | Nächster Online-Infoabend für das falt*r-Orientierungsjahr. Anmeldung per Mail an team@faltr.de.
 Sa, 25.01. und So, 26.01.2025  |  <a href="https://collegiumacademicum.de/rojava/">Tagung: Perspektive Rojava</a>
