@@ -22,9 +22,7 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Fr, 06.12. 19 Uhr | Forró-Tanzabend
-Sa, 07.12. 22-5 Uhr | Trashy TRANCE Techno-Rave (Tickets auf <a href="https://rausgegangen.de/events/trashy-trance-0/">rausgegangen.de</a>)
-Sa, 14.12. 14-18 Uhr | Palette und Prosecco - öffentliches Mal-Event
-So, 15.12. ab 17 Uhr | CAntine (Solidarische Küche für alle)
 So, 05.01. 9 Uhr | Aktionstreffen Studis gegen Rechts
+Sa, 18.01. 22 - 05 Uhr | Im Tunnel Party Vol. 2. Mit DJ faey, DJ Schleusenputzer und DJ Mantarochen. Tickets unter [rausgegangen.de](https://rausgegangen.de/organizations/collegium-academicum/).
+30.01., 19 Uhr | Nächster Online-Infoabend für das falt*r-Orientierungsjahr. Anmeldung per Mail an team@faltr.de.
 Sa, 25.01. und So, 26.01.2025  |  <a href="https://collegiumacademicum.de/rojava/">Tagung: Perspektive Rojava</a>
