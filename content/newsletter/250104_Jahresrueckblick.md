@@ -56,7 +56,7 @@ Auch ist der Förderverein als Pächter des ehemaligen Pförtnerhäuschens ein w
 Die Baugenehmigung für den geplanten Anbau wurde Ende Oktober erteilt. Auch hierbei legen wir großen Wert auf Nachhaltigkeit, weshalb wir beim Anbau ebenfalls auf eine Holzbauweise setzen, mit Stroh dämmen und mit Lehm verputzen. Um Kosten zu sparen setzen wir auch hier auf Eigenleistung durch die Projektgruppe und so haben wir den Großteil des Pförtnerhäuschens bereits ausgeräumt. 
 
 <figure>
-<img alt="Bild: Das Pförtnerhäuschen beim Radcheck im Sommer (&#169; Myriam Thürigen)" src="newsletter/Jahresrueckblick24/pfoertnerhaeuschen_(c)_myriam_thuerigen.jpg" width="100%" />
+<img alt="Bild: Das Pförtnerhäuschen beim Radcheck im Sommer (&#169; Myriam Thürigen)" src="/newsletter/Jahresrueckblick24/pfoertnerhaeuschen_(c)_myriam_thuerigen.jpg" width="100%" />
 <figcaption style="text-align:center;">
 <p> Bild: Das Pförtnerhäuschen beim Radcheck im Sommer (&#169; Myriam Thürigen)
 </p>
@@ -72,7 +72,7 @@ Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst ri
 <p>Zu Beginn des neuen Jahres laden wir Sie und Euch recht herzlich zu zweitägigen Tagung „Perspektive Rojava“ ein. Im Nordosten Syriens (auf kurdisch “Rojava”) entwickelt sich seit über 12 Jahren ein inspirierendes Experiment auf der Basis von Selbstbestimmung, Frauenbefreiung, Rätedemokratie sowie multiethnischem und multireligiösem Zusammenleben. Feminismus, Solidarität und Gerechtigkeit werden hier auf einzigartige Weise gelebt.</p>
 
 <figure>
-<img alt="Bild: Tagung Rojava (&#169; CA)" src="newsletter/Jahresrueckblick24/logo_rojava_tagung.png" width="100%" />
+<img alt="Bild: Tagung Rojava (&#169; CA)" src="/newsletter/Jahresrueckblick24/logo_rojava_tagung.png" width="100%" />
 <figcaption style="text-align:center;">
 <p> Bild: Tagung Rojava (&#169; CA)
 </p>
