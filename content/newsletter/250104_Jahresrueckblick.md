@@ -3,7 +3,7 @@ title: Jahresrückblick 2024 | Wohnprojekt Collegium Academidum
 date: 2024-12-31
 ---
 
-Liebe Unterstützer*innen, <br>
+<h2>Liebe Unterstützer*innen,</h2> <br>
 
 <p>ein weiteres Jahr geht zu Ende. Ein weiteres Jahr, in dem wir danke sagen wollen. Danke für Ihre und Eure Unterstützung, deshalb wollen wir nun gemeinsam auf all das zurückblicken, was wir im vergangenen Jahr erlebt haben. Das erwartet Sie und Euch in diesem Newsletter:</p>
 <br>
@@ -55,6 +55,14 @@ Daneben sind wie immer auch einmalige Spenden sehr willkommen! Neuerdings sind S
 Auch ist der Förderverein als Pächter des ehemaligen Pförtnerhäuschens ein wichtiger Unterstützer bei dessen Umbau zu einem „Offenen Treffpunkt“. Neben Büroräumen soll dort Raum für Begegnung, zum Beispiel in Form eines „Repair-Cafés“ entstehen.
 Die Baugenehmigung für den geplanten Anbau wurde Ende Oktober erteilt. Auch hierbei legen wir großen Wert auf Nachhaltigkeit, weshalb wir beim Anbau ebenfalls auf eine Holzbauweise setzen, mit Stroh dämmen und mit Lehm verputzen. Um Kosten zu sparen setzen wir auch hier auf Eigenleistung durch die Projektgruppe und so haben wir den Großteil des Pförtnerhäuschens bereits ausgeräumt. 
 
+<figure>
+<img alt="Bild: Das Pförtnerhäuschen beim Radcheck im Sommer (&#169; Myriam Thürigen)" src="newsletter/Jahresrueckblick24/pfoertnerhaeuschen_(c)_myriam_thuerigen.jpg" width="100%" />
+<figcaption style="text-align:center;">
+<p> Bild: Das Pförtnerhäuschen beim Radcheck im Sommer (&#169; Myriam Thürigen)
+</p>
+</figcaption>
+</figure>
+
 <h1>Sommer voller Freude: Mit Sommerfest zur Fertigstellung des Altbaus</h1>
 
 Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst richtig los gehen, konnten wir die Sanierung des Altbaus 2024 abschließen. Neben den Zimmern für das Orientierungsjahr konnte dort Wohnungen für den sozialen Wohnungsbau und weitere WGs bezogen werden. Dies wurde im September mit einem großen Sommerfest gefeiert. Gemeinsam mit allen Beteiligten und Interessierten blickten wir zurück auf die vielen Höhen und Tiefen der Planung und des Umbaus und freuten uns über das neue Leben, das mit den Bewohner\*innen in das alte Gebäude eingezogen ist. Neben Führungen durch den Altbau sorgten Livemusik, Kinderschminken und verschiedenen Aktionsstände für einen lebendigen Sommernachmittag, den wir gemeinsam mit unseren Nachbar\*innen und Freund\*innen des Projektes genießen konnten. 
@@ -62,6 +70,15 @@ Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst ri
 <h1>„Perspektive Rojava“ – Herzliche Einladung zur Tagung am 25. & 26.01</h1>
 <br>
 <p>Zu Beginn des neuen Jahres laden wir Sie und Euch recht herzlich zu zweitägigen Tagung „Perspektive Rojava“ ein. Im Nordosten Syriens (auf kurdisch “Rojava”) entwickelt sich seit über 12 Jahren ein inspirierendes Experiment auf der Basis von Selbstbestimmung, Frauenbefreiung, Rätedemokratie sowie multiethnischem und multireligiösem Zusammenleben. Feminismus, Solidarität und Gerechtigkeit werden hier auf einzigartige Weise gelebt.</p>
+
+<figure>
+<img alt="Bild: Tagung Rojava (&#169; CA)" src="newsletter/Jahresrueckblick24/logo_rojava_tagung.png" width="100%" />
+<figcaption style="text-align:center;">
+<p> Bild: Tagung Rojava (&#169; CA)
+</p>
+</figcaption>
+</figure>
+
 <p>Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, wollen wir im Rahmen einer anderthalbtägigen Konferenz in unserer Aula näher betrachten und diskutieren. Sie und Euch erwarten  viele verschiedne Vorträge, Workshops & Diskussionen rund um die Region Rojava.<br>
 Mit einer Vielzahl an Gäst*innen aus Politik, Aktivismus und Wissenschaft wollen wir über Perspektiven auf Frauenbefreiung, Demokratie, Frieden und Sicherheit austauschen.
 <p><b>Alle Gäst*innen sowie das Programm der Tagung und den Link zur Anmeldung</b> finden sich auf unserer Website unter <a href="collegiumacademicum.de/rojava">collegiumacademidum.de/rojava</a>.</p>  
@@ -69,6 +86,15 @@ Mit einer Vielzahl an Gäst*innen aus Politik, Aktivismus und Wissenschaft wolle
 Für Interessierte, die von weiter weg anreisen, bieten wir Schlafplätze an. Bei Bedarf schreibe uns bitte eine E-Mail an <a href="mailto:bildung@collegiumacademicum.de">bildung@collegiumacademidum.de</a>.
 
 Noch ein wichtiger  Hinweis zum Schluss: Diese Tagung haben wir vor dem Sturz des Assad-Regimes vorbereitet. Auch wir sind überrascht und bewegt von den aktuellen Entwicklungen in Syrien. Wir denken jedoch, dass jetzt mehr denn je Zeit ist, über Nord- und Ost-Syrien und die dortigen Selbstverwaltungsstrukturen zu sprechen. Wir werden demnach auch die aktuellen Entwicklungen näher beleuchten und besprechen.
+
+<div style="display: flex; flex-wrap: wrap; margin: 0 auto; justify-content: center;">
+        <img src="/newsletter/Jahresrueckblick24/Logo_HD.png" alt="Logo Stadt Heidelberg" style="width: 30%; height: 200px; object-fit: contain; margin: 5px;">
+        <img src="/newsletter/Jahresrueckblick24/Logo_RLS_BW_dtLogo_WarmRed5.jpg" alt="Logo Rosa Luxemburg Stiftung Baden-Württemberg" style="width: 30%; height: 200px; object-fit: contain; margin: 5px;">
+        <img src="/newsletter/Jahresrueckblick24/Logo_CA2.png" alt="Logo CA" style="width: 30%; height: 200px; object-fit: contain; margin: 5px;">
+        <figcaption style="text-align:center;">
+        Gefördert durch die Stadt Heidelberg und die Rosa Luxemburg Stiftung Baden-Württemberg, veranstaltet vom Förderverein Collegium Academicum Heidelberg e.V. und von Mitgliedern der Projektgruppe des CA
+        </figcaption>
+</div>
 
 <h1>Termine</h1>
 <br>
