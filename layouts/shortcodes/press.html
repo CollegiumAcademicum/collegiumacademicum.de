@@ -1,26 +1,31 @@
+{{ $press := $.Site.Data.bibliography.press.press }}
+{{ $years := slice "2025" "2024" "2023" "2022" "2021" "2020" "2019" "2018" "2017" "2016" "2015" "2013" "2010" "2009" "1998" "1996"}}
+{{ range $year := $years }}
+<h3>{{ $year }}</h3>
 <ul class="citation-list">
-{{ range $.Site.Data.bibliography.press.press }}
-    <li>
-        <time>{{ .date }}</time>
-        <span>
-        {{ if isset . "link" }}<a href="{{ .link }}">{{ .title }}</a>
-        {{ else }}{{ .title }}{{ end }}
-        </span>
-        <cite>{{ .source }}</cite>
-        {{ if isset . "audio" }}
-        <audio controls>
-            <source src="/audio/{{ .audio }}">
-            Your browser does not support the audio element
-        </audio>
-		{{ else if isset . "video" }}
-		<video controls poster="/media/{{ .video }}.jpg" src="/media/{{ .video }}.webm">
-			<source src="/media/{{ .video }}.webm" type="video/webm">
-			<source src="/media/{{ .video }}.mp4" type="video/mp4">
-		</video>
-		{{ else if isset . "embed_link" }}
-		<iframe src="{{ .embed_link }}" frameborder="0" allowfullscreen="true">
-		</iframe>
-        {{ end }}
-    </li>
+    {{ range where $press "year" $year }}
+        <li>
+            <time>{{ .date }}</time>
+            <span>
+            {{ if isset . "link" }}<a href="{{ .link }}">{{ .title }}</a>
+            {{ else }}{{ .title }}{{ end }}
+            </span>
+            <cite>{{ .source }}</cite>
+            {{ if isset . "audio" }}
+            <audio controls>
+                <source src="/audio/{{ .audio }}">
+                Your browser does not support the audio element
+            </audio>
+            {{ else if isset . "video" }}
+            <video controls poster="/media/{{ .video }}.jpg" src="/media/{{ .video }}.webm">
+                <source src="/media/{{ .video }}.webm" type="video/webm">
+                <source src="/media/{{ .video }}.mp4" type="video/mp4">
+            </video>
+            {{ else if isset . "embed_link" }}
+            <iframe src="{{ .embed_link }}" frameborder="0" allowfullscreen="true">
+            </iframe>
+            {{ end }}
+        </li>
+    {{ end }}
+    </ul>
 {{ end }}
-</ul>
