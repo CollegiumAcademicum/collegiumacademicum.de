@@ -1,5 +1,9 @@
+{{ $press := $.Site.Data.bibliography.press_highlights.press }}
+{{ $years := slice "2024" "2023" "2022" "2021" "2020" "2019" "2018"}}
+{{ range $year := $years }}
+<h3>{{ $year }}</h3>
 <ul class="citation-list">
-{{ range $.Site.Data.bibliography.press_highlights.press }}
+    {{ range where $press "year" $year }}
     <li>
         <time>{{ .date }}</time>
         <span>
@@ -24,3 +28,4 @@
     </li>
 {{ end }}
 </ul>
+{{ end }}
