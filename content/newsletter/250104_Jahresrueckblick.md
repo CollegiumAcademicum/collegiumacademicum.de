@@ -37,6 +37,7 @@ Das Highlight des ersten Jahrgangs war sicherlich die Berlinfahrt im Sommer, bei
 </p>
 </figcaption>
 </figure>
+<br>
 
 Im Oktober startete dann bereits der zweite Jahrgang, den wir sogar auf 22 Teilnehmer*innen ausweiten konnten. Es ist der erste Jahrgang, der die ganzen angedachten 10 Monate absolviert. Die Teilnehmenden interessieren sich sehr für verschiedene Studiengänge und Ausbildungswege an Heidelberger Hochschulen und Ausbildungsstätten und sie schwärmen sehr von ihrer WG-Gemeinschaft. Ab Februar haben sie knapp zwei Monate „falt\*r-Zeit“ zu ihrer freien Verfügung für Reisen, Praktika, etc.
 
@@ -66,9 +67,9 @@ Auch ist der Förderverein als Pächter des ehemaligen Pförtnerhäuschens ein w
 Die Baugenehmigung für den geplanten Anbau wurde Ende Oktober erteilt. Auch hierbei legen wir großen Wert auf Nachhaltigkeit, weshalb wir beim Anbau ebenfalls auf eine Holzbauweise setzen, mit Stroh dämmen und mit Lehm verputzen. Um Kosten zu sparen setzen wir auch hier auf Eigenleistung durch die Projektgruppe und so haben wir den Großteil des Pförtnerhäuschens bereits ausgeräumt. 
 
 <figure>
-<img alt="Unser Pförtnerhäushen - Ab 2025 im Umbau (&#169; Myriam Thürigen)" src="/newsletter/Jahresrueckblick24/pfoertnerhaeuschen_(c)_myriam_thuerigen.jpg" width="100%" />
+<img alt="Unser Pförtnerhäuschen - Ab 2025 im Umbau (&#169; Myriam Thürigen)" src="/newsletter/Jahresrueckblick24/pfoertnerhaeuschen_(c)_myriam_thuerigen.jpg" width="100%" />
 <figcaption style="text-align:center;">
-<p> Unser Pförtnerhäushen - Ab 2025 im Umbau (&#169; Myriam Thürigen)
+<p> Unser Pförtnerhäuschen - Ab 2025 im Umbau (&#169; Myriam Thürigen)
 </p>
 </figcaption>
 </figure>
@@ -84,12 +85,26 @@ Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst ri
 </figcaption>
 </figure>
 
+<h1>Weitere Unterstützung durch Direktkredite gesucht</h1>
+
+Auch wenn die Bauarbeiten an unserem Altbau abgeschlossen sind, suchen wir weiterhin dringend Unterstützung in Form von <b>Direktkrediten</b>. Diese nachrangigen Darlehen sind das Herzstück unserer Finanzierung und daher für unser Projekt enorm wichtig! Statt von einem großen Kredit abhängig zu sein, verteilen wir unsere Finanzierung auf viele Schultern. Durch den Abschluss eines Vertrages mit der Collegium Academicum GmbH legen Sie als Direktkreditgeber fest, wie lange und zu welchem Zinssatz Sie uns Geld in Form eines Nachrangdarlehens geben wollen. Das ist schon ab 1000 € (für Auszubildende und Studierende ab 500€) möglich. Nach Ablauf der vereinbarten Laufzeit erhalten Sie Ihr Geld inklusive der Vereinbarten Zinsen zurück. So lange dient uns Ihr Geld als Eigenkapitalersatz gegenüber der Bank.<br>
+<br>
+Dabei bauen wir auf viele einzelne Darlehensgeber\*innen, denn viele kleine Direktkredite sind nach der Rückzahlung einfacher durch neue zu ersetzen als ein Direktkredit mit einer großen Summe.<br>
+<br>
+Sie unterstützen mit Ihrem Geld ein nachhaltiges und innovatives Projekt direkt vor Ort und können sich jederzeit selbst davon überzeugen, was mit Ihrem Geld passiert.<br>
+<br>
+Über Direktkredite konnten wir bereits über 4,5 Mio. € von mehr als 600 Personen einwerben.<br>
+<br>
+Wenn Sie Interesse daran haben, uns mit einem (weiteren) Direktkredit zu unterstützen, schauen Sie auf unserer Website unter <a href="https://collegiumacademicum.de/direktkredite/">collegiumacademicum.de/direktkredite</a> vorbei oder schreiben Sie uns eine E-Mail an <a href="mailto:direktkredite@collegiumacademicum.de">direktkredite@collegiumacademicum.de</a>.<br>
+<br>
+Wir feuen uns über jede Unterstützung!
+
 <h1>„Perspektive Rojava“ – Herzliche Einladung zur Tagung am 25. & 26.01</h1>
 <br>
 <p>Zu Beginn des neuen Jahres laden wir Sie und Euch recht herzlich zu zweitägigen Tagung „Perspektive Rojava“ ein. Im Nordosten Syriens (auf kurdisch “Rojava”) entwickelt sich seit über 12 Jahren ein inspirierendes Experiment auf der Basis von Selbstbestimmung, Frauenbefreiung, Rätedemokratie sowie multiethnischem und multireligiösem Zusammenleben. Feminismus, Solidarität und Gerechtigkeit werden hier auf einzigartige Weise gelebt.</p>
 
 <figure>
-<img alt="Tagung Rojava (&#169; CA)" src="/newsletter/Jahresrueckblick24/logo_rojava_tagung.png" width="100%" />
+<img alt="Logo zur Tagung Rojava (&#169; CA)" src="/newsletter/Jahresrueckblick24/logo_rojava_tagung.png" width="100%" />
 <figcaption style="text-align:center;">
 <p>Tagung "Perspektive Rojava" am 25. & 26.01 im CA
 </p>
