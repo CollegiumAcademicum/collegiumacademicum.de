@@ -23,7 +23,7 @@ date: 2024-12-31
 * Termine
 
 
-<h1>Gemeinsam Orientierung geben – Erster Jahrgang des Orientierungsjahres falt\*r erfolgreich durchgeführt</h1>
+<h1>Gemeinsam Orientierung geben – Erster Jahrgang des Orientierungsjahres falt*r erfolgreich durchgeführt</h1>
 <br>
 
 Mit dem Jahr 2024 begann auch der erste Jahrgang unseres Orientierungsjahres falt\*r. Ganze 11 junge Menschen konnten sich - mit Unterstützung unseres pädagogischen Begleitteams - auf die spannende Suche nach ihrem ganz eigenen Berufs- und Lebensweg machen. Gemeinsam wurden verschiedene Workshops zu Themen wie „Gesundheitsberufe“, „Nachhaltig reisen“ oder „künstlerische und musikalische Berufe“ veranstaltet und besucht. Dank einer Kooperation mit der pädagogischen Hochschule Heidelberg konnten die Teilnehmenden in Seminaren und Vorlesungen erste Hochschulluft schnuppern. Bei den wöchentlich stattfindenden Lebenswegeabenden erzählten interessante Persönlichkeiten von ihren Werdegängen. Dabei waren zum Beispiel die Journalistin Nicole Pollakowsky, die Sozial- und Umweltpsychologin Lenelis Kruse-Graumann oder die Autorin und Direktorin der European Coalition of Cities against Racism (ECAR), Evein Obulor. Vielen Dank an alle, die unsere Teilnehmenden mit ihren Lebensläufen inspiriert und ermutigt haben! 
@@ -87,7 +87,7 @@ Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst ri
 
 <h1>Weitere Unterstützung durch Direktkredite gesucht</h1>
 
-Auch wenn die Bauarbeiten an unserem Altbau abgeschlossen sind, suchen wir weiterhin dringend Unterstützung in Form von <b>Direktkrediten</b>. Diese nachrangigen Darlehen sind das Herzstück unserer Finanzierung und daher für unser Projekt enorm wichtig! Statt von einem großen Kredit abhängig zu sein, verteilen wir unsere Finanzierung auf viele Schultern. Durch den Abschluss eines Vertrages mit der Collegium Academicum GmbH legen Sie als Direktkreditgeber fest, wie lange und zu welchem Zinssatz Sie uns Geld in Form eines Nachrangdarlehens geben wollen. Das ist schon ab 1000 € (für Auszubildende und Studierende ab 500€) möglich. Nach Ablauf der vereinbarten Laufzeit erhalten Sie Ihr Geld inklusive der Vereinbarten Zinsen zurück. So lange dient uns Ihr Geld als Eigenkapitalersatz gegenüber der Bank.<br>
+Auch wenn die Bauarbeiten an unserem Altbau abgeschlossen sind, suchen wir weiterhin dringend Unterstützung in Form von <b>Direktkrediten</b>. Diese nachrangigen Darlehen sind das Herzstück unserer Finanzierung und daher für unser Projekt enorm wichtig! Statt von einem großen Kredit abhängig zu sein, verteilen wir unsere Finanzierung auf viele Schultern. Durch den Abschluss eines Vertrages mit der Collegium Academicum GmbH legen Sie als Direktkreditgeber fest, wie lange und zu welchem Zinssatz Sie uns Geld in Form eines Nachrangdarlehens geben wollen. Das ist schon ab 1000 € (für Auszubildende und Studierende ab 500 €) möglich. Nach Ablauf der vereinbarten Laufzeit erhalten Sie Ihr Geld inklusive der Vereinbarten Zinsen zurück. So lange dient uns Ihr Geld als Eigenkapitalersatz gegenüber der Bank.<br>
 <br>
 Dabei bauen wir auf viele einzelne Darlehensgeber\*innen, denn viele kleine Direktkredite sind nach der Rückzahlung einfacher durch neue zu ersetzen als ein Direktkredit mit einer großen Summe.<br>
 <br>
@@ -111,16 +111,10 @@ Wir feuen uns über jede Unterstützung!
 </figcaption>
 </figure>
 
-<a href="https://www.instagram.com/tagungrojava/">
-        <span class="icon">
-            <i class="icon-instagram"></i>
-        </span>
-        <span>Instagram</span>
-   </a>
 
 <p>Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, wollen wir im Rahmen einer anderthalbtägigen Konferenz in unserer Aula näher betrachten und diskutieren. Sie und Euch erwarten  viele verschiedne Vorträge, Workshops & Diskussionen rund um die Region Rojava.<br>
 Mit einer Vielzahl an Gäst*innen aus Politik, Aktivismus und Wissenschaft wollen wir über Perspektiven auf Frauenbefreiung, Demokratie, Frieden und Sicherheit austauschen.
-<p><b>Alle Gäst*innen sowie das Programm der Tagung und den Link zur Anmeldung</b> finden sich auf unserer Website unter <a href="collegiumacademicum.de/rojava">collegiumacademicum.de/rojava</a>.</p>  
+<p><b>Alle Gäst*innen sowie das Programm der Tagung und den Link zur Anmeldung</b> finden sich auf unserer Website unter <a href="collegiumacademicum.de/rojava">collegiumacademicum.de/rojava</a>. Updates und Einblicke gibt es außerdem auf <a href="https://www.instagram.com/tagungrojava/">Instagram</a>.</p>  
 
 Für Interessierte, die von weiter weg anreisen, bieten wir Schlafplätze an. Bei Bedarf schreibe uns bitte eine E-Mail an <a href="mailto:bildung@collegiumacademicum.de">bildung@collegiumacademicum.de</a>.
 
