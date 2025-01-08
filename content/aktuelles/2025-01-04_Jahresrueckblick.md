@@ -85,7 +85,7 @@ Während die Arbeiten am ehemaligen Pförtnerhäuschen im kommenden Jahr erst ri
 
 <h3>Weitere Unterstützung durch Direktkredite gesucht</h3>
 
-Auch wenn die Bauarbeiten an unserem Altbau abgeschlossen sind, suchen wir weiterhin dringend Unterstützung in Form von <b>Direktkrediten</b>. Diese nachrangigen Darlehen sind das Herzstück unserer Finanzierung und daher für unser Projekt enorm wichtig! Statt von einem großen Kredit abhängig zu sein, verteilen wir unsere Finanzierung auf viele Schultern. Durch den Abschluss eines Vertrages mit der Collegium Academicum GmbH legen Sie als Direktkreditgeber fest, wie lange und zu welchem Zinssatz Sie uns Geld in Form eines Nachrangdarlehens geben wollen. Das ist schon ab 1000 € (für Auszubildende und Studierende ab 500€) möglich. Nach Ablauf der vereinbarten Laufzeit erhalten Sie Ihr Geld inklusive der Vereinbarten Zinsen zurück. So lange dient uns Ihr Geld als Eigenkapitalersatz gegenüber der Bank.<br>
+Auch wenn die Bauarbeiten an unserem Altbau abgeschlossen sind, suchen wir weiterhin dringend Unterstützung in Form von <b>Direktkrediten</b>. Diese nachrangigen Darlehen sind das Herzstück unserer Finanzierung und daher für unser Projekt enorm wichtig! Statt von einem großen Kredit abhängig zu sein, verteilen wir unsere Finanzierung auf viele Schultern. Durch den Abschluss eines Vertrages mit der Collegium Academicum GmbH legen Sie als Direktkreditgeber fest, wie lange und zu welchem Zinssatz Sie uns Geld in Form eines Nachrangdarlehens geben wollen. Das ist schon ab 1000 € (für Auszubildende und Studierende ab 500 €) möglich. Nach Ablauf der vereinbarten Laufzeit erhalten Sie Ihr Geld inklusive der Vereinbarten Zinsen zurück. So lange dient uns Ihr Geld als Eigenkapitalersatz gegenüber der Bank.<br>
 <br>
 Dabei bauen wir auf viele einzelne Darlehensgeber\*innen, denn viele kleine Direktkredite sind nach der Rückzahlung einfacher durch neue zu ersetzen als ein Direktkredit mit einer großen Summe.<br>
 <br>
@@ -114,11 +114,11 @@ Wir feuen uns über jede Unterstützung!
         </span>
         <span>Instagram</span>
    </a>
-
+<br>
 <br>
 <p>Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, wollen wir im Rahmen einer anderthalbtägigen Konferenz in unserer Aula näher betrachten und diskutieren. Sie und Euch erwarten  viele verschiedne Vorträge, Workshops & Diskussionen rund um die Region Rojava.<br>
 Mit einer Vielzahl an Gäst*innen aus Politik, Aktivismus und Wissenschaft wollen wir über Perspektiven auf Frauenbefreiung, Demokratie, Frieden und Sicherheit austauschen.
-<p><b>Alle Gäst*innen sowie das Programm der Tagung und den Link zur Anmeldung</b> finden sich auf unserer Website unter <a href="collegiumacademicum.de/rojava">collegiumacademicum.de/rojava</a>.</p>  
+<p><b>Alle Gäst*innen sowie das Programm der Tagung und den Link zur Anmeldung</b> finden sich auf unserer Website unter <a href="collegiumacademicum.de/rojava">collegiumacademicum.de/rojava</a>. Updates und Einblicke gibt es außerdem auf <a href="https://www.instagram.com/tagungrojava/">Instagram</a>.</p>  
 
 Für Interessierte, die von weiter weg anreisen, bieten wir Schlafplätze an. Bei Bedarf schreibe uns bitte eine E-Mail an <a href="mailto:bildung@collegiumacademicum.de">bildung@collegiumacademicum.de</a>.
 
