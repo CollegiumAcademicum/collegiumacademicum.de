@@ -92,7 +92,7 @@ Samstag, 25.01.2025
 - Was kann Demokratie bedeuten? Ein Impulsvortrag über die demokratischen Strukturen in Rojava und den Schattierungen und der Vielfalt demokratischer Lebensweisen anhand dieses Beispiels. Im Zentrum steht die Idee des demokratischen Konföderalismus (mit <b>Müslüm Örtülü</b>).
 
 <b>15:30 Uhr</b>: Workshops
-- Eine Vielzahl an Denkwerkstätten erwartet uns: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus werden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga</b>). 
+- Eine Vielzahl an Denkwerkstätten erwartet uns: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus werden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga, Anja Flach</b>). 
 
 <b>17:00 Uhr</b>: Pause
 - Kleine Pause mit Kaffee und Kuchen.
@@ -102,7 +102,9 @@ Samstag, 25.01.2025
 </figure>
 
 <b>17:30 Uhr</b>: Perspektive Frieden
-- Mit Gäst\*innen aus Deutschland und Kurdistan wollen wir über Krieg und Frieden reden. Wie steht es heute mit dem Kampf gegen den IS? Was ist die Rolle der Türkei, des Assad-Regimes, der Syrischen Demokratischen Kräfte sowie der Regional- und Großmächte in den aktuellen Auseinandersetzungen? Führt die Türkei einen Drohnenkrieg und einen Wasserkrieg gegen Zivilist\*innen in Nordost-Syrien? Was ist die Rolle und Verantwortung Deutschlands in der Region? Wie kann Solidarität mit der Zivilbevölkerung gelingen? Was braucht es für den Frieden in Rojava? Viele Fragen, eine spannende Podiumsbesetzung und hoffentlich auch ein paar Antworten, um den ersten Tag inhaltlich abzuschließen (<b>mit Leyla Îmret, Max Lucks, Gökay Akbulut und Sara Stachelhaus</b>).
+- <b>Salih Muslim</b>, führender Vertreter der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und eine der zentralen Stimmen Rojavas, wird per Videoanruf zugeschaltet. Er wird aus erster Hand über die Entwicklungen, Herausforderungen und Visionen aus Nord- und Ost-Syrien berichten.
+
+- In unserem direkt anschließenden Diskussionspanel mit Gäst\*innen aus Deutschland und Kurdistan wollen wir über Krieg und Frieden reden. Wie ist die Situation nach dem Sturz des Assad-Regimes? Wer sind die Akteure in den aktuellen Auseinandersetzungen und welche Interessen verfolgen sie? Welche Rolle und Verantwortung hat Deutschland? Und vor allem: Wie kann Solidarität mit der Zivilbevölkerung gelingen, was braucht es für den Frieden und welche demokratischen Lösungsperspektiven gibt es? (<b>mit Leyla Îmret, MdB Max Lucks, MdB Gökay Akbulut und Sara Stachelhaus</b>).
 
 <b>19:30 Uhr</b>: gemeinsames Abendessen und Kulturprogramm
 - Wir lassen den Tag gemeinsam in einem lockeren Rahmen ausklingen. Es erwarten uns ein selbstgekochtes Abendessen, ein kurdisch-anatolisches Kulturprogramm und natürlich Einblicke in das selbstorganisierte Wohnen und Feiern im CA!
@@ -130,6 +132,13 @@ Sonntag, 26.01.2025
 - In einem gemeinsamen Abschluss und mit einem Keynote-Vortrag wollen wir noch einmal zentrale Erkenntnisse und Diskussionspunkte der Tagung hervorheben (mit einem Überraschungsgast).
 
 </div>
+
+<h3>Ausstellung: Jin Jiyan Azadî – die Errungenschaften der Frauenrevolution</h3>
+
+Die Ausstellung <a href="https://womendefendrojava.net/de/ausstellung-jin-jiyan-azadi-die-errungenschaften-der-frauenrevolution/
+">„Jin Jiyan Azadî – die Errungenschaften der Frauenrevolution“</a> wurde zusammen von Kongra Star (Nord- und Ostsyrien), dem Europakomitee der Stiftung der Freien Frauen Syriens (WJAS) und Women Defend Rojava erarbeitet. Sie wirft mit ihren aussagekräftigen Bildern und Texten einen Blick in die verschiedenen Lebensbereiche, in denen die Frauen der Region ihre selbst verwalteten Strukturen aufgebaut haben. Mit Blick auf 13 Themen erzählen insgesamt 26 Stoffbanner durch kurze, prägnante Texte und großformatige Fotos vom Leben und Wirken der Frauen. 
+
+
 
 <h3>Unsere Gäst*innen</h3>
 
@@ -172,6 +181,10 @@ Ayten Kaplan ist Sprecherin des bundesweiten Verbandes der Frauen aus Kurdistan 
 
 {{< accordion "Max Lucks" >}}
 Max Lucks ist ein deutscher Politiker, ehemals Sprecher der Grünen Jugend und seit 2021 Mitglied des Deutschen Bundestages für die Partei Bündnis 90/Die Grünen. Er arbeitet im Ausschuss für Menschenrechte und Humanitäre Hilfe. Max Lucks engagierte sich für die Anerkennung des Genozids an den Jesid\*innen durch den IS sowie gegen die Abschiebung von Jesid\*innen aus Deutschland und bereiste 2024 den irakischen Kurdistan.
+{{< /accordion >}}
+
+{{< accordion "Salih Muslim" >}}
+Salih Muslim ist ein kurdisch-syrischer Politiker. Er war an den Friedensgesprächen zwischen der PKK und der türkischen Regierung zwischen 2012 und 2015 beteiligt, bevor die AKP die Gespräche 2015 einseitig beendete. Von Juni 2022 bis September 2024 war er Ko-Vorsitzender der kurdischen Partei PYD in Syrien. Salih Muslim arbeitet für die Außenvertretung der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und ist eine führende Stimme aus der Demokratischen Selbstverwaltung in Nord und Ost-Syrien.
 {{< /accordion >}}
 
 {{< accordion "Müslüm Örtülü" >}}
