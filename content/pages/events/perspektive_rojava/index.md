@@ -92,7 +92,7 @@ Samstag, 25.01.2025
 - Was kann Demokratie bedeuten? Ein Impulsvortrag über die demokratischen Strukturen in Rojava und den Schattierungen und der Vielfalt demokratischer Lebensweisen anhand dieses Beispiels. Im Zentrum steht die Idee des demokratischen Konföderalismus (mit <b>Müslüm Örtülü</b>).
 
 <b>15:30 Uhr</b>: Workshops
-- Eine Vielzahl an Denkwerkstätten erwartet uns: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus werden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga, Anja Flach</b>). 
+- Eine Vielzahl an Denkwerkstätten erwartet uns: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus werden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga, Anja Flach, Jineolojî Netzwerk Deutschland, Women Defend Rojava</b>). 
 
 <b>17:00 Uhr</b>: Pause
 - Kleine Pause mit Kaffee und Kuchen.
@@ -184,7 +184,7 @@ Max Lucks ist ein deutscher Politiker, ehemals Sprecher der Grünen Jugend und s
 {{< /accordion >}}
 
 {{< accordion "Salih Muslim" >}}
-Salih Muslim ist ein kurdisch-syrischer Politiker. Er war an den Friedensgesprächen zwischen der PKK und der türkischen Regierung zwischen 2012 und 2015 beteiligt, bevor die AKP die Gespräche 2015 einseitig beendete. Von Juni 2022 bis September 2024 war er Ko-Vorsitzender der kurdischen Partei PYD in Syrien. Salih Muslim arbeitet für die Außenvertretung der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und ist eine führende Stimme aus der Demokratischen Selbstverwaltung in Nord und Ost-Syrien.
+Salih Muslim ist ein kurdisch-syrischer Politiker. Von Juni 2022 bis September 2024 war er Co-Vorsitzender der kurdischen Partei PYD in Syrien. Salih Muslim arbeitet für die Außenvertretung der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und ist eine führende Stimme aus der Demokratischen Selbstverwaltung in Nord und Ost-Syrien.
 {{< /accordion >}}
 
 {{< accordion "Müslüm Örtülü" >}}
