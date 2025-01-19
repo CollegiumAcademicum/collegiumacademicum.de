@@ -5,7 +5,9 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
-<b>Du hast Interesse an einem befristeten Zimmer ab April 2025? Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter "Wohnheim" und gib dort in der entsprechenden Zeile an, dass du (nur) an befristeten Zimmern im Altbau interessiert bist. Wir freuen uns auf dich!</b>
+<div class="notification is-primary">
+Du hast Interesse an einem befristeten Zimmer ab April 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an befristeten Zimmern im Altbau interessiert bist. <b>Wir freuen uns auf dich!
+</div>
 <!--<b>Aktuell nehmen wir keine weiteren Bewerbungen entgegen.</b>-->
 
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
