@@ -1,8 +1,7 @@
-
 ---
 title: "Die erste Mitgliederversammlung, unser zweites Richtfest und über 300.000 € weitere Direktkredite"
 date: 2023-05-14
----﻿
+---
 
 ## Liebe Unterstützer:innen,
 
