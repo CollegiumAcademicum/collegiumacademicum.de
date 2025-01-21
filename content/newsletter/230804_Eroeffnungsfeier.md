@@ -1,8 +1,7 @@
-
 ---
 title: "Newsletter zur Eröffnungsfeier des CA am 14.07.2023"
 date: 2023-08-04
----﻿
+---
 
 <figure>
 <img alt="Ein Gruppenfoto in unserem Neubau nach der Veranstaltung.
