@@ -1,8 +1,7 @@
-
 ---
 title: "Newsletter mit Jahresrückblick des CA"
 date: 2024-01-14
----﻿
+---
 
 ## Liebe Unterstützer:innen,
 
