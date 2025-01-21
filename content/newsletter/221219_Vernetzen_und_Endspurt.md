@@ -1,7 +1,7 @@
 ---
 title: "Vernetzen und Endspurt im Neubau"
 date: 2022-12-19
----﻿
+---
 
 Liebe Unterstützer\*innen!
 

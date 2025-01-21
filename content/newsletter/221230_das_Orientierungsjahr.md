@@ -1,8 +1,7 @@
-
 ---
 title: "Das Orientierungsjahr entfaltet sich"
 date: 2022-12-30
----﻿
+---
 
 ## Liebe Unterstützer\*innen,
 
