@@ -5,8 +5,8 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
-<div class="notification is-primary">
-<!-- Du hast Interesse an einem befristeten Zimmer ab April 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an befristeten Zimmern im Altbau interessiert bist. <b>Wir freuen uns auf dich!
+<!-- <div class="notification is-primary">
+Du hast Interesse an einem befristeten Zimmer ab April 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an befristeten Zimmern im Altbau interessiert bist. <b>Wir freuen uns auf dich!
 </div> -->
 <b>Aktuell nehmen wir keine weiteren Bewerbungen für befristete Zimmer entgegen.</b>
 
