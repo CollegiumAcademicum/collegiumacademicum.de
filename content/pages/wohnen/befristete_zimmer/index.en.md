@@ -6,9 +6,9 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-You want to move into one of our temporarily available rooms in April 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a temporarily available room in the corresponding line.<br>We are looking forward to meeting you!
-</div>
-<!-- <b>We are currently not accepting any further applications.</b> -->
+<!-- You want to move into one of our temporarily available rooms in April 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a temporarily available room in the corresponding line.<br>We are looking forward to meeting you!
+</div> -->
+<b>We are currently not accepting any further applications for temporary rooms.</b>
 
 Would you like to get a taste of self-administration and live in a sustainable community? Then you've come to the right place here at the ecological and self-managed CA (Collegium Academicum) housing project.
     
