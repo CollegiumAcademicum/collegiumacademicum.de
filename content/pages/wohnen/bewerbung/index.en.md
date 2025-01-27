@@ -7,12 +7,12 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
-Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is April 1, 2025. <!-- If you would like to move in in April, you can apply here <b>until Friday, October 18, 2024</b> at the latest.</p> --> 
-Unfortunately, we can no longer accept applications for the move-in in January 2025. <b>The next possible move-in date is April 1, 2025.</b> From the end of December you will find our application form on this site. 
+Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). <!-- The next possible move-in date is April 1, 2025. If you would like to move in in April, you can apply here <b>until Friday, October 18, 2024</b> at the latest.</p> --> 
+Unfortunately, we can no longer accept applications for the move-in in April 2025. <b>The next possible move-in date is July 1, 2025.</b> From the end of April you will find our application form on this site. 
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
-<h2>General</h2>
+<!-- <h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -40,9 +40,9 @@ Unfortunately, we can no longer accept applications for the move-in in January 2
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -179,8 +179,8 @@ Unfortunately, we can no longer accept applications for the move-in in January 2
           <input type="hidden" name="language" value="en">
         <input type="submit" name="submit" value="Submit" class="button is-link" id="submit">
     </div>
-</div> 
+</div> -->
 
 <!-- {{< einziehen-signup >}}
 
-</form>
+</form> -->
