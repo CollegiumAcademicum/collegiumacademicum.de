@@ -9,12 +9,12 @@ novoigl: yes
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
 <!-- Der nächstmögliche Einzugstermin ist der 1. April 2025. Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 18. Oktober </b> hier dafür bewerben:</p> -->
-Für den Einzug im Januar 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. April 2025.</b> <!-- Ab Ende Dezember wirst du hier an dieser Stelle unser Bewerbungsformular finden. -->
-Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p>
+Für den Einzug im April 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Juli 2025.</b> Ab Ende April wirst du hier an dieser Stelle unser Bewerbungsformular finden.
+<!-- Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p> -->
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-<h2>Allgemein</h2>
+<!-- <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,9 +42,9 @@ Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis s
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -186,8 +186,8 @@ Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis s
           <input type="hidden" name="language" value="de">
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
-</div>
+</div> -->
 
-<!-- {{< einziehen-signup >}}
+<!-- {{< einziehen-signup >}} -->
 
 </form>
