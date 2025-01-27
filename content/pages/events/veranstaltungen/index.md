@@ -22,6 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Do, 30.01., 19 Uhr | Nächster Online-Infoabend für das falt*r-Orientierungsjahr. Anmeldung per Mail an team@faltr.de.
 Sa, 25.01. und So, 26.01.2025  |  <a href="https://collegiumacademicum.de/rojava/">Tagung: Perspektive Rojava</a> |
+Mi, 29.01., 19 Uhr | Nächster Online-Infoabend für das falt*r-Orientierungsjahr. Anmeldung per Mail an team@faltr.de.
 Sa, 01.02., 21 - 5 Uhr | m4ze x fæy★ present: <a href="https://rausgegangen.de/events/m4ze-x-fy-present-bday-edition-feat-hoch2-live-dj-phonky-sou-0/">BDAY-Edition</a> feat. hoch2 (live), DJ PHØNKY SOUL & callthefiredepartment
