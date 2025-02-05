@@ -22,8 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Sa, 01.02., 21 - 5 Uhr | m4ze x fæy★ present: <a href="https://rausgegangen.de/events/m4ze-x-fy-present-bday-edition-feat-hoch2-live-dj-phonky-sou-0/">BDAY-Edition</a> feat. hoch2 (live), DJ PHØNKY SOUL & callthefiredepartment
-Fr, 07.02., 18 Uhr | [Podiumsdiskussion zur Bundestagswahl](https://www.instagram.com/p/DFfiKsoNtb6/) (veranstaltet vom Stadtjugendring)
 Di, 11.02., 19 Uhr | [Sozialpsychologie zum Rechtspopulismus](https://www.gew-bw.de/veranstaltungen/detailseite/sozialpsychologie-des-rechtspopulismus) (Vortrag mit Dr. Alexander Neupert)
 Di, 18.02., 20 Uhr | "[Erinnern heißt verändern](https://erinnern-veraendern.de/#veranstaltungen)" - Poetry Slam zum Gedenken an die Ermordeten des rassistischen Anschlags in Hanau
 So, 23.02., 16 Uhr | Öffentliche Führung durch das CA
