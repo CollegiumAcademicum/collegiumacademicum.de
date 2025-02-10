@@ -154,6 +154,3 @@ The room sizes are listed below. Of course, the rent also includes the use of th
 |3.3.20|19,96 m<sup>2</sup>|€450|€530|
 |3.4.08|19,47 m<sup>2</sup>|€405|€485|
 |3.4.12|18,97 m<sup>2</sup>|€405|€485|
-|3.5.08| 9,99 m<sup>2</sup>|€310|€390|
-|3.5.09|14,33 m<sup>2</sup>|€420|€500|
-|3.5.11|14,63 m<sup>2</sup>|€420|€500|
