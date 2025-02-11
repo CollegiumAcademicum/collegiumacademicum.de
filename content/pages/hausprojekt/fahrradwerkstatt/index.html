@@ -1,0 +1,136 @@
+---
+title: "Abgefahrene Reifen Werkstatt"
+slug: "fahrradwerkstatt"
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="UTF-8" />
+
+    <!-- leaflet -->
+    <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+
+    <!-- leaflet awesome markers -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lvoogdt/Leaflet.awesome-markers@2.0.2/dist/leaflet.awesome-markers.css" />
+    <script src="https://cdn.jsdelivr.net/gh/lvoogdt/Leaflet.awesome-markers@2.0.2/dist/leaflet.awesome-markers.js"></script>
+
+    <!-- font awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+
+    <!-- leaflet routing machine -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+
+    <!-- geocoder -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+
+    <!-- Turf -->
+    <script src='https://unpkg.com/@turf/turf@6.3.0/turf.min.js'></script>
+
+  </head>
+
+  <body>
+
+<h2>Reparier dein stählernes Tier</h2>
+
+<p style="text-align: justify">
+"<b>aBgäFahrNe</b> Reifen?" - Das steht für<br><br>
+<b>a</b> utonomes<br>
+<b>B</b> ewältigen<br>
+<b>gä</b> ngiger<br>
+<b>Fahr</b> radtechnischer<br>
+<b>Ne</b> gativsituationen:<br><br>
+Wir sind eine offene Fahrradwerkstatt mit Hilfe zur Selbsthilfe. Das heißt, du bist mit jeglicher Art von Problemen oder Fragen herzlich bei uns willkommen. Das heißt nicht, dass du dein Fahrrad bei uns abstellst und es repariert wieder abholst. 
+Stattdessen kannst du dein Fahrrad mit Hilfe unserer Vielzahl an Werkzeugen und Erfahrungen selbst wieder in Schuss bringen. Wir helfen dir also, dir selbst zu helfen, damit du auf deinem Bock wieder 'ne richtig gute Zeit haben kannst... und <b>NICHT AUTO FAHREN MUSST</b>.
+
+Das Ganze funktioniert auf Spendenbasis. Du bezahlst also, was es dir wert ist, und wir kaufen davon neues Werkzeug und Verbrauchsmaterialien. (Grundsätzliche Spendenempfehlung: Ersatzteilpreis)
+
+Dein Vorwissen ist egal. Wir sind selbst keine Profis, aber reparieren gerne Dinge und teilen unsere Erfahrungen. Du kannst also ohne Aufnahmetest einfach vorbeikommen. Egal, ob dein eigener Reifen platt ist, oder du uns sogar unterstützen möchtest.
+Egal ob alt oder jung, Mensch oder Tier, du bist richtig hier.
+</p>
+
+<h2>Dienstplan</h2>
+
+<p style="text-align: justify">
+Wir haben jeden Samstagabend geöffnet (Ausnahmen bestätigen die Regel). Den aktuellen Dienstplan werdet ihr hier fortlaufend verfolgen können. Folgende Termine stehen bereits fest.
+
+<table>
+  <tr>
+      <td>Wann</td>
+      <td>Wer</td>
+  </tr>
+  <tr>
+      <td>Sa, 15.02.25 18:00-20:00</td>
+      <td>Mathis, Andre</td>
+  </tr>
+  <tr>
+      <td>Sa, 22.02.25 18:00-20:00</td>
+      <td>Mathis , Andre</td>
+  </tr>
+</table>
+
+</p>
+
+<h2>Wo</h2>
+
+<p>Wir haben unseren Raum im Altbau des Collegium Academicum (Mendelejewplatz 1). An der Ostseite des Gebäudes geht eine Treppe in den Keller hinunter. Dort ist die Werkstatt. 
+</p>
+
+<div id="map"></div>
+
+<script>
+
+// Where you want to render the map.
+var element = document.getElementById('map');
+
+// Height has to be set. You can do this in CSS too.
+element.style = 'height:500px;';
+
+// create OSM tile layer
+var osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+});
+// create Google Maps Hybrid layer
+var googleHybrid = L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}',{
+        maxZoom: 24,
+        subdomains:['mt0','mt1','mt2','mt3']
+});
+
+// icon
+var homeIcon = L.AwesomeMarkers.icon({
+  markerColor: '#32aca3',
+  prefix: 'fa',
+  icon: 'home'
+});
+// CA
+var ca = L.marker([49.37616, 8.68657], {}).bindPopup("<b>Altbau des Collegium Academicum</b><br>Mendelejewplatz 1<br>69126 Heidelberg-Rohrbach");
+// bring to front
+//ca.setZIndexOffset(1000);
+var home = L.layerGroup([ca]);
+
+
+var baseMaps = {
+    "OpenStreetMap": osm,
+    "Google Hybrid": googleHybrid
+};
+var overlayMaps = {
+};
+
+// Create Leaflet map on map element.
+var map = L.map(element,
+    {layers: [osm, home]}
+    );
+
+var layerControl = L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
+
+// Set map's center to target with zoom
+map.setView([49.37616, 8.68657], 19);
+
+
+</script>
+
+</body>
+</html>
