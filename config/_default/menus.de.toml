@@ -32,6 +32,11 @@
     url = "/selbstverwaltung"
     weight = 4
     parent = "Hausprojekt"
+[[main]]
+    name = "Fahrradwerkstatt"
+    url = "/fahrradwerkstatt"
+    weight = 5
+    parent = "Hausprojekt"
 
 [[main]]
     name = "Über uns"
