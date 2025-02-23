@@ -137,6 +137,12 @@ other = "Bewerben"
 [interessierten-verteiler]
 other = "Abonniere unseren Interessierten-Newsletter"
 
+[bike]
+other = "Fahrradwerkstatt"
+
+[bike-message]
+other = 'Ihr müsst euer Fahrrad wieder in Schuss bringen? Unsere Selbsthilfe-Werkstatt "aBgäFahrNe Reifen" ist jeden Samstagabend für euch geöffnet. Mehr zu den Öffnungszeiten und der Namensbedeutung findet ihr hier:'
+
 [summerschool]
 # other = "Partizipative Baustelle"
 # other = "HammerCAmps"
