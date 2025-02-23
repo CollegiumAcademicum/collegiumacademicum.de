@@ -141,6 +141,12 @@ other = "Apply"
 [interessierten-verteiler]
 other = "Sign up for our newsletter for people interested in moving in"
 
+[bike]
+other = "Bike workshop"
+
+[bike-message]
+other = "Need to get your bike back in shape? Our self-help workshop ‘aBgäFahrNe Reifen’ is open for you every Saturday evening. You can find out more about the opening hours and the meaning of the name here"
+
 [summerschool]
 # other = "HammerCAmps"
 #other = "CA-Summerschool"
