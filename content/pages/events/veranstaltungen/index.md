@@ -22,8 +22,9 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Di, 11.02., 19 Uhr | [Sozialpsychologie zum Rechtspopulismus](https://www.gew-bw.de/veranstaltungen/detailseite/sozialpsychologie-des-rechtspopulismus) (Vortrag mit Dr. Alexander Neupert)
-Di, 18.02., 20 Uhr | "[Erinnern heißt verändern](https://erinnern-veraendern.de/#veranstaltungen)" - Poetry Slam zum Gedenken an die Ermordeten des rassistischen Anschlags in Hanau
-So, 23.02., 16 Uhr | Öffentliche Führung durch das CA
-So, 23.02., 17-20 Uhr | CAntine - solidarische Küche für alle (Küfa)
-Fr, 28.02., 19 Uhr | Vortrag von Amnesty International 
+Di, 04.03., 10-16 Uhr | ZUMobil mit Radcheck
+Fr, 07.03., 20-4 Uhr | Straßenmusiktage Heidelberg: [Roforofo Jazz (Live) + Afterparty](https://www.instagram.com/p/DGxzA0sNyCF/). Tickets: [rausgegangen.de](https://rausgegangen.de/events/roforofo-jazz-live-0/)
+Sa, 15.03., 20 Uhr | Forrò-Tanzabend
+So, 16.03., 17 Uhr | [Interkulturelles Fastenbrechen](https://hasenleiser.net/tag/interkulturell/) (Quartiersmanagement Hasenleiser, EVA e.V., TES e.V. & CA) - Teilnahme kostenlos, Anmeldung erforderlich
+So, 30.03., 17 Uhr | CAntine - solidarische Küche für alle 
+Fr, 23.05., 16 Uhr | falt*r: Sommerfest und Tag der offenen Tür (Save the date!)
