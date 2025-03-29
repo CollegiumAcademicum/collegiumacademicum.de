@@ -3,6 +3,8 @@ date = "29.11.2024"
 title = "Deutscher Nachhaltigkeitspreis Architektur 2024"
 link = "https://www.nachhaltigkeitspreis.de/architektur/preistraeger-architektur/2013-2024"
 institution = "Stiftung Deutscher Nachhaltigkeitspreis"
+img = "Pressefoto_Deutscher_Nachhaltigkeitspreis_Preisstatuette_Fotocredit_Frank_Fendler_2021.jpg"
+attr = "Frank Fendler"
 
 [[prizes]]
 date = "19.10.2024"
@@ -16,6 +18,7 @@ title = "Deutscher Bauherrenpreis 2024"
 link = "http://www.deutscherbauherrenpreis.de/projekt/neubau-studierenden-und-auszubildendenwohnheim-dgj-223-heidelberg/"
 institution = "GdW (Bundesverband deutscher Wohnungs- und Immobilienunternehmen e. V.), BDA (Bund Deutscher Architekten und Architektinnen) und Deutscher Städtetag"
 img = "DBHP2024_Preisträger.jpg"
+attr = "GdW"
 
 [[prizes]]
 date = "25.06.2024"
@@ -23,7 +26,7 @@ title = "Staatspreis Baukultur Baden Württemberg 2024, Kategorie Prozess und In
 link = "https://mlw.baden-wuerttemberg.de/de/service/media/mid/staatspreis-baukultur-2024-collegium-academicum-heidelberg"
 institution = "Ministerium für Landesentwicklung und Wohnen Baden-Württemberg"
 img = "2024-06-25_Staatspreis_Stollberg_2000x1331_-_20240619MST_1827.jpg"
-
+attr = "Martin Stollberg"
 
 [[prizes]]
 date = "22.05.2024"

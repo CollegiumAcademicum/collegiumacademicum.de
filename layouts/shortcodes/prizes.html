@@ -10,6 +10,11 @@
             {{ if isset . "img" }}
                 <figure>
                     <a href="{{ .link }}"><img class="image" src="/img/prizes/{{ .img }}" height="100px" width="230px"/></a>
+                    {{ if isset . "attr" }}
+                    <figcaption>
+                        <cite>© {{ .attr }}</cite>
+                    </figcaption>
+                    {{ end }}
                 </figure>
             {{ end }}
         </li>
