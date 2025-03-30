@@ -150,7 +150,7 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
     </div>
 </div>
 <div class="field">
-    <label class="label" for="rooms_in_altbau">It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well?</label>
+    <label class="label" for="rooms_in_altbau">It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notive to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
