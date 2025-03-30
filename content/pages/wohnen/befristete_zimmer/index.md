@@ -6,15 +6,16 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-Du hast Interesse an einem befristeten Zimmer ab Juli 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an befristeten Zimmern im Altbau interessiert bist. <b>Wir freuen uns auf dich!
+Du hast Interesse an einem Zimmer im Altbau ab Juli 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an Zimmern im Altbau interessiert bist. <b>Wir freuen uns auf dich!
 </div>
-<!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für befristete Zimmer entgegen.</b> -->
+<!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen.</b> -->
 
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
     
-Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben sechs sozialen Mietwohnungen und zwei freifinanzierten Wohnungen bietet der Altbau vor allem Wohnraum für die bis zu 50 Teilnehmenden des Orientierungsjahrs falt*r. Da dieses aktuell nicht voll besetzt ist, vermieten wir die übrigen Zimmer an Menschen, die eine Zwischenmiete suchen, nur für begrenzte Zeit in Heidelberg sind und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten.
+Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben sechs sozialen Mietwohnungen und zwei freifinanzierten Wohnungen bietet der Altbau vor allem Wohnraum für die bis zu 50 Teilnehmenden des Orientierungsjahrs falt*r. Da dieses aktuell nicht voll besetzt ist, vermieten wir die übrigen Zimmer an Menschen, die Interesse an unserem Projekt und gemeinschaftlichen Wohnen haben. 
+<!-- die eine Zwischenmiete suchen, nur für begrenzte Zeit in Heidelberg sind und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten. -->
 
-Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den nächsten Jahren haben wird, sind diese Zimmer zeitlich befristet und können von unserer Seite mit einer Frist von 6 Wochen jeweils zum 30.09. eines Jahres gekündigt werden, falls sie für die Teilnehmenden des Orientierungsjahrs falt*r benötigt werden.
+Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den nächsten Jahren haben wird, können diese Zimmer von unserer Seite mit einer Frist von 6 Wochen jeweils zum 30.09. eines Jahres gekündigt werden, falls sie für die Teilnehmenden des Orientierungsjahrs falt*r benötigt werden.
 
 Die hier ausgeschriebenen Zimmer befinden sich im 2. und 3. Stock unseres Altbaus und sind in Flurgemeinschaften organisiert. Alle Zimmer können möbliert gemietet werden.
 
@@ -75,10 +76,10 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< accordion "Fragen zur Bewerbung" >}}
 
 {{< accordion "Wann kann ich einziehen?" >}}
-Aktuell nehmen wir keine weiteren Bewerbungen entgegen.
+<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> Der nächste Einzugstermin ist der 1. Juli. Dafür kannst du dich ab sofort mit dem Bewerbungsformular unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> bewerben. Bitte gibt dort in der entsprechenden Zeile an, dass du (nur) an Zimmern im Altbau interessiert bist. Wir freuen uns auf dich! 
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
-Wir haben ein Bewerbungsformular. Nachdem du deine Bewerbung abgeschickt hast, melden wir uns bei dir mit weiteren Infos und ggf. einer Einladung zum persönlichen Kennenlernen/Besichtigung. Gerne kannst du schon auf der Webseite stöbern und dich mit dem Projekt vertraut machen.
+Wir haben ein Bewerbungsformular. Dieses findest du unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a>. Bitte gibt dort in der entsprechenden Zeile an, dass du (nur) an Zimmern im Altbau interessiert bist. Nachdem du deine Bewerbung abgeschickt hast, melden wir uns bei dir mit weiteren Infos und ggf. einer Einladung zum persönlichen Kennenlernen/Besichtigung. Gerne kannst du schon auf der Webseite stöbern und dich mit dem Projekt vertraut machen.
 {{< /accordion >}}
 {{< accordion "Kann ich mich bewerben, wenn ich erst zum Einzug vor Ort sein kann?" >}}
 Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Präsenz wie auch online machen. Wenn es dir möglich ist, empfehlen wir dir, in Präsenz zu kommen um unser Projekt besser kennenlernen zu können. Wir achten darauf, dass es keinen Nachteil für dich hat, online teilzunehmen.
@@ -87,7 +88,7 @@ Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Pr�
 Uns ist Diversität unter den Mitbewohner*innen wichtig. Wir suchen vor allem nach Studierenden und Menschen in ähnlichen Lebenssituationen, die sich mit unserem Leitbild identifizieren und sich im Projekt einbringen möchten. Da ihr mit vielen Menschen zusammenlebt, ist uns wichtig, dass ihr gut in der Gruppe zusammenleben könnt.
 {{< /accordion >}}
 {{< accordion "Wer gestaltet den Bewerbungsprozess und entscheidet, ob ich einziehen darf?" >}}
-Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Zwischenvermietungsteam zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
+Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Belegium zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
 {{< /accordion >}}
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere?" >}}
 {{< /accordion >}}
