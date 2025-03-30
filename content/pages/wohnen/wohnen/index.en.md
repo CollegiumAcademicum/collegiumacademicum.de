@@ -17,7 +17,9 @@ is to actively participate in the self-management of the old building.
 </p>
 
 Are you looking for more information on living in the CA or would you like to move in yourself?
-Then you will find what you are looking for below:
+Then you will find what you are looking for below.
+
+Here you can currently apply:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/wohnheim" >}}" class="button is-medium is-primary">
@@ -26,6 +28,23 @@ Then you will find what you are looking for below:
         </span>
         <span>Dorm</span>
     </a>
+    <a href="https://faltr.de/" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Orientation year</span>
+    </a>
+    <a href="{{< relref "/zimmer_altbau" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Rooms in the old building</span>
+    </a>
+</div>
+
+These are our other rooms:
+
+<div class="buttons is-centered">
     <a href="{{< relref "/sozialer_mietwohnraum" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
@@ -40,22 +59,7 @@ Then you will find what you are looking for below:
     </a>
 </div>
 
-<div class="buttons is-centered">
-    <a href="https://faltr.de/" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Orientation year</span>
-    </a>
-</div>
-<div class="buttons is-centered">
-    <a href="{{< relref "/befristete_zimmer" >}}" class="button is-medium is-primary">
-        <span class="icon">
-            <i class="icon-home"></i>
-        </span>
-        <span>Rooms for interim rent</span>
-    </a>
-</div>
+Here you can find more information:
 
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/faq" >}}" class="button is-medium is-primary">
