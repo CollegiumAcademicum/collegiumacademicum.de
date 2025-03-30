@@ -88,13 +88,13 @@
     weight = 1
     parent = "Living"
 [[main]]
-    name = "Social rental housing"
-    url = "/rental-housing"
+    name = "Rooms in the old building"
+    url = "/rooms_old_building"
     weight = 2
     parent = "Living"
 [[main]]
-    name = "Freely financed apartments"
-    url = "/freely_financed_apartments"
+    name = "Social rental housing"
+    url = "/rental-housing"
     weight = 3
     parent = "Living"
 [[main]]
@@ -103,19 +103,14 @@
     weight = 4
     parent = "Living"
 [[main]]
-    name = "Temporary rooms"
-    url = "/temporary_rooms"
-    weight = 5
-    parent = "Living"
-[[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 6
+    weight = 5
     parent = "Living"
 [[main]]
     name = "Accessibility"
     url = "/accessibility"
-    weight = 7
+    weight = 6
     parent = "Living"
 
 [[main]]

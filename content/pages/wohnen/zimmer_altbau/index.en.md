@@ -1,6 +1,6 @@
 ---
-title: "Temporarily available rooms in the old building"
-slug: "temporary_rooms"
+title: "Rooms in the old building"
+slug: "rooms_old_building"
 novoigl: yes
 ---
 

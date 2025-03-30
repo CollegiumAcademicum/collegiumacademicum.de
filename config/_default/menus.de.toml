@@ -138,29 +138,29 @@
     weight = 1
     parent = "Wohnen"
 [[main]]
+    name = "Zimmer im Altbau"
+    url = "/zimmer_altbau"
+    weight = 2
+    parent = "Wohnen"
+[[main]]
     name = "Sozialer Mietwohnraum"
     url = "/sozialer_mietwohnraum"
-    weight = 2
+    weight = 3
     parent = "Wohnen"
 [[main]]
     name = "Ungeförderte Wohnungen"
     url = "/freifinanzierte_wohnungen"
-    weight = 3
-    parent = "Wohnen"
-[[main]]
-    name = "Befristete Zimmer"
-    url = "/befristete_zimmer"
     weight = 4
     parent = "Wohnen"
 [[main]]
     name = "FAQ"
     url = "/faq"
-    weight = 6
+    weight = 5
     parent = "Wohnen"
 [[main]]
     name = "Barrierefreiheit"
     url = "/barrierefreiheit"
-    weight = 7
+    weight = 6
     parent = "Wohnen"
 
 [[main]]
