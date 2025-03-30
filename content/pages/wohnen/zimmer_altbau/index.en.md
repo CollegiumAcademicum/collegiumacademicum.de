@@ -1,20 +1,20 @@
 ---
-title: "Temporarily available rooms in the old building"
-slug: "temporary_rooms"
+title: "Rooms in the old building"
+slug: "rooms_old_building"
 novoigl: yes
 ---
 
 <p style="text-align:justify">
-<!-- <div class="notification is-primary">
-You want to move into one of our temporarily available rooms in April 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a temporarily available room in the corresponding line.<br>We are looking forward to meeting you!
-</div> -->
-<b>We are currently not accepting any further applications for temporary rooms.</b>
+<div class="notification is-primary">
+You want to move into one of our rooms in the old building in July 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
+</div>
+<!-- <b>We are currently not accepting any further applications for temporary rooms.</b> -->
 
 Would you like to get a taste of self-administration and live in a sustainable community? Then you've come to the right place here at the ecological and self-managed CA (Collegium Academicum) housing project.
     
-Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. In addition to six social housing apartments and two independently financed apartments, the old building mainly provides living space for up to 50 participants in the falt*r orientation year. As this is currently not fully occupied, we rent out the remaining rooms to people who are looking for an interim rental, are only in Heidelberg for a limited time and/or would like to get a taste of our housing project without obligation.
+Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. In addition to six social housing apartments and two independently financed apartments, the old building mainly provides living space for up to 50 participants in the falt*r orientation year. As this is currently not fully occupied, we rent out the remaining rooms to people who are interested in our project and would like to live communally.
 
-Since we can not yet know how many participants the orientation year will have in the coming years, these rooms are temporary and can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r.
+Since we can not yet know how many participants the orientation year will have in the coming years, these rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r.
 
 The rooms advertised here are located on the 2nd and 3rd floors of our old building and are organized in corridor communities. All rooms can be rented with furniture.
 
@@ -70,10 +70,10 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
-We are currently not accepting any further applications.
+<!-- We are currently not accepting any further applications. --> The next move-in date is July 1. You can find the application under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
-There is an application form. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Please feel free to browse our website and get familiar with our project.
+There is an application form which you can find under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
 {{< /accordion >}}
 {{< accordion "Can I still apply, even if I can only be present once I move in?" >}}
 Yes of course! We can do the get-to-know-you day and the tour of the property in person or online. If possible, we would recommend that you come in person, this makes it easier for you to get to know our project. However, we will make sure, that there is no disadvantage for you, when you participate online.
@@ -82,7 +82,7 @@ Yes of course! We can do the get-to-know-you day and the tour of the property in
 Diversity among the residents is important to us. We are primarily looking for students and people in similar life situations, who can identify themselves with our mission statement and want to get involved in the project. As you will be living with a lot of other people, it is important to us, that you are able to live together as a group.
 {{< /accordion >}}
 {{< accordion "Who organizes the application process and decides whether I can move in?" >}}
-The „Zwischenvermietungsteam“ is responsible for organizing the application process and selecting the residents. We are a part of the self-administration, i.e. a group of CA-residents, and organize the occupancy of the flats in our free time.
+The „Belegium“ is responsible for organizing the application process and selecting the residents. We are a part of the self-administration, i.e. a group of CA-residents, and organize the occupancy of the flats in our free time.
 {{< /accordion >}}
 {{< accordion "Do I have to study or do an apprenticeship to apply for a room in the old building?" >}}
 {{< /accordion >}}
