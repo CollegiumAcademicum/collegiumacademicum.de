@@ -63,9 +63,14 @@
     weight = 4
     parent = "Über uns"
 [[main]]
+    name = "Presse-Archiv"
+    url = "/presse"
+    weight = 5
+    parent = "Über uns"
+[[main]]
     name = "Literatur und eigene Veröffentlichungen"
     url = "/literatur"
-    weight = 5
+    weight = 6
     parent = "Über uns"
 
 [[main]]
