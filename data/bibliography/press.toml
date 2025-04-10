@@ -1,4 +1,18 @@
 [[press]]
+title = "Haben diese Studenten die Lösung für die Wohnungsnot?"
+source = "Zeit Online"
+link = "https://www.zeit.de/wirtschaft/2025-03/wohnheim-heidelberg-eigenbau-mietpreise-wg"
+date = "03.04.2025"
+year = "2025"
+
+[[press]]
+title = "Wie geht das denn? Dieses Mietshaus gehört seinen Bewohnern"
+source = "Südwest Presse (SWP)"
+link = "https://www.swp.de/baden-wuerttemberg/mietshaeuser-syndikat-dieses-wohnheim-gehoert-seinen-176-bewohnern-77933695.html"
+date = "31.03.2025"
+year = "2025"
+
+[[press]]
 title = "Wohnheim in Eigenregie - Heidelberger Studis und Azubis unter einem Dach"
 source = "Deutschlandfunk Kultur"
 link = "https://www.deutschlandfunkkultur.de/wohnheim-in-eigenregie-heidelberger-studis-und-azubis-unter-einem-dach-dlf-kultur-e487ca56-100.html"
@@ -228,9 +242,8 @@ year = "2023"
 [[press]]
 title = "drehscheibe"
 source = "ZDF"
-link = "https://www.zdf.de/nachrichten/drehscheibe/studierende-bauen-wohnheim-104.html"
+link = "https://www.instagram.com/reel/CpC44pRDpax/?utm_source=ig_web_button_share_sheet"
 date = "23.02.2023"
-embed_link = "https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fnachrichten%2Fdrehscheibe%2Fstudierende-bauen-wohnheim-104"
 year = "2023"
 
 [[press]]
@@ -251,9 +264,7 @@ year = "2023"
 [[press]]
 title = "SWR Aktuell BW"
 source = "SWR"
-link = "https://www.swr.de/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html"
 date = "18.02.2023"
-embed_link = "https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html?startTime=917.00&endTime=1067.00&mediaId=ORDERINFOID%3A1811022"
 year = "2023"
 
 [[press]]
@@ -439,7 +450,6 @@ year = "2021"
 title = "plan b: Vier Wände für alle!"
 source = "plan b, ZDF"
 date = "07.08.2021"
-link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
 video = "2021_planb"
 year = "2021"
 
@@ -645,7 +655,6 @@ year = "2020"
 title = "Heidelberg – Hochkultur und Subkultur"
 source = "Arte"
 date = "27.02.2020"
-link = "https://www.arte.tv/de/videos/095957-000-A/heidelberg-hochkultur-und-subkultur/"
 video = "2020_arte_subkultur"
 year = "2020"
 
