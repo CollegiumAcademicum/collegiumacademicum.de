@@ -37,14 +37,6 @@ embed_link = "https://www.youtube.com/embed/encnDoEY5Dg?si=Wa3KISJfREqQXIAf"
 year = "2023"
 
 [[press]]
-title = "SWR Aktuell BW"
-source = "SWR"
-link = "https://www.swr.de/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html"
-date = "18.02.2023"
-embed_link = "https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/sendung-1930-uhr-vom-1822023-100.html?startTime=917.00&endTime=1067.00&mediaId=ORDERINFOID%3A1811022"
-year = "2023"
-
-[[press]]
 title = "10 moderne Wohnkonzepte zum Staunen! | Galileo 360° | ProSieben"
 source = "Galileo, ProSieben"
 date = "05.06.2022"
@@ -79,7 +71,6 @@ year = "2021"
 title = "plan b: Vier Wände für alle!"
 source = "plan b, ZDF"
 date = "07.08.2021"
-link = "https://www.zdf.de/gesellschaft/plan-b/plan-b-vier-waende-fuer-alle-100.html"
 video = "2021_planb"
 year = "2021"
 
@@ -94,7 +85,6 @@ year = "2020"
 title = "Heidelberg – Hochkultur und Subkultur"
 source = "Arte"
 date = "27.02.2020"
-link = "https://www.arte.tv/de/videos/095957-000-A/heidelberg-hochkultur-und-subkultur/"
 video = "2020_arte_subkultur"
 year = "2020"
 
