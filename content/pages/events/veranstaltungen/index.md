@@ -22,9 +22,9 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Sa, 05.04., 22 Uhr | Fusioniert, Heidelberg! - [PreParty](https://www.instagram.com/fusioniert_hd/p/DHdcTFIoVuF/?img_index=1), Tickets auf [rausgegangen.de](https://rausgegangen.de/events/fusioniert-heidelberg-preparty-0/)
-Mi, 09.04., 19-22 Uhr | Ein Jahr "Kein Schritt nach Rechts Heidelberg" - [Großes Bündnis-Jubiläum](https://keinschrittnachrechts.de/event/ksnr-grosses-buendnis-event-ein-jahr-kein-schritt-nach-rechts-heidelberg), Anmeldung per Mail
 Sa, 12.04., 20 Uhr | Heidelberger Frühling [re:start Wandelkonzert](https://www.heidelberger-fruehling.de/veranstaltung/restart-konzert-im-collegium-academicum), Eintritt frei – Spenden sind willkommen
-Fr, 25.04., 22 Uhr | Insomnis Techno
+Fr, 25.04., 22 Uhr | [Insomnis House Party](https://rausgegangen.de/events/insomnis-house-party-0/), EIntritt: 5 € (Vorverkauf), 8 € (Abendkasse)
 Sa, 26.04., 19 Uhr | Forrò Tanzabend
+Tue, 06.05., 19:30-0 Uhr | [Gidiki Band Live Konzert](https://rausgegangen.de/events/gidiki-live-konzert-0/), Eintritt: 20 € (Vorverkauf), 22 € (Abendkasse)
+Fr, 09.05., 19:30-0 Uhr | Live in Heidelberg - [DJ Night](https://www.eventbrite.de/e/dj-night-spin-your-sound-own-the-night-tickets-1321340036619), Eintritt ab 10 €
 Fr, 23.05., 16 Uhr | Großes falt*r: Sommerfest und Tag der offenen Tür (Save the date!)
