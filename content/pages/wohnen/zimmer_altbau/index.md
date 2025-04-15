@@ -92,6 +92,7 @@ Uns ist Diversität unter den Mitbewohner*innen wichtig. Wir suchen vor allem na
 Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Belegium zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
 {{< /accordion >}}
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere?" >}}
+Du kannst dich gerne bewerben. Die Mehrheit der Bewohnenden muss jedoch in einer Form der Ausbildung sein, deswegen müssen wir die Einzugsmöglichkeit für jeden Einzelfall neu bewerten. 
 {{< /accordion >}}
 {{< accordion "Gibt es ein Mindestalter? Kann ich mich bewerben, wenn ich noch nicht volljährig bin?" >}}
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.
