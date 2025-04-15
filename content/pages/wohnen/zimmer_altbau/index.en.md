@@ -7,6 +7,8 @@ novoigl: yes
 <p style="text-align:justify">
 <div class="notification is-primary">
 You want to move into one of our rooms in the old building in July 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
+
+<b>ATTENTION! In the current application phase, we have had technical problems. If you applied and did not get a confirmation email, please apply again. If you still do not receive a confirmation email, please reach out to us under <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Thank you and apologies!</b>
 </div>
 <!-- <b>We are currently not accepting any further applications for temporary rooms.</b> -->
 
@@ -85,6 +87,7 @@ Diversity among the residents is important to us. We are primarily looking for s
 The „Belegium“ is responsible for organizing the application process and selecting the residents. We are a part of the self-administration, i.e. a group of CA-residents, and organize the occupancy of the flats in our free time.
 {{< /accordion >}}
 {{< accordion "Do I have to study or do an apprenticeship to apply for a room in the old building?" >}}
+You can still apply if you do not study or do an apprenticeship. However, the majority of our residents must be students/apprentices, so we have to assess every situation individually.
 {{< /accordion >}}
 {{< accordion "Can I apply if I‘m not yet of legal age?" >}}
 For legal reasons, you must be at least 18 years old when you move in. However, you can already apply before your 18th birthday.

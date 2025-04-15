@@ -7,6 +7,8 @@ novoigl: yes
 <p style="text-align:justify">
 <div class="notification is-primary">
 Du hast Interesse an einem Zimmer im Altbau ab Juli 2025? <br>Da der Bewerbungsprozess momentan überarbeitet wird, bewirb dich bitte über das Bewerbungsformular für die Wohnheimszimmer unter <a href="{{< relref "/wohnheim" >}}">Wohnheim</a> und gib dort in der entsprechenden Zeile an, dass du (nur) an Zimmern im Altbau interessiert bist. <br>Wir freuen uns auf dich!
+
+<b>ACHTUNG! In der aktuellen Bewerbungsphase kam es zu technischen Problemen. Wenn du dich bereits beworben hast und KEINE BESTÄTIGUNGSMAIL erhalten hast, bewirb dich bitte erneut. Tritt das Problem weiterhin auf, schreib uns bitte unter <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Danke und Entschuldigung!</b>
 </div>
 <!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen.</b> -->
 
@@ -92,6 +94,7 @@ Uns ist Diversität unter den Mitbewohner*innen wichtig. Wir suchen vor allem na
 Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Belegium zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
 {{< /accordion >}}
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere?" >}}
+Du kannst dich gerne bewerben. Die Mehrheit der Bewohnenden muss jedoch in einer Form der Ausbildung sein, deswegen müssen wir die Einzugsmöglichkeit für jeden Einzelfall neu bewerten. 
 {{< /accordion >}}
 {{< accordion "Gibt es ein Mindestalter? Kann ich mich bewerben, wenn ich noch nicht volljährig bin?" >}}
 Aktuell musst du aus rechtlichen Gründen beim Einzug mindestens 18 Jahre alt sein. Du kannst dich aber schon vor deinem 18. Geburtstag bewerben.

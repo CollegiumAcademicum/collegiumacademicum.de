@@ -144,7 +144,13 @@ Der nächstmögliche Einzugstermin ist der 1. Juli 2025. Falls du im Juli bei un
     <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie du bewerben.</p>
 </div>
 <div class="field">
-    <label class="label" for="activity_in_ca">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben? Bist du oder warst du bereits im CA aktiv und falls ja, wo?</label>
+    <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben? </label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
+    </div>
+</div>
+<div class="field">
+<label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
