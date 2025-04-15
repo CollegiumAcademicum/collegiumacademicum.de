@@ -138,7 +138,12 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
     <p class="help">That could be somebody applying concurrently or already living in the house.</p>
 </div>
 <div class="field">
-    <label class="label" for="activity_in_ca">Have you previously applied for a place in our dormitory? Are you or have you already been active in CA and if yes, where?</label>
+    <label class="label" for="already_applied">Have you previously applied for a place in our dormitory?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
+    </div>
+</div>
+<label class="label" for="activity_in_ca">Are you or have you already been active in CA and if yes, where? (If you have already been active, we will talk to the AG/initiative about your activity, so we can assess a possible bonus for your application. This will not have a negative impact on your application, only positive changes are possible.)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
