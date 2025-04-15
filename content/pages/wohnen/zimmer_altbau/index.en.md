@@ -85,6 +85,7 @@ Diversity among the residents is important to us. We are primarily looking for s
 The „Belegium“ is responsible for organizing the application process and selecting the residents. We are a part of the self-administration, i.e. a group of CA-residents, and organize the occupancy of the flats in our free time.
 {{< /accordion >}}
 {{< accordion "Do I have to study or do an apprenticeship to apply for a room in the old building?" >}}
+You can still apply if you do not study or do an apprenticeship. However, the majority of our residents must be students/apprentices, so we have to assess every situation individually.
 {{< /accordion >}}
 {{< accordion "Can I apply if I‘m not yet of legal age?" >}}
 For legal reasons, you must be at least 18 years old when you move in. However, you can already apply before your 18th birthday.
