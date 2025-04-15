@@ -63,7 +63,7 @@ Here is how the application for a room in our dormitory works:
     </a>
 </div>
 
-<b>ATTENTION! In the current application phase, we have had technical problems. If you applied and did not get a confirmation email, please apply again. If you still do not receive a confirmation email, please reach out to us under <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>.</b>
+<b>ATTENTION! In the current application phase, we have had technical problems. If you applied and did not get a confirmation email, please apply again. If you still do not receive a confirmation email, please reach out to us under <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Thank you and apologies!</b>
 
 1. You fill out the application form <a href="/en/application">application form</a>, either in German or in English. Please take note of the maximum text lengths. 
 2. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
