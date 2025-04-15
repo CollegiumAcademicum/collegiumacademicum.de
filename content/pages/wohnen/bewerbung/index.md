@@ -149,7 +149,7 @@ Der nächstmögliche Einzugstermin ist der 1. Juli 2025. Falls du im Juli bei un
         <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
     </div>
 </div>
-<label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können.)</label>
+<label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
