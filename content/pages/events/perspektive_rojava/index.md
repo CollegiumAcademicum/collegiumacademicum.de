@@ -28,36 +28,21 @@ In einer Zeit, in der Populismus und Rechtsextremismus weltweit auf dem Vormarsc
 
 Im Nordosten Syriens (auf kurdisch "Rojava") entwickelt sich seit über 12 Jahren ein inspirierendes Experiment auf der Basis von Selbstbestimmung, Frauenbefreiung, Rätedemokratie sowie multiethnischem und multireligiösem Zusammenleben. Feminismus, Solidarität und Gerechtigkeit werden hier auf einzigartige Weise gelebt.<br>
 
-Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, wollen wir im Rahmen einer anderthalbtägigen Konferenz näher betrachten und diskutieren. 
-<b>Diese Tagung haben wir vor dem Sturz des Assad-Regimes vorbereitet. Auch wir sind überrascht und bewegt von den aktuellen Entwicklungen in Syrien. Wir denken jedoch, dass jetzt mehr denn je Zeit ist, über Nord- und Ost-Syrien und die dortigen Selbstverwaltungsstrukturen zu sprechen. Wir werden demnach auch die aktuellen Entwicklungen näher beleuchten und besprechen.</b>
+Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, haben wir im Rahmen einer anderthalbtägigen Konferenz näher betrachtet und diskutiert. 
 </p>
 
 <!--<blockquote>-->
-<cite>Lasst uns also gemeinsam demokratische Zukunftsvisionen und Perspektiven für Frieden und Gerechtigkeit entwickeln!</cite>
+<cite>Lasst uns gemeinsam demokratische Zukunftsvisionen und Perspektiven für Frieden und Gerechtigkeit entwickeln!</cite>
 <!--</blockquote>-->
 
 <p style="text-align: justify">
-Die Tagung findet <b>vom 25. bis zum 26. Januar</b> statt! Ein voller Samstag und ein Sonntagvormittag.<br>
-Es wird <b>Vorträge, Workshops & Diskussionen</b> geben. Außerdem wird es am Samstag einen gemeinsamen <b>Bar-Abend mit Livemusik</b> zum Austauschen und Tanzen. Wir werden außerdem für diejenigen, die weiter anreisen, eine <b>Bettenbörse</b> organisieren. Auch gemeinsames Essen wird nicht fehlen  – es ist also für alles gesorgt! <br>
+Die Tagung fand <b>vom 25. bis zum 26. Januar</b> statt! Ein voller Samstag und ein Sonntagvormittag.<br>
+Die Tage waren gefüllt mit <b>Vorträges, Workshops und Diskussionen</b>. Außerdem gab es am Samstag einen gemeinsamen <b>Bar-Abend mit Livemusik</b> zum Austauschen und Tanzen. Für diejenigen, die weiter angereist sind, hatten wir eine <b>Bettenbörse</b> organisiert und auch gemeinsames Essen unserer tollen Küfa hat nicht gefehlt.<br>
 </p>
-
-<div class="column has-text-centered">
-<div>
-<br>
-<a class="button is-rojava is-mobile-fullwidth" href="https://cloud.collegiumacademicum.de/apps/forms/s/BDm8f99ebi8yLKFptBsqXNzy">Hier geht es zum Anmeldebogen!
-</a>
-</div> 
-</div>
-
-Wenn du Probleme mit der Anmeldung hast, melde dich auch gerne einfach per E-Mail an bildung@collegiumacademicum.de. Folg uns außerdem auf <a href="https://www.instagram.com/tagungrojava/">
-        <span class="icon">
-            <i class="icon-instagram"></i>
-        </span>
-        <span>Instagram</span>
-   </a>, um auf dem Laufenden zu bleiben.
 
 <h2>Das Programm</h2>
 
+Die Hauptteile des Programms, die in der Aula des Collegium Academicum stattfanden, haben wir aufgezeichnet. Ihr findet die Videos jeweils eingebettet unter den Programmpunkten und die ganze Playlist gibt es auf <a href="https://www.youtube.com/watch?v=fOYDtTbOcX0&list=PL377pBZLh2sBm702Dw2_YyaitlrqOVo9P"> unserem YouTube Kanal</a>.
 
 <div class="box">
 Samstag, 25.01.2025
@@ -73,41 +58,49 @@ Samstag, 25.01.2025
 
 - Ein Rückblick auf 12 Jahre Selbstverwaltung sowie eine Einordnung der aktuellen politischen Geschehnisse im Norden und Osten Syriens aus erster Hand (mit <b>Ali Çiçek</b>).
 
-<figure>
-<img alt="" src="1_Frauen.png" width="100%" />
-</figure>
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wgZ29jFTuOs?si=84B6QXyHIOQucuJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>11:00 Uhr</b>: Perspektive Frauenbefreiung
 
-- Wir tauchen weiter ein mit Einblicken in die theoretischen Grundlagen und die praktische Umsetzung der letzten 50 Jahre der kurdischen Frauenbewegung. Wie ist diese Bewegung entstanden, wofür kämpft sie? Wie sieht anti-patriarchale Praxis in der Bewegung aus? Warum handelt es sich in Rojava um eine Frauenrevolution und wie findet die Jahrzehnte lange Aufbauarbeit heute Ausdruck in Nord- und Ostsyrien? Außerordentliche Einblicke und Impulse für Reflexion erwarten uns gleich zu Beginn der Tagung (mit <b>Anja Flach</b>).
+- Wir tauchen weiter ein mit Einblicken in die theoretischen Grundlagen und die praktische Umsetzung der letzten 50 Jahre der kurdischen Frauenbewegung. Wie ist diese Bewegung entstanden, wofür kämpft sie? Wie sieht anti-patriarchale Praxis in der Bewegung aus? Warum handelt es sich in Rojava um eine Frauenrevolution und wie findet die Jahrzehnte lange Aufbauarbeit heute Ausdruck in Nord- und Ostsyrien? Außerordentliche Einblicke und Impulse für Reflexion erwarteten uns gleich zu Beginn der Tagung (mit <b>Anja Flach</b>).
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jbk2217w0Io?si=bwrrmtzQ8NcEXIys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br><br>
 
 <b>13:00 Uhr</b>: Mittagspause
-- Beim selbstgekochten Mittagsessen können erste Gedanken geteilt und diskutiert werden.
-
-<figure>
-<img alt="" src="2_Demokratie_2.png" width="100%" />
-</figure>
+- Beim selbstgekochten Mittagsessen konnten erste Gedanken geteilt und diskutiert werden.
 
 <b>14:30 Uhr</b>: Perspektive Demokratie
 - Was kann Demokratie bedeuten? Ein Impulsvortrag über die demokratischen Strukturen in Rojava und den Schattierungen und der Vielfalt demokratischer Lebensweisen anhand dieses Beispiels. Im Zentrum steht die Idee des demokratischen Konföderalismus (mit <b>Müslüm Örtülü</b>).
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahoUbIl0yoM?si=isqV55gNk8NbbPXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br><br>
+
+
 <b>15:30 Uhr</b>: Workshops
-- Eine Vielzahl an Denkwerkstätten erwartet uns: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus werden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga, Anja Flach, Jineolojî Netzwerk Deutschland, Women Defend Rojava</b>). 
+- Eine Vielzahl an Denkwerkstätten: ob Alltagserfahrungen & Geschichten aus Rojava, Ökologie und Klimawandel, Jineoloji ("Wissenschaft der Frauen"), das transnationale Mediennetzwerk der kurdischen Freiheitsbewegung, Dekolonialismus, Repression von Kurd*innen in Deutschland, Femizide als Kriegsführung - Perspektiven aus der Region Rojava und darüber hinaus wurden selbstkritisch und lebhaft diskutiert, erfahren, reflektiert (mit <b>Ayten Kaplan, Alexander Glasner-Hummel, Kerem Schamberger, Leonie Baumgarten Egemole, Ercan Ayboga, Anja Flach, Jineolojî Netzwerk Deutschland, Women Defend Rojava</b>). 
 
 <b>17:00 Uhr</b>: Pause
 - Kleine Pause mit Kaffee und Kuchen.
+
+<b>17:30 Uhr</b>: Perspektive Frieden
+- <b>Salih Muslim</b>, führender Vertreter der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und eine der zentralen Stimmen Rojavas, wurde per Videoanruf zugeschaltet. Er hat aus erster Hand über die Entwicklungen, Herausforderungen und Visionen aus Nord- und Ost-Syrien berichtet.
+
+- In unserem direkt anschließenden Diskussionspanel mit Gäst\*innen aus Deutschland und Kurdistan sprachen wir über Krieg und Frieden. Wie ist die Situation nach dem Sturz des Assad-Regimes? Wer sind die Akteure in den aktuellen Auseinandersetzungen und welche Interessen verfolgen sie? Welche Rolle und Verantwortung hat Deutschland? Und vor allem: Wie kann Solidarität mit der Zivilbevölkerung gelingen, was braucht es für den Frieden und welche demokratischen Lösungsperspektiven gibt es? (<b>mit Leyla Îmret, MdB Max Lucks, MdB Gökay Akbulut und Sara Stachelhaus</b>).
 
 <figure>
 <img alt="" src="3_Frieden_2.png" width="100%" />
 </figure>
 
-<b>17:30 Uhr</b>: Perspektive Frieden
-- <b>Salih Muslim</b>, führender Vertreter der Bewegung für eine demokratische Gesellschaft (TEV-DEM) und eine der zentralen Stimmen Rojavas, wird per Videoanruf zugeschaltet. Er wird aus erster Hand über die Entwicklungen, Herausforderungen und Visionen aus Nord- und Ost-Syrien berichten.
-
-- In unserem direkt anschließenden Diskussionspanel mit Gäst\*innen aus Deutschland und Kurdistan wollen wir über Krieg und Frieden reden. Wie ist die Situation nach dem Sturz des Assad-Regimes? Wer sind die Akteure in den aktuellen Auseinandersetzungen und welche Interessen verfolgen sie? Welche Rolle und Verantwortung hat Deutschland? Und vor allem: Wie kann Solidarität mit der Zivilbevölkerung gelingen, was braucht es für den Frieden und welche demokratischen Lösungsperspektiven gibt es? (<b>mit Leyla Îmret, MdB Max Lucks, MdB Gökay Akbulut und Sara Stachelhaus</b>).
-
 <b>19:30 Uhr</b>: gemeinsames Abendessen und Kulturprogramm
-- Wir lassen den Tag gemeinsam in einem lockeren Rahmen ausklingen. Es erwarten uns ein selbstgekochtes Abendessen, ein kurdisch-anatolisches Kulturprogramm und natürlich Einblicke in das selbstorganisierte Wohnen und Feiern im CA!
+- Wir haben den Tag gemeinsam in einem lockeren Rahmen ausklingen lassen. Es gab ein selbstgekochtes Abendessen, ein kurdisch-anatolisches Kulturprogramm und natürlich Einblicke in das selbstorganisierte Wohnen und Feiern im CA!
 </div>
 
 <div class="box">
@@ -116,20 +109,31 @@ Sonntag, 26.01.2025
 <br><br>
 
 <b>ab 9:00 Uhr</b>: gemeinsames Frühstück
-- Mit Çay und Kaffee möchten wir einen gemütlichen Rahmen für Austausch am frühen Morgen schaffen.  
-
-<figure>
-<img alt="" src="4_Sicherheit_2.png" width="100%" />
-</figure>
+- Mit Çay und Kaffee haben wir einen gemütlichen Rahmen für Austausch am frühen Morgen geschaffen.  
 
 <b>10 Uhr</b>: Perspektive Sicherheit
-- Mit einem Vortrag über die Idee des Abolitionismus, also die Abschaffung der Polizei, nähern wir uns dem Thema Sicherheit zunächst aus theoretischer Perspektive. Inwiefern es beim Abolitionismus nicht nur um das Abschaffen einer Institution, sondern das Schaffen von neuen, demokratischeren Strukturen geht, erklärt uns unser Gast von der Universität Heidelberg (mit <b>Prof. Dr. Michael Haus</b>).
+- Mit einem Vortrag über die Idee des Abolitionismus, also die Abschaffung der Polizei, näherten wir uns dem Thema Sicherheit zunächst aus theoretischer Perspektive. Inwiefern es beim Abolitionismus nicht nur um das Abschaffen einer Institution, sondern das Schaffen von neuen, demokratischeren Strukturen geht, erklärte uns unser Gast von der Universität Heidelberg (mit <b>Prof. Dr. Michael Haus</b>).
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rO53oxCzx5k?si=8pcqyP0CwEynJSEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br><br>
 
 <b>11 Uhr</b>: Sicherheit in Rojava
-- Wir erhalten einen Einblick in die Wirklichkeit in Rojava. Wie wird in einer von Krieg zerrütteten Region Sicherheit organisiert? Und welche Strukturen gibt es, um dies selbstverwaltet und möglichst ohne Gewaltstrukturen zu erreichen? Über neue Wege um Frieden, Gerechtigkeit und Sicherheit zu denken (Livestream mit einem <b>Asayîş-Mitglied</b> aus der Autonomen Administration Nord- und Ostsyrien).
+- Hier erhielten wir einen Einblick in die Wirklichkeit in Rojava. Wie wird in einer von Krieg zerrütteten Region Sicherheit organisiert? Und welche Strukturen gibt es, um dies selbstverwaltet und möglichst ohne Gewaltstrukturen zu erreichen? Über neue Wege um Frieden, Gerechtigkeit und Sicherheit zu denken (Livestream mit einem <b>Asayîş-Mitglied</b> aus der Autonomen Administration Nord- und Ostsyrien).
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TldhcP43Npc?si=uIqRJCX5djEFdgeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br><br>
 
 <b>12:30 Uhr</b>: Abschluss
-- In einem gemeinsamen Abschluss und mit einem Keynote-Vortrag wollen wir noch einmal zentrale Erkenntnisse und Diskussionspunkte der Tagung hervorheben (mit einem Überraschungsgast).
+- In einem gemeinsamen Abschluss und mit einem Keynote-Vortrag haben wir noch einmal zentrale Erkenntnisse und Diskussionspunkte der Tagung hervorgehoben (mit einem Überraschungsgast).
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOYDtTbOcX0?si=gk3mo-IJRMWkoIkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 </div>
 
@@ -137,8 +141,6 @@ Sonntag, 26.01.2025
 
 Die Ausstellung <a href="https://womendefendrojava.net/de/ausstellung-jin-jiyan-azadi-die-errungenschaften-der-frauenrevolution/
 ">„Jin Jiyan Azadî – die Errungenschaften der Frauenrevolution“</a> wurde zusammen von Kongra Star (Nord- und Ostsyrien), dem Europakomitee der Stiftung der Freien Frauen Syriens (WJAS) und Women Defend Rojava erarbeitet. Sie wirft mit ihren aussagekräftigen Bildern und Texten einen Blick in die verschiedenen Lebensbereiche, in denen die Frauen der Region ihre selbst verwalteten Strukturen aufgebaut haben. Mit Blick auf 13 Themen erzählen insgesamt 26 Stoffbanner durch kurze, prägnante Texte und großformatige Fotos vom Leben und Wirken der Frauen. 
-
-
 
 <h3>Unsere Gäst*innen</h3>
 
@@ -199,12 +201,6 @@ Kerem Schamberger ist Kommunikationswissenschaftler und in der Öffentlichkeitsa
 Sara Stachelhaus ist Programmkoordinatorin für Syrien bei der Heinrich-Böll Stiftung in Beirut und arbeitet u.a. zu den Themen Flucht und Aufnahme von Geflüchteten, zum Assad-Regime und zum Syrienkrieg. Sie studierte an der Universität Tübingen und engagierte sich beim Verband der Jungen Europäischen Föderalisten.
 {{< /accordion >}}
 
-
-<h3>Anmeldung</h3>
-<p style="text-align: justify">
-Für eine bessere Planung sind wir auf Ihre Anmeldung angewiesen. Bitte melde dich <a href="https://cloud.collegiumacademicum.de/apps/forms/s/BDm8f99ebi8yLKFptBsqXNzy">unter diesem Link</a> an. Die Teilnahme ist kostenlos.
-</p>
-
 <h3>Anfahrt</h3>
 <p style="text-align: justify">
 Die Tagung findet in den Räumlichkeiten des selbstverwalteten Wohnheims Collegium Academicum (CA), Marie-Clauss Straße 3, 69126 Heidelberg statt (<a href="https://collegiumacademicum.de/anfahrt/">Anfahrt</a>). Das CA befindet sich in einem autofreien Quartier. Wir können vor Ort somit keine Parkplätze bereitstellen und empfehlen daher eine Anfahrt mit den öffentlichen Verkehrsmitteln. Neben unserer Fläche hält auch die Straßenbahn der Linie 24, die direkt mit dem Heidelberger Hauptbahnhof verbunden ist.
@@ -213,7 +209,7 @@ Die Tagung findet in den Räumlichkeiten des selbstverwalteten Wohnheims Collegi
 <h3>Veranstalter und Förderung</h3>
 
 <p style="text-align: justify">
-"Perspektive Rojava" ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wird von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wird ermöglicht durch Förderungen der Stadt Heidelberg und der Rosa Luxemburg Stiftung Baden-Württemberg.
+"Perspektive Rojava" ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wurde von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wurde ermöglicht durch Förderungen der Stadt Heidelberg und der Rosa Luxemburg Stiftung Baden-Württemberg.
 </p>
 
 <figure>
