@@ -25,7 +25,7 @@ Der sanierte und modernisierte Altbau direkt neben unserem Wohnheim beherbergt E
 50 Teilnehmende, drei große Seminarräume sowie eine Fahrrad- und eine Metallwerkstatt.
 <br><br>
 Auf der falt*r-Website und auf unserem Instagram-Account bekommt ihr weitere Infos, unter anderem zum Bewerbungsverfahren, zum Programm und zum Team.
-
+Die nächsten <b>Online-Infoabende</b> finden am 15.05. und am 12.06. statt, jeweils um 19 Uhr. Füll einfach das Formular unten aus, um dich anzumelden oder schreib uns eine Mail.
 
 <p style="text-align:center">
 <a href="https://faltr.de/">
@@ -48,3 +48,7 @@ Auf der falt*r-Website und auf unserem Instagram-Account bekommt ihr weitere Inf
         <span>Mail</span>
    </a>
    </p>
+
+<div class="video-wrapper">
+<iframe src="https://cloud.collegiumacademicum.de/apps/forms/embed/MsDW8R9C8eBNzdF7fyrY7kzZ" width="750" height="1200"></iframe>
+</div>
