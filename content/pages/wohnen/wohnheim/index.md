@@ -13,8 +13,9 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 In unserem Wohnheim werden seitdem regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
 Die Bewerbungsfrist für den Einzug im April 2025 ist leider schon vorbei.
-Der nächstmögliche Einzugstermin ist der 1. Juli 2025. <--!Dafür kannst du dich ab Ende April über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
-Dafür kannst du dich <b>bis spätestens Sonntag, 27. April </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+Der nächstmögliche Einzugstermin ist der 1. Juli 2025. 
+<!-- Dafür kannst du dich ab Ende April über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
+Dafür kannst du dich <!-- <b>bis spätestens Sonntag, 27. April </b> --> über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 <br><br> 
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
@@ -81,7 +82,8 @@ So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
     </a>
 </div>
 
-<b>ACHTUNG! In der aktuellen Bewerbungsphase kam es zu technischen Problemen. Wenn du dich bereits beworben hast und KEINE BESTÄTIGUNGSMAIL erhalten hast, bewirb dich bitte erneut. Tritt das Problem weiterhin auf, schreib uns bitte unter <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Danke und Entschuldigung!</b>
+<b>ACHTUNG! Aufgrund von technischen Problemen in der aktuellen Bewerbungsphase wird die Bewerbungsfrist verlängert: Bewirb dich bei Interesse gern! Bitte achte darauf, dass du am Auswahltag, dem 11. Mai, Zeit hast (Online-Teilnahme ist möglich). 
+Falls du dich bereits beworben hast und KEINE BESTÄTIGUNGSMAIL erhalten hast, bewirb dich bitte erneut. Tritt das Problem weiterhin auf, schreib uns bitte unter <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Danke und Entschuldigung!</b>
 
 1. Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. <!-- Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. -->
 2. Wir lesen die eingehenden Bewerbungen. Alle Bewerber\*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber\*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.
