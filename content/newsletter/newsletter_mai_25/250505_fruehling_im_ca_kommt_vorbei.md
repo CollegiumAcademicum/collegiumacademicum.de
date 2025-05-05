@@ -20,7 +20,7 @@ Videos ab jetzt auf YouTube</a></li>
 <li><a href="#baustelle">„Partizipative Baustellen“ lassen unseren Garten aufblühen</a></li> 
 <br><br>
 <li><a href="#Orientierungsjahr">Orientierungsjahr falt*r: Zweiter Jahrgang in vollem Gange<br>
-Jetzt beim Info-Abend vorbeischauen und ab Oktober dabei sein!</a></li>
+Jetzt beim Online-Info-Abend vorbeischauen und ab Oktober dabei sein!</a></li>
 <br><br>
 <li><a href="#Tag_der_offenen_Tuer">Freitag, 23. Mai: Tag der offenen Tür beim Orientierungsjahr falt*r</a></li>
 <br><br>
@@ -49,19 +49,17 @@ Videos ab jetzt auf YouTube</h3>
     </figcaption>
 </figure>
 
-
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <figure style="flex: 1; text-align: center;">
         <img 
-            src="002_collage_rojava_tagung.png"
+            src="002_collage_rojava_tagung.PNG"
             alt="Plakat zur Tagung Perspektive Rojava (© CA)"
             style="width: 70%; height: auto;" />
         <figcaption style="text-align: center;">
             <p>Plakat zur Tagung Perspektive Rojava (© CA)</p>
         </figcaption>
-    </figure>
+ </figure>
 
 <div style="flex: 1;">
         <p> Das Jahr startete für uns mit der bisher größten Bildungsveranstaltung des CA. Gemeinsam mit vielen verschiedenen Vereinen und Initiativen organisierten engagierte Bewohner*innen eine zweitägige Konferenz zum Thema „Perspektive Rojava“, welche sich mit verschiedenen Aspekten der demokratischen Selbstverwaltung in Nord- und Ostsyrien auseinandersetzt. Die Menschen in dieser Region entwickeln  seit über 12 Jahren ein inspirierendes Experiment auf der Basis von Selbstbestimmung, Frauenbefreiung, Rätedemokratie sowie multiethnischem und multireligiösem Zusammenleben – und das, obwohl sie immer wieder Angriffen durch den türkischen Staat ausgesetzt sind.  Von all diesen und vielen weiteren Themen konnten die rund 200 Teilnehmer*innen in den zahlreichen Vorträgen und Workshops lernen und sich in lebhaften Diskussionen austauschen. Eine Ausstellung zur kurdischen Frauenbewegung, gemeinsames Essen sowie ein unterhaltsames Abendprogramm rundeten die Veranstaltung ab. Auf unserem <a href="https://www.youtube.com/@collegiumacademicum">YouTube-Kanal</a> sind ab jetzt <a href="https://www.youtube.com/watch?v=fOYDtTbOcX0&list=PL377pBZLh2sBm702Dw2_YyaitlrqOVo9P">Aufzeichnungen aller Vorträge</a>
@@ -121,7 +119,7 @@ Videos ab jetzt auf YouTube</h3>
 
 <!-- Beginn Orientierungsjahr-->
 <h3 id="Orientierungsjahr">Orientierungsjahr falt*r: Zweiter Jahrgang in vollem Gange<br><br>
-Jetzt beim Info-Abend vorbeischauen und ab Oktober dabei sein!</h3>
+Jetzt beim Online-Info-Abend vorbeischauen und ab Oktober dabei sein!</h3>
 
 <p>Halbzeit für den zweiten falt*r-Jahrgang! Seit Januar hat sich einiges getan: <br>
 Im April kehrten die Teilnehmenden aus ihrer achtwöchigen Reisezeit zurück – mit spannenden Erfahrungen aus Schweden, Polen und quer durch Deutschland. Währenddessen hat das Team das Feedback ausgewertet und weiter am Programm gefeilt, um die Begleitung noch individueller und vielseitiger zu gestalten. Es ging auch um die Frage, wie die Orientierung in Richtung einer Ausbildung stärker im Programm verankert werden können.</p>
