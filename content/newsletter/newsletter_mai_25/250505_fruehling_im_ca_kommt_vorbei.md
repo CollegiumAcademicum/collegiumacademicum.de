@@ -41,7 +41,7 @@ Videos ab jetzt auf YouTube</h3>
 
 <figure>
     <img 
-        src="content/newsletter/newsletter_mai_25/001_tagung_rojava_logo.png"
+        src="https://collegiumacademicum.de/content/newsletter/newsletter_mai_25/001_tagung_rojava_logo.png"
         alt="Plakat zur Tagung Perspektive Rojava (© CA)"
         style="display: block; width: 50%; margin: 0 auto 0 auto;" />
     <figcaption style="text-align: center;">
