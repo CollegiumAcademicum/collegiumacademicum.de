@@ -41,7 +41,7 @@ Videos ab jetzt auf YouTube</h3>
 
 <figure>
     <img 
-        src="001_tagung_rojava_logo.png"
+        src="/001_tagung_rojava_logo.png"
         alt="Plakat zur Tagung Perspektive Rojava (© CA)"
         style="display: block; width: 50%; margin: 0 auto 0 auto;" />
     <figcaption style="text-align: center;">
