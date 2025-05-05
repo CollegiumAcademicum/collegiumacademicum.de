@@ -14,22 +14,22 @@ date: 2025-05-05
 <ul>
 <li><a href="#rojava">Erfolgreiche Tagung zum Thema „Perspektive Rojava“<br>
 Videos ab jetzt auf YouTube</a></li>
-    
+  <br><br>  
 <li><a href="#fastenbrechen">Interkulturelles Fastenbrechen und weitere Veranstaltungen in unserer Aula</a></li>
-
+<br><br>
 <li><a href="#baustelle">„Partizipative Baustellen“ lassen unseren Garten aufblühen</a></li> 
-
+<br><br>
 <li><a href="#Orientierungsjahr">Orientierungsjahr falt*r: Zweiter Jahrgang in vollem Gange<br>
 Jetzt beim Info-Abend vorbeischauen und ab Oktober dabei sein!</a></li>
-
+<br><br>
 <li><a href="#Tag_der_offenen_Tuer">Freitag, 23. Mai: Tag der offenen Tür beim Orientierungsjahr falt*r</a></li>
-
+<br><br>
 <li><a href="FöVe">Der Förderverein sucht Unterstützung</a></li>
-
+<br><br>
 <li><a href="Städtebau">Herzliche Einladung zum Tag der Städtebauförderung am 10. Mai von 11:00 bis 17:00 Uhr</a></li>
-
+<br><br>
 <li><a href="#Termine">Weitere Termine</a></li>
-
+<br><br>
 <li><a href="#Presse">In der Presse</a></li>
 </ul>
 
