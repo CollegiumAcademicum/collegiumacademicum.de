@@ -22,9 +22,8 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Sa, 12.04., 20 Uhr | Heidelberger Frühling [re:start Wandelkonzert](https://www.heidelberger-fruehling.de/veranstaltung/restart-konzert-im-collegium-academicum), Eintritt frei – Spenden sind willkommen
-Fr, 25.04., 22 Uhr | [Insomnis House Party](https://rausgegangen.de/events/insomnis-house-party-0/), EIntritt: 5 € (Vorverkauf), 8 € (Abendkasse)
-Sa, 26.04., 19 Uhr | Forrò Tanzabend
 Tue, 06.05., 19:30-0 Uhr | [Gidiki Band Live Konzert](https://rausgegangen.de/events/gidiki-live-konzert-0/), Eintritt: 20 € (Vorverkauf), 22 € (Abendkasse)
-Fr, 09.05., 19:30-0 Uhr | Live in Heidelberg - [DJ Night](https://www.eventbrite.de/e/dj-night-spin-your-sound-own-the-night-tickets-1321340036619), Eintritt ab 10 €
-Fr, 23.05., 16 Uhr | Großes falt*r: Sommerfest und Tag der offenen Tür (Save the date!)
+Sa, 10.05. 11-17 Uhr | <a href="https://www.heidelberg.de/Konversion/Startseite+Konversion/Termine/tag+der+staedtebaufoerderung.html">Tag der Städtebauförderung</a>
+Do, 15.05. 19 Uhr | falt*r Infoabend (Online) - Anmeldung über das <a href="https://collegiumacademicum.de/orientierungsjahr/">Online-Formular</a>
+So, 18.05., 17 Uhr | CAntine (Küche für alle)
+Fr, 23.05., 16 Uhr | Großes falt*r Sommerfest und Tag der offenen Tür
