@@ -52,7 +52,7 @@ Der Vortrag zum Thema "Abolitionistische Demokratie" mit Prof. Dr. Michael Haus 
         <img src="/newsletter/newsletter_mai_25/03_rojava_tagung.jpg" alt="Unser Kochteam hat leckeres Essen gezaubert" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
         <img src="/newsletter/newsletter_mai_25/04_rojava_tagung.png" alt="Podiumsdiskussion" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
 </div>
-<p> Einblicke in die Tagung "Perspektive Rojava"(© CA)</p>
+<p style=text-align: center;"> Einblicke in die Tagung "Perspektive Rojava"(© CA)</p>
 <!--Ende Rojava-Tagung -->
 
 <!-- Beginn Fastenbrechen -->
