@@ -1,5 +1,5 @@
 ---
-title: Frühling im CA | Kommt gerne vorbei!
+title: Frühling im CA | Kommt gerne vorbei! 
 date: 2025-05-06
 ---
 
