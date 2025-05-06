@@ -135,7 +135,7 @@ Die Anmeldung geht ganz  bequem über das <a href="http://www.faltr.de/dabei-sei
                 alt="Bild vom Sommerfest 2023 (© CA)"
                 style="display: block; width: 350px; margin: 0;" />
             <figcaption style="text-align: center;">
-                <p>Wir freuen uns auf ein schönes Sommerfest mit Ihnen und Euch (© CA) (© CA)</p>
+                <p>Wir freuen uns auf ein schönes Sommerfest mit Ihnen und Euch (© CA)</p>
             </figcaption>
         </figure>
     </div>
