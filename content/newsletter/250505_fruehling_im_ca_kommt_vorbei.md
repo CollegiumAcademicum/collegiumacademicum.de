@@ -1,6 +1,6 @@
 ---
 title: Frühling im CA | Kommt gerne vorbei!
-date: 2025-05-05
+date: 2025-05-06
 ---
 
 <h2>Liebe Unterstützer*innen,</h2> <br>
@@ -52,6 +52,7 @@ Der Vortrag zum Thema "Abolitionistische Demokratie" mit Prof. Dr. Michael Haus 
         <img src="/newsletter/newsletter_mai_25/03_rojava_tagung.jpg" alt="Unser Kochteam hat leckeres Essen gezaubert" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
         <img src="/newsletter/newsletter_mai_25/04_rojava_tagung.png" alt="Podiumsdiskussion" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
 </div>
+<p> Einblicke in die Tagung "Perspektive Rojava"(© CA)</p>
 <!--Ende Rojava-Tagung -->
 
 <!-- Beginn Fastenbrechen -->
@@ -131,10 +132,10 @@ Die Anmeldung geht ganz  bequem über das <a href="http://www.faltr.de/dabei-sei
         <figure>
             <img 
                 src="/newsletter/newsletter_mai_25/sommerfest.PNG"
-                alt="Sommerfest 2023 (© CA)"
+                alt="Bild vom Sommerfest 2023 (© CA)"
                 style="display: block; width: 350px; margin: 0;" />
             <figcaption style="text-align: center;">
-                <p>Sommerfest 2023 (© CA)</p>
+                <p>Wir freuen uns auf ein schönes Sommerfest mit Ihnen und Euch (© CA) (© CA)</p>
             </figcaption>
         </figure>
     </div>
@@ -204,7 +205,7 @@ Daneben sind wie immer auch <strong>einmalige Spenden</strong> sehr willkommen! 
     <strong>Einlass: 19:30</strong>, die Musik beginnt um <strong>20:30 Uhr</strong>. <br><strong>Tickets</strong> gibt es für 20€ im Vorverkauf auf <a href="https://rausgegangen.de/events/gidiki-live-konzert-0/">rausgegangen.de</a> oder für 22€ an der Abendkasse.<br><br>
     </li>
     <li>
-    <strong>10. Mai, 11:00 Uhr -17:00 Uhr: Tag der Städtebauförderung 2025</strong> auf dem Mendelejewplatz und rundum das CA. <br><br>
+    <strong>10. Mai, 11:00 Uhr -17:00 Uhr: Tag der Städtebauförderung 2025</strong> auf dem Mendelejewplatz und rund um das CA. <br><br>
     </li>
     <li>
     <strong>15. Mai, 19:00 Uhr: Infoabend beim Orientierungsjahr falt*r (online)</strong> Anmeldung über das <a href="http://www.faltr.de/dabei-sein">Formular auf der Website</a>. <br><br> 
