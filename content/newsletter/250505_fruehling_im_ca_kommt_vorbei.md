@@ -37,7 +37,7 @@ date: 2025-05-06
         style="display: block; width: 75%; margin: 0 auto 0 auto;" />
     </a>
     <figcaption style="text-align: center;">
-        <p>Plakat zur Tagung Perspektive Rojava (© CA)</p>
+        <p>Plakat zur Tagung "Perspektive Rojava" (© CA)</p>
     </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Der Vortrag zum Thema "Abolitionistische Demokratie" mit Prof. Dr. Michael Haus 
         <img src="/newsletter/newsletter_mai_25/03_rojava_tagung.jpg" alt="Unser Kochteam hat leckeres Essen gezaubert" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
         <img src="/newsletter/newsletter_mai_25/04_rojava_tagung.png" alt="Podiumsdiskussion" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
 </div>
-<p style=text-align: center;"> Einblicke in die Tagung "Perspektive Rojava"(© CA)</p>
+<p style="text-align: center;"> Einblicke in die Tagung "Perspektive Rojava" (© CA)</p>
 <!--Ende Rojava-Tagung -->
 
 <!-- Beginn Fastenbrechen -->
@@ -74,7 +74,7 @@ Der Vortrag zum Thema "Abolitionistische Demokratie" mit Prof. Dr. Michael Haus 
 
 <p style="text-align: justify;">Ähnliches gab es bereits einige Wochen zuvor beim Poetry-Slam, der ebenfalls im Rahmen der Internationalen Wochen gegen Rassismus in unserer Aula stattfand. Zudem wurde unser Veranstaltungsraum dieses Jahr bereits für einige Tanzabende, Technoevents oder das einzigartige Schlafkonzert des Festival-Campus-Ensembles beim Heidelberger Frühling genutzt.</p>
 
-<p>Welche Veranstaltungen zukünftig im CA anstehen, erfahren Sie in diesem Newsletter und immer aktuell auf unserem Instagram-Kanal <a href="https://www.instagram.com/collegiumacademicum/">@collegiumacademicum</a>.</p>
+<p style="text-align: justify;">Welche Veranstaltungen zukünftig im CA anstehen, erfahren Sie in diesem Newsletter und immer aktuell auf unserem Instagram-Kanal <a href="https://www.instagram.com/collegiumacademicum/">@collegiumacademicum</a>.</p>
 
 <!-- Ende Fastenbrechen -->
 
@@ -114,7 +114,7 @@ Einige Teilnehmer*innen haben Veranstaltungen an Heidelberger Hochschulen besuch
 
 <p style="text-align: justify">Außerdem steht diese Woche für die Teilnehmenden des Orientierungsjahres die  Montpellier-Fahrt an, eine fünftägige Exkursion in die französische Partnerstadt Heidelbergs. Ziel ist es, die deutsch-französische Freundschaft zu stärken sowie Barrieren für ein Auslandsstudium abzubauen und mehr über französische Strategien zur Umsetzung der sozial-ökologischen Transformation in Städten zu lernen.</p>
 
-<p>Wer wissen möchte, was unserer falt*r-Teilnehmenden sonst noch alles erleben, der folgt am besten dem Instagram-Kanal <a href="https://www.instagram.com/faltr_orientierungsjahr/">@faltr_orientierungsjahr</a> und schaut auf der Website <a href="https://faltr.de/">www.faltr.de </a>  vorbei.</p> 
+<p style=text-align: justify;>Wer wissen möchte, was unserer falt*r-Teilnehmenden sonst noch alles erleben, der folgt am besten dem Instagram-Kanal <a href="https://www.instagram.com/faltr_orientierungsjahr/">@faltr_orientierungsjahr</a> und schaut auf der Website <a href="https://faltr.de/">www.faltr.de </a>  vorbei.</p> 
 
 <p style="text-align: justify">Und wer nun selbst Lust auf ein Orientierungsjahr bekommen hat oder es Freund*innen und Bekannten empfehlen möchte, den laden wir herzlich zu einem unserer kostenlosen und unverbindlichen <strong>Online-Infoabende</strong> ein. Die nächsten Termine finden am <strong>15.05</strong> sowie am <strong>12.06. jeweils um 19 Uhr</strong> per Videokonferenz statt.<br> <br> 
 Die Anmeldung geht ganz  bequem über das <a href="http://www.faltr.de/dabei-sein">Online-Formular auf dieser Seite </a>.</p>
@@ -187,7 +187,7 @@ Daneben sind wie immer auch <strong>einmalige Spenden</strong> sehr willkommen! 
     </figure>
 </div>
 
-<p>Neben dem falt*r-Sommerfest laden wir Sie und Euch schon <strong>diesen Samstag von 11:00 bis 17:00 Uhr</strong> zum Tag der Städtebauförderung ein. Gemeinsam mit vielen anderen Akteur*innen sorgen wir rund um den Mendelejewplatz und das CA für ein buntes und lebendiges Stadtteilfest unter dem Motto „Lebendige Orte, starke Gemeinschaften“. Dabei bieten wir unter anderem kühle Getränke und leckeres Essen bei unserer Küche für alle, Kinderschminken, einen kostenlosen Fahrradcheck und eine Mitmachaktion in unserer Holzwerkstatt. Zudem gibt es Führungen durch unseren ökologischen Passivhaus-Neubau und den nachhaltig sanierten Altbau. </p>
+<p style="text-align: justify;">Neben dem falt*r-Sommerfest laden wir Sie und Euch schon <strong>diesen Samstag von 11:00 bis 17:00 Uhr</strong> zum Tag der Städtebauförderung ein. Gemeinsam mit vielen anderen Akteur*innen sorgen wir rund um den Mendelejewplatz und das CA für ein buntes und lebendiges Stadtteilfest unter dem Motto „Lebendige Orte, starke Gemeinschaften“. Dabei bieten wir unter anderem kühle Getränke und leckeres Essen bei unserer Küche für alle, Kinderschminken, einen kostenlosen Fahrradcheck und eine Mitmachaktion in unserer Holzwerkstatt. Zudem gibt es Führungen durch unseren ökologischen Passivhaus-Neubau und den nachhaltig sanierten Altbau. </p>
 <br>
 <strong>Wir freuen uns auf Sie und Euch.</strong>
 </p>
