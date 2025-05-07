@@ -10,10 +10,10 @@ After a long planning and construction phase, the first 176 residents finally mo
 
 In our dormitory, we are regularly looking for new residents to fill vacant rooms.
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
-Unfortunately, applications for April 2025 move-in are already closed. 
-The next possible move-in date is July 1, 2025.
-<!-- You can apply for this starting from the end of April via the application form here on our website.-->
-You can apply for this <!-- <b>until Sunday, April 27 at the latest</b> --> via the application form here on our website.
+Unfortunately, applications for July 2025 move-in are already closed. 
+The next possible move-in date is October 1, 2025.
+You can apply for this starting from the beginning of July via the application form here on our website.
+<!-- You can apply for this <b>until Sunday, April 27 at the latest</b> via the application form here on our website.-->
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
 
@@ -54,22 +54,18 @@ As we usually receive more applications than we can offer rooms, we do have to f
 
 Here is how the application for a room in our dormitory works:
 
-<div class="buttons is-centered">
+<!-- <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Application form</span>
-    </a>
+    </a> -->
 </div>
-
-<b>ATTENTION! Because of technical problems in the current application phase, the application phase will stay open longer: You can apply now if you would like to move in! Please note that you should have time on the application day (you can take part online if you want to). 
-
-If you already applied and did not get a confirmation email, please apply again. If you still do not receive a confirmation email, please reach out to us under <a href="mailto:einziehen@collegiumacademicum.de">einziehen@collegiumacademicum.de</a>. Thank you and apologies!</b>
 
 1. You fill out the application form <a href="/en/application">application form</a>, either in German or in English. Please take note of the maximum text lengths. 
 2. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
-3. About two weeks after the application deadline, the application day takes place. <b>For the July 2025 move-in, the application day will be on Sunday, May 11.</b> The intention of this day is to give you an insight into life in the CA and the structure of the self-management. It also allows us to get to know you better so that we can make an informed decision. We will first introduce the CA, followed by a group phase and a 15-minute individual interview. If you are invited to the application day, you are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the application day in presence, if it's possible for you, so that you can get to know our project better. Throughout the day we will make notes - not to assess you and put you into fixed categories, but to have a clear image of your afterwards and also to mitigate our own biases. After the application day, we decide which applicants we would like to accept. If we want to accept more applicants than we have vacant rooms, we first assign acceptances on the basis of a quota to enable apprentices and those, who are already active in the project, in particular to move into the CA. After that, we assign acceptances by drawing lots.
+3. About two weeks after the application deadline, the application day takes place. <b>For the October 2025 move-in, the application day will be on Sunday, August 17.</b> The intention of this day is to give you an insight into life in the CA and the structure of the self-management. It also allows us to get to know you better so that we can make an informed decision. We will first introduce the CA, followed by a group phase and a 15-minute individual interview. If you are invited to the application day, you are free to choose whether you want to participate on-site at the CA or online. We take care not to favor or disadvantage applicants because of their participation in presence or online. However, we recommend you to come to the application day in presence, if it's possible for you, so that you can get to know our project better. Throughout the day we will make notes - not to assess you and put you into fixed categories, but to have a clear image of your afterwards and also to mitigate our own biases. After the application day, we decide which applicants we would like to accept. If we want to accept more applicants than we have vacant rooms, we first assign acceptances on the basis of a quota to enable apprentices and those, who are already active in the project, in particular to move into the CA. After that, we assign acceptances by drawing lots.
 4. Within one week after the application day, you will receive a feedback from us via email. If you are accepted, you have two days to decide whether you want to move in. The AG Mietverwaltung will then set up your rental contract. We will then invite you to a WG finding day, where you can get to know the different WGs in which rooms become vacant. Afterwards, you can give feedback on which WGs you would or would not like to move into. Likewise, the WGs can give feedback. We try to take all wishes into account as well as possible. 
 
 If you are interested in living in our dormitory, but would only like to move in at a later date, you can sign up here for our moving-in newsletter. Then we will always inform you directly as soon as a new application process has started.
