@@ -20,8 +20,8 @@ Neben Livemusik und vielen tollen Ständen von anderen Teilnehmer*innen bieten w
 
 <ul>
   <li>Führungen durch unseren Alt- und Neubau</li><br>
-  <li>Infostände zu unserem selbstverwalteten Wohnheim und unserem <ahref="https://faltr.de/">Orientierungsjahr falt*r</a></li>
-  <li>Kinderschminken</li>
+  <li>Infostände zu unserem selbstverwalteten Wohnheim und unserem <ahref="https://faltr.de/">Orientierungsjahr falt*r</a></li><br>
+  <li>Kinderschminken</li><br>
   <li>Essen und Getränke bei unserer Küche für alle</li>
 </ul>
 
