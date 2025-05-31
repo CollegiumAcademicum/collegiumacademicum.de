@@ -29,7 +29,7 @@ $i18n = [
         "privacy-notice" => "Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ finden Sie weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
     ],
-    "de" => [
+    "en" => [
         "full_name" => "Name",
         "email" => "E-mail",
         "fromWhere" => "From where?",
@@ -57,7 +57,7 @@ function send_mail($from, $to, $data, $lang, $with_message) {
         call_user_func_array(array($mail, "addAddress"), $to);
         call_user_func_array(array($mail, "addReplyTo"), $from);
 
-        $mail->Subject = "{$i18n[$lang]['registration']} {$data['full_name']} Collegium Academicum";
+        $mail->Subject = "{$i18n[$lang]['registration']} {$data['full_name']}";
         $body = "";
 
         if ($with_message) {
@@ -115,6 +115,10 @@ if($form->submit()){
     if ($spam_protection == 9 and $fake_mail_field == "" and ! $spam ) {
         $data = ["email" => $form->post('email','Email','valid_email')];
     	foreach ($fields as $field) {
+            // Skip if the field is "mail" or "spam_protection"
+            if ($field === 'mail' || $field === 'spam_protection') {
+                continue;
+            }
         	$_dat = $form->post($field);
         	// just a sanity check, shouldnt happen but if somebody does shenanigans this will cut it down
         	if (mb_strlen($_dat, 'utf8') > 2500) {
