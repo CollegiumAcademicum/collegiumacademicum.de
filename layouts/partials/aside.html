@@ -26,7 +26,7 @@
         </div>
       </div>-->
 
-<!--
+
 <div class="card">
 <div class="card-image" style="background-image: url({{ "img/layout/exkursionen.jpg" | relURL }});"></div>
 	<div class="card-content">
@@ -36,10 +36,10 @@
             </p>
             <br>
               <table>
-                  <tr><td><strong>27.04.2025</strong></td> <td><strong>16:00 Uhr</strong></td></tr>
+                  <tr><td><strong>DD.MM.2025</strong></td> <td><strong>16:00 Uhr</strong></td></tr>
 	          </table>
             <br>
-            {{ i18n "register-per-mail"}} <a href="mailto:exkursion@collegiumacademicum.de">exkursion@collegiumacademicum.de</a>.
+            <a href="{{ with .Site.GetPage "/fuehrungen" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "register-tour" }}</a>
             <br>
             <br>
     <p>Anschließend laden wir alle noch ganz herzlich zum gemeinsamen Essen in unserer <strong>CAntine</strong> ein. 
@@ -49,7 +49,7 @@
     <br>
         </div>
       </div>
--->
+
 
 
 
