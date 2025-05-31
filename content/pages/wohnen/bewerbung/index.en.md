@@ -130,13 +130,7 @@ Here you can sign up for our moving-in newsletter. Then we will inform you direc
         <input class="input" type="text" placeholder="" maxlength="60" name="children">
     </div>
 </div>
-<div class="field">
-    <label class="label" for="contacts">Do you already know people that you want to move together with?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="contacts">
-    </div>
-    <p class="help">That could be somebody applying concurrently or already living in the house.</p>
-</div>
+<h2>Other information</h2>
 <div class="field">
     <label class="label" for="already_applied">Have you previously applied for a place in our dormitory?</label>
     <div class="control">
