@@ -15,7 +15,7 @@ $log_file = 'spam-protection.log';
 // NOTE:The field mail is a fake field for spam protection
 $fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
 'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'pronouns',
-'barrier_free', 'children', 'contacts', 'language_application_day', 'spam_protection', 'rooms_in_altbau'];
+'barrier_free', 'children', 'language_application_day', 'spam_protection', 'rooms_in_altbau', 'already_applied'];
 
 $i18n = [
     "de" => [
@@ -32,7 +32,6 @@ $i18n = [
         "pronouns" => "Pronomen",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
-        "contacts" => "MitbewohnerInnen-Wunsch",
         "language_application_day" => "Sprache",
 	"rooms_in_altbau" => "Interesse an Zimmern im Altbau",
         "application" => "Bewerbung",
@@ -58,7 +57,6 @@ $i18n = [
         "pronouns" => "Pronouns",
         "barrier_free" => "Accessibility",
         "children" => "Children",
-        "contacts" => "Roommate wish",
         "language_application_day" => "Language",
 	"rooms_in_altbau" => "Interest in rooms in the old building", 
         "application" => "Application",

@@ -12,7 +12,7 @@ In our dormitory, we are regularly looking for new residents to fill vacant room
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
 Unfortunately, applications for July 2025 move-in are already closed. 
 The next possible move-in date is October 1, 2025.
-You can apply for this starting from the beginning of July via the application form here on our website.
+You can apply for this starting from the beginning of July via the application form here on our website. On request we can also accept applications for the following move-in (January), in such special cases please send us a short mail :).
 <!-- You can apply for this <b>until Sunday, April 27 at the latest</b> via the application form here on our website.-->
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
