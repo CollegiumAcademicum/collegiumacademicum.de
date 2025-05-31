@@ -135,14 +135,7 @@ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir 
         <input class="input" type="text" placeholder="" maxlength="60" name="children">
     </div>
 </div>
-<div class="field">
-    <label class="label" for="contacts">Kennst du bereits andere Leute, mit denen du zusammenziehen
-        möchtest?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="contacts">
-    </div>
-    <p class="help">Die Person könnte bereits im Haus wohnen oder sich zur gleichen Zeit wie du bewerben.</p>
-</div>
+<h2>Weiteres</h2>
 <div class="field">
     <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben? </label>
     <div class="control">
