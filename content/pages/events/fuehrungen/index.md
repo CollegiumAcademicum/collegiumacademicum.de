@@ -77,8 +77,8 @@ Die nächste Führung ist am DD.MM.YYYY</p>
         <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
     </div>
 </div>
-<p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
-<p>Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
+<p>Nach dem Absenden bekommen Sie eine Bestätigungsmail an Ihre angegebene E-Mail-Adresse.</p>
+<p>Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> finden Sie weitere Informationen.</p>
 
 <div class="field">
     <div class="control">
