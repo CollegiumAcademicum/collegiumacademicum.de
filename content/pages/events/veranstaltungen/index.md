@@ -27,3 +27,4 @@ Do, 12.06., 19 Uhr | falt*r Infoabend (Online) - Anmeldung über das <a href="ht
 Do, 19.06. | Antirassismus-Workshop mit Mosaik Deutschland e.V.
 Sa, 21.06., 19 Uhr | Forró-Tanzabend
 So, 29.06., 17 Uhr | CAntine (Küche für alle)
+Sa, 29.11.2025 | Zine Fair Heidelberg, Kontakt und Standanmeldung: solarpunk.hd@gmail.com
