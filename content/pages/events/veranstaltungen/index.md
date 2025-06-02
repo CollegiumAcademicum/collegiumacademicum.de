@@ -3,7 +3,7 @@ title: "Veranstaltungen"
 ---
 
 <p style="text-align:center">
-Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
+Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in der Tabelle unten und auf:
 </p>
 
 <p style="text-align:center">
