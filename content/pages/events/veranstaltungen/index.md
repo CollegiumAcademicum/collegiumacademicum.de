@@ -22,6 +22,9 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du auf:
 
 Datum | Veranstaltung 
 -------- | -------- 
-Do, 15.05. 19 Uhr | falt*r Infoabend (Online) - Anmeldung über das <a href="https://collegiumacademicum.de/orientierungsjahr/">Online-Formular</a>
-So, 18.05., 17 Uhr | CAntine (Küche für alle)
-Fr, 23.05., 16 Uhr | Großes falt*r Sommerfest und Tag der offenen Tür
+Fr, 06.06., 20 Uhr | Yoshi Nardo: "Viersitzer"-EP Release Show / Support_ ildikór, Tickets auf <a href="https://rausgegangen.de/en/events/yoshi-nardo-viersitzer-ep-release-show-support-ildiko-0/">rausgegangen.de</a> 
+Do, 12.06., 19 Uhr | falt*r Infoabend (Online) - Anmeldung über das <a href="https://collegiumacademicum.de/orientierungsjahr/">Online-Formular</a>
+Do, 19.06. | Antirassismus-Workshop mit Mosaik Deutschland e.V.
+Sa, 21.06., 19 Uhr | Forró-Tanzabend
+So, 29.06., 17 Uhr | CAntine (Küche für alle)
+Sa, 29.11. | Zine Fair Heidelberg, Kontakt und Standanmeldung: solarpunk.hd@gmail.com
