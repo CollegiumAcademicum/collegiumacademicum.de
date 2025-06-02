@@ -3,7 +3,8 @@ date = "27.05.2025"
 title = "Deutscher Holzbaupreis 2025"
 link = "https://www.deutscher-holzbaupreis.de/holzbaupreis-2025/die-preistraeger-2025"
 institution = "Holzbau Deutschland – Bund Deutscher Zimmermeister im Zentralverband des Deutschen Baugewerbes, Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen & Partner"
-
+img = "250527_CA_©Holzbaupreis.jpg"
+attr = "Holzbau Deutschland"
 
 [[prizes]]
 date = "29.11.2024"
