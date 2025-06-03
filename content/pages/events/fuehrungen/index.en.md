@@ -5,8 +5,10 @@ novoigl: yes
 ---
 
 <form action="/fuehrungen/send.php" method="post" accept-charset="utf-8">
-<p>Some test as intro
-<br>
+<p>Would you like to visit the CA in person? Or would you like to find out what life is like at the CA?
+
+If you answer ‘yes’ to any of these questions, you've come to the right place. We offer guided tours of the CA once a month. We explain the residential concept of the housing project, how the self-administration works and show you a flat from the inside. 
+
 The next guided tour is on DD.MM.YYYY</p>
 
 <h2>Registration to the next guided tour</h2>
