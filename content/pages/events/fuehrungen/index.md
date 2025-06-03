@@ -5,8 +5,11 @@ novoigl: yes
 ---
 
 <form action="/fuehrungen/send.php" method="post" accept-charset="utf-8">
-<p>Irgendein netter einleitender Text ...
-<br>
+<p>Haben Sie Lust, das CA einmal persönlich zu besichtigen? Oder möchten Sie erfahren, wie es sich im CA lebt?
+
+Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wir bieten einmal im Monat Führungen durch das CA an.
+Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise der Selbstverwaltung und zeigen Ihnen eine Wohnung von innen.
+
 Die nächste Führung ist am DD.MM.YYYY</p>
 
 <h2>Anmeldung zur nächsten Führung</h2>
