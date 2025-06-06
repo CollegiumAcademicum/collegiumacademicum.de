@@ -165,6 +165,9 @@ other = "Wir bitten darum, eine FFP2-Maske zu tragen und nur nach einem negative
 [register-per-mail]
 other = "Anmelden per Mail an "
 
+[register-tour]
+other = "Anmelden"
+
 [mehr]
 other = "Mehr"
 
