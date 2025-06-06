@@ -10,7 +10,7 @@ novoigl: yes
 Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wir bieten einmal im Monat Führungen durch das CA an.
 Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise der Selbstverwaltung und zeigen Ihnen eine Wohnung von innen.
 
-Die nächste Führung ist am DD.MM.YYYY</p>
+Die nächste Führung ist am 29.06.2025, 14 Uhr.</p>
 
 <h2>Anmeldung zur nächsten Führung</h2>
 <div class="field">
