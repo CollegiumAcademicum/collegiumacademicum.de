@@ -169,6 +169,9 @@ other = "We kindly request to wear a FFP2 mask and to participate only after a n
 [register-per-mail]
 other = "Register by email to "
 
+[register-tour]
+other = "Register"
+
 [mehr]
 other = "More"
 
