@@ -9,7 +9,7 @@ novoigl: yes
 
 If you answer ‘yes’ to any of these questions, you've come to the right place. We offer guided tours of the CA once a month. We explain the residential concept of the housing project, how the self-administration works and show you a flat from the inside. 
 
-The next guided tour is on 29 June 2025, 14:00.</p>
+The next guided tour is on 29 June 2025, 16:00.</p>
 
 <h2>Registration to the next guided tour</h2>
 <div class="field">
