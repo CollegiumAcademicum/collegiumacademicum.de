@@ -22,8 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-Do, 19.06., 15-18 Uhr | [Workshop Grundlagen des Anarchismus](https://www.instagram.com/p/DKtlKsFt3AV/) mit Jonathan Eibisch, anschließend Küfa, Teilnahme kostenlos, Anmeldung mit [diesem Formular](https://cloud.collegiumacademicum.de/apps/forms/s/MdMGNPYWtQT6irPKaDH8WB5Z)
-Sa, 21.06., 19 Uhr | Forró-Tanzabend
 So, 29.06., 16 Uhr | Monatliche Führung
 So, 29.06., ab 17 Uhr | CAntine (Küche für alle)
 So, 06.07., 14-18 Uhr | [Flohmarkt](https://www.instagram.com/p/DKu0D7_oarp/) inkl. live DJs, Standanmeldung via [rausgegangen.de](https://rausgegangen.de/events/flohmarkt-im-collegium-academicum-mit-live-djs-0/)
