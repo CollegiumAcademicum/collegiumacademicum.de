@@ -10,10 +10,10 @@ After a long planning and construction phase, the first 176 residents finally mo
 
 In our dormitory, we are regularly looking for new residents to fill vacant rooms.
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
-Unfortunately, applications for July 2025 move-in are already closed. 
+<!-- Unfortunately, applications for July 2025 move-in are already closed. -->
 The next possible move-in date is October 1, 2025.
-You can apply for this starting from the beginning of July via the application form here on our website. On request we can also accept applications for the following move-in (January), in such special cases please send us a short mail :).
-<!-- You can apply for this <b>until Sunday, April 27 at the latest</b> via the application form here on our website.-->
+<!-- You can apply for this starting from the beginning of July via the application form here on our website. On request we can also accept applications for the following move-in (January), in such special cases please send us a short mail :). -->
+You can apply for this <b>until Sunday, August 3rd at the latest</b> via the application form here on our website. On request we can also accept applications for the following move-in (January), in such special cases please send us a short mail :).
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
 
@@ -54,13 +54,13 @@ As we usually receive more applications than we can offer rooms, we do have to f
 
 Here is how the application for a room in our dormitory works:
 
-<!-- <div class="buttons is-centered">
+ <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Application form</span>
-    </a> -->
+    </a> 
 </div>
 
 1. You fill out the application form <a href="/en/application">application form</a>, either in German or in English. Please take note of the maximum text lengths. 
