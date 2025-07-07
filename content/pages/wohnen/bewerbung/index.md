@@ -4,7 +4,7 @@ slug: "bewerbung"
 novoigl: yes
 ---
 
-<!--<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">-->
+<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
@@ -44,14 +44,14 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
- <div class="field extra-field">
+ <!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
     </div> 
-</div>
+</div> -->
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
