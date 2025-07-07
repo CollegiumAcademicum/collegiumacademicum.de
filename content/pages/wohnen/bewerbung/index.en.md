@@ -4,7 +4,7 @@ slug: "application"
 novoigl: yes
 ---
 
-<!--<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">-->
+<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is October 1, 2025. If you would like to move in in October, you can apply here <b>until Sunday, August 3, 2025</b> at the latest.</p> 
