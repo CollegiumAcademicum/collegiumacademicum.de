@@ -12,10 +12,10 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 <br><br>
 In unserem Wohnheim werden seitdem regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
-Die Bewerbungsfrist für den Einzug im Juli 2025 ist leider schon vorbei.
+<!-- Die Bewerbungsfrist für den Einzug im Juli 2025 ist leider schon vorbei. -->
 Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. 
-Dafür kannst du dich ab Anfang Juli über das Bewerbungsformular hier auf unserer Internetseite bewerben. Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
-<!-- Dafür kannst du dich <b>bis spätestens Sonntag, 27. April </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
+<!-- Dafür kannst du dich ab Anfang Juli über das Bewerbungsformular hier auf unserer Internetseite bewerben. --> 
+Dafür kannst du dich <b>bis spätestens Sonntag, 03. August </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
 <br><br> 
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
@@ -73,13 +73,13 @@ Prozess bist, sag uns gerne Bescheid!
 
 So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
-<!-- <div class="buttons is-centered">
+ <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Bewerbungsbogen</span>
-    </a> -->
+    </a>
 </div>
 
 1. Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. <!-- Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. -->
