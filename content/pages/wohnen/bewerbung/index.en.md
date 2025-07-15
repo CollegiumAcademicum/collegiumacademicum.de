@@ -33,7 +33,7 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
     </div>
 </div> 
 <div class="field">
-    <label class="label" for="phone">Phone number</label>
+    <label class="label" for="phone">Phone number *</label>
   	<div class="control has-icons-left">
         <input type="text" name="phone" value="" class="input required" maxlength="100" required/>
         <span class="icon is-small is-left">
