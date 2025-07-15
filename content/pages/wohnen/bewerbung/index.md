@@ -35,7 +35,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
     </div>
 </div> 
 <div class="field">
-    <label class="label" for="phone">Telefonnummer</label>
+    <label class="label" for="phone">Telefonnummer *</label>
   	<div class="control has-icons-left">
         <input type="text" name="phone" value="" class="input required" maxlength="100" required/>
         <span class="icon is-small is-left">
