@@ -41,13 +41,13 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
         </span>
     </div>
 </div> 
-<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. 
+<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
 <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
-    </div> -->
+    </div>
 </div>
 <div class="field">
     <label class="label" for="age">Birthday *</label>
