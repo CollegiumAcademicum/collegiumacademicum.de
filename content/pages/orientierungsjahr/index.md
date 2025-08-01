@@ -23,16 +23,15 @@ Auseinandersetzung und einer ganzheitlichen Betrachtung ermutigen.
 Zur eigenen Weiterentwicklung gehört für uns auch das Leben in einer Gemeinschaft.
 Der sanierte und modernisierte Altbau direkt neben unserem Wohnheim beherbergt Einzel- und Doppelzimmer für insgesamt
 50 Teilnehmende, drei große Seminarräume sowie eine Fahrrad- und eine Metallwerkstatt.
-<br><br>
-Auf der falt*r-Website und auf unserem Instagram-Account bekommt ihr weitere Infos, unter anderem zum Bewerbungsverfahren, zum Programm und zum Team.
-Die nächsten <b>Online-Infoabende</b> finden am 15.05. und am 12.06. statt, jeweils um 19 Uhr. Füll einfach das Formular unten aus, um dich anzumelden oder schreib uns eine Mail.
-
+</p>
+<br>
 <p style="text-align:center">
-<a href="https://faltr.de/">
+    <a href="https://faltr.de/">
         <span class="icon">
             <i class="icon-globe"></i>
         </span>
         <span>Website</span>
+    </a>
 
 <a href="https://www.instagram.com/faltr_orientierungsjahr">
         <span class="icon">
@@ -47,8 +46,7 @@ Die nächsten <b>Online-Infoabende</b> finden am 15.05. und am 12.06. statt, jew
         </span>
         <span>Mail</span>
    </a>
-   </p>
+</p>
 
-<div class="video-wrapper">
-<iframe src="https://cloud.collegiumacademicum.de/apps/forms/embed/MsDW8R9C8eBNzdF7fyrY7kzZ" width="750" height="1200"></iframe>
-</div>
+<p style="text-align:justify">
+Nach zwei tollen Jahrgängen wird der falt*r 2025/26 leider nicht stattfinden.</p>
