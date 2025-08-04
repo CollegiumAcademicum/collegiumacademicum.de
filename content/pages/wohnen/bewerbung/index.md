@@ -15,6 +15,27 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
 
  Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> 
 
+ <div>
+  <form action="https://list.collegiumacademicum.de/?p=subscribe&id=7" method="post"  name="subscribeform">
+    <div class="field has-addons">
+      <div class="control has-icons-left">
+        <input class="input" type="email" name="email" value="" placeholder="deine mailadresse" }}"/>
+        <span class="icon is-small is-left"><i class="icon-mail-alt"></i></span>
+      </div>
+      <input type="hidden" name="htmlemail" value="1" />
+      <input type="hidden" name="list[2]" value="signup" />
+      <input type="hidden" name="listname[2]" value="Collegium Academicum - Newsletter" />
+      <div style="display:none">
+	<input type="text" name="VerificationCodeX" value="" size="20">
+      </div>
+      <div class="control">
+	<!-- onClick="return checkform();" be -->
+	<input type="submit" name="subscribe" value="subscribe" }}"  class="button is-primary">
+      </div>
+    </div>
+  </form>
+</div>
+
 <!--<h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
