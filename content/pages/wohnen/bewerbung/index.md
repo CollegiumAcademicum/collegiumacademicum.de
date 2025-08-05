@@ -212,4 +212,4 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
  </form>
  -->
 
- <!--{{< einziehen-signup >}}-->
+ {{< einziehen-signup >}}
