@@ -15,7 +15,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
 
  Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> 
 
- <div>
+ <!-- <div>
   <form action="https://list.collegiumacademicum.de/?p=subscribe&id=7" method="post"  name="subscribeform">
     <div class="field has-addons">
       <div class="control has-icons-left">
@@ -34,7 +34,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
       </div>
     </div>
   </form>
-</div>
+</div> -->
 
 <!--<h2>Allgemein</h2>
 <div class="field">
