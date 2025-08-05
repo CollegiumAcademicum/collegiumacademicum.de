@@ -10,31 +10,10 @@ novoigl: yes
 <!-- Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
 Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 03. August </b> hier dafür bewerben:</p> -->
 
- Für den Einzug im Oktober 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2025.</b> Ab Anfang Oktober wirst du hier an dieser Stelle unser Bewerbungsformular finden.
+ Für den Einzug im Oktober 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2026.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.
 <!-- Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p> -->
 
  Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> 
-
- <!-- <div>
-  <form action="https://list.collegiumacademicum.de/?p=subscribe&id=7" method="post"  name="subscribeform">
-    <div class="field has-addons">
-      <div class="control has-icons-left">
-        <input class="input" type="email" name="email" value="" placeholder="deine mailadresse" }}"/>
-        <span class="icon is-small is-left"><i class="icon-mail-alt"></i></span>
-      </div>
-      <input type="hidden" name="htmlemail" value="1" />
-      <input type="hidden" name="list[2]" value="signup" />
-      <input type="hidden" name="listname[2]" value="Collegium Academicum - Newsletter" />
-      <div style="display:none">
-	<input type="text" name="VerificationCodeX" value="" size="20">
-      </div>
-      <div class="control">
-	<!-- onClick="return checkform();" be -->
-	<input type="submit" name="subscribe" value="subscribe" }}"  class="button is-primary">
-      </div>
-    </div>
-  </form>
-</div> -->
 
 <!--<h2>Allgemein</h2>
 <div class="field">
