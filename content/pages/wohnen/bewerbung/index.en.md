@@ -33,7 +33,7 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
     </div>
 </div> 
 <div class="field">
-    <label class="label" for="phone">Phone number</label>
+    <label class="label" for="phone">Phone number *</label>
   	<div class="control has-icons-left">
         <input type="text" name="phone" value="" class="input required" maxlength="100" required/>
         <span class="icon is-small is-left">
@@ -41,13 +41,13 @@ Moving-in is always possible at the beginning of a quarter (January 1, April 1, 
         </span>
     </div>
 </div> 
-<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. 
+<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
 <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
-    </div> -->
+    </div>
 </div>
 <div class="field">
     <label class="label" for="age">Birthday *</label>

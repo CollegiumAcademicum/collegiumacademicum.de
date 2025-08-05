@@ -3,18 +3,40 @@ title: "Bewerbung Wohnheim (Neubau)"
 slug: "bewerbung"
 novoigl: yes
 ---
-
+ 
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
-Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 03. August </b> hier dafür bewerben:</p> 
-<!-- Für den Einzug im Juli 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Oktober 2025.</b> Ab Anfang Juli wirst du hier an dieser Stelle unser Bewerbungsformular finden.-->
+<!-- Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
+Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 03. August </b> hier dafür bewerben:</p> -->
+
+ Für den Einzug im Oktober 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2025.</b> Ab Anfang Oktober wirst du hier an dieser Stelle unser Bewerbungsformular finden.
 <!-- Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p> -->
 
-<!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
+ Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> 
 
- <h2>Allgemein</h2>
+ <!-- <div>
+  <form action="https://list.collegiumacademicum.de/?p=subscribe&id=7" method="post"  name="subscribeform">
+    <div class="field has-addons">
+      <div class="control has-icons-left">
+        <input class="input" type="email" name="email" value="" placeholder="deine mailadresse" }}"/>
+        <span class="icon is-small is-left"><i class="icon-mail-alt"></i></span>
+      </div>
+      <input type="hidden" name="htmlemail" value="1" />
+      <input type="hidden" name="list[2]" value="signup" />
+      <input type="hidden" name="listname[2]" value="Collegium Academicum - Newsletter" />
+      <div style="display:none">
+	<input type="text" name="VerificationCodeX" value="" size="20">
+      </div>
+      <div class="control">
+	<!-- onClick="return checkform();" be -->
+	<input type="submit" name="subscribe" value="subscribe" }}"  class="button is-primary">
+      </div>
+    </div>
+  </form>
+</div> -->
+
+<!--<h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -35,7 +57,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
     </div>
 </div> 
 <div class="field">
-    <label class="label" for="phone">Telefonnummer</label>
+    <label class="label" for="phone">Telefonnummer *</label>
   	<div class="control has-icons-left">
         <input type="text" name="phone" value="" class="input required" maxlength="100" required/>
         <span class="icon is-small is-left">
@@ -44,14 +66,14 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
     </div>
 </div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
- <!-- <div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
     </div> 
-</div> -->
+</div>
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
@@ -188,5 +210,6 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Falls du im Oktober 
 </div>
 
  </form>
+ -->
 
-<!-- {{< einziehen-signup >}} -->
+ {{< einziehen-signup >}}
