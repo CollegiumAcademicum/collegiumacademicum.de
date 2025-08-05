@@ -15,6 +15,8 @@ novoigl: yes
     <p style="text-align:left">
     Telefonisch erreichbar unter<br>
     <a href="tel:+4906221652236">+49 (0)6221-652236</a>
+    <br>
+    E-Mail: <a href="mailto:kontakt@collegiumacademicum.de">kontakt@collegiumacademicum.de</a>
     <br><br>
     Mo-Do: 10 - 16 Uhr<br>
     Fr:   12 - 16 Uhr
@@ -47,7 +49,7 @@ novoigl: yes
 </div>
 
 <!-- Kontaktformular -->
-<h2>
+<!--<h2>
     Schreib uns!
 </h2>
 <form action="/kontakt/send.php" method="post" accept-charset="utf-8">
@@ -81,8 +83,17 @@ novoigl: yes
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div>-->
 
+<!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
+<!--<div class="field extra-field">
+    <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
+    abgefragt, trage bitte hier nichts ein.</label>
+    <div class="control has-icons-left">
+        <input type="email" name="mail" value="" class="input email"
+            id="mail" size="55"/>
+    </div> 
+</div>
 <div class="field">
     <label class="label" for="subject">Betreff *</label>
     <div class="control">
@@ -111,4 +122,4 @@ novoigl: yes
         <input type="submit" name="submit" value="Abschicken" class="button is-link" id="submit">
     </div>
 </div>
-</form>
+</form>-->
