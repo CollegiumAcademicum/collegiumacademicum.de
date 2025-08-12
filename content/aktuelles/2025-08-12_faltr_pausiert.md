@@ -1,5 +1,5 @@
 ---
-title: Der dritte falt*r Jahrgang
+title: Der falt*r geht in die Pause
 date: 2025-08-12
 ---
 
