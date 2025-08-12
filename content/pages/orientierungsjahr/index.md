@@ -48,5 +48,11 @@ Der sanierte und modernisierte Altbau direkt neben unserem Wohnheim beherbergt E
    </a>
 </p>
 
+
+<h3>Der falt*r pausiert</h3>
 <p style="text-align:justify">
-Nach zwei tollen Jahrgängen wird der falt*r 2025/26 leider nicht stattfinden.</p>
+Nach zwei tollen Jahrgängen mussten wir den Jahrgang 2025/26 leider absagen, da uns nicht ausreichend Bewerbungen erreicht haben, um das Programm sinnvoll und für alle Beteiligten bereichernd durchführen zu können.
+Wir nehmen uns nun Zeit für eine Pause zum Reflektieren und Weiterdenken.<br>
+
+Bis hoffentlich ganz bald!
+</p>
