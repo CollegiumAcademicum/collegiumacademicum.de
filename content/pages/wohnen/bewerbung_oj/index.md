@@ -1,10 +1,10 @@
 ---
 title: "Bewerbung Altbau (OJ)"
-slug: "bewerbung_altbau"
+slug: "bewerbung_oj"
 novoigl: yes
 ---
 
-<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
+<form action="/bewerbung_oj/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, bei uns einzuziehen!
 
 Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermieten wir die Zimmer im Altbau. Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich ab sofort hier bewerben. Der Auswahltag findet am 30.08.2025 statt.</p> 
