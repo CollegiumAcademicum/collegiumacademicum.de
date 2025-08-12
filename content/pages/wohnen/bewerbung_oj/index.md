@@ -169,14 +169,14 @@ Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermiet
 <hr>
 <p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
 <p>Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
-<div class="field">
+<!-- <div class="field">
   <div class="control">
     <label class="checkbox" for="check_education_status">
       <input type="checkbox" required name="check_education_status">
         Mir ist bewusst, dass nur Auszubildende, Studierende und Promovierende im Wohnheim wohnen dürfen.
     </label>
   </div>
-</div>
+</div> -->
 <div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
