@@ -140,7 +140,7 @@ sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunkt
 
 ### Zimmer des Orientierungsjahrs (OJ 1)
 
-{{< img src="2_og" alt="Übersicht Zimmer OJ" attr="CA" />}}
+<!-- {{< img src="2_og" alt="Übersicht Zimmer OJ" attr="CA" />}} -->
 
 | Zimmer | Größe | Warmmiete | Warmmiete als Doppelzimmer |
 |--------------------------|----------------|------------------|--------------------------------------|
