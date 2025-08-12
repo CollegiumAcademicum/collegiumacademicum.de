@@ -133,12 +133,64 @@ Ja, das gesamte Projekt wird gemeinschaftlich durch alle Bewohner*innen genutzt.
 
 ## Pläne und Höhe der Mieten
 
-Nebenkosten: 80 € (für jede Person gleich)
-
+<!-- Nebenkosten: 80 € (für jede Person gleich) -->
+Die unten aufgeführten Mieten sind momentan noch Vorschläge, die im Projekt besprochen werden müssen. Sie bieten aber eine gute Orientierung zu der Höhe der Mieten. 
 Unten sind jeweils die Zimmergrößen gelistet, zur Miete gehören aber natürlich auch Gemeinschaftsküche und -bad
-sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunktionsraum, Seminarräume und Arbeitsräume).
+sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunktionsraum, Seminarräume und Arbeitsräume). Die Warmmiete ist inklusive der Vorauszahlung auf Strom und Internet.
 
-### 2. OG
+### Zimmer des Orientierungsjahrs (OJ 1)
+
+{{< img src="2_og" alt="Übersicht Zimmer OJ" attr="CA" />}}
+
+| Zimmer | Größe | Warmmiete | Warmmiete als Doppelzimmer |
+|--------------------------|----------------|------------------|--------------------------------------|
+|OJ1.1|20,50 m<sup>2</sup>|575,00 €|299,50 €|
+|OJ1.2|9,53 m<sup>2</sup>|415,00 €| |
+|OJ1.3|12,19 m<sup>2</sup>|455,00 €| |
+|OJ1.4|17,00 m<sup>2</sup>|525,00 €|274,50 €|
+|OJ1.5|25,48 m<sup>2</sup>|650,00 €|337,00 €|
+|OJ1.6|19,64 m<sup>2</sup>|565,00 €|294,50 €|
+|OJ1.7|23,45 m<sup>2</sup>|620,00 €|322,00 €|
+|OJ1.8|18,40 m<sup>2</sup>|545,00 €|284,50 €|
+|OJ1.9|18,51 m<sup>2</sup>|545,00 €|284,50 €|
+|OJ1.9.3/4|9,26 m<sup>2</sup>|410,00 €| |
+|OJ1.10|13,87 m<sup>2</sup>|480,00 €| |
+
+### Zimmer des Orientierungsjahrs (OJ 2)
+
+| Zimmer | Größe | Warmmiete | Warmmiete als Doppelzimmer |
+|--------------------------|----------------|------------------|--------------------------------------|
+|OJ2.11|20,96 m<sup>2</sup>|505,00 €|264,50 €|
+|OJ2.12|21,39 m<sup>2</sup>|515,00 €|269,50 €|
+|OJ2.13|10,37 m<sup>2</sup>|350,00 €| |
+|OJ2.14|15,00 m<sup>2</sup>|420,00 €|222,00 €|
+|OJ2.15|15,18 m<sup>2</sup>|420,00 €|222,00 €|
+
+### Zimmer des Orientierungsjahrs (OJ 3)
+
+| Zimmer | Größe | Warmmiete | Warmmiete als Doppelzimmer |
+|--------------------------|----------------|------------------|--------------------------------------|
+|OJ3.16|20,17 m<sup>2</sup>|515,00 €|269,50 €|
+|OJ3.17|27,66 m<sup>2</sup>|625,00 €|324,50 €|
+|OJ3.18|20,41 m<sup>2</sup>|520,00 €|272,50 €|
+|OJ3.19|20,23 m<sup>2</sup>|515,00 €|269,50 €|
+|OJ3.20|19,40 m<sup>2</sup>|505,00 €|264,50 €|
+
+### Zimmer des Orientierungsjahrs (OJ 4)
+
+| Zimmer | Größe | Warmmiete | Warmmiete als Doppelzimmer |
+|--------------------------|----------------|------------------|--------------------------------------|
+|OJ4.21|18,80 m<sup>2</sup>|530,00 €|277,00 €|
+|OJ4.22|19,73 m<sup>2</sup>|540,00 €|282,00 €|
+|OJ4.23|23,82 m<sup>2</sup>|600,00 €|312,00 €|
+|OJ4.24|21,87 m<sup>2</sup>|575,00 €|299,50 €|
+|OJ4.25|20,53 m<sup>2</sup>|555,00 €|289,50 €|
+|OJ4.26|18,36 m<sup>2</sup>|520,00 €|272,00 €|
+|OJ4.27|20,69 m<sup>2</sup>|555,00 €|289,50 €|
+|OJ4.28|19,96 m<sup>2</sup>|545,00 €|284,50 €|
+
+
+<!-- ### 2. OG
 
 {{< img src="2_og" alt="Übersicht 2. OG" attr="CA" />}}
 
@@ -163,4 +215,4 @@ sowie die Gemeinschaftsflächen des Wohnprojekts (Werkstätten, Aula, Multifunkt
 |3.3.16|20,13 m<sup>2</sup>|450 €|530 €|
 |3.3.20|19,96 m<sup>2</sup>|450 €|530 €|
 |3.4.08|19,47 m<sup>2</sup>|405 €|485 €|
-|3.4.12|18,97 m<sup>2</sup>|405 €|485 €|
+|3.4.12|18,97 m<sup>2</sup>|405 €|485 €| -->
