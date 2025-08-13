@@ -6,7 +6,7 @@ novoigl: yes
 
 <p style="text-align:justify">
  <div class="notification is-primary">
-Du hast Interesse an einem Zimmer im Altbau ab Oktober 2025? <br>Dann bewirb dich gern über das Bewerbungsformular auf dieser Seite. Der Auswahltag findet am 30.08.2025 statt. <br>Wir freuen uns auf dich!
+<!-- Du hast Interesse an einem Zimmer im Altbau ab Oktober 2025? <br>Dann bewirb dich gern über das Bewerbungsformular auf dieser Seite. Der Auswahltag findet am 30.08.2025 statt. <br>Wir freuen uns auf dich! -->
 </div>
 
 <!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich bei Interesse ab Anfang Juli bewerben.</b> -->
@@ -31,7 +31,7 @@ Ergänzt wird der private Wohnraum durch diverse Räume, die das gesamte Projekt
 Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist aktuell um uns herum häufig Baustelle mit den damit einhergehenden Geräuschen. Außerdem befindet sich in unserem Neubau nebenan eine große Aula, die regelmäßig für Veranstaltungen (auch Partys und andere Abendveranstaltungen) genutzt wird.
 </p>
 
-Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
+<!-- Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen?
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
@@ -40,7 +40,7 @@ Du willst Teil unseres Projekts werden und kannst dir vorstellen, hier zu wohnen
         </span>
         <span>Dann bewirb dich jetzt!</span>
     </a>
-</div>
+</div> -->
 
 ## FAQ
 
