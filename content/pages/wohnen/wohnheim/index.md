@@ -12,7 +12,7 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 <br><br>
 In unserem Wohnheim werden seitdem regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
-Die Bewerbungsfrist für den Einzug im Oktober 2025 ist leider schon vorbei. <!-- Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a>. -->
+Die Bewerbungsfrist für den Einzug im Oktober 2025 ist leider schon vorbei. Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a>.
 Der nächstmögliche Einzugstermin für den Neubau ist der 1. Januar 2026. 
 Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben.
 <!-- Dafür kannst du dich <b>bis spätestens Sonntag, 03. August </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. --> Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
