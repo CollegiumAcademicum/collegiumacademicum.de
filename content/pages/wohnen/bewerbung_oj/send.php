@@ -154,7 +154,7 @@ if($form->submit()){
 
     	// The id of the auswahl team this email goes to
     	// $rid = rand(1,$number_of_inboxes);
-    	$contact = array("kontakt@collegiumacademicum.de", "Collegium Academicum");
+    	$contact = array("einziehen.altbau@collegiumacademicum.de", "Collegium Academicum");
 
     	// Send the mail to the applicant as a confirmation
     	send_mail($contact, $applicant, $data, $lang, True);
