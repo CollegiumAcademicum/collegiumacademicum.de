@@ -7,7 +7,9 @@ novoigl: yes
 <form action="/bewerbung_oj/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, bei uns einzuziehen!
 
-Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermieten wir die Zimmer im Altbau. Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich ab sofort hier bewerben. Der Auswahltag findet am 30.08.2025 statt.</p> 
+Leider nehmen wir aktuell keine weiteren Bewerbungen entgegen.
+
+<!-- Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermieten wir die Zimmer im Altbau. Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich ab sofort hier bewerben. Der Auswahltag findet am 30.08.2025 statt.</p> 
 
  <h2>Allgemein</h2>
 <div class="field">
@@ -37,9 +39,9 @@ Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermiet
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -177,6 +179,6 @@ Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermiet
     </div>
 </div>
 
- </form>
+ </form> -->
 
 <!-- {{< einziehen-signup >}} -->
