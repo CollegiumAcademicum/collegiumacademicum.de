@@ -12,10 +12,10 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 <br><br>
 In unserem Wohnheim werden seitdem regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
-Die Bewerbungsfrist für den Einzug im Oktober 2025 ist leider schon vorbei. <!--Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a> -->
+<!-- Die Bewerbungsfrist für den Einzug im Oktober 2025 ist leider schon vorbei. --> <!--Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a> -->
 Der nächstmögliche Einzugstermin für den Neubau ist der 1. Januar 2026. 
-Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben.
-<!-- Dafür kannst du dich <b>bis spätestens Sonntag, 03. August </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. --> Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
+<!-- Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
+Dafür kannst du dich <b>bis spätestens Sonntag, 26. Oktober </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
 <br><br> 
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
@@ -73,14 +73,14 @@ Prozess bist, sag uns gerne Bescheid!
 
 So funktioniert die Bewerbung für ein Zimmer in unserem Neubau:
 
-<!-- <div class="buttons is-centered">
+<div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Bewerbungsbogen</span>
     </a>
-</div> -->
+</div>
 
 1. Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. <!-- Du schickst uns deinen ausgefüllten <a href="/bewerbung">Bewerbungsbogen</a> zu, nach Möglichkeit auf Deutsch oder auf Englisch. Beachte dabei bitte die maximale Zeichenanzahl. -->
 2. Wir lesen die eingehenden Bewerbungen. Alle Bewerber\*innen, die das Bewerbungsformular vollständig ausgefüllt und sich mit den beiden Fragen inhaltlich beschäftigt haben, würden wir gerne zu unserem Auswahltag einladen. Falls wir mehr Bewerber\*innen einladen wollen, als am Auswahltag teilnehmen können, vergeben wir Plätze zunächst anhand einer Quote, um insbesondere Auszubildenden eine Teilnahme am Auswahltag zu ermöglichen. Anschließend vergeben wir Plätze per Losverfahren. Wie viele Bewerber*innen am Auswahltag teilnehmen können, hängt einerseits von unseren Kapazitäten ab, aber auch davon, wie viele Zimmer im Wohnheim frei werden. Deshalb können wir dir erst nach Ende der Bewerbungsfrist eine Rückmeldung geben, ob du am Auswahltag teilnehmen kannst.
