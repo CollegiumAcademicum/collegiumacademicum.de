@@ -5,9 +5,9 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
- <div class="notification is-primary">
-<!-- Du hast Interesse an einem Zimmer im Altbau ab Oktober 2025? <br>Dann bewirb dich gern über das Bewerbungsformular auf dieser Seite. Der Auswahltag findet am 30.08.2025 statt. <br>Wir freuen uns auf dich! -->
-</div>
+<!--<div class="notification is-primary">
+Du hast Interesse an einem Zimmer im Altbau ab Oktober 2025? <br>Dann bewirb dich gern über das Bewerbungsformular auf dieser Seite. Der Auswahltag findet am 30.08.2025 statt. <br>Wir freuen uns auf dich!
+</div> -->
 
  <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. <!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich bei Interesse ab Anfang Juli bewerben.--> </b>
 

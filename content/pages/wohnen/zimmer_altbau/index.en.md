@@ -5,8 +5,8 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
-<div class="notification is-primary">
-<!-- You want to move into one of our rooms in the old building in July 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! 
+<!-- <div class="notification is-primary">
+You want to move into one of our rooms in the old building in July 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
 </div> -->
  <b>We are currently not accepting any further applications for temporary rooms. <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
 
