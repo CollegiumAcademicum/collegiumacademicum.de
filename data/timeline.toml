@@ -3,6 +3,11 @@ heading = "HEUTE"
 center = true
 
 [[timeline]]
+heading = "September 2025"
+content = '<img src="NEB_prizes_2025.jpg"/>New European Bauhaus Preis 2025 in der Kategorie "Affordable Housing"'
+
+
+[[timeline]]
 heading = "Juli 2025"
 content = "<img src='pfoertnerhaus.png'/>Renovierungsbeginn Pförtnerhäuschen"
 
