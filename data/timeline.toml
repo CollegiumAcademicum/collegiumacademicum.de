@@ -2,11 +2,96 @@
 heading = "HEUTE"
 center = true
 
+[[timeline]]
+heading = "September 2025"
+content = '<img src="NEB_prizes_2025.jpg"/>New European Bauhaus Preis 2025 in der Kategorie "Affordable Housing"'
+
+
+[[timeline]]
+heading = "Juli 2025"
+content = "<img src='pfoertnerhaus.png'/>Renovierungsbeginn Pförtnerhäuschen"
+
+[[timeline]]
+heading = "23. Mai 2025"
+content = "<img src='sommerfest.png'/>Sommerfest und Tag der Offenen Tür beim Orientierungsjahr falt*r"
+
+[[timeline]]
+heading = "10. Mai 2025"
+content = "Tag der Städtebauförderung auf dem Mendelejewplatz und rund um das CA"
+
+[[timeline]]
+heading = "April 2025"
+content = '<img src="workcamp_2025.png "/>Erstes "Schöner Wohnen Workcamp" zur Instandhaltung des Hauses'
+
+[[timeline]]
+heading = "Januar 2025"
+content = 'Eröffnung der offenen Fahrradwerkstatt "aBgäFahrNe Reifen"'
+
+[[timeline]]
+heading = "25./26. Januar 2025"
+content = '<img src="rojava_2025.jpg "/>Rojava Tagung: "Perspektive Rojava – Demokratische Vision aus Nord- und Ostsyrien"'
+
+[[timeline]]
+heading = "2025"
+center = true
+
+[[timeline]]
+heading = "Dezember 2024"
+content = "4.546.000€ DKs eingeworben"
+
+[[timeline]]
+heading = "29. November 2024"
+content = "Deutscher Nachhaltigkeitspreis für Architektur und Transformation"
+
+
+[[timeline]]
+heading = "22. November 2024"
+content = '<img src="logo_cantine.png" />Start unserer solidarischen Küche für alle "CAntine"'
+
+[[timeline]]
+heading = "19. Oktober 2024"
+content = "<img src='badischer_architektur_preis_2024.png '/>Badischer Architekturpreis in der Kategorie ökologisches Bauen"
+
+[[timeline]]
+heading = "21. September 2024"
+content = "<img src='sommerfest_altbau_2024.jpg '/>Sommerfest zur Eröffnung des Altbaus des CA"
+
+[[timeline]]
+heading = "Juli 2024"
+content = "<img src='blockparty.jpg '/>Erste Blockparty"
+
+[[timeline]]
+heading = "Juni 2024"
+content = "<img src='dt_bauherrenpreis_2024.jpg '/>Deutscher Bauherrenpreis und Staatspreis Baukultur BW"
+
+[[timeline]]
+heading = "25. Juni 2024"
+content = "<img src='staatspreis_baukultur_2024.png '/>Staatspreis BW für Architektur, Holzbau und Umbaukultur"
+
+[[timeline]]
+heading = "22. Mai 2024"
+content = "Publikumspreis des Construmat Awards sustainability"
+
+[[timeline]]
+heading = "02. Mai 2024"
+content = "<img src='holzbaupreis_2024.png' />Holzbaupreis BW"
+
+[[timeline]]
+heading = "21. Februar 2024"
+content = "Auszeichnung Beispielhaftes Bauen Heidelberg 2017-2023"
+
+
+[[timeline]]
+heading = "Januar 2024"
+content = "Erstbezug der restlichen Wohnungen im Altbau, darunter die sozialen Mietwohnungen"
 
 [[timeline]]
 heading = "Januar 2024"
 content = "<img src='altbau_saniert.png' />Einzug der Teilnehmendes des <a href='https://faltr.de/'>falt*r-Orientierungsjahres</a> in den frisch sanierten Altbau. Beginn des ersten Jahrgangs."
 
+[[timeline]]
+heading = "2024"
+center = true
 
 [[timeline]]
 heading = "September 2023"
