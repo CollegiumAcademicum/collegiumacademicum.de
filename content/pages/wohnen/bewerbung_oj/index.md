@@ -1,21 +1,17 @@
 ---
-title: "Bewerbung Wohnheim (Neubau)"
-slug: "bewerbung"
+title: "Bewerbung Altbau (OJ)"
+slug: "bewerbung_oj"
 novoigl: yes
 ---
- 
-<form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
-<p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
-Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Oktober </b> hier dafür bewerben:</p>
+<form action="/bewerbung_oj/send.php" method="post" accept-charset="utf-8">
+<p>Schön, dass du Lust hast, bei uns einzuziehen!
 
-<!-- Für den Einzug im Oktober 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2026.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden. -->
-<!-- Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p> -->
+Leider nehmen wir aktuell keine weiteren Bewerbungen entgegen.
 
-<!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
+<!-- Da unser Orientierungsjahr falt*r nächstes Jahr nicht stattfinden kann, vermieten wir die Zimmer im Altbau. Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich ab sofort hier bewerben. Der Auswahltag findet am 30.08.2025 statt.</p> 
 
-<h2>Allgemein</h2>
+ <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -43,9 +39,9 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober b
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!-- <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -57,6 +53,15 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober b
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="doubleroom">Hast du Interesse an einem Doppelzimmer? *</label>
+	<div class="control has-icons-left">
+        <input type="text" name="doubleroom" value="" class="input required" maxlength="100" required/>
+        <span class="icon is-small is-left">
+            <i class="icon-user"></i>
+        </span>
     </div>
 </div>
 <h2>Textfragen</h2>
@@ -156,12 +161,6 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober b
     </div>
 </div>
 <div class="field">
-    <label class="label" for="rooms_in_altbau">In unserem Altbau werden voraussichtlich auch Zimmer frei werden. Diese sind je nach Größe bepreist und können von unserer Seite aus zum 30.09. jeden Jahres mit einer Frist von 6 Wochen gekündigt werden, falls sie für Teilnehmende des falt*r Orientierungsjahrs benötigt werden. Weitere Informationen dazu findest du auch auf unserer Website unter Zimmer im Altbau. Hast du auch Interesse an diesen Zimmern? </label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
-    </div>
-</div>
-<div class="field">
     <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
     Computer bist, bitten wir dich folgende Frage zu beantworten: Wieviel ist
     5 + 3? </label>
@@ -173,14 +172,6 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober b
 <p>Nach dem Absenden bekommst du eine Bestätigungsmail an deine angegebene E-Mail-Adresse.</p>
 <p>Wir behalten diese Daten nur für die Dauer deiner Bewerbung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> findest du weitere Informationen.</p>
 <div class="field">
-  <div class="control">
-    <label class="checkbox" for="check_education_status">
-      <input type="checkbox" required name="check_education_status">
-        Mir ist bewusst, dass nur Auszubildende, Studierende und Promovierende im Wohnheim wohnen dürfen.
-    </label>
-  </div>
-</div>
-<div class="field">
     <div class="control">
         <label class="sr-only" for="submit"></label>
           <input type="hidden" name="language" value="de">
@@ -188,7 +179,6 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober b
     </div>
 </div>
 
- </form>
-
+ </form> -->
 
 <!-- {{< einziehen-signup >}} -->
