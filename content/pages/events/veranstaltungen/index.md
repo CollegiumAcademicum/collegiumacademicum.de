@@ -22,8 +22,5 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-Sa, 12.07., ab 18 Uhr | BLOCKPARTY feat. YARA & ELON BASS, Tickets via [rausgegangen.de](https://t.rausgegangen.de/tickets/blockparty-vol2-feat-yara-live-elon-bass)
-Do, 17.07. | Ausstellung Journalismus
-Fr, 25.07. | Forrò-Tanzparty
-So, 27.07., ab 17 Uhr | CAntine (Küche für alle)
+So, 19.10.2025 18:30 | <a href="https://www.vernunftwahn.de/">Normal – Eine Besichtigung des Wahns</a>. Ein Abend gegen Irrationalismus &  instrumentelle Vernunft
 Sa, 29.11. | Zine Fair Heidelberg, Kontakt und Standanmeldung: solarpunk.hd@gmail.com
