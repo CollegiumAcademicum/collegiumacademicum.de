@@ -22,5 +22,5 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-So, 19.10.2025 18:30 | <a href="https://www.vernunftwahn.de/">Normal – Eine Besichtigung des Wahns</a>. Ein Abend gegen Irrationalismus &  instrumentelle Vernunft
+So, 19.10. 18:30 | <a href="https://www.vernunftwahn.de/">Normal – Eine Besichtigung des Wahns</a>. Ein Abend gegen Irrationalismus &  instrumentelle Vernunft
 Sa, 29.11. | Zine Fair Heidelberg, Kontakt und Standanmeldung: solarpunk.hd@gmail.com
