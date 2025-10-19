@@ -59,7 +59,7 @@ First you need your personal access data. You get them at the AG-Mietverwaltung.
 
 ## MacOS
 
-1. download the [profile](ca_wifi.mobileconfig)
+1. download the <a href="ca_wifi.mobileconfig" download>profile</a>
 2. open settings: Privacy&Security -> Profiles -> + and select the file.
 3. agree to the instructions
 4. enter username and PW
