@@ -60,7 +60,7 @@ Zunächst benötigst du deine persönlichen Zugangsdaten. Diese bekommst du bei 
 
 ## MacOS
 
-1. Lade das [Profil](ca_wifi.mobileconfig) herunter
+1. Lade das <a href="ca_wifi.mobileconfig" download>Profil</a> herunter
 2. Einstellungen öffnen: Privatsphäre&Sicherheit -> Profile -> + und die Datei auswählen
 3. Den Hinweisen zustimmen
 4. Nutzername und PW eingeben
