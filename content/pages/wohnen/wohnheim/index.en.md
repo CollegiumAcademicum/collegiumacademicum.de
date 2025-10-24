@@ -13,7 +13,7 @@ Moving-in is always possible at the beginning of a quarter (October 1, January 1
 <!-- Unfortunately, applications for October 2025 move-in are already closed. -->
 The next possible move-in date is January 1, 2026.
 <!-- You can apply for this starting from the beginning of October via the application form here on our website. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :). -->
-You can apply for this <b>until Sunday, October 26 at the latest</b> via the application form here on our website. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).
+You can apply for this <b>until Sunday, October 26, 4 pm at the latest</b> via the application form here on our website. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
 
