@@ -15,7 +15,7 @@ Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Janu
 <!-- Die Bewerbungsfrist für den Einzug im Oktober 2025 ist leider schon vorbei. --> <!--Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a> -->
 Der nächstmögliche Einzugstermin für den Neubau ist der 1. Januar 2026. 
 <!-- Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
-Dafür kannst du dich <b>bis spätestens Sonntag, 26. Oktober </b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
+Dafür kannst du dich <b>bis spätestens Sonntag, 26. Oktober um 16 Uhr</b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).
 <br><br> 
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
 Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
