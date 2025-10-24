@@ -7,7 +7,7 @@ novoigl: yes
 <form action="/bewerbung/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you are interested in moving into the CA!
 
-Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is January 1, 2026. If you would like to move in in January, you can apply here <b>until Sunday, October 26, 2025</b> at the latest.</p> 
+Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). The next possible move-in date is January 1, 2026. If you would like to move in in January, you can apply here <b>until Sunday, October 26, 2025, 4 pm</b> at the latest.</p> 
 <!-- Unfortunately, we can no longer accept applications for the move-in in October 2025. <b>The next possible move-in date is January 1, 2026.</b> From the beginning of October on you will find our application form on this site. -->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->

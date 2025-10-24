@@ -8,7 +8,7 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Oktober </b> hier dafür bewerben:</p>
+Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Oktober um 16 Uhr </b> hier dafür bewerben:</p>
 
 <!-- Für den Einzug im Oktober 2025 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2026.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden. -->
 <!-- Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 26. Januar </b> hier dafür bewerben:</p> -->
