@@ -60,6 +60,6 @@ Bis hoffentlich ganz bald!
 <div class="notification is-primary">
 <h3>Stellenausschreibung Joblots*in</h3>
 <p style="text-align:justify">
-Wir suchen aktuell eine pädagogische Begleitung in Teilzeit für unser neues Projekt "Azubi-Wohnen", das nah an Programmangeboten des falt*r angelehnt ist. Die Stellenbeschreibung findet ihr unter <a href="{{< relref "aktuelles" >}}">Aktuelles</a>.
+Wir suchen aktuell eine pädagogische Begleitung für unser neues Projekt "Azubi-Wohnen", das nah an Programmangeboten des falt*r angelehnt ist. Die Stellenbeschreibung findet ihr unter <a href="{{< relref "aktuelles" >}}">Aktuelles</a>.
 </p>
 </div>
