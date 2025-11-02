@@ -13,6 +13,7 @@ beautify.bat
 *orig
 .DS_Store
 
+build/
 public/
 resources/
 static/main.css
