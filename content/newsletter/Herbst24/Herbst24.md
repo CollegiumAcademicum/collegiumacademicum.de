@@ -69,7 +69,7 @@ Auch wenn der falt*r im kommenden Jahr pausiert, bleibt der Gedanke, junge Mensc
 
 **Dafür werden zwei Joblots*innen-Stellen geschaffen**, die schrittweise zum 01.01.2026 und 01.04.2026 besetzt werden. Die erste Stellenausschreibung ist bereits online, und **wir freuen uns über Bewerbungen bis zum 16.11.2025**
 
-**Alle Infos zur Stelle und das Bewerbungsformular befinden sich auf unserer Webseite:[https://collegiumacademicum.de/aktuelles/](https://collegiumacademicum.de/aktuelles/)**
+**Alle Infos zur Stelle und das Bewerbungsformular befinden sich auf unserer Webseite: [https://collegiumacademicum.de/aktuelles/](https://collegiumacademicum.de/aktuelles/)**
 
 Wir freuen uns über Weiterleitungen an interessierte Menschen oder Einrichtungen, die junge Auszubildende begleiten und stärken möchten!
 
@@ -95,17 +95,17 @@ Bei unserer letzten CAntine füllten wir die Aula mit Menschen aus vielen unters
 
 **2026:**
 
-* 25. Januar
+* 25\. Januar
 
-* 22. Februar
+* 22\. Februar
 
-* 29. März
+* 29\. März
 
-* 26. April
+* 26\. April
 
-* 31. Mai
+* 31\. Mai
 
-* 28. Juni
+* 28\. Juni
 
 **Essen gibt es jeweils ab 18:00 Uhr.** Bei Fragen, Allergien oder Mitmach-Wünschen, gerne bei cantine@collegiumacademicum.de melden.
 
@@ -151,14 +151,23 @@ Für mehr Informationen: https://www.instagram.com/p/DQuN97bDJPh/?igsh=aGViajV4Z
 
 ### Anstehende Termine:
 
-– 14.11 17Uhr Einsteiger Treffen Küfa
-– 14.11. 16:00 Uhr: Amnesty Soli Party (https://eventfrog.de/de/p/party/00-s/soli-party-7374026035640179789.html)
-– 16.11. 20 Uhr: Thrax Punks Konzert in der Aula des Collegium Academicum (https://www.instagram.com/p/DQZvTTujTIU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-– 17.11. 20 Uhr: Lesung Volker v. Offenberg: Wege zum Paradies – Utopisches Denken und radikales Handeln in der Heidelberger Revolte (1968-1978) im Karlstorbahnhof (https://www.karlstorbahnhof.de/programm/veranstaltung/worte-des-widerstands-2/)
-– 18.11.-19.11. Diwan-Dialoge MSG
-– 21.11. 20 Uhr: Banda Entopica Konzert in der Aula des Collegium Academicum (https://www.instagram.com/p/DQlzfvfjbfB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-– 29.11. 12:00 Uhr Zine Fair (https://www.schwulst.de/termin/heidelberg/sonstiges/2025-11-29-zine-fair)
-– 29. & 30.11. Vorweihnachtlicher Markt in Rorbach um das Alte Rathaus Rohrbach herum (https://www.stadtteilverein-rohrbach.de/regelmaessige-veranstaltungen.html)
-– 16.01.-18.01. Tagung zur Westsahara
-– 25.01.26 17:00 Benefiz-Konzert für das CA in der Melanchthonkirche
+* **14.11 17Uhr** Einsteiger Treffen Küfa
+  
+* **14.11. 16:00 Uhr**: [Amnesty Soli Party](https://eventfrog.de/de/p/party/00-s/soli-party-7374026035640179789.html)
+  
+* **16.11. 20 Uhr**: [Thrax Punks Konzert](https://www.instagram.com/p/DQZvTTujTIU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in der Aula des Collegium Academicum
+  
+* **17.11. 20 Uhr**: Lesung Volker v. Offenberg: Wege zum Paradies – Utopisches Denken und radikales Handeln in der Heidelberger Revolte (1968-1978) im Karlstorbahnhof Mehr Infos zur Lesung gibt es auf der [Homepage des Karlstorbahnhof](https://www.karlstorbahnhof.de/programm/veranstaltung/worte-des-widerstands-2/)
+  
+* **18.11.-19.11**: Diwan-Dialoge MSG
+
+* **21.11. 20 Uhr**: [Banda Entopica Konzert](https://www.instagram.com/p/DQlzfvfjbfB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in der Aula des Collegium Academicum
+
+* **29.11. 12:00 Uhr**: [Zine Fair](https://www.schwulst.de/termin/heidelberg/sonstiges/2025-11-29-zine-fair)
+  
+* **29. & 30.11**: [Vorweihnachtlicher Markt](https://www.stadtteilverein-rohrbach.de/regelmaessige-veranstaltungen.html) in Rorbach um das Alte Rathaus Rohrbach herum 
+      
+* **16.01.-18.01**: Tagung zur Westsahara
+  
+* **25.01.26 17:00**: Benefiz-Konzert für das CA in der Melanchthonkirche
  
