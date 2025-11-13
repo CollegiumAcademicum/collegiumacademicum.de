@@ -11,14 +11,23 @@ Liebe Unterstützer*innen,
 es liegt ein ereignisreicher Sommer hinter uns und wir starten in den Herbst mit neuer Energie. Was seither alles im CA passiert ist und welche Projekte für die kommende Zeit geplant sind, erfahren Sie/Ihr in diesem Newsletter. Viel Spaß beim Lesen!
 
 • Halli Galli Hasenleiser
+
 • HammerCAmp
+
 • Direktkredite gesucht!
+
 • Orientierungsjahr faltr* und neues Projekt
-• IT: Neue Wasch-App
-• Küfa/CAntine
+
+• Selbst entwickelt: Neue Wasch-App für unsere Wasch-Longe
+
+• CAntine - Unsere Küche für alle
+
 • Infos zur Werkstatt
+
 • Rekord Einzüge
+
 • Westsahara Konferenz im Januar 2026
+
 • Anstehende Termine
 ​
 
@@ -45,7 +54,7 @@ Schon 208.000 € wurden uns dieses Jahr von Privatpersonen wie DIR anvertraut! 
 
 Wenn DU also Interesse hast, uns als Projekt schon ab 1.000€ (für Studis & Azubis ab 500€) zu unterstützen, dann schreibe uns eine Mail an: kontakt@collegiumacademicum.de
 
-Per Mail kannst du uns auch deine Fragen stellen oder dich auf unserer Website weiter informieren. (https://collegiumacademicum.de/direktkredite/)
+Per Mail kannst du uns auch deine Fragen stellen oder dich [auf unserer Website weiter informieren](https://collegiumacademicum.de/direktkredite/) .
 
  
 ### Orientierungsjahr falt*r – Abschluss und Ausblick
@@ -54,13 +63,15 @@ Der zweite Jahrgang unseres Orientierungsjahres falt*r ist im Juli erfolgreich z
 
 Trotz vieler positiver Rückmeldungen und bewegender Abschiedsmomente mussten wir in diesem Jahr eine schwierige Entscheidung treffen: Aufgrund einer zu geringen Zahl an Bewerbungen wird der dritte Jahrgang des falt*r 2025/26 nicht starten. Gemeinsam mit dem Förderverein und dem pädagogischen Begleitteam wurde dieser Schritt sorgfältig vorbereitet und begleitet. Im Hintergrund läuft bereits ein „Metamorphose-Prozess“, in dem Ideen gesammelt und Konzepte weiterentwickelt werden, um den falt*r in Zukunft in neuer Form fortzusetzen.
 
-Neues Projekt: Azubiwohnen & Joblots*innen gesucht
+#### Neues Projekt: Azubiwohnen & Joblots*innen gesucht
 
 Auch wenn der falt*r im kommenden Jahr pausiert, bleibt der Gedanke, junge Menschen in ihrer Lebens- und Berufsorientierung zu unterstützen, lebendig: In Kooperation mit dem Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg startet das neue Projekt Azubiwohnen. Ziel ist es, Auszubildenden im und um das Collegium Academicum den Einstieg in die Ausbildung zu erleichtern, sie im Alltag zu begleiten und die Vernetzung untereinander zu fördern.
 
-Dafür werden zwei Joblots*innen-Stellen geschaffen, die schrittweise zum 01.01.2026 und 01.04.2026 besetzt werden. Die erste Stellenausschreibung ist bereits online, und wir freuen uns über Bewerbungen bis zum 16.11.2025. (https://collegiumacademicum.de/aktuelles/)
+**Dafür werden zwei Joblots*innen-Stellen geschaffen**, die schrittweise zum 01.01.2026 und 01.04.2026 besetzt werden. Die erste Stellenausschreibung ist bereits online, und **wir freuen uns über Bewerbungen bis zum 16.11.2025**
 
-Alle Infos zur Ausschreibung und zum Projekt gibt es auf unserer Website. Wir freuen uns über Weiterleitungen an interessierte Menschen oder Einrichtungen, die junge Auszubildende begleiten und stärken möchten!
+**Alle Infos zur Stelle und das Bewerbungsformular befinden sich auf unserer Webseite:[https://collegiumacademicum.de/aktuelles/](https://collegiumacademicum.de/aktuelles/)**
+
+Wir freuen uns über Weiterleitungen an interessierte Menschen oder Einrichtungen, die junge Auszubildende begleiten und stärken möchten!
 
 
 
