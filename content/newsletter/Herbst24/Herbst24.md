@@ -10,25 +10,25 @@ Liebe Unterstützer*innen,
 
 es liegt ein ereignisreicher Sommer hinter uns und wir starten in den Herbst mit neuer Energie. Was seither alles im CA passiert ist und welche Projekte für die kommende Zeit geplant sind, erfahren Sie/Ihr in diesem Newsletter. Viel Spaß beim Lesen!
 
-• Halli Galli Hasenleiser
+• [Halli Galli Hasenleiser](#halli-galli-hasenleiser)
 
-• HammerCAmp
+• [HammerCAmp](#HammerCAmp)
 
-• Direktkredite gesucht!
+• [Direktkredite gesucht!](#direktkredite-gesucht)
 
-• Orientierungsjahr faltr* und neues Projekt
+• [Orientierungsjahr falt*r – Abschluss und Ausblick](#Orientierungsjahr-falt*r---Abschluss-und-Ausblick)
 
-• Selbst entwickelt: Neue Wasch-App für unsere Wasch-Longe
+• [Selbst entwickelt: Neue Wasch-App für unsere Wasch-Longe](#selbst-entwickelt:-neu-wasch---app-für-unsere-wasch-longe)
 
-• CAntine - Unsere Küche für alle
+• [CAntine - Unsere Küche für alle](#cantine---unsere-küche-für-alle)
 
-• Infos zur Werkstatt
+• [Infos zur Werkstatt](#infos-zur-werkstatt)
 
-• Rekord Einzüge
+• [Rekord-Einzüge](#rekord-einzüge)
 
-• Westsahara Konferenz im Januar 2026
+• [Westsahara Konferenz im Januar 2026](#westsahara-konferenz-im-januar-2026)
 
-• Anstehende Termine
+• [Anstehende Termine](#anstehende-termine)
 ​
 
 ### HalliGalli Hasenleiser
@@ -57,7 +57,7 @@ Wenn DU also Interesse hast, uns als Projekt schon ab 1.000€ (für Studis & Az
 Per Mail kannst du uns auch deine Fragen stellen oder dich [auf unserer Website weiter informieren](https://collegiumacademicum.de/direktkredite/) .
 
  
-### Orientierungsjahr falt*r – Abschluss und Ausblick
+### Orientierungsjahr falt\*r – Abschluss und Ausblick
 
 Der zweite Jahrgang unseres Orientierungsjahres falt*r ist im Juli erfolgreich zu Ende gegangen. Nach zehn intensiven Monaten voller Workshops, Reisen und neuer Erfahrungen verabschiedeten wir 17 junge Menschen, die ihren persönlichen und beruflichen Weg nun ein Stück klarer vor Augen haben. Besonders in Erinnerung bleiben die zweitägige Exkursion in den Odenwald und die Studienreise nach Montpellier, bei der lokale Nachhaltigkeitsinitiativen besucht und die Feierlichkeiten zum Jahrestag der Befreiung vom Nationalsozialismus miterlebt wurden.
 
@@ -159,7 +159,6 @@ Für mehr Informationen: https://www.instagram.com/p/DQuN97bDJPh/?igsh=aGViajV4Z
   
 * **17.11. 20 Uhr**: Lesung Volker v. Offenberg: Wege zum Paradies – Utopisches Denken und radikales Handeln in der Heidelberger Revolte (1968-1978) im Karlstorbahnhof Mehr Infos zur Lesung gibt es auf der [Homepage des Karlstorbahnhof](https://www.karlstorbahnhof.de/programm/veranstaltung/worte-des-widerstands-2/)
   
-* **18.11.-19.11**: Diwan-Dialoge MSG
 
 * **21.11. 20 Uhr**: [Banda Entopica Konzert](https://www.instagram.com/p/DQlzfvfjbfB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in der Aula des Collegium Academicum
 
