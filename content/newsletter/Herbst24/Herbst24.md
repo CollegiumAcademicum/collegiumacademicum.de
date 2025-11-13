@@ -18,7 +18,7 @@ es liegt ein ereignisreicher Sommer hinter uns und wir starten in den Herbst mit
 
 • [Orientierungsjahr falt*r – Abschluss und Ausblick](#Orientierungsjahr-falt*r---Abschluss-und-Ausblick)
 
-• [Selbst entwickelt: Neue Wasch-App für unsere Wasch-Longe](#selbst-entwickelt:-neu-wasch---app-für-unsere-wasch-longe)
+• [Selbst entwickelt: Neue Wasch-App für unsere Wasch-Longe](#selbst-entwickelt:-neue-wasch-app-für-unsere-wasch-longe)
 
 • [CAntine - Unsere Küche für alle](#cantine---unsere-küche-für-alle)
 
