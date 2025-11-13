@@ -89,9 +89,9 @@ Bei unserer letzten CAntine füllten wir die Aula mit Menschen aus vielen unters
 
 **2025:**
 
-* 23. November
+* 23\. November
 
-* 28. Dezember
+* 28\. Dezember
 
 **2026:**
 
