@@ -1,6 +1,6 @@
 ---
 title: "Herbst im CA"
-date: 2025-11-12
+date: 2025-11-15
 ---
  
 ## Liebe Unterstützer*innen,
