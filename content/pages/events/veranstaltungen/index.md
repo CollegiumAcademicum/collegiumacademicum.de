@@ -33,4 +33,4 @@ Fr, 05.12., 19:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-ca
 Fr, 12.12., 18:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-cares-veranstaltungsreihe-zu-sorge-arbeit/">Who cares?</a>": Vorstellug LUA - Gewerkschaft für Sorge-Arbeitende + gemeinsames Essen
 **Januar 2026** | 
 16.-18.01. | Tagung zur Westsahara (<a href="https://www.instagram.com/perspektive_widerstand">perspektive_widerstand</a>)
-25.01., 17:00 | Benefiz-Konzert für das CA in der Melanchthonkirche 
+So, 25.01., 17:00 | Benefiz-Konzert für das CA in der Melanchthonkirche 
