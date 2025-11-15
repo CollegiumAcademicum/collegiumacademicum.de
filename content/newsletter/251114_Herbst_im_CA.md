@@ -34,8 +34,8 @@ date: 2025-11-12
 <p style="text-align: justify">Auch im Herbst 2025 hat im Collegium Academicum wieder eine Eigenleistungswoche, genannt „HammerCAmp”, stattgefunden. Vom 06.10. bis 12.10. haben wir jeden Tag gemeinsam mit einem Frühstück in den Tag gestartet und im Anschluss begonnen zu werkeln. Auf unserem Dachgarten wurden Hochbeete gebaut, die gleichzeitig die Aula-Fenster schützen. An unserem Sitzkreis im Garten befindet sich jetzt eine Feuerstelle und der Pizzaofen wurde fertiggestellt. Die Woche wurde außerdem für die Instandhaltung unseres Gebäudes genutzt. Ein besonderes Highlight des HammerCAmps war der Umzug unserer neuen Holzfräse. Dieser bot direkt die Möglichkeit für einen Workshop zum Umgang mit der Fräse. Einen weiteren Workshop gab es zum Thema ”Metall schweißen”.</p>
 
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/2_handwerk.png" alt="Handwerkliche Arbeit" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/3_ziegel.png" alt="Bau des Pizza-Ofens" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/2_handwerk.png" alt="Handwerkliche Arbeit" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/3_ziegel.png" alt="Bau des Pizza-Ofens" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Arbeiten beim HammerCAmp (© CA)</p>
 
@@ -48,10 +48,10 @@ date: 2025-11-12
     <figure>
     <img 
         src="/newsletter/251114_Herbst_im_CA/1_mahlzahn.png"
-        alt="Leckere Backwaren von Mahlzahl bei unserem Frühstücks-Buffet (© CA)"
+        alt="Leckere Backwaren von Mahlzahn bei unserem Frühstücks-Buffet (© CA)"
         style="display: block; width: 400px; margin: 0 auto 0 auto;" />
     <figcaption style="text-align: center;">
-        <p>Leckere Backwaren von Mahlzahl bei unserem Frühstücks-Buffet (© CA)</p>
+        <p>Leckere Backwaren von Mahlzahn bei unserem Frühstücks-Buffet (© CA)</p>
     </figcaption>
     </figure>
     </div>
@@ -159,7 +159,7 @@ Es wird verschiedene Formate und Zugänge geben:
 
 Mit den verschiedenen Formaten möchten wir eine lebendige, offene Konferenz schaffen, die nicht nur informiert, sondern bewegt – und die zeigt, dass Solidarität über Grenzen hinweg möglich ist.
 
-Mehr Informationen und Updates gibt es auf <a href="https://www.instagram.com/p/DQuN97bDJPh/?igsh=aGViajV4Z3o5NTJl">Instagram</a> von unserem Kanal <a href="https://www.instagram.com/perspektive_widerstand?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">perspektive_widerstand</a>.
+Mehr Informationen und Updates gibt es auf <a href="https://www.instagram.com/p/DQuN97bDJPh/?igsh=aGViajV4Z3o5NTJl">Instagram</a> von unserem Kanal <a href="https://www.instagram.com/perspektive_widerstand">perspektive_widerstand</a>.
 
  
 
