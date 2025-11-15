@@ -76,8 +76,8 @@ Momentan brauchen wir dringend weitere Direktkredite!
 <p style="text-align: justify">Der zweite Jahrgang unseres Orientierungsjahres falt*r ist im Juli erfolgreich zu Ende gegangen. Nach zehn intensiven Monaten voller Workshops, Reisen und neuer Erfahrungen verabschiedeten wir 17 junge Menschen, die ihren persönlichen und beruflichen Weg nun ein Stück klarer vor Augen haben. Besonders in Erinnerung bleiben die zweitägige Exkursion in den Odenwald und die Studienreise nach Montpellier, bei der lokale Nachhaltigkeitsinitiativen besucht und die Feierlichkeiten zum Jahrestag der Befreiung vom Nationalsozialismus miterlebt wurden.</p>
 
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/4_gruppe_faltr25.png.jpg" alt="" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/4_gruppe_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Gemeinschaft und Teambuilding im falt*r Programm 2025 (© CA)</p>
 
