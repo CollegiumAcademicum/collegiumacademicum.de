@@ -25,7 +25,7 @@ date: 2025-11-12
 
 <h3 id="halligalli">HalliGalli Hasenleiser</h3>
 
-<p style="text-align: justify">Auch dieses Jahr hat wieder erfolgreich das Familienfest „HalliGalli Hasenleiser“ stattgefunden. Das gemeinsam vom Stadtteilverein Rohrbach und dem Quartiersmanagement Hasenleiser organisierte Fest lockte am 11.10. über den ganzen Tag einige hundert Menschen an. Auf dem Katharina-von-Künßberg Platz - nicht weit vom CA - gab es Einiges zu entdecken. Neben Waffeln, Pommes und Co. waren wir mit der Küfa und leckeren veganen Dönern vertreten. Beim Radcheck konnten alle mit Hilfe der Fahrrad-Initiative ihre Fahrräder überprüfen und reparieren lassen. Ganz nach dem Motto “Hilfe zur Selbsthilfe”. Auch unser Infostand war durch das Kinderschmink-Angebot gut besucht. Das Rohrbacher Kulturhaus bot außerdem viel Platz für Show-Angebote der Rohrbacher Vereine. Zwischen Breakdance, Ballett, leckerem Essen und netten Gesprächen verging so ein schöner, herbstlicher Samstag. Wir freuen uns schon aufs nächste Jahr!</p>
+<p style="text-align: justify">Auch dieses Jahr hat wieder erfolgreich das Familienfest „HalliGalli Hasenleiser“ stattgefunden. Das gemeinsam vom Stadtteilverein Rohrbach und dem Quartiersmanagement Hasenleiser organisierte Fest lockte am 11.10. über den ganzen Tag einige hundert Menschen an. Auf dem Katharina-von-Künßberg-Platz - nicht weit vom CA - gab es Einiges zu entdecken. Neben Waffeln, Pommes und Co. waren wir mit der Küfa und leckeren veganen Dönern vertreten. Beim Radcheck konnten alle mit Hilfe der Fahrrad-Initiative ihre Fahrräder überprüfen und reparieren lassen. Ganz nach dem Motto “Hilfe zur Selbsthilfe”. Auch unser Infostand war durch das Kinderschmink-Angebot gut besucht. Das Rohrbacher Kulturhaus bot außerdem viel Platz für Show-Angebote der Rohrbacher Vereine. Zwischen Breakdance, Ballett, leckerem Essen und netten Gesprächen verging so ein schöner, herbstlicher Samstag. Wir freuen uns schon aufs nächste Jahr!</p>
 
  
 
@@ -76,8 +76,8 @@ Momentan brauchen wir dringend weitere Direktkredite!
 <p style="text-align: justify">Der zweite Jahrgang unseres Orientierungsjahres falt*r ist im Juli erfolgreich zu Ende gegangen. Nach zehn intensiven Monaten voller Workshops, Reisen und neuer Erfahrungen verabschiedeten wir 17 junge Menschen, die ihren persönlichen und beruflichen Weg nun ein Stück klarer vor Augen haben. Besonders in Erinnerung bleiben die zweitägige Exkursion in den Odenwald und die Studienreise nach Montpellier, bei der lokale Nachhaltigkeitsinitiativen besucht und die Feierlichkeiten zum Jahrestag der Befreiung vom Nationalsozialismus miterlebt wurden.</p>
 
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/4_gruppe_faltr25.jpg" alt="" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/4_gruppe_faltr25.png.jpg" alt="" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Gemeinschaft und Teambuilding im falt*r Programm 2025 (© CA)</p>
 
@@ -104,8 +104,8 @@ Wir freuen uns außerdem über Weiterleitungen an interessierte Menschen oder Ei
 <p style="text-align: justify">Im November jährt sich das Bestehen des solidarischen Küchen-Kollektivs „CAntine“ zum ersten Mal! Seit 12 Monaten gibt es in der Aula des CAs immer am letzten Sonntag des Monats veganes Essen auf Spendenbasis und Raum für Gemeinschaft. Neben den regelmäßigen Terminen hat die CAntine noch zahlreiche weitere Events kulinarisch unterstützt, darunter Nachbarschaftsfeste, politische Veranstaltungen und aktivistische Zusammenkünfte.</p>
 
  <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/6_cantine1.png" alt="" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/7_cantine2.png" alt="" style="width: 45%; height: 250px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/6_cantine1.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/251114_Herbst_im_CA/7_cantine2.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Küche für alle (Küfa) bei unserer CAntine (© CA)</p>
 
