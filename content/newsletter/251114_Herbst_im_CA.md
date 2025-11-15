@@ -137,10 +137,6 @@ Mehr Informationen und Updates gibt es auf <a href="https://www.instagram.com/p/
 
 <h3 id="termine">Anstehende Termine</h3>
 
-* **14.11. 17 Uhr** Einsteiger Treffen Küfa
-  
-* **14.11. 16 Uhr**: [Amnesty Soli Party](https://eventfrog.de/de/p/party/00-s/soli-party-7374026035640179789.html)
-  
 * **16.11. 20 Uhr**: [Thrax Punks Konzert](https://www.instagram.com/p/DQZvTTujTIU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in der Aula des Collegium Academicum
   
 * **17.11. 20 Uhr**: Lesung Volker v. Offenberg: Wege zum Paradies – Utopisches Denken und radikales Handeln in der Heidelberger Revolte (1968-1978) im Karlstorbahnhof Mehr Infos zur Lesung gibt es auf der [Homepage des Karlstorbahnhof](https://www.karlstorbahnhof.de/programm/veranstaltung/worte-des-widerstands-2/)
