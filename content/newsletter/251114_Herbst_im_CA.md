@@ -34,8 +34,8 @@ date: 2025-11-15
 <p style="text-align: justify">Auch im Herbst 2025 hat im Collegium Academicum wieder eine Eigenleistungswoche, genannt „HammerCAmp”, stattgefunden. Vom 06.10. bis 12.10. haben wir jeden Tag gemeinsam mit einem Frühstück in den Tag gestartet und im Anschluss begonnen zu werkeln. Auf unserem Dachgarten wurden Hochbeete gebaut, die gleichzeitig die Aula-Fenster schützen. An unserem Sitzkreis im Garten befindet sich jetzt eine Feuerstelle und der Pizzaofen wurde fertiggestellt. Die Woche wurde außerdem für die Instandhaltung unseres Gebäudes genutzt. Ein besonderes Highlight des HammerCAmps war der Umzug unserer neuen Holzfräse. Dieser bot direkt die Möglichkeit für einen Workshop zum Umgang mit der Fräse. Einen weiteren Workshop gab es zum Thema ”Metall schweißen”.</p>
 
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/2_handwerk.png" alt="Handwerkliche Arbeit" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/3_ziegel.png" alt="Bau des Pizza-Ofens" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/2_handwerk.png" alt="Handwerkliche Arbeit" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/3_ziegel.png" alt="Bau des Pizza-Ofens" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Arbeiten beim HammerCAmp (© CA)</p>
 
@@ -47,7 +47,7 @@ date: 2025-11-15
     <div style="flex: 2">
     <figure>
     <img 
-        src="/newsletter/251114_Herbst_im_CA/1_mahlzahn.png"
+        src="/newsletter/25_Herbst_im_CA/1_mahlzahn.png"
         alt="Leckere Backwaren von Mahlzahn bei unserem Frühstücks-Buffet (© CA)"
         style="display: block; width: 400px; margin: 0 auto 0 auto;" />
     <figcaption style="text-align: center;">
@@ -76,8 +76,8 @@ Momentan brauchen wir dringend weitere Direktkredite!
 <p style="text-align: justify">Der zweite Jahrgang unseres Orientierungsjahres falt*r ist im Juli erfolgreich zu Ende gegangen. Nach zehn intensiven Monaten voller Workshops, Reisen und neuer Erfahrungen verabschiedeten wir 17 junge Menschen, die ihren persönlichen und beruflichen Weg nun ein Stück klarer vor Augen haben. Besonders in Erinnerung bleiben die zweitägige Exkursion in den Odenwald und die Studienreise nach Montpellier, bei der lokale Nachhaltigkeitsinitiativen besucht und die Feierlichkeiten zum Jahrestag der Befreiung vom Nationalsozialismus miterlebt wurden.</p>
 
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/4_gruppe_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/4_gruppe_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/5_teambuilding_faltr25.png" alt="" style="width: 45%; height: 600px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Gemeinschaft und Teambuilding im falt*r Programm 2025 (© CA)</p>
 
@@ -104,8 +104,8 @@ Wir freuen uns außerdem über Weiterleitungen an interessierte Menschen oder Ei
 <p style="text-align: justify">Im November jährt sich das Bestehen des solidarischen Küchen-Kollektivs „CAntine“ zum ersten Mal! Seit 12 Monaten gibt es in der Aula des CAs immer am letzten Sonntag des Monats veganes Essen auf Spendenbasis und Raum für Gemeinschaft. Neben den regelmäßigen Terminen hat die CAntine noch zahlreiche weitere Events kulinarisch unterstützt, darunter Nachbarschaftsfeste, politische Veranstaltungen und aktivistische Zusammenkünfte.</p>
 
  <div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="/newsletter/251114_Herbst_im_CA/6_cantine1.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
-        <img src="/newsletter/251114_Herbst_im_CA/7_cantine2.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/6_cantine1.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
+        <img src="/newsletter/25_Herbst_im_CA/7_cantine2.png" alt="" style="width: 45%; height: 300px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Küche für alle (Küfa) bei unserer CAntine (© CA)</p>
 
