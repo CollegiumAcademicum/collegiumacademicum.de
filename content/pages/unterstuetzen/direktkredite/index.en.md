@@ -48,7 +48,7 @@ Direct loans are a key part of the funding and the most important precondition f
 {{< /accordion >}}
 
 {{< accordion "What are the conditions for loans?" >}}
-We are glad to obtain loans starting at 1,000 euro (for students starting at 500 euro). An interest rate between 0 % and 1.65 % will be agreed in the credit contract. You can either have the interest paid out annually or reinvest it. The minimum term of the loan is two years, and after this period the loan contract can be terminated with six months' notice.
+We are glad to obtain loans starting at 1,000 euro (for students starting at 500 euro). An interest rate between 0.2% and 1.9% will be agreed in the credit contract. You can either have the interest paid out annually or reinvest it. The minimum term of the loan is two years, and after this period the loan contract can be terminated with six months' notice.
 {{< /accordion >}}
 
 {{< accordion "How safe is a direct loan?" >}}
