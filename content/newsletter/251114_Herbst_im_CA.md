@@ -13,7 +13,7 @@ date: 2025-11-19
 <li><a href="#halligalli">HalliGalli Hasenleiser</a></li><br>
 <li><a href="#hammercamp">HammerCAmp</a></li><br>
 <li><a href="#direktkredite">Direktkredite gesucht</a></li><br>
-<li><a href="#faltr">Nachfolger für das Orientierungsjahr - Neues Projekt: Azubiwohnen</a></li><br>
+<li><a href="#faltr">Orientierungsjahr falt*r - Abschluss und Ausblich</a></li><br>
 <li><a href="#waschapp">Selbst entwickelt - Neue Wasch-App für unsere Waschlounge</a></li><br>
 <li><a href="#cantine">CAntine - Unsere Küche für alle</a></li><br>
 <li><a href="#werkstatt">Infos zur Werkstatt</a></li><br>
@@ -86,14 +86,6 @@ Momentan brauchen wir dringend weitere Direktkredite!
 #### Nachfolger für das Orientierungsjahr - Neues Projekt: Azubiwohnen
 
 <p style="text-align: justify">Auch wenn der falt*r im kommenden Jahr pausiert, bleibt der Gedanke, junge Menschen in ihrer Lebens- und Berufsorientierung zu unterstützen, lebendig: In Kooperation mit dem Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg startet das neue Projekt Azubiwohnen. Ziel ist es, Auszubildenden im und um das Collegium Academicum den Einstieg in die Ausbildung zu erleichtern, sie im Alltag zu begleiten und die Vernetzung untereinander zu fördern.</p>
-
-**Dafür werden zwei Joblots*innen-Stellen geschaffen**, die schrittweise zum 01.01.2026 und 01.04.2026 besetzt werden. Die erste Stellenausschreibung ist bereits online, und **wir freuen uns über Bewerbungen bis einschließlich Sonntag, 16.11.2025**
-
-**Alle Infos zur Stelle und das Bewerbungsformular befinden sich auf unserer Webseite: [https://collegiumacademicum.de/aktuelles/](https://collegiumacademicum.de/aktuelles/)**
-
-Wir freuen uns außerdem über Weiterleitungen an interessierte Menschen oder Einrichtungen, die junge Auszubildende begleiten und stärken möchten!
-
-
 
 <h3 id="waschapp">Selbst entwickelt - Neue Wasch-App für unsere Wasch-Lounge</h3>
 
