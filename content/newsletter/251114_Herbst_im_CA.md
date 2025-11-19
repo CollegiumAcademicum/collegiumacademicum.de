@@ -13,7 +13,7 @@ date: 2025-11-19
 <li><a href="#halligalli">HalliGalli Hasenleiser</a></li><br>
 <li><a href="#hammercamp">HammerCAmp</a></li><br>
 <li><a href="#direktkredite">Direktkredite gesucht</a></li><br>
-<li><a href="#faltr">Orientierungsjahr falt*r - Abschluss und Ausblich</a></li><br>
+<li><a href="#faltr">Orientierungsjahr falt*r - Abschluss und Ausblick</a></li><br>
 <li><a href="#waschapp">Selbst entwickelt - Neue Wasch-App für unsere Waschlounge</a></li><br>
 <li><a href="#cantine">CAntine - Unsere Küche für alle</a></li><br>
 <li><a href="#werkstatt">Infos zur Werkstatt</a></li><br>
