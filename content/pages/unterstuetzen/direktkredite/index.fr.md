@@ -55,7 +55,7 @@ Les crédits directs sont la condition nécessaire au financement du projet, car
 {{< /accordion >}}
 
 {{< accordion "Quelles sont les conditions ?" >}}
-Il est possible de nous accorder un crédit à partir de 1 000 euros (pour les étudiants à partir de 500 euros). Dans le contrat de prêt, un taux d'intérêt compris entre 0 % et 1,55 % est convenu entre les parties. La durée minimale des prêts est de deux ans, au-delà delaquelle un délai de préavis de six mois s'applique.
+Il est possible de nous accorder un crédit à partir de 1 000 euros (pour les étudiants à partir de 500 euros). Dans le contrat de prêt, un taux d'intérêt compris entre 0,2 % et 1,9 % est convenu entre les parties. La durée minimale des prêts est de deux ans, au-delà delaquelle un délai de préavis de six mois s'applique.
 {{< /accordion >}}
 
 {{< accordion "Dans quelle mesure est-il sûr d'accorder un crédit direct ?" >}}
