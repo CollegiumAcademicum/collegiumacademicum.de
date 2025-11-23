@@ -9,7 +9,7 @@ novoigl: yes
 </figure>
 
 
-<a href="https://www.instagram.com/tagungrojava/">
+<a href="https://www.instagram.com/perspektive_widerstand/">
         <span class="icon">
             <i class="icon-instagram"></i>
         </span>
@@ -17,11 +17,6 @@ novoigl: yes
    </a>
 
 <h2>Demokratische Vision aus Nord- und Ostsyrien</h2>
-<br>
-    <div class="notification is-secondary">
-Aktuell sieht sich die Selbstverwaltung Nord- und Ost-Syrien mit der stärksten Bedrohung seit 2019 konfrontiert. Türkische Luftangriffe und das Vorrücken der pro-türkischen Milizen der SNA haben bereits viele Menschen zur Flucht gezwungen. Hunderttausende Menschen sind auf humanitäre Hilfe angewiesen. 
-Wir bitten um Unterstützung für die humanitäre Arbeit vor Ort. Wir empfehlen dabei die <a href="https://www.medico.de/spenden">Hilfsorganisation Medico International</a>, die mit dem Kurdischen Roten Halbmond eng zusammenarbeitet.
-    </div>
 
 <p style="text-align: justify">
 In einer Zeit, in der Populismus und Rechtsextremismus weltweit auf dem Vormarsch sind, unsere Demokratie an ihre Grenzen stößt, die Kriege in der Welt und auch in der Region Rojavas immer weiter eskalieren und die Zeit zur Bekämpfung des Klimawandels drängt, braucht es mehr denn je neue Ideen, Impulse und Visionen.<br>
@@ -36,7 +31,7 @@ Dieses gelebte Experiment, samt seiner Chancen und Herausforderungen, haben wir 
 <!--</blockquote>-->
 
 <p style="text-align: justify">
-Die Tagung fand <b>vom 25. bis zum 26. Januar</b> statt! Ein voller Samstag und ein Sonntagvormittag.<br>
+Die Tagung fand <b>vom 25. bis zum 26. Januar 2025</b> statt! Ein voller Samstag und ein Sonntagvormittag.<br>
 Die Tage waren gefüllt mit <b>Vorträges, Workshops und Diskussionen</b>. Außerdem gab es am Samstag einen gemeinsamen <b>Bar-Abend mit Livemusik</b> zum Austauschen und Tanzen. Für diejenigen, die weiter angereist sind, hatten wir eine <b>Bettenbörse</b> organisiert und auch gemeinsames Essen unserer tollen Küfa hat nicht gefehlt.<br>
 </p>
 
