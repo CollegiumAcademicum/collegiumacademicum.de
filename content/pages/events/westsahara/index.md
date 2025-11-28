@@ -19,13 +19,25 @@ novoigl: yes
 <br>
 </div>
 
-<div class="notification is-primary">
-Hier geht's zur Anmeldung:
-</div>
+<p style="text-align:center">
+<a class="button is-primary"
+href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7" style="font-weight:bold; width:20em">
+<span class="icon">
+    <i class="icon-link"></i>
+</span>
+<span>Hier geht's zur Anmeldung!</span></a>
+</p>
 
-<div style="text-align: justify">
-<br>
-Mit der Konferenz möchten wir einen Lern-, Begegnungs- und Aktionsraum öffnen, um auf die Besatzung der Westsahara, den sahrauischen Widerstand und den Kampf um Unabhängigkeit und Selbstbestimmung aufmerksam zu machen und den Diskurs anzuregen. Wir möchten mit- und voneinander lernen und gemeinsam einen Ort schaffen, an dem sich Menschen aus verschiedenen linken Kontexten, der sahrauischen Community und Diaspora, Aktivist*innen, Wissenschaftler*innen und  institutionelle Akteur*innen vernetzen können. Wir wollen gemeinsame Perspektiven entwickeln und Impulse zur Frage setzen, was wir hier und jetzt tun können, um solidarische Netzwerke aufzubauen und zu stärken. Wir möchten laut werden - für Menschenrechte, Selbstbestimmung und ein Leben in Freiheit – ohne Besatzung und Ausbeutung, für ein Leben in Würde und für eine befreite unabhängige Westsahara.
+<div class="columns" style="width: 100%;">
+    <div clas="column" style="text-align: justify; width: 50%; float: left;">
+    <br>
+    Mit der Konferenz möchten wir einen Lern-, Begegnungs- und Aktionsraum öffnen, um auf die Besatzung der Westsahara, den sahrauischen Widerstand und den Kampf um Unabhängigkeit und Selbstbestimmung aufmerksam zu machen und den Diskurs anzuregen. Wir möchten mit- und voneinander lernen und gemeinsam einen Ort schaffen, an dem sich Menschen aus verschiedenen linken Kontexten, der sahrauischen Community und Diaspora, Aktivist*innen, Wissenschaftler*innen und  institutionelle Akteur*innen vernetzen können. Wir wollen gemeinsame Perspektiven entwickeln und Impulse zur Frage setzen, was wir hier und jetzt tun können, um solidarische Netzwerke aufzubauen und zu stärken. Wir möchten laut werden - für Menschenrechte, Selbstbestimmung und ein Leben in Freiheit – ohne Besatzung und Ausbeutung, für ein Leben in Würde und für eine befreite unabhängige Westsahara.
+    </div>
+    <div class="column" style="width:45%; float: left">
+        <figure>
+        <img alt="" src="westsahara_sharepic.png" width="100%"/>
+        </figure>
+    </div>
 </div>
 
 <h2>Inhalt und Formate der Konferenz</h2>
