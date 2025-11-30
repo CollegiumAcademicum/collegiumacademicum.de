@@ -23,10 +23,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 Datum | Veranstaltung 
 -------- | -------- 
 **November 2025** | 
-Fr, 21.11., 20:00 | [Banda Entopica Konzert](https://www.instagram.com/p/DQlzfvfjbfB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D&img_index=1), Tickets auf Spendenbasis
-Sa, 22.11., 15:30 | Heidelberg Welcome Party 2025 (Live in Heidelberg), kostenlose Tickets auf [liveinheidelberg.de](https://www.liveinheidelberg.de/event-details/heidelberg-welcome-party-2025-november-edition)
-Di, 25.11., 19:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-cares-veranstaltungsreihe-zu-sorge-arbeit/">Who cares?</a>": Workshop zu sorgenden Städten
-Sa, 29.11. | Zine Fair Heidelberg, Kontakt und Standanmeldung: solarpunk.hd@gmail.com
 29.-30.11. | CA-Stand auf dem [vorweihnachtlichen Markt in Rorbach](https://www.stadtteilverein-rohrbach.de/regelmaessige-veranstaltungen.html)
 **Dezember 2025** | 
 Fr, 05.12., 19:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-cares-veranstaltungsreihe-zu-sorge-arbeit/">Who cares?</a>": Filmvorführung "Care ist mehr. Neue Wege im Sorgebereich"
