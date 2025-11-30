@@ -103,8 +103,8 @@
     weight = 4
     parent = "Events"
 [[main]]
-    name = "Westsahara-Konferenz"
-    url = "/westsahara"
+    name = "Perspektive Widerstand"
+    url = "/perspektive_widerstand"
     weight = 5
     parent = "Events"
 
