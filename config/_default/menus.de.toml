@@ -103,8 +103,8 @@
     weight = 4
     parent = "Events"
 [[main]]
-    name = "Tagung Rojava"
-    url = "/rojava"
+    name = "Westsahara-Konferenz"
+    url = "/westsahara"
     weight = 5
     parent = "Events"
 
