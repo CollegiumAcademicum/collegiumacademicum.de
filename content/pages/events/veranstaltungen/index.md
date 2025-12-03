@@ -22,8 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**November 2025** | 
-29.-30.11. | CA-Stand auf dem [vorweihnachtlichen Markt in Rorbach](https://www.stadtteilverein-rohrbach.de/regelmaessige-veranstaltungen.html)
 **Dezember 2025** | 
 Fr, 05.12., 19:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-cares-veranstaltungsreihe-zu-sorge-arbeit/">Who cares?</a>": Filmvorführung "Care ist mehr. Neue Wege im Sorgebereich"
 Fr, 12.12., 18:00 | Veranstaltungsreihe "<a href="https://hasenleiser.net/who-cares-veranstaltungsreihe-zu-sorge-arbeit/">Who cares?</a>": Vorstellug LUA - Gewerkschaft für Sorge-Arbeitende + gemeinsames Essen
