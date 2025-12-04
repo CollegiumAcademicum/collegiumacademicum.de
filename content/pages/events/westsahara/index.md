@@ -88,7 +88,7 @@ Samstag, 17.01.
 - Gemeinsames Frühstück in der Aula
 
 <br>
-<b>09:30 - 11:00 Uhr</b>: Lesung mit Tee Zereminie
+<b>09:30 - 11:00 Uhr</b>: Lesung mit Tee Zeremonie
 
 - Mit dem Comic "Genug gewartet" nimmt Fine (Autor\*in und Zeichner\*in) euch mit auf die Reise in die Westsahara und beleuchtet die  geschichtlichen und politischen Hintergründe der letzten Kolonie Afrikas. Die Lesung ist begleitet von einer Tee Zeremonie und bietet einen inhaltlichen Einstieg in die Themen des Wochenendes.
 Anschließend gibt es die Möglichkeit zum Austausch mit einem\*er Vertreter\*in der saharauischen Diaspora.
@@ -100,7 +100,7 @@ besetzten Gebieten, den Camps, oder in der Diaspora. In einem Panel Gespräch
 werden Stimmen aus verschiedenen Geografien des Saharauischen Widerstands ihre
 Perspektiven teilen.
 
-<b>113:00 – 14:00 Uhr</b>: Mittagspause
+<b>13:00 – 14:00 Uhr</b>: Mittagspause
 
 - Gemeinsames Mittagessen
 
@@ -121,7 +121,7 @@ Unternehmen in die Besatzung.
 zu werden, Vernetzungsräume aufzubauen oder die Verbindung zu anderen
 Freiheitskämpfen auszuleuchten. Mehr Informationen zu den geplanten Workshops folgen.
 
-<b>17:30 – 18:30</b>: Zine Lesung
+<b>17:30 – 18:30 Uhr</b>: Zine Lesung
 
 - Nach der Workshop Phase geht es wieder in einen gemeinsamen Raum. Im Zine
 WIDERWORTE verweben sich sahrauische Stimmen aus den besetzten Gebieten, den Flüchtlingscamps und der
@@ -139,7 +139,7 @@ Institutionen zu dem Thema arbeiten über diese Fragen diskutieren und vor allem
 auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu
 erreichen?
 
-<b>21:30 – open end</b>: Ausklang mit Musik
+<b>21:30 Uhr – open end</b>: Ausklang mit Musik
 
 - Wir beenden den Abend mit einem gemeinsamen Ausklang mit Musik. Aktuell
 arbeiten wir daran, eine saharauische Künstler*in oder Band zu organisieren.
@@ -173,7 +173,7 @@ Medien zieht sich durch alle Ebenen des Widerstands und der Besatzung. Wir werde
 zu verschiedenen Aspekten Einblicke und Inputs bekommen mit der Möglichkeit, sich
 anschließend über die Rolle der deutschen Medien auszutauschen.
 
-<b>Ab 13:00 Uhr</b> Gemeinsames Mittagessen und offizielles Ende
+<b>Ab 13:00 Uhr</b>: Gemeinsames Mittagessen und offizielles Ende
 
 - Nach einem vollen und dichten Wochenende schließen wir mit einem gemeinsamen
 Essen. Hier gibt es nochmal Raum für offenen Austausch.
