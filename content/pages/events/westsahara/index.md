@@ -74,7 +74,7 @@ Freitag, 16.01.
 
 <b>19:00 Uhr</b>: Kurzfilm-Premiere und Ankommen
 <br>
-- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit der Premiere des Kurzfilms „Titel“ ein, der sich dokumentarisch mit der Westsahara und den Camps in Algerien befasst. Beim Anschließenden Essen gibt es die Möglichkeit, mit der Filmemacherin Maria Klenner in Austausch zu kommen.
+- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit der Premiere des Kurzfilms <a href="https://rafilm.se/haiyu">"Haiyu"</a> ein, der sich dokumentarisch mit der Westsahara und den Camps in Algerien befasst. Beim Anschließenden Essen gibt es die Möglichkeit, mit der Filmemacherin Maria Klenner in Austausch zu kommen.
 </div>
 
 <div class="box">
@@ -177,9 +177,12 @@ anschließend über die Rolle der deutschen Medien auszutauschen.
 
 - Nach einem vollen und dichten Wochenende schließen wir mit einem gemeinsamen
 Essen. Hier gibt es nochmal Raum für offenen Austausch.
-Nachmittags (Uhrzeit noch unklar) – Gemeinsamer Protest
-Wir tragen das Gelernte auf die Straße! Gemeinsam wollen wir in Heidelberg
-protestieren und sichtbar machen, dass auch ein Heidelber
+
+<b>Nachmittags (Uhrzeit folgt)</b>: Gemeinsamer Protest
+
+- Wir tragen das Gelernte auf die Straße! Gemeinsam wollen wir in Heidelberg
+protestieren und sichtbar machen, dass auch ein Heidelberger Unternehmen von der
+Besatzung der Westsahara profitiert. Weitere Infos folgen.
 
 </div>
 
