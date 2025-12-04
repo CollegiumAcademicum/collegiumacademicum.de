@@ -9,7 +9,7 @@ novoigl: yes
         <div class="columns">
             <div class="column has-text-centered">
                 <div>
-                    <p><a href="{{< relref "/westsahara" >}}"><img src="../westsahara/westsahara_sharepic.png" alt="Sharepic für die Westsahara-Konferenz" width="500" /></a></p>
+                    <p><a href="{{< relref "/westsahara" >}}"><img src="../westsahara/westsahara_banner.png" alt="Sharepic für die Westsahara-Konferenz" width="500" /></a></p>
                     <p><a class="button is-mobile-fullwidth" href="{{< relref "/westsahara" >}}">2026: Westsahara-Konferenz</a></p>
                 </div>
             </div>
