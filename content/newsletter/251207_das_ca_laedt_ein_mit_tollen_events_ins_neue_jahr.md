@@ -60,13 +60,13 @@ Mit den verschiedenen Formaten möchten wir eine lebendige, offene Konferenz sch
 
 Wer an der Konferenz teilnehmen möchte, kann sich hier anmelden: <a href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7">https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7 </a> <br>
 
-Weitere Informationen zur Konferenz findet ihr auf unserer Website unter collegiumacademicum.de/westsahara und auf dem Instagramkanal <a href= "https://www.instagram.com/perspektive_widerstand?igsh=ZjM5NnQzdjllb3oz">@perspektive_widerstand</a>
+Weitere Informationen zur Konferenz findet ihr auf unserer Website unter <a href="https://collegiumacademicum.de/westsahara/">collegiumacademicum.de/westsahara</a> und auf dem Instagramkanal <a href= "https://www.instagram.com/perspektive_widerstand?igsh=ZjM5NnQzdjllb3oz">@perspektive_widerstand</a>
 </p>
 
 <h3 id="benefizkonzert">"Licht in der Dunkelheit" - Benefitskonzert des Vereins Punker zugunsten des CA</h3> 
 
 <p>Licht in der Dunkelheit“ - Unter diesem Titel wollen wir am <strong> 25. Januar</strong> ein <strong>Benefiz-Konzert für das CA</strong> feiern - orgnisiert vom Verein <a href="https://www.derpunker.de/aktuelles.html">der punker e.V.</a>. Es gibt vier verschiedene Gruppen/Personen mit verschiedenen Musikrichtungen, die den Abend musikalisch gestalten werden. Alle Spenden an diesem Abend gehen an den Förderverein des CA.
-Das Konzert beginnt um 17 Uhr und findet in der Melanchthon-Kirche in Heidelberg-Rohrbach statt. Wir laden Sie und Euch herzlich dazu ein! 
+Das Konzert beginnt <strong>um 17 Uhr</strong> und findet <strong>in der Melanchthon-Kirche in Heidelberg-Rohrbach</strong> statt. Wir laden Sie und Euch herzlich dazu ein! 
 
 Wir freuen uns auf alle, die zu den Veranstaltungen kommen und wünschen Ihnen und euch noch eine gemütliche Winterzeit mit Kerzenlicht und Plätzchen sowie alles Gute für 2026.
 
