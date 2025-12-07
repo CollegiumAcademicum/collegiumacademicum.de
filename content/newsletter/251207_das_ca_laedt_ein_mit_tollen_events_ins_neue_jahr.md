@@ -23,7 +23,7 @@ date: 2025-12-07
 <div style="display: flex; justify-content: center">
     <img src="/newsletter/251207_das_ca_laedt_ein_mit_tollen_events_ins_neue_jahr/Gauben.JPG" alt="Das Pförtnerhäuschen erhält neue Gauben" style="diyplay: block" width="100%">
 </div>
-<p style="text-align: center;">Das ehemalige Pförtnerhäuschen feiert Richtfest (© CA)</p>
+<p style="text-align: center;">Das ehemalige Pförtnerhäuschen feiert Richtfest (© Phillip Garschke)</p>
 
 
 
@@ -65,7 +65,7 @@ Weitere Informationen zur Konferenz findet ihr auf unserer Website unter collegi
 
 <h3 id="benefizkonzert">"Licht in der Dunkelheit" - Benefitskonzert des Vereins Punker zugunsten des CA</h3> 
 
-<p>Licht in der Dunkelheit“ - Unter diesem Titel wollen wir am <strong> 25. Januar</strong> ein <strong>Benefiz-Konzert für das CA</strong> feiern. Es gibt vier verschiedene Gruppen/Personen mit verschiedenen Musikrichtungen, die den Abend musikalisch gestalten werden. Alle Spenden an diesem Abend gehen an den Förderverein des CA.
+<p>Licht in der Dunkelheit“ - Unter diesem Titel wollen wir am <strong> 25. Januar</strong> ein <strong>Benefiz-Konzert für das CA</strong> feiern - orgnisiert vom Verein <a href="https://www.derpunker.de/aktuelles.html">der punker e.V.</a>. Es gibt vier verschiedene Gruppen/Personen mit verschiedenen Musikrichtungen, die den Abend musikalisch gestalten werden. Alle Spenden an diesem Abend gehen an den Förderverein des CA.
 Das Konzert beginnt um 17 Uhr und findet in der Melanchthon-Kirche in Heidelberg-Rohrbach statt. Wir laden Sie und Euch herzlich dazu ein! 
 
 Wir freuen uns auf alle, die zu den Veranstaltungen kommen und wünschen Ihnen und euch noch eine gemütliche Winterzeit mit Kerzenlicht und Plätzchen sowie alles Gute für 2026.
