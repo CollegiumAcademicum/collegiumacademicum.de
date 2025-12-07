@@ -20,8 +20,8 @@ date: 2025-12-07
 
 <h3 id="richtfest">Richtfest Pförtnerhäuschen am 12.12.25</h3>
 
-<div style="display: flex; flex-wrap: wrap; margin: 0 auto; width=100%">
-        <img src="content/newsletter/251207_das_ca_laedt_ein_mit_tollen_events_ins_neue_jahr/Gauben.JPG" alt="das Pförtnerhäuschen erhält neue Gauben" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
+<div style="display: flex; flex-wrap: wrap; margin: 0 auto; width="100%">
+        <img src="../content/newsletter/251207_das_ca_laedt_ein_mit_tollen_events_ins_neue_jahr/Gauben.JPG" alt="das Pförtnerhäuschen erhält neue Gauben" style="width: 45%; height: 400px; object-fit: cover; margin: 5px;">
 </div>
 <p style="text-align: center;">Das ehemalige Pförtnerhäuschen feuert Richtfest (© CA)</p>
 
