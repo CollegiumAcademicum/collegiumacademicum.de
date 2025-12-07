@@ -72,7 +72,7 @@ Wir freuen uns auf alle, die zu den Veranstaltungen kommen und wünschen Ihnen u
 
 Bis nächstes Jahr! 
 
-Und wer schon vorher Neuigkeiten aus dem CA erhalten möchte, kann gerne auf unserem Instagram-Kanal <a href="https://www.instagram.com/collegiumacademicum/?hl=de">@collegiumacademicum</a> vorbeischauen
+Und wer schon vorher Neuigkeiten aus dem CA erhalten möchte, kann gerne auf unserem Instagram-Kanal <a href="https://www.instagram.com/collegiumacademicum/?hl=de">@collegiumacademicum</a> vorbeischauen.
 
 Viele Grüße<br>
 Ihr und Euer CA
