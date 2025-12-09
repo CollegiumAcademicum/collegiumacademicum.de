@@ -20,7 +20,7 @@ novoigl: yes
 </div>
 
 <div style="text-align:center">
-Der Eintritt ist auf solidarischer Spendenbasis. Empfohlen wird ein Betrag zwischen 0 und 30 €.
+Der Eintritt ist auf solidarischer Spendenbasis. Empfohlen wird ein Betrag zwischen 0 und 30&nbsp;€.
 <br>
 <br>
 </div>
@@ -36,7 +36,7 @@ href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7
 
 
 <div style="display: flex; justify-content: center">
-    <img alt="" src="westsahara_banner.png" width="100%" style="display:block"/>
+    <img alt="Sharepic für die Westsahara-Konferenz" src="westsahara_banner.png" width="100%" style="display:block"/>
 </div>
 
 <div style="text-align: justify">
@@ -74,7 +74,7 @@ Freitag, 16.01.
 
 <b>19:00 Uhr</b>: Kurzfilm-Premiere und Ankommen
 <br>
-- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit der Premiere des Kurzfilms <a href="https://rafilm.se/haiyu">"Haiyu"</a> ein, der sich dokumentarisch mit der Westsahara und den Camps in Algerien befasst. Beim Anschließenden Essen gibt es die Möglichkeit, mit der Filmemacherin Maria Klenner in Austausch zu kommen.
+- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit einer Filmpremiere ein. Beim Anschließenden Essen gibt es die Möglichkeit, mit der Filmemacherin Maria Klenner in Austausch zu kommen.
 </div>
 
 <div class="box">
