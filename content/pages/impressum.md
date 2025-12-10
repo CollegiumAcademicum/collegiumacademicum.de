@@ -32,7 +32,7 @@ Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
 Leander von Detten, Nicolai Ferchl, Philipp Garschke, Hannes Juchem, Franziska Meier, Elisa Romeu, Carolina Seixedo Magalhães, Lara Wollert
 
 ### Redaktionell verantwortlich
-Louise Gross \
+Christiane Brenner & Lukas Hesche \
 Mendelejewplatz 1 \
 69126 Heidelberg
 
