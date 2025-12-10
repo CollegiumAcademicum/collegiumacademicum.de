@@ -29,7 +29,7 @@ Tel.: <a href="tel:+4906221652236">+49 (0)6221-652236</a>
 </div>
 
 ### Vertretungsberechtigte Personen (Geschäftsführung)
-Leander von Detten, Nicolai Ferchl, Philipp Garschke, Hannes Juchem, Franziska Meier, Elisa Romeu, Carolina Seixedo Magalhães, Lara Wollert
+Leander von Detten, Philipp Garschke, Hannes Juchem, Franziska Meier, Elisa Romeu, Carolina Seixedo Magalhães, Lara Wollert
 
 ### Redaktionell verantwortlich
 Christiane Brenner & Lukas Hesche \
