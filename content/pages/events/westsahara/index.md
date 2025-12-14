@@ -195,34 +195,37 @@ Ihre Schwerpunkte liegen auf der Ausbeutung der natürlichen Ressourcen und auf 
 {{< /accordion >}}
 
 {{< accordion "Buhari Lehbib" >}}
-<div class="columns">
-<div style="width: 50%" class="column"> 
-<img alt="Portrait Buhari Lehbib" src="Bilder_Kurzbios/speaker_bild_Buhari_Lehbib.jpeg" width="100%" style="display:block" attr="Maria Klenner"/>
-Foto: © Maria Klenner
-</div>
-<div style="width: 50%; float: left;text-align:left" class="column"> 
-Buhari Lehbib ist ein junger sahrauischer Aktivist der Saharauischen Diaspora in Deutschland. Inspiriert von der Widerstandsfähigkeit und Disziplin seiner Eltern und anderen Sahrauis in Deutschland, setzt er sich für eine Zusammenarbeit mit anderen Verbündeten, einen kontinuierlichen Erfahrungsaustausch und das Einnehmen neuer Perspektiven ein. Um gewappnet zu sein für die bevorstehenden Herausforderungen, studiert er Politikwissenschaft und Jura.
-</div>
+<div class="grid-col">
+<figure>
+    <img alt="Portrait Buhari Lehbib" src="Bilder_Kurzbios/speaker_bild_Buhari_Lehbib.jpeg" width="100%" style="display:block"/>
+    <figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+    <div class="" style="text-align: left">
+        Buhari Lehbib ist ein junger sahrauischer Aktivist der Saharauischen Diaspora in Deutschland. Inspiriert von der Widerstandsfähigkeit und Disziplin seiner Eltern und anderen Sahrauis in Deutschland, setzt er sich für eine Zusammenarbeit mit anderen Verbündeten, einen kontinuierlichen Erfahrungsaustausch und das Einnehmen neuer Perspektiven ein. Um gewappnet zu sein für die bevorstehenden Herausforderungen, studiert er Politikwissenschaft und Jura.
+    </div>
 </div>
 {{< /accordion >}}
 
+
 {{< accordion "Fine" >}}
-<div class="columns">
-<div style="width: 50%" class="column"> 
+<div class="grid-col">
+<figure>
 <img alt="Portrait Fine" src="Bilder_Kurzbios/speaker_bild_fine.jpeg" width="100%" style="display:block"/>
-</div>
-<div style="width: 50%; float: left;text-align:left" class="column"> 
-Fine setzt sich künstlerisch-aktivistisch mit dem Westsaharakonflikt auseinander, u.a. in “Genug gewartet. Ein Comic zum Westsaharakonflikt”. Das Comic führt über eine Reise in die Flüchtlingscamps zur Geschichte und Gegenwart des sahrauischen Kampfes für Unabhängigkeit. Regelmäßige Comic-Lesungen mit Vertreter:innen der sahrauischen Diaspora laden bei Tee zum Lernen und zum Gespräch ein. Fine lebt und arbeitet in Berlin.
-</div>
+</figure>
+    <div class="" style="text-align: left">
+    Fine setzt sich künstlerisch-aktivistisch mit dem Westsaharakonflikt auseinander, u.a. in “Genug gewartet. Ein Comic zum Westsaharakonflikt”. Das Comic führt über eine Reise in die Flüchtlingscamps zur Geschichte und Gegenwart des sahrauischen Kampfes für Unabhängigkeit. Regelmäßige Comic-Lesungen mit Vertreter:innen der sahrauischen Diaspora laden bei Tee zum Lernen und zum Gespräch ein. Fine lebt und arbeitet in Berlin.
+    </div>
 </div>
 {{< /accordion >}}
 
 {{< accordion "Najla Mohamedlamin Salma" >}}
-<div class="columns">
-<div style="width: 50%" class="column"> 
+<div class="grid-col">
+<figure>
 <img alt="Portrait Najla Mohamedlamin Salma" src="Bilder_Kurzbios/speaker_bild_Najla_MohamedlaminSalma.jpeg" width="100%" style="display:block"/>
-</div>
-<div style="width: 50%; float: left;text-align:left" class="column"> 
+</figure>
+<div class="" style="text-align: left">
 Najla Mohamedlamin Salma ist eine sahrauische Menschenrechts- und Klimaaktivistin. Als Gründerin und Leiterin des Almasar Centers, das Zugang zu alternativen Bildungsangeboten für Kinder und Frauen schafft, insbesondere in Bezug auf Frauengesundheit und die Auswirkungen der Klimakrise in den Flüchtlingscamps , kämpft für Frauenrechte und Umweltfragen. Najla wurde slebst in den Flüchtlingscamps geboren und ist Mutter zweier Kinder. Im Jahr 2023 wurde sie von der BBC als eine der hundert einflussreichsten Frauen weltweit ernannt.
 </div>
 </div>
@@ -234,23 +237,25 @@ Saleh Mustafa ist in den sahrauischen Flüchtlingslagern in Algerien geboren, wo
 {{< /accordion >}}
 
 {{< accordion "Fatou Yahya Iaazza" >}}
-<div class="columns">
-<div style="width: 50%" class="column"> 
+<div class="grid-col">
+<figure>
 <img alt="Portrait Fatou Yahya Iaazza" src="Bilder_Kurzbios/speaker_bild_Fatou_Yahya_Iaazza.jpg" width="100%" style="display:block"/>
-</div>
-<div style="width: 50%; float: left;text-align:left" class="column"> 
+</figure>
+<div class="" style="text-align: left">
 Fatou Yahya Iaazza, geboren 1998 in Tan-Tan (Südmarokko), ist eine sahrauische Menschenrechtsverteidigerin und politische Aktivistin. Als Tochter eines ehemaligen politischen Gefangenen engagierte sie sich während ihres Studiums an marokkanischen Universitäten aktiv in Studenten- und Menschenrechtsbewegungen. Sie hat einen Bachelor-Abschluss in Rechtswissenschaften. Seit 2020 lebt Fatou in Frankreich, wo sie einen Ort der Freiheit sucht, an dem sie sich ohne Angst vor Verfolgung oder Verhaftung gegen das Leid ihres Volkes aussprechen und für die Rechte der Sahrauis eintreten kann.
 </div>
 </div>
 {{< /accordion >}}
 
 {{< accordion "Maria Klenner" >}}
-<div class="columns">
-<div style="width: 50%" class="column"> 
-<img alt="Portrait Maria Klenner" src="Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block" attr="Rena Effendi"/>
-Foto: © Rena Effendi
-</div>
-<div style="width: 50%; float: left;text-align:left" class="column"> 
+<div class="grid-col">
+<figure>
+<img alt="Portrait Maria Klenner" src="Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Rena Effendi</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
 Maria Klenner (sie/ihr) ist eine Dokumentar- und Portraitfotografin, die derzeit zwischen Beirut und Berlin lebt. Neben Aufträgen für internationale Medien arbeitet sie an persönlichen Langzeitprojekten zu den Themen Identität, Gerechtigkeit und Migration. Nach Abschluss eines MA in Geschichte und Soziologie veröffentlichte Maria 2023 ihr erstes Fotobuch “Die Kinder von Bergen-Belsen”, das mit dem Deutschen Fotobuchpreis ausgezeichnet wurde. Sie ist Mitherausgeberin des Magazins “Widerworte”, das im Herbst 2025 erschien.
 </div>
 </div>
