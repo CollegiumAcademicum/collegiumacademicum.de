@@ -232,8 +232,15 @@ Najla Mohamedlamin Salma ist eine sahrauische Menschenrechts- und Klimaaktivisti
 {{< /accordion >}}
 
 {{< accordion "Saleh Mustafa" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Saleh Mustafa" src="Bilder_Kurzbios/speaker_bild_saleh_mustafa.png" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
 Saleh Mustafa ist in den sahrauischen Flüchtlingslagern in Algerien geboren, wo seine Familie nach der Vertreibung aus der Westsahara Zuflucht fand. Er war bis 2014 Vorsitzender des Ausschusses für Außenbeziehungen der sahrauischen Studierendenunion UESARIO. 
 2017 trat er zur Vertretung der Frente Polisario bei der Europäischen Union ein. Seit 2023 ist er stellvertretender Leiter der Vertretung in Deutschland.
+</div>
+</div>
 {{< /accordion >}}
 
 {{< accordion "Fatou Yahya Iaazza" >}}
@@ -246,6 +253,35 @@ Fatou Yahya Iaazza, geboren 1998 in Tan-Tan (Südmarokko), ist eine sahrauische 
 </div>
 </div>
 {{< /accordion >}}
+
+
+{{< accordion "Asria Mohamed" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Asria Mohamed" src="Bilder_Kurzbios/speaker_bild_Asria_Taleb.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Asria Mohamed ist eine Künstlerin, Kuratorin und multidisziplinäre Kreative, deren Arbeit sich mit Themen wie Identität, Widerstand und Vertreibung auseinandersetzt. Geboren und aufgewachsen in den sahrauischen Flüchtlingslagern, nutzt sie Kunst als Mittel zur kulturellen Bewahrung und zum politischen Ausdruck. Sie ist die Kuratorin von Jaimetna, einem kollaborativen Kunstprojekt, das sahrauische Stimmen und Narrative verstärkt. Asria ist zudem Menschenrechtsverteidigerin und Journalistin und setzt sich seit dem vergangenen Jahrzehnt in Norwegen für die Sache der Sahrauis ein. Sie hat über 1.000 öffentliche Informations- und Outreach-Veranstaltungen organisiert und Delegationen von Aktivist:innen, Politiker:innen und Journalist:innen in die Flüchtlingslager von Tindouf geführt.Asria ist außerdem Moderatorin und Produzentin von Sandfast, dem ersten Podcast zur Westsahara-Frage, der sowohl auf Norwegisch als auch auf Englisch verfügbar ist. Neben ihrem politischen und künstlerischen Engagement tritt sie seit drei Jahren auch als Stand-up-Comedian auf.
+</div>
+</div>
+{{< /accordion >}}
+
+
+{{< accordion "Taleb Brahim Sidimohamed" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Taleb Brahim Sidimohamed" src="Bilder_Kurzbios/speaker_bild_Taleb_Brahim_Sidimohamed.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Taleb Brahim Sidimohamed ist ein sahrauischer Agraringenieur, Innovator und Flüchtling. Derzeit ist er Direktor der Abteilung für Landwirtschaft im Ministerium für wirtschaftliche Entwicklung der Demokratischen Arabischen Republik Sahara (DARS). Er war an zahlreichen Projekten im Bereich Landwirtschaft und Lebensunterhalt in den sahrauischen Flüchtlingslagern beteiligt und arbeitete dabei mit Organisationen wie UNICEF, Oxfam, Terre des Hommes Schweiz und verschiedenen Ministerien der DARS zusammen. Er wurde in Al Aaiún in der Westsahara geboren und floh nach der marokkanischen Invasion. Seit seinem sechsten Lebensjahr lebt er in den sahrauischen Flüchtlingslagern im Südwesten Algeriens. Er studierte Agraringenieurwesen und Permakultur in mehreren Ländern, darunter Syrien und die Türkei.
+</div>
+</div>
+{{< /accordion >}}
+
+
 
 {{< accordion "Maria Klenner" >}}
 <div class="grid-col">
