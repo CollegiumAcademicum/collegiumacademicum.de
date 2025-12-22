@@ -21,7 +21,7 @@ novoigl: yes
     Mo-Do: 10 - 16 Uhr<br>
     Fr:   12 - 16 Uhr
     <br><br>
-    Wann die nächste Führung stattfindet, findest du <a href="https://collegiumacademicum.de/">hier</a>!
+    Wir sind von 22.12.-05.01. telefonisch im Urlaub. Bei dringenden Anliegen schreiben Sie uns gerne eine E-Mail.
     <br><br>
     Wir sind auch auf <a href="https://facebook.com/CollegiumAcademicum">Facebook</a> und <a href="https://instagram.com/collegiumacademicum/">Instagram</a>.<br>
     Besuch uns dort gerne und schreib uns eine Nachricht!
