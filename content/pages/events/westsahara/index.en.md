@@ -257,7 +257,6 @@ Taleb Brahim Sidimohamed is a Sahrawi agricultural engineer, innovator, and refu
 {{< /accordion >}}
 
 
-
 {{< accordion "Maria Klenner" >}}
 <div class="grid-col">
 <figure>
@@ -272,6 +271,17 @@ Maria Klenner (she/her) is a documentary and portrait photographer currently liv
 </div>
 {{< /accordion >}}
 
+
+{{< accordion "Jörg Tiedjen" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Jörg Tiedjen" src="/westsahara/Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Jörg Tiedjen (born 1964 in Homberg/Duisburg) is editor of the daily newspaper ‘junge Welt’ in the foreign policy department and was responsible for Morocco at the Middle East magazine ‘inamo’. He writes regularly about Western Sahara and related topics.
+</div>
+</div>
+{{< /accordion >}}
 
 </div>
 <br>

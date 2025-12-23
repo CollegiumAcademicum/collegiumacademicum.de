@@ -298,6 +298,18 @@ Maria Klenner (sie/ihr) ist eine Dokumentar- und Portraitfotografin, die derzeit
 {{< /accordion >}}
 
 
+{{< accordion "Jörg Tiedjen" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Jörg Tiedjen" src="Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Jörg Tiedjen (geb. 1964 in Homberg/Duisburg) ist Redakteur der Tageszeitung "junge Welt" im Ressort Außenpolitik und war bei der Nahostzeitschrift "inamo" für Marokko zuständig. Er schreibt regelmäßig über die Westsahara und verwandte Themen.
+</div>
+</div>
+{{< /accordion >}}
+
+
 </div>
 <br>
 <a href="https://www.instagram.com/perspektive_widerstand/">
