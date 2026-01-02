@@ -102,7 +102,7 @@ Afterwards, there will be an opportunity to talk with a representative of the Sa
 
 - Lunch together
 
-<b>4:30 – 15:30 Uhr</b>: Resources and Trade
+<b>14:30 – 15:30 Uhr</b>: Resources and Trade
 
 - Why is Western Sahara so important to Morocco? How do Europe and Germany benefit from the occupation? A presentation by Western Sahara Resource Watch will address the illegal exploitation of resources in occupied Western Sahara, international trade relations, and the involvement of German companies in the occupation.
 
@@ -156,7 +156,8 @@ Sahrawi activists from the camps will report on these issues and discuss them wi
 - After a full and busy weekend, we will conclude with a joint meal. There will be further opportunity for open discussion.
 
 <b>Afternoon</b>: Joint protest
-We're taking what we've learned to the streets! Together, we want to protest in Heidelberg and show that a Heidelberg-based company is also profiting from the occupation of Western Sahara. More information to follow.
+
+- We're taking what we've learned to the streets! Together, we want to protest in Heidelberg and show that a Heidelberg-based company is also profiting from the occupation of Western Sahara. More information to follow.
 
 
 </div>
@@ -164,10 +165,32 @@ We're taking what we've learned to the streets! Together, we want to protest in 
 
 <h2>Our Guests</h2>
 
+{{< accordion "Alida Koos" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Alida Koos" src="/westsahara/Bilder_Kurzbios/speaker_bild_Alida_Koos.jpg" width="100%" style="display:block"/>
+    <figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Alida Koos is active in Western Sahara Resource Watch (WSRW) Germany and International and is committed to fighting the exploitation of resources in the occupied Western Sahara by international companies and state actors on the side of Morocco. She is co-editor of WIDERWORTE, a zine with Sahrawi perspectives on over 50 years of resistance against colonialism in Western Sahara, which was published in autumn 2025.
+</div>
+</div>
+{{< /accordion >}}
 
-{{< accordion "Emma Lehbib" >}}
-Emma Lehbib is the daughter of Sahrawi parents, born and raised in Germany. She was deeply influenced by her family's stories of war and displacement, as well as their activism. She is involved in academic research, civil society engagement and NGO work on Western Sahara.
-Her focus is on the exploitation of natural resources and infrastructure projects in Western Sahara, refugee camps, international legal issues, exile and identity issues, as well as solidarity and anti-colonialism. Emma is a spokesperson for the Sahrawi diaspora in Germany and recently spent almost five months in the camps.
+{{< accordion "Asria Mohamed" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Asria Mohamed" src="/westsahara/Bilder_Kurzbios/speaker_bild_Asria_Taleb.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Asria Mohamed is an artist, curator, and multidisciplinary creative whose work explores themes of identity, resistance, and displacement. Born and raised in the Sahrawi refugee camps, she uses art as a tool for cultural preservation and political expression. She is the curator of Jaimetna, a collaborative art project that amplifies Sahrawi voices and narratives. Asria is also a human rights defender and journalist who has spent the last decade advocating for the Sahrawi cause in Norway. She has organized over 1,000 public outreach events and led delegations of activists, politicians, and journalists to the refugee camps in Tindouf. Asria is the host and producer of Sandfast, the first podcast on the Western Sahara issue available in both Norwegian and English. In addition to her advocacy and artistic work, she has been performing as a stand-up comedian for the past three years.
+</div>
+</div>
 {{< /accordion >}}
 
 {{< accordion "Buhari Lehbib" >}}
@@ -184,6 +207,21 @@ Her focus is on the exploitation of natural resources and infrastructure project
 </div>
 {{< /accordion >}}
 
+{{< accordion "Emma Lehbib" >}}
+Emma Lehbib is the daughter of Sahrawi parents, born and raised in Germany. She was deeply influenced by her family's stories of war and displacement, as well as their activism. She is involved in academic research, civil society engagement and NGO work on Western Sahara.
+Her focus is on the exploitation of natural resources and infrastructure projects in Western Sahara, refugee camps, international legal issues, exile and identity issues, as well as solidarity and anti-colonialism. Emma is a spokesperson for the Sahrawi diaspora in Germany and recently spent almost five months in the camps.
+{{< /accordion >}}
+
+{{< accordion "Fatou Yahya Iaazza" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Fatou Yahya Iaazza" src="/westsahara/Bilder_Kurzbios/speaker_bild_Fatou_Yahya_Iaazza.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Fatou Yahya Iaazza, born in 1998 in Tan-Tan (southern Morocco), is a Sahrawi human rights defender and political activist. The daughter of a former political prisoner, she became actively engaged in student and human rights movements during her time at Moroccan universities. She holds a bachelor’s degree in law. Since 2020, Fatou has lived in France, seeking a space of freedom where she can speak out against the suffering of her people and advocate for the Sahrawi cause without fear of persecution or arrest.
+</div>
+</div>
+{{< /accordion >}}
 
 {{< accordion "Fine" >}}
 <div class="grid-col">
@@ -192,6 +230,42 @@ Her focus is on the exploitation of natural resources and infrastructure project
 </figure>
     <div class="" style="text-align: left">
     Fine deals with the Western Sahara conflict in an artistic and activist manner, for example in ‘Genug gewartet. Ein Comic zum Westsaharakonflikt’ (Enough waiting. A comic about the Western Sahara conflict). The comic takes readers on a journey to refugee camps to learn about the history and present of the Sahrawi struggle for independence. Regular comic readings with representatives of the Sahrawi diaspora invite visitors to learn and discuss over tea. Fine lives and works in Berlin.
+</div>
+{{< /accordion >}}
+
+{{< accordion "Jörg Tiedjen" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Jörg Tiedjen" src="/westsahara/Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Jörg Tiedjen (born 1964 in Homberg/Duisburg) is editor of the daily newspaper ‘junge Welt’ in the foreign policy department and was responsible for Morocco at the Middle East magazine ‘inamo’. He writes regularly about Western Sahara and related topics.
+</div>
+</div>
+{{< /accordion >}}
+
+{{< accordion "Judit Tavakoli" >}}
+<div class="grid-col">
+<figure>
+    <img alt="Portrait Judit Tavakoli" src="/westsahara/Bilder_Kurzbios/speaker_bild_Judit_Tavakoli.jpg" width="100%" style="display:block"/>
+</figure>
+    <div class="" style="text-align: left">
+        Judit Tavakoli is a social anthropologist at Goethe University Frankfurt. Her work focuses on the Western Sahara conflict, Sahrawi society, and issues of nationalism, cultural policy, and activism.
+    </div>
+</div>
+{{< /accordion >}}
+
+{{< accordion "Maria Klenner" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Maria Klenner" src="/westsahara/Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Rena Effendi</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Maria Klenner (she/her) is a documentary and portrait photographer currently living between Beirut and Berlin. In addition to assignments for international media, she works on personal long-term projects on the themes of identity, justice and migration. After completing an MA in history and sociology, Maria published her first photo book, Die Kinder von Bergen-Belsen (The Children of Bergen-Belsen), in 2023, which was awarded the German Photo Book Prize. She is co-editor of the magazine Widerworte (Contradictions), which was published in autumn 2025.
+</div>
 </div>
 {{< /accordion >}}
 
@@ -218,33 +292,6 @@ In 2017, he joined the Polisario Front's representation to the European Union. S
 </div>
 {{< /accordion >}}
 
-{{< accordion "Fatou Yahya Iaazza" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Fatou Yahya Iaazza" src="/westsahara/Bilder_Kurzbios/speaker_bild_Fatou_Yahya_Iaazza.jpg" width="100%" style="display:block"/>
-</figure>
-<div class="" style="text-align: left">
-Fatou Yahya Iaazza, born in 1998 in Tan-Tan (southern Morocco), is a Sahrawi human rights defender and political activist. The daughter of a former political prisoner, she became actively engaged in student and human rights movements during her time at Moroccan universities. She holds a bachelor’s degree in law. Since 2020, Fatou has lived in France, seeking a space of freedom where she can speak out against the suffering of her people and advocate for the Sahrawi cause without fear of persecution or arrest.
-</div>
-</div>
-{{< /accordion >}}
-
-
-{{< accordion "Asria Mohamed" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Asria Mohamed" src="/westsahara/Bilder_Kurzbios/speaker_bild_Asria_Taleb.jpeg" width="100%" style="display:block"/>
-<figcaption>
-        <cite>Foto: © Maria Klenner</cite>
-    </figcaption>
-</figure>
-<div class="" style="text-align: left">
-Asria Mohamed is an artist, curator, and multidisciplinary creative whose work explores themes of identity, resistance, and displacement. Born and raised in the Sahrawi refugee camps, she uses art as a tool for cultural preservation and political expression. She is the curator of Jaimetna, a collaborative art project that amplifies Sahrawi voices and narratives. Asria is also a human rights defender and journalist who has spent the last decade advocating for the Sahrawi cause in Norway. She has organized over 1,000 public outreach events and led delegations of activists, politicians, and journalists to the refugee camps in Tindouf. Asria is the host and producer of Sandfast, the first podcast on the Western Sahara issue available in both Norwegian and English. In addition to her advocacy and artistic work, she has been performing as a stand-up comedian for the past three years.
-</div>
-</div>
-{{< /accordion >}}
-
-
 {{< accordion "Taleb Brahim Sidimohamed" >}}
 <div class="grid-col">
 <figure>
@@ -256,32 +303,6 @@ Taleb Brahim Sidimohamed is a Sahrawi agricultural engineer, innovator, and refu
 </div>
 {{< /accordion >}}
 
-
-{{< accordion "Maria Klenner" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Maria Klenner" src="/westsahara/Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block"/>
-<figcaption>
-        <cite>Foto: © Rena Effendi</cite>
-    </figcaption>
-</figure>
-<div class="" style="text-align: left">
-Maria Klenner (she/her) is a documentary and portrait photographer currently living between Beirut and Berlin. In addition to assignments for international media, she works on personal long-term projects on the themes of identity, justice and migration. After completing an MA in history and sociology, Maria published her first photo book, Die Kinder von Bergen-Belsen (The Children of Bergen-Belsen), in 2023, which was awarded the German Photo Book Prize. She is co-editor of the magazine Widerworte (Contradictions), which was published in autumn 2025.
-</div>
-</div>
-{{< /accordion >}}
-
-
-{{< accordion "Jörg Tiedjen" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Jörg Tiedjen" src="/westsahara/Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
-</figure>
-<div class="" style="text-align: left">
-Jörg Tiedjen (born 1964 in Homberg/Duisburg) is editor of the daily newspaper ‘junge Welt’ in the foreign policy department and was responsible for Morocco at the Middle East magazine ‘inamo’. He writes regularly about Western Sahara and related topics.
-</div>
-</div>
-{{< /accordion >}}
 
 </div>
 <br>
