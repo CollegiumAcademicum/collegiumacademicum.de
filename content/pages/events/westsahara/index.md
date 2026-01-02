@@ -95,16 +95,16 @@ Anschließend gibt es die Möglichkeit zum Austausch mit einem\*er Vertreter\*in
 
 <b>11:30 – 13:00 Uhr</b>: Perspektive Widerstand: Panel Gespräch
 
-- Der Widerstand der Saharauis ist vielfältig, andauernd und überall: Ob in den
+- Der Widerstand der Sahrauis ist vielfältig, andauernd und überall: Ob in den
 besetzten Gebieten, den Camps, oder in der Diaspora. In einem Panel Gespräch
-werden Stimmen aus verschiedenen Geografien des Saharauischen Widerstands ihre
+werden Stimmen aus verschiedenen Geografien des Sahrauischen Widerstands ihre
 Perspektiven teilen.
 
 <b>13:00 – 14:00 Uhr</b>: Mittagspause
 
 - Gemeinsames Mittagessen
 
-<b>4:30 – 15:30 Uhr</b>: Ressourcen und Handel
+<b>14:30 – 15:30 Uhr</b>: Ressourcen und Handel
 
 - Warum ist die Westsahara so wichtig für Marokko? Wie profitieren Europa und
 Deutschland von der Besatzung? In einem Input von Western Sahara Ressource
@@ -188,11 +188,34 @@ Besatzung der Westsahara profitiert. Weitere Infos folgen.
 
 <h2>Unsere Gäst*innen</h2>
 
-
-{{< accordion "Emma Lehbib" >}}
-Emma Lehbib ist die Tochter sahrauischer Eltern, in Deutschland geboren und aufgewachsen. Sie wurde tief geprägt von den Erzählungen ihrer Familie über Krieg und Vertreibung sowie deren Aktivismus. Sie beschäftigt sich im Rahmen von akademischer Forschung sowie von zivilgesellschafltichem Engagement und NGO-Arbeit mit der Westsahara.
-Ihre Schwerpunkte liegen auf der Ausbeutung der natürlichen Ressourcen und auf Infrastrukturprojekten in der Westsahara, den Flüchtlingscamps, internationalen Rechtsfragen, dem Exil und Identitätsfragen sowie den Themen Solidarität und Antikolonialismus. Emma ist Sprecherin der Saharauischen Diaspora in Deutschland und verbrachte vor Kurzem knapp fünf Monate in den Camps.
+{{< accordion "Alida Koos" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Alida Koos" src="Bilder_Kurzbios/speaker_bild_Alida_Koos.jpg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Alida Koos ist bei Western Sahara Resource Watch (WSRW) Germany und International aktiv und engagiert sich gegen die Ressourcenausbeutung der besetzten Westsahara durch internationale Unternehmen und staatliche Akteure an der Seite Marokkos. Sie ist Mitherausgeberin von WIDERWORTE, einem Zine mit sahrauischen Perspektiven auf über 50 Jahre Widerstand gegen Kolonialismus in der Westsahara, das im Herbst 2025 erschien.
+</div>
+</div>
 {{< /accordion >}}
+
+{{< accordion "Asria Mohamed" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Asria Mohamed" src="Bilder_Kurzbios/speaker_bild_Asria_Taleb.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Maria Klenner</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Asria Mohamed ist eine Künstlerin, Kuratorin und multidisziplinäre Kreative, deren Arbeit sich mit Themen wie Identität, Widerstand und Vertreibung auseinandersetzt. Geboren und aufgewachsen in den sahrauischen Flüchtlingslagern, nutzt sie Kunst als Mittel zur kulturellen Bewahrung und zum politischen Ausdruck. Sie ist die Kuratorin von Jaimetna, einem kollaborativen Kunstprojekt, das sahrauische Stimmen und Narrative verstärkt. Asria ist zudem Menschenrechtsverteidigerin und Journalistin und setzt sich seit dem vergangenen Jahrzehnt in Norwegen für die Sache der Sahrauis ein. Sie hat über 1.000 öffentliche Informations- und Outreach-Veranstaltungen organisiert und Delegationen von Aktivist:innen, Politiker:innen und Journalist:innen in die Flüchtlingslager von Tindouf geführt. Asria ist außerdem Moderatorin und Produzentin von Sandfast, dem ersten Podcast zur Westsahara-Frage, der sowohl auf Norwegisch als auch auf Englisch verfügbar ist. Neben ihrem politischen und künstlerischen Engagement tritt sie seit drei Jahren auch als Stand-up-Comedian auf.
+</div>
+</div>
+{{< /accordion >}}
+
 
 {{< accordion "Buhari Lehbib" >}}
 <div class="grid-col">
@@ -208,6 +231,21 @@ Ihre Schwerpunkte liegen auf der Ausbeutung der natürlichen Ressourcen und auf 
 </div>
 {{< /accordion >}}
 
+{{< accordion "Emma Lehbib" >}}
+Emma Lehbib ist die Tochter sahrauischer Eltern, in Deutschland geboren und aufgewachsen. Sie wurde tief geprägt von den Erzählungen ihrer Familie über Krieg und Vertreibung sowie deren Aktivismus. Sie beschäftigt sich im Rahmen von akademischer Forschung sowie von zivilgesellschafltichem Engagement und NGO-Arbeit mit der Westsahara.
+Ihre Schwerpunkte liegen auf der Ausbeutung der natürlichen Ressourcen und auf Infrastrukturprojekten in der Westsahara, den Flüchtlingscamps, internationalen Rechtsfragen, dem Exil und Identitätsfragen sowie den Themen Solidarität und Antikolonialismus. Emma ist Sprecherin der Saharauischen Diaspora in Deutschland und verbrachte vor Kurzem knapp fünf Monate in den Camps.
+{{< /accordion >}}
+
+{{< accordion "Fatou Yahya Iaazza" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Fatou Yahya Iaazza" src="Bilder_Kurzbios/speaker_bild_Fatou_Yahya_Iaazza.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Fatou Yahya Iaazza, geboren 1998 in Tan-Tan (Südmarokko), ist eine sahrauische Menschenrechtsverteidigerin und politische Aktivistin. Als Tochter eines ehemaligen politischen Gefangenen engagierte sie sich während ihres Studiums an marokkanischen Universitäten aktiv in Studenten- und Menschenrechtsbewegungen. Sie hat einen Bachelor-Abschluss in Rechtswissenschaften. Seit 2020 lebt Fatou in Frankreich, wo sie einen Ort der Freiheit sucht, an dem sie sich ohne Angst vor Verfolgung oder Verhaftung gegen das Leid ihres Volkes aussprechen und für die Rechte der Sahrauis eintreten kann.
+</div>
+</div>
+{{< /accordion >}}
 
 {{< accordion "Fine" >}}
 <div class="grid-col">
@@ -220,13 +258,49 @@ Ihre Schwerpunkte liegen auf der Ausbeutung der natürlichen Ressourcen und auf 
 </div>
 {{< /accordion >}}
 
+{{< accordion "Jörg Tiedjen" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Jörg Tiedjen" src="Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Jörg Tiedjen (geb. 1964 in Homberg/Duisburg) ist Redakteur der Tageszeitung "junge Welt" im Ressort Außenpolitik und war bei der Nahostzeitschrift "inamo" für Marokko zuständig. Er schreibt regelmäßig über die Westsahara und verwandte Themen.
+</div>
+</div>
+{{< /accordion >}}
+
+{{< accordion "Judit Tavakoli" >}}
+<div class="grid-col">
+<figure>
+    <img alt="Portrait Judit Tavakoli" src="Bilder_Kurzbios/speaker_bild_Judit_Tavakoli.jpg" width="100%" style="display:block"/>
+</figure>
+    <div class="" style="text-align: left">
+        Judit Tavakoli ist Sozialanthropologin an der Goethe-Universität Frankfurt. Ihre Arbeiten befassen sich mit dem Westsaharakonflikt, der sahrauischen Gesellschaft sowie mit Fragen von Nationalismus, Kulturpolitik und Aktivismus.
+    </div>
+</div>
+{{< /accordion >}}
+
+{{< accordion "Maria Klenner" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Maria Klenner" src="Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block"/>
+<figcaption>
+        <cite>Foto: © Rena Effendi</cite>
+    </figcaption>
+</figure>
+<div class="" style="text-align: left">
+Maria Klenner (sie/ihr) ist eine Dokumentar- und Portraitfotografin, die derzeit zwischen Beirut und Berlin lebt. Neben Aufträgen für internationale Medien arbeitet sie an persönlichen Langzeitprojekten zu den Themen Identität, Gerechtigkeit und Migration. Nach Abschluss eines MA in Geschichte und Soziologie veröffentlichte Maria 2023 ihr erstes Fotobuch “Die Kinder von Bergen-Belsen”, das mit dem Deutschen Fotobuchpreis ausgezeichnet wurde. Sie ist Mitherausgeberin des Magazins “Widerworte”, das im Herbst 2025 erschien.
+</div>
+</div>
+{{< /accordion >}}
+
 {{< accordion "Najla Mohamedlamin Salma" >}}
 <div class="grid-col">
 <figure>
 <img alt="Portrait Najla Mohamedlamin Salma" src="Bilder_Kurzbios/speaker_bild_Najla_MohamedlaminSalma.jpeg" width="100%" style="display:block"/>
 </figure>
 <div class="" style="text-align: left">
-Najla Mohamedlamin Salma ist eine sahrauische Menschenrechts- und Klimaaktivistin. Als Gründerin und Leiterin des Almasar Centers, das Zugang zu alternativen Bildungsangeboten für Kinder und Frauen schafft, insbesondere in Bezug auf Frauengesundheit und die Auswirkungen der Klimakrise in den Flüchtlingscamps , kämpft für Frauenrechte und Umweltfragen. Najla wurde slebst in den Flüchtlingscamps geboren und ist Mutter zweier Kinder. Im Jahr 2023 wurde sie von der BBC als eine der hundert einflussreichsten Frauen weltweit ernannt.
+Najla Mohamedlamin Salma ist eine sahrauische Menschenrechts- und Klimaaktivistin. Als Gründerin und Leiterin des Almasar Centers, das Zugang zu alternativen Bildungsangeboten für Kinder und Frauen schafft, insbesondere in Bezug auf Frauengesundheit und die Auswirkungen der Klimakrise in den Flüchtlingscamps, kämpft für Frauenrechte und Umweltfragen. Najla wurde slebst in den Flüchtlingscamps geboren und ist Mutter zweier Kinder. Im Jahr 2023 wurde sie von der BBC als eine der hundert einflussreichsten Frauen weltweit ernannt.
 </div>
 </div>
 {{< /accordion >}}
@@ -243,32 +317,6 @@ Saleh Mustafa ist in den sahrauischen Flüchtlingslagern in Algerien geboren, wo
 </div>
 {{< /accordion >}}
 
-{{< accordion "Fatou Yahya Iaazza" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Fatou Yahya Iaazza" src="Bilder_Kurzbios/speaker_bild_Fatou_Yahya_Iaazza.jpg" width="100%" style="display:block"/>
-</figure>
-<div class="" style="text-align: left">
-Fatou Yahya Iaazza, geboren 1998 in Tan-Tan (Südmarokko), ist eine sahrauische Menschenrechtsverteidigerin und politische Aktivistin. Als Tochter eines ehemaligen politischen Gefangenen engagierte sie sich während ihres Studiums an marokkanischen Universitäten aktiv in Studenten- und Menschenrechtsbewegungen. Sie hat einen Bachelor-Abschluss in Rechtswissenschaften. Seit 2020 lebt Fatou in Frankreich, wo sie einen Ort der Freiheit sucht, an dem sie sich ohne Angst vor Verfolgung oder Verhaftung gegen das Leid ihres Volkes aussprechen und für die Rechte der Sahrauis eintreten kann.
-</div>
-</div>
-{{< /accordion >}}
-
-
-{{< accordion "Asria Mohamed" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Asria Mohamed" src="Bilder_Kurzbios/speaker_bild_Asria_Taleb.jpeg" width="100%" style="display:block"/>
-<figcaption>
-        <cite>Foto: © Maria Klenner</cite>
-    </figcaption>
-</figure>
-<div class="" style="text-align: left">
-Asria Mohamed ist eine Künstlerin, Kuratorin und multidisziplinäre Kreative, deren Arbeit sich mit Themen wie Identität, Widerstand und Vertreibung auseinandersetzt. Geboren und aufgewachsen in den sahrauischen Flüchtlingslagern, nutzt sie Kunst als Mittel zur kulturellen Bewahrung und zum politischen Ausdruck. Sie ist die Kuratorin von Jaimetna, einem kollaborativen Kunstprojekt, das sahrauische Stimmen und Narrative verstärkt. Asria ist zudem Menschenrechtsverteidigerin und Journalistin und setzt sich seit dem vergangenen Jahrzehnt in Norwegen für die Sache der Sahrauis ein. Sie hat über 1.000 öffentliche Informations- und Outreach-Veranstaltungen organisiert und Delegationen von Aktivist:innen, Politiker:innen und Journalist:innen in die Flüchtlingslager von Tindouf geführt.Asria ist außerdem Moderatorin und Produzentin von Sandfast, dem ersten Podcast zur Westsahara-Frage, der sowohl auf Norwegisch als auch auf Englisch verfügbar ist. Neben ihrem politischen und künstlerischen Engagement tritt sie seit drei Jahren auch als Stand-up-Comedian auf.
-</div>
-</div>
-{{< /accordion >}}
-
 
 {{< accordion "Taleb Brahim Sidimohamed" >}}
 <div class="grid-col">
@@ -280,35 +328,6 @@ Taleb Brahim Sidimohamed ist ein sahrauischer Agraringenieur, Innovator und Flü
 </div>
 </div>
 {{< /accordion >}}
-
-
-
-{{< accordion "Maria Klenner" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Maria Klenner" src="Bilder_Kurzbios/speaker_bild_Maria_Klenner.jpeg" width="100%" style="display:block"/>
-<figcaption>
-        <cite>Foto: © Rena Effendi</cite>
-    </figcaption>
-</figure>
-<div class="" style="text-align: left">
-Maria Klenner (sie/ihr) ist eine Dokumentar- und Portraitfotografin, die derzeit zwischen Beirut und Berlin lebt. Neben Aufträgen für internationale Medien arbeitet sie an persönlichen Langzeitprojekten zu den Themen Identität, Gerechtigkeit und Migration. Nach Abschluss eines MA in Geschichte und Soziologie veröffentlichte Maria 2023 ihr erstes Fotobuch “Die Kinder von Bergen-Belsen”, das mit dem Deutschen Fotobuchpreis ausgezeichnet wurde. Sie ist Mitherausgeberin des Magazins “Widerworte”, das im Herbst 2025 erschien.
-</div>
-</div>
-{{< /accordion >}}
-
-
-{{< accordion "Jörg Tiedjen" >}}
-<div class="grid-col">
-<figure>
-<img alt="Portrait Jörg Tiedjen" src="Bilder_Kurzbios/speaker_bild_Joerg_Tiedjen.jpg" width="100%" style="display:block"/>
-</figure>
-<div class="" style="text-align: left">
-Jörg Tiedjen (geb. 1964 in Homberg/Duisburg) ist Redakteur der Tageszeitung "junge Welt" im Ressort Außenpolitik und war bei der Nahostzeitschrift "inamo" für Marokko zuständig. Er schreibt regelmäßig über die Westsahara und verwandte Themen.
-</div>
-</div>
-{{< /accordion >}}
-
 
 </div>
 <br>
