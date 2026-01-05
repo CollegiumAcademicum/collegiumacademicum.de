@@ -5,10 +5,10 @@ novoigl: yes
 ---
 
 <p style="text-align:justify">
-<!-- <div class="notification is-primary">
-You want to move into one of our rooms in the old building in July 2025?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
-</div> -->
- <b>We are currently not accepting any further applications for temporary rooms. <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
+<div class="notification is-primary">
+You want to move into one of our rooms in the old building in April 2026?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
+</div> 
+<!-- <b>We are currently not accepting any further applications for temporary rooms. --> <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
 
 Would you like to get a taste of self-administration and live in a sustainable community? Then you've come to the right place here at the ecological and self-managed CA (Collegium Academicum) housing project.
     
@@ -70,10 +70,10 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
- We are currently not accepting any further applications. <!-- The next move-in date is October 1. You can find the application under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
+<!-- We are currently not accepting any further applications. --> The next move-in date is April 1. You can find the application under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you!
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
-There is an application form. <!-- which you can find under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line. --> Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
+There is an application form which you can find under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
 {{< /accordion >}}
 {{< accordion "Can I still apply, even if I can only be present once I move in?" >}}
 Yes of course! We can do the get-to-know-you day and the tour of the property in person or online. If possible, we would recommend that you come in person, this makes it easier for you to get to know our project. However, we will make sure, that there is no disadvantage for you, when you participate online.
