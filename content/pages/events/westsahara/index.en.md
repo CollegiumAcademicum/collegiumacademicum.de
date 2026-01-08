@@ -127,7 +127,7 @@ More information about the planned workshops will follow.
 
 <b>21:30 – open end</b>: Closing with music
 
-- We will end the evening with music together. We are currently working on organising a Sahrawi artist or band.
+- We will end the evening with music together.
 
 </div>
 
@@ -151,13 +151,13 @@ Sahrawi activists from the camps will report on these issues and discuss them wi
 - From the Moroccan media blockade to the inadequate international and German reporting to the self-empowerment of Sahrawi media from the occupied territories, the camps and the diaspora, the role of the media permeates all levels of resistance and occupation. We will gain insights and input on various aspects, with the opportunity to discuss the role of the German media afterwards. 
 
 
-<b>From 13:00</b>: Joint lunch and official end
+<b>13:00-14:00</b>: Joint lunch and official end
 
 - After a full and busy weekend, we will conclude with a joint meal. There will be further opportunity for open discussion.
 
-<b>Afternoon</b>: Joint protest
+<b>14:30 onwards</b>: Joint protest
 
-- We're taking what we've learned to the streets! Together, we want to protest in Heidelberg and show that a Heidelberg-based company is also profiting from the occupation of Western Sahara. More information to follow.
+- We're taking what we've learned to the streets! Together, we want to protest in Heidelberg and show that a Heidelberg-based company is also profiting from the occupation of Western Sahara. The protest will start at 14:30 at the Heidelberg main station. 
 
 
 </div>
@@ -255,6 +255,20 @@ Jörg Tiedjen (born 1964 in Homberg/Duisburg) is editor of the daily newspaper �
 </div>
 {{< /accordion >}}
 
+{{< accordion "Khadja Bedati" >}}
+<div class="grid-col">
+<figure>
+    <img alt="Portrait Khadja Bedati" src="/westsahara/Bilder_Kurzbios/speaker_bild_Khadja_Bedati.jpg" width="100%" style="display:block"/>
+</figure>
+    <div class="" style="text-align: left">
+    Khadja Bedati is a Sahrawi activist who was born in the Sahrawi refugee camps. In her political work and voluntary activities, she critically examines persistent colonial structures and dominant narratives, with a central focus on the conflict over Western Sahara.
+    Her work focuses on neocolonial power relations, international law and legal principles, as well as political and human rights issues. Khadja studies political science and commercial law and closely links her academic training with her political and civil society activities.
+    She is also active in development policy work and collaborates with ZEOK e. V. on projects in the Sahrawi refugee camps. In Germany, she represents the Sahrawi youth organisation UJSARIO.
+    In addition to her civil society engagement, she is politically active in the SPD and the Jusos, where she is involved in various committees. Since 2022, she has been the recipient of the (Post) Migrant Youth Award.
+    </div>
+</div>
+{{< /accordion >}}
+
 {{< accordion "Maria Klenner" >}}
 <div class="grid-col">
 <figure>
@@ -303,6 +317,22 @@ Taleb Brahim Sidimohamed is a Sahrawi agricultural engineer, innovator, and refu
 </div>
 {{< /accordion >}}
 
+<h2>Organisations</h2>
+
+{{< accordion "Solidarity Rising" >}}
+{{< /accordion >}}
+
+{{< accordion "Western Sahara Resource Watch" >}}
+Western Sahara Resource Watch (WSRW) researches and documents the activities of international companies and state institutions operating alongside Morocco in occupied Western Sahara. The international network holds companies and governments accountable for their support of the occupation and campaigns for the Sahrawi people's right to self-determination.
+    <img alt="Logo WSRW" src="Logo_WSRW.png" width="50%" style="display:block"/>
+{{< /accordion >}}
+
+{{< accordion "End Cement" >}}
+ End Cement is an alliance of organisations from the climate and social movements working locally, nationally and internationally for a climate-friendly and human rights-friendly construction transition. End Cement is particularly critical of the Heidelberg-based cement company Heidelberg Materials, which has been accused of numerous violations of international law, particularly in Western Sahara.
+{{< /accordion >}}
+
+{{< accordion "Jaima de Tiris" >}}
+{{< /accordion >}}
 
 </div>
 <br>
