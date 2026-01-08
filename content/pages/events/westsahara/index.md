@@ -133,16 +133,11 @@ runden wir den Tag inhaltlich ab.
 
 <b>20:00 – 21:30 Uhr</b>: Podiumsdiskussion – Internationale Verantwortung
 
-- Was ist die Rolle Deutschlands, der EU und der UN im Bezug auf die Westsahara? Wo
-liegt die Verantwortung? Wir wollen mit Politiker*innen, die in verschiedenen
-Institutionen zu dem Thema arbeiten über diese Fragen diskutieren und vor allem
-auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu
-erreichen?
+- Was ist die Rolle Deutschlands, der EU und der UN im Bezug auf die Westsahara? Wo liegt die Verantwortung? Wir sprechen mit Khadja Bedati, Buhari Lehbib und Judith Tavakoli über das Thema und wollen vor allem auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu erreichen?
 
 <b>21:30 Uhr – open end</b>: Ausklang mit Musik
 
-- Wir beenden den Abend mit einem gemeinsamen Ausklang mit Musik. Aktuell
-arbeiten wir daran, eine saharauische Künstler*in oder Band zu organisieren.
+- Wir beenden den Abend mit einem gemeinsamen Ausklang mit Musik.
 
 </div>
 
@@ -169,7 +164,7 @@ berichten und diese Fragen erörtern.
 - Von der marokkanischen Medienblockade, über die mangelhafte internationale und
 deutsche Berichterstattung bis zur Selbstermächtigung Saharauischer Medien aus
 den besetzten Gebieten, den Camps und der Diaspora, zieht sich die Rolle der
-Medien zieht sich durch alle Ebenen des Widerstands und der Besatzung. Wir werden
+Medien durch alle Ebenen des Widerstands und der Besatzung. Wir werden
 zu verschiedenen Aspekten Einblicke und Inputs bekommen mit der Möglichkeit, sich
 anschließend über die Rolle der deutschen Medien auszutauschen.
 
@@ -178,11 +173,11 @@ anschließend über die Rolle der deutschen Medien auszutauschen.
 - Nach einem vollen und dichten Wochenende schließen wir mit einem gemeinsamen
 Essen. Hier gibt es nochmal Raum für offenen Austausch.
 
-<b>Nachmittags (Uhrzeit folgt)</b>: Gemeinsamer Protest
+<b>Ab 14:30 Uhr</b>: Gemeinsamer Protest
 
 - Wir tragen das Gelernte auf die Straße! Gemeinsam wollen wir in Heidelberg
 protestieren und sichtbar machen, dass auch ein Heidelberger Unternehmen von der
-Besatzung der Westsahara profitiert. Weitere Infos folgen.
+Besatzung der Westsahara profitiert. Beginn des Protests um 14:30 Uhr am Hauptbahnhof.
 
 </div>
 
@@ -280,6 +275,20 @@ Jörg Tiedjen (geb. 1964 in Homberg/Duisburg) ist Redakteur der Tageszeitung "ju
 </div>
 {{< /accordion >}}
 
+{{< accordion "Khadja Bedati" >}}
+<div class="grid-col">
+<figure>
+    <img alt="Portrait Khadja Bedati" src="Bilder_Kurzbios/speaker_bild_Khadja_Bedati.jpg" width="100%" style="display:block"/>
+</figure>
+    <div class="" style="text-align: left">
+    Khadja Bedati ist eine saharauische Aktivistin, die in den saharauischen Flüchtlingslagern geboren wurde. In ihrer politischen Arbeit und ihrem ehrenamtlichen Engagement setzt sie sich kritisch mit fortbestehenden kolonialen Strukturen und dominanten Narrativen auseinander, dabei bildet der Konflikt um die Westsahara einen zentralen Fokus.
+    Der Schwerpunkt ihrer inhaltlichen Arbeit liegt auf neokolonialen Machtverhältnissen, völkerrechtlichen und rechtlichen Grundlagen sowie politischen und menschenrechtlichen Fragestellungen. Khadja studiert Politikwissenschaft und Wirtschaftsrecht und verknüpft ihre wissenschaftliche Ausbildung eng mit ihrer politischen und zivilgesellschaftlichen Tätigkeit.
+    Darüber hinaus ist sie in der entwicklungspolitischen Arbeit aktiv und wirkt in Zusammenarbeit mit ZEOK e. V. an Projekten in den saharauischen Flüchtlingslagern mit.In Deutschland vertritt sie die saharauische Jugendorganisation UJSARIO.
+    Neben ihrem zivilgesellschaftlichen Engagement ist sie politisch in der SPD und bei den Jusos aktiv und bringt sich dort in verschiedene Gremien ein. Seit 2022 ist sie Trägerin des (Post)-Migrantischen Jugendpreis.
+    </div>
+</div>
+{{< /accordion >}}
+
 {{< accordion "Maria Klenner" >}}
 <div class="grid-col">
 <figure>
@@ -328,6 +337,26 @@ Taleb Brahim Sidimohamed ist ein sahrauischer Agraringenieur, Innovator und Flü
 </div>
 </div>
 {{< /accordion >}}
+
+<h2>Organisationen</h2>
+
+{{< accordion "Solidarity Rising" >}}
+{{< /accordion >}}
+
+{{< accordion "Western Sahara Resource Watch" >}}
+Western Sahara Resource Watch (WSRW) recherchiert und dokumentiert die Aktivitäten internationaler Unternehmen und staatlicher Institutionen, die an der Seite Marokkos in der besetzen Westsahara tätig sind. Das internationale Netzwerk zieht Unternehmen und Regierungen für ihre Unterstützung der Besatzung zur Verantwortung und setzt sich für das Selbstbestimmungsrecht der Sahrauis ein.
+    <img alt="Logo WSRW" src="Logo_WSRW.png" width="50%" style="display:block"/>
+{{< /accordion >}}
+
+{{< accordion "End Cement" >}}
+End Cement ist ein Bündnis von Organisationen aus der Klima- und den Sozialen Bewegungen und arbeitet lokal, bundesweit und international an einer klimagerechten und menschenrechtsfreundlichen Bauwende. End Cement arbeitet insbesondere kritisch zu dem in Heidelberg ansässigen Zementkonzern "Heidelberg Materials", dem zahlreiche Völkerrechtsbrüche insbesondere auch in der Westsahara vorgeworfen werden.
+{{< /accordion >}}
+
+{{< accordion "Jaima de Tiris" >}}
+{{< /accordion >}}
+
+
+
 
 </div>
 <br>
