@@ -356,9 +356,23 @@ End Cement ist ein Bündnis von Organisationen aus der Klima- und den Sozialen B
 {{< /accordion >}}
 
 
+<h3>Veranstalter und Förderung</h3>
 
+<p style="text-align: justify">
+Die Westsahara-Konferenz ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wurde unter anderem von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wurde ermöglicht durch Förderungen der Rosa Luxemburg Stiftung Baden-Württemberg, der Syndikatstiftung und der Organisation medico international.
+</p>
 
-</div>
+<figure>
+<table>
+ <tr>
+  <td><img src="/rojava/Logo_RLS_BW_dtLogo_WarmRed5.jpg" width="2000px"/>
+  <td><img src="/westsahara/logo_syndikatsstiftung.png" width="2000px"/>
+  <td><img src="/westsahara/logo_medico.jpg" width="2000px"/>
+  <td><img src="/rojava/Logo_CA2.png" width="2000px"/></td>
+ </tr>
+</table>
+</figure>
+
 <br>
 <a href="https://www.instagram.com/perspektive_widerstand/">
         <span class="icon">
@@ -366,4 +380,3 @@ End Cement ist ein Bündnis von Organisationen aus der Klima- und den Sozialen B
         </span>
         <span>Instagram: @perspektive_widerstand</span>
    </a>
-</div>
