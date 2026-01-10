@@ -334,6 +334,24 @@ Western Sahara Resource Watch (WSRW) researches and documents the activities of 
 {{< accordion "Jaima de Tiris" >}}
 {{< /accordion >}}
 
+
+<h3>Sponsors and Organisers</h3>
+
+<p style="text-align: justify">
+The conference is an event of the Förderverein Collegium Academicum Heidelberg e.V. and is organised by members of the housing project Collegium Academicum, among others. The event is made possible by the Rosa Luxemburg Stiftung Baden-Württemberg, the Syndikatstiftung and the organisation medico international.
+</p>
+
+<figure>
+<table>
+ <tr>
+  <td><img src="/rojava/Logo_RLS_BW_dtLogo_WarmRed5.jpg" width="2000px"/>
+  <td><img src="/westsahara/logo_syndikatsstiftung.png" width="2000px"/>
+  <td><img src="/westsahara/logo_medico.jpg" width="2000px"/>
+  <td><img src="/rojava/Logo_CA2.png" width="2000px"/></td>
+ </tr>
+</table>
+</figure>
+
 </div>
 <br>
 <a href="https://www.instagram.com/perspektive_widerstand/">
