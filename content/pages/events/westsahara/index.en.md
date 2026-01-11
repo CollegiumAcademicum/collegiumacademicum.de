@@ -73,7 +73,7 @@ Friday, 16 January
 
 <b>19:00</b>: Short film premiere and arrival
 <br>
-- To kick off the weekend together, we will start with the premiere of a short film by filmmaker Maria Klenner, which is a documentary about Western Sahara and the camps in Algeria. During the meal that follows, there will be an opportunity to talk to filmmaker Maria Klenner.
+- To kick off the weekend together, we will start with the premiere of a short film by filmmaker Maria Klenner, which is a documentary about Western Sahara and the camps in Algeria. During the meal that follows, there will be an opportunity to talk to **filmmaker Maria Klenner**.
 
 </div>
 
@@ -90,12 +90,12 @@ Saturday, 17 January
 <br>
 <b>09:30 - 11:00</b>: Reading with tea ceremony
 
-- With the comic ‘Genug gewartet’ (Enough Waiting), Fine (author and illustrator) takes you on a journey to Western Sahara and sheds light on the historical and political background of Africa's last colony. The reading is accompanied by a tea ceremony and offers an introduction to the topics of the weekend. 
-Afterwards, there will be an opportunity to talk with a representative of the Sahrawi diaspora.
+- With the comic ‘Genug gewartet’ (Enough Waiting), **Fine (author and illustrator)** takes you on a journey to Western Sahara and sheds light on the historical and political background of Africa's last colony. The reading is accompanied by a tea ceremony and offers an introduction to the topics of the weekend. 
+Afterwards, there will be an opportunity to talk with **Buhari Lehbib**, a representative of the Sahrawi diaspora.
 
 <b>11:30 – 13:00</b>: Perspective Resistance: Panel Discussion
 
-- The resistance of the Sahrawi people is diverse, ongoing and everywhere: whether in the occupied territories, the camps or in the diaspora. In a panel discussion, voices from different geographical areas of the Sahrawi resistance will share their perspectives. 
+- The resistance of the Sahrawi people is diverse, ongoing and everywhere: whether in the occupied territories, the camps or in the diaspora. In a panel discussion, **Saleh Sidmustafa, Fatou Yahya Iaazza and Emma Lehbib** will share their perspectives from different geographical areas of the Sahrawi resistance. 
 
 
 <b>13:00 – 14:00</b>: Lunch break
@@ -104,7 +104,7 @@ Afterwards, there will be an opportunity to talk with a representative of the Sa
 
 <b>14:30 – 15:30 Uhr</b>: Resources and Trade
 
-- Why is Western Sahara so important to Morocco? How do Europe and Germany benefit from the occupation? A presentation by Western Sahara Resource Watch will address the illegal exploitation of resources in occupied Western Sahara, international trade relations, and the involvement of German companies in the occupation.
+- Why is Western Sahara so important to Morocco? How do Europe and Germany benefit from the occupation? A presentation by **Western Sahara Resource Watch (WSRW)** will address the illegal exploitation of resources in occupied Western Sahara, international trade relations, and the involvement of German companies in the occupation.
 
 
 <b>15:30 – 16:00</b>: Coffee break
@@ -123,7 +123,7 @@ More information about the planned workshops will follow.
 
 <b>20:00 – 21:30 Uhr</b>: Panel discussion – International responsibility
 
-- What is the role of Germany, the EU and the UN with regard to Western Sahara? Where does the responsibility lie? We want to discuss these questions with politicians who work on the issue in various institutions and, above all, ask: What needs to change in politics to achieve a liberated Western Sahara? 
+- What is the role of Germany, the EU and the UN with regard to Western Sahara? Where does the responsibility lie? We want to discuss these questions with politicians who work on the issue in various institutions and, above all, ask: What needs to change in politics to achieve a liberated Western Sahara? With **Buhari Lehbib, Judith Tavakoli und Khadja Bedati**
 
 <b>21:30 – open end</b>: Closing with music
 
@@ -143,12 +143,12 @@ Sunday, 18 January
 <b>10:00 – 11:30 Uhr</b>: Panel discussion on life in the camps
 
 - For 50 years, a large part of the Sahrawi people have been living in camps in the Algerian desert. What is life like there? What is the role of women in the construction and administration of the camps? Why is climate justice a central concept in the Sahrawi resistance?
-Sahrawi activists from the camps will report on these issues and discuss them with us.
+**Najla Mohamedlamin Salma, Asria Mohamed und Taleb Brahim Sidimohamed** will report on these issues and discuss them with us.
 
 
 <b>11:30 – 13:00</b>: The role of the media – an insight
 
-- From the Moroccan media blockade to the inadequate international and German reporting to the self-empowerment of Sahrawi media from the occupied territories, the camps and the diaspora, the role of the media permeates all levels of resistance and occupation. We will gain insights and input on various aspects, with the opportunity to discuss the role of the German media afterwards. 
+- From the Moroccan media blockade to the inadequate international and German reporting to the self-empowerment of Sahrawi media from the occupied territories, the camps and the diaspora, the role of the media permeates all levels of resistance and occupation. We will gain insights and input on various aspects, with the opportunity to discuss the role of the German media afterwards (**with contributions from Sahrawi Voice, Equipe Media, Nanna Maarouf, Jörg Tidien and others**). 
 
 
 <b>13:00-14:00</b>: Joint lunch and official end
