@@ -74,7 +74,7 @@ Freitag, 16.01.
 
 <b>19:00 Uhr</b>: Kurzfilm-Premiere und Ankommen
 <br>
-- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit der Premiere der Kurzdoku „Land Of The Three Teas“ der Fotografin Maria Klenner ein, die sich dokumentarisch mit der Westsahara und den Camps in Algerien befasst. Beim anschließenden Essen gibt es die Möglichkeit, mit Maria ins Gespräch zu kommen.
+- Für ein gemeinsames An- und Zusammenkommen leiten wir das Wochenende mit der Premiere der Kurzdoku „Land Of The Three Teas“ der Fotografin Maria Klenner ein, die sich dokumentarisch mit der Westsahara und den Camps in Algerien befasst. Beim anschließenden Essen gibt es die Möglichkeit, mit **Dokumentarfotografin Maria Klenner** ins Gespräch zu kommen.
 </div>
 
 <div class="box">
@@ -90,15 +90,13 @@ Samstag, 17.01.
 <br>
 <b>09:30 - 11:00 Uhr</b>: Lesung mit Tee Zeremonie
 
-- Mit dem Comic "Genug gewartet" nimmt Fine (Autor\*in und Zeichner\*in) euch mit auf die Reise in die Westsahara und beleuchtet die  geschichtlichen und politischen Hintergründe der letzten Kolonie Afrikas. Die Lesung ist begleitet von einer Tee Zeremonie und bietet einen inhaltlichen Einstieg in die Themen des Wochenendes.
-Anschließend gibt es die Möglichkeit zum Austausch mit einem\*er Vertreter\*in der saharauischen Diaspora.
+- Mit dem Comic "Genug gewartet" nimmt **Fine (Autor\*in und Zeichner\*in)** euch mit auf die Reise in die Westsahara und beleuchtet die  geschichtlichen und politischen Hintergründe der letzten Kolonie Afrikas. Die Lesung ist begleitet von einer Tee Zeremonie und bietet einen inhaltlichen Einstieg in die Themen des Wochenendes.
+Anschließend gibt es die Möglichkeit zum Austausch mit **Buhari Lehbib**, einem Vertreter der saharauischen Diaspora.
 
 <b>11:30 – 13:00 Uhr</b>: Perspektive Widerstand: Panel Gespräch
 
 - Der Widerstand der Sahrauis ist vielfältig, andauernd und überall: Ob in den
-besetzten Gebieten, den Camps, oder in der Diaspora. In einem Panel Gespräch
-werden Stimmen aus verschiedenen Geografien des Sahrauischen Widerstands ihre
-Perspektiven teilen.
+besetzten Gebieten, den Camps, oder in der Diaspora. In einem Panel Gespräch teilen **Saleh Sidmustafa, Fatou Yahya Iaazza und Emma Lehbib** ihre Perspektiven aus den verschiedenen Geografien des Sahrauischen Widerstands.
 
 <b>13:00 – 14:00 Uhr</b>: Mittagspause
 
@@ -107,8 +105,7 @@ Perspektiven teilen.
 <b>14:30 – 15:30 Uhr</b>: Ressourcen und Handel
 
 - Warum ist die Westsahara so wichtig für Marokko? Wie profitieren Europa und
-Deutschland von der Besatzung? In einem Input von Western Sahara Ressource
-Watch geht es um die illegale Ressourcenausbeutung in der besetzten Westsahara,
+Deutschland von der Besatzung? In diesem Input beleuchtet **Western Sahara Resource Watch (WSRW)** die illegale Ressourcenausbeutung in der besetzten Westsahara,
 und die internationalen Handelsbeziehungen, sowie die Verstrickungen Deutscher
 Unternehmen in die Besatzung.
 
@@ -133,7 +130,7 @@ runden wir den Tag inhaltlich ab.
 
 <b>20:00 – 21:30 Uhr</b>: Podiumsdiskussion – Internationale Verantwortung
 
-- Was ist die Rolle Deutschlands, der EU und der UN im Bezug auf die Westsahara? Wo liegt die Verantwortung? Wir sprechen mit Khadja Bedati, Buhari Lehbib und Judith Tavakoli über das Thema und wollen vor allem auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu erreichen?
+- Was ist die Rolle Deutschlands, der EU und der UN im Bezug auf die Westsahara? Wo liegt die Verantwortung? Gemeinsam wollen wir uns vor allem auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu erreichen? Es diskutieren: **Buhari Lehbib, Judith Tavakoli und Khadja Bedati**. 
 
 <b>21:30 Uhr – open end</b>: Ausklang mit Musik
 
@@ -156,8 +153,7 @@ Sonntag, 18.01.
 Wie gestaltet sich die Lebensrealität vor Ort? Was ist die Rolle der Frauen im Aufbau
 und der Verwaltung? Warum ist Klimagerechtigkeit ein zentraler Begriff im
 Saharauischen Widerstand?
-Im gemeinsamen Austausch werden uns saharauische Aktivist*innen aus den Camps
-berichten und diese Fragen erörtern.
+Im gemeinsamen Austausch werden **Najla Mohamedlamin Salma, Asria Mohamed und Taleb Brahim Sidimohamed** über Widerstand in den Camps berichten und diese Fragen erörtern.
 
 <b>11:30 – 13:00 Uhr</b>: Rolle der Medien – Ein Einblick
 
@@ -166,7 +162,7 @@ deutsche Berichterstattung bis zur Selbstermächtigung Saharauischer Medien aus
 den besetzten Gebieten, den Camps und der Diaspora, zieht sich die Rolle der
 Medien durch alle Ebenen des Widerstands und der Besatzung. Wir werden
 zu verschiedenen Aspekten Einblicke und Inputs bekommen mit der Möglichkeit, sich
-anschließend über die Rolle der deutschen Medien auszutauschen.
+anschließend über die Rolle der deutschen Medien auszutauschen (**mit Videobeiträgen und Teilnahme von u.a. Sahrawi Voice, Equipe Media, Nanna Maarouf, Jörg Tidien**).
 
 <b>Ab 13:00 Uhr</b>: Gemeinsames Mittagessen und offizielles Ende
 
