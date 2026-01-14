@@ -294,6 +294,17 @@ Najla Mohamedlamin Salma is a Sahrawi human rights and climate activist. As foun
 </div>
 {{< /accordion >}}
 
+{{< accordion "Nina Matzik" >}}
+<div class="grid-col">
+<figure>
+<img alt="Portrait Nina Matzik" src="Bilder_Kurzbios/speaker_bild_Nina_Matzik.jpg" width="100%" style="display:block"/>
+</figure>
+<div class="" style="text-align: left">
+Nina Matzik is active in WSRW Germany since 2023 and is currently studying for a Master's degree in International Development at Lund University. Resource policy, decolonial perspectives and social justice are the focal points of her academic and activist work.
+</div>
+</div>
+{{< /accordion >}}
+
 {{< accordion "Saleh Mustafa" >}}
 <div class="grid-col">
 <figure>
@@ -319,12 +330,15 @@ Taleb Brahim Sidimohamed is a Sahrawi agricultural engineer, innovator, and refu
 
 <h2>Organisations</h2>
 
-{{< accordion "Solidarity Rising" >}}
+{{< accordion "All-African People’s Revolutionary Party (A-APRP)" >}}
+The All-African People's Revolutionary Party (A-APRP) is a pan-African party based on the ideas of Kwame Nkrumah, fighting for the complete liberation, unity and socialist development of Africa and its diaspora.
+<br><br>
+<img alt="Logo A-APRP" src="logo_A-APRP.png" width="25%" style="display:block"/>
 {{< /accordion >}}
 
-{{< accordion "Western Sahara Resource Watch" >}}
-Western Sahara Resource Watch (WSRW) researches and documents the activities of international companies and state institutions operating alongside Morocco in occupied Western Sahara. The international network holds companies and governments accountable for their support of the occupation and campaigns for the Sahrawi people's right to self-determination.
-    <img alt="Logo WSRW" src="Logo_WSRW.png" width="50%" style="display:block"/>
+{{< accordion "Black Power Frankfurt" >}}
+Black Power Frankfurt is a Black self-organization from Frankfurt am Main, founded in 2020 in the context of the Black Lives Matter protests. Black Power creates spaces for community, political education and organising against racism, connecting the Black diaspora with anti-colonial struggles on the African continent. In addition to educational work, Black Power Frankfurt offers practical support to people affected by anti-Black racism and pursues the long-term goal of African liberation.
+<img alt="Logo Black Power Frankfurt" src="logo_black_power_frankfurt.png" width="30%" style="display:block"/>
 {{< /accordion >}}
 
 {{< accordion "End Cement" >}}
@@ -332,6 +346,14 @@ Western Sahara Resource Watch (WSRW) researches and documents the activities of 
 {{< /accordion >}}
 
 {{< accordion "Jaima de Tiris" >}}
+{{< /accordion >}}
+
+{{< accordion "Solidarity Rising" >}}
+{{< /accordion >}}
+
+{{< accordion "Western Sahara Resource Watch" >}}
+Western Sahara Resource Watch (WSRW) researches and documents the activities of international companies and state institutions operating alongside Morocco in occupied Western Sahara. The international network holds companies and governments accountable for their support of the occupation and campaigns for the Sahrawi people's right to self-determination.
+    <img alt="Logo WSRW" src="Logo_WSRW.png" width="50%" style="display:block"/>
 {{< /accordion >}}
 
 
