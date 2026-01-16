@@ -138,6 +138,118 @@ runden wir den Tag inhaltlich ab.
 
 </div>
 
+
+<h2>Workshops</h2>
+
+{{< carousel nSlides="6" >}}
+
+<div x-show="activeSlide === 1">
+    <b>1) Take Action for Western Sahara: Building global awareness through organized lectures</b>
+<br><br>
+<p style="text-align: justify">
+
+<b>Gruppe:</b><br>
+Solidarity Rising
+<br><br>
+<b>Sprache:</b><br>
+Englisch
+<br><br>
+<b>Beschreibung:</b><br>
+This workshop shares practical tools for organizing lectures with Saharawi speakers and strengthening the global solidarity movement for Western Sahara through the Forgotten Voices and Solidarity Summit campaigns. It outlines how to engage universities, organizations and communities worldwide to amplify Saharawi history and resistance using the Forgotten Voices campaign structure. The session also introduces efforts to build an international solidarity network for Western Sahara, and shares strategies and stories for mobilizing politicians, journalists, and civil society. It invites participants to take part in this global effort and help shape the Sahrawi Solidarity Summit 2027 in Tindouf, where activists, politicians, students and the global solidarity movement meets. The workshop also covers Solidarity Rising’s story and how to engage with our activism and anti-colonial human rights work.
+<p>
+
+</div>
+
+<div x-show="activeSlide === 2">
+    <b>2) What It Means to Care: Stories, Advocacy, and Responsibility</b>
+<br><br>
+<p style="text-align: justify">
+
+<b>Organisatorin:</b><br>
+Asria Mohamed
+<br><br>
+<b>Sprache:</b><br>
+Englisch
+<br><br>
+<b>Beschreibung:</b><br>
+Shaped by long-term advocacy work in Europe, this workshop is a shared learning space rather than a lesson. Using Western Sahara as an entry point, it explores how we care about struggles we are new to—and how advocacy can begin with listening, humility, and connection.
+<p>
+
+</div>
+
+<div x-show="activeSlide === 3">
+    <b>3) Zusammen aktiv für die Westsahara! Und wie genau...?</b>
+<br><br>
+<p style="text-align: justify">
+
+<b>Gruppe:</b><br>
+La Jaima de Tiris
+<br><br>
+<b>Sprache:</b><br>
+Deutsch
+<br><br>
+<b>Beschreibung:</b><br>
+Dieser Workshop richtet sich an Menschen, die sich im Solidaritätsbewegung mit dem sahrauischen Volk in Deutschland aktiv einbringen möchten. Gemeinsam werden wir über Strategien, Methoden sowie mögliche Aktionen und Veranstaltungen nachdenken. Wir teilen unsere Erfahrungen und Know-how. Der Workshop ist offen für alle, mit oder ohne Erfahrung, aber mit Interesse und Engagement.<p>
+
+</div>
+
+<div x-show="activeSlide === 4">
+<b>4) Heidelberg (Materials) und die Westsahara</b>
+<br>
+<p style="text-align: justify">
+
+<b>Gruppe:</b><br>
+End Cement
+<br><br>
+<b>Sprache:</b><br>
+Deutsch
+<br><br>
+<b>Beschreibung:</b><br>
+Mit Heidelberg Materials haben wir einen Konzern direkt um die Ecke, der mit der Besatzung kooperiert und von ihr Profit macht. Mit zwei Zementwerken (davon eins brandneu) liefert der Zementriese "Besatzungs-Beton" mit dem die Besetzung durch Marokko gefestigt werden soll (<a href="https://wsrw.org/de/nachrichten/heidelberg-materials-bestatigt-lieferungen-fur-umstrittene-projekte-in-der-besetzten-westsahara">Artikel:  Heidelberg Materials bestätigt Lieferungen für umstrittene Projekte in der besetzten Westsahara</a>).
+<br>
+Bei dem Workshop werden wir für den Protest vor Heidelberg Materials am Sonntag Nachmittag Kartons basteln. Dabei wird End Cement erzählen wie das mit der Ausbeutung in anderen Ländern durch den Konzern zusammenhängt und wie die Kampagne Widerstand leistet.<p>
+
+</div>
+
+<div x-show="activeSlide === 5">
+<b>5) From Sahrawi to Swaziland - the fight against (neo-)colonialism and reactonary monarchies</b>
+<br><br>
+<p style="text-align: justify">
+
+<b>Gruppe:</b><br>
+Black Power und A-APRP
+<br><br>
+<b>Sprache:</b><br>
+Deutsch
+<br><br>
+<b>Beschreibung:</b><br>
+This workshop connects the Sahrawi struggle against Moroccan occupation with the anti-colonial struggles of Swaziland against reactionary monarchies. We examine repression, international complicity, and the role of youth and student movements, while discussing what meaningful global solidarity can look like in practice.<p>
+
+</div>
+
+
+<div x-show="activeSlide === 6">
+<b>6) Greenwashing der Westsahara-Besatzung? Nicht mit uns!</b>
+<br><br>
+<p style="text-align: justify">
+
+<b>Gruppe:</b><br>
+Tagungs-Orga
+<br><br>
+<b>Sprache:</b><br>
+Deutsch
+<br><br>
+<b>Beschreibung:</b><br>
+In diesem Workshop wollen wir gemeinsam eine Kampagne für Klimagerechtigkeit planen. Marokko erhält seit Jahren internationale Aufmerksamkeit aufgrund seines guten Rangs im Klimaschutz-Ranking CCPI, an dessen Entwicklung die deutsche NGO Germanwatch beteiligt ist (siehe z. B. hier: <a href="https://fair-economics.de/marokko-belegt-den-neunten-platz-im-weltweiten-climate-performance-index/">Artikel: 
+Marokko belegt den neunten Platz im weltweiten Climate Performance Index
+</a>). In dem CCPI-Bericht und der medialen Rezeption wird jedoch nicht erwähnt, dass dies maßgeblich auf den Ausbau erneuerbarer Energien in den besetzten Gebieten der Westsahara zurückzuführen ist. Marokko präsentiert sich weltweit als Klimaschutzheld und verpasst seiner fünfzigjährigen völkerrechtswidrigen Besatzung nahezu unbemerkt einen grünen Anstrich. Eine der dreistesten Greenwashing-Aktionen, die es je gab. Europäische Klimaschutz-NGOs merken nichts davon und machen bisher mit.
+<br>
+Lasst uns das ändern! Wir wollen den Workshop-Slot gemeinsam für eine ganz konkrete Kampagnenplanung nutzen und dem Greenwashing der Westsahara-Besatzung Steine in den Weg legen. Unser Ziel ist, dass die erneuerbaren Erträge aus den besetzten Gebieten im CCPI-Ranking nicht mehr Marokko angerechnet werden und das Thema mediale Aufmerksamkeit erzielt. Dabei wollen wir uns mit Akteure der Klimagerechtigkeitsbewegung zusammenschließen und Druck auf German Watch & co. aufbauen.<p>
+
+</div>
+
+{{< /carousel >}}
+
 <div class="box">
 Sonntag, 18.01.
 
@@ -345,6 +457,7 @@ Taleb Brahim Sidimohamed ist ein sahrauischer Agraringenieur, Innovator und Flü
 </div>
 </div>
 {{< /accordion >}}
+
 
 <h2>Organisationen</h2>
 
