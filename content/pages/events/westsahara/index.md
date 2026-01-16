@@ -206,7 +206,7 @@ Deutsch
 <br><br>
 <b>Beschreibung:</b><br>
 Mit Heidelberg Materials haben wir einen Konzern direkt um die Ecke, der mit der Besatzung kooperiert und von ihr Profit macht. Mit zwei Zementwerken (davon eins brandneu) liefert der Zementriese "Besatzungs-Beton" mit dem die Besetzung durch Marokko gefestigt werden soll (<a href="https://wsrw.org/de/nachrichten/heidelberg-materials-bestatigt-lieferungen-fur-umstrittene-projekte-in-der-besetzten-westsahara">Artikel:  Heidelberg Materials bestätigt Lieferungen für umstrittene Projekte in der besetzten Westsahara</a>).
-
+<br>
 Bei dem Workshop werden wir für den Protest vor Heidelberg Materials am Sonntag Nachmittag Kartons basteln. Dabei wird End Cement erzählen wie das mit der Ausbeutung in anderen Ländern durch den Konzern zusammenhängt und wie die Kampagne Widerstand leistet.<p>
 
 </div>
@@ -243,7 +243,7 @@ Deutsch
 In diesem Workshop wollen wir gemeinsam eine Kampagne für Klimagerechtigkeit planen. Marokko erhält seit Jahren internationale Aufmerksamkeit aufgrund seines guten Rangs im Klimaschutz-Ranking CCPI, an dessen Entwicklung die deutsche NGO Germanwatch beteiligt ist (siehe z. B. hier: <a href="https://fair-economics.de/marokko-belegt-den-neunten-platz-im-weltweiten-climate-performance-index/">Artikel: 
 Marokko belegt den neunten Platz im weltweiten Climate Performance Index
 </a>). In dem CCPI-Bericht und der medialen Rezeption wird jedoch nicht erwähnt, dass dies maßgeblich auf den Ausbau erneuerbarer Energien in den besetzten Gebieten der Westsahara zurückzuführen ist. Marokko präsentiert sich weltweit als Klimaschutzheld und verpasst seiner fünfzigjährigen völkerrechtswidrigen Besatzung nahezu unbemerkt einen grünen Anstrich. Eine der dreistesten Greenwashing-Aktionen, die es je gab. Europäische Klimaschutz-NGOs merken nichts davon und machen bisher mit.
-
+<br>
 Lasst uns das ändern! Wir wollen den Workshop-Slot gemeinsam für eine ganz konkrete Kampagnenplanung nutzen und dem Greenwashing der Westsahara-Besatzung Steine in den Weg legen. Unser Ziel ist, dass die erneuerbaren Erträge aus den besetzten Gebieten im CCPI-Ranking nicht mehr Marokko angerechnet werden und das Thema mediale Aufmerksamkeit erzielt. Dabei wollen wir uns mit Akteure der Klimagerechtigkeitsbewegung zusammenschließen und Druck auf German Watch & co. aufbauen.<p>
 
 </div>
