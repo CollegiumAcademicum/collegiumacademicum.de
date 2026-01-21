@@ -6,8 +6,8 @@ title: "Mach Mit"
 
 <p style="text-align: justify">
 Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) und Initiativen des Projekts statt, die sich meist wöchentlich treffen.
-Jeden Mittwochabend von 18 bis 20 Uhr findet auf dem CA-Gelände <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>
-das große Projektplenum statt, bei gutem Wetter draußen, bei schlechtem Wetter in der Aula.
+Jeden Mittwochabend von 19 bis 21 Uhr findet auf dem CA-Gelände <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>
+das große Projektplenum statt, meistens in der Aula.
 Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen.
 AGs und Initiativen können berichten, sich austauschen und sich absprechen.
 Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
