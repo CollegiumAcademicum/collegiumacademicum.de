@@ -3,6 +3,6 @@
     "bulma": "^0.7.2",
     "bulma-timeline": "^3.0.0",
     "js-beautify": "^1.8.8",
-    "juice": "^5.2.0"
+    "juice": "^10.0.0"
   }
 }
