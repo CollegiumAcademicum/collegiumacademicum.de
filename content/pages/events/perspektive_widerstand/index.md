@@ -24,3 +24,7 @@ novoigl: yes
         </div>
     </div>
 </div>
+
+<h2>Presse und Medien</h2>
+
+{{< press_widerstand >}}
