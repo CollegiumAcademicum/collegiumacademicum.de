@@ -8,7 +8,7 @@ slug: "gruppe"
 <p style="text-align:justify">
 Ein Text von Franziska Meier
 <br><br>
-Dieser Text handelt von dem, was nicht schon vielfach in der Presse zu lesen war: Der Aufbau der Projektgruppe und ihre gelebte Kultur. Die Unterstützung der "alten CAler" und das Vertrauen, das sie uns entgegengebracht haben. Und wie aus einer Idee ein nicht auf Gewinn ausgerichtetes Unternehmen wurde. Es geht um das Selbsverständnis von Projektgruppe, von innen und außen, und über die Gruppenidentität, die es irgendwie gibt und die doch nirgends festgeschrieben und klar umrissen ist.
+Dieser Text handelt von dem, was nicht schon vielfach in der Presse zu lesen war: Der Aufbau der Projektgruppe und ihre gelebte Kultur. Und wie aus einer Idee ein nicht auf Gewinn ausgerichtetes Unternehmen wurde. Es geht um das Selbsverständnis von Projektgruppe, von innen und außen, und über die Gruppenidentität, die es irgendwie gibt und die doch nirgends festgeschrieben und klar umrissen ist.
 <br><br>
 Unser Anspruch war es - zunächst unausgesprochen und unreflektiert - eine offene, undogmatische und visionäre Gemeinschaft zu gestalten. 
 </p>
