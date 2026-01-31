@@ -22,15 +22,14 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**Januar 2026** | 
-16.-18.01. | <a href="{{<relref "westsahara">}}">Tagung zur Westsahara</a> (<a href="https://www.instagram.com/perspektive_widerstand">@perspektive_widerstand</a>)
-So, 25.01., 17:00 | Licht in der Dunkelheit: Benefiz-Konzert des Vereins <a href="https://www.derpunker.de/aktuelles.html">der punker e.V.</a> in der Melanchthonkirche - mit Musik der Heidelberger Wohnprojekte
-So, 25.01., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Februar 2026** |
+So, 08.02., 10:00-14:00 | Teestube (Sprachkurs für Geflüchtete)
 So, 22.02., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **März 2026** |
+Sa, 21.03., 22:00 | ImTunnel vol.3, Tickets auf <a href="https://rausgegangen.de/events/tunnel-vol3-0/">rausgegangen.de</a>
 So, 29.03., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **April 2026** |
+Mi, 15.04., 20:00 | Heidelberger Frühling: <a href="https://www.heidelberger-fruehling.de/veranstaltung/restart-konzert-im-collegium-academicum-15042026">re:start Konzert</a> in unserer Aula
 So, 26.04., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Mai 2026** |
 So, 31.05., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
