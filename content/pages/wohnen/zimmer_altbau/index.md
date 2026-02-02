@@ -6,7 +6,8 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-Du hast Interesse an einem Zimmer im Altbau ab April 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag findet am 15.02.2026 statt. <br>Wir freuen uns auf dich!
+<!-- Du hast Interesse an einem Zimmer im Altbau ab April 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag findet am 15.02.2026 statt. <br>Wir freuen uns auf dich!-->
+    Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Dafür kannst du dich ab Ende April bewerben. Wir freuen uns auf dich!
 </div> 
 
 <!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. --> <!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich bei Interesse ab Anfang Juli bewerben.--> </b>
@@ -75,13 +76,13 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< /accordion >}}
 
 {{< accordion "Fragen zur Bewerbung" >}}
-
-<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> 
+Aktuell nehmen wir keine weiteren Bewerbungen entgegen.
 {{< accordion "Wann kann ich einziehen?" >}}
-Der nächste Einzugstermin ist der 1. April. Dafür kannst du dich ab sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 15.02.2026. Wir freuen uns auf dich! <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
+Aktuell nehmen wir keine weiteren Bewerbungen entgegen. Der nächste Einzugstermin ist der 1. Juli. Dafür kannst du dich ab Ende April bewerben. Wir freuen uns auf dich!
+<!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 15.02.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
-Wir haben ein Bewerbungsformular. Dieses findest du auf der Seite <a href="/wohnheim">Wohnheim</a>. Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
+Wir haben ein Bewerbungsformular. <!-- Dieses findest du auf der Seite <a href="/wohnheim">Wohnheim</a>. --> Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
 {{< /accordion >}}
 {{< accordion "Kann ich mich bewerben, wenn ich erst zum Einzug vor Ort sein kann?" >}}
 Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Präsenz wie auch online machen. Wenn es dir möglich ist, empfehlen wir dir, in Präsenz zu kommen um unser Projekt besser kennenlernen zu können. Wir achten darauf, dass es keinen Nachteil für dich hat, online teilzunehmen.
