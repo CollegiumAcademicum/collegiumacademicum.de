@@ -6,8 +6,8 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-<!-- Du hast Interesse an einem Zimmer im Altbau ab April 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag findet am 15.02.2026 statt. <br>Wir freuen uns auf dich!-->
-    Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Dafür kannst du dich ab Ende April bewerben. Wir freuen uns auf dich!
+Du hast Interesse an einem Zimmer im Altbau ab April 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag findet am 15.02.2026 statt. <br>Wir freuen uns auf dich!
+    <!-- Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Dafür kannst du dich ab Ende April bewerben. Wir freuen uns auf dich!-->
 </div> 
 
 <!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. --> <!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich bei Interesse ab Anfang Juli bewerben.--> </b>
