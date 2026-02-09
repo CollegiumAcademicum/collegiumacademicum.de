@@ -9,12 +9,12 @@ novoigl: yes
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
-<!-- The next possible move-in date is April 1, 2026. If you would like to move in in April, you can apply here <b>until Sunday, February 1, 2026, 4 pm</b> at the latest.</p> -->
-Unfortunately, we can no longer accept applications for the move-in in April 2026. <b>The next possible move-in date is July 1, 2026.</b> From the end of April on you will find our application form on this site.
+The next possible move-in date is April 1, 2026. If you would like to move in in April, you can apply here. <!-- <b>until Sunday, February 1, 2026, 4 pm</b> at the latest.</p> -->
+<!-- Unfortunately, we can no longer accept applications for the move-in in April 2026. <b>The next possible move-in date is July 1, 2026.</b> From the end of April on you will find our application form on this site. -->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
-<!-- <h2>General</h2>
+<h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,9 +42,9 @@ Unfortunately, we can no longer accept applications for the move-in in April 202
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> -->
+</div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -183,6 +183,6 @@ Unfortunately, we can no longer accept applications for the move-in in April 202
     </div>
 </div> 
 
- </form>  -->
+ </form> 
 
 <!-- {{< einziehen-signup >}} -->
