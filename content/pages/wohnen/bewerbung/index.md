@@ -8,13 +8,13 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-<!-- Der nächstmögliche Einzugstermin ist der 1. April 2026. Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Sonntag, 1. Februar um 16 Uhr </b> hier dafür bewerben:</p> -->
+Der nächstmögliche Einzugstermin ist der 1. April 2026. Falls du im April bei uns einziehen möchtest, kannst du dich ab sofort <!-- <b>bis spätestens Sonntag, 1. Februar um 16 Uhr </b> --> hier dafür bewerben:</p>
 
-Für den Einzug im April 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Juli 2026.</b> Ab Ende April wirst du an dieser Stelle unser Bewerbungsformular finden.
+<!-- Für den Einzug im April 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Juli 2026.</b> Ab Ende April wirst du an dieser Stelle unser Bewerbungsformular finden. -->
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-<!-- <h2>Allgemein</h2>
+<h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,9 +42,9 @@ Für den Einzug im April 2026 können wir leider keine Bewerbungen mehr annehmen
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> -->
+</div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -187,7 +187,7 @@ Für den Einzug im April 2026 können wir leider keine Bewerbungen mehr annehmen
     </div>
 </div>
 
- </form> -->
+ </form>
 
 
 <!-- {{< einziehen-signup >}} -->
