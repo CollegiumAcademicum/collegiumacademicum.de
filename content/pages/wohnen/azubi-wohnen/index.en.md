@@ -61,6 +61,10 @@ Or apply directly on our application page for housing at the CA!
 
 If you already live at Collegium Academicum—just come and talk to us, we look forward to meeting you!
 
+Here, you can directly book an appointment for consultation:
+
+<iframe src="https://cacloud.collegiumacademicum.de/index.php/apps/appointments/embed/v2cbabB4YQM3raac/form" width="750" height="900"></iframe>
+
 ## Das Förderprogramm
 
 The “Trainee Housing” project is part of an initiative by the **Ministry of Economic Affairs, Labour, and Tourism Baden-Württemberg** to increase the attractiveness of dual vocational training. The funding aims to provide the best possible support for young people who relocate for their apprenticeship—ensuring a successful start to their professional lives.
