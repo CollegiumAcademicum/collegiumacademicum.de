@@ -63,7 +63,7 @@ If you already live at Collegium Academicum—just come and talk to us, we look 
 
 Here, you can directly book an appointment for consultation:
 
-<iframe src="https://cacloud.collegiumacademicum.de/index.php/apps/appointments/embed/v2cbabB4YQM3raac/form" width="750" height="900"></iframe>
+<a class="button is-primary is-mobile-fullwidth" href="https://cacloud.collegiumacademicum.de/index.php/apps/appointments/pub/v2cbabB4YQM3raac/form">Book consultation hour</a>
 
 ## Das Förderprogramm
 
