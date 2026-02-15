@@ -60,6 +60,10 @@ Oder bewirb dich direkt auf unserer Bewerbungsseite für das Wohnen im CA!
 
 Und wenn du schon im Collegium Academicum wohnst - komm einfach auf uns zu, wir freuen uns auf dich!
 
+Hier kannst du dir direkt einen Termin für die Sprechstunde buchen:
+
+<a class="button is-primary is-mobile-fullwidth" href="https://cacloud.collegiumacademicum.de/index.php/apps/appointments/pub/v2cbabB4YQM3raac/form">Sprechstunde vereinbaren</a>
+
 ## Das Förderprogramm
 
 Das Projekt „Azubi-Wohnen“ ist Teil der Initiative des **Ministeriums für Wirtschaft, Arbeit und Tourismus Baden-Württemberg**, um die Attraktivität der dualen Ausbildung zu steigern. Durch die Förderung sollen junge Menschen, die für ihre Ausbildung umziehen, bestmöglich unterstützt werden – für einen erfolgreichen Start ins Berufsleben.
