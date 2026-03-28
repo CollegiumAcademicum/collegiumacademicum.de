@@ -22,7 +22,7 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**Februar 2026** |
+**März 2026** |
 So, 29.03., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **April 2026** |
 Mi, 15.04., 20:00 | Heidelberger Frühling: <a href="https://www.heidelberger-fruehling.de/veranstaltung/restart-konzert-im-collegium-academicum-15042026">re:start Konzert</a> in unserer Aula
