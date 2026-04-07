@@ -9,12 +9,12 @@ novoigl: yes
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
-<!-- The next possible move-in date is April 1, 2026. If you would like to move in in April, you can apply here.-->  <!-- <b>until Sunday, February 1, 2026, 4 pm</b> at the latest.</p> -->
-Unfortunately, we can no longer accept applications for the move-in in April 2026. <b>The next possible move-in date is July 1, 2026.</b> From the end of April on you will find our application form on this site.
+The next possible move-in date is July 1, 2026. If you would like to move in in July, you can apply here <b>until Sunday, May 3, 2026, 4 pm</b> at the latest.</p>
+<!-- Unfortunately, we can no longer accept applications for the move-in in April 2026. <b>The next possible move-in date is July 1, 2026.</b> From the end of April on you will find our application form on this site. -->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
-<!-- <h2>General</h2>
+<h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,9 +42,9 @@ Unfortunately, we can no longer accept applications for the move-in in April 202
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> -->
+</div> 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
-<!-- <div class="field extra-field">
+ <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -152,7 +152,7 @@ Unfortunately, we can no longer accept applications for the move-in in April 202
     </div>
 </div>
 <div class="field">
-    <label class="label" for="rooms_in_altbau">It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notive to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well?</label>
+    <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? <!-- It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notive to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well? --> </label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
@@ -183,6 +183,6 @@ Unfortunately, we can no longer accept applications for the move-in in April 202
     </div>
 </div> 
 
- </form> -->
+ </form> 
 
 <!-- {{< einziehen-signup >}} -->
