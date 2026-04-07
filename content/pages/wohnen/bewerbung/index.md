@@ -155,7 +155,7 @@ Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Falls du im Juli bei un
     </div>
 </div>
 <div class="field">
-    <label class="label" for="rooms_in_altbau">In unserem Altbau werden voraussichtlich auch Zimmer frei werden. Diese sind je nach Größe bepreist und können von unserer Seite aus zum 30.09. jeden Jahres mit einer Frist von 6 Wochen gekündigt werden, falls sie für Teilnehmende des falt*r Orientierungsjahrs benötigt werden. Weitere Informationen dazu findest du auch auf unserer Website unter Zimmer im Altbau. Hast du auch Interesse an diesen Zimmern? </label>
+    <label class="label" for="rooms_in_altbau"> Möchtest du dich für ein Zimmer im Neubau oder Altbau bewerben? <!-- In unserem Altbau werden voraussichtlich auch Zimmer frei werden. Diese sind je nach Größe bepreist und können von unserer Seite aus zum 30.09. jeden Jahres mit einer Frist von 6 Wochen gekündigt werden, falls sie für Teilnehmende des falt*r Orientierungsjahrs benötigt werden. Weitere Informationen dazu findest du auch auf unserer Website unter Zimmer im Altbau. Hast du auch Interesse an diesen Zimmern?--> </label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
