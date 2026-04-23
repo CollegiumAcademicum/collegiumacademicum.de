@@ -22,12 +22,10 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**März 2026** |
-So, 29.03., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **April 2026** |
-Mi, 15.04., 20:00 | Heidelberger Frühling: <a href="https://www.heidelberger-fruehling.de/veranstaltung/restart-konzert-im-collegium-academicum-15042026">re:start Konzert</a> in unserer Aula
 So, 26.04., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Mai 2026** |
+Di, 12.05., 19:00 | <a href="https://rausgegangen.de/events/gidiki-live-concert-0/">GIDIKI Live-Konzert</a>
 So, 31.05., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Juni 2026** |
 So, 28.06., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
