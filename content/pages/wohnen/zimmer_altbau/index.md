@@ -6,7 +6,7 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-Du hast Interesse an einem Zimmer im Altbau ab Juli 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag findet am 17.05.2026 statt. <br>Wir freuen uns auf dich!
+Du hast Interesse an einem Zimmer im Altbau ab Juli 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag für den Altbau findet am 24.05.2026 statt. <br>Wir freuen uns auf dich!
 <!-- Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Dafür kannst du dich ab Ende April bewerben. Wir freuen uns auf dich! -->
 </div> 
 
@@ -78,7 +78,7 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< accordion "Fragen zur Bewerbung" >}}
 <!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. -->
 {{< accordion "Wann kann ich einziehen?" >}}
-<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> Der nächste Einzugstermin ist der 1. Juli. Dafür kannst du dich ab sofort bis zum 03. Mai mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 17.05.2026. Wir freuen uns auf dich!
+<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> Der nächste Einzugstermin ist der 1. Juli. Dafür kannst du dich ab sofort bis zum 03. Mai mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag für den Altbau ist am 24.05.2026. Wir freuen uns auf dich!
 <!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 15.02.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
