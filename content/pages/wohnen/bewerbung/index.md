@@ -161,6 +161,12 @@ Der nächstmögliche Einzugstermin ist der 1. Juli 2026. Falls du im Juli bei un
     </div>
 </div>
 <div class="field">
+    <label class="label" for="knowledge_ca"> Wie bist du auf das CA gekommen? </label>
+	<div class="control">
+        <input class="input" type="text" placeholder="" maxlength="200" name="knowledge_ca">
+    </div>
+</div>
+<div class="field">
     <label class="label" for="spam_protection">Um sicherzustellen, dass du kein
     Computer bist, bitten wir dich folgende Frage zu beantworten: Wieviel ist
     5 + 3? </label>
