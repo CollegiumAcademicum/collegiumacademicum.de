@@ -158,6 +158,12 @@ The next possible move-in date is July 1, 2026. If you would like to move in in 
     </div>
 </div>
 <div class="field">
+    <label class="label" for="knowledge_ca"> How do you know about the CA? </label>
+	<div class="control">
+        <input class="input" type="text" placeholder="" maxlength="200" name="knowledge_ca">
+    </div>
+</div>
+<div class="field">
     <label class="label" for="spam_protection">We would like to make sure that
     your aren't a computer: How much is 5 + 3? </label>
     <div class="spam_protection">
