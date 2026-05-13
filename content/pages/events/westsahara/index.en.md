@@ -19,21 +19,6 @@ novoigl: yes
 <br>
 </div>
 
-<div style="text-align:center">
-Admission is on a solidarity donation basis. A donation of between €0 and €30 is recommended.
-<br>
-<br>
-</div>
-
-<p style="text-align:center">
-<a class="button is-primary"
-href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7" style="font-weight:bold; width:20em">
-<span class="icon">
-    <i class="icon-link"></i>
-</span>
-<span>Registration form</span></a>
-</p>
-
 
 <div style="display: flex; justify-content: center">
     <img alt="" src="/westsahara/westsahara_banner.png" width="100%" style="display:block"/>
@@ -41,28 +26,31 @@ href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7
 
 <div style="text-align: justify">
     <br>
-    With this conference, we want to open up a space for learning, encounter, and action in order to draw attention to the occupation of Western Sahara, the Sahrawi resistance, and the struggle for independence and self-determination, and to open spaces for discussions. We want to learn with and from each other and together create a place where people from different contexts, the Sahrawi community and diaspora, activists, academics, and institutional actors can network. We want to develop common perspectives and think collectively about what we can do here and now to build and strengthen solidarity networks. We want to raise our voices—for human rights, self-determination, and a life in freedom—without occupation and exploitation, for a life in dignity, and for a liberated, independent Western Sahara.
+    With this conference, we wanted to open up a space for learning, encounter, and action in order to draw attention to the occupation of Western Sahara, the Sahrawi resistance, and the struggle for independence and self-determination, and to open spaces for discussions. To learn with and from each other, we created a place where people from different contexts, the Sahrawi community and diaspora, activists, academics, and institutional actors can network. We developed common perspectives and collectively thought about what we can do here and now to build and strengthen solidarity networks. We raised our voices—for human rights, self-determination, and a life in freedom—without occupation and exploitation, for a life in dignity, and for a liberated, independent Western Sahara.
 </div>
 
 <h2>Conference content and formats</h2>
 
 <div style="text-align: justify">
-The conference invites participants to engage with the history and present situation of the Sahrawi people—their struggles, hopes, and voices. Over three days, a space for listening, exchange, and solidarity will be created, in which knowledge, culture, and lived experience will enter into dialogue with one another. The program ranges from the historical roots of the conflict over Western Sahara to current political, social, and human issues: How do people live in the camps? What forms of resistance and self-determination arise under occupation? What responsibility does Europe bear—politically, economically, morally? And what avenues are opening up for joint action? There will be various formats and approaches:
+The conference invited participants to engage with the history and present situation of the Sahrawi people—their struggles, hopes, and voices. Over three days, a space for listening, exchange, and solidarity was created, in which knowledge, culture, and lived experience entered into dialogue with one another. The program ranged from the historical roots of the conflict over Western Sahara to current political, social, and human issues: How do people live in the camps? What forms of resistance and self-determination arise under occupation? What responsibility does Europe bear—politically, economically, morally? And what avenues are opening up for joint action? 
+
+There were various formats and approaches:
+
+- Panels, readings, and discussions opened up perspectives from activists, lawyers, artists, and journalists—from the camps, the occupied territories, and the diaspora.  
+- Workshops created space for personal engagement and concrete solidarity.
+- Evening cultural program: Film and music brought voices and stories to life in a different way—touching, impressive, and connecting.
+- Shared meals and open discussions invited participants to form relationships and continue the exchange.
+- The joint conclusion with a rally, music, and speeches sent a message of visibility, solidarity, and hope.
 
 
-- Panels, readings, and discussions open up perspectives from activists, lawyers, artists, and journalists—from the camps, the occupied territories, and the diaspora.  
-- Workshops create space for personal engagement and concrete solidarity.
-- Evening cultural program: Film and music bring voices and stories to life in a different way—touching, impressive, and connecting.
-- Shared meals and open discussions invite participants to form relationships and continue the exchange.
-- The joint conclusion with a rally, music, and speeches sends a message of visibility, solidarity, and hope.
-
-
-With the various formats, we want to create a lively, open conference that not only informs but also moves – and shows that solidarity across borders is possible.
+With the various formats, we wanted to create a lively, open conference that not only informs but also moves – and shows that solidarity across borders is possible.
 <br>
 <br>
 </div>
 
 <h2>Program</h2>
+
+We recorded the main parts of the program, which took part in the auditorium of the Collegium Academicum. You can find the videos embedded below. The full playlist is also <a href="https://www.youtube.com/watch?v=jia1zDQ3Pzs&list=PL377pBZLh2sBaaXBPrTHJpND6xQmwPAf1">on our YouTube Channel</a>.
 
 <div class="box">
 Friday, 16 January
@@ -93,10 +81,19 @@ Saturday, 17 January
 - With the comic ‘Genug gewartet’ (Enough Waiting), **Fine (author and illustrator)** takes you on a journey to Western Sahara and sheds light on the historical and political background of Africa's last colony. The reading is accompanied by a tea ceremony and offers an introduction to the topics of the weekend. 
 Afterwards, there will be an opportunity to talk with **Buhari Lehbib**, a representative of the Sahrawi diaspora.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT7nNLobe4s?si=RBTt748QSCWPQKzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
 <b>11:30 – 13:00</b>: Perspective Resistance: Panel Discussion
 
 - The resistance of the Sahrawi people is diverse, ongoing and everywhere: whether in the occupied territories, the camps or in the diaspora. In a panel discussion, **Saleh Sidmustafa, Fatou Yahya Iaazza and Emma Lehbib** will share their perspectives from different geographical areas of the Sahrawi resistance. 
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fED5cvU4Up0?si=hSnKDlSfJcn_G1Pd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>13:00 – 14:00</b>: Lunch break
 
@@ -105,6 +102,11 @@ Afterwards, there will be an opportunity to talk with **Buhari Lehbib**, a repre
 <b>14:30 – 15:30 Uhr</b>: Resources and Trade
 
 - Why is Western Sahara so important to Morocco? How do Europe and Germany benefit from the occupation? A presentation by **Western Sahara Resource Watch (WSRW)** will address the illegal exploitation of resources in occupied Western Sahara, international trade relations, and the involvement of German companies in the occupation.
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zq_M_mX5V_Q?si=6XnNWWl-hj1QAn9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 
 <b>15:30 – 16:00</b>: Coffee break
@@ -118,12 +120,22 @@ More information about the planned workshops will follow.
 
 - After the workshop phase, we will return to a shared space. In the zine WIDERWORTE, Sahrawi voices from the occupied territories, refugee camps and the European diaspora interweave to form a shared counter-narrative. We will round off the day with a short reading followed by a discussion with one of the authors.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/83sVQbN3wEg?si=EECVDRv6uNEcjNOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
 <b>18:30 – 20:00</b>: Dinner together
 
 
 <b>20:00 – 21:30 Uhr</b>: Panel discussion – International responsibility
 
 - What is the role of Germany, the EU and the UN with regard to Western Sahara? Where does the responsibility lie? We want to discuss these questions with politicians who work on the issue in various institutions and, above all, ask: What needs to change in politics to achieve a liberated Western Sahara? With **Buhari Lehbib, Judith Tavakoli und Khadja Bedati**
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lchi3nDkAa8?si=mjDRy3PSqivoqTAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>21:30 – open end</b>: Closing with music
 
@@ -360,7 +372,7 @@ Western Sahara Resource Watch (WSRW) researches and documents the activities of 
 <h3>Sponsors and Organisers</h3>
 
 <p style="text-align: justify">
-The conference is an event of the Förderverein Collegium Academicum Heidelberg e.V. and is organised by members of the housing project Collegium Academicum, among others. The event is made possible by the Rosa Luxemburg Stiftung Baden-Württemberg, the Syndikatstiftung and the organisation medico international.
+The conference was an event of the Förderverein Collegium Academicum Heidelberg e.V. and has been organised by members of the housing project Collegium Academicum, among others. The event is made possible by the Rosa Luxemburg Stiftung Baden-Württemberg, the Syndikatstiftung and the organisation medico international.
 </p>
 
 <figure>
