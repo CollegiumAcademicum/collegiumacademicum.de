@@ -19,21 +19,6 @@ novoigl: yes
 <br>
 </div>
 
-<div style="text-align:center">
-Der Eintritt ist auf solidarischer Spendenbasis. Empfohlen wird ein Betrag zwischen 0 und 30&nbsp;€.
-<br>
-<br>
-</div>
-
-<p style="text-align:center">
-<a class="button is-primary"
-href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7" style="font-weight:bold; width:20em">
-<span class="icon">
-    <i class="icon-link"></i>
-</span>
-<span>Hier geht's zur Anmeldung!</span></a>
-</p>
-
 
 <div style="display: flex; justify-content: center">
     <img alt="Sharepic für die Westsahara-Konferenz" src="westsahara_banner.png" width="100%" style="display:block"/>
@@ -41,29 +26,31 @@ href="https://cloud.collegiumacademicum.de/apps/forms/s/eyzMtpp73mcx8Z6dGSzCsLp7
 
 <div style="text-align: justify">
     <br>
-    Mit der Konferenz möchten wir einen Lern-, Begegnungs- und Aktionsraum öffnen, um auf die Besatzung der Westsahara, den sahrauischen Widerstand und den Kampf um Unabhängigkeit und Selbstbestimmung aufmerksam zu machen und den Diskurs anzuregen. Wir möchten mit- und voneinander lernen und gemeinsam einen Ort schaffen, an dem sich Menschen aus verschiedenen linken Kontexten, der sahrauischen Community und Diaspora, Aktivist*innen, Wissenschaftler*innen und  institutionelle Akteur*innen vernetzen können. Wir wollen gemeinsame Perspektiven entwickeln und Impulse zur Frage setzen, was wir hier und jetzt tun können, um solidarische Netzwerke aufzubauen und zu stärken. Wir möchten laut werden - für Menschenrechte, Selbstbestimmung und ein Leben in Freiheit – ohne Besatzung und Ausbeutung, für ein Leben in Würde und für eine befreite unabhängige Westsahara.
+    Mit der Konferenz wollten wir einen Lern-, Begegnungs- und Aktionsraum öffnen, um auf die Besatzung der Westsahara, den sahrauischen Widerstand und den Kampf um Unabhängigkeit und Selbstbestimmung aufmerksam zu machen und den Diskurs anzuregen. Um miteinander und voneinander zu lernen, haben wir gemeinsam einen Ort geschaffen, an dem sich Menschen aus verschiedenen linken Kontexten, der sahrauischen Community und Diaspora, Aktivist*innen, Wissenschaftler*innen und  institutionelle Akteur*innen vernetzen können. Wir haben gemeinsame Perspektiven entwickelt und Impulse zur Frage gesetzt, was wir hier und jetzt tun können, um solidarische Netzwerke aufzubauen und zu stärken. Wir waren laut - für Menschenrechte, Selbstbestimmung und ein Leben in Freiheit – ohne Besatzung und Ausbeutung, für ein Leben in Würde und für eine befreite unabhängige Westsahara.
 </div>
 
 <h2>Inhalt und Formate der Konferenz</h2>
 
 <div style="text-align: justify">
-Die Konferenz lädt dazu ein, sich mit der Geschichte und Gegenwart der Sahrauis auseinanderzusetzen – mit ihren Kämpfen, Hoffnungen und Stimmen. An drei Tagen entsteht ein Raum des Zuhörens, des Austauschs und der Solidarität, in dem Wissen, Kultur und gelebte Erfahrung miteinander in Dialog treten.
-Inhaltlich führt das Programm von den historischen Wurzeln des Konflikts um die Westsahara bis zu aktuellen politischen, gesellschaftlichen und menschlichen Fragen: Wie leben die Menschen in den Lagern? Welche Formen des Widerstands und der Selbstbestimmung entstehen unter Besatzung? Welche Verantwortung trägt Europa – politisch, wirtschaftlich, moralisch? Und welche Wege eröffnen sich für gemeinsames Handeln? 
-Es wird verschiedene Formate und Zugänge geben:
+Die Konferenz lud dazu ein, sich mit der Geschichte und Gegenwart der Sahrauis auseinanderzusetzen – mit ihren Kämpfen, Hoffnungen und Stimmen. An drei Tagen entsteht ein Raum des Zuhörens, des Austauschs und der Solidarität, in dem Wissen, Kultur und gelebte Erfahrung miteinander in Dialog treten.
+Inhaltlich führte das Programm von den historischen Wurzeln des Konflikts um die Westsahara bis zu aktuellen politischen, gesellschaftlichen und menschlichen Fragen: Wie leben die Menschen in den Lagern? Welche Formen des Widerstands und der Selbstbestimmung entstehen unter Besatzung? Welche Verantwortung trägt Europa – politisch, wirtschaftlich, moralisch? Und welche Wege eröffnen sich für gemeinsames Handeln? 
+Es gab verschiedene Formate und Zugänge:
 
-- Panels, Lesungen und Gespräche eröffnen Perspektiven von Aktivist\*innen, Jurist\*innen, Künstler\*innen und Journalist\*innen – aus den Lagern, den besetzten Gebieten und der Diaspora.     
-- Workshops schaffen Raum für eigenes Engagement und konkrete Solidarität.
-- Kulturprogramm am Abend: Film und Musik bringen Stimmen und Geschichten auf andere Weise zum Klingen – berührend, eindrücklich und verbindend.     
-- Gemeinsame Mahlzeiten und offene Runden laden ein, Beziehungen zu knüpfen und den Austausch fortzusetzen. 
-- Der gemeinsame Abschluss mit Kundgebung, Musik und Redebeiträgen setzt ein Zeichen für Sichtbarkeit, für Zusammenhalt, für Hoffnung.
+- Panels, Lesungen und Gespräche eröffneten Perspektiven von Aktivist\*innen, Jurist\*innen, Künstler\*innen und Journalist\*innen – aus den Lagern, den besetzten Gebieten und der Diaspora.     
+- Workshops schafften Raum für eigenes Engagement und konkrete Solidarität.
+- Kulturprogramm am Abend: Film und Musik brachten Stimmen und Geschichten auf andere Weise zum Klingen – berührend, eindrücklich und verbindend.     
+- Gemeinsame Mahlzeiten und offene Runden luden ein, Beziehungen zu knüpfen und den Austausch fortzusetzen. 
+- Der gemeinsame Abschluss mit Kundgebung, Musik und Redebeiträgen setzte ein Zeichen für Sichtbarkeit, für Zusammenhalt, für Hoffnung.
 
 
-Mit den verschiedenen Formaten möchten wir eine lebendige, offene Konferenz schaffen, die nicht nur informiert, sondern bewegt – und die zeigt, dass Solidarität über Grenzen hinweg möglich ist.
+Mit den verschiedenen Formaten haben wir eine lebendige, offene Konferenz geschaffen, die nicht nur informiert, sondern bewegt – und die zeigt, dass Solidarität über Grenzen hinweg möglich ist.
 <br>
 <br>
 </div>
 
 <h2>Das Programm</h2>
+
+Die Hauptteile des Programms, die in der Aula des Collegium Academicum stattfanden, haben wir aufgezeichnet. Ihr findet die Videos jeweils eingebettet unter den Programmpunkten und die ganze Playlist gibt es auf <a href="https://www.youtube.com/watch?v=jia1zDQ3Pzs&list=PL377pBZLh2sBaaXBPrTHJpND6xQmwPAf1"> unserem YouTube Kanal</a>.
 
 <div class="box">
 Freitag, 16.01.
@@ -93,10 +80,20 @@ Samstag, 17.01.
 - Mit dem Comic "Genug gewartet" nimmt **Fine (Autor\*in und Zeichner\*in)** euch mit auf die Reise in die Westsahara und beleuchtet die  geschichtlichen und politischen Hintergründe der letzten Kolonie Afrikas. Die Lesung ist begleitet von einer Tee Zeremonie und bietet einen inhaltlichen Einstieg in die Themen des Wochenendes.
 Anschließend gibt es die Möglichkeit zum Austausch mit **Buhari Lehbib**, einem Vertreter der saharauischen Diaspora.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT7nNLobe4s?si=RBTt748QSCWPQKzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
 <b>11:30 – 13:00 Uhr</b>: Perspektive Widerstand: Panel Gespräch
 
 - Der Widerstand der Sahrauis ist vielfältig, andauernd und überall: Ob in den
 besetzten Gebieten, den Camps, oder in der Diaspora. In einem Panel Gespräch teilen **Saleh Sidmustafa, Fatou Yahya Iaazza und Emma Lehbib** ihre Perspektiven aus den verschiedenen Geografien des Sahrauischen Widerstands.
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fED5cvU4Up0?si=hSnKDlSfJcn_G1Pd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>13:00 – 14:00 Uhr</b>: Mittagspause
 
@@ -109,6 +106,10 @@ Deutschland von der Besatzung? In diesem Input beleuchtet **Western Sahara Resou
 und die internationalen Handelsbeziehungen, sowie die Verstrickungen Deutscher
 Unternehmen in die Besatzung.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zq_M_mX5V_Q?si=6XnNWWl-hj1QAn9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>15:30 – 16:00 Uhr</b>: Kaffeepause
 
@@ -126,11 +127,21 @@ europäischen Diaspora zu einer gemeinsamen Gegenerzählung.
 Mit einer kurzen Lesung und anschließendem Austausch mit einer der Autorinnen
 runden wir den Tag inhaltlich ab.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/83sVQbN3wEg?si=EECVDRv6uNEcjNOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
 <b>18:30 – 20:00 Uhr</b>: Gemeinsames Abendessen
 
 <b>20:00 – 21:30 Uhr</b>: Podiumsdiskussion – Internationale Verantwortung
 
 - Was ist die Rolle Deutschlands, der EU und der UN im Bezug auf die Westsahara? Wo liegt die Verantwortung? Gemeinsam wollen wir uns vor allem auch fragen: Was muss sich ändern in der Politik, um eine befreite Westsahara zu erreichen? Es diskutieren: **Buhari Lehbib, Judith Tavakoli und Khadja Bedati**. 
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lchi3nDkAa8?si=mjDRy3PSqivoqTAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>21:30 Uhr – open end</b>: Ausklang mit Musik
 
@@ -267,6 +278,11 @@ und der Verwaltung? Warum ist Klimagerechtigkeit ein zentraler Begriff im
 Saharauischen Widerstand?
 Im gemeinsamen Austausch werden **Najla Mohamedlamin Salma, Asria Mohamed und Taleb Brahim Sidimohamed** über Widerstand in den Camps berichten und diese Fragen erörtern.
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JodsVwGZNEM?si=EccvYtFl72s7-0ep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
 <b>11:30 – 13:00 Uhr</b>: Rolle der Medien – Ein Einblick
 
 - Von der marokkanischen Medienblockade, über die mangelhafte internationale und
@@ -275,6 +291,11 @@ den besetzten Gebieten, den Camps und der Diaspora, zieht sich die Rolle der
 Medien durch alle Ebenen des Widerstands und der Besatzung. Wir werden
 zu verschiedenen Aspekten Einblicke und Inputs bekommen mit der Möglichkeit, sich
 anschließend über die Rolle der deutschen Medien auszutauschen (**mit Videobeiträgen und Teilnahme von u.a. Sahrawi Voice, Equipe Media, Nanna Maarouf, Jörg Tidien**).
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jia1zDQ3Pzs?si=q0ZmGE2qBI9bgY7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <b>Ab 13:00 Uhr</b>: Gemeinsames Mittagessen und offizielles Ende
 
@@ -492,7 +513,7 @@ Western Sahara Resource Watch (WSRW) recherchiert und dokumentiert die Aktivitä
 <h3>Veranstalter und Förderung</h3>
 
 <p style="text-align: justify">
-Die Westsahara-Konferenz ist eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wurde unter anderem von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wurde ermöglicht durch Förderungen der Rosa Luxemburg Stiftung Baden-Württemberg, der Syndikatstiftung und der Organisation medico international.
+Die Westsahara-Konferenz war eine Veranstaltung des Fördervereins Collegium Academicum Heidelberg e.V. und wurde unter anderem von Mitgliedern des Wohnprojekts Collegium Academicum organisiert. Die Veranstaltung wurde ermöglicht durch Förderungen der Rosa Luxemburg Stiftung Baden-Württemberg, der Syndikatstiftung und der Organisation medico international.
 </p>
 
 <figure>
