@@ -22,10 +22,10 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**April 2026** |
-So, 26.04., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Mai 2026** |
-Di, 12.05., 19:00 | <a href="https://rausgegangen.de/events/gidiki-live-concert-0/">GIDIKI Live-Konzert</a>
+Fr, 22.05., 18:00 | <a href="https://www.sofo-hd.de/event/1778682644">widersetzen x KriSe</a> (Widersetzen Bündnis Heidelberg)
 So, 31.05., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
 **Juni 2026** |
 So, 28.06., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
+**November 2026** |
+Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
