@@ -1,10 +1,18 @@
 [[prizes]]
+date = "06.05.2026"
+title = "Bundespreis UMWELT & BAUEN 2025"
+link = "https://bundespreis-umwelt-bauen.de/collegium-academicum-1"
+institution = "Bundesumweltministerium und Umweltbundesamt"
+img = "Umwelt_Bauen-52_1500_1000.jpg"
+attr = "BMUKN/Sascha Hilgers"
+
+[[prizes]]
 date = "30.09.2025"
 title = "New European Bauhaus (NEB) Prizes 2025 - Affordable Housing"
-link = "https://prizes.new-european-bauhaus.europa.eu/winners-prizes"
+link = "https://youtu.be/XoIA6a1-KrY?si=KcK4WemxF670N2Id"
 institution = "European Union"
 img = "NEB_prizes_2025.jpg"
-attr = "Holzbau Deutschland"
+attr = "CA"
 
 [[prizes]]
 date = "27.05.2025"
