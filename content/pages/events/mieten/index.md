@@ -168,7 +168,7 @@ Schreibt uns an <a href="mailto:aula@collegiumacademicum.de">aula@collegiumacade
 <div class="field">
     <label class="label" for="age">Veranstaltungsdatum *</label>
     <div class="control">
-        <input class="label" type="date" id="date" name="date" value="2024-10-01" min="2024-10-13" max="2026-12-31" required/>
+        <input class="label" type="date" id="date" name="date" max="2030-12-31" required/>
     </div>
 </div>
 

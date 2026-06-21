@@ -7,11 +7,10 @@ novoigl: yes
 <form action="/fuehrungen/send.php" method="post" accept-charset="utf-8">
 <p>Would you like to visit the CA in person? Or would you like to find out what life is like at the CA?
 
-If you answer ‘yes’ to any of these questions, you've come to the right place. We offer guided tours of the CA once a month. We explain the residential concept of the housing project, how the self-administration works and show you a flat from the inside. 
+If you answer ‘yes’ to any of these questions, you've come to the right place. We are happy to offer guided tours of the CA on request. We will explain the residential concept of the housing project, how the self-administration works and show you a flat from the inside. 
+</p>
 
-The next guided tour is on 29 June 2025, 16:00.</p>
-
-<h2>Registration to the next guided tour</h2>
+<h2>Request for a guided tour</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -40,34 +39,27 @@ The next guided tour is on 29 June 2025, 16:00.</p>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="fromWhere">From where do you know the CA?</label>
+    <label class="label" for="number_guests">Approximate number of people *</label>
     <div class="control">
-        <div class="select">
-            <select name="fromWhere">
-                <option>No specification</option>
-                <option>Website</option>
-                <option>Instagram</option>
-                <option>Newspaper</option>
-                <option>Television</option>
-                <option>From people who live there</option>
-                <option>Other</option>
-            </select>
-        </div>
+        <input class="label" type="number" id="number_guests" name="number_guests" value="5" min="1" max="150" required/>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="interest">Why do you want to take part in a guided tour?</label>
+    <label class="label" for="age">Preferred date *</label>
     <div class="control">
-        <div class="select">
-            <select name="interest">
-                <option>No specification</option>
-                <option>I am interested in the self-administration</option>
-                <option>I am interested in ecological building and living</option>
-                <option>I might want to move in myself</option>
-                <option>I would like to invest in the CA as a sustainable investment</option>
-                <option>Other</option>
-            </select>
-        </div>
+        <input class="label" type="date" id="date" name="date" max="2030-12-31" required/>
+    </div>
+    <div class="control">
+        <input class="label" type="time" id="time_start" name="time_start" value="15:00" min="00:00" max="23:59" required/>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="age">Alternative date *</label>
+    <div class="control">
+        <input class="label" type="date" id="date_alt" name="date_alt" max="2030-12-31" required/>
+    </div>
+    <div class="control">
+        <input class="label" type="time" id="time_start_alt" name="time_start_alt" value="15:00" min="00:00" max="23:59" required/>
     </div>
 </div>
 <div class="field">
