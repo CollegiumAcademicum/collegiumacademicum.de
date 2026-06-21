@@ -39,9 +39,9 @@ If you answer ‘yes’ to any of these questions, you've come to the right plac
     </div>
 </div>
 <div class="field">
-    <label class="label" for="number_guests">Approximate number of people *</label>
+    <label class="label" for="number_people">Approximate number of people *</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="10" min="10" max="150" required/>
+        <input class="label" type="number" id="number_people" name="number_people" value="10" min="10" max="150" required/>
     </div>
 </div>
 <div class="field">
@@ -60,6 +60,37 @@ If you answer ‘yes’ to any of these questions, you've come to the right plac
     </div>
     <div class="control">
         <input class="label" type="time" id="time_start_alt" name="time_start_alt" value="15:00" min="00:00" max="23:59" required/>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="fromWhere">From where do you know the CA?</label>
+    <div class="control">
+        <div class="select">
+            <select name="fromWhere">
+                <option>No specification</option>
+                <option>Website</option>
+                <option>Instagram</option>
+                <option>Newspaper</option>
+                <option>Television</option>
+                <option>From people who live there</option>
+                <option>Other</option>
+            </select>
+        </div>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="interest">Why do you want to take part in a guided tour?</label>
+    <div class="control">
+        <div class="select">
+            <select name="interest">
+                <option>No specification</option>
+                <option>I am interested in the self-administration</option>
+                <option>I am interested in ecological building and living</option>
+                <option>I might want to move in myself</option>
+                <option>I would like to invest in the CA as a sustainable investment</option>
+                <option>Other</option>
+            </select>
+        </div>
     </div>
 </div>
 <div class="field">

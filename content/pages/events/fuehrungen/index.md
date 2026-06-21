@@ -39,9 +39,9 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
     </div>
 </div>
 <div class="field">
-    <label class="label" for="number_guests">Ungefähre Personenanzahl *</label>
+    <label class="label" for="number_people">Ungefähre Personenanzahl *</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="10" min="10" max="150" required/>
+        <input class="label" type="number" id="number_people" name="number_people" value="10" min="10" max="150" required/>
     </div>
 </div>
 <div class="field">
@@ -62,6 +62,35 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
         <input class="label" type="time" id="time_start_alt" name="time_start_alt" value="15:00" min="00:00" max="23:59" required/>
     </div>
 </div>
+<div class="field">
+    <label class="label" for="fromWhere">Woher kennen Sie das CA?</label>
+    <div class="control">
+        <div class="select">
+            <select name="fromWhere">
+                <option>Keine Angabe</option>>
+                <option>Website</option>
+                <option>Instagram</option>
+                <option>Zeitung</option>
+                <option>Fernsehen</option>
+                <option>Von Menschen, die dort wohnen</option>
+                <option>Sonstiges</option>
+            </select>
+        </div>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="interest">Weshalb haben Sie Interesse an einer Führung?</label>
+    <div class="control">
+        <div class="select">
+            <select name="interest">
+                <option>Keine Angabe</option>>
+                <option>Ich habe Interesse an Selbstverwaltung</option>
+                <option>Ich habe Interesse an ökologischem Bauen und Wohnen</option>
+                <option>Ich möchte eventuell selbst einziehen</option>
+                <option>Ich möchte eventuell in das CA investieren als nachhaltige Geldanlage</option>
+                <option>Sonstiges</option>
+            </select>
+        </div>
 <div class="field">
     <label class="label" for="spam_protection">Um sicherzustellen, dass Sie kein
     Computer sind, bitten wir Sie, folgende Frage zu beantworten: Wieviel ist
