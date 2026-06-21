@@ -13,34 +13,46 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'mail', 'fromWhere', 'interest', 'spam_protection'];
+$fields = ['full_name', 'email', 'mail', 'number_people', 'date', 'time_start', 'date_alt', 'time_start_alt', 'fromWhere', 'interest', 'spam_protection'];
 
 $i18n = [
     "de" => [
         "full_name" => "Name",
         "email" => "E-mail",
+        "number_people" => "Anzahl der Personen",
+        "date" => "Datum",
+        "time_start" => "Uhrzeit",
+        "date_alt" => "Alternatives Datum",
+        "time_start_alt" => "Alternative Uhrzeit",
         "fromWhere" => "Woher Sie das CA kennen",
         "interest" => "Weshalb Sie Interesse an der Führung haben",
-        "registration" => "Anmeldung Führung durchs CA",
+        "registration" => "Anfrage Führung durchs CA",
         "registration-sent" => "anmeldung-verschickt",
 	    "spam-protection" => "spamschutz",
-        "mail-message" => "Vielen Dank für Ihre Anmeldung zur Führung!\nWir freuen uns, dass Sie teilnehmen möchten. Mit dieser Nachricht bestätigen wir, dass Sie zur Führung angemeldet sind.\nTreffpunkt ist vor dem ehemaligen Pförtnerhäuschen auf dem Mendelejewplatz gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter https://collegiumacademicum.de/anfahrt/.\nFalls Sie Fragen zu der Führung haben oder sich wieder abmelden wollen, können Sie einfach auf diese E-Mail antworten.",
+        "mail-message" => "Vielen Dank für Ihre Anfrage für eine Führung!\nWir freuen uns, dass Sie Interesse haben. Mit dieser Nachricht bestätigen wir, dass Ihre Anfrage für eine Führung bei uns eingegangen ist. Wir versuchen uns möglichst bald bei Ihnen zu melden. Da wir im CA alle ehrenamtlich arbeiten, kann es zu kleinen Verzögerungen kommen, wir bitten diese zu entschuldigen. \nTreffpunkt der Führungen ist vor dem ehemaligen Pförtnerhäuschen auf dem Mendelejewplatz gegenüber der Tram-Haltestelle Ortenauer Straße. Eine genaue Wegbeschreibung finden Sie unter https://collegiumacademicum.de/anfahrt/. \n Falls Sie noch weitere Bemerkungen zu Ihrer Anfrage haben oder sich wieder abmelden wollen, können Sie einfach auf diese E-Mail antworten.",
         "with-data" => "Wir haben folgende Daten empfangen:",
         "privacy-notice" => "Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. Auf https://collegiumacademicum.de/datenschutz/ finden Sie weitere Informationen zu unserer Datenschutzerklärung.",
         "dear" => "Liebe*r",
+        "regards" => "Herzliche Grüße\n\nDas Collegium Academicum",
     ],
     "en" => [
         "full_name" => "Name",
         "email" => "E-mail",
+        "number_people" => "Number of People",
+        "date" => "Date",
+        "time_start" => "Time",
+        "date_alt" => "Alternative date",
+        "time_start_alt" => "Alternative time",
         "fromWhere" => "From where you know the CA",
         "interest" => "Why you are interested in the tour",
-        "registration" => "Anmeldung Führung durchs CA",
+        "registration" => "Tour request through the CA",
         "registration-sent" => "en/registration-sent",
 	    "spam-protection" => "en/spam-protection",
-        "mail-message" => "Thank you for registering for the tour!\nWe are happy that you would like to participate. With this message we confirm that you are registered for the guided tour.\nThe meeting point is in front of the former gatehouse on Mendelejewplatz opposite the Ortenauer Straße tram stop. You can find detailed directions at https://collegiumacademicum.de/en/map/.\nIf you have any questions about the tour or would like to cancel your registration, simply reply to this e-mail.",
+        "mail-message" => "Thank you for requesting a guided tour!\nWe are happy that you are interested. With this message we confirm that we have received your request. We will try to contact you as soon as possible. Since we are all volunteers at the CA, there might be slight delays. We apologize for any inconvenience.\nThe meeting point for the tours is in front of the former gatehouse on Mendelejewplatz opposite the Ortenauer Straße tram stop. You can find detailed directions at https://collegiumacademicum.de/en/map/.\nIf you have any additional information or would like to cancel your request, simply reply to this e-mail.",
         "with-data" => "We received the following data:",
         "privacy-notice" => "We only keep this data until the day of the tour. After that, it will be deleted. You can find more information about our privacy policy at https://collegiumacademicum.de/datenschutz/.",
         "dear" => "Dear",
+        "regards" => "Best regards\n\nThe Collegium Academicum",
     ],];
 
 // Creates the form: command inserts the html form tag
@@ -76,6 +88,7 @@ function send_mail($from, $to, $data, $lang, $with_message) {
 
         if ($with_message) {
             $body .= $i18n[$lang]["privacy-notice"];
+            $body .= "\n\n{$i18n[$lang]["regards"]}";
         }
 
         $mail->Body = $body;
