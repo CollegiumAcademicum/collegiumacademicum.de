@@ -41,7 +41,7 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
 <div class="field">
     <label class="label" for="number_guests">Ungefähre Personenanzahl *</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="5" min="1" max="150" required/>
+        <input class="label" type="number" id="number_guests" name="number_guests" value="10" min="10" max="150" required/>
     </div>
 </div>
 <div class="field">
@@ -71,6 +71,7 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
     </div>
 </div>
 <p>Nach dem Absenden bekommen Sie eine Bestätigungsmail an Ihre angegebene E-Mail-Adresse.</p>
+<p>Bitte haben Sie Verständnis dafür, dass wir aus Gründen der Kapazität aktuell nur Führungen für größere Gruppen (ab 10 Personen) anbieten können. </p>
 <p>Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> finden Sie weitere Informationen.</p>
 
 <div class="field">
