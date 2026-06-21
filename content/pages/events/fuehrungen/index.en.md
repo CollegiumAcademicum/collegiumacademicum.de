@@ -41,7 +41,7 @@ If you answer ‘yes’ to any of these questions, you've come to the right plac
 <div class="field">
     <label class="label" for="number_guests">Approximate number of people *</label>
     <div class="control">
-        <input class="label" type="number" id="number_guests" name="number_guests" value="5" min="1" max="150" required/>
+        <input class="label" type="number" id="number_guests" name="number_guests" value="10" min="10" max="150" required/>
     </div>
 </div>
 <div class="field">
@@ -69,6 +69,8 @@ If you answer ‘yes’ to any of these questions, you've come to the right plac
     </div>
 </div>
 <p>After submitting, you will receive a confirmation mail to your given address.</p>
+<p>Please note that due to limited capacity, we can currently only offer guided tours to larger groups (10 or more people). 
+</p>
 <p>We only keep this data until the day of the tour. After that, it will be deleted. Please see our <a href="https://collegiumacademicum.de/datenschutz/">Privacy Policy</a> for further information.</p>
 
 <div class="field">
