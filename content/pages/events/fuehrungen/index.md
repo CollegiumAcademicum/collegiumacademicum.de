@@ -7,10 +7,9 @@ novoigl: yes
 <form action="/fuehrungen/send.php" method="post" accept-charset="utf-8">
 <p>Haben Sie Lust, das CA einmal persönlich zu besichtigen? Oder möchten Sie erfahren, wie es sich im CA lebt?
 
-Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wir bieten einmal im Monat Führungen durch das CA an.
-Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise der Selbstverwaltung und zeigen Ihnen eine Wohnung von innen.
+Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wir bieten gerne Führungen durch das CA an. Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise der Selbstverwaltung und zeigen Ihnen eine Wohnung von innen.
 
-<h2>Anmeldung zur nächsten Führung</h2>
+<h2>Anfrage für eine Führung</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -40,34 +39,27 @@ Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise d
     </div>
 </div>
 <div class="field">
-    <label class="label" for="fromWhere">Woher kennen Sie das CA?</label>
+    <label class="label" for="number_guests">Ungefähre Personenanzahl *</label>
     <div class="control">
-        <div class="select">
-            <select name="fromWhere">
-                <option>Keine Angabe</option>>
-                <option>Website</option>
-                <option>Instagram</option>
-                <option>Zeitung</option>
-                <option>Fernsehen</option>
-                <option>Von Menschen, die dort wohnen</option>
-                <option>Sonstiges</option>
-            </select>
-        </div>
+        <input class="label" type="number" id="number_guests" name="number_guests" value="10" min="10" max="150" required/>
     </div>
 </div>
 <div class="field">
-    <label class="label" for="interest">Weshalb möchten Sie an einer Führung teilnehmen?</label>
+    <label class="label" for="age">Wunschtermin *</label>
     <div class="control">
-        <div class="select">
-            <select name="interest">
-                <option>Keine Angabe</option>>
-                <option>Ich habe Interesse an Selbstverwaltung</option>
-                <option>Ich habe Interesse an ökologischem Bauen und Wohnen</option>
-                <option>Ich möchte eventuell selbst einziehen</option>
-                <option>Ich möchte eventuell in das CA investieren als nachhaltige Geldanlage</option>
-                <option>Sonstiges</option>
-            </select>
-        </div>
+        <input class="label" type="date" id="date" name="date" max="2030-12-31" required/>
+    </div>
+    <div class="control">
+        <input class="label" type="time" id="time_start" name="time_start" value="15:00" min="00:00" max="23:59" required/>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="age">Alternativtermin *</label>
+    <div class="control">
+        <input class="label" type="date" id="date_alt" name="date_alt" max="2030-12-31" required/>
+    </div>
+    <div class="control">
+        <input class="label" type="time" id="time_start_alt" name="time_start_alt" value="15:00" min="00:00" max="23:59" required/>
     </div>
 </div>
 <div class="field">
@@ -79,6 +71,7 @@ Dabei erklären wir Ihnen das Wohnkonzept des Wohnprojekts, die Funktionsweise d
     </div>
 </div>
 <p>Nach dem Absenden bekommen Sie eine Bestätigungsmail an Ihre angegebene E-Mail-Adresse.</p>
+<p>Bitte haben Sie Verständnis dafür, dass wir aus Gründen der Kapazität aktuell nur Führungen für größere Gruppen (ab 10 Personen) anbieten können. </p>
 <p>Wir behalten diese Daten nur bis zum Tag der Führung. Danach werden sie gelöscht. In unserer <a href="https://collegiumacademicum.de/datenschutz/">Datenschutzerklärung</a> finden Sie weitere Informationen.</p>
 
 <div class="field">
