@@ -94,6 +94,12 @@ If you answer ‘yes’ to any of these questions, you've come to the right plac
     </div>
 </div>
 <div class="field">
+    <label class="label" for="sonstiges">What else do you want to tell us?</label>
+    <div class="control">
+        <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
+    </div>
+</div>
+<div class="field">
     <label class="label" for="spam_protection">To make sure you are not a computer, we ask you to answer the following question: What is 2 + 7? </label>
     <div class="spam_protection">
         <input class="input" type="text" placeholder="" maxlength="10" name="spam_protection">
