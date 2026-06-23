@@ -13,7 +13,7 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'mail', 'number_people', 'date', 'time_start', 'date_alt', 'time_start_alt', 'fromWhere', 'interest', 'spam_protection'];
+$fields = ['full_name', 'email', 'mail', 'number_people', 'date', 'time_start', 'date_alt', 'time_start_alt', 'fromWhere', 'interest', 'sonstiges', 'spam_protection'];
 
 $i18n = [
     "de" => [
@@ -26,6 +26,7 @@ $i18n = [
         "time_start_alt" => "Alternative Uhrzeit",
         "fromWhere" => "Woher Sie das CA kennen",
         "interest" => "Weshalb Sie Interesse an der Führung haben",
+        "sonstiges" => "Zusätzliche Informationen",
         "registration" => "Anfrage Führung durchs CA",
         "registration-sent" => "anmeldung-verschickt",
 	    "spam-protection" => "spamschutz",
@@ -45,6 +46,7 @@ $i18n = [
         "time_start_alt" => "Alternative time",
         "fromWhere" => "From where you know the CA",
         "interest" => "Why you are interested in the tour",
+        "sonstiges" => "Additional Information",
         "registration" => "Tour request through the CA",
         "registration-sent" => "en/registration-sent",
 	    "spam-protection" => "en/spam-protection",

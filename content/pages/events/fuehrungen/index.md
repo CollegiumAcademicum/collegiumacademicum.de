@@ -31,8 +31,8 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
 </div> 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
 <div class="field extra-field">
-    <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
-    abgefragt, trage bitte hier nichts ein.</label>
+    <label class="label" for="mail">Ihre E-Mail-Adresse wird hier nicht
+    abgefragt, tragen Sie bitte hier nichts ein.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
@@ -91,6 +91,14 @@ Falls Sie eine dieser Fragen mit „Ja” beantworten, sind Sie hier richtig. Wi
                 <option>Sonstiges</option>
             </select>
         </div>
+    </div>
+</div>
+<div class="field">
+    <label class="label" for="sonstiges">Was möchten Sie uns sonst noch mitteilen?</label>
+    <div class="control">
+        <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
+    </div>
+</div>
 <div class="field">
     <label class="label" for="spam_protection">Um sicherzustellen, dass Sie kein
     Computer sind, bitten wir Sie, folgende Frage zu beantworten: Wieviel ist
