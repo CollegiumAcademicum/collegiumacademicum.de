@@ -9,12 +9,12 @@ novoigl: yes
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
-<!-- The next possible move-in date is July 1, 2026. If you would like to move in in July, you can apply here <b>until Sunday, May 3, 2026, 4 pm</b> at the latest.</p> -->
-Unfortunately, we can no longer accept applications for the move-in in July 2026. <b>The next possible move-in date is October 1, 2026.</b> From the beginning of July on you will find our application form on this site. 
+The next possible move-in date is October 1st, 2026. If you would like to move in in October, you can apply here <b>until Friday, July 31st, 2026, 4 pm</b> at the latest.</p> 
+<!-- Unfortunately, we can no longer accept applications for the move-in in July 2026. <b>The next possible move-in date is October 1, 2026.</b> From the beginning of July on you will find our application form on this site. -->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
-<!-- <h2>General</h2>
+<h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
 	<div class="control has-icons-left">
@@ -42,9 +42,9 @@ Unfortunately, we can no longer accept applications for the move-in in July 2026
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> -->
+</div>
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
@@ -69,7 +69,7 @@ Unfortunately, we can no longer accept applications for the move-in in July 2026
     <p class="help is-success">Take a look at <a href="/en/vision">our vision</a>.</p>
 </div>
 <div class="field">
-    <label class="label" for="selbstverwaltung">Why do want to live in self-managed housing? *</label>
+    <label class="label" for="selbstverwaltung">Why do you want to live in self-managed housing? *</label>
     <div class="control">
         <textarea name="selbstverwaltung" class="textarea" placeholder="Pflichtfeld" minlength="300" maxlength="1000" required></textarea>
     </div>
@@ -106,7 +106,7 @@ Unfortunately, we can no longer accept applications for the move-in in July 2026
     <p class="help">Please answer with your expected occupation at the date when you want to move in.</p>
 </div>
 <div class="field">
-    <label class="label" for="occupation_subject">If your studying, in which degree? If doing an apprenticeship, for which job?</label>
+    <label class="label" for="occupation_subject">If you are studying, in which subject? If you are doing an apprenticeship, for which job?</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="occupation_subject">
     </div>
@@ -151,12 +151,14 @@ Unfortunately, we can no longer accept applications for the move-in in July 2026
         <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
     </div>
 </div>
+<!--
 <div class="field">
     <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? --> <!-- It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notive to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well? --> <!-- </label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
 </div>
+-->	
 <div class="field">
     <label class="label" for="knowledge_ca"> How do you know about the CA? </label>
 	<div class="control">
@@ -189,6 +191,6 @@ Unfortunately, we can no longer accept applications for the move-in in July 2026
     </div>
 </div> 
 
- </form> -->
+ </form>
 
 <!-- {{< einziehen-signup >}} -->
