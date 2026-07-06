@@ -13,7 +13,7 @@ Du hast Interesse an einem Zimmer im Altbau ab Oktober 2026? Dann bewirb dich bi
         <span class="icon">
             <i class="icon-home"></i>
         </span>
-        <span>Dann bewirb dich jetzt!</span>
+        <span>Bewirb dich jetzt!</span>
     </a>
 </div>
 
