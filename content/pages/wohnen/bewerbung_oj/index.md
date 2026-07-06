@@ -142,7 +142,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
     <div class="control">
         <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"</textarea>
     </div>
-    <p class="help is-success">Wir nutzen diese Angaben nur, um beim Auswahltag möglichst gut auf dich eingehen bzw. rücksichtsvoll agieren zu können.</p>
+    <p class="help">Wir nutzen diese Angaben nur, um beim Auswahltag möglichst gut auf dich eingehen bzw. rücksichtsvoll agieren zu können.</p>
 </div>
 
 <h2>Zimmer</h2>
