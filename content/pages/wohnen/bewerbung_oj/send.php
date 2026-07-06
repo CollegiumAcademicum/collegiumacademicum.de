@@ -13,14 +13,13 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'preferred_name', 'pronouns', 'email', 'age', 'phone', 'leitbild', 'selbstverwaltung','
-'sonstiges', 'occupation', 'occupation_subject', 'children', 'diversity', 'room', 'doubleroom', 'second_person', 'budget', 'time', 'activity_in_ca', 'language_application_day', 'knowledge_ca', 'spam_protection', 'already_applied'];
+$fields = ['full_name', 'preferred_name', 'pronouns', 'email', 'age', 'phone', 'leitbild', 'selbstverwaltung', 'sonstiges', 'occupation', 'occupation_subject', 'children', 'diversity', 'room', 'double_room', 'second_person', 'budget', 'time', 'activity_in_ca', 'language_application_day', 'knowledge_ca', 'spam_protection', 'already_applied'];
 
 $i18n = [
     "de" => [
         "full_name" => "Name",
 		"preferred_name" => "Ansprechen mit",
-		"pronouns" => "Pronomen"
+		"pronouns" => "Pronomen",
         "email" => "E-mail",
         "age" => "Geburtstag",
         "phone" => "Telefonnummer",
@@ -32,7 +31,7 @@ $i18n = [
         "children" => "Kinder",
 		"diversity" => "Diversitäts- und Marginalisierungsmerkmale",
 		"room" => "Doppel- oder Einzelzimmer?",
-		"doubleroom" => "Gemischtes Doppelzimmer?",
+		"double_room" => "Gemischtes Doppelzimmer?",
 		"second_person" => "Zusammen beworben mit",
 		"budget" => "Budget",
 		"time" => "Wie lange im CA wohnen",
@@ -63,7 +62,7 @@ $i18n = [
         "children" => "Children",
 		"diversity" => "Diversity",
 		"room" => "Double or single room?",
-		"doubleroom" => "mixed doubleroom?",
+		"double_room" => "mixed doubleroom?",
 		"second_person" => "Applied together with",
 		"budget" => "Budget",
 		"time" => "How long do you want to live in the CA?",
