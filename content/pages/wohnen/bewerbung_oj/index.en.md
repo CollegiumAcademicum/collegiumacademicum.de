@@ -177,9 +177,7 @@ Not answering questions in this section will not have a negative impact on your 
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="budget">
     </div>
-	 </div>
     <p class="help">>This information helps us assign you a suitable room and is entirely optional. We don't do this to maximize our profits.</p>
-</div>
 </div>
 <div class="field">
     <label class="label" for="time">How long are you planning to live in the CA? </label>
@@ -200,9 +198,7 @@ Not answering questions in this section will not have a negative impact on your 
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
-	</div>
     <p class="help">If you enter information in this field, we will contact the organization or initiative to discuss your activities so that we can award a potential bonus to your application. This can only have a positive impact on your application.</p>
-</div>
 </div>
 <div class="field">
     <label class="label" for="language_application_day">Would you be able to participate in the application day in German? </label>
