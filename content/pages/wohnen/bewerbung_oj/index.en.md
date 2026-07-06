@@ -134,7 +134,7 @@ Not answering questions in this section will not have a negative impact on your 
 <div class="field">
     <label class="label" for="diversity">Are there any other aspects of diversity or marginalisation that you'd like to share with us? </label>
     <div class="control">
-        <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"</textarea>
+        <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
     </div>
   <!--  <p class="help">We use this information solely to ensure that we can cater to your needs as best as possible and act considerately during the application day.</p> -->
 </div>
@@ -166,7 +166,7 @@ Not answering questions in this section will not have a negative impact on your 
 <div class="field">
     <label class="label" for="second_person">Are you applying together with another person? If yes, please state the full name of that person. </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"second_person">
+        <input class="input" type="text" placeholder="" maxlength="60" name="second_person">
     </div>
 	 </div>
     <p class="help">Please note that both of you have to fill in the application form separately.</p>
@@ -175,7 +175,7 @@ Not answering questions in this section will not have a negative impact on your 
 <div class="field">
     <label class="label" for="budget">What is your budget for the rent? </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"budget">
+        <input class="input" type="text" placeholder="" maxlength="60" name="budget">
     </div>
 	 </div>
     <p class="help">>This information helps us assign you a suitable room and is entirely optional. We don't do this to maximize our profits.</p>
@@ -184,7 +184,7 @@ Not answering questions in this section will not have a negative impact on your 
 <div class="field">
     <label class="label" for="time">How long are you planning to live in the CA? </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"time">
+        <input class="input" type="text" placeholder="" maxlength="60" name="time">
     </div>
 </div>
 
