@@ -140,9 +140,9 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
 <div class="field">
     <label class="label" for="diversity">Gibt es Diversitäts- oder Marginalisierungsmerkmale, die du mit uns teilen möchtest? </label>
     <div class="control">
-        <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"</textarea>
+        <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
     </div>
-   <!-- <p class="help">Wir nutzen diese Angaben nur, um beim Auswahltag möglichst gut auf dich eingehen bzw. rücksichtsvoll agieren zu können.</p> -->
+   <p class="help">Wir nutzen diese Angaben nur, um beim Auswahltag möglichst gut auf dich eingehen bzw. rücksichtsvoll agieren zu können.</p>
 </div>
 
 <h2>Zimmer</h2>
@@ -172,7 +172,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
 <div class="field">
     <label class="label" for="second_person">Bewirbst du dich zusammen mit einer anderen Person? Falls ja, gib bitte den vollen Namen dieser Person an. </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"second_person">
+        <input class="input" type="text" placeholder="" maxlength="60" name="second_person">
     </div>
 	 </div>
     <p class="help">Bitte beachte, dass ihr jeweils eine separate Bewerbung einreichen müsst.</p>
@@ -181,7 +181,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
 <div class="field">
     <label class="label" for="budget">Was ist dein Budget für die Miete? </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"budget">
+        <input class="input" type="text" placeholder="" maxlength="60" name="budget">
     </div>
 	 </div>
     <p class="help">Diese Angabe hilft uns, dir ein passendes Zimmer zuzuteilen. Wir wollen damit nicht unseren Gewinn maximieren.</p>
@@ -190,7 +190,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
 <div class="field">
     <label class="label" for="time">Wie lange möchtest du voraussichtlich im CA wohnen? </label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name"time">
+        <input class="input" type="text" placeholder="" maxlength="60" name="time">
     </div>
 </div>
 
