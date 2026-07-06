@@ -6,16 +6,31 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-<!-- You want to move into one of our rooms in the old building in July 2026?<br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
-Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is October 1, 2026. You can apply for this from the end of July on. We are looking forward to meeting you!
+You want to move into one of our rooms in the old building in October 2026? Then apply right here until the 2nd of August: <!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
+
+<!--You would like to be part of our project and can imagine living here? -->
+
+<div class="buttons is-centered">
+    <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Apply now!</span>
+    </a>
+</div>
+    
+<!-- Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is October 1, 2026. You can apply for this from the end of July on. We are looking forward to meeting you! -->
+The application day will take place on the 23rd of August. We are looking forward to meeting you!
+
 </div> 
 <!-- <b>We are currently not accepting any further applications for temporary rooms. --> <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
 
 Would you like to get a taste of self-administration and live in a sustainable community? Then you've come to the right place here at the ecological and self-managed CA (Collegium Academicum) housing project.
     
-Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. In addition to six social housing apartments and two independently financed apartments, the old building mainly provides living space for up to 50 participants in the falt*r orientation year. As this is currently not fully occupied, we rent out the remaining rooms to people who are interested in our project and would like to live communally.
+Our old building combines a variety of living concepts. Our goal is to bring together different living environments and to enable more people to be able to be a part of communal, self-managed living. In addition to six social housing apartments and two independently financed apartments, the old building mainly provides living space for young people who are interested in our project and would like to live communally. 
+<!-- up to 50 participants in the falt*r orientation year. As this is currently not fully occupied, we rent out the remaining rooms to people who are interested in our project and would like to live communally. -->
 
-Since we can not yet know how many participants the orientation year will have in the coming years, these rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r.
+<!-- Since we can not yet know how many participants the orientation year will have in the coming years, these rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r. -->
 
 The rooms advertised here are located on the 2nd and 3rd floors of our old building and are organized in corridor communities. All rooms can be rented with furniture.
 
@@ -71,10 +86,10 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
-We are currently not accepting any further applications. The next move-in date is October 1. You can apply for this starting beginning of July. <!-- You can find the application form under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br> We are looking forward to meeting you! -->
+<!-- We are currently not accepting any further applications. --> The next move-in date is October 1. You can apply for this using the application form above. <!-- starting beginning of July. --> <!-- You can find the application form under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br> We are looking forward to meeting you! -->
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
-We are currently not accepting any further applications. During the application phase, there is an application form which you can find under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
+>!-- We are currently not accepting any further applications. During the application phase, --> There is an application form which you can find above. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
 {{< /accordion >}}
 {{< accordion "Can I still apply, even if I can only be present once I move in?" >}}
 Yes of course! We can do the get-to-know-you day and the tour of the property in person or online. If possible, we would recommend that you come in person, this makes it easier for you to get to know our project. However, we will make sure, that there is no disadvantage for you, when you participate online.

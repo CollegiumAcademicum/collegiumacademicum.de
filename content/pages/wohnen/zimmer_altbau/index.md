@@ -6,18 +6,29 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-<!-- Du hast Interesse an einem Zimmer im Altbau ab Juli 2026? <br>Dann bewirb dich gern über das Bewerbungsformular unter  <a href="/wohnheim">Wohnheim</a>. Der Auswahltag für den Altbau findet am 24.05.2026 statt. <br>Wir freuen uns auf dich! -->
-Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Oktober 2026. Dafür kannst du dich ab Ende Juli bewerben. Wir freuen uns auf dich!
-</div> 
+Du hast Interesse an einem Zimmer im Altbau ab Oktober 2026? Dann bewirb dich bis zum 02. August hier: 
 
-<!-- <b>Aktuell nehmen wir keine weiteren Bewerbungen für Zimmer im Altbau entgegen. --> <!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich bei Interesse ab Anfang Juli bewerben.--> </b>
+<div class="buttons is-centered">
+    <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
+        <span class="icon">
+            <i class="icon-home"></i>
+        </span>
+        <span>Bewirb dich jetzt!</span>
+    </a>
+</div>
+
+Der Auswahltag für den Altbau findet am 23.08.2026 statt. Wir freuen uns auf dich!
+
+<!-- Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Oktober 2026. Dafür kannst du dich ab Ende Juli bewerben. Wir freuen uns auf dich! -->
+</div> 
 
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
     
-Unser Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben sechs sozialen Mietwohnungen und zwei freifinanzierten Wohnungen bietet der Altbau vor allem Wohnraum für die bis zu 50 Teilnehmenden des Orientierungsjahrs falt*r. Da dieses nächstes Jahr (2025/26) leider nicht stattfinden kann, vermieten wir die Zimmer an Menschen, die Interesse an unserem Projekt und gemeinschaftlichen Wohnen haben. 
+Unser sanierter Altbau vereint eine Vielzahl an Wohnkonzepten. Damit wollen wir unterschiedliche Lebenswelten zusammenbringen und noch mehr Menschen Teilhabe am gemeinschaftlichen, selbstverwalteten Wohnen ermöglichen. Neben sechs sozialen Mietwohnungen und zwei freifinanzierten Wohnungen bietet der Altbau vor allem Wohnraum für junge Menschen in Studium und Ausbildung, die Interesse an unserem Projekt und gemeinschaftlichem Wohnen haben.
+<!-- die bis zu 50 Teilnehmenden des Orientierungsjahrs falt*r. Da dieses nächstes Jahr (2025/26) leider nicht stattfinden kann, vermieten wir die Zimmer an Menschen, die Interesse an unserem Projekt und gemeinschaftlichen Wohnen haben. -->
 <!-- die eine Zwischenmiete suchen, nur für begrenzte Zeit in Heidelberg sind und/oder unverbindlich in unser Wohnprojekt reinschnuppern möchten. -->
 
-Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den darauffolgenden Jahren haben wird, können diese Zimmer von unserer Seite mit einer Frist von 6 Wochen jeweils zum 30.09. eines Jahres gekündigt werden, falls sie für die Teilnehmenden des Orientierungsjahrs falt*r benötigt werden.
+<!-- Da noch unklar ist, wie viele Teilnehmende das Orientierungsjahr in den darauffolgenden Jahren haben wird, können diese Zimmer von unserer Seite mit einer Frist von 6 Wochen jeweils zum 30.09. eines Jahres gekündigt werden, falls sie für die Teilnehmenden des Orientierungsjahrs falt*r benötigt werden. -->
 
 Die hier ausgeschriebenen Zimmer befinden sich im 1. bis 4. Stock unseres Altbaus, sind in Flurgemeinschaften organisiert und können als Einzel- oder Doppelzimmer gemietet werden. Alle Zimmer können möbliert gemietet werden.
 
@@ -48,7 +59,7 @@ Aufgrund unserer Lage auf dem Konversionsgelände US-Hospital ist aktuell um uns
 {{< accordion "Fragen zu den Altbau-WGs" >}}
 
 {{< accordion "Wo befinden sich die WGs?" >}}
-Die Zimmer befinden sich im 1. bis 4. Geschoss unseres schönen, energieeffizient sanierten Altbaus direkt neben dem Wohnheim. Der Altbau beheimatet unsere sechs sozialen Mietwohnungen und zwei ungeförderte Wohnungen sowie unser wachsendes Orientierungsjahr. Zusammen bilden wir eine große Gemeinschaft, die gemeinsam über ihren Wohnraum entscheidet und ihn selbst verwaltet.
+Die Zimmer befinden sich im 1. bis 4. Geschoss unseres schönen, energieeffizient sanierten Altbaus direkt neben dem Wohnheim. Der Altbau beheimatet unsere sechs sozialen Mietwohnungen und zwei ungeförderte Wohnungen sowie WGs für junge Menschen. Zusammen bilden wir eine große Gemeinschaft, die gemeinsam über ihren Wohnraum entscheidet und ihn selbst verwaltet.
 {{< /accordion >}}
 {{< accordion "Wie hoch ist die Miete?" >}}
 Eine Übersicht aller Eckdaten der Wohnungen im Altbau, inklusive der Höhe der Mieten für die einzelnen Zimmer, findest du weiter unten auf dieser Seite.
@@ -76,13 +87,13 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< /accordion >}}
 
 {{< accordion "Fragen zur Bewerbung" >}}
-Aktuell nehmen wir keine weiteren Bewerbungen entgegen.
+<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. -->
 {{< accordion "Wann kann ich einziehen?" >}}
-Aktuell nehmen wir keine weiteren Bewerbungen entgegen. Der nächste Einzugstermin ist der 1. Oktober. <!-- Dafür kannst du dich ab sofort bis zum 03. Mai mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag für den Altbau ist am 24.05.2026. Wir freuen uns auf dich! -->
+<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> Der nächste Einzugstermin ist der 1. Oktober. Dafür kannst du dich ab sofort bis zum 02. August mit dem Bewerbungsformular oben auf dieser Seite bewerben. Der Auswahltag für den Altbau ist am 23.08.2026. Wir freuen uns auf dich!
 <!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 15.02.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
-Wir haben ein Bewerbungsformular. Dieses findest du auf der Seite <a href="/wohnheim">Wohnheim</a>. Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
+Wir haben ein Bewerbungsformular. Dieses findest du oben auf dieser Seite. Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag, der am 23.08. stattfinden wird. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
 {{< /accordion >}}
 {{< accordion "Kann ich mich bewerben, wenn ich erst zum Einzug vor Ort sein kann?" >}}
 Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Präsenz wie auch online machen. Wenn es dir möglich ist, empfehlen wir dir, in Präsenz zu kommen um unser Projekt besser kennenlernen zu können. Wir achten darauf, dass es keinen Nachteil für dich hat, online teilzunehmen.
@@ -91,7 +102,7 @@ Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Pr�
 Uns ist Diversität unter den Mitbewohner*innen wichtig. Wir suchen vor allem nach Studierenden und Menschen in ähnlichen Lebenssituationen, die sich mit unserem Leitbild identifizieren und sich im Projekt einbringen möchten. Da ihr mit vielen Menschen zusammenlebt, ist uns wichtig, dass ihr gut in der Gruppe zusammenleben könnt.
 {{< /accordion >}}
 {{< accordion "Wer gestaltet den Bewerbungsprozess und entscheidet, ob ich einziehen darf?" >}}
-Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Belegium zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
+Für die Organisation des Bewerbungsverfahrens und die Auswahl der Einziehenden ist das Altbaubelegium zuständig. Wir sind Teil der Selbstverwaltung, also eine Gruppe aus Bewohner*innen des CA und organisieren die Belegung in unserer Freizeit.
 {{< /accordion >}}
 {{< accordion "Kann ich mich auch bewerben, wenn ich nicht studiere?" >}}
 Du kannst dich gerne bewerben. Die Mehrheit der Bewohnenden muss jedoch in einer Form der Ausbildung sein, deswegen müssen wir die Einzugsmöglichkeit für jeden Einzelfall neu bewerten. 
