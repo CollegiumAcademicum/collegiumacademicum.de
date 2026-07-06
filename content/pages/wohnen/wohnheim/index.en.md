@@ -62,7 +62,7 @@ Here is how the application for a room in our dormitory works:
     </a> 
 </div> 
 
-By the way: You can additionally apply for a room in our old building as well! Just fill in the form under <a href="/zimmer_altbau">this link</a>!
+By the way: You can additionally apply for a room in our old building as well! Just fill in the form under <a href="/en/rooms_old_building">this link</a>!
 
 1. You fill out the application form <a href="/en/application">application form</a>, either in German or in English. Please take note of the maximum text lengths. 
 2. We read the incoming applications. We would like to invite all applicants who have filled out the application form completely and answered the two questions to our application day. If we want to invite more applicants than can take part in the application day, we first assign places on the basis of a quota to enable apprentices in particular to take part in the application day. After that, we assign places by drawing lots. How many applicants can participate in the application day depends on our capacities, but also on how many rooms will become vacant in the dormitory. Therefore, we can only give you feedback after the application deadline whether you can participate in the application day.
