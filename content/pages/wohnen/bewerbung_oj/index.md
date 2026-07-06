@@ -183,9 +183,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="budget">
     </div>
-	 </div>
-    <p class="help">Diese Angabe hilft uns, dir ein passendes Zimmer zuzuteilen. Wir wollen damit nicht unseren Gewinn maximieren.</p>
-</div>
+    <p class="help">Diese Angabe hilft uns, dir ein passendes Zimmer zuzuteilen. Sie ist komplett freiwillig. Wir wollen damit nicht unseren Gewinn maximieren.</p>
 </div>
 <div class="field">
     <label class="label" for="time">Wie lange möchtest du voraussichtlich im CA wohnen? </label>
@@ -206,9 +204,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
-	</div>
     <p class="help">Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.</p>
-</div>
 </div>
 <div class="field">
     <label class="label" for="language_application_day">Aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?</label>
