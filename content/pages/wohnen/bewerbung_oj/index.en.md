@@ -138,6 +138,7 @@ Not answering questions in this section will not have a negative impact on your 
     </div>
     <p class="help">We use this information solely to ensure that we can cater to your needs as best as possible and act considerately during the application day.</p>
 </div>
+		</div>
 
 <h2>Room</h2>
 <div class="field">
