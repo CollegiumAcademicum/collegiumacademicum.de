@@ -144,6 +144,7 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
     </div>
     <p class="help">Wir nutzen diese Angaben nur, um beim Auswahltag möglichst gut auf dich eingehen bzw. rücksichtsvoll agieren zu können.</p>
 </div>
+		</div>
 
 <h2>Zimmer</h2>
 <div class="field">
