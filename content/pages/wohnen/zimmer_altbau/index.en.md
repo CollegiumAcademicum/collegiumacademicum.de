@@ -6,7 +6,7 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-<!-- You want to move into one of our rooms in the old building in October 2026? Then apply right here until the 2nd of August: <!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
+You want to move into one of our rooms in the old building in October 2026? Then apply right here until the 2nd of August: <!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
 
 <!--You would like to be part of our project and can imagine living here? -->
 
@@ -20,6 +20,8 @@ novoigl: yes
 </div>
     
 <!-- Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is October 1, 2026. You can apply for this from the end of July on. We are looking forward to meeting you! -->
+The application day will take place on the 23rd of August. We are looking forward to meeting you!
+
 </div> 
 <!-- <b>We are currently not accepting any further applications for temporary rooms. --> <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
 
