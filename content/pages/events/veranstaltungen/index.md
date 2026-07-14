@@ -22,9 +22,5 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**Juni 2026** |
-So, 28.06., 18:00 | <a href="https://cantine-hd.de/">CAntine</a>
-**Juli 2026** |
-Sa, 11.07., 15:00 | Sommerfest im CA (<a href="https://cacloud.ca-hd.de/index.php/apps/forms/s/S85MPSb39tRaPtr7NJ4XKawc">Anmeldung</a>)
 **November 2026** |
 Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
