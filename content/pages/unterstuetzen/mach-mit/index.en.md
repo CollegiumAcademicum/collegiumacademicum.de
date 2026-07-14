@@ -4,27 +4,12 @@ slug: "join-us"
 ---
 
 
-<div class="columns">
-    <div class="column">
-        {{< img src="grufo" alt="Die Projektgruppe auf einem Teambuilding Wochenende im Schwarzwald." />}}
-    </div>
-    <div class="column">
-        Do you also wish to have...
-        <ul>
-        <li>a place for crazy dreams?</li>
-        <li>a place where life is colourful and active?</li>
-        <li>a place of knowledge and education?</li>
-        <li>a place to make music and see culture?</li>
-        <li>a place where discussions unfold?</li>
-        </ul>
-    </div>
-</div>
+### Project meetings
 
-Our dream is to make it happen in Heidelberg! To do this we need many [different creative and active people](/en/about-us) with ideas!
-
-Join us and shape your environment yourself!
-Take a chance to construct your own future!
-
-Write us an e-mail or just pass by – we meet **every Wednesday at 6 pm** ([US-Hospital, Karlsruher Straße](https://www.openstreetmap.org/#map=17/49.37609/8.68707)).
-
-## We look forward to meeting you!
+<p style="text-align: justify">
+Much of the work takes place within the project’s various working groups (WGs) and initiatives, which usually meet weekly.
+Every second Wednesday of the month, from 6 pm to 8 pm, the large community plenary takes place on the CA site <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>, usually in the auditorium.
+At the plenary meeting, decisions affecting the entire project are discussed and made.
+Working groups and initiatives can report on their activities, exchange ideas and coordinate their efforts.
+Feel free to pop in if you’re interested in the project, would like to get involved or are even moving in! We look forward to seeing you!
+</p>
