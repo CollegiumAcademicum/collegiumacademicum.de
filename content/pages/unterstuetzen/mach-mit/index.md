@@ -6,41 +6,16 @@ title: "Mach Mit"
 
 <p style="text-align: justify">
 Ein Großteil der Arbeit findet in den verschiedenen Arbeitsgruppen (AGs) und Initiativen des Projekts statt, die sich meist wöchentlich treffen.
-Jeden Mittwochabend von 19 bis 21 Uhr findet auf dem CA-Gelände <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>
-das große Projektplenum statt, meistens in der Aula.
+Jeden zweiten Mittwoch im Monat findet von 18 bis 20 Uhr auf dem CA-Gelände <a href="https://www.openstreetmap.org/#map=17/49.37609/8.68707">Marie-Clauss-Straße 3</a>
+das große Gemeinschaftsplenum statt, meistens in der Aula.
 Im Plenum werden Entscheidungen diskutiert und getroffen, die das gesamte Projekt betreffen.
 AGs und Initiativen können berichten, sich austauschen und sich absprechen.
 Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 </p>
 
-{{< carousel nSlides="10" >}}
+{{< carousel nSlides="8" >}}
 
-<div x-show="activeSlide === 1">
-    <h3>AG Planung Neubau</h3>
-    <div class="grid-col">
-        {{< img src="ag_neubau" />}}
-        <div class="" style="text-align: justify">
-            <p>Zwischen Schreibtisch und Baustelle passiert bei uns alles. Wir haben den Planungsprozess der Architektur zusammen mit der Fachplanung begleitet und im Sinne der offenen Partizipation die Vorstellungen der Projektgruppe vertreten. Genauso nehmen wir als Vertreter*innen der Bauherrschaft an den Bausitzungen teil, treffen Absprachen mit den Baufirmen und sehen unseren schönen Neubau wachsen.</p>
-        </div>
-    </div>
-
-<p style="text-align: justify">
-Die AG Planung kümmert sich um alles, was die Ausführung und die Baustelle betrifft – egal ob es um die Ausschreibungen der Bauleistungen geht oder die Leitungswege für Strom und Wasser der Stadtwerke, die Absprachen mit der Städtischen Wohnungsbaugesellschaft GGH, welche die umliegende Fläche entwickelt oder die Kommunikation mit den Firmen, die auf der Fläche US Hospital arbeiten. Wir stehen dabei in enger Abstimmung mit unserem Bauleiter und weiteren Berater*innen.
-<p>
-
-Aufgaben, die wir bearbeiten, betreffen den Neubau und den Außenraum:<br>
-    
-<ul>
-  <li>Teilnahme an den wöchentlichen Bausitzungen und weiteren Planungssitzungen</li>
-  <li>Planungsentscheidungen vorbereiten und Bindeglied zwischen Projektgruppe und Firmen sein</li>
-  <li>Ausschreibungsbegleitung, Angebotsaufforderungen, Vertragsabsprachen und Beauftragungen</li>
-  <li>Rechnungsprüfung (zusammen mit der AG Finanzierung)</li>
-  <li>Absprachen mit städtischen Ämtern und Versorgern</li>
-</ul>
-
-</div>
-
-<div x-show="activeSlide === 2">
+<!--<div x-show="activeSlide === 2">
     <h3>AG Altbau</h3>
     <div class="grid-col">
         {{< img src="ag_altbau.jpg" />}}
@@ -61,7 +36,7 @@ Unsere Aufgaben sind:
 <p style="text-align: justify">
 Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
 </p>
-</div>
+</div>-->
 
 <!--
 <div x-show="activeSlide === 3">
@@ -86,7 +61,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
 -->
 
 
-<div x-show="activeSlide === 3">
+<div x-show="activeSlide === 1">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -108,7 +83,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
   
 </div>
 
-<div x-show="activeSlide === 4">
+<div x-show="activeSlide === 2">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
@@ -136,7 +111,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
   
 </div>
 
-<div x-show="activeSlide === 5">
+<div x-show="activeSlide === 3">
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -159,7 +134,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 
 </div>
 
-<div x-show="activeSlide === 6">
+<div x-show="activeSlide === 4">
     <h3>AG Bildung</h3>
     <div class="grid-col">
         {{< img src="ag_bildung" />}}
@@ -179,7 +154,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 </div>
 
 
-<div x-show="activeSlide === 7">
+<div x-show="activeSlide === 5">
     <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
@@ -200,7 +175,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   
 </div>
 
-<div x-show="activeSlide === 8">
+<div x-show="activeSlide === 6">
     <h3>Garten-Initiative</h3>
     <div class="grid-col">
         {{< img src="garten_initiative" />}}
@@ -231,7 +206,7 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
 <br>Wir freuen uns auf dich!
 </div>
 
-<div x-show="activeSlide === 9">
+<div x-show="activeSlide === 7">
     <h3>Werkstatt-Initiative</h3>
     <div class="grid-col">
         {{< img src="werkstatt_initiative" attr="Sabine Arndt"/>}}
@@ -276,7 +251,7 @@ Unsere Aufgaben sind:<br>
 Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sich über jede helfende Hand!
 </div>
 
-<div x-show="activeSlide === 10">
+<div x-show="activeSlide === 8">
     <h3>AG Mietverwaltung (wohnheimsintern)</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
