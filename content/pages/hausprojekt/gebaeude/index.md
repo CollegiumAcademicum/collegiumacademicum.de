@@ -90,19 +90,14 @@ Zur Zeit befindet sich das Modell auf <a href="/anfahrt">unserem Gelände</a>.
 Für den innovativen Charakter im Bereich flexiblen Wohnens und das nachhaltige Baukonzept, welches einen Fokus auf Gemeinschaftsflächen legt wird das Projekt mit 2,2 Millionen Euro aus dem Zukunftsinvestitionsprogramm „Variowohnen“  des Bundesbauministerium gefördert.
 </p>
 
-## Orientierungsjahr und sozialer Mietwohnraum im Altbau
+## Sozialer Mietwohnraum im Altbau
 
 <p style="text-align: justify">
 Wir finden: Wo immer sinnvoll, sollte energetische Sanierung Vorrang gegenüber dem Neubau haben.
 Die Sanierung des alten Verwaltungsgebäude des Krankenhauses orientiert sich an zwei wesentlichen
 Zielen: Wir wollen Bildungsfreiräume und zugleich Wohnraum schaffen - beides dauerhaft bezahlbaren und gemeinschaftlich.
 <br><br>
-Im Altbau ist Platz für ca. 80 Menschen, die sich auf unser Orientierungsjahr sowie auf Mietwohnungen verteilen.
-Rund 50 Personen erhalten zwischen Schule und weiterem Lebensweg jedes Jahr die Möglichkeit, im CA ein <a href="https://faltr.de/">Orientierungsjahr</a> zu
-absolvieren. Dieses ermöglich ihnen, verschiedene Studien- und Ausbildungsgänge kennenzulernen und bestärkt sie dabei, die eigene Persönlichkeit weiterzuentwickeln und Verantwortung in der Gesellschaft zu übernehmen.
-Das Orientierungsjahr ist ein wichtiger Bestandteil unseres <a href="/bildung/">Bildungskonzepts</a>.
-Der erste Jahrgang, noch mit reduzierter Teilnehmendenzahl, hat im Januar 2024 begonnen.
-<br><br>
+Im Altbau ist Platz für ca. 80 Menschen, die sich auf WG-Zimmer und Mietwohnungen verteilen.
 Die übrigen Wohnungen im Altbau umfassen eine 2-Zimmer-Wohnung und eine 6-Zimmer-Wohngemeinschaft in Form einer Maisonette-Wohnung
 sowie sechs 3- bis 4-Zimmer-Wohnungen, mit denen wir <a href="https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/stadt-wohnen/wohnraumfoerderung/soziale-wohnraumfoerderung/soziale-wohnraumfoerderung-node.html">sozialen Mietwohnraum</a> schaffen wollen.
 Damit soll eine Anlaufstelle für Menschen mit geringem Einkommen geboten werden, die ihren Wohnungsbedarf nicht auf dem

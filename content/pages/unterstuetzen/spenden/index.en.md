@@ -2,7 +2,9 @@
 title: "Donations"
 ---
 
-With a donation you directly support the CA as an educational project. This includes educational events in the new building such as lectures, workshops or readings. Specifically, you enable practical learning spaces, for example in the <a href="https://faltr.de/">falt*r orientation year</a> and in our wood, metal and bicycle workshops, where residents and interested parties from the neighbourhood can realise their own projects. 
+With a donation you directly support the CA as an educational project. This includes educational events in the new building such as lectures, workshops or readings. Specifically, you enable practical learning spaces, for example
+<!--in the <a href="https://faltr.de/">falt*r orientation year</a> and -->
+in our wood, metal and bicycle workshops, where residents and interested parties from the neighbourhood can realise their own projects. 
 Since 2020, <a href="https://collegiumacademicum.de/aktionen/">work camps</a> with young volunteers have regularly taken place on our construction site, which the Förderverein has subsidised.
 
 If you are interested in donating, please contact us and write to href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>. You can find further information here on our <a href="/media/2023_Spendenflyer_digital.pdf">donations flyer</a> (_in German_).
@@ -25,7 +27,9 @@ If you are interested in donating, please contact us and write to href="mailto:s
 
   <div class="column">
     <p style="text-align:left">
-    The association currently supports the Collegium Academicum primarily in its educational work. Lectures, training courses and workshops. Above all, however, the association is responsible for planning and organising the <a href="https://faltr.de/">orientation year</a>, which offers young people an insight into the basics of various academic, professional and personal development opportunities after leaving school. 
+    The association currently supports the Collegium Academicum primarily in its educational work. Lectures, training courses and workshops. 
+    The association also runs the open workshop and the community garden, as well as overseeing the future use of the refurbished gatehouse. 
+    <!--Above all, however, the association is responsible for planning and organising the <a href="https://faltr.de/">orientation year</a>, which offers young people an insight into the basics of various academic, professional and personal development opportunities after leaving school. -->
     </p>
   </div>
 </div>
@@ -45,14 +49,6 @@ Your donations are welcome - please use one of the bank account details below. I
   <b>IBAN:</b> DE92 4306 0967 6036 6733 00<br>
   GLS Gemeinschaftsbank eG<br>
   <b>Reason for transfer:</b> Donation CA, your name, your e-mail / address
-</div>
-
-<div class="notification is-secondary">
-  <b>Donation for the orientation year</b><br><br>
-  Account holder: Förderverein Collegium Academicum Heidelberg e.V.<br>
-  <b>IBAN:</b> DE65 4306 0967 6036 6733 01<br>
-  GLS Gemeinschaftsbank eG<br>
-  <b>Reason for transfer:</b> Donation orientation year, your name, your e-mail / address
 </div>
 
 

@@ -2,7 +2,9 @@
 title: "Spenden"
 ---
 <p style="text-align: justify">
-Mit einer Spende unterstützen Sie direkt das CA als Bildungsprojekt. Dazu gehören Bildungsveranstaltungen im Neubau wie Vorträge, Workshops oder Lesungen. Ganz konkret ermöglichen Sie praktische Lernräume, zum Beispiel im <a href="https://faltr.de/">Orientierungsjahr falt*r</a> sowie in unseren Holz-, Metall- und Fahrradwerkstätten, in denen Bewohner*innen und Interessierte aus der Nachbarschaft eigene Projekte realisieren können. 
+Mit einer Spende unterstützen Sie direkt das CA als Bildungsprojekt. Dazu gehören Bildungsveranstaltungen im Neubau wie Vorträge, Workshops oder Lesungen. Ganz konkret ermöglichen Sie praktische Lernräume, zum Beispiel 
+<!--im <a href="https://faltr.de/">Orientierungsjahr falt*r</a> sowie-->
+in unseren Holz-, Metall- und Fahrradwerkstätten, in denen Bewohner*innen und Interessierte aus der Nachbarschaft eigene Projekte realisieren können. 
 Seit 2020 fanden auf unserer Baustelle zudem regelmäßig <a href="https://collegiumacademicum.de/aktionen/">Workcamps</a> mit jungen Freiwilligen statt, die der Förderverein finanziell bezuschusst hat.
 <br><br>
 Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf und schreiben Sie an <a href="mailto:spenden@collegiumacademicum.de">spenden@collegiumacademicum.de</a>. Weitere Informationen finden weiter unten auf dieser Seite sowie in unserem Spendenflyer, den Sie <a href="/media/2023_Spendenflyer_digital.pdf">hier</a> herunterladen können.
@@ -25,8 +27,11 @@ Nehmen Sie bei Spendeninteresse gerne Kontakt zu uns auf und schreiben Sie an <a
   <p style="text-align:justify">
   Aktuell unterstützt der Förderverein das Collegium Academicum
   vor allem bei der Bildungsarbeit. So werden Vorträge,
-  Schulungen und Workshops gefördert. Vor allem aber ist der Förderverein mit der Planung
-  und Durchführung des <a href="https://faltr.de/">Orientierungsjahres falt*r</a> beautragt, das jungen Menschen nach der Schule Einblicke in die Grundlagen verschiedener akademischer, berufspraktischer und persönlicher Weiterentwicklungsmöglichkeiten bietet. 
+  Schulungen und Workshops gefördert. 
+  Der Förderverein betreibt außerdem die offene Werkstatt und den Gemeinschaftsgarten sowie die zukünftige
+  Nutzung des sanierten Pförtnerhauses. 
+  <!--Vor allem aber ist der Förderverein mit der Planung
+  und Durchführung des <a href="https://faltr.de/">Orientierungsjahres falt*r</a> beautragt, das jungen Menschen nach der Schule Einblicke in die Grundlagen verschiedener akademischer, berufspraktischer und persönlicher Weiterentwicklungsmöglichkeiten bietet.-->
   </p>
 </section>
 
@@ -62,11 +67,7 @@ Spenden sind natürlich auch per Banküberweisung auf eines der untenstehenden K
   <b>Verwendungszweck:</b> Spende CA, Ihr Name, Ihre Email / Ihre Anschrift
 </div>
 
-<div class="notification">
-  <b>Spende für das Orientierungsjahr</b><br><br>
-  Förderverein Collegium Academicum Heidelberg e.V.<br>
-  <b>IBAN:</b> DE65 4306 0967 6036 6733 01<br>
-  GLS Gemeinschaftsbank eG<br>
-  <b>Verwendungszweck:</b> Spende Orientierungsjahr, Ihr Name, Ihre Email / Ihre Anschrift
-</div>
 
+### Verein
+
+Mehr über unserem gemeinnützigen Verein _„Förderverein Collegium Academicum Heidelberg e.V.“_  und die Möglichkeit der Mitgliedschaft finden Sie unter https://collegiumacademicum.de/foerderverein/. 
