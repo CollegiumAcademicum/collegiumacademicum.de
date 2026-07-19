@@ -203,3 +203,12 @@ other = "Azubi-Wohnen"
 
 [pitch-azubiwohnen]
 other = "Wohn- und Ausbildungsbegleitung : Für einen erfolgreichen Start ins Berufsleben."
+
+[events]
+other = "Veranstaltungsraum mieten"
+
+[events-message]
+other = "Du suchst nach einem Veranstaltungsraum? Wir vermieten unsere Aula und unseren Seminarraum. Stell deine Anfrage am besten über das Kontaktformular."
+
+[events-anfragen]
+other = "Anfragen"

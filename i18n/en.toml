@@ -201,3 +201,12 @@ other = "falt*r - The orientation year"
 
 [pitch-oj]
 other = "Socio-ecological transformation, democracy, community, study and training orientation: these are the core themes of the 10-month orientation year in the old building."
+
+[events]
+other = "Book event venue"
+
+[events-message]
+other = "Are you looking for a venue? We rent out our auditorium and our seminar room. The best way to place your request is via the contact form."
+
+[events-anfragen]
+other = "Make a booking request"
