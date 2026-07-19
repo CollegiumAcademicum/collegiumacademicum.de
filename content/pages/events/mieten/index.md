@@ -7,7 +7,7 @@ slug: "mieten"
 <h2>Aula</h2>
 
 <p style="text-align: justify">
-Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:innen des selbstverwalteten Wohnheims Collegium Academicum. Der 330qm große Raum gliedert sich in das große Gebäude des innovativen Holz-Neubaus ein und wird von der Projektgruppe für verschiedene Arbeitstreffen, das wöchentliche Plenum, sowie weitere gemeinsame interne Veranstaltungen genutzt. Mit ihren 330 Sitzplätzen und 660 Stehplätzen steht die Aula aber auch externen Personen, Gruppen und Vereinen für regelmäßige Treffen oder öffentliche Veranstaltungen zur Verfügung. Die Aula bietet zahlreiche Nutzungsmöglichkeiten und ist individuell, je nach Veranstaltungsart adaptierbar. Sie kann nach Rücksprache mit der AG Raum (der zuständigen Arbeitsgemeinschaft für die Verwaltung der Aula) gebucht und angemietet werden. 
+Die Aula ist der Gemeinschaftsraum und damit quasi das Wohnzimmer der Bewohner:innen des selbstverwalteten Wohnheims Collegium Academicum. Der 330qm große Raum gliedert sich in das große Gebäude des innovativen Holz-Neubaus ein und wird von der Projektgruppe für verschiedene Arbeitstreffen, das Plenum sowie weitere gemeinsame interne Veranstaltungen genutzt. Mit ihren 330 Sitzplätzen und 660 Stehplätzen steht die Aula aber auch externen Personen, Gruppen und Vereinen für regelmäßige Treffen oder öffentliche Veranstaltungen zur Verfügung. Die Aula bietet zahlreiche Nutzungsmöglichkeiten und ist individuell, je nach Veranstaltungsart adaptierbar. Sie kann nach Rücksprache mit der AG Raum (der zuständigen Arbeitsgemeinschaft für die Verwaltung der Aula) gebucht und angemietet werden. 
 </p>
 
 <div class="columns">
