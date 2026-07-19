@@ -31,7 +31,7 @@
 [[main]]
     name = "About us"
     url = "/about-us"
-    weight = 4
+    weight = 3
 [[main]]
     name = "Our vision"
     url = "/vision"
@@ -49,14 +49,9 @@
     parent = "About us"
 
 [[main]]
-    name = "Orientation year faltr"
-    url = "/orientation-year"
-    weight = 3
-
-[[main]]
     name = "Support"
     url = "/support"
-    weight = 3
+    weight = 4
 [[main]]
     name = "Funding"
     url = "/funding"

@@ -79,14 +79,9 @@
     parent = "Über uns"
 
 [[main]]
-    name = "falt*r"
-    url = "/orientierungsjahr"
-    weight = 5
-
-[[main]]
     name = "Events"
     url = "/veranstaltungen"
-    weight = 6
+    weight = 5
 [[main]]
     name = "Veranstaltungen"
     url = "/veranstaltungen"
