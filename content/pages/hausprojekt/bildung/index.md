@@ -64,18 +64,11 @@ welches eine Strahlkraft über das Quartier und den Stadtteil hinaus entwickeln 
 ## Das Orientierungsjahr
 
 <p style="text-align: justify">
-Eine Besonderheit stellt das <a href="https://faltr.de/">Orientierungsjahr Falt*r</a> dar, welches Anfang 2024 starten soll:
-Zwischen Schule und dem nächsten Ausbildungsschritt (z.B. beruflicher Ausbildung oder Studium) wird jungen Menschen,
-die im Altbau des CA gemeinschaftlich leben, ein einjähriges, fachübergreifendes Bildungsprogramm ermöglicht.
-In der kritischen Auseinandersetzung mit verschiedenen Disziplinen und Themen wird die Grundlage für Perspektivwechsel
+Eine Besonderheit stellte das Orientierungsjahr falt*r dar, welches von 2024 bis 2025 stattgefunden hat.
+Zwischen Schule und dem nächsten Ausbildungsschritt (z.B. beruflicher Ausbildung oder Studium) wurde zwei Jahrgängen junger Menschen, die im Altbau des CA gemeinschaftlich lebten, ein einjähriges, fachübergreifendes Bildungsprogramm ermöglicht.
+In der kritischen Auseinandersetzung mit verschiedenen Disziplinen und Themen wurde die Grundlage für Perspektivwechsel
 und interdisziplinäres, gemeinschaftliches Arbeiten gelegt.
-</p>
-
-<p class="aligncenter">
-<a href="https://faltr.de/home">
-     <img alt="Falt*r Logo" src="logo-falter.png"
-     width="100" class="center">
-</a>
+Aktuell arbeiten wir an ähnlichen, anknüpfenden Konzepten, um unsere Angebote zur fachübergreifenden Bildung und Berufsorientierung fortzuführen.
 </p>
 
 <p style="text-align: justify">

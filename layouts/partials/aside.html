@@ -46,7 +46,17 @@
         </div>
       </div>-->
 
-
+      <div class="card">
+      <div class="card-image" style="background-image: url({{ "img/layout/aula.jpg" | relURL }});"></div>
+	    <div class="card-content">
+            <p class="title is-3 is-marginless">{{ i18n "events" }}</p>
+            <p>
+		            {{ i18n "events-message" }}
+            </p>
+            <br>
+            <a href="{{ with .Site.GetPage "/mieten" }}{{ .Permalink }}{{end}}" class="field button is-radiusless is-fullwidth is-link">{{ i18n "events-anfragen" }}</a>
+        </div>
+      </div>
 
       <div class="card">
         <div class="card-image" style="background-image: url({{ "img/layout/fahrrad2.jpg" | relURL }});"></div>
