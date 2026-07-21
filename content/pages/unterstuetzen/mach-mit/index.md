@@ -61,7 +61,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
 -->
 
 
-<div x-show="activeSlide === 1">
+<div x-show="activeSlide === 7">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -206,49 +206,31 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
 <br>Wir freuen uns auf dich!
 </div>
 
-<div x-show="activeSlide === 7">
-    <h3>Werkstatt-Initiative</h3>
+<div x-show="activeSlide === 1">
+    <h3>AG Werkstatt</h3>
     <div class="grid-col">
-        {{< img src="werkstatt_initiative" attr="Sabine Arndt"/>}}
+        {{< img src="ag_werkstatt" attr="CA"/>}}
         <div class="" style="text-align: justify">
-            Die Werkstatt Initiative steht für gemeinsames Bohren, Basteln und Bauen –
-            und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop!
-            Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim.
-            Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir.
+            Die AG Werkstatt steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop! Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim. Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir. Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt. Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt. Jede Woche legen wir als AG Werkstatt einen Termin fest, an dem wir die unterschiedlichsten Bau und Reparaturarbeiten angehen. 
 
-            Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt.
-            Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert
-            und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt.
-            In regelmäßigen Abständen planen wir als Werkstatt-Initiative zudem Eigenleistungs-Wochenenden,
-            bei denen unterschiedlichste Bau- und Reparaturarbeiten anstehen.
+
         </div>
     </div>
 <br>
 <p style="text-align: justify">
-Das Coolste ist: Man lernt immer etwas Neues! Vom Küche anschließen, übers Fußbodenlegen bis hin zum Wände einreißen,
-gibt es immer wieder was anderes zu tun.
-Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß.
-Auch die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs angeboten werden,
-tragen zwar nicht unbedingt zur Produktivität wohl aber zur Motivation bei.
+Das Coolste ist: Man lernt immer etwas Neues! Vom Lattenrost bauen, übers Wasserhahn reparieren bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun. Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß. Auch die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs angeboten werden, tragen zwar nicht unbedingt zur Produktivität wohl aber zur Motivation bei. 
 <br>
 <br>
-Momentan fiebern wir auf die Fertigstellung unserer neuen Werkstatt hin, die demnächst im Neubau eröffnet wird.
-Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der
-Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen.
-So wollen wir nachhaltiges Werkeln mit Holz für noch mehr Menschen zugänglich machen.
-Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „gemeinsam leben und lernen“.
-So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.
+Doch das ist noch nicht alles: Die AG Werkstatt ist verbunden mit verschiedenen Untergruppen, dazu gehören…
 </p>
-Unsere Aufgaben sind:<br>
 
-<ul>
-  <li>Konzeptionierung der offenen Werkstatt</li>
-  <li>Betreuung des Inventars & Werkzeugausleihe</li>
-  <li>Koordinierung von Eigenleistungseinsätzen im Neubau</li>
-  <li>Workshops zur Vermittlung handwerklicher Fertigkeiten ("Skillshares")</li>
+<ul class="dot-list">
+  <li><b>die offene Holz- und Metall- Lern-Werkstatt (HuML):</b><br>Diese öffnet voraussichtlich im September 2026 im Neubau. Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen. So wollen wir nachhaltiges Werkeln mit Holz und Metall für noch mehr Menschen zugänglich machen. Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „Gemeinsam leben und lernen“. So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.</li>
+  <li><b>das Fräs-Team:</b><br>Zwar wurden mittlerweile schon viele Möbel mit der CNC-Fräse hergestellt, trotzdem gibt es hin und wieder Bedarf Teile nachzufräsen. Auch für andere Projekte abgesehen von den klassischen CA-Möbeln kann die Fräse sehr gut zum Einsatz kommen. Da die Bedienung schon etwas mehr als nur handwerkliches Geschick erfordert, hat sich eine Gruppen gebildet, die sich intensiv mit der Nutzung der CNC-Fräse beschäftigt: Das Fräs-Team.</li>
+  <li><b>die Fahrrad Gruppe:</b><br>Die Fahrrad Gruppe koordiniert einen Raum im Altbau, in dem sowohl CA-Bewohnende als auch Menschen aus der Umgebung ihr Fahrrad reparieren können. Zu den Öffnungszeiten wird Werkzeug bereitgestellt und es gibt Unterstützung durch erfahrene Fahrradbastler*innen aus der Fahrrad Initiative. Weitere Informationen und die aktuellen Öffnungszeiten der Fahrrad-Werkstatt gibt es unter <a href="{{< relref "/pages/hausprojekt/fahrradwerkstatt" >}}">Hausprojekt > Fahrradwerkstatt</a>. </li>
 </ul>
 <br>
-Die Werkstatt-Initiative trifft sich aktuell donnerstags um 18 Uhr und freut sich über jede helfende Hand!
+Die Gruppen arbeiten selbstverständlich eng zusammen, das ist nicht nur wichtig für die Koordination der Aufgaben, sondern auch für unser Gemeinschaftsgefühl! 
 </div>
 
 <div x-show="activeSlide === 8">
