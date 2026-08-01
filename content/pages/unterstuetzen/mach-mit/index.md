@@ -13,55 +13,59 @@ AGs und Initiativen können berichten, sich austauschen und sich absprechen.
 Komm gerne vorbei, wenn du am Projekt interessiert bist, einsteigen möchtest oder auch einziehst! Wir freuen uns auf dich!
 </p>
 
-{{< carousel nSlides="8" >}}
+## Arbeitsgruppen und Initiativen (AGs)
 
-<!--<div x-show="activeSlide === 2">
-    <h3>AG Altbau</h3>
+{{< carousel nSlides="9" >}}
+
+<div x-show="activeSlide === 1">
+    <h3>AG Werkstatt</h3>
     <div class="grid-col">
-        {{< img src="ag_altbau.jpg" />}}
+        {{< img src="ag_werkstatt" attr="CA"/>}}
         <div class="" style="text-align: justify">
-            <p>Wir koordinieren die Sanierung! Neben dem schmucken Holzbau gehören zwei tolle <a href="/altbauten">Altbauten</a> zum CA, die als Wohn- und Gemeinschaftsraum dienen werden und bei denen für die neue Nutzung Sanierungsbedarf besteht. Im Gegensatz zum Neubau ist hier noch lange nicht alles in trockenen Tüchern, wir sind mitten in der spannenden Planungsphase und du kannst noch voll mit einsteigen und gestalten!</p>
+            Die AG Werkstatt steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop! Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim. Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir. Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt. Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt. Jede Woche legen wir als AG Werkstatt einen Termin fest, an dem wir die unterschiedlichsten Bau und Reparaturarbeiten angehen. 
+
+
         </div>
     </div>
-
-Unsere Aufgaben sind: 
-
-<ul>
-  <li>Konzeption der Innenräume - wie ist gemeinschaftliches Wohnen am schönsten?</li>
-  <li>Kommunikation mit unserem Architekturbüro und weiteren Fachplaner*innen.</li>
-  <li>Mitanpacken! Bei der Sanierung der Altbauten übernehmen wir viele Dinge in Eigenleistung. Dazu finden wöchentlich Arbeitseinsätze statt und wir organisieren einige große Altbau-Workcamps.</li>
-  <li>Planung für das Orientierungsjahr: Wir wollen Bildung anders denken! Ein Jahr voller Möglichkeiten und ohne Druck, das ist die Vision für das Orientierungsjahr, deren Teilnehmer*innen im Altbau wohnen und lernen werden.</li>
-</ul>
 <br>
 <p style="text-align: justify">
-Falls du dir jetzt denkst: "Das hab ich ja noch nie gemacht!" - kein Problem, wir haben und erwarten keine beruflichen Vorerfahrungen, sondern lernen gemeinsam, wie wir die anstehenden Probleme lösen können und freuen uns über deine Unterstützung! 
+Das Coolste ist: Man lernt immer etwas Neues! Vom Lattenrost bauen, übers Wasserhahn reparieren bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun. Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß. Auch die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs angeboten werden, tragen zwar nicht unbedingt zur Produktivität wohl aber zur Motivation bei. 
+<br>
+<br>
+Doch das ist noch nicht alles: Die AG Werkstatt ist verbunden mit verschiedenen Untergruppen, dazu gehören…
 </p>
-</div>-->
 
-<!--
-<div x-show="activeSlide === 3">
-    <h3>AG Eigenleistung</h3>
+<ul class="dot-list">
+  <li><b>die offene Holz- und Metall-Lern-Werkstatt (HuML):</b><br>Diese öffnet voraussichtlich im September 2026 im Neubau. Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen. So wollen wir nachhaltiges Werkeln mit Holz und Metall für noch mehr Menschen zugänglich machen. Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „Gemeinsam leben und lernen“. So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.</li>
+  <li><b>das Fräs-Team:</b><br>Zwar wurden mittlerweile schon viele Möbel mit der CNC-Fräse hergestellt, trotzdem gibt es hin und wieder Bedarf Teile nachzufräsen. Auch für andere Projekte abgesehen von den klassischen CA-Möbeln kann die Fräse sehr gut zum Einsatz kommen. Da die Bedienung schon etwas mehr als nur handwerkliches Geschick erfordert, hat sich eine Gruppen gebildet, die sich intensiv mit der Nutzung der CNC-Fräse beschäftigt: Das Fräs-Team.</li>
+  <li><b>die Fahrrad Gruppe:</b><br>Die Fahrrad Gruppe koordiniert einen Raum im Altbau, in dem sowohl CA-Bewohnende als auch Menschen aus der Umgebung ihr Fahrrad reparieren können. Zu den Öffnungszeiten wird Werkzeug bereitgestellt und es gibt Unterstützung durch erfahrene Fahrradbastler*innen aus der Fahrrad Initiative. Weitere Informationen und die aktuellen Öffnungszeiten der Fahrrad-Werkstatt gibt es unter <a href="{{< relref "/pages/hausprojekt/fahrradwerkstatt" >}}">Hausprojekt > Fahrradwerkstatt</a>. </li>
+</ul>
+<br>
+Die Gruppen arbeiten selbstverständlich eng zusammen, das ist nicht nur wichtig für die Koordination der Aufgaben, sondern auch für unser Gemeinschaftsgefühl! 
+</div>
+
+
+<div x-show="activeSlide === 2">
+    <h3>AG Raum</h3>
     <div class="grid-col">
-        {{< video "2021_Eigenleistung" >}}
-        <div class="">
-            <p>Wir wollen werkeln! Das steckt hinter dem Begriff der AG Eigenleistung.</p>
-            <p>So viel wie möglich selbst herzustellen – dieser Leitgedanke ist nicht nur mit vielen gemeinsamen Stunden Spaß in unserer selbst eingerichteten Werkstatt verbunden, sondern spart gleichzeitig Kosten.</p>
+        {{< img src="ag_raum" attr="CA"/>}}
+        <div class="" style="text-align: justify">
+            Hey, wir sind die AG Raum, ein offener und bunt gemischter Haufen an Personen, die Bock auf Kultur, Austausch und Begegnung haben. Wir kümmern uns vorwiegend um die öffentlichen und zu mietenden Räumlichkeiten unseres Projektes. Darunter zählt zum Einen unsere große Aula mit der Gemeinschaftsküche, Bar, unserer Musikanlage, Beamer, Leinwand und vielen individuellen Nutzungsmöglichkeiten, zum anderen unser Seminarraum, der durch eine flexible Trennwand in zwei kleinere Räume geteilt werden kann. In unseren Räumlichkeiten finden regelmäßig Veranstaltungen verschiedenster Art statt. Von Partys und Feiern über Vorträge und Lesungen bis hin zu Workshops, Austauschtreffen und Tagungen ist alles mit dabei. 
         </div>
     </div>
-
-Das Herzstück der Werkstatt ist unsere CNC-Holzfräse, mit der wir größtenteils Tische, Betten und Schränke für die Wohnheimzimmer herstellen. Die AG Eigenleistung kümmert sich unter anderem darum, dass die Schiebewände im späteren Wohnheim reibungslos laufen. Bis sich unsere Prototypen für die Massenproduktion qualifizieren, bedarf es viel gemeinsamem Brainstorming, Konstruieren und Tüfteln. Dabei lernen wir, indem wir an Frässchulungen teilnehmen, uns von Schreiner*innen beraten lassen und schlichtweg ausprobieren. In regelmäßigen Abständen finden zudem Eigenleistungs-Wochenenden statt, bei welchen unterschiedlichste Aufgaben anstehen und jede helfende Hand willkommen ist.
 <br>
-Außerdem veranstalten wir <a href="/summerschool">Workcamps, bei denen wir Bauen und Bildung verbinden:</a> Im Sommer 2020 fand unser erstes und deutsch-französisches Workcamp statt, und auch im August und September 2021 haben wir gleich drei Workcamps veranstaltet. 
-<br>
-Damit wir diesen Sommer einziehen können, erledigen wir bei den <a href="/aktionen">Partizipativen Baustellen</a> wichtige finale Aufgaben in Neubau und Altbau und <b>freuen uns über alle, die mithelfen</b>!
-<br>
-Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Laptop Ausgleich suchst, komm vorbei! Wir sehen uns in der Werkstatt 😊
-
+<p style="text-align: justify">
+Wir als AG Raum sind die erste Anlaufstelle für alle, die eine Veranstaltung ausrichten oder sich an einer beteiligen möchten, ganz egal ob intern oder extern. Wir beraten zu den Möglichkeiten der Raumnutzung und kümmern uns um die Kommunikation, Planung und Koordination, den Aufbau des Raumes z.B. durch Bestuhlung und die technische Ausstattung am Veranstaltungstag. Wir sind auch während der Veranstaltungen vor Ort oder zumindest erreichbar, um bei Bedarf zu helfen und Fragen zu beantworten. Anschließend kümmern wir uns auch darum, dass die Räumlichkeiten wieder sauber und aufgeräumt sind und instand gehalten werden.
+<br><br>
+An unsere AG angegliedert existiert seit April 2024 der Kulturverein über den wir hin und wieder auch eigene Veranstaltungen organisieren, zum Beispiel unsere regelmäßige Wohnheimsparty RambaCAmba. Hierfür gilt es, Getränke zu besorgen, Bar- und andere Schichten zu füllen und die Aula zu dekorieren und technisch auszustatten. Bei allen öffentlichen Veranstaltungen sind jederzeit alle Interessierte willkommen, sich mit eigenen Ideen und Beiträgen einzubringen.
+<br><br>
+Kurzum, wir sind stets darum bemüht, das Gemeinschaftsleben etwas bunter zu gestalten und den Alltag der Menschen durch vielfältige kulturelle Beiträge zu bereichern. Darüber hinaus sind wir als AG Raum auch für die Verwaltungsarbeiten rund um die Räumlichkeiten zuständig, z.B. für die Verwaltung der Raumnutzungsverträge und die Buchhaltung der Mieteinnahmen. 
+<br><br>
+Wir freuen uns immer über neue Anfragen und  Kooperationsmöglichkeiten sowie helfende Hände und kreative Ideen. Vielleicht bist ja auch du interessiert, dann melde dich einfach bei uns!
+</p>
 </div>
--->
 
-
-<div x-show="activeSlide === 7">
+<div x-show="activeSlide === 3">
     <h3>AG Öffentlichkeit</h3>
     <div class="grid-col">
         {{< img src="ag_oeffentlichkeit" />}}
@@ -83,7 +87,7 @@ Wenn du Spaß an handwerklichen Arbeiten hast und nach langen Tagen vor dem Lapt
   
 </div>
 
-<div x-show="activeSlide === 2">
+<div x-show="activeSlide === 4">
     <h3>AG Finanzierung</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
@@ -111,7 +115,7 @@ Die Unterarbeitsgruppe Buchhaltung ist für die Dokumentation unserer Finanzen z
   
 </div>
 
-<div x-show="activeSlide === 3">
+<div x-show="activeSlide === 5">
     <h3>AG IT</h3>
     <div class="grid-col">
         {{< img src="ag_it" />}}
@@ -134,7 +138,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 
 </div>
 
-<div x-show="activeSlide === 4">
+<div x-show="activeSlide === 6">
     <h3>AG Bildung</h3>
     <div class="grid-col">
         {{< img src="ag_bildung" />}}
@@ -154,7 +158,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
 </div>
 
 
-<div x-show="activeSlide === 5">
+<div x-show="activeSlide === 7">
     <h3>Initiative Gemeinschaft</h3>
     <div class="grid-col">
         {{< img src="ag_gemeinschaft" />}}
@@ -175,7 +179,7 @@ Die einzige Voraussetzung ist, dass du Lust hast, mit Linux zu arbeiten und in d
   
 </div>
 
-<div x-show="activeSlide === 6">
+<div x-show="activeSlide === 8">
     <h3>Garten-Initiative</h3>
     <div class="grid-col">
         {{< img src="garten_initiative" />}}
@@ -206,34 +210,8 @@ dann komm doch gerne zu einem unserer wöchentlichen Treffen, jeden Sonntag um 1
 <br>Wir freuen uns auf dich!
 </div>
 
-<div x-show="activeSlide === 1">
-    <h3>AG Werkstatt</h3>
-    <div class="grid-col">
-        {{< img src="ag_werkstatt" attr="CA"/>}}
-        <div class="" style="text-align: justify">
-            Die AG Werkstatt steht für gemeinsames Bohren, Basteln und Bauen – und ist damit der perfekte Ausgleich zum Arbeitsalltag am Laptop! Das Beste dabei ist, es entstehen ziemlich coole und praktische Dinge für unser Wohnheim. Denn je mehr wir selbst herstellen, desto kostengünstiger und ressourcenschonender leben wir. Unsere Schränke, Betten und Schreibtische haben wir beispielsweise mit unserer eigenen CNC-Fräse hergestellt. Auch die Schiebetüren für unsere flexiblen Zimmer haben wir in Eigenleistung konzeptioniert, ausprobiert und schließlich in Serienproduktion für das gesamte Wohnheim angefertigt. Jede Woche legen wir als AG Werkstatt einen Termin fest, an dem wir die unterschiedlichsten Bau und Reparaturarbeiten angehen. 
 
-
-        </div>
-    </div>
-<br>
-<p style="text-align: justify">
-Das Coolste ist: Man lernt immer etwas Neues! Vom Lattenrost bauen, übers Wasserhahn reparieren bis hin zum Wände einreißen, gibt es immer wieder was anderes zu tun. Und wenn das Baustellenradio läuft, macht die Arbeit an Fußleisten, Holzbänken und Co. noch mehr Spaß. Auch die unzähligen Kaffees, Kuchenstücke oder Lieblingsgerichte, die uns während der Arbeiten in den WGs angeboten werden, tragen zwar nicht unbedingt zur Produktivität wohl aber zur Motivation bei. 
-<br>
-<br>
-Doch das ist noch nicht alles: Die AG Werkstatt ist verbunden mit verschiedenen Untergruppen, dazu gehören…
-</p>
-
-<ul class="dot-list">
-  <li><b>die offene Holz- und Metall- Lern-Werkstatt (HuML):</b><br>Diese öffnet voraussichtlich im September 2026 im Neubau. Als offene Werkstatt richtet sie sich nicht nur an alle Bewohnenden, sondern auch an interessierte Menschen aus der Nachbarschaft, die Lust haben, ihre Do-It-Yourself-Projekte in die Tat umzusetzen. So wollen wir nachhaltiges Werkeln mit Holz und Metall für noch mehr Menschen zugänglich machen. Die offene Werkstatt lebt vom gegenseitigen Austausch – ganz nach unserem Motiv „Gemeinsam leben und lernen“. So zählen auch regelmäßige öffentliche Workshops und Skillshares zum Angebot der offenen Werkstatt.</li>
-  <li><b>das Fräs-Team:</b><br>Zwar wurden mittlerweile schon viele Möbel mit der CNC-Fräse hergestellt, trotzdem gibt es hin und wieder Bedarf Teile nachzufräsen. Auch für andere Projekte abgesehen von den klassischen CA-Möbeln kann die Fräse sehr gut zum Einsatz kommen. Da die Bedienung schon etwas mehr als nur handwerkliches Geschick erfordert, hat sich eine Gruppen gebildet, die sich intensiv mit der Nutzung der CNC-Fräse beschäftigt: Das Fräs-Team.</li>
-  <li><b>die Fahrrad Gruppe:</b><br>Die Fahrrad Gruppe koordiniert einen Raum im Altbau, in dem sowohl CA-Bewohnende als auch Menschen aus der Umgebung ihr Fahrrad reparieren können. Zu den Öffnungszeiten wird Werkzeug bereitgestellt und es gibt Unterstützung durch erfahrene Fahrradbastler*innen aus der Fahrrad Initiative. Weitere Informationen und die aktuellen Öffnungszeiten der Fahrrad-Werkstatt gibt es unter <a href="{{< relref "/pages/hausprojekt/fahrradwerkstatt" >}}">Hausprojekt > Fahrradwerkstatt</a>. </li>
-</ul>
-<br>
-Die Gruppen arbeiten selbstverständlich eng zusammen, das ist nicht nur wichtig für die Koordination der Aufgaben, sondern auch für unser Gemeinschaftsgefühl! 
-</div>
-
-<div x-show="activeSlide === 8">
+<div x-show="activeSlide === 9">
     <h3>AG Mietverwaltung (wohnheimsintern)</h3>
     <div class="grid-col">
         {{< img src="ag_finanzierung" />}}
@@ -252,6 +230,35 @@ Zu unseren Aufgaben gehören:<br>
   <li>Das Finden von (individuellen) Lösungen bei Problemen, die das Mietverhältnis betreffen.</li>
 </ul>
 
+</div>
+
+{{< /carousel >}}
+
+## Gremien
+
+{{< carousel nSlides="1" >}}
+
+<div x-show="activeSlide === 1">
+    <h3>Altbau-Belegium</h3>
+    <div class="grid-col">
+        {{< img src="altbau_belegium_251209_konstantin_masson" attr="Konstantin Masson"/>}}
+        <div class="" style="text-align: justify">
+            <p>Wir sind das Gremium, das für die Belegung des Altbaus zuständig ist. Wir führen die Auswahlgespräche mit den Bewerbenden, entwickeln gemeinsam Konsense für die Belegung und organisieren das Kennenlernen zwischen den Altbau-WGs und den Neueinziehenden. Da das sehr viel Verantwortung bedeutet, sind wir ein vom Projekt gewähltes Gremium, das aktuell aus drei Bewohnenden besteht.</p>
+        </div>
+    </div>
+
+Zu unseren konkreten Aufgaben gehört:
+
+<ul>
+  <li>Einladung der Bewerbenden</li>
+  <li>Organisation und Durchführung des Auswahltags mit Auswahlgesprächen, Projektvorstellung und gemeinsamem Kennenlernen</li>
+  <li>Auswahl der Bewerbenden</li>
+  <li>Verteilung der Einzel- und Doppelzimmer innerhalb der WGs</li>
+  <li>Vernetzung der Neueinziehenden im Projekt</li>
+  <li>Verwaltung des Bewerbungsportals auf unserer Website</li>
+  <li>Entwicklung von Altbaubelegungskonsensen zusammen mit dem Projekt</li>
+  <li>Unterstützung der FFWs bei Zimmernachbelegungen</li>
+</ul>
 </div>
 
 {{< /carousel >}}
