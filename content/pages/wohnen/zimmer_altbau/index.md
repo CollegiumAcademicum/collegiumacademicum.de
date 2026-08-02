@@ -19,7 +19,7 @@ novoigl: yes
 
 <!—- Der Auswahltag für den Altbau findet am 23.08.2026 statt. Wir freuen uns auf dich! -—>
 
-Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen entgegen. Der nächstmögliche Einzugstermin ist der 1. Januar 2026. Dafür kannst du dich ab Anfang Oktober bewerben. Wir freuen uns auf dich!
+Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen entgegen. Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich ab Anfang Oktober bewerben. Wir freuen uns auf dich!
 </div> 
 
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
@@ -89,7 +89,7 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< accordion "Fragen zur Bewerbung" >}}
 <!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. -->
 {{< accordion "Wann kann ich einziehen?" >}}
-Aktuell nehmen wir keine weiteren Bewerbungen entgegen. Der nächste Einzugstermin ist der 1. Januar. Dafür kannst du dich ab Anfang Oktober<!-- sofort bis zum 02. August mit dem Bewerbungsformular oben auf dieser Seite --> bewerben. Der Auswahltag für den Altbau ist am 23.08.2026. Wir freuen uns auf dich!
+Aktuell nehmen wir keine weiteren Bewerbungen entgegen. Der nächste Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich ab Anfang Oktober<!-- sofort bis zum 02. August mit dem Bewerbungsformular oben auf dieser Seite --> bewerben. Der Auswahltag für den Altbau ist am 23.08.2026. Wir freuen uns auf dich!
 <!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 29.11.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
