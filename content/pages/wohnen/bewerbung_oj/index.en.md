@@ -7,10 +7,10 @@ novoigl: yes
 <form action="/bewerbung_oj/send.php" method="post" accept-charset="utf-8">
 <p>Awesome that you're interested in moving into the CA!
 
-<!-- Unfortunately, applications are closed right now. -->
+Unfortunately, applications are closed right now.
 
-The next possible move-in date is October 1st 2026. You can apply for this starting now. The application day will take place on the 30th of August 2026.</p> 
-
+The next possible move-in date is January 1st 2027. You can apply for this starting beginning of October. The application day will take place on the 29th of November 2026.</p> 
+<!--
  <h2>General information</h2>
 <div class="field">
     <label class="label" for="full_name">Full name *</label>
@@ -57,8 +57,9 @@ The next possible move-in date is October 1st 2026. You can apply for this start
             <i class="icon-phone"></i>
         </span>
     </div>
-</div> 
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
+ <!--
  <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
@@ -135,8 +136,9 @@ Not answering questions in this section will not have a negative impact on your 
     <label class="label" for="diversity">Are there any other aspects of diversity or marginalisation that you'd like to share with us? </label>
     <div class="control">
         <textarea name="diversity" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
-    </div>
+    </div> -->
   <!--  <p class="help">We use this information solely to ensure that we can cater to your needs as best as possible and act considerately during the application day.</p> -->
+<!--
 </div>
 
 <h2>Room</h2>
@@ -229,4 +231,4 @@ Not answering questions in this section will not have a negative impact on your 
     </div>
 </div>
 
- </form>
+ </form> -->
