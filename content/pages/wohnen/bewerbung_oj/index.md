@@ -7,10 +7,10 @@ novoigl: yes
 <form action="/bewerbung_oj/send.php" method="post" accept-charset="utf-8">
 <p>Schön, dass du Lust hast, bei uns einzuziehen!
 
-<!-- Leider nehmen wir aktuell keine weiteren Bewerbungen entgegen. -->
+Leider nehmen wir aktuell keine weiteren Bewerbungen entgegen.
 
-Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dich ab sofort hier bewerben. Der Auswahltag findet am 23.08.2025 statt.</p> 
-
+Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich ab Anfang Oktober hier bewerben. Der Auswahltag findet am 29.11.2026 statt.</p> 
+<!--
  <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Vor- und Nachname *</label>
@@ -57,8 +57,9 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
             <i class="icon-phone"></i>
         </span>
     </div>
-</div>
+</div> -->
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
+<!--
 <div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
@@ -237,4 +238,4 @@ Der nächstmögliche Einzugstermin ist der 1. Oktober 2025. Dafür kannst du dic
     </div>
 </div>
 
- </form>
+ </form> -->
