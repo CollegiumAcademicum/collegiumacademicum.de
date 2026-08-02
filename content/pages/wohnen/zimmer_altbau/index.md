@@ -6,20 +6,20 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-Du hast Interesse an einem Zimmer im Altbau ab Oktober 2026? Dann bewirb dich bis zum 02. August hier: 
+<!-- Du hast Interesse an einem Zimmer im Altbau ab Oktober 2026? Dann bewirb dich bis zum 02. August hier: -—>
 
-<div class="buttons is-centered">
+<!-- <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Bewirb dich jetzt!</span>
     </a>
-</div>
+</div> -—>
 
-Der Auswahltag für den Altbau findet am 23.08.2026 statt. Wir freuen uns auf dich!
+<!—- Der Auswahltag für den Altbau findet am 23.08.2026 statt. Wir freuen uns auf dich! -—>
 
-<!-- Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen für Zimmer im Altbau entgegen. Der nächstmögliche Einzugstermin ist der 1. Oktober 2026. Dafür kannst du dich ab Ende Juli bewerben. Wir freuen uns auf dich! -->
+Schön, dass du Interesse an einem Zimmer in unserem Altbau hast! Aktuell nehmen wir leider keine weiteren Bewerbungen entgegen. Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich ab Anfang Oktober bewerben. Wir freuen uns auf dich!
 </div> 
 
 Du hast Lust, mal in Selbstverwaltung reinzuschnuppern? Auf nachhaltiges und ökologisches Wohnen in der Gemeinschaft? Dann bist du bei uns, dem ökologischen und selbstverwalteten Wohnprojekt CA (Collegium Academicum), genau richtig.
@@ -89,11 +89,11 @@ Ja, jede Wohnung verfügt über ein eigenes WLAN und die Gemeinschaftsräume des
 {{< accordion "Fragen zur Bewerbung" >}}
 <!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. -->
 {{< accordion "Wann kann ich einziehen?" >}}
-<!-- Aktuell nehmen wir keine weiteren Bewerbungen entgegen. --> Der nächste Einzugstermin ist der 1. Oktober. Dafür kannst du dich ab sofort bis zum 02. August mit dem Bewerbungsformular oben auf dieser Seite bewerben. Der Auswahltag für den Altbau ist am 23.08.2026. Wir freuen uns auf dich!
-<!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 15.02.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
+Aktuell nehmen wir keine weiteren Bewerbungen entgegen. Der nächste Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich ab Anfang Oktober<!-- sofort bis zum 02. August mit dem Bewerbungsformular oben auf dieser Seite --> bewerben. Der Auswahltag für den Altbau ist am 23.08.2026. Wir freuen uns auf dich!
+<!-- sofort mit dem Bewerbungsformular unter <a href="/wohnheim">Wohnheim</a> bewerben. Der Auswahltag ist am 29.11.2026. Wir freuen uns auf dich! --> <!-- Aktuell nehmen wir keine Bewerbungen entgegen.-->
 {{< /accordion >}}
 {{< accordion "Wie läuft die Bewerbung ab?" >}}
-Wir haben ein Bewerbungsformular. Dieses findest du oben auf dieser Seite. Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag, der am 23.08. stattfinden wird. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
+Wir haben ein Bewerbungsformular. <!-- Dieses findest du oben auf dieser Seite. -->Die Auswahl von Bewerbenden erfolgt dann am sogenannten Auswahltag, der am 29.11. stattfinden wird. Für nähere Infos zum Ablauf schau einmal unter <ahref="/wohnheim">Wohnheim</a>.
 {{< /accordion >}}
 {{< accordion "Kann ich mich bewerben, wenn ich erst zum Einzug vor Ort sein kann?" >}}
 Ja klar, wir können das Kennenlernen und die Besichtigung mit dir sowohl in Präsenz wie auch online machen. Wenn es dir möglich ist, empfehlen wir dir, in Präsenz zu kommen um unser Projekt besser kennenlernen zu können. Wir achten darauf, dass es keinen Nachteil für dich hat, online teilzunehmen.
