@@ -6,21 +6,21 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-You want to move into one of our rooms in the old building in October 2026? Then apply right here until the 2nd of August: <!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
+<!--You want to move into one of our rooms in the old building in October 2026? Then apply right here until the 2nd of August: --><!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
 
 <!--You would like to be part of our project and can imagine living here? -->
 
-<div class="buttons is-centered">
+<!--<div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
         <span class="icon">
             <i class="icon-home"></i>
         </span>
         <span>Apply now!</span>
     </a>
-</div>
+</div>-->
     
-<!-- Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is October 1, 2026. You can apply for this from the end of July on. We are looking forward to meeting you! -->
-The application day will take place on the 23rd of August. We are looking forward to meeting you!
+Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is January 1, 2026. You can apply for this from the beginning of October on. 
+The application day will take place on the 29th of November. We are looking forward to meeting you!
 
 </div> 
 <!-- <b>We are currently not accepting any further applications for temporary rooms. --> <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
@@ -86,10 +86,10 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
-<!-- We are currently not accepting any further applications. --> The next move-in date is October 1. You can apply for this using the application form above. <!-- starting beginning of July. --> <!-- You can find the application form under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br> We are looking forward to meeting you! -->
+We are currently not accepting any further applications. The next move-in date is January 1. You can apply for this <!--using the application form above. --> starting beginning of October. <!-- You can find the application form under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br> --> We are looking forward to meeting you!
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
->!-- We are currently not accepting any further applications. During the application phase, --> There is an application form which you can find above. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
+We are currently not accepting any further applications. During the application phase, there is an application form <!--which you can find above -->. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
 {{< /accordion >}}
 {{< accordion "Can I still apply, even if I can only be present once I move in?" >}}
 Yes of course! We can do the get-to-know-you day and the tour of the property in person or online. If possible, we would recommend that you come in person, this makes it easier for you to get to know our project. However, we will make sure, that there is no disadvantage for you, when you participate online.
