@@ -78,7 +78,7 @@ Unfortunately, we can no longer accept applications for the move-in in October 2
     </div>
 </div>
 <div class="field">
-    <label class="label" for="sonstiges">Is there something else we should know about you?</label>
+    <label class="label" for="sonstiges">Please tell us a little more about you personally:</label>
     <div class="control">
         <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
     </div>
