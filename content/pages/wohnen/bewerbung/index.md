@@ -79,7 +79,7 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 <div class="field">
-    <label class="label" for="sonstiges">Was willst du uns sonst noch über dich erzählen?</label>
+    <label class="label" for="sonstiges">Erzähl uns gerne noch etwas über dich persönlich:</label>
     <div class="control">
         <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
     </div>
