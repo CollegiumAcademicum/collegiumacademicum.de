@@ -77,6 +77,7 @@ Wir freuen uns immer über neue Anfragen und  Kooperationsmöglichkeiten sowie h
 
 <ul>
   <li>Das CA bekannter machen :-)</li>
+  <li>Führungen organisieren und durchführen</li>
   <li>Design von Plakaten, Flyern, Stickern etc.</li>
   <li>Presse, Magazine etc. anschreiben & Kontakt halten</li>
   <li>(digitale) Veranstaltungen organisieren</li>
