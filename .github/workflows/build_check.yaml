@@ -1,0 +1,36 @@
+name: PR Build Check
+
+on:
+  pull_request:
+    branches: ["master"]
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.96.0
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.96.0/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Build with Hugo and Juice
+        run: bash build_prod.sh
+
+      - name: Upload build output (optional, for manual inspection)
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-preview
+          path: upload/
+          retention-days: 7
