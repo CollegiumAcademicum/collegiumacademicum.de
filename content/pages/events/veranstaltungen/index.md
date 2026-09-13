@@ -3,7 +3,7 @@ title: "Veranstaltungen"
 ---
 
 <p style="text-align:center">
-Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in der Tabelle unten und auf:
+Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in der Tabelle unten und zum Teil auf:
 </p>
 
 <p style="text-align:center">
@@ -22,5 +22,8 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
+**September 2026** |
+Sa, 19.9., 14-19 Uhr | <a href="https://stadt-land-spielt.de/">Stadt-Land-Spielt</a> in unserer Aula, s.a. <a href="{{< relref "/aktuelles" >}}">Aktuelles</a> |
+So, 20.9., 14-19 Uhr | <a href="https://stadt-land-spielt.de/">Stadt-Land-Spielt</a> in unserer Aula |
 **November 2026** |
 Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
