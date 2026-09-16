@@ -90,10 +90,6 @@ Samstag, 25.01.2025
 
 - In unserem direkt anschließenden Diskussionspanel mit Gäst\*innen aus Deutschland und Kurdistan sprachen wir über Krieg und Frieden. Wie ist die Situation nach dem Sturz des Assad-Regimes? Wer sind die Akteure in den aktuellen Auseinandersetzungen und welche Interessen verfolgen sie? Welche Rolle und Verantwortung hat Deutschland? Und vor allem: Wie kann Solidarität mit der Zivilbevölkerung gelingen, was braucht es für den Frieden und welche demokratischen Lösungsperspektiven gibt es? (<b>mit Leyla Îmret, MdB Max Lucks, MdB Gökay Akbulut und Sara Stachelhaus</b>).
 
-<figure>
-<img alt="" src="3_Frieden_2.png" width="100%" />
-</figure>
-
 <b>19:30 Uhr</b>: gemeinsames Abendessen und Kulturprogramm
 - Wir haben den Tag gemeinsam in einem lockeren Rahmen ausklingen lassen. Es gab ein selbstgekochtes Abendessen, ein kurdisch-anatolisches Kulturprogramm und natürlich Einblicke in das selbstorganisierte Wohnen und Feiern im CA!
 </div>
