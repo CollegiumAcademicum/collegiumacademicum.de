@@ -105,11 +105,6 @@ Sonntag, 26.01.2025
 <b>10 Uhr</b>: Perspektive Sicherheit
 - Mit einem Vortrag über die Idee des Abolitionismus, also die Abschaffung der Polizei, näherten wir uns dem Thema Sicherheit zunächst aus theoretischer Perspektive. Inwiefern es beim Abolitionismus nicht nur um das Abschaffen einer Institution, sondern das Schaffen von neuen, demokratischeren Strukturen geht, erklärte uns unser Gast von der Universität Heidelberg (mit <b>Prof. Dr. Michael Haus</b>).
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rO53oxCzx5k?si=8pcqyP0CwEynJSEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<br><br>
-
 <b>11 Uhr</b>: Sicherheit in Rojava
 - Hier erhielten wir einen Einblick in die Wirklichkeit in Rojava. Wie wird in einer von Krieg zerrütteten Region Sicherheit organisiert? Und welche Strukturen gibt es, um dies selbstverwaltet und möglichst ohne Gewaltstrukturen zu erreichen? Über neue Wege um Frieden, Gerechtigkeit und Sicherheit zu denken (Livestream mit einem <b>Asayîş-Mitglied</b> aus der Autonomen Administration Nord- und Ostsyrien).
 
