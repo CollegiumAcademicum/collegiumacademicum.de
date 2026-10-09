@@ -8,13 +8,13 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-<!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2026. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 31. Juli um 16 Uhr </b> hier dafür bewerben:</p> -->
+ Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben:</p> 
 
-Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.
+<!--Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.-->
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-<!--
+
 <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
@@ -44,9 +44,9 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
         </span>
     </div>
 </div> 
--->
+
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!-- <div class="field extra-field">
+<!--<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -54,6 +54,8 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
             id="mail" size="55"/>
     </div> 
 </div>
+-->
+
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
@@ -117,6 +119,9 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     <p class="help">Falls du unter Tätigkeit "Sonstiges" angegeben hast, kannst du hier auch eine Ergänzung schreiben.</p>
 </div>
 <hr>
+
+
+
 <div class="field">
     <label class="label" for="pronouns">Mit welchen Pronomen möchtest du angesprochen werden? (z.B. sie/ihr, er/ihm, dey/deren)</label>
     <div class="control">
@@ -124,6 +129,15 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 <hr>
+
+<div class="field">
+    <label class="label" for="flinta">Identifizierst du dich selbst als FLINTA*?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="flinta">
+    </div>
+</div>
+
+
 <div class="field">
     <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung
         angewiesen?</label>
@@ -131,6 +145,8 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
         <input class="input" type="text" placeholder="" maxlength="60" name="barrier_free">
     </div>
 </div>
+
+
 <div class="field">
     <label class="label" for="children">Hast du Kinder, die mit dir einziehen würden?</label>
     <div class="control">
@@ -144,6 +160,14 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
         <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="move_in_date">Für welches Einzugsdatum möchtest du dich bewerben? (1. Januar 2027, oder 1. April 2027)</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="move_in_date">
+    </div>
+</div>
+
 <div class="field">
 <label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.)</label>
     <div class="control">
@@ -151,12 +175,12 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 <div class="field">
-    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?</label>
+    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: In welchen Sprachen könntest du gut am Auswahltag teilnehmen? (Deutsch, Englisch, oder Beides)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
     </div>
 </div>
--->
+
 
 <!--
 <div class="field">
@@ -166,7 +190,7 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 -->		
-<!--
+
 <div class="field">
     <label class="label" for="knowledge_ca"> Wie bist du auf das CA gekommen? </label>
 	<div class="control">
@@ -201,6 +225,5 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
 </div>
 
  </form>
- -->
 
 <!-- {{< einziehen-signup >}} -->

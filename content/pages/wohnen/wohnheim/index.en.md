@@ -10,10 +10,11 @@ After a long planning and construction phase, the first 176 residents finally mo
 
 In our dormitory, we are regularly looking for new residents to fill vacant rooms.
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
-Unfortunately, applications for October 2026 move-in are already closed.
+<!--Unfortunately, applications for October 2026 move-in are already closed.-->
 The next possible move-in date is January 1, 2027.
-You can apply for this starting from the beginning of October via the application form below. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  
-<!--You can apply for this <b>until Friday, July 31st, 4 pm at the latest</b> via the application form here on our website. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :). -->
+<!--You can apply for this starting from the beginning of October via the application form below. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  -->
+You can apply for this <b>until Friday, November 6th, 4 pm at the latest</b> via the application form here on our website. 
+<!--On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  -->
 
 We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
 
@@ -54,7 +55,6 @@ As we usually receive more applications than we can offer rooms, we do have to f
 
 Here is how the application for a room in our dormitory works:
 
-<!--
 <div class="buttons is-centered">
     <a href="{{< relref "/pages/wohnen/bewerbung" >}}" class="button is-medium is-primary">
         <span class="icon">
@@ -63,7 +63,6 @@ Here is how the application for a room in our dormitory works:
         <span>Application form</span>
     </a> 
 </div> 
--->
 
 By the way: You can additionally apply for a room in our old building as well! Just fill in the form under <a href="/en/rooms_old_building">this link</a>!
 
