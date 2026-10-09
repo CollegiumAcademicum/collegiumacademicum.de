@@ -46,7 +46,7 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
 </div> 
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!--<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -54,6 +54,7 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
             id="mail" size="55"/>
     </div> 
 </div>
+-->
 
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
@@ -159,6 +160,14 @@ Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April u
         <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="move_in_date">Für welches Einzugsdatum möchtest du dich bewerben? (1. Januar 2027, oder 1. April 2027)</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="move_in_date">
+    </div>
+</div>
+
 <div class="field">
 <label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.)</label>
     <div class="control">
