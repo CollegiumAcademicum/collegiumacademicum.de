@@ -9,12 +9,11 @@ novoigl: yes
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
-<!-- The next possible move-in date is October 1st, 2026. If you would like to move in in October, you can apply here <b>until Friday, July 31st, 2026, 4 pm</b> at the latest.</p>  -->
-Unfortunately, we can no longer accept applications for the move-in in October 2026. <b>The next possible move-in date is January 1, 2027.</b> From the beginning of October you will find our application form on this site.
+The next possible move-in date is January 1st 2027. If you would like to move in in January, you can apply here <b>until Friday, November 6th 2026, 4 pm</b> at the latest.</p>
+<!--Unfortunately, we can no longer accept applications for the move-in in October 2026. <b>The next possible move-in date is January 1, 2027.</b> From the beginning of October you will find our application form on this site.-->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
-<!--
 <h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
@@ -44,9 +43,9 @@ Unfortunately, we can no longer accept applications for the move-in in October 2
         </span>
     </div>
 </div>
--->
+
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
-<!--
+
 <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
@@ -122,6 +121,15 @@ Unfortunately, we can no longer accept applications for the move-in in October 2
         <input class="input" type="text" placeholder="" maxlength="60" name="pronouns">
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="flinta">Do you identify as FLINTA*?</label>
+    <div class="control">
+        <input class="input" type="text" placeholder="" maxlength="60" name="flinta">
+    </div>
+</div>
+
+
 <hr>
 <div class="field">
     <label class="label" for="barrier_free">Do you need accessible (barrier-free) housing?</label>
@@ -149,21 +157,21 @@ Unfortunately, we can no longer accept applications for the move-in in October 2
     </div>
 </div>
 <div class="field">
-    <label class="label" for="language_application_day">For organizational reasons: Would you prefer having the application day in German or English?</label>
+    <label class="label" for="language_application_day">For organizational reasons: In which languages could you participate at the Application Day? (German, English, or Both)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
     </div>
 </div>
--->
+
 <!--
 <div class="field">
-    <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? --> <!-- It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notive to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well? --> <!-- </label>
+    <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? --> It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well? <!-- </label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
 </div>
 -->	
-<!--
+
 <div class="field">
     <label class="label" for="knowledge_ca"> How do you know about the CA? </label>
 	<div class="control">
@@ -197,6 +205,5 @@ Unfortunately, we can no longer accept applications for the move-in in October 2
 </div> 
 
  </form>
- -->	
 
 <!-- {{< einziehen-signup >}} -->
