@@ -10,7 +10,7 @@ After a long planning and construction phase, the first 176 residents finally mo
 
 In our dormitory, we are regularly looking for new residents to fill vacant rooms.
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
-Unfortunately, applications for October 2026 move-in are already closed.
+<!--Unfortunately, applications for October 2026 move-in are already closed.-->
 The next possible move-in date is January 1, 2027.
 <!--You can apply for this starting from the beginning of October via the application form below. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  -->
 You can apply for this <b>until Friday, November 6th, 4 pm at the latest</b> via the application form here on our website. 
