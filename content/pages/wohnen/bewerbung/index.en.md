@@ -72,6 +72,19 @@ Your participation will not be documented. It does not give you any direct advan
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="move_in_date">For which moving in date do you want to apply?</label>
+    <div class="control">
+        <div class="select">
+            <select name="move_in_date">
+                <option>1st January 2027</option>
+                <option>1st April 2027</option>
+            </select>
+        </div>
+    </div>
+</div>
+
 <h2>Text questions</h2>
 <p>To learn about you and how good you would fit into the CA, we ask you three
     longer text questions. Please keep it short and answer in less than
@@ -150,31 +163,45 @@ Your participation will not be documented. It does not give you any direct advan
     <p class="help">FLINTA means: Women, Lesbians, Intersex, Nonbinary, Trans, Agender.</p>
 </div>
 
-
 <div class="field">
     <label class="label" for="barrier_free">Do you need accessible (barrier-free) housing?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="barrier_free">
-    </div>
-</div>
-<div class="field">
-    <label class="label" for="children">Do you have childen that live with you?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="children">
-    </div>
-</div>
-<h2>Other information</h2>
-<div class="field">
-    <label class="label" for="already_applied">Have you previously applied for a place in our dormitory?</label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
+        <div class="select">
+            <select name="barrier_free">
+                <option>No Answer</option>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+        </div>
     </div>
 </div>
 
 <div class="field">
-    <label class="label" for="move_in_date">For which moving in date do you want to apply? (1st January 2027, or 1st April 2027)</label>
+    <label class="label" for="children">Do you have childen that live with you?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="move_in_date">
+        <div class="select">
+            <select name="children">
+                <option>No Answer</option>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+        </div>
+    </div>
+</div>
+
+
+<h2>Other information</h2>
+
+<div class="field">
+    <label class="label" for="already_applied">Have you previously applied for a place in our dormitory?</label>
+    <div class="control">
+        <div class="select">
+            <select name="already_applied">
+                <option>No Answer</option>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+        </div>
     </div>
 </div>
 
@@ -184,16 +211,23 @@ Your participation will not be documented. It does not give you any direct advan
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
 </div>
+
 <div class="field">
-    <label class="label" for="language_application_day">For organizational reasons: In which languages could you participate at the Application Day? (German, English, or Both)</label>
+    <label class="label" for="language_application_day">For organizational reasons: In which languages could you participate at the Application Day?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
+        <div class="select">
+            <select name="language_application_day">
+                <option>English</option>
+                <option>German</option>
+				<option>Both English and German</option>
+            </select>
+        </div>
     </div>
 </div>
 
 <!--
 <div class="field">
-    <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? --> It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well? <!-- </label>
+    <label class="label" for="rooms_in_altbau"> Are you applying for a room in the new or the old building? --> <!-- It is possible that there will also be free rooms in our old building. The rent of these rooms is different depending on their size and the rooms can be terminated by us with 6-week notice to 30.09. of each year if they are needed for the participants of the orientation year falt*r. You can find further information on our website under Rooms in the old Building. Are you interested in these rooms as well?-->  <!-- </label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="rooms_in_altbau">
     </div>
