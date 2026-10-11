@@ -10,6 +10,16 @@ novoigl: yes
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
 The next possible move-in date is January 1st 2027. If you would like to move in in January, you can apply here <b>until Friday, November 6th 2026, 4 pm</b> at the latest.</p>
+
+An optional information session will take place on the <b>25th of October</b>.</p>
+<b>Here’s how to participate:</b>
+Just come to the CA.
+Or send us an email. We’ll then send you a link to participate online.</p>
+<b>Why is this worth it?</b>
+You’ll get a feel for what self-governance means. And you’ll see if life at the CA is right for you.</p>
+<b>Important:</b>
+Your participation will not be documented. It does not give you any direct advantage on selection day.
+
 <!--Unfortunately, we can no longer accept applications for the move-in in October 2026. <b>The next possible move-in date is January 1, 2027.</b> From the beginning of October you will find our application form on this site.-->
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
@@ -46,14 +56,14 @@ The next possible move-in date is January 1st 2027. If you would like to move in
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
 
-<!--<div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
         <input type="email" name="mail" value="" class="input email"
             id="mail" size="55"/>
     </div>
 </div>
--->
+
 
 
 <div class="field">
@@ -124,15 +134,23 @@ The next possible move-in date is January 1st 2027. If you would like to move in
         <input class="input" type="text" placeholder="" maxlength="60" name="pronouns">
     </div>
 </div>
+<hr>
 
 <div class="field">
     <label class="label" for="flinta">Do you identify as FLINTA*?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="flinta">
+        <div class="select">
+            <select name="flinta">
+                <option>No Answer</option>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+        </div>
     </div>
+    <p class="help">FLINTA means: Women, Lesbians, Intersex, Nonbinary, Trans, Agender.</p>
 </div>
 
-<hr>
+
 <div class="field">
     <label class="label" for="barrier_free">Do you need accessible (barrier-free) housing?</label>
     <div class="control">
