@@ -142,13 +142,20 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
 </div>
 <hr>
 
+</p>
 <div class="field">
     <label class="label" for="flinta">Identifizierst du dich selbst als FLINTA*?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="flinta">
+        <div class="select">
+            <select name="flinta">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
+    <p class="help">FLINTA bedeutet: Frauen, Lesben, Intersex, Nicht-Binär, Trans, Agender.</p>
 </div>
-
 
 <div class="field">
     <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung
