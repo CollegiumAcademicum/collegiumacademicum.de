@@ -8,7 +8,19 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
- Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben:</p> 
+Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben.</p>
+
+Am <b>25.10.</b> findet ein freiwilliger Infoabend statt.</p>
+
+<b>So nimmst du teil:</b>
+Komm einfach ins CA.
+Oder schreib uns eine Mail. Dann schicken wir dir einen Link für die Online-Teilnahme.</p>
+
+<b>Warum lohnt sich das?</b>
+Du bekommst ein Gefühl dafür, was Selbstverwaltung bedeutet. Und du merkst, ob das Leben im CA zu dir passt.</p>
+
+<b>Wichtig:</b>
+Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil beim Auswahltag.
 
 <!--Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.-->
 
