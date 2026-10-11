@@ -13,27 +13,29 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'age', 'mail', 'leitbild', 'selbstverwaltung',
-'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'pronouns',
-'barrier_free', 'children', 'language_application_day', 'spam_protection', 'knowledge_ca', 'already_applied'];
+$fields = ['full_name', 'email', 'age', 'phone', 'mail', 'leitbild', 'selbstverwaltung',
+'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'pronouns', 'flinta',
+'barrier_free', 'children', 'language_application_day', 'spam_protection', 'knowledge_ca', 'already_applied', 'move_in_date'];
 
 $i18n = [
     "de" => [
         "full_name" => "Name",
         "email" => "E-mail",
+		"phone" => "Telefonnummer",
         "age" => "Geburtstag",
         "leitbild" => "Leitbild",
         "selbstverwaltung" => "Selbstverwaltung",
         "sonstiges" => "Über dich",
         "activity_in_ca" => "Aktivität im CA",
         "already_applied" => "Schon einmal beworben",
+		"move_in_date" => "Gewünschtes Einzugsdatum",
         "occupation" => "offizielle Tätigkeit",
         "occupation_subject" => "Fach/Beruf",
         "pronouns" => "Pronomen",
+		"flinta" => "FLINTA",
         "barrier_free" => "Barrierefreiheit",
         "children" => "Kinder",
         "language_application_day" => "Sprache",
-	"rooms_in_altbau" => "Interesse an Zimmern im Altbau",
 	"knowledge_ca" => "Wie kommst du auf das CA",
         "application" => "Bewerbung",
         "application-sent" => "bewerbung-verschickt",
@@ -47,19 +49,21 @@ $i18n = [
     "en" => [
         "full_name" => "Name",
         "email" => "E-mail",
+		"phone" => "Phone Number",
         "age" => "Birthday",
         "leitbild" => "Our Vision",
         "selbstverwaltung" => "Self-management",
         "sonstiges" => "About you",
         "activity_in_ca" => "Activity in CA",
         "already_applied" => "Already applied",
+		"move_in_date" => "Wants to move in on",
         "occupation" => "Occupation",
         "occupation_subject" => "Subject/Job",
         "pronouns" => "Pronouns",
+		"flinta" => "FLINTA",
         "barrier_free" => "Accessibility",
         "children" => "Children",
         "language_application_day" => "Language",
-	"rooms_in_altbau" => "Interest in rooms in the old building", 
 	"knowledge_ca" => "How do you know about the CA",
         "application" => "Application",
         "application-sent" => "en/application-sent",
