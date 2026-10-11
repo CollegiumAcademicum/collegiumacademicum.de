@@ -134,6 +134,7 @@ Your participation will not be documented. It does not give you any direct advan
         <input class="input" type="text" placeholder="" maxlength="60" name="pronouns">
     </div>
 </div>
+<hr>
 
 <div class="field">
     <label class="label" for="flinta">Do you identify as FLINTA*?</label>
@@ -142,7 +143,21 @@ Your participation will not be documented. It does not give you any direct advan
     </div>
 </div>
 
-<hr>
+<div class="field">
+    <label class="label" for="flinta">Do you identify as FLINTA*?</label>
+    <div class="control">
+        <div class="select">
+            <select name="flinta">
+                <option>No Answer</option>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+        </div>
+    </div>
+    <p class="help">FLINTA means: Women, Lesbians, Intersex, Nonbinary, Trans, Agender.</p>
+</div>
+
+
 <div class="field">
     <label class="label" for="barrier_free">Do you need accessible (barrier-free) housing?</label>
     <div class="control">
