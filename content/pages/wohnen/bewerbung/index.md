@@ -58,7 +58,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
 </div> 
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!--<div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -66,7 +66,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
             id="mail" size="55"/>
     </div> 
 </div>
--->
+
 
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
@@ -74,6 +74,19 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="move_in_date">Für welches Einzugsdatum möchtest du dich bewerben?</label>
+    <div class="control">
+        <div class="select">
+            <select name="move_in_date">
+                <option>1. Januar 2027</option>
+                <option>1. April 2027</option>
+            </select>
+        </div>
+    </div>
+</div>
+
 <h2>Textfragen</h2>
 <p>Um dich und deine Einstellung zum CA kennenzulernen, haben wir hier
     drei ausführlichere Fragen. Bitte beantworte sie in je höchstens 1.000
@@ -157,33 +170,45 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
     <p class="help">FLINTA bedeutet: Frauen, Lesben, Intersex, Nicht-Binär, Trans, Agender.</p>
 </div>
 
+
 <div class="field">
-    <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung
-        angewiesen?</label>
+    <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung angewiesen?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="barrier_free">
+        <div class="select">
+            <select name="barrier_free">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
-
 
 <div class="field">
     <label class="label" for="children">Hast du Kinder, die mit dir einziehen würden?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="children">
-    </div>
-</div>
-<h2>Weiteres</h2>
-<div class="field">
-    <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben? </label>
-    <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
+        <div class="select">
+            <select name="children">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
 
+<h2>Weiteres</h2>
+
 <div class="field">
-    <label class="label" for="move_in_date">Für welches Einzugsdatum möchtest du dich bewerben? (1. Januar 2027, oder 1. April 2027)</label>
+    <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="move_in_date">
+        <div class="select">
+            <select name="already_applied">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
 
@@ -193,10 +218,17 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
 </div>
+
 <div class="field">
-    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: In welchen Sprachen könntest du gut am Auswahltag teilnehmen? (Deutsch, Englisch, oder Beides)</label>
+    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: In welchen Sprachen könntest du gut am Auswahltag teilnehmen?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
+        <div class="select">
+            <select name="language_application_day">
+                <option>Deutsch</option>
+                <option>Englisch</option>
+                <option>Beides</option>
+            </select>
+        </div>
     </div>
 </div>
 
