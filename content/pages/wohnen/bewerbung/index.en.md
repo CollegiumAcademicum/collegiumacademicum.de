@@ -139,13 +139,6 @@ Your participation will not be documented. It does not give you any direct advan
 <div class="field">
     <label class="label" for="flinta">Do you identify as FLINTA*?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="flinta">
-    </div>
-</div>
-
-<div class="field">
-    <label class="label" for="flinta">Do you identify as FLINTA*?</label>
-    <div class="control">
         <div class="select">
             <select name="flinta">
                 <option>No Answer</option>
