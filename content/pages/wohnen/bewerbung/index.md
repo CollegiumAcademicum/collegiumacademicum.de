@@ -8,13 +8,25 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-<!-- Der nächstmögliche Einzugstermin ist der 1. Oktober 2026. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 31. Juli um 16 Uhr </b> hier dafür bewerben:</p> -->
+Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Oktober bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben.</p>
 
-Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.
+Am <b>25.10.</b> findet ein freiwilliger Infoabend statt.</p>
+
+<b>So nimmst du teil:</b>
+Komm einfach ins CA.
+Oder schreib uns eine Mail. Dann schicken wir dir einen Link für die Online-Teilnahme.</p>
+
+<b>Warum lohnt sich das?</b>
+Du bekommst ein Gefühl dafür, was Selbstverwaltung bedeutet. Und du merkst, ob das Leben im CA zu dir passt.</p>
+
+<b>Wichtig:</b>
+Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil beim Auswahltag.
+
+<!--Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.-->
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-<!--
+
 <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
@@ -44,9 +56,9 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
         </span>
     </div>
 </div> 
--->
+
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<!-- <div class="field extra-field">
+<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -54,12 +66,27 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
             id="mail" size="55"/>
     </div> 
 </div>
+
+
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
         <input class="input required" type="date" id="age" name="age" value="2001-01-01" min="1940-01-01" max="2010-12-31" required />
     </div>
 </div>
+
+<div class="field">
+    <label class="label" for="move_in_date">Für welches Einzugsdatum möchtest du dich bewerben?</label>
+    <div class="control">
+        <div class="select">
+            <select name="move_in_date">
+                <option>1. Januar 2027</option>
+                <option>1. April 2027</option>
+            </select>
+        </div>
+    </div>
+</div>
+
 <h2>Textfragen</h2>
 <p>Um dich und deine Einstellung zum CA kennenzulernen, haben wir hier
     drei ausführlichere Fragen. Bitte beantworte sie in je höchstens 1.000
@@ -117,6 +144,9 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     <p class="help">Falls du unter Tätigkeit "Sonstiges" angegeben hast, kannst du hier auch eine Ergänzung schreiben.</p>
 </div>
 <hr>
+
+
+
 <div class="field">
     <label class="label" for="pronouns">Mit welchen Pronomen möchtest du angesprochen werden? (z.B. sie/ihr, er/ihm, dey/deren)</label>
     <div class="control">
@@ -124,39 +154,84 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 <hr>
+
+</p>
 <div class="field">
-    <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung
-        angewiesen?</label>
+    <label class="label" for="flinta">Identifizierst du dich selbst als FLINTA*?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="barrier_free">
+        <div class="select">
+            <select name="flinta">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
+    </div>
+    <p class="help">FLINTA bedeutet: Frauen, Lesben, Intersex, Nicht-Binär, Trans, Agender.</p>
+</div>
+
+
+<div class="field">
+    <label class="label" for="barrier_free">Bist du auf eine barrierefreie Wohnung angewiesen?</label>
+    <div class="control">
+        <div class="select">
+            <select name="barrier_free">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
+
 <div class="field">
     <label class="label" for="children">Hast du Kinder, die mit dir einziehen würden?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="children">
+        <div class="select">
+            <select name="children">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
+
 <h2>Weiteres</h2>
+
 <div class="field">
-    <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben? </label>
+    <label class="label" for="already_applied">Hast du dich schon einmal für einen Platz in unserem Wohnheim beworben?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="already_applied">
+        <div class="select">
+            <select name="already_applied">
+                <option>Keine Angabe</option>
+                <option>Ja</option>
+                <option>Nein</option>
+            </select>
+        </div>
     </div>
 </div>
+
 <div class="field">
 <label class="label" for="activity_in_ca">Bist du oder warst du bereits im CA aktiv und falls ja, wo? (Falls du in diesem Feld etwas angibst, treten wir mit der angegebenen AG/Initiative in den Austausch über deine Aktivität, um einen möglichen Bonus bei deiner Bewerbung vergeben zu können. Dies kann ausschließlich positive Auswirkungen auf deine Bewerbung haben.)</label>
     <div class="control">
         <input class="input" type="text" placeholder="" maxlength="60" name="activity_in_ca">
     </div>
 </div>
+
 <div class="field">
-    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: Könntest du auch auf Englisch gut am Auswahltag teilnehmen?</label>
+    <label class="label" for="language_application_day">Nur aus organisatorischen Gründen: In welchen Sprachen könntest du gut am Auswahltag teilnehmen?</label>
     <div class="control">
-        <input class="input" type="text" placeholder="" maxlength="60" name="language_application_day">
+        <div class="select">
+            <select name="language_application_day">
+                <option>Deutsch</option>
+                <option>Englisch</option>
+                <option>Beides</option>
+            </select>
+        </div>
     </div>
 </div>
--->
+
 
 <!--
 <div class="field">
@@ -166,7 +241,7 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
     </div>
 </div>
 -->		
-<!--
+
 <div class="field">
     <label class="label" for="knowledge_ca"> Wie bist du auf das CA gekommen? </label>
 	<div class="control">
@@ -201,6 +276,5 @@ Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehm
 </div>
 
  </form>
- -->
 
 <!-- {{< einziehen-signup >}} -->
