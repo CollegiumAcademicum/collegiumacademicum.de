@@ -24,7 +24,7 @@ The next possible move-in date is January 1st 2027. You can apply for this using
 <div class="field">
     <label class="label" for="preferred_name">What is your preferred first name?</label>
 	<div class="control has-icons-left">
-        <input type="text" name="preferred_name" value="" class="input" maxlength="100" required/>
+        <input type="text" name="preferred_name" value="" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -33,7 +33,7 @@ The next possible move-in date is January 1st 2027. You can apply for this using
 <div class="field">
     <label class="label" for="pronouns">What are your pronouns? </label>
 	<div class="control has-icons-left">
-        <input type="text" name="pronouns" value="" class="input" maxlength="100" required/>
+        <input type="text" name="pronouns" value="" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
