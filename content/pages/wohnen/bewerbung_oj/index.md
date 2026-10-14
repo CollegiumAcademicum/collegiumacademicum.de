@@ -24,7 +24,7 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich
 <div class="field">
     <label class="label" for="preferred_name">Mit welchem Namen möchtest du gerne angesprochen werden?</label>
 	<div class="control has-icons-left">
-        <input type="text" name="preferred_name" value="" class="input" maxlength="100" required/>
+        <input type="text" name="preferred_name" value="" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
@@ -33,7 +33,7 @@ Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Dafür kannst du dich
 <div class="field">
     <label class="label" for="pronouns">Mit welchen Pronomen möchtest du gerne angesprochen werden?</label>
 	<div class="control has-icons-left">
-        <input type="text" name="pronouns" value="" class="input" maxlength="100" required/>
+        <input type="text" name="pronouns" value="" class="input" maxlength="100" />
         <span class="icon is-small is-left">
             <i class="icon-user"></i>
         </span>
