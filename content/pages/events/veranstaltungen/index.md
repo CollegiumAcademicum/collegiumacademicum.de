@@ -22,8 +22,6 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
-**September 2026** |
-Sa, 19.9., 14-19 Uhr | <a href="https://stadt-land-spielt.de/">Stadt-Land-Spielt</a> in unserer Aula, s.a. <a href="{{< relref "/aktuelles" >}}">Aktuelles</a> |
-So, 20.9., 14-19 Uhr | <a href="https://stadt-land-spielt.de/">Stadt-Land-Spielt</a> in unserer Aula |
 **November 2026** |
+Fr, 6.11., 19:30 | <a href="https://collegiumacademicum.de/aktuelles/">Lesung "Philosophenweg"</a> von Thomas Selig
 Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
