@@ -14,7 +14,7 @@ Am <b>25.10.</b> findet ein freiwilliger Infoabend statt.</p>
 
 <b>So nimmst du teil:</b>
 Komm einfach ins CA.
-Oder schreib uns eine Mail. Dann schicken wir dir einen Link für die Online-Teilnahme.</p>
+Oder schreib uns eine Mail an einziehen@collegiumacademicum.de. Dann schicken wir dir einen Link für die Online-Teilnahme.</p>
 
 <b>Warum lohnt sich das?</b>
 Du bekommst ein Gefühl dafür, was Selbstverwaltung bedeutet. Und du merkst, ob das Leben im CA zu dir passt.</p>
