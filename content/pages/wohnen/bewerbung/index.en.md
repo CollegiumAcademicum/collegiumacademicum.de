@@ -14,7 +14,7 @@ The next possible move-in date is January 1st 2027. If you would like to move in
 An optional information session will take place on the <b>25th of October</b>.</p>
 <b>Here’s how to participate:</b>
 Just come to the CA.
-Or send us an email. We’ll then send you a link to participate online.</p>
+Or send us an email at einziehen@collegiumacademicum.de. We’ll then send you a link to participate online.</p>
 <b>Why is this worth it?</b>
 You’ll get a feel for what self-governance means. And you’ll see if life at the CA is right for you.</p>
 <b>Important:</b>
