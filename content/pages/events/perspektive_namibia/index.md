@@ -16,6 +16,7 @@ novoigl: yes
         <span>Instagram</span>
    </a>
 
+<br><br>
 <p style="text-align: justify">
 Von deutschem Kolonialismus und Völkermord bis zu neokolonialer Ausbeutung: Über Generationen des Widerstands der Ovaherero und Nama, den Kampf um Ressourcen, Selbstbestimmung und Klimagerechtigkeit und die Frage, was Versöhnung und Wiedergutmachung nach einem Genozid bedeutet.</p>
 
