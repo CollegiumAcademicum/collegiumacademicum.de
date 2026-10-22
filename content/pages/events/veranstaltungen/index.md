@@ -25,3 +25,5 @@ Datum | Veranstaltung
 **November 2026** |
 Fr, 6.11., 19:30 | <a href="https://collegiumacademicum.de/aktuelles/">Lesung "Philosophenweg"</a> von Thomas Selig
 Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
+**Februar 2027** |
+12.02. - 14.02. | <a href="https://collegiumacademicum.de/namibia/">Perspektive Widerstand: Namibia</a>

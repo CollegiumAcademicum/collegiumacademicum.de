@@ -9,6 +9,14 @@ novoigl: yes
         <div class="columns">
             <div class="column has-text-centered">
                 <div>
+                    <p><a href="{{< relref "/perspektive_namibia" >}}"><img src="/namibia/sharepic_namibia.jpg" alt="Sharepic for perspective Namibia" width="500" /></a></p>
+                    <p><a class="button is-mobile-fullwidth" href="{{< relref "/perspektive_namibia" >}}">2027: Perspective Namibia</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column has-text-centered">
+                <div>
                     <p><a href="{{< relref "/westsahara" >}}"><img src="/westsahara/westsahara_banner.png" alt="Sharepic for the Western Sahara Conference" width="500" /></a></p>
                     <p><a class="button is-mobile-fullwidth" href="{{< relref "/westsahara" >}}">2026: Western Sahara Conference</a></p>
                 </div>
