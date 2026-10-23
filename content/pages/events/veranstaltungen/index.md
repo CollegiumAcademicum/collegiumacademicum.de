@@ -22,6 +22,8 @@ Eine aktuelle Übersicht über kommende Veranstaltungen bei uns findest du in de
 
 Datum | Veranstaltung 
 -------- | -------- 
+**Oktober 2026** |
+Fr, 30.10., 17:00 | <a href="https://www.instagram.com/p/Dd32mMmDlh8/">Eine musikalische Reise nach Aventasien</a> - ocassioon
 **November 2026** |
 Fr, 6.11., 19:30 | <a href="https://collegiumacademicum.de/aktuelles/">Lesung "Philosophenweg"</a> von Thomas Selig
 Sa, 28.11. | <a href="https://www.instagram.com/p/DWgb3mQCIfc/">Zine Fair Heidelberg</a> (Solarpunk Heidelberg & Queerfeministisches Kollektiv Heidelberg)
