@@ -33,8 +33,8 @@ Wo: COLLEGIUM ACADEMICUM, HEIDELBERG</b>
 <!--</blockquote>-->
 
 <a class="button is-primary"
-href=""
-style="font-weight:bold; width:20em">Hier geht's bald zur Anmeldung</a>
+href="https://cacloud.ca-hd.de/index.php/apps/forms/s/3Ai9q5DQeJ8LzwtfZXTjAxeS"
+style="font-weight:bold; width:20em">Hier geht's zur Anmeldung</a>
 
 <p style="text-align: justify">
 In den kommenden Wochen halten wir euch hier über das Programm auf dem Laufenden! Für Schlafmöglichkeiten, sowie leckeres Essen wird gesorgt – auch hier folgen bald weitere Infos.

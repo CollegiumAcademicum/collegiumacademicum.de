@@ -32,8 +32,8 @@ Where: COLLEGIUM ACADEMICUM, HEIDELBERG</b>
 <!--</blockquote>-->
 
 <a class="button is-primary"
-href=""
-style="font-weight:bold; width:20em">Registration will open here soon</a>
+href="https://cacloud.ca-hd.de/index.php/apps/forms/s/3Ai9q5DQeJ8LzwtfZXTjAxeS"
+style="font-weight:bold; width:20em">Registration</a>
 
 <p style="text-align: justify">
 Over the coming weeks, we’ll be keeping you updated here on the programme! Accommodation and delicious food will be provided – more information on this will follow shortly.
