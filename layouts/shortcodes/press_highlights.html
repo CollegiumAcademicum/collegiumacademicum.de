@@ -1,5 +1,5 @@
 {{ $press := $.Site.Data.bibliography.press_highlights.press }}
-{{ $years := slice "2024" "2023" "2022" "2021" "2020" "2019" "2018"}}
+{{ $years := slice "2026" "2025" "2024" "2023" "2022" "2021" "2020" "2019" "2018"}}
 {{ range $year := $years }}
 <h3>{{ $year }}</h3>
 <ul class="citation-list">
@@ -22,10 +22,44 @@
 			<source src="/media/{{ .video }}.mp4" type="video/mp4">
 		</video>
 		{{ else if isset . "embed_link" }}
-		<iframe src="{{ .embed_link }}" frameborder="0" allowfullscreen="true">
+		<iframe src="{{ .embed_link }}?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin">
 		</iframe>
+        <div id="player">YouTube video player</div>
         {{ end }}
     </li>
 {{ end }}
 </ul>
 {{ end }}
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+
+  var player;
+
+  function onYouTubeIframeAPIReady() {
+
+    player = new YT.Player('player', {
+
+      height: '360',
+
+      width: '640',
+
+      videoId: 'YOUR_VIDEO_ID',
+
+      events: {
+
+        'onReady': onPlayerReady
+
+      }
+
+    });
+
+  }
+
+  function onPlayerReady(event) {
+
+    event.target.playVideo();
+
+  }
+
+</script>
