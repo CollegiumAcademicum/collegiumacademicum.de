@@ -30,36 +30,3 @@
 {{ end }}
 </ul>
 {{ end }}
-
-<script src="https://www.youtube.com/iframe_api"></script>
-<script>
-
-  var player;
-
-  function onYouTubeIframeAPIReady() {
-
-    player = new YT.Player('player', {
-
-      height: '360',
-
-      width: '640',
-
-      videoId: 'YOUR_VIDEO_ID',
-
-      events: {
-
-        'onReady': onPlayerReady
-
-      }
-
-    });
-
-  }
-
-  function onPlayerReady(event) {
-
-    event.target.playVideo();
-
-  }
-
-</script>
