@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Selig liest aus seinem Roman "Philosophenweg"'
-date: 2026-10-14
+date: 2026-11-01
 ---
 
 <b>Buchlesung am Freitag, 6.11.2026, um 19.30 Uhr</b>
