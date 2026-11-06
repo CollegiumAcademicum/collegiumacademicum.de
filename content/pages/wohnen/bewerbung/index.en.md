@@ -9,21 +9,22 @@ novoigl: yes
 
 Moving-in is always possible at the beginning of a quarter (January 1, April 1, July 1 and October 1). 
 
-The next possible move-in date is January 1st 2027. If you would like to move in in January, you can apply here <b>until Friday, November 6th 2026, 4 pm</b> at the latest.</p>
+<!--The next possible move-in date is January 1st 2027. If you would like to move in in January, you can apply here <b>until Friday, November 6th 2026, 4 pm</b> at the latest.</p>-->
 
-An optional information session will take place on the <b>25th of October</b>.</p>
+<!--An optional information session will take place on the <b>25th of October</b>.</p>
 <b>Here’s how to participate:</b>
 Just come to the CA.
 Or send us an email at einziehen@collegiumacademicum.de. We’ll then send you a link to participate online.</p>
 <b>Why is this worth it?</b>
 You’ll get a feel for what self-governance means. And you’ll see if life at the CA is right for you.</p>
 <b>Important:</b>
-Your participation will not be documented. It does not give you any direct advantage on selection day.
+Your participation will not be documented. It does not give you any direct advantage on selection day.-->
 
-<!--Unfortunately, we can no longer accept applications for the move-in in October 2026. <b>The next possible move-in date is January 1, 2027.</b> From the beginning of October you will find our application form on this site.-->
+Unfortunately, we can no longer accept applications for the move-in in January 2027. <b>The next possible move-in date is April 1, 2027.</b> From the beginning of January you will find our application form on this site.
 
 <!-- Here you can sign up for our moving-in newsletter. Then we will inform you directly as soon as the application process has started.</p> -->
 
+<!--
 <h2>General</h2>
 <div class="field">
 <label class="label" for="full_name">Name *</label>
@@ -53,9 +54,10 @@ Your participation will not be documented. It does not give you any direct advan
         </span>
     </div>
 </div>
+-->
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt.-->
-
+<!--
 <div class="field extra-field">
     <label class="label" for="mail">Please do not enter your email address here.</label>
     <div class="control has-icons-left">
@@ -63,9 +65,9 @@ Your participation will not be documented. It does not give you any direct advan
             id="mail" size="55"/>
     </div>
 </div>
+-->
 
-
-
+<!--
 <div class="field">
     <label class="label" for="age">Birthday *</label>
     <div class="control">
@@ -105,7 +107,7 @@ Your participation will not be documented. It does not give you any direct advan
 <div class="field">
     <label class="label" for="sonstiges">Please tell us a little more about you personally:</label>
     <div class="control">
-        <textarea name="sonstiges" class="textarea" placeholder="Optional" maxlength="1000"></textarea>
+        <textarea name="sonstiges" class="textarea" placeholder="" maxlength="1000" required></textarea>
     </div>
 </div>
 <h2>Diversity</h2>
@@ -224,6 +226,7 @@ Your participation will not be documented. It does not give you any direct advan
         </div>
     </div>
 </div>
+-->
 
 <!--
 <div class="field">
@@ -234,6 +237,7 @@ Your participation will not be documented. It does not give you any direct advan
 </div>
 -->	
 
+<!--
 <div class="field">
     <label class="label" for="knowledge_ca"> How do you know about the CA? </label>
 	<div class="control">
@@ -267,5 +271,6 @@ Your participation will not be documented. It does not give you any direct advan
 </div> 
 
  </form>
+ -->
 
 <!-- {{< einziehen-signup >}} -->
