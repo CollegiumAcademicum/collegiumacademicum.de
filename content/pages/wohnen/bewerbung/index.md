@@ -112,7 +112,7 @@ Für den Einzug im Januar 2027 können wir leider keine Bewerbungen mehr annehme
 <div class="field">
     <label class="label" for="sonstiges">Erzähl uns gerne noch etwas über dich persönlich:</label>
     <div class="control">
-        <textarea name="sonstiges" class="textarea" placeholder="Pflichtfeld" maxlength="1000" required></textarea>
+        <textarea name="sonstiges" class="textarea" placeholder="" maxlength="1000" required></textarea>
     </div>
 </div>
 <h2>Diversität</h2>
