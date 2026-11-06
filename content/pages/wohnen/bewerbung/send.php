@@ -13,9 +13,9 @@ require '../../php_libs/IPLogger/ip-logging.php';
 $log_file = 'spam-protection.log';
 
 // NOTE:The field mail is a fake field for spam protection
-$fields = ['full_name', 'email', 'age', 'phone', 'mail', 'leitbild', 'selbstverwaltung',
+$fields = ['full_name', 'email', 'age', 'phone', 'leitbild', 'selbstverwaltung',
 'sonstiges', 'activity_in_ca', 'occupation', 'occupation_subject', 'pronouns', 'flinta',
-'barrier_free', 'children', 'language_application_day', 'spam_protection', 'knowledge_ca', 'already_applied', 'move_in_date'];
+'barrier_free', 'children', 'language_application_day', 'spam_protection', 'knowledge_ca', 'already_applied', 'move_in_date', 'mail'];
 
 $i18n = [
     "de" => [
