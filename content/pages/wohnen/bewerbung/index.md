@@ -8,9 +8,10 @@ novoigl: yes
 <p>Schön, dass du Lust hast, in unser Wohnheim einzuziehen!
 
 Wir haben immer zum Anfang eines Quartals (zum 1. Oktober, 1. Januar, 1. April und 1. Juli) freie Zimmer, für die wir neue Mitbewohner*innen suchen. 
-Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Januar bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben.</p>
 
-Am <b>25.10.</b> findet ein freiwilliger Infoabend statt.</p>
+<!--Der nächstmögliche Einzugstermin ist der 1. Januar 2027. Falls du im Januar bei uns einziehen möchtest, kannst du dich ab sofort <b>bis spätestens Freitag, 6. November um 16 Uhr </b> hier dafür bewerben.</p>-->
+
+<!--Am <b>25.10.</b> findet ein freiwilliger Infoabend statt.</p>
 
 <b>So nimmst du teil:</b>
 Komm einfach ins CA.
@@ -20,13 +21,13 @@ Oder schreib uns eine Mail an einziehen@collegiumacademicum.de. Dann schicken wi
 Du bekommst ein Gefühl dafür, was Selbstverwaltung bedeutet. Und du merkst, ob das Leben im CA zu dir passt.</p>
 
 <b>Wichtig:</b>
-Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil beim Auswahltag.
+Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil beim Auswahltag.-->
 
-<!--Für den Einzug im Oktober 2026 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. Januar 2027.</b> Ab Anfang Oktober wirst du an dieser Stelle unser Bewerbungsformular finden.-->
+Für den Einzug im Januar 2027 können wir leider keine Bewerbungen mehr annehmen. <b>Der nächstmögliche Einzugstermin ist der 1. April 2027.</b> Ab Anfang Januar wirst du an dieser Stelle unser Bewerbungsformular finden.
 
 <!-- Hier kannst du dich in unseren E-Mail-Verteiler eintragen. Dann informieren wir dich direkt, sobald das Bewerbungsverfahren startet.</p> -->
 
-
+<!-- 
 <h2>Allgemein</h2>
 <div class="field">
     <label class="label" for="full_name">Name *</label>
@@ -37,6 +38,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
         </span>
     </div>
 </div>
+
 <div class="field">
     <label class="label" for="email">E-Mail *</label>
     <div class="control has-icons-left">
@@ -56,6 +58,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
         </span>
     </div>
 </div> 
+-->
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
 <div class="field extra-field">
@@ -67,7 +70,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
     </div> 
 </div>
 
-
+<!-- 
 <div class="field">
     <label class="label" for="age">Geburtstag *</label>
     <div class="control">
@@ -231,7 +234,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
         </div>
     </div>
 </div>
-
+ -->
 
 <!--
 <div class="field">
@@ -242,6 +245,7 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
 </div>
 -->		
 
+<!--
 <div class="field">
     <label class="label" for="knowledge_ca"> Wie bist du auf das CA gekommen? </label>
 	<div class="control">
@@ -276,5 +280,6 @@ Deine Teilnahme wird nicht dokumentiert. Sie bringt dir keinen direkten Vorteil 
 </div>
 
  </form>
+ -->
 
 <!-- {{< einziehen-signup >}} -->
