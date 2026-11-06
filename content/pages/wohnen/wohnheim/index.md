@@ -12,11 +12,11 @@ eingezogen und gestalten das CA hin zu einem Ort des gemeinschaftlichen, nachhal
 <br><br>
 In unserem Wohnheim werden seitdem regelmäßig Zimmer frei, für die wir neue Bewohner*innen suchen.
 Ein Einzug ist immer zum Anfang eines Quartals möglich (zum 1. Oktober, 1. Januar, 1. April und 1. Juli).
-<!--Die Bewerbungsfrist für den Einzug im Oktober 2026 ist leider schon vorbei. -->
+Die Bewerbungsfrist für den Einzug im Januar 2027 ist leider schon vorbei.
 <!-- Du kannst dich aber gern noch auf ein Zimmer im Altbau bewerben – für mehr Informationen schau gern einmal unter <a href="/zimmer_altbau">Zimmer im Altbau</a> -->
-Der nächstmögliche Einzugstermin ist der 1. Januar 2027. 
-<!--Dafür kannst du dich ab Anfang Oktober über das Bewerbungsformular hier auf unserer Internetseite bewerben. -->
-Dafür kannst du dich <b>bis spätestens Freitag, 6. November um 16 Uhr</b> über das Bewerbungsformular hier auf unserer Internetseite bewerben. 
+Der nächstmögliche Einzugstermin ist der 1. April 2027. 
+Dafür kannst du dich ab Anfang Januar über das Bewerbungsformular hier auf unserer Internetseite bewerben.
+<!--Dafür kannst du dich <b>bis spätestens Freitag, 6. November um 16 Uhr</b> über das Bewerbungsformular hier auf unserer Internetseite bewerben.-->
 <!--Auf Antrag können wir auch Bewerbungen für den darauffolgenden Auswahltag annehmen, bei solchen Sonderfällen bitten wir um eine kurze Mail :).-->
 <br><br> 
 Die häufigsten Fragen zur Bewerbung sind in unseren <a href="/faq">FAQ</a> beantwortet.
@@ -38,7 +38,7 @@ Wenn du weitere Fragen hast, dann schreib uns einfach eine Nachricht an
 </div>
 
 <p style="text-align:justify">
-Ein Zimmer in unserem Neubau kostet insgesamt 375 € pro Monat (350,20 € Warmmiete plus ca. 25 € Kosten für Strom und Internet).
+Ein Zimmer in unserem Neubau kostet insgesamt 400 € pro Monat (380 € Warmmiete plus ca. 20 € Kosten für Strom und Internet).
 Als selbstverwaltetes Wohnprojekt wollen wir mit den Einnahmen keinen Gewinn erzielen, sondern bemühen uns, die
 Mieten so gering wie möglich zu halten.
 Einen Einblick in die Finanzierung des Projekts erhältst du <a href="/finanzierung">hier</a>.
