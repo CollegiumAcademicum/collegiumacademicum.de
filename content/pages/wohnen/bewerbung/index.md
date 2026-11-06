@@ -61,7 +61,7 @@ Für den Einzug im Januar 2027 können wir leider keine Bewerbungen mehr annehme
 -->
 
 <!-- Schutz vor der Benutzung des Formulars mit Computern. Es ist wird nicht angezeigt. -->
-<div class="field extra-field">
+<!--<div class="field extra-field">
     <label class="label" for="mail">Deine E-Mail-Adresse wird hier nicht
     abgefragt, trage bitte hier nichts ein.</label>
     <div class="control has-icons-left">
@@ -69,6 +69,7 @@ Für den Einzug im Januar 2027 können wir leider keine Bewerbungen mehr annehme
             id="mail" size="55"/>
     </div> 
 </div>
+-->
 
 <!-- 
 <div class="field">
