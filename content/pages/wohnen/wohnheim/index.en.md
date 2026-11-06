@@ -10,13 +10,13 @@ After a long planning and construction phase, the first 176 residents finally mo
 
 In our dormitory, we are regularly looking for new residents to fill vacant rooms.
 Moving-in is always possible at the beginning of a quarter (October 1, January 1, April 1, and July 1).
-<!--Unfortunately, applications for October 2026 move-in are already closed.-->
-The next possible move-in date is January 1, 2027.
-<!--You can apply for this starting from the beginning of October via the application form below. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  -->
-You can apply for this <b>until Friday, November 6th, 4 pm at the latest</b> via the application form here on our website. 
-<!--On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).  -->
+Unfortunately, applications for the January 2027 move-in are already closed.
+The next possible move-in date is April 1, 2027.
+You can apply for this starting from the beginning of January via the application form below. On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).
+<!--You can apply for this <b>until Friday, November 6th, 4 pm at the latest</b> via the application form here on our website.-->
+<!--On request we can also accept applications for the following move-in, in such special cases please send us a short mail :).-->
 
-We have answered to the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
+We have answered the most common questions in [our FAQ](/en/faq). If you have further questions, you can write us a message at einziehen@collegiumacademicum.de.
 
 <div class="columns" style="margin-top: 2em;">
     <div class="column">
@@ -31,7 +31,7 @@ We have answered to the most common questions in [our FAQ](/en/faq). If you have
     </div>
 </div>
 
-A room in our dormitory costs a total of 375 € per month (350,20 € warm rent plus about 25 € costs for electricity and internet).
+A room in our dormitory costs a total of 400 € per month (380 € warm rent plus about 20 € costs for electricity and internet).
 As a self-managed housing project, we don't want to make a profit with the income, but instead we try to keep the rents as low as possible. You can get an overview of the project's funding [here](/en/funding).
 
 <div class="columns" style="margin-top: 2em;">
