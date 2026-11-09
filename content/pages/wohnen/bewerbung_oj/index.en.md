@@ -9,7 +9,7 @@ novoigl: yes
 
 Unfortunately, applications are closed right now.
 
-The next possible move-in date is April 1st 2027. You can apply for this <!--using the application form below.—-> starting beginning of January. The application day will take place on the 28th of February 2027. We are looking forward to meeting you!</p> 
+The next possible move-in date is April 1st 2027. You can apply for this <!--using the application form below.--> starting beginning of January. The application day will take place on the 28th of February 2027. We are looking forward to meeting you!</p> 
 <!--
  <h2>General information</h2>
 <div class="field">
