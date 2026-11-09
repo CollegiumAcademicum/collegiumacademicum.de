@@ -6,9 +6,7 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-You want to move into one of our rooms in the old building in January 2027? Then apply right here until the 8th of November: <!-- <br>As we are currently updating our application process, please use the application available under <a href="{{< relref "/wohnheim" >}}">Dorm</a> and state your interest in a room in the old building in the corresponding line.<br>We are looking forward to meeting you! -->
-
-<!--You would like to be part of our project and can imagine living here? -->
+<!-- You want to move into one of our rooms in the old building in January 2027? Then apply right here until the 8th of November: -->
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
@@ -18,9 +16,9 @@ You want to move into one of our rooms in the old building in January 2027? Then
         <span>Apply now!</span>
     </a>
 </div>
-    
-<!--Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is January 1, 2027. You can apply for this from the beginning of October on. -->
-The application day will take place on the 29th of November. We are looking forward to meeting you!
+    -->
+Awesome that you're interested in a room in our old building! We are currently not accepting any further applications for rooms in the old building. The next move-in date is April 1, 2027. You can apply for this from the beginning of January on.
+The application day will take place on the 28th of February. We are looking forward to meeting you!
 
 </div> 
 <!-- <b>We are currently not accepting any further applications for temporary rooms. --> <!-- The next move-in date is October 1, 2025. You can apply for this from the beginning of July on. --> </b> 
@@ -86,7 +84,7 @@ Yes, each flat has its own wifi and the common rooms in the old and new building
 {{< accordion "Questions about the application process" >}}
 
 {{< accordion "When can I move in?" >}}
-<!--We are currently not accepting any further applications. --> The next move-in date is January 1. You can apply for this using the application form above. <!-- starting beginning of October. --> <!-- You can find the application form under <a href="{{< relref "/wohnheim" >}}">Dorm</a>. Please state your interest in a room in the old building in the corresponding line.<br> --> We are looking forward to meeting you!
+We are currently not accepting any further applications. The next move-in date is April 1. You can apply for this <!-- using the application form above.—-> starting beginning of January. We are looking forward to meeting you!
 {{< /accordion >}}
 {{< accordion "How does the application process work?" >}}
 During the application phase, there is an application form which you can find above. Once you have submitted your application, we will get back to you with further information and, if applicable, an invitation to meet us in person. Feel free to browse our website and get familiar with our project.
