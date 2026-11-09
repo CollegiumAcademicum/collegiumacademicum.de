@@ -6,7 +6,7 @@ novoigl: yes
 
 <p style="text-align:justify">
 <div class="notification is-primary">
-<!—- Du hast Interesse an einem Zimmer im Altbau ab Januar 2027? Dann bewirb dich bis zum 08. November hier: 
+<!-- Du hast Interesse an einem Zimmer im Altbau ab Januar 2027? Dann bewirb dich bis zum 08. November hier: 
 
 <div class="buttons is-centered">
     <a href="{{< relref "/bewerbung_oj" >}}" class="button is-medium is-primary">
